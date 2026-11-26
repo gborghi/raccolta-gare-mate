@@ -47,7 +47,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -59,7 +59,7 @@ level: OBM Nível 2
 ![[src_obm_2001_n2_f2__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
@@ -75,7 +75,7 @@ level: OBM Nível 2
 ![[src_obm_2001_n2_f2__q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 

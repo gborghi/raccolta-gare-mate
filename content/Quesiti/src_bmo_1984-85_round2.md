@@ -43,7 +43,7 @@ level: BMO Round 2
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,7 +53,7 @@ level: BMO Round 2
 > A positive integer is called evil if the number of $1$s in its binary expansion is even. For example $18 = (10010)_2$ is evil. Find the sum of the first $1985$ evil positive integers.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
@@ -67,7 +67,7 @@ level: BMO Round 2
 > Un intero positivo si dice malvagio se il numero di $1$ nella sua scrittura binaria è pari. Per esempio $18 = (10010)_2$ è malvagio. Trovare la somma dei primi $1985$ interi positivi malvagi.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 

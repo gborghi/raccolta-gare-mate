@@ -442,7 +442,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_geometria_analitica,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_geometria_analitica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -454,7 +454,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2011_g2__q13.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** $(44, 13)$
@@ -471,7 +471,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 ![[src_bocconi_finaleint_2011_g2__q13.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_ricorsione|Recursion]], [[skill_riconoscimento_pattern|skill_PatternRecognition]]
+**Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 

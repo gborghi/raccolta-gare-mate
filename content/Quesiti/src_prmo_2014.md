@@ -44,7 +44,7 @@ level: PRMO
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,7 +54,7 @@ level: PRMO
 > The first term of a sequence is 2014. Each succeeding term is the sum of the cubes of the digits of the previous term. What is the $2014^{\text{th}}$ term of the sequence?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
@@ -69,7 +69,7 @@ level: PRMO
 > Il primo termine di una successione è 2014. Ogni termine successivo è la somma dei cubi delle cifre del termine precedente. Qual è il termine $2014^{\text{th}}$ della successione?
 
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 2

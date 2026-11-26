@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -24,7 +24,6 @@ level: RMO
 *Appears in regions: Mumbai, Region 5.*
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
@@ -42,7 +41,6 @@ level: RMO
 *Compare nelle regioni: Mumbai, Regione 5.*
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
@@ -214,7 +212,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -227,7 +225,7 @@ level: RMO
 *Appears in regions: Mumbai, Region 5.*
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
@@ -244,7 +242,7 @@ level: RMO
 *Compare nelle regioni: Mumbai, Regione 5.*
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 

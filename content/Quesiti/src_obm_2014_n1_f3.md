@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -28,7 +28,7 @@ level: OBM Nível 1
 ![[src_obm_2014_n1_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
@@ -50,7 +50,7 @@ level: OBM Nível 1
 ![[src_obm_2014_n1_f3__q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 

@@ -10,7 +10,7 @@ level: JJMO Honsen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,skill_manipolazione_algebrica,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,7 +21,7 @@ level: JJMO Honsen
 > $$( a+b)(c+d) \ge (a+c)(b+d).$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
@@ -36,7 +36,7 @@ level: JJMO Honsen
 > $$( a+b)(c+d) \ge (a+c)(b+d).$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
 

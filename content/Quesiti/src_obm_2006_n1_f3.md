@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -30,7 +30,7 @@ level: OBM Nível 1
 > (c) The sequence $S_3$ terminates when the first term repeats. How many terms does $S_3$ have?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
@@ -54,7 +54,7 @@ level: OBM Nível 1
 > (c) La successione $S_3$ termina quando il primo termine si ripete. Quanti termini ha $S_3$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 

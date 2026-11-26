@@ -214,7 +214,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_ricorsione,skill_stima,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_stima,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -227,7 +227,7 @@ level: IMO
 > $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[skill_stima|skill_stima]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
@@ -244,7 +244,7 @@ level: IMO
 > $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[skill_stima|skill_stima]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 

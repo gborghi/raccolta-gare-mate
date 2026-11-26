@@ -142,7 +142,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,7 +154,6 @@ level: OBM Nível 2
 > Determine the integer closest to $\dfrac{z}{y}$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
@@ -170,7 +169,6 @@ level: OBM Nível 2
 > Determinare l'intero più vicino a $\dfrac{z}{y}$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 

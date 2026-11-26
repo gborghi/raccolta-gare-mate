@@ -220,7 +220,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -236,7 +236,7 @@ level: OBM Nível 2
 > E) 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
@@ -257,7 +257,7 @@ level: OBM Nível 2
 > E) 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
@@ -729,7 +729,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_algebra,method_induzione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_algebra,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -751,7 +751,7 @@ level: OBM Nível 2
 > E) 196
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
@@ -778,7 +778,7 @@ level: OBM Nível 2
 > E) 196
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 

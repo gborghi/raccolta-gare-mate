@@ -42,7 +42,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,7 +52,7 @@ level: OBM Nível 1
 > In the sequence of numbers $1, a, 2, b, c, d, \ldots$ the first term is $1$, the second term is $a$, the third term is $2$, the fourth term is $b$, and so on. It is known that this sequence has 2005 terms and that each term, from the third onward, is the arithmetic mean of the two preceding terms. What is the last (2005th) term of this sequence?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
@@ -66,7 +66,7 @@ level: OBM Nível 1
 > Nella successione di numeri $1, a, 2, b, c, d, \ldots$ il primo termine è $1$, il secondo termine è $a$, il terzo termine è $2$, il quarto termine è $b$, e così via. Si sa che questa successione ha 2005 termini e che ciascun termine, a partire dal terzo, è la media aritmetica dei due termini precedenti. Qual è l'ultimo termine (il 2005º) di questa successione?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 

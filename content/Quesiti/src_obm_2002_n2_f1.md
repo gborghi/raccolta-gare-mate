@@ -791,7 +791,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -809,7 +809,7 @@ level: OBM Nível 2
 ![[src_obm_2002_n2_f1__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
@@ -832,7 +832,7 @@ level: OBM Nível 2
 ![[src_obm_2002_n2_f1__q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 

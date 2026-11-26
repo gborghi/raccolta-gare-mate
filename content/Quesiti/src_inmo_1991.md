@@ -86,7 +86,7 @@ level: INMO
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -98,7 +98,7 @@ level: INMO
 > Prove that $x + y + z + xyz = 0$.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
@@ -114,7 +114,7 @@ level: INMO
 > Dimostrare che $x + y + z + xyz = 0$.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 

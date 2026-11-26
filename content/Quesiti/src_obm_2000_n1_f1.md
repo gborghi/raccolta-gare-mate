@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -26,7 +26,6 @@ level: OBM Nível 1
 > (A) $29$ \quad (B) $99$ \quad (C) $72$ \quad (D) $41$ \quad (E) $81$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
@@ -47,7 +46,6 @@ level: OBM Nível 1
 > (A) $29$ \quad (B) $99$ \quad (C) $72$ \quad (D) $41$ \quad (E) $81$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
@@ -472,7 +470,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,skill_riconoscimento_pattern,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -495,7 +493,7 @@ level: OBM Nível 1
 > (A) $F$ \quad (B) $B$ \quad (C) $C$ \quad (D) $I$ \quad (E) $A$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
@@ -523,7 +521,7 @@ level: OBM Nível 1
 > (A) $F$ \quad (B) $B$ \quad (C) $C$ \quad (D) $I$ \quad (E) $A$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 

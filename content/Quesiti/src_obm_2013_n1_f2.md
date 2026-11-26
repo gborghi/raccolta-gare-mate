@@ -219,7 +219,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -238,7 +238,7 @@ level: OBM Nível 1
 ![[src_obm_2013_n1_f2__q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
@@ -261,7 +261,7 @@ level: OBM Nível 1
 ![[src_obm_2013_n1_f2__q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 

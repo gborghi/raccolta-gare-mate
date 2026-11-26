@@ -10,7 +10,7 @@ level: BMO Round 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,7 +22,7 @@ level: BMO Round 2
 > Find the $2015$th term $x_{2015}$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
@@ -38,7 +38,7 @@ level: BMO Round 2
 > Trova il termine $x_{2015}$ di posto $2015$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 

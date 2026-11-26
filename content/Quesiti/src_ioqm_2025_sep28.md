@@ -138,7 +138,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,method_conteggio,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,method_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,7 +150,7 @@ level: IOQM
 > What is the remainder when $N$ is divided by 100?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
@@ -166,7 +166,7 @@ level: IOQM
 > Qual è il resto della divisione di $N$ per 100?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
@@ -302,7 +302,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -312,7 +312,7 @@ level: IOQM
 > Find the largest positive integer $n$ for which the inequality $\sum_{k=1}^{2n}(-1)^k k^2 < 100$ holds.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
@@ -326,7 +326,7 @@ level: IOQM
 > Trovare il più grande intero positivo $n$ per cui vale la disuguaglianza $\sum_{k=1}^{2n}(-1)^k k^2 < 100$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_telescoping|Somme telescopiche]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
@@ -466,7 +466,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -478,7 +478,7 @@ level: IOQM
 > find $a^2 + b^2 + c^2 + d^2$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
@@ -494,7 +494,7 @@ level: IOQM
 > trovare $a^2 + b^2 + c^2 + d^2$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
@@ -502,7 +502,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -514,7 +514,7 @@ level: IOQM
 > where $x_1, x_2, \ldots, x_7$ are positive integers, find $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 + x_7$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
@@ -530,7 +530,7 @@ level: IOQM
 > dove $x_1, x_2, \ldots, x_7$ sono interi positivi, trova $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 + x_7$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
@@ -666,7 +666,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_insiemi_funzioni,skill_manipolazione_algebrica,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_insiemi_funzioni,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -676,7 +676,7 @@ level: IOQM
 > Let $f : \mathbb{R} \to \mathbb{R}$ be a function satisfying $4f(3-x) + 3f(x) = x^2$ for any real $x$. Find the value of $f(27) - f(25)$ to the nearest integer.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
@@ -690,7 +690,7 @@ level: IOQM
 > Sia $f : \mathbb{R} \to \mathbb{R}$ una funzione che soddisfa $4f(3-x) + 3f(x) = x^2$ per ogni $x$ reale. Determinare il valore di $f(27) - f(25)$ arrotondato all'intero più vicino.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
@@ -862,7 +862,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -874,7 +874,7 @@ level: IOQM
 > What is the smallest possible value of $a + b$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
@@ -890,7 +890,7 @@ level: IOQM
 > Qual è il valore minimo possibile di $a + b$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 

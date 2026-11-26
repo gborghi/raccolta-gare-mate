@@ -306,7 +306,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -318,7 +318,7 @@ level: IOQM
 > Find $P(2)$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
@@ -334,7 +334,7 @@ level: IOQM
 > Trova $P(2)$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 

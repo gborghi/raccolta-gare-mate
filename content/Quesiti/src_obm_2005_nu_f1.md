@@ -10,7 +10,7 @@ level: OBM Nível Universitário
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,7 +20,7 @@ level: OBM Nível Universitário
 > Let $f : \mathbb{R} \to \mathbb{R}$ defined by $f(x) = x^3 + ax^2 + bx + c$, where $a$, $b$, $c$ are integers. It is known that $f(1) = f(-1) = 0$. The tangent lines to the graph of $f$ at the points $A = (-1,\,0)$ and $B = (1,\,0)$ intersect at point $C$. Compute the area of triangle $ABC$, knowing that this area is an integer.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
@@ -34,7 +34,7 @@ level: OBM Nível Universitário
 > Sia $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono interi. È noto che $f(1) = f(-1) = 0$. Le rette tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si intersecano nel punto $C$. Calcola l'area del triangolo $ABC$, sapendo che tale area è un numero intero.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 

@@ -752,7 +752,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,skill_riconoscimento_pattern,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -766,7 +766,7 @@ level: OBM Nível 2
 ![[src_obm_2000_n2_f1__q20.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
@@ -785,7 +785,7 @@ level: OBM Nível 2
 ![[src_obm_2000_n2_f1__q20.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 

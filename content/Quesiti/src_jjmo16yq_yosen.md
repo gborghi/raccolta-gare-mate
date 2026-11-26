@@ -10,7 +10,7 @@ level: JJMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,7 +22,7 @@ level: JJMO Yosen
 ![[src_jjmo16yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 121
@@ -39,7 +39,7 @@ level: JJMO Yosen
 ![[src_jjmo16yq_yosen__q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 

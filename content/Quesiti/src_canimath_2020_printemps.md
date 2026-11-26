@@ -100,7 +100,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -110,7 +110,7 @@ level: Coupe Animath Printemps
 > A number appears on a computer screen. We know that if $x$ appears on the screen, then the number $x^2 - 2x + 1$ appears just afterwards. If the first number to appear is $2$, what is the $2020$th number to appear?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)

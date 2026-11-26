@@ -78,7 +78,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,7 +94,7 @@ level: OBM Nível 3
 > is of the form $A - \dfrac{\pi^2}{B}$, where $A$ and $B$ are positive integers. Determine the value of $A + B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
@@ -114,7 +114,7 @@ level: OBM Nível 3
 > è della forma $A - \dfrac{\pi^2}{B}$, dove $A$ e $B$ sono interi positivi. Determinare il valore di $A + B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 

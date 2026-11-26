@@ -139,7 +139,7 @@ level: Senior Mathematical Challenge
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_stima,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -155,7 +155,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $25$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_stima|skill_stima]]
 **Abilita:** [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
@@ -176,7 +175,6 @@ level: Senior Mathematical Challenge
 > - **(E)** $25$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_stima|skill_stima]]
 **Abilita:** [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
@@ -280,7 +278,7 @@ level: Senior Mathematical Challenge
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_ricorsione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -296,7 +294,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $2006$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (D)
@@ -317,7 +315,7 @@ level: Senior Mathematical Challenge
 > - **(E)** $2006$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 

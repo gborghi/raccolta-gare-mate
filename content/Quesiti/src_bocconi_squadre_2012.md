@@ -542,7 +542,7 @@ level: Gara a Squadre
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -567,7 +567,7 @@ level: Gara a Squadre
 ![[src_bocconi_squadre_2012__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1081
@@ -597,7 +597,7 @@ level: Gara a Squadre
 ![[src_bocconi_squadre_2012__q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_ricorsione|Recursion]], [[skill_riconoscimento_pattern|skill_PatternRecognition]]
+**Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 

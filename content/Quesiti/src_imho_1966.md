@@ -42,7 +42,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,7 +54,7 @@ level: IMO
 > the triangle is isosceles.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
@@ -70,7 +70,7 @@ level: IMO
 > il triangolo è isoscele.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 

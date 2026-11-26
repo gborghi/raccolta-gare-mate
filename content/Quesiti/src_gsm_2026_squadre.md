@@ -342,6 +342,9 @@ level: squadre
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
 *Numeri n<10000 con N(N(n))=1*
 
 > N(n) somma delle cifre di n. Quanti interi positivi n minori di 10000 tali che N(N(n))=1?
@@ -351,6 +354,22 @@ level: squadre
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0286
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Numbers n<10000 with N(N(n))=1*
+
+> $N(n)$ is the sum of the digits of $n$. How many positive integers $n$ less than $10000$ are such that $N(N(n))=1$?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+**Answer:** 0286
+
+[[Quesiti/src_gsm_2026_squadre#q11|src_gsm_2026_squadre__Q11]]
 
 
 
@@ -389,6 +408,9 @@ level: squadre
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
 *Massimo 4a+2b con a+3b e 3a-b quadrati*
 
 > Tra le coppie di interi positivi a,b tali che a+3b e 3a-b sono quadrati perfetti, massimo valore inferiore a 10000 di 4a+2b.
@@ -398,6 +420,22 @@ level: squadre
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9850
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum of 4a+2b with a+3b and 3a-b perfect squares*
+
+> Among the pairs of positive integers $a$, $b$ such that $a+3b$ and $3a-b$ are perfect squares, what is the greatest value less than $10000$ of $4a+2b$?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+**Answer:** 9850
+
+[[Quesiti/src_gsm_2026_squadre#q13|src_gsm_2026_squadre__Q13]]
 
 
 

@@ -141,7 +141,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,7 +151,7 @@ level: IOQM
 > Let $a = \frac{x}{y} + \frac{y}{z} + \frac{z}{x}$, let $b = \frac{x}{z} + \frac{z}{x} + \frac{y}{x}$ and let $c = \left(\frac{x}{y} + \frac{y}{z}\right)\left(\frac{y}{z} + \frac{z}{x}\right)\left(\frac{z}{x} + \frac{x}{y}\right)$. The value of $|ab - c|$ is:
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
@@ -165,7 +165,7 @@ level: IOQM
 > Sia $a = \frac{x}{y} + \frac{y}{z} + \frac{z}{x}$, sia $b = \frac{x}{z} + \frac{z}{x} + \frac{y}{x}$ e sia $c = \left(\frac{x}{y} + \frac{y}{z}\right)\left(\frac{y}{z} + \frac{z}{x}\right)\left(\frac{z}{x} + \frac{x}{y}\right)$. Il valore di $|ab - c|$ è:
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
@@ -335,7 +335,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,skill_manipolazione_algebrica,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -348,7 +348,7 @@ level: IOQM
 > What is the value of $\frac{1}{a} + \frac{1}{b} + \frac{1}{c}$?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
@@ -365,7 +365,7 @@ level: IOQM
 > Qual è il valore di $\frac{1}{a} + \frac{1}{b} + \frac{1}{c}$?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
@@ -405,7 +405,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -417,7 +417,7 @@ level: IOQM
 > Find the value of $a$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
@@ -433,7 +433,7 @@ level: IOQM
 > Trova il valore di $a$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
@@ -505,7 +505,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_funzionali,topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -515,7 +515,7 @@ level: IOQM
 > Let $f : \mathbb{R} \to \mathbb{R}$ be a function satisfying the relation $4f(3-x) + 3f(x) = x^2$ for any real $x$. Find the value of $f(27) - f(25)$ to the nearest integer. (Here $\mathbb{R}$ denotes the set of real numbers.)
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
@@ -529,7 +529,7 @@ level: IOQM
 > Sia $f : \mathbb{R} \to \mathbb{R}$ una funzione che soddisfa la relazione $4f(3-x) + 3f(x) = x^2$ per ogni $x$ reale. Determinare il valore di $f(27) - f(25)$ arrotondato all'intero più vicino. (Qui $\mathbb{R}$ denota l'insieme dei numeri reali.)
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
@@ -698,7 +698,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -708,7 +708,7 @@ level: IOQM
 > In a triangle $ABC$, $\angle BAC = 90^\circ$. Let $D$ be the point on $BC$ such that $AB + BD = AC + CD$. Suppose $BD : DC = 2 : 1$. If $\frac{AC}{AB} = \frac{m + \sqrt{p}}{n}$, where $m, n$ are relatively prime positive integers and $p$ is a prime number, determine the value of $m + n + p$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
@@ -722,7 +722,7 @@ level: IOQM
 > In un triangolo $ABC$, $\angle BAC = 90^\circ$. Sia $D$ il punto su $BC$ tale che $AB + BD = AC + CD$. Si supponga $BD : DC = 2 : 1$. Se $\frac{AC}{AB} = \frac{m + \sqrt{p}}{n}$, dove $m, n$ sono interi positivi coprimi e $p$ è un numero primo, determina il valore di $m + n + p$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 

@@ -106,7 +106,7 @@ level: BMO Round 2
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -117,7 +117,7 @@ level: BMO Round 2
 > $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
@@ -132,7 +132,7 @@ level: BMO Round 2
 > $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
 

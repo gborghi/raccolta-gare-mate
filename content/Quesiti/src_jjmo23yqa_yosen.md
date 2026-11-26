@@ -156,7 +156,7 @@ level: JJMO Yosen
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -166,7 +166,7 @@ level: JJMO Yosen
 > There is one box containing $50^{25}$ stones. The following operation is repeated: choose a non-empty box, remove its stones one by one, placing each stone into a newly created (empty) box; then discard the (now empty) original box. After performing this operation $50^{25}$ times in total, how many non-empty boxes remain?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $10 \cdot 50^{12} - 1$
@@ -181,7 +181,7 @@ level: JJMO Yosen
 > C'è una scatola che contiene $50^{25}$ pietre. Si ripete la seguente operazione: si sceglie una scatola non vuota, si rimuovono le sue pietre una per una e si colloca ciascuna pietra in una scatola nuova (vuota) creata appositamente; poi si scarta la scatola originale (ora vuota). Dopo aver eseguito questa operazione per un totale di $50^{25}$ volte, quante scatole non vuote rimangono?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 

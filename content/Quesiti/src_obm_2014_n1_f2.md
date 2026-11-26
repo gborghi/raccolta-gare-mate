@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,7 +20,7 @@ level: OBM Nível 1
 > Carolina writes a sequence of positive integers in which: if a number is even, the next number is half of it; if it is odd, the next number is seven units greater. The first number of the sequence is 10, so the first three numbers of this sequence are 10, 5, 12, $\ldots$ What is the 2014th number in this sequence?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
@@ -34,7 +34,7 @@ level: OBM Nível 1
 > Carolina scrive una successione di numeri interi positivi in cui: se un numero è pari, il numero successivo è la sua metà; se è dispari, il numero successivo è maggiore di sette unità. Il primo numero della successione è 10, quindi i primi tre numeri di questa successione sono 10, 5, 12, $\ldots$ Qual è il 2014º numero di questa successione?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 

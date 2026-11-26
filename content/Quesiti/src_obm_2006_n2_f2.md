@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -28,7 +28,7 @@ level: OBM Nível 2
 > On which floor will the number 2006 be found? (For example: the number 1 is on the first floor, 6 is on the second floor, and 23 is on the third floor.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
@@ -50,7 +50,7 @@ level: OBM Nível 2
 > A quale piano si troverà il numero 2006? (Ad esempio: il numero 1 è al primo piano, il 6 è al secondo piano e il 23 è al terzo piano.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
@@ -162,7 +162,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -176,7 +176,7 @@ level: OBM Nível 2
 > If we start with $(1, 1, 1)$ as the first ordered triple of a sequence, what will be the sum of the three terms of the triple that occupies position 2006 in this sequence?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
@@ -192,7 +192,7 @@ level: OBM Nível 2
 > Ad esempio, partendo dalla tripla $(1, 2, 3)$: $(1, 2, 3) \to (1-2,\; 1+2+3,\; 2-3) = (-1, 6, -1) \to (-64, 12, 7) \to \cdots$ Se partiamo da $(1, 1, 1)$ come prima tripla ordinata di una sequenza, quale sarà la somma dei tre termini della tripla che occupa la posizione 2006 in questa sequenza?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 

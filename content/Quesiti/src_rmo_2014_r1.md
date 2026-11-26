@@ -46,7 +46,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -60,7 +60,7 @@ level: RMO
 > Express $d$ in terms of $x$, $y$, $z$, $n$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
@@ -74,7 +74,7 @@ level: RMO
 > Sia $a_1, a_2, \ldots, a_{2n}$ una progressione aritmetica di numeri reali positivi con ragione $d$. Siano (i) $a_1^2 + a_3^2 + \cdots + a_{2n-1}^2 = x$, (ii) $a_2^2 + a_4^2 + \cdots + a_{2n}^2 = y$ e (iii) $a_n + a_{n+1} = z$. Esprimi $d$ in funzione di $x$, $y$, $z$, $n$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 

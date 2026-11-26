@@ -908,7 +908,7 @@ $$N = (n_2 - 5) + (n_2 - 4) + \cdots + (n_2 + 5)$$
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -922,7 +922,7 @@ $$N = (n_2 - 5) + (n_2 - 4) + \cdots + (n_2 + 5)$$
 > A) $4$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
@@ -950,7 +950,7 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 

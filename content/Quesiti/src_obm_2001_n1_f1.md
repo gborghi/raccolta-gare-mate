@@ -723,7 +723,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -737,7 +737,7 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
@@ -756,7 +756,7 @@ level: OBM Nível 1
 ![[src_obm_2001_n1_f1__q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 

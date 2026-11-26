@@ -220,7 +220,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_ricorsione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -240,7 +240,7 @@ level: OBM Nível 2
 > determine $S_7$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
@@ -264,7 +264,7 @@ level: OBM Nível 2
 > determina $S_7$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 

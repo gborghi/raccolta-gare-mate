@@ -502,7 +502,7 @@ level: Giochi d'Autunno
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_geometria_analitica,method_ricorsione,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_geometria_analitica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -514,7 +514,7 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2009__q15.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** $(8;\ -22)$
@@ -531,7 +531,7 @@ level: Giochi d'Autunno
 ![[src_bocconi_autunno_2009__q15.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_ricorsione|Recursion]], [[skill_riconoscimento_pattern|skill_PatternRecognition]]
+**Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
