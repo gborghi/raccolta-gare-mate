@@ -37,18 +37,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mosse da alfiere di distanza √r attraverso gli angoli della scacchiera*
+*Mosse simili a quelle dei cavalieri, di distanza sqrt(r), attraverso gli angoli della scacchiera*
 
-> Sono dati un intero positivo r e una tavola rettangolare ABCD di
-> dimensioni |AB| = 20, |BC| = 12. Il rettangolo è suddiviso in una griglia
-> di 20 × 12 quadratini unitari. Sulla tavola sono consentite le mosse
-> seguenti: si può passare da un quadratino a un altro solo se la distanza
-> tra i centri dei due quadratini è √r. Si tratta di trovare una
-> successione di mosse che porti dal quadratino che ha A come vertice al
-> quadratino che ha B come vertice.
-> (a) Si dimostri che ciò è impossibile se r è divisibile per 2 o per 3.
-> (b) Si dimostri che ciò è possibile per r = 73.
-> (c) È possibile per r = 97?
+> Ci viene dato un numero intero positivo r e una scacchiera rettangolare ABCD con dimensioni |AB| = 20, |BC| = 12. Il rettangolo è suddiviso in una griglia di 20 × 12 quadrati unitari. Sulla scacchiera sono consentite le seguenti mosse: si può passare da un quadrato a un altro solo se la distanza tra i centri dei due quadrati è √r. Il compito è trovare una sequenza di mosse che porti dal quadrato avente A come vertice a quello avente B come vertice.
+> (a) Dimostrare che il compito non può essere svolto se r è divisibile per 2 o per 3.
+> (b) Dimostrare che il compito è possibile quando r = 73.
+> (c) Il compito può essere svolto quando r = 97?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1996#q01|src_imo_1996__Q01]]
 
 
 
@@ -74,12 +74,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che AP, BD, CE sono concorrenti sotto la condizione sugli angoli dell'incentro*
+*Mostra AP, BD, CE simultaneamente con la condizione sull'angolo del incentro*
 
-> Sia P un punto interno al triangolo ABC tale che
-> ∠APB − ∠ACB = ∠APC − ∠ABC.
-> Siano D ed E gli incentri dei triangoli APB e APC, rispettivamente.
-> Si dimostri che le rette AP, BD ed EC si incontrano in un punto.
+> Sia P un punto all'interno del triangolo ABC tale che
+> ̸ APB −̸ ACB = ̸ APC −̸ ABC. Siano D ed E gli incentri dei triangoli APB e APC, rispettivamente. Dimostrare che AP, BD e CE si intersecano in un punto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1996#q02|src_imo_1996__Q02]]
 
 
 
@@ -110,19 +115,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni f tali che f(m+f(n))=f(f(m))+f(n)*
+*Trovare tutte le funzioni f tali che f(m+f(n))=f(f(m))+f(n)*
 
-> Sia S l'insieme degli interi non negativi. Determinare tutte le funzioni f da S a sé stesso tali che
->
-> f(m + f(n)) = f(f(m)) + f(n)
->
-> per ogni m, n ∈ S.
->
-> XXXVII Olimpiade Internazionale di Matematica
-> Mumbai, India
-> Giorno II
-> ore 9:00 - 13:30
-> 11 luglio 1996
+> Sia S l'insieme degli interi non negativi. Determinare tutte le funzioni f da S in S tali che f(m + f(n)) = f(f(m)) + f(n) per ogni m, n ∈ S. 37ª Olimpiade Internazionale di Matematica, Mumbai, India, Seconda giornata, dalle 9:00 alle 13:30, 11 luglio 1996
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1996#q03|src_imo_1996__Q03]]
 
 
 
@@ -144,9 +146,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Least square value with 15a+16b and 16a-15b both squares*
+*Least possible value of the smaller of two squares 15a+16b and 16a−15b*
 
-> The positive integers $a$ and $b$ are such that the numbers $15a + 16b$ and $16a - 15b$ are both squares of positive integers. What's the smallest possible value that the least of these two squares can take?
+> The positive integers $a$ and $b$ are such that the numbers $15a + 16b$ and $16a - 15b$ are both squares of positive integers. What is the least possible value that the smaller of these two squares can take?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1996#q04|src_imo_1996__Q04]]
 
 
 
@@ -170,9 +178,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*circumradii sum at least half perimeter*
+*Sum of three circumradii of a hexagon with three pairs of parallel sides*
 
-> If $ABCDEF$ is a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. The radii of the circles surrounding the triangles $FAB$, $BCD$, $DEF$, respectively, and $P$ are the perimeter of the hexagon. Show that $$R_A + R_C + R_E \geq \frac{P}{2}.$$
+> Let $ABCDEF$ be a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. Let $R_A, R_C, R_E$ be the radii of the circumcircles of triangles $FAB$, $BCD$, $DEF$, respectively, and let $P$ be the perimeter of the hexagon. Prove that
+> $$R_A + R_C + R_E \geq \frac{P}{2}.$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1996#q05|src_imo_1996__Q05]]
 
 
 
@@ -200,12 +216,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lattice-path tuple has two indices with equal values*
+*A path of steps +p and −q that returns to zero has an earlier repetition*
 
-> Three positive integers with $p + q < n$ are $p, q, n$. Whether $(x_0, x_1, \ldots, x_n)$ a $(n+1)$-upple of integers that satisfies the following conditions:
-> 
+> Let $p, q, n$ be three positive integers with $p + q < n$. Let $(x_0, x_1, \ldots, x_n)$ be an $(n+1)$-tuple of integers satisfying the following conditions:
+>
 > (a) $x_0 = x_n = 0$.
-> 
-> (b) For each $i$ with $1 \leq i \leq n$, $x_i - x_{i-1} = p$ or $x_i - x_{i-1} = -q$ is given.
-> 
-> Demonstrate the existence of $i < j$ indexes with $(i, j) \neq (0, n)$, such as $x_i = x_j$.
+>
+> (b) For every $i$ with $1 \leq i \leq n$, either $x_i - x_{i-1} = p$ or $x_i - x_{i-1} = -q$.
+>
+> Prove that there exist indices $i < j$ with $(i, j) \neq (0, n)$, such that $x_i = x_j$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1996#q06|src_imo_1996__Q06]]

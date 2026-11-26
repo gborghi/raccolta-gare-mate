@@ -32,13 +32,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rapporto alfa/beta in una figura con quattro segmenti uguali*
+*Trovare il rapporto alfa/beta in una figura con quattro segmenti uguali*
 
 > Nel disegno abbiamo $AE = BE = CE = CD$. Inoltre, $\alpha$ e $\beta$ sono misure di angoli. Qual è il valore del rapporto $\dfrac{\alpha}{\beta}$?
-> 
+>
 > (A) $\dfrac{3}{5}$ (B) $\dfrac{4}{5}$ (C) $1$ (D) $\dfrac{5}{4}$ (E) $\dfrac{5}{3}$
 
 ![[src_obm_2008_n3_f1__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f1#q01|src_obm_2008_n3_f1__Q01]]
 
 
 
@@ -63,13 +69,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per x = 10^(-2008), trovare l'opzione con il valore più grande*
+*Per x = 10^(-2008), individua l'opzione con il valore più grande*
 
-> Let $x = 10^{-2008}$. Indicare l'alternativa che presenta il maggior valore.
-> 
+> Sia $x = 10^{-2008}$. Indica l'alternativa che presenta il valore più grande.
+>
 > (A) $\dfrac{1}{x}$ (B) $\dfrac{1}{x(x+1)}$ (C) $\dfrac{1}{1+\dfrac{1}{1+\dfrac{1}{x}}}$ (D) $x$ (E) $\dfrac{x}{x+\dfrac{1}{x}}$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f1#q02|src_obm_2008_n3_f1__Q02]]
 
 
 
@@ -98,17 +108,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integrale positivo a e 1/a su una linea di numeri; trovare la loro somma*
+*Numero intero positivo a e 1/a su una retta numerica; determina la loro somma*
 
-> Il numero intero positivo $a$ e il numero $\dfrac{1}{a}$ si trovano sulla linea come segue. (Sulla linea numerica ci sono segni a $0$, a $\dfrac{1}{a}$ e a $a$; la distanza da $\dfrac{1}{a}$ a $a$ è $\dfrac{80}{9}$.)
-> 
+> Il numero intero positivo $a$ e il numero $\dfrac{1}{a}$ si trovano sulla retta nel modo seguente. (Sulla retta numerica ci sono dei segni in $0$, in $\dfrac{1}{a}$ e in $a$; la distanza da $\dfrac{1}{a}$ a $a$ è $\dfrac{80}{9}$.)
+>
 > Qual è la somma di questi due numeri?
-> 
+>
 > (A) $\dfrac{9}{81}$ (B) $\dfrac{9}{80}$ (C) $\dfrac{81}{9}$ (D) $\dfrac{82}{9}$ (E) $9$
 
 ![[src_obm_2008_n3_f1__q03.png]]
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f1#q03|src_obm_2008_n3_f1__Q03]]
 
 
 
@@ -134,13 +148,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I dipendenti dell'azienda: quanti parlano sia portoghese che inglese*
+*Dipendenti dell'azienda: quanti parlano sia il portoghese sia l'inglese?*
 
-> Una grande impresa ha dipendenti $84$ e si sa che ognuno di loro parla almeno una delle lingue portoghesi o inglese. Inoltre, $20\%$ di chi parla portoghese parla anche inglese, e $80\%$ di chi parla inglese parla anche portoghese. Quanti dei dipendenti parlano le due lingue?
-> 
+> Una grande azienda ha $84$ dipendenti, e si sa che ciascuno di loro parla almeno una delle lingue, il portoghese o l'inglese. Inoltre, $20\%$ di coloro che parlano portoghese parlano anche inglese, e $80\%$ di coloro che parlano inglese parlano anche portoghese. Quanti dei dipendenti parlano entrambe le lingue?
+>
 > (A) $12$ (B) $14$ (C) $15$ (D) $16$ (E) $18$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f1#q04|src_obm_2008_n3_f1__Q04]]
 
 
 
@@ -166,13 +185,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Raphael sceglie carte da un insieme aritmetico che somma a 100
+*Rafael sceglie delle carte da un insieme aritmetico la cui somma è 100*
 
-> Rafael ha carte $10$. Su ciascuno di essi è scritto uno dei numeri $3, 8, 13, 18, 23, 28, 33, 38, 43, 48$, e tutti questi numeri appaiono (ogni uno esattamente una volta). Rafael vuole scegliere alcune carte in modo tale che la somma dei numeri scritti sulle carte scelte sia esattamente $100$. Quante carte deve scegliere?
-> 
+> Rafael ha $10$ carte. Su ciascuna di esse è scritto uno dei numeri $3, 8, 13, 18, 23, 28, 33, 38, 43, 48$, e tutti questi numeri compaiono (ciascuno esattamente una volta). Rafael vuole scegliere alcune carte in modo che la somma dei numeri scritti sulle carte scelte sia esattamente $100$. Quante carte deve scegliere?
+>
 > (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) Non è possibile ottenere $100$ con queste carte.
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q05|src_obm_2008_n3_f1__Q05]]
 
 
 
@@ -197,11 +221,18 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I corridori su una pista regolare n-gon si incontrano a vertici; trovare n*
+*I corridori su una pista regolare a n lati si incontrano nei vertici; determina n*
 
-> Su una pista di corsa, la cui forma è un poligono regolare con vertici $n$, numerati da $1$ a $n$ nella direzione contraria al senso orario, ci sono tre persone: Nelly, Sônia e Penha, tutte inizialmente allo stesso vertice. A un certo punto iniziano a camminare lungo i lati del poligono. Nelly cammina nella direzione contraria al senso dell'orologio, mentre Sônia e Penha camminano nella direzione opposta. Nelly incontra Sônia per la prima volta ad un vertice, e incontra Penha due vertici avanti. La velocità di Nelly è il doppio della velocità di Sônia, e la velocità di Sônia è il doppio della velocità di Penha. Quanti vertici ha il poligono?
-> 
+> Su una pista di corsa, la cui forma è un poligono regolare con $n$ vertici, numerati da $1$ a $n$ in senso antiorario, ci sono tre persone: Nelly, Sônia e Penha, tutte inizialmente nello stesso vertice. In un dato momento, iniziano a camminare lungo i lati del poligono. Nelly cammina in senso antiorario, mentre Sônia e Penha camminano nella direzione opposta. Nelly incontra Sônia per la prima volta in un vertice e incontra Penha due vertici più avanti. La velocità di Nelly è il doppio di quella di Sônia, e la velocità di Sônia è il doppio di quella di Penha. Quanti vertici ha il poligono?
+>
 > (A) $30$ (B) $60$ (C) $15$ (D) $10$ (E) $6$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f1#q06|src_obm_2008_n3_f1__Q06]]
 
 
 
@@ -226,13 +257,17 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nove numeri ordinati: mezzo è la media di tutti; trovare la somma totale*
+*Nove numeri ordinati: il termine centrale è la media di tutti; trova la somma totale*
 
-> Nove numeri sono scritti in ordine crescente. Il numero medio è la media aritmetica dei nove numeri. La media aritmetica del $5$ più grande è $68$ e la media aritmetica del $5$ più piccolo è $44$. La somma di tutti i numeri è:
-> 
+> Sono scritti nove numeri in ordine crescente. Il numero centrale è la media aritmetica dei nove numeri. La media aritmetica dei $5$ numeri maggiori è $68$, e la media aritmetica dei $5$ numeri minori è $44$. La somma di tutti i numeri è:
+>
 > (A) $500$ (B) $504$ (C) $112$ (D) $56$ (E) $70$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f1#q07|src_obm_2008_n3_f1__Q07]]
 
 
 
@@ -257,11 +292,18 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*OBM il 14 giugno 2008 (sabato, anno bisestivo); quando il 14 giugno sarà nuovamente sabato*
+*OBM il 14 giugno 2008 (sabato, anno bisestile); quando il 14 giugno sarà di nuovo un sabato?*
 
-> La prima fase dell'OBM 2008 si è svolta il $14$ giugno, sabato dell'anno bisto $2008$. Tra quanti anni Giugno ricadrà sabato?
-> 
+> La prima fase dell'OBM 2008 si è svolta il $14$ giugno, un sabato dell'anno bisestile $2008$. Tra quanti anni il $14$ giugno ricadrà di nuovo di sabato?
+>
 > (A) $4$ (B) $5$ (C) $6$ (D) $7$ (E) $8$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f1#q08|src_obm_2008_n3_f1__Q08]]
 
 
 
@@ -286,11 +328,18 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi per fare R\$10.00 con monete da 10 cent e 25 cent, almeno una di ciascuna*
+*Modi per ottenere 10,00 R$ con monete da 10 centesimi e da 25 centesimi, con almeno una di ciascun tipo*
 
-> In quanti modi possiamo dare cambio per R\$ $10{,}00$ using coins of $10$ cents and $25$ centesimi, se deve essere utilizzata almeno una moneta di ogni tipo?
-> 
+> In quanti modi possiamo dare il resto per R\$ $10{,}00$ using coins of $10$ cents and $25$ centesimi, se si deve utilizzare almeno una moneta di ogni tipo?
+>
 > (A) $15$ (B) $16$ (C) $17$ (D) $18$ (E) $19$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q09|src_obm_2008_n3_f1__Q09]]
 
 
 
@@ -315,11 +364,18 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra n tale che n×2^n abbia 2008 più divisori di n; trovare la somma di n*
+*Intero n tale che n*2^n abbia 2008 divisori in più di n; determina la somma delle cifre di n*
 
-> Il numero intero $n$ è tale che $n \cdot 2^n$ ha $2008$ più divisori di $n$. La somma delle cifre di $n$ è uguale a:
-> 
+> L'intero $n$ è tale che $n \cdot 2^n$ ha $2008$ divisori in più rispetto a $n$. La somma delle cifre di $n$ è uguale a:
+>
 > (A) $5$ (B) $7$ (C) $9$ (D) $11$ (E) $12$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f1#q10|src_obm_2008_n3_f1__Q10]]
 
 
 
@@ -344,11 +400,18 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti di 2,3,5,7,11 dividono 371^4 - 41^4*
+*Quanti tra 2, 3, 5, 7, 11 dividono 371^4 - 41^4?*
 
 > Quanti dei numeri $2, 3, 5, 7, 11$ sono divisori di $371^4 - 41^4$?
-> 
-> A) uno B) due C) tre D) quattro E) cinque
+>
+> (A) uno (B) due (C) tre (D) quattro (E) cinque
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f1#q11|src_obm_2008_n3_f1__Q11]]
 
 
 
@@ -373,11 +436,18 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*cubo di legno con 3 facce rosse e 3 facce blu tagliati in 27; cubbi di conteggio con facce rosse e blu*
+*Cubo di legno con 3 facce rosse e 3 facce blu, tagliato in 27 cubetti; conta i cubetti con faccia rossa e faccia blu*
 
-> Ho un cubo di legno, con tre facce rosse e tre facce blu, in modo che facce opposte abbiano colori diversi. Il cubo viene tagliato in $3 \times 3 \times 3 = 27$ cubetti più piccoli. Quanti di questi cubetti più piccoli hanno, allo stesso tempo, una faccia rossa e un'altra blu?
-> 
+> Ho un cubo di legno con tre facce rosse e tre facce blu, in modo che le facce opposte abbiano colori diversi. Il cubo viene tagliato in $3 \times 3 \times 3 = 27$ cubetti più piccoli. Quanti di questi cubetti più piccoli hanno, allo stesso tempo, una faccia rossa e un'altra faccia blu?
+>
 > (A) $6$ (B) $12$ (C) $13$ (D) $14$ (E) $16$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q12|src_obm_2008_n3_f1__Q12]]
 
 
 
@@ -404,11 +474,20 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
+*Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 
-> Il numero di soluzioni reali del sistema $$\begin{cases} a^2 = b + 2 \\ b^2 = c + 2 \\ c^2 = a + 2 \end{cases}$$ è uguale a:
-> 
+> Il numero di soluzioni reali del sistema
+> $$\begin{cases} a^2 = b + 2 \\ b^2 = c + 2 \\ c^2 = a + 2 \end{cases}$$
+> è uguale a:
+>
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$ (E) $8$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f1#q13|src_obm_2008_n3_f1__Q13]]
 
 
 
@@ -433,11 +512,18 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità Bernaldo non ha picche dato che Arnaldo non ne ha*
+*Probabilità che Bernaldo non abbia fiori, dato che Arnaldo non ne ha*
 
-> Arnaldo, Bernaldo, Cernaldo e Dernaldo mescolano le carte $52$ di un mazzo e distribuiscono le carte $13$ a ciascuna. Arnaldo, sorpreso, dice: "Cos'è strano, non ho una carta di spade". Qual è la probabilità che anche Bernaldo non abbia una carta di spade?
-> 
+> Arnaldo, Bernaldo, Cernaldo e Dernaldo mescolano le $52$ carte di un mazzo e ne distribuiscono $13$ a ciascuno. Arnaldo, sorpreso, dice: "Che strano, non ho nessuna carta di picche." Qual è la probabilità che anche Bernaldo non abbia carte di picche?
+>
 > (A) $\dfrac{39!}{26!\,52!}$ (B) $\dfrac{26!}{13!\,39!}$ (C) $\dfrac{39!\,39!}{26!\,52!}$ (D) $\dfrac{26!\,26!}{13!\,39!}$ (E) $\dfrac{39!\,13!}{52!}$
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q14|src_obm_2008_n3_f1__Q14]]
 
 
 
@@ -464,13 +550,20 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte: un disegno quadrato in 5 regioni dipinte con 5 colori; conteggio distinto in rotazione*
+*Carte: un disegno quadrato su 5 regioni, dipinto con 5 colori; conta le configurazioni distinte sotto rotazione*
 
-> Soninha ha molte carte, tutte con lo stesso disegno su una delle facce. Userà cinque colori diversi (verde, gialle, blu, rosso e arancione) per dipingere ciascuna delle cinque parti del disegno, ciascuna parte con un colore diverso, in modo tale che nessuna delle due carte sia uguale. Come mostra la figura seguente, ad esempio, due carte sono considerate uguali, poiché una di esse può essere girata per ottenere l'altra. Quante carte diverse può produrre Soninha?
-> 
+> Soninha ha molte carte, tutte con lo stesso disegno su una delle facce. Intende usare cinque colori diversi (verde, giallo, blu, rosso e arancione) per colorare ciascuna delle cinque parti del disegno, ciascuna parte con un colore diverso, in modo che nessuna coppia di carte sia uguale. Come mostrato nella figura sottostante, ad esempio, due carte si considerano uguali poiché una di esse può essere girata per ottenere l'altra. Quante carte diverse può produrre Soninha?
+>
 > (A) $16$ (B) $25$ (C) $30$ (D) $60$ (E) $120$
 
 ![[src_obm_2008_n3_f1__q15.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q15|src_obm_2008_n3_f1__Q15]]
 
 
 
@@ -494,11 +587,17 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale con angoli dati; angolo di ricerca DBC*
+*Quadrilatero ABCD con angoli dati; trovare l'angolo DBC*
 
-> Dato il quadrilaterale $ABCD$ tale che $\angle CAD = 25^\circ$, $\angle ACD = 45^\circ$ e $\angle BAC = \angle BCA = 20^\circ$, qual è il valore dell'angolo $\angle DBC$?
-> 
+> Dato il quadrilatero $ABCD$ tale che $\angle CAD = 25^\circ$, $\angle ACD = 45^\circ$ e $\angle BAC = \angle BCA = 20^\circ$, qual è il valore dell'angolo $\angle DBC$?
+>
 > (A) $40^\circ$ (B) $45^\circ$ (C) $50^\circ$ (D) $55^\circ$ (E) $60^\circ$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f1#q16|src_obm_2008_n3_f1__Q16]]
 
 
 
@@ -522,11 +621,17 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles PQR; tangente al circolo a Q incontra l'estensione del PR a X; trova RX*
+*Triangolo isoscele PQR; la retta tangente alla circonferenza circoscritta in Q incontra il prolungamento di PR in X; trovare RX*
 
-> Nel triangolo di pari dimensioni $PQR$, con $PQ = PR = 3$ e $QR = 2$, la tangente del suo cerchio circoscritto al punto $Q$ risponde alla prolungatura del lato $PR$ a $X$. Il valore di $RX$ è:
-> 
+> Nel triangolo isoscele $PQR$, con $PQ = PR = 3$ e $QR = 2$, la tangente alla sua circonferenza circoscritta nel punto $Q$ incontra il prolungamento del lato $PR$ nel punto $X$. Il valore di $RX$ è:
+>
 > (A) $\dfrac{16}{5}$ (B) $\dfrac{12}{5}$ (C) $\dfrac{8}{3}$ (D) $\dfrac{9}{2}$ (E) $\dfrac{9}{4}$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f1#q17|src_obm_2008_n3_f1__Q17]]
 
 
 
@@ -550,11 +655,17 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC (3,4,5): rapporto tra il raggio di inraggio e il raggio del cerchio centrato sulla tangente BC e l'AC*
+*Triangolo ABC (3,4,5): rapporto tra il raggio incircoscritto e il raggio della circonferenza centrata su BC e tangente ad AC*
 
-> Date un triangolo $ABC$ con lati $AB = 3$, $BC = 4$ e $AC = 5$. $R_1$ e $R_2$ siano, rispettivamente, i radii del cerchio inciso e del cerchio con il centro sul lato $BC$ che passa attraverso $B$ ed è tangente al lato $AC$. Il rapporto $\dfrac{R_1}{R_2}$ è uguale a:
-> 
+> Sia dato un triangolo $ABC$ con lati $AB = 3$, $BC = 4$ e $AC = 5$. Siano $R_1$ e $R_2$, rispettivamente, il raggio del cerchio inscritto e il raggio del cerchio avente il centro sul lato $BC$, passante per $B$ e tangente al lato $AC$. Il rapporto $\dfrac{R_1}{R_2}$ è uguale a:
+>
 > (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{3}{2}$ (D) $\dfrac{8}{9}$ (E) $\dfrac{4}{5}$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f1#q18|src_obm_2008_n3_f1__Q18]]
 
 
 
@@ -583,9 +694,18 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 
 *Numero di soluzioni reali di x|x|+y|y|=1 e floor(x)+floor(y)=1*
 
-> Qual è il numero di soluzioni reali del sistema $$x \cdot |x| + y \cdot |y| = 1 \quad \text{and} \quad \lfloor x \rfloor + \lfloor y \rfloor = 1,$$ in cui $\lfloor x \rfloor$ rappresenta la parte intera di $x$?
-> 
-> (A) $0$ (B) $1$ (C) $2$ (D) $4$
+> Qual è il numero di soluzioni reali del sistema?
+> $$x \cdot |x| + y \cdot |y| = 1 \quad \text{and} \quad \lfloor x \rfloor + \lfloor y \rfloor = 1,$$
+> dove $\lfloor x \rfloor$ rappresenta la parte intera di $x$?
+>
+> (A) $0$ (B) $1$ (C) $2$ (D) $4$ (E) infiniti
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f1#q19|src_obm_2008_n3_f1__Q19]]
 
 
 
@@ -610,11 +730,18 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri "paladino" a 4 cifre: multipli di 9 senza cifre zero*
+*Conta i numeri 'paladino' a 4 cifre: multipli di 9 senza alcuna cifra zero*
 
-> Un numero a quattro cifre è chiamato *paladino* se è un multiple di $9$ e nessuna delle sue cifre è zero. Quanti numeri paladino esistono?
-> 
+> Un numero di quattro cifre è chiamato *paladino* se è multiplo di $9$ e nessuna delle sue cifre è zero. Quanti numeri paladino esistono?
+>
 > (A) $1284$ (B) $1024$ (C) $849$ (D) $1109$ (E) $729$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q20|src_obm_2008_n3_f1__Q20]]
 
 
 
@@ -639,11 +766,18 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi funzioni f(x)=cx/(2x+3) con f(f(x))=x per tutte le x*
+*Conta le funzioni f(x)=cx/(2x+3) tali che f(f(x))=x per ogni x*
 
-> Considera la funzione $f$, definita sull'insieme dei numeri reali e soddisfacente $f(x) = \dfrac{cx}{2x+3}$, per tutti $x \neq -\dfrac{3}{2}$. Determinare il numero di tali funzioni $f$ per le quali $f(f(x)) = x$, per tutte le $x$ per le quali $f(f(x))$ è ben definito.
-> 
-> (A) $0$ (B) $1$ (C) $2$ (D) $4$
+> Si consideri la funzione $f$, definita sull'insieme dei numeri reali e tale che $f(x) = \dfrac{cx}{2x+3}$, per ogni $x \neq -\dfrac{3}{2}$. Determinare il numero di tali funzioni $f$ per cui $f(f(x)) = x$, per ogni $x$ per cui $f(f(x))$ è ben definito.
+>
+> (A) $0$ (B) $1$ (C) $2$ (D) $4$ (E) infiniti
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f1#q21|src_obm_2008_n3_f1__Q21]]
 
 
 
@@ -669,13 +803,19 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cono di altezza di 5 cm riempito di sabbia a 3 cm, poi invertito; trova l'altezza del livello di sabbia*
+*Cono alto 5 cm, riempito di sabbia fino a 3 cm di altezza, poi capovolto; determinare l'altezza del livello della sabbia*
 
-> Il giocattolo preferito di Cicerone è un cono di vetro retto di $5$ cm di altezza. Cicero ha riempito il cono di sabbia fino a una altezza di $3$ cm, come mostrato alla figura 1. Poi Cicerone chiuse la base del cono e lo girò a testa in giù, come indicato nella figura 2. A che altezza dalla base del cono, in cm, si trova il segno di sabbia?
-> 
+> Il giocattolo preferito di Cicerone è un cono di vetro retto alto $5$ cm. Cicerone ha riempito il cono di sabbia fino a un'altezza di $3$ cm, come mostrato nella figura 1. Poi Cicerone ha chiuso la base del cono e lo ha capovolto, come indicato nella figura 2. A quale altezza, in cm, a partire dalla base del cono, si trova il segno lasciato dalla sabbia?
+>
 > (A) $1$ (B) $2$ (C) $5 - \sqrt[3]{98}$ (D) $\sqrt[3]{98}$ (E) $1 - \dfrac{\sqrt[3]{98}}{5}$
 
 ![[src_obm_2008_n3_f1__q22.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f1#q22|src_obm_2008_n3_f1__Q22]]
 
 
 
@@ -702,13 +842,20 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato magico moltiplicativo con cellule 4, AC, C, 24; trovare A+B+C+D*
+*Quadrato magico moltiplicativo con celle 4, AC, C, 24; trova A+B+C+D*
 
-> Di seguito abbiamo un quadrato magico moltiplicativo, dove il prodotto dei numeri in ogni riga, colonna e diagonale è lo stesso ed è uguale al numero a quattro cifre $ABCD$, dove ogni lettera rappresenta una cifra e ogni cella contiene un numero intero. Se $AC$ rappresenta il numero a due cifre nel centro del quadrato, la somma $A + B + C + D$ è: (Nella griglia $3\times 3$: la cella in alto a destra è $4$; la cella centrale è $AC$; la cella inferiore-media è $C$; e la cella in basso a destra è $24$.)
-> 
+> Qui sotto abbiamo un quadrato magico moltiplicativo, in cui il prodotto dei numeri in ciascuna riga, colonna e diagonale è lo stesso e uguale al numero di quattro cifre $ABCD$, dove ogni lettera rappresenta una cifra e ogni cella contiene un numero intero. Se $AC$ rappresenta il numero di due cifre al centro del quadrato, la somma $A + B + C + D$ è: (Nella griglia $3\times 3$: la cella in alto a destra è $4$; la cella centrale è $AC$; la cella in basso al centro è $C$; e la cella in basso a destra è $24$.)
+>
 > (A) $17$ (B) $18$ (C) $19$ (D) $20$ (E) $21$
 
 ![[src_obm_2008_n3_f1__q23.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q23|src_obm_2008_n3_f1__Q23]]
 
 
 
@@ -733,11 +880,18 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*10 persone di altezza diversa in fila, diminuendo dal più alto alle due estremità; sistema di conteggio*
+*10 persone di altezze diverse allineate in fila, con altezze decrescenti dal più alto verso entrambe le estremità; conta le disposizioni*
 
-> Considerate le persone $10$, di altezza diversa, che devono stare in fila in modo tale che, partendo dalla persona più alta, le altezze devono diminuire verso entrambi i lati della linea (se la persona più alta è la prima o l'ultima della linea, tutte le persone da lei in avanti devono essere in ordine decrescente di altezza). Obbedendo a queste condizioni, in quanti modi queste persone possono stare in fila?
-> 
+> Si considerino $10$ persone, tutte di altezza diversa, che devono mettersi in fila in modo tale che, partendo dalla persona più alta, le altezze debbano diminuire verso entrambe le estremità della fila (se la persona più alta è la prima o l'ultima della fila, tutte le persone a partire da lei devono essere disposte in ordine decrescente di altezza). Rispettando queste condizioni, in quanti modi possono mettersi in fila queste persone?
+>
 > (A) $256$ (B) $768$ (C) $1260$ (D) $512$ (E) $2560$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f1#q24|src_obm_2008_n3_f1__Q24]]
 
 
 
@@ -768,8 +922,21 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque integri positivi >1 con condizioni di prodotto cicliche; trovare a+b+c+d+e*
+*Cinque interi positivi maggiori di 1 con condizioni sul prodotto ciclico; trova a+b+c+d+e*
 
-> Cinque integri positivi $a, b, c, d, e$, tutti più grandi di uno, soddisfano le seguenti condizioni: $$a(b + c + d + e) = 128$$ $$b(a + c + d + e) = 155$$ $$c(a + b + d + e) = 203$$ $$d(a + b + c + e) = 243$$ $$e(a + b + c + d) = 275$$ Qual è il valore di $a + b + c + d + e$?
-> 
+> Cinque interi positivi $a, b, c, d, e$, tutti maggiori di uno, soddisfano le seguenti condizioni:
+> $$a(b + c + d + e) = 128$$
+> $$b(a + c + d + e) = 155$$
+> $$c(a + b + d + e) = 203$$
+> $$d(a + b + c + e) = 243$$
+> $$e(a + b + c + d) = 275$$
+> Qual è il valore di $a + b + c + d + e$?
+>
 > (A) $9$ (B) $16$ (C) $25$ (D) $36$ (E) $49$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f1#q25|src_obm_2008_n3_f1__Q25]]

@@ -33,7 +33,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure has the white area larger than the gray one*
+*Which shape has a larger white area than the grey area?*
 
 > A clock is 25 minutes behind and shows 7:40. What time does a clock that is 15 minutes ahead show at the same moment?
 > A) 7:00
@@ -41,6 +41,12 @@ level: kangourou
 > C) 7:25
 > D) 7:55
 > E) 8:20
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q01|src_kangourou_2012_benjamin__Q01]]
 
 
 
@@ -69,9 +75,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different colours for the same letters in KAENGURUWETTBEWERB*
+*Different colors for identical letters in KAENGURUWETTBEWERB*
 
-> A six-meter-wide board consists of three parts. The middle part is 3 meters wide and the left side is as wide as the right side. How wide is the right side? A) 1 B) 1,25 C) 1,75 D) 2 E) A number different from the previous one
+> A blackboard 6 meters long consists of
+> Three parts. The middle part is 3 meters wide, and the left part is as wide as the right part. How many meters wide is the right part?
+> A) 1 
+> B) 1,25
+> C) 1,75         D) 2
+> E) A number different from the preceding ones
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q02|src_kangourou_2012_benjamin__Q02]]
 
 
 
@@ -103,7 +120,19 @@ level: kangourou
 
 *Cost of a chocolate bar given the total*
 
-> Sandra has enclosed four identical coins in a square bounded by four matches, as shown in the figure, which respects proportions. How many matches will you need to enclose 16 identical coins in a square without even partial coin overlapping? A) 8 B) 10 C) 12 D) 15 E) 16
+> Sandra has enclosed four identical coins in
+> A square bounded by four matches, as shown in the figure, with correct proportions. How many matches identical to the previous ones will she need to enclose 16 coins identical to the previous ones within a square, with no coins overlapping even partially?
+> A) 8
+> B) 10
+> C) 12
+> D) 15
+> E) 16
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q03|src_kangourou_2012_benjamin__Q03]]
 
 
 
@@ -132,9 +161,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the centre section of a folded chessboard*
+*Length of the central section of a folded chessboard*
 
-> Which of these numbers can be the sum of the days in 10 consecutive years? A) 3655 B) 3651 C) 3650 D) 3660 E) 3653
+> Which of these numbers can be the sum of the number of days in 10 consecutive years?
+> A) 3655
+> B) 3651
+> C) 3650
+> D) 3660
+> E) 3653
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q04|src_kangourou_2012_benjamin__Q04]]
 
 
 
@@ -159,9 +200,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of chicks born on 24 February observed in March*
+*And 15 chicks born on 24 February, observed in March*
 
-> When in Milan it's five o'clock in the afternoon, in San Francisco it's eight o'clock in the morning the same day. When in San Francisco it's 9pm on a Sunday, what time is it in Milan? (a) 6 a.m. on Sundays (b) 6 p.m. on Sundays (c) noon on Sundays (d) midnight between Sunday and Monday (e) 6 a.m. on Monday
+> When it is 5 p.m. in Milan, it is 8 a.m. in San Francisco on the same day. When it is 9 p.m. on Sunday in San Francisco, what time is it in Milan?
+> A) 6 a.m. on Sunday            B) 6 p.m. on Sunday
+> C) Noon on Sunday                D) Midnight between Sunday and Monday
+> E) 6 a.m. on Monday
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q05|src_kangourou_2012_benjamin__Q05]]
 
 
 
@@ -202,28 +252,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pattern by joining the centres of neighbouring hexagons*
+*What pattern is formed by joining the centers of adjacent hexagons?*
 
-> To the number 6 add 3, then multiply the result by 2 and finally add 1. The number you get is the result of one of the following expressions. Which one?
+> Add 3 to 6, then multiply the result by 2, and finally add 1. The number you get is the result of one of the following expressions. Which one?
 > A) (6 + 3 × 2) + 1                  B) 6 + 3 × 2 + 1                   C) (6 + 3) × (2 + 1)
 > D) (6 + 3) × 2 + 1                  E) 6 + 3 × (2 + 1)
-> 6 m
-> 3 m
-> ?
-> k
-> a
-> n
-> g
-> a
-> r
-> o
-> o
-> 
-> Pag. 
-> Pag. 11
-> 11
-> Kang 2012
-> Kang 2012
+> 6 m 3 m ? k a n g a r o o
+>
+> Pag. Pag. 11 11 Kang 2012 Kang 2012
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q06|src_kangourou_2012_benjamin__Q06]]
 
 
 
@@ -254,13 +296,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure is obtained by joining the centres of the hexagons*
+*What figure is obtained by joining the centers of the hexagons?*
 
 ![[src_kangourou_2012_benjamin__prob7.png]]
 
-> Look at the figure. For every pair of hexagons that have one side in common, we plot the segment that has their centers as extremes. If we delete the hexagons from the initial figure, what figure do we get? A) B) C) D) E)
+> Observe the figure. For each pair of hexagons that share a side, we draw the line segment whose endpoints are their centers. If we erase the hexagons in the initial figure, what figure do we get?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q07|src_kangourou_2012_benjamin__Q07]]
 
 
 
@@ -293,13 +344,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Configuration of the kangaroos after the coin's rotation*
+*Configuration of the kangaroos after the coin rotation*
 
 ![[src_kangourou_2012_benjamin__prob8.png]]
 
-> Look at the figure. Starting from the position indicated for both coins, the upper coin spins without slipping around the lower coin until it is in the new position indicated. What is the configuration of the two kangaroos? A) B) C) D) E) Depends on the speed of rotation
+> Observe the figure. Starting from the position indicated for both coins, the upper coin rotates without slipping around the lower coin until it reaches the new position indicated. Which of the following is the configuration assumed by the two kangaroos?
+> A) 
+> B)
+> C) 
+> D) 
+> E) It depends on the rotational speed
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q08|src_kangourou_2012_benjamin__Q08]]
 
 
 
@@ -330,11 +390,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kilos does the basket of the balloon weigh*
+*How many kilograms does the basketball hoop weigh?*
 
-> A balloon can lift a basket if it contains material weighing no more than 80 kilograms. Two balloons attached to the same basket can lift it if it contains material weighing no more than 180 kilograms. How many kilos does the basket weigh? A) 10 B) 20 C) 30 D) 40 E) 50
+> An aerostatic balloon can lift a basket.
+> It contains material weighing no more than 80 kilograms. Two balloons attached to the same basket can lift it if it contains material weighing no more than 180 kilograms. How many kilograms does the basket weigh?
+> A) 10 
+> B) 20 
+> C) 30
+> D) 40
+> E) 50
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q09|src_kangourou_2012_benjamin__Q09]]
 
 
 
@@ -365,19 +435,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the basket given balloons that lift loads*
+*Weight of the basket given ball-lifting loads*
 
-> Viviana and Cinzia went to visit their grandmother and were given
-> some apples and some pears, for a total of 25 fruits. During the return
-> journey home, Viviana ate one apple and three pears, while Cinzia ate
-> three apples and two pears. When they arrived home, they discovered they had with them as many
-> apples as pears. How many pears did their grandmother give them?
+> Viviana and Cinzia went to visit their grandmother and were given some apples and some pears as a gift—25 fruits in total. On the way back home, Viviana ate one apple and three pears, while Cinzia ate three apples and two pears. When they got home, they found that they had the same number of apples as pears with them. How many pears did their grandmother give them?
 > A) 12
 > B) 13
 > C) 16
 > D) 20
 > E) 21
-> Questions from No. 11 to No. 20 are worth 4 points each
+> Questions 11 to 20 are each worth 4 points.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q10|src_kangourou_2012_benjamin__Q10]]
 
 
 
@@ -417,23 +489,21 @@ level: kangourou
 
 *Color of the sum of a red number and a blue number*
 
-> Cecilia wrote all the integers from 1 to 100 using three colors and
-> following this rule: 1 is red, 2 is blue, 3 is green, 4 is red again, 5 is
-> blue again, 6 is green again, 7 is red again, and so on up to 100. If
-> 
-> Pag. 
-> Pag. 12
-> 12
-> Kang 2012
-> Kang 2012
-> two numbers are chosen between 1 and 50, one red and one blue, what color is the number that is their sum?  
-> A) It can be any one of the three colors     
-> B) It can be either red or blue, but not green 
-> C) Certainly green
-> D) Certainly red
-> E) Certainly blue
+> Cecilia wrote all the whole numbers from 1 to 100 using three colors and following this rule: 1 is red, 2 is blue, 3 is green, 4 is red again, 5 is blue again, 6 is green again, 7 is red again, and so on up to 100. If
+>
+> Page Page 12 12 On Kang 2012 Kang 2012, two numbers between 1 and 50 are chosen, one red and one blue—what color is the number that is their sum?
+> A) It can be any one of the three colors.
+> B) It can be either red or blue, but not green
+> C) Definitely green
+> D) Definitely red
+> E) Definitely blue
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q11|src_kangourou_2012_benjamin__Q11]]
 
 
 
@@ -464,13 +534,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What three pieces complete the puzzle*
+*Which three pieces complete the puzzle?*
 
 ![[src_kangourou_2012_benjamin__prob12.png]]
 
-> Look at the figure. The puzzle started on the left can be completed with three of the numbered pieces appearing on the right. What kind? A) 1, 3, 4 B) 1, 3, 6 C) 2, 3, 5 D) 2, 3, 6 E) 2, 5, 6
+> Look at the figure. The puzzle
+> What starts on the left can be completed with three of the numbered pieces that appear on the right. Which ones?
+> A) 1, 3, 4
+> B) 1, 3, 6
+> C) 2, 3, 5
+> D) 2, 3, 6        
+> E) 2, 5, 6
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q12|src_kangourou_2012_benjamin__Q12]]
 
 
 
@@ -507,13 +587,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which letter on the die is not visible in the cube*
+*Which letter on the die that is not visible in the cube?*
 
 ![[src_kangourou_2012_benjamin__prob13.png]]
 
-> Lucia has eight dice. Each die is assigned one and only one of the letters A, B, C, D, which is shown on each face of the dice. By placing these eight dice together, she constructed the cube you see in the figure: for every die that makes it up, except for one, at least one face is visible, so the letter that was assigned to it is visible. Keep in mind that if two dice have a face in common, the letters assigned to them are always different from each other. What letter was assigned to the dice that is not visible? (A) A (B) B (C) C (D) D (E) Can not be answered
+> Lucia has eight dice. Each die is assigned
+> One and only one of the letters A, B, C, D, which is shown on each face of the die. By putting these eight dice together, they have formed the cube you see in the figure: for each die that makes up the cube, except for one, at least one face is visible—and therefore the letter assigned to it is visible too. Keep in mind that if two dice share a face, the letters assigned to them are always different from each other. What letter was assigned to the die that is not visible?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) It is not possible to respond
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q13|src_kangourou_2012_benjamin__Q13]]
 
 
 
@@ -552,13 +642,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many roads are missing on the seven-city map
+*How many roads are missing from the map of the Seven Cities?*
 
 ![[src_kangourou_2012_benjamin__prob14.png]]
 
-> There are seven cities in Wonderland. However, if two are chosen, they are connected by a direct road, that is, one that does not pass through other cities. On the map we show you, cities are symbolized by dots and streets by segments that have them as extremes. Unfortunately, whoever drew the map forgot to map some of the roads. How many are missing? A) 8 B) 11 C) 21 D) 10 E) 9
+> In the Land of Wonders, there are seven cities. Regardless of which two are chosen, they are connected by a direct road—that is, a road that does not pass through any other cities. On the map we are showing you, the cities are represented by points, and the roads by line segments whose endpoints are those points. Unfortunately, the person who drew the map forgot to draw some of the roads. How many are missing?
+> A) 8
+> B) 11
+> C) 21
+> D) 10
+> E) 9
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q14|src_kangourou_2012_benjamin__Q14]]
 
 
 
@@ -622,7 +722,7 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area of eight squares given the perimeter 42*
+*Area of the figure made up of eight squares, given a perimeter of 42*
 
 ![[src_kangourou_2012_benjamin__prob15.png]]
 
@@ -641,9 +741,22 @@ How many roads are missing on the seven-city map
 \end{document}
 ```
 
-> The figure you see is constructed from eight identical squares; its perimeter is 42 cm. How many square centimeters does it cover? A) 8 B) 9 C) 24 D) 72 E) 128 1 2 3 4 5 6 D D D A B D
+> The figure you see is constructed by joining eight together
+> Identical squares; its perimeter is 42 cm. How many square centimetres is its area?
+> A) 8
+> B) 9 
+> C) 24 
+> D) 72
+> E) 128 
+> 1 2 3 4 5 6 D D D A B D
+>
+> Pag. Pag. 13 13 Kang 2012 Kang 2012
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q15|src_kangourou_2012_benjamin__Q15]]
 
 
 
@@ -672,11 +785,19 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is true about the juice cocktail*
+*Which statement about the juice cocktail is true?*
 
-> In a fruit juice cocktail there are apples, bananas and oranges. Banana and orange are in the ratio of 1 to 2; orange and apple are in the ratio of 3 to 1. Which of the following claims is true? A) There are more bananas than oranges B) There are more oranges than apples and bananas combined C) There are more bananas than apples and oranges combined D) There are more apples than bananas and oranges combined E) The banana is the least present juice
+> In a fruit juice cocktail, there are apple, banana, and orange. Banana and orange are in the ratio 1 to 2; orange and apple are in the ratio 3 to 1. Which of the following statements is true?
+> A) There are more bananas than oranges. B) There are more oranges than apples and bananas combined.
+> C) There's more banana than apple and orange combined.
+> D) There's more apple than banana and orange combined.
+> E) Banana is the least prevalent juice.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q16|src_kangourou_2012_benjamin__Q16]]
 
 
 
@@ -713,9 +834,18 @@ How many roads are missing on the seven-city map
 
 ![[src_kangourou_2012_benjamin__prob17.png]]
 
-> Both of the figures on this side are formed by joining the same five pieces. One is a rectangle of 5 × 10 cm, the others are quarters of two different circles. How many centimeters is the difference between the greater and lesser of the two figures' perimeters? A) 2,5 B) 5 C) 10 D) 20 E) 30
+> Both shapes shown here on the side are formed by joining the same five pieces. One piece is a rectangle measuring 5 × 10 cm; the others are quarters of two different circles. How many centimetres is the difference between the larger and the smaller of the perimeters of the two shapes?
+> A) 2,5
+> B) 5
+> C) 10
+> D) 20
+> E) 30
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q17|src_kangourou_2012_benjamin__Q17]]
 
 
 
@@ -751,13 +881,23 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hip frog arrival point*
+*Arrival point of the Hip frog*
 
 ![[src_kangourou_2012_benjamin__prob18.png]]
 
-> Hip and Hop frogs make each three jumps inside a pond, which contains three stones marked with the numbers 1, 2 and 3, following this rule: at the center of the segment traveled in each jump there must be one of the three stones. The figure on the left shows you Hop's path. In the figure to the right is marked the starting point of Hip, who jumps the stones in the same order as Hop: what is her arrival point? A) A B) B C) C D) D E) E
+> Frogs Hip and Hop each make three jumps within a pond that contains three stones marked with the numbers 1, 2, and 3, following this rule: at the midpoint of the segment traversed in each jump, one of the three stones must be located. The figure on the left shows Hop's path. In the figure on the right, Hop's starting point is marked; Hop jumps over the stones in the same order as Hop: what is Hop's ending point?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) E
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q18|src_kangourou_2012_benjamin__Q18]]
 
 
 
@@ -790,13 +930,22 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many turns does the last wheel with teeth make*
+*How many revolutions does the last gear wheel make?*
 
 ![[src_kangourou_2012_benjamin__prob19.png]]
 
-> Four toothed wheels form a gear as shown in the figure. From left to right, they have respectively 30, 15, 60 and 10 teeth; in contact between two wheels, one tooth of the one alternates with one tooth of the other. If the first wheel (left) makes a complete turn, how many makes the last? A) 3 B) 4 C) 6 D) 8 E) 9
+> Four gear wheels form a gear train as shown in the figure. From left to right, they have 30, 15, 60, and 10 teeth, respectively; where two wheels are in contact, one tooth on one wheel alternates with one tooth on the other. If the first wheel (the one on the left) makes one complete revolution, how many revolutions does the last wheel make?
+> A) 3
+> B) 4
+> C) 6
+> D) 8
+> E) 9
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q19|src_kangourou_2012_benjamin__Q19]]
 
 
 
@@ -857,48 +1006,24 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times the ball appears at the window*
+*How many times does the ball appear at the window?*
 
-> A rubber ball falls vertically from the roof of a house 10 meters high,
-> grazing a wall. On each impact with the ground the ball bounces, always vertically, up to a height that is 4/5 of the height from which it came. Along
-> the line of fall there is a window whose upper edge is 6 meters from the ground,
-> 1
-> 2
-> 3
-> Start
-> End
-> Picture 1: Hop
-> 1
-> 2
-> 3
-> Start
-> Picture 2: Hip
-> A
-> B
-> C
-> D
-> E
-> start
-> finish
-> Frog HOP
-> Frog HIP
-> start
-> 
-> Pag. 
-> Pag. 14
-> 14
-> Kang 2012
-> Kang 2012
-> while the lower one is at 5 meters. Standing inside the house, how many times
-> does the ball appear at the window?
+> A rubber ball falls vertically from the roof of a 10-meter-high house, skimming a wall. With each impact on the ground, the ball bounces back, always vertically, to a height that is 4/5 of the height from which it came. Along the line of fall, there is a window whose upper edge is 6 meters above the ground, 1 2 3 Start End Picture 1: Hop 1 2 3 Start Picture 2: Hip A B C D E start finish Breaststroke HOP Breaststroke HIP start
+>
+> Pag. Pag. 14 14 Kang 2012 Kang 2012 while the lower one is at 5 meters. While inside the house, how many times does the ball appear at the window?
 > A) 3
 > B) 4
 > C) 5
 > D) 6
 > (E) 8
-> Questions from No. 21 to No. 30 are worth 5 points each
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q20|src_kangourou_2012_benjamin__Q20]]
 
 
 
@@ -936,13 +1061,23 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form of octagonal sheet unfolded after cutting*
+*Shape of the unfolded octagonal sheet after cutting*
 
 ![[src_kangourou_2012_benjamin__prob21.png]]
 
-> Note the figure: a regular octagon-shaped sheet is folded in half on itself three times until a triangle is obtained (for each of these times the folding line is indicated). From the triangle a right triangle is then cut, cutting along the indicated line. If the sheet is unfolded at this point, what is its shape? A) B) C) D) E)
+> Observe the figure: a sheet at
+> A regular octagon is folded in half onto itself three times until a triangle is obtained (the fold line is indicated each time). A right-angled triangle is then cut out from the triangle by cutting along the indicated line. If the sheet is unfolded at this point, which of the following is its shape?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q21|src_kangourou_2012_benjamin__Q21]]
 
 
 
@@ -1020,9 +1155,19 @@ How many roads are missing on the seven-city map
 \end{document}
 ```
 
-> In each of the circles in the figure, one and only one of the integers between 1 and 7 must be entered. You want to make sure that the sum of the three numbers that are on a straight line is always the same regardless of the straight line. What number do you have to put in the top circle? A) 1 B) 3 C) 4 D) 5 E) 6
+> In each of the circles in the figure, one and must be inserted
+> Exactly one of the integers between 1 and 7. You want to make sure that the sum of the three numbers on any straight line is always the same, no matter which line it is. Which number must you put in the upper circle?
+> A) 1
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q22|src_kangourou_2012_benjamin__Q22]]
 
 
 
@@ -1052,11 +1197,20 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean age of twelve boys*
+*Mean age of the twelve boys*
 
-> At a birthday party, there are twelve kids, and there's at least one for each age between 6 and 10 inclusive. Four of them are 6 years old and the most common age is 8. What is the average age of the twelve kids? A) 6,5 B) 7,5 C) 8,5 D) 9 E) 10
+> At a birthday party, there are twelve boys, and there is at least one boy for each age from 6 to 10 inclusive. Four of them are 6 years old, and the most common age is 8 years. What is the average age of the twelve boys?
+> A) 6,5
+> B) 7,5
+> C) 8,5
+> D) 9
+> E) 10
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q23|src_kangourou_2012_benjamin__Q23]]
 
 
 
@@ -1120,9 +1274,18 @@ How many roads are missing on the seven-city map
 \end{document}
 ```
 
-> The ABCD rectangle was divided into four rectangles as suggested by the figure. The perimeters of three of them are 11, 16 and 19 cm. The perimeter of the fourth is not the smallest and is not the largest of the four. How many centimeters does the perimeter of the original rectangle measure? A) 28 B) 30 C) 32 D) 38 E) 40
+> Rectangle ABCD has been divided into four rectangles as suggested by the figure. The perimeters of three of them are 11, 16, and 19 cm. The perimeter of the fourth is neither the smallest nor the largest of the four. How many centimeters is the perimeter of the original rectangle?
+> A) 28
+> B) 30
+> C) 32
+> D) 38
+> E) 40
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q24|src_kangourou_2012_benjamin__Q24]]
 
 
 
@@ -1162,28 +1325,22 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which numbers necessarily in consecutive vertices*
+*Which numbers must be at consecutive vertices?*
 
-> We want to place all the integers from 1 to 12 (included) in the vertices of a regular 12-sided polygon, one in each vertex, so that, for every pair of con-
-> A
-> B
-> C
-> D
-> 
-> Pag. 
-> Pag. 15
-> 15
-> Kang 2012
-> Kang 2012
-> secutive vertices, the numbers placed in them differ by 1 or by 2. Which
-> among the following numbers must necessarily be in consecutive vertices?
-> A) 5 and 6
-> B) 9 and 10 
-> C) 6 and 7
-> D) 8 and 10
-> E) 3 and 4
+> We want to place all the integers from 1 to 12 (inclusive) at the vertices of a regular 12-sided polygon, one at each vertex, so that, for every pair of verA B C D
+>
+> Page Page 15 15 Kang 2012 Kang 2012 consecutive tici, the numbers inserted in them differ by 1 or by 2. Which of the following numbers must necessarily be located at consecutive vertices?
+> A) 5 e 6
+> B) 9 e 10 
+> C) 6 e 7
+> D) 8 e 10
+> E) 3 e 4
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q25|src_kangourou_2012_benjamin__Q25]]
 
 
 
@@ -1214,11 +1371,21 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of square boards from a 6x7 board*
+*Minimum number of square tabletop tiles: 6x7*
 
-> Peter has a rectangular wooden board of 6 × 7 dm. He wants to cut it down so that you can only get square boards whose sides measure an integer number of decimeter. What is the minimum number of boards you'll have to get? A) 4 B) 5 C) 7 D) 9 E) 42
+> Pietro has a rectangular wooden board measuring 6 × 7 dm. He wants to cut it so that he ends up with only square pieces whose sides measure a whole number of decimetres: what is the minimum number of pieces he will have to obtain?
+> A) 4
+> B) 5
+> C) 7
+> D) 9
+> E) 42
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q26|src_kangourou_2012_benjamin__Q26]]
 
 
 
@@ -1251,13 +1418,22 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which numbered grid corresponds to the colour*
+*Which numbered grid corresponds to the coloring?*
 
 ![[src_kangourou_2012_benjamin__prob27.png]]
 
-> Some cells of a grid 4 × 4 were red in color. For each row, the number of red cells was indicated on the right; for each column, it was indicated at the bottom. Subsequently the colour was removed, but the numbers remained, giving rise to one of the following five numbered grids. Which one? A) B) C) D) E)
+> Some cells in a 4 × 4 grid were colored red. For each row, the number of red-colored cells was indicated on the right; for each column, it was indicated at the bottom. Subsequently, the coloring was removed, but the numbers remained, resulting in one of the following five numbered grids. Which one?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q27|src_kangourou_2012_benjamin__Q27]]
 
 
 
@@ -1291,13 +1467,22 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the areas of the two grey rectangles after folding*
+*Sum of the areas of the two grey rectangles after the folds*
 
 ![[src_kangourou_2012_benjamin__prob28.png]]
 
-> An 8 cm square sheet of paper was folded twice as shown in the figure. What is the sum of the areas of the two rectangles highlighted in gray in square centimetres? A) 10 B) 14 C) 15 D) 16 E) 24
+> A square sheet of paper with sides 8 cm long was folded twice as indicated in the figure. In square centimeters, what is the sum of the areas of the two rectangles highlighted in gray?
+> A) 10
+> B) 14
+> C) 15
+> D) 16
+> E) 24
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q28|src_kangourou_2012_benjamin__Q28]]
 
 
 
@@ -1327,11 +1512,20 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of b in house numbers with sum of 912*
+*Value of b in house numbers with a sum of 912*
 
-> The house numbers of three friends' houses can be written using only three digits altogether: the largest is abc, the second is bc and the third is c. The sum of the three numbers is 912. How much is b ? A) 5 B) 6 C) 7 D) 8 E) 0
+> The house numbers of three friends' homes can be written using only three digits in total: the largest is abc, the second is bc, and the third is c. The sum of the three numbers is 912. What is the value of b?
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 0
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q29|src_kangourou_2012_benjamin__Q29]]
 
 
 
@@ -1389,8 +1583,21 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What follows from the dialogue on two consecutive integers*
+*What can be inferred from the dialogue about two consecutive integers?*
 
-> I have communicated, one to Adriana and one to Bruno, two consecutive positive integers (e.g. 6 and 7). Each of them knows only one of the numbers, but they know that the two numbers are consecutive. The following dialogue took place between them in sequence. Adriana to Bruno: I don't know your number. Bruno to Adriana I don't know your number. Adriana to Bruno: Now I know your number. So A) Adriana's number is 1. B) Adriana's number is 2. C) Adriana's number is 3. D) Adriana's number is 4. E) Adriana is lying. 4 2 1 1 0 3 3 2 1 2 1 3 2 2 3 1 3 3 0 0 1 3 1 1 2 1 2 2 2 1 2 2 0 3 3 1 0 3 1 3
-> 
-> I'm not going to lie.
+> I told Adriana and Bruno, one each, about two consecutive whole positive numbers (for example, 6 and 7). Each of them knows only one of the numbers but knows that the two numbers are consecutive. The following dialogue took place between them in sequence. Adriana to Bruno: "I don't know your number." Bruno to Adriana: "I don't know your number." Adriana to Bruno: "Now I know your number." So
+> A) Adriana's number is 1.
+> B) Adriana's number is 2.
+> C) Adriana's number is 3.
+> D) Adriana's number is 4.
+> E) Adriana is lying.
+> 4 2 1 1 0 3 3 2 1 2 1 3 2 2 3 1 3 3 0 0 1 3 1 1 2 1 2 2 2 1 2 2 0 3 3 1 0 3 1 3
+>
+> Benjamin's Responses 2012
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin#q30|src_kangourou_2012_benjamin__Q30]]

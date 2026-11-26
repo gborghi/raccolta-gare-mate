@@ -30,11 +30,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number equal to three times its own double*
+*A number equal to three times its double*
 
-> Who am I? I'm triple my double. What number am I?
+> Who am I? I am equal to three times my double. What number am I?
 
-**Answer:** 0
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q01|src_kangourou_2016_squadre_ecolier_f__Q01]]
 
 
 
@@ -61,11 +65,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiples of 3 by adding 4 from 7 to 200*
+*How many multiples of 3, adding 4 starting from 7 up to 200?*
 
-> The numbering to the number 7 we add up 4, then again 4, then again 4 and so on until we first exceed the number 200: that's where we stop. Let's just consider the numbers we got by doing all these sums: how many of them are multiples of 3?
+> Numbering: At number 7, we add 4, then another 4, then another 4, and so on until we first exceed 200; at this point we stop. Let's consider only the numbers we obtained by performing all these additions: how many of them are multiples of 3?
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q02|src_kangourou_2016_squadre_ecolier_f__Q02]]
 
 
 
@@ -91,11 +100,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First year after 2016 with 1 January again Friday*
+*The first year after 2016 in which January 1 falls on a Friday again*
 
-> It was still Friday. What will be the first year after 2016 in which 1° January will fall again on a Friday?
+> Still a Friday: January 1, 2016, was a Friday. What will be the first year after 2016 in which January 1 falls on a Friday again?
 
-**Answer:** 2021
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q03|src_kangourou_2016_squadre_ecolier_f__Q03]]
 
 
 
@@ -120,11 +134,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cows from legs = 300 + double heads*
+*How many hoofed cows = 300 + twice the heads*
 
 > Cows On a farm, there are only cows and chickens. The total number of legs is equal to 300 plus twice the total number of heads. How many cows are there?
 
-**Answer:** 150
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q04|src_kangourou_2016_squadre_ecolier_f__Q04]]
 
 
 
@@ -150,11 +168,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square side cut into 36 squares (one larger)*
+*A square piece of fabric cut into 36 squares (one larger)*
 
-> Thirty-six squares A square is cut into 36 smaller squares. One of these has an area greater than 1 cm2, while all the others have an area of 1 cm2. How many centimeters does the side of the starting square measure?
+> Thirty-Six Squares A square is cut into 36 smaller squares. One of these has an area greater than 1 cm², while all the others have an area of 1 cm². How many centimetres long is the side of the original square?
 
-**Answer:** 18
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q05|src_kangourou_2016_squadre_ecolier_f__Q05]]
 
 
 
@@ -181,14 +204,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum baskets for Cantu to win (96-83)*
+*Minimum baskets for Cantù to win (96-83)*
 
-> Baskets
-> In a basketball game, Milano beat Cantù 96 to 83. Knowing that the baskets made
-> can be worth 1 or 2 or 3 points, what is the minimum number of baskets that Cantù
-> would have had to make to win?
+> Baskets: In a basketball game, Milan beat Cantù 96–83. Knowing that made baskets can be worth 1, 2, or 3 points, what is the minimum number of baskets Cantù would still have had to make to win?
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q06|src_kangourou_2016_squadre_ecolier_f__Q06]]
 
 
 
@@ -214,11 +239,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Distance B-C between four cities on the road
+*Distance B-C between four cities by road*
 
-> The four cities Traveling on a highway, one encounters in order four cities we will call A, B, C and D. If the distance between A and D is 250 km, that between C and A is 135 km and that between B and D is 165 km, how many kilometers is B from C?
+> The Four Cities While traveling along a state road, one encounters four cities in order; we will call them A, B, C, and D. If the distance between A and D is 250 km, the distance between C and A is 135 km, and the distance between B and D is 165 km, how many kilometers is B from C?
 
-**Answer:** 50
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q07|src_kangourou_2016_squadre_ecolier_f__Q07]]
 
 
 
@@ -247,14 +276,18 @@ Distance B-C between four cities on the road
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length in mm of the microkang train*
+*Length in mm of the little train in microkang*
 
-> Measurements in Kangland. In Kangland, lengths are not measured in meters, but in kang. A kang is 1.6 meters long, consists of 80 minikang and each minikang consists of 80 microkang. Anna's train is 3344 microkang long. How many millimeters is it?
->  
-> 
+> Measurements in Kanglandia In Kanglandia, lengths are not measured in metres but in kangs. One kang is 1.6 metres long, consists of 80 minikangs, and each minikang consists of 80 microkangs. Anna's little train is 3344 microkangs long. How many millimetres long is it?
+>
+>
 > 2
 
-**Answer:** 836
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q08|src_kangourou_2016_squadre_ecolier_f__Q08]]
 
 
 
@@ -282,15 +315,16 @@ Distance B-C between four cities on the road
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum initial apples in the dish with fractions taken*
+*Minimum initial apples on the plate with taken fractions*
 
-> The apples 
-> There are some apples in the dish. Anna took some: their quantity equals one third of the 
-> apples present in the dish plus one third of an apple. Luigi took others: their quantity equals one 
-> third of the apples remaining in the dish plus one third of an apple. Now an integer number of 
-> apples has remained in the dish. What is the minimum number of apples that could have been initially in the dish?
+> Apples There are some apples on the plate. Anna took some of them: their number is equal to one third of the apples on the plate plus one third of an apple. Luigi took some others: their number is equal to one third of the apples left on the plate plus one third of an apple. Now an integer number of apples remain on the plate. What is the minimum number of apples that could have been on the plate initially?
 
-**Answer:** 8
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q09|src_kangourou_2016_squadre_ecolier_f__Q09]]
 
 
 
@@ -314,11 +348,15 @@ Distance B-C between four cities on the road
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of two consecutive odd numbers with the sum of 196*
+*The product of two consecutive odd numbers whose sum is 196*
 
-> Sum and product The sum of two consecutive odd integers is 196. What's their product?
+> Sum and Product The sum of two consecutive odd integers is 196. What is their product?
 
-**Answer:** 9603
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q10|src_kangourou_2016_squadre_ecolier_f__Q10]]
 
 
 
@@ -344,11 +382,16 @@ Distance B-C between four cities on the road
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seven-digit numbers with exactly six 9*
+*7-digit numbers with exactly six 9s*
 
-> I've listed all the seven-digit numbers (i.e. from 1,000,000 to 9,999,999 included) where there are exactly six 9s. How many numbers are on my list?
+> Exactly six 9s. I have listed all 7-digit numbers (that is, from 1,000,000 to 9,999,999 inclusive) in which there are exactly six 9s. How many numbers are in my list?
 
-**Answer:** 62
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q11|src_kangourou_2016_squadre_ecolier_f__Q11]]
 
 
 
@@ -374,11 +417,15 @@ Distance B-C between four cities on the road
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much does Maria have (Lucia, Maria, Nina = 31)
+*How many euros does Maria have? (Lucia, Maria, Nina = 31)*
 
-> Lucia, Maria and Nina Lucia, Maria and Nina have a total of 31 euros. Lucia has less than Maria and Maria has less than Nina; but if Nina gives two euros to Lucia, Maria and Nina have the same number of euros and Lucia has more than each of them. How many euros does Maria have?
+> Lucia, Maria, and Nina: Lucia, Maria, and Nina have a total of 31 euros. Lucia has fewer euros than Maria, and Maria has fewer euros than Nina; however, if Nina gives two euros to Lucia, then Maria and Nina have the same number of euros, and Lucia has more euros than each of them. How many euros does Maria have?
 
-**Answer:** 10
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q12|src_kangourou_2016_squadre_ecolier_f__Q12]]
 
 
 
@@ -406,11 +453,15 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Row and place at the concert from seating and row constraints*
+*Queue and seat at the concert subject to seat and row restrictions*
 
-> In a concert hall there are 20 rows, each with 16 seats, numbered from left to right, for the viewer. The number of seats on my right is equal to the number of rows in front of me and it's double the seats on my left. What row and where am I sitting? Write the result by first indicating the row number and then the seat number, in both cases using two digits (possibly 01 to indicate 1, etc.).
+> At the concert: In a concert hall, there are 20 rows, each with 16 seats numbered from left to right as seen from the stage. The number of seats to the right of my seat equals the number of rows in front of me and is twice the number of seats to my left. Which row and which seat am I in? Write the answer by stating the row number first and then the seat number, using two digits in both cases (possibly 01 to indicate 1, etc.).
 
-**Answer:** 1106
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q13|src_kangourou_2016_squadre_ecolier_f__Q13]]
 
 
 
@@ -437,11 +488,16 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of 5-seat tents for 31 boys with no empty seats
+*Minimum: tents for 5 people, for 31 boys with no vacancies*
 
-> In camp A group of 31 boys go camping with their tents: some are three-seaters, others are five-seaters. What is the minimum number of five-seat tents they may have brought, if everyone has a place but there are no empty places in any of the tents?
+> Camping A group of 31 young people go camping, bringing tents with them: some are for 3 people, others for 5 people. What is the minimum number of 5-person tents they could have brought, if everyone has a place and no tent has any empty spots?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q14|src_kangourou_2016_squadre_ecolier_f__Q14]]
 
 
 
@@ -472,15 +528,15 @@ Minimum number of 5-seat tents for 31 boys with no empty seats
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of the product of all three-digit odd numbers*
+*The units digit of the product of all three-digit odd numbers*
 
-> A very large product 
-> Let's multiply all three-digit odd numbers: what is the units digit of the product?  
-> 3 
->  
-> Kangourou of Mathematics 2016   
-> Kangourou Ecolier Team Cup   
-> Cervia, 6 May 2016 
->       Questions and solutions
+> A very large product. Let's multiply all three-digit odd numbers: what is the units digit of the product? 3
+>
+> Kangaroo Mathematics Competition 2016 Team Cup Kangaroo Ecolier Cervia, 6 May 2016 Questions and Solutions
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_ecolier_f#q15|src_kangourou_2016_squadre_ecolier_f__Q15]]

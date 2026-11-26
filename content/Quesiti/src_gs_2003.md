@@ -32,20 +32,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 9200
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The city flag*
+*Municipal flag, 15 points*
 
 ![[src_gs_2003__prob1.png]]
 
-> The city flag (15 points)
-> The flag of Genoa consists of a red cross on a white background. The arms of the cross are parallel to the sides of the flag and run across its whole length and its whole width. The Mayor of Genoa orders a large flag to fly over the City Hall. It must be three metres long and one metre eighty centimetres high, while the arms of the cross must be twenty centimetres wide. Determine how many square centimetres the area of the red surface on one side of the flag will measure.
+> Municipal flag, 15 points
+> The flag of Genoa consists of a red cross on a white background. The arms of the cross are parallel to the sides of the flag and extend across the flag in its full length and full width. The Mayor of Genoa commissions a large flag to be flown from the Town Hall. It must be three metres long and one metre eighty centimetres high, while the arms of the cross must be twenty centimetres wide. Determine how many square centimetres the area of the red surface on one side of the flag will be.
 
-**Answer:** 9200
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2003#q01|src_gs_2003__Q01]]
 
 
 
@@ -70,21 +73,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1881
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Palindromic victory*
+*Palindromic victory, 15 points*
 
 ![[src_gs_2003__prob2.png]]
 
-> Palindromic victory (15 points)
-> From a newspaper of the year 3003: “This year the usual team competition of Genoa was won by the ‘Rosolini’ high school. The captain of the winning team immediately pointed out that the score achieved is the smallest four-digit integer that is both a palindrome and divisible by 9.” Determine how many points the ‘Rosolini’ high school scored.
-> Note: a number is called a palindrome if it does not change when read from left to right or from right to left (for example 313 and 851158).
+> Palindromic victory: 15 points
+> From a newspaper dated 3003: "This year, the usual team competition in Genoa was won by Liceo 'Rosolini'. The captain of the winning team immediately pointed out that the score achieved is the smallest four-digit integer that is simultaneously a palindrome and divisible by 9." Determine how many points Liceo 'Rosolini' scored. Note: a number is called a palindrome if it remains unchanged when read from left to right or from right to left (for example, 313 and 851158).
 
-**Answer:** 1881
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2003#q02|src_gs_2003__Q02]]
 
 
 
@@ -117,20 +122,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5998
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*It's always the journalists' fault*
+*The blame always lies with journalists: 15 points*
 
 ![[src_gs_2003__prob3.png]]
 
-> It's always the journalists' fault (15 points)
-> From a newspaper of 4003: “This year the usual team competition of Genoa saw the participation of as many as 9999 teams. The complete ranking of the competition is shown in the table below [of which, for brevity, we report only the beginning!]: Team name, ‘Scoglio’ High School, ‘Boskov’ High School, ‘Mancini’ Space Institute, ‘Skuhravy’ Astronaval Gymnasium… Note in particular that the ‘Rosolini’ high school, which won for the last time exactly 1000 years ago, is this year only in the row marked with the number 4003.” However, the table was compiled rather hastily and contains two gross errors: the first is that the number 1 corresponds to the entry ‘Team name’; the second is that the ranking was printed in reverse order, so that the ‘Scoglio’ high school actually came last, the ‘Boskov’ high school came second to last, and so on. Determine in which position the ‘Rosolini’ high school really finished.
+> It's always the journalists' fault — 15 points
+> From a newspaper dated 4003: "This year, the usual team competition in Genoa saw the participation of as many as 9999 teams. The complete standings for the competition are given in the table below [of which, for brevity, we present only the beginning here!]: Team Name Liceo 'Scoglio' Liceo 'Boskov' Istituto Spaziale 'Mancini' Ginnasio Astronavale 'Skuhravy' Note in particular that Liceo 'Rosolini', which last won exactly 1000 years ago, this year is only in the row marked with the number 4003." However, the table was compiled rather hastily and contains two glaring errors: the first is that the entry 'Team Name' corresponds to number 1; the second error is that the standings were printed in reverse, so Liceo 'Scoglio' actually came last, Liceo 'Boskov' came second-to-last, and so on. Determine the position in which Liceo 'Rosolini' actually finished.
 
-**Answer:** 5998
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2003#q03|src_gs_2003__Q03]]
 
 
 
@@ -152,20 +160,20 @@ level: squadre
 > Determinare quanti “cucù!” emette l’orologio nell’arco di 24 ore.
 
 **Risposta:** 2832
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The crazy cuckoo clock*
+*The Crazy Cuckoo 20 points*
 
 ![[src_gs_2003__prob4.png]]
 
-> The crazy cuckoo clock (20 points)
-> In the office of the Rector of the University of Genoa there is an old cuckoo clock. Unfortunately the mechanism has recently broken down, and instead of announcing the hours, the clock makes a “cuckoo!” every time the second hand and the minute hand are perpendicular to each other (the second hand moves continuously, not in jumps). Determine how many “cuckoo!”s the clock makes in 24 hours.
+> The Crazy Cuckoo 20 Points
+> In the office of the Rector of the University of Genoa, there is an old cuckoo clock. Unfortunately, recently the mechanism has broken down, and instead of chiming the hours, the clock lets out a "cuckoo!" every time the second hand and the minute hand are perpendicular to each other (the second hand moves continuously, not in discrete steps). Determine how many "cuckoo!"s the clock lets out over the course of 24 hours.
 
-**Answer:** 2832
+[[Quesiti/src_gs_2003#q04|src_gs_2003__Q04]]
 
 
 
@@ -187,20 +195,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0247
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much does he earn?*
+*But how much does he gain? 25 points*
 
 ![[src_gs_2003__prob5.png]]
 
-> How much does he earn? (25 points)
-> A car dealer buys a used car and resells it at a higher price. The purchase price and the resale price are whole numbers of euros, each with four digits, and writing them uses each of the digits from 1 to 8 exactly once. Determine the minimum number of euros the dealer earns.
+> But how much does he gain? 25 points
+> A car dealer buys a used car and resells it at an increased price. The two prices—the purchase price and the resale price—are whole numbers of euros, each four digits long, and to write them, all the digits from 1 to 8 are used exactly once. Determine the minimum number of euros the dealer makes.
 
-**Answer:** 0247
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2003#q05|src_gs_2003__Q05]]
 
 
 
@@ -222,20 +233,20 @@ level: squadre
 > Determinare quanti bambini sono nati nel 2001.
 
 **Risposta:** 7791
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Strange coincidences at the registry office*
+*Strange coincidences at the civil registry: 25 points*
 
 ![[src_gs_2003__prob6.png]]
 
-> Strange coincidences at the registry office (25 points)
-> Examining the data of the Genoa registry office for the years from 1900 to 2002, some singular coincidences emerged. First of all, whichever period of four consecutive years is chosen, the total number of children born in those four years is always the same. Moreover, 3291 children were born in 1923 and 7791 in 1977. Determine how many children were born in 2001.
+> Strange coincidences at the civil registry: 25 points
+> Upon examining the data from the Genoa civil registry for the years from 1900 to 2002, some peculiar coincidences have emerged. First of all, regardless of which period of four consecutive years is chosen, the total number of children born in those four years is always the same. Furthermore, 3,291 children were born in 1923, and 7,791 children were born in 1977. Determine how many children were born in 2001.
 
-**Answer:** 7791
+[[Quesiti/src_gs_2003#q06|src_gs_2003__Q06]]
 
 
 
@@ -264,20 +275,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0276
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Work, people, work!*
+*Work, folks, work! 30 points*
 
 ![[src_gs_2003__prob7.png]]
 
-> Work, people, work! (30 points)
-> Given the very poor level of the class, a teacher loaded her students with exercises for the holidays. Damiano, Giovanni and Michele then decided to work hard in the first days, so as to have the rest of the summer free. Damiano did 1/6 of the exercises on the first day, and then as many as 100 on the second day. Giovanni instead did half of the exercises on the first day, but only 9 on the second. Finally, Michele did 1/4 of the assigned exercises on the first day, and 79 on the second. Knowing that in the first two days Damiano did fewer exercises than Giovanni, who in turn did fewer exercises than Michele, and that each of the three boys did a whole number of exercises every day, determine how many exercises were assigned for the holidays.
+> Work, folks, work! 30 points
+> Given the abysmal standard of the class, a teacher loaded her students with holiday exercises. Damiano, Giovanni, and Michele then decided to work hard during the first few days so that they would have a free summer afterward. On the first day, Damiano therefore did 1/6 of the exercises, and on the second day he did as many as 100. Giovanni, by contrast, did half of the exercises on the first day but only 9 on the second. Finally, Michele did 1/4 of the assigned exercises on the first day, while on the second day he did 79. Knowing that over the first two days Damiano did fewer exercises than Giovanni, who in turn did fewer exercises than Michele, and that all three boys did a whole number of exercises each day, determine how many exercises were assigned for the holiday.
 
-**Answer:** 0276
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2003#q07|src_gs_2003__Q07]]
 
 
 
@@ -299,20 +313,20 @@ level: squadre
 > Determinare quanti grammi pesa la torta.
 
 **Risposta:** 5130
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The victory cake*
+*Victory cake 30 points*
 
 ![[src_gs_2003__prob8.png]]
 
-> The victory cake (30 points)
-> To celebrate their school's victory in this competition, the teachers of the institute decided to offer their students a large cake. Trying to guess how many grams the cake weighs, the seven competitors said, respectively, 5040, 5060, 5110, 5120, 5150, 5170, 5180. Nobody guessed the exact weight, and the sum of all the errors (always counted as positive) is 300 grams. Determine how many grams the cake weighs.
+> Victory cake 30 points
+> To celebrate their school's victory in this competition, the teachers at the institution decided to treat their students to a large cake. Trying to guess how many grams the cake weighs, the seven contestants said, respectively, 5040, 5060, 5110, 5120, 5150, 5170, and 5180. None of them got the exact weight, and the sum of all the errors (always counted as positive) is 300 grams. Determine how many grams the cake weighs.
 
-**Answer:** 5130
+[[Quesiti/src_gs_2003#q08|src_gs_2003__Q08]]
 
 
 
@@ -339,20 +353,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 8400
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much does it cost to clean the “Matitone”!*
+*But how much does it cost to clean the "Matitone"! 35 points*
 
 ![[src_gs_2003__prob9.png]]
 
-> How much does it cost to clean the “Matitone”! (35 points)
-> The “Matitone” (“Big Pencil”) is the sixth tallest skyscraper in Italy and is located in Genoa. It consists of a right prism with an octagonal base topped by a right pyramid whose octagonal base coincides with the upper base of the prism. A cleaning company is hired to clean the outer surface of the Matitone. A worker measures that a taut rope starting from the tip of the skyscraper, passing through the midpoint of a side of the octagon and reaching the ground, is 120 metres long. He then measures the height of the prism and the side of the octagon, which turn out to be 90 metres and 20 metres respectively. Knowing that the company charges half a euro per square metre to be cleaned, determine how many euros cleaning the whole surface of the skyscraper will cost.
+> But how much does it cost to clean the "Matitone"! 35 points
+> The "Matitone" is the sixth-tallest skyscraper in Italy and is located in Genoa. It consists of a right prism with an octagonal base, surmounted by a right pyramid with an octagonal base that coincides with the prism's upper base. A cleaning company is commissioned to clean the exterior surface of the Matitone. An worker then measures that the length of a taut cord extending from the top of the skyscraper, passing through the midpoint of one side of the octagon and reaching the ground, is 120 metres. Subsequently, the worker measures the height of the prism and the side length of the octagon; these are found to be 90 metres and 20 metres, respectively. Given that the company charges half a euro per square metre to be cleaned, determine how many euros the cleaning of the entire surface of the skyscraper will cost.
 
-**Answer:** 8400
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2003#q09|src_gs_2003__Q09]]
 
 
 
@@ -378,20 +395,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0073
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The regatta*
+*The 35-Point Regatta*
 
 ![[src_gs_2003__prob10.png]]
 
-> The regatta (35 points)
-> The four Ligurian provinces decided to challenge each other in a sailing regatta. At a certain point of the TV coverage, the computer graphics show from above the position of the four boats. A spectator with a strong mathematical bent immediately notices that the Savona boat is at the midpoint between the La Spezia boat and the Imperia boat, and that the triangle formed by Genoa, Savona, La Spezia and the one formed by Genoa, Savona and Imperia are both isosceles. Knowing that the distance between the Genoa and La Spezia boats is 110 metres, while the distance between the Genoa and Imperia boats is 96 metres, determine the distance between the Genoa and Savona boats.
+> The 35-point regatta
+> The four provinces of Liguria have decided to compete against one another in a sailing regatta. At a certain point during the television commentary, computer-generated graphics show the positions of the four boats from above. A spectator with a pronounced mathematical bent immediately notes that the Savona boat is at the midpoint between the La Spezia boat and the Imperia boat, and that both the triangle formed by Genoa, Savona, and La Spezia and the triangle formed by Genoa, Savona, and Imperia are isosceles. Given that the distance between the Genoa and La Spezia boats is 110 metres, while the distance between the Genoa and Imperia boats is 96 metres, determine the distance between the Genoa and Savona boats.
 
-**Answer:** 0073
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2003#q10|src_gs_2003__Q10]]
 
 
 
@@ -416,20 +436,20 @@ level: squadre
 > Determinare quanti batteri ci sono nella coltura al secondo conteggio.
 
 **Risposta:** 2187
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The fertile bacterium*
+*The bacterium scores 35 points*
 
 ![[src_gs_2003__prob11.png]]
 
-> The fertile bacterium (35 points)
-> In the biotechnology laboratories of the University of Genoa researchers want to study a dangerous type of bacteria, with the peculiarity that after a fixed time each bacterium splits into three! Since at the start there is a single specimen, a researcher decides to put it in a culture and wait for it to reproduce a sufficient number of times. After a certain period, the researcher re-examines the culture and counts the bacteria, but their number is still insufficient for the studies. After some more time, the researcher counts the bacteria again and notices that there are now 2106 more than at the previous count. Determine how many bacteria there are in the culture at the second count.
+> The fertile bacterium 35 points
+> In the biotechnology laboratories at the University of Genoa, researchers want to study a dangerous type of bacterium, with the peculiarity that after a fixed period of time, each bacterium divides into three! Since there is a single specimen at the beginning, a researcher decides to place it in a culture and wait for it to reproduce a sufficient number of times. After a certain period, the researcher re-examines the culture and counts the number of bacteria, but this number is still insufficient to carry out the studies. After a little more time has passed, the researcher counts the bacteria again and notes that there are now 2106 more bacteria than in the previous count. Determine how many bacteria are in the culture at the second count.
 
-**Answer:** 2187
+[[Quesiti/src_gs_2003#q11|src_gs_2003__Q11]]
 
 
 
@@ -454,20 +474,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1250
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Under special surveillance*
+*Specially Monitored 40 Points*
 
 ![[src_gs_2003__prob12.png]]
 
-> Under special surveillance (40 points)
-> A child, accompanied by his parents and a grandparent, wants to play in a square piazza with sides of 100 metres. Knowing his precocious mathematical abilities, to keep a better eye on him the three adults stand at three distinct vertices of the piazza and tell the child that he can run freely around the piazza, provided that at every moment the quadrilateral having the four of them as vertices has an area less than or equal to one quarter of the area of the piazza. Determine how many square metres the child has at his disposal.
+> Specially Monitored 40 Points
+> A child, accompanied by their parents and a grandfather, wants to play in a square plaza with sides 100 meters long. Knowing the child's precocious mathematical abilities, the three adults—in order to keep better track of the child—take positions at three distinct vertices of the plaza and tell the child that they may run around freely within the plaza provided that, at every instant, the quadrilateral having the four of them as vertices has an area less than or equal to one quarter of the plaza's area. Determine how many square meters are available to the child.
 
-**Answer:** 1250
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2003#q12|src_gs_2003__Q12]]
 
 
 
@@ -490,20 +513,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7500
-**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The divisible codes*
+*Codes divisible by 40 points*
 
 ![[src_gs_2003__prob13.png]]
 
-> The divisible codes (40 points)
-> To remember the code of his VideoBank, Giovanni noticed that it is a number with four distinct digits, all different from 0 and from 1, and that it is divisible by each of these four digits. Moreover, it is the largest four-digit number with this property. Curiously, Damiano's VideoBank number has the same property as Giovanni's, except that it is the smallest four-digit number having it. Determine the difference between Giovanni's code and Damiano's.
+> Codes divisible by 40 points
+> To recall the code for his VideoBank, Giovanni noted that it is a four-digit number with distinct digits, all of which are different from 0 and 1, and that it is divisible by all four of these digits. Moreover, it is the largest four-digit number with this property. Curiously, Damiano's VideoBank number has the same property as Giovanni's, except that it is the smallest four-digit number with this property. Determine the difference between Giovanni's code and Damiano's code.
 
-**Answer:** 7500
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2003#q13|src_gs_2003__Q13]]
 
 
 
@@ -525,20 +551,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 7577
-**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The competition pentagon*
+*Pentagon of match 45 points*
 
 ![[src_gs_2003__prob14.png]]
 
-> The competition pentagon (45 points)
-> In the future the number of teams invited to this competition is expected to increase considerably. For this reason the University has planned the construction of a dedicated pentagonal sports hall. The project requires two consecutive sides to be 100 metres long, and the other three sides to be 50 metres long and to form two angles of 120 degrees with each other. Determine, in square metres, the area of the new hall.
+> Pentagon of match 45 points
+> In the future, it is planned to significantly increase the number of teams invited to this competition. For this reason, the university has provided for the construction of a dedicated pentagonal indoor arena. The design calls for two consecutive sides to be 100 meters long, and for the other three sides to be 50 meters long and to form two angles of 120 degrees between them. Determine, in square meters, the area of the new arena.
 
-**Answer:** 7577
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2003#q14|src_gs_2003__Q14]]
 
 
 
@@ -565,20 +594,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0080
-**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The random flags*
+*Random flags 45 points*
 
 ![[src_gs_2003__prob15.png]]
 
-> The random flags (45 points)
-> A Sampdoria flag consists of six horizontal stripes coloured, from top to bottom, blue, white, red, black, white and blue. A factory produces Sampdoria flags, but because of an error the machines, after selecting two blue stripes, two white stripes, one red and one black, sew the six strips of cloth together in random order one after the other, and then attach the whole to the pole so that the stripes are horizontal. After 14400 flags have been made with this method, a worker notices the error and stops production. Determine how many flags with the correct order of colours will have been made, on average, up to that moment.
+> Random flags 45 points
+> A Sampdoria flag consists of six horizontal colored stripes, from top to bottom: blue, white, red, black, white, and blue. A factory produces Sampdoria flags, but due to an error, after selecting two blue stripes, two white stripes, one red stripe, and one black stripe, the machines sew the six fabric strips together one after another at random, and then attach the whole thing to the pole so that the stripes are horizontal. After 14,400 flags have been made using this method, a worker notices the error and stops production. Determine, on average, how many flags with the correct color order will have been made by that point.
 
-**Answer:** 0080
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2003#q15|src_gs_2003__Q15]]
 
 
 
@@ -598,20 +630,20 @@ level: squadre
 > Determinare, in metri quadrati, quanto potrà essere, al massimo, la superficie del parco.
 
 **Risposta:** 5625
-**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counted money*
+*Counted money: 50 points*
 
 ![[src_gs_2003__prob16.png]]
 
-> Counted money (50 points)
-> In Piazza della Vittoria they want to build a small park in the shape of a circular sector, surrounded by an artistic wrought-iron fence, both along the two radii and along the arc. Given the limited budget, the fence cannot be longer than 300 metres. Determine, in square metres, the maximum possible area of the park.
+> Counted money: 50 points
+> In Piazza della Vittoria, they want to build a small park shaped like a circular sector, surrounded by an artistic wrought-iron fence along both radii and along the arc. Given the limited budget, the fence cannot be longer than 300 metres. Determine, in square metres, the maximum possible area of the park.
 
-**Answer:** 5625
+[[Quesiti/src_gs_2003#q16|src_gs_2003__Q16]]
 
 
 
@@ -636,20 +668,20 @@ level: squadre
 > Settembre.
 
 **Risposta:** 2040
-**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Car-free Sundays*
+*Sundays on Foot 50 Points*
 
 ![[src_gs_2003__prob17.png]]
 
-> Car-free Sundays (50 points)
-> On a Sunday afternoon when cars are banned from the centre of Genoa, a large crowd is strolling along Via XX Settembre. To estimate how many people are in the street at a certain instant, Gianmarco draws an imaginary straight line perpendicular to the street and counts that in one minute this line is crossed, in one direction or the other, by 150 people. Knowing that Via XX Settembre is 816 metres long, and assuming that the flow of people is constant and that everybody walks parallel to the street at a speed of one metre per second, determine the number of people simultaneously present in Via XX Settembre.
+> Sundays on Foot 50 points
+> On a Sunday afternoon when car traffic is banned in central Genoa, a large crowd strolls along Via XX Settembre. To estimate how many people are on the street at a given moment, Gianmarco draws an imaginary straight line perpendicular to the street and counts that, in one minute, 150 people cross this line in either direction. Knowing that Via XX Settembre is 816 meters long, and assuming that the flow of people is constant and that everyone is walking parallel to the street at a speed of one meter per second, determine the number of people present on Via XX Settembre at the same time.
 
-**Answer:** 2040
+[[Quesiti/src_gs_2003#q17|src_gs_2003__Q17]]
 
 
 
@@ -671,20 +703,20 @@ level: squadre
 > quanti pesci ci sono in totale all’acquario di Genova.
 
 **Risposta:** 6533
-**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The aquarium*
+*The Aquarium 55 Points*
 
 ![[src_gs_2003__prob18.png]]
 
-> The aquarium (55 points)
-> At the Genoa aquarium there are 47 tanks, each with a different number of fish in it. The number of fish in the tanks increases steadily from tank number 1 to tank number 47 (that is, the difference between the number of fish in a tank and in the previous tank is always the same). Knowing that the odd-numbered tanks contain 3336 fish altogether, determine how many fish there are in total in the Genoa aquarium.
+> The Aquarium 55 Points
+> At the Genoa Aquarium, there are 47 tanks, each containing a different number of fish. The number of fish in the various tanks increases steadily from tank number 1 to tank number 47 (that is, the difference between the number of fish in one tank and the number in the preceding tank is always the same). Given that there are 3336 fish in total in the tanks with odd numbers, determine the total number of fish at the Genoa Aquarium.
 
-**Answer:** 6533
+[[Quesiti/src_gs_2003#q18|src_gs_2003__Q18]]
 
 
 
@@ -707,22 +739,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9761
-**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fantasy football?*
+*Fantacalcio? 55 points*
 
 ![[src_gs_2003__prob19.png]]
 
-> Fantasy football? (55 points)
-> In a Ligurian puzzle magazine the following algebraic expression appeared
-> GENOA + SAMP = SERIE − A
-> in which equal letters represent equal digits and different letters represent different digits. Moreover, no number begins with the digit zero. Determine the maximum value that SAMP can take.
+> Fantacalcio? 55 points
+> In a Ligurian puzzle magazine, the following algebraic expression appeared: GENOA + SAMP = SERIE - A, where identical letters represent identical digits and different letters represent different digits. Furthermore, no number begins with the digit zero. Determine the maximum value that SAMP can take.
 
-**Answer:** 9761
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2003#q19|src_gs_2003__Q19]]
 
 
 
@@ -754,20 +787,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2002
-**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Operation “Safe stadiums”*
+*"Safe Stadiums" Operation: 60 points*
 
 ![[src_gs_2003__prob20.png]]
 
-> Operation “Safe stadiums” (60 points)
-> 2003 fans would like to take part in an away match. Some of them are peaceful and always tell the truth; others, unfortunately, are violent and always lie. Each fan knows at least one other. All 2003 fans have a home page, on which, in the days before the trip, they all write the sentence “the number of violent fans I know is strictly greater than the number of peaceful fans I know”. Worried by the situation, the authorities of the city where the match is to be played have a suspicious fan arrested, preventing him from taking part in the trip. At this point all the remaining 2002 write on their home page “among the remaining fans, the number of violent ones I know is strictly smaller than the number of peaceful ones I know”, and the 2002 can leave undisturbed. Determine how many violent fans originally wanted to take part in the trip. Assume that acquaintance is symmetric (that is, if A knows B, then B knows A); assume also that no fan includes himself among the people he knows.
+> "Safe Stadiums" Operation: 60 points
+> 2003 fans would like to take part in an away trip. Some of them are peaceful and always tell the truth; unfortunately, others are violent and always lie. Each fan knows at least one other fan. All 2003 fans have a homepage, on which, in the days preceding the away trip, everyone writes the sentence: “The number of violent fans I know is strictly greater than the number of peaceful fans I know.” Concerned by the situation, the authorities of the city where the match is supposed to take place have a suspected fan arrested, thereby preventing that fan from taking part in the away trip. At this point, all 2002 remaining fans write on their homepage: “Among the remaining fans, the number of violent fans I know is strictly less than the number of peaceful fans I know,” and the 2002 can set off undisturbed. Determine how many violent fans initially wanted to take part in the away trip. Assume that knowledge is symmetric (that is, if A knows B, then B knows A); also assume that no fan includes themselves among the people they know.
 
-**Answer:** 2002
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2003#q20|src_gs_2003__Q20]]
 
 
 
@@ -792,24 +828,27 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0170
-**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The seer*
+*The Seer 65 points*
 
 ![[src_gs_2003__prob21.png]]
 
-> The seer (65 points)
-> To know in advance the winner of this team competition, a fortune-teller ordered a crystal ball with a radius of 40 centimetres. The ball was transported in a cubic box with sides of one metre. Given the fragility of the object, the ball was held still inside the box by eight small rubber balls, equal to each other and placed at the vertices of the cube so as to prevent any movement of the crystal ball. Determine, in millimetres, the radius of the rubber balls used for the packaging.
+> The Seer 65 points
+> To find out in advance who would win this team competition, a fortune-teller ordered a crystal sphere with a radius of 40 centimetres. The sphere was transported in a cubic box one metre on each side. Given the fragility of the object, inside the box the sphere was held in place by eight identical rubber balls positioned at the vertices of the cube so as to prevent any movement of the crystal sphere. Determine, in millimetres, the radius of the rubber balls used for packing.
 
-**Answer:** 0170
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2003#q21|src_gs_2003__Q21]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -830,23 +869,26 @@ level: squadre
 > si affrontano a due a due in partite di andata ritorno, in cui vengono assegnati 3 punti per la
 > vittoria, 1 punto per il pareggio e 0 punti per la sconfitta.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0101
-**Fonte:** [apri PDF p.8](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=8) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.8 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hope dies last...*
+*Hope dies last... 65 points*
 
 ![[src_gs_2003__prob22.png]]
 
-> Hope dies last... (65 points)
-> At the end of a finally exciting Serie B championship, Genoa and Sampdoria finish level on points at the top of the table. The statistics show that the two teams obtained their score in two different ways (that is, they had a different number of wins, of draws and of defeats) and moreover these were the only two ways to obtain that score. Knowing that both derbies ended in a draw and that both teams lost in the difficult away match at Livorno, determine with how many points Genoa and Sampdoria won the championship. Assume that the championship is still played according to the current rules, that is with 20 teams playing each other in pairs in home and away matches, in which 3 points are awarded for a win, 1 point for a draw and 0 points for a defeat.
+> Hope dies last... 65 points
+> At the end of a finally thrilling Serie B season, Genoa and Sampdoria finish with the same points total at the top of the standings. The statistics show that the two teams achieved their points total in two different ways (that is, they recorded different numbers of wins, draws, and defeats), and moreover, these were the only two ways of achieving that points total. Given that the two derbies ended in draws and that both teams lost in the difficult away match at Livorno, determine how many points Genoa and Sampdoria had when they won the league. Assume that the league is still played according to the current rules—that is, with 20 teams facing each other in home-and-away matches, with 3 points awarded for a win, 1 point for a draw, and 0 points for a defeat.
 
-**Answer:** 0101
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2003#q22|src_gs_2003__Q22]]
 
 
 
@@ -883,28 +925,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1977
-**Fonte:** [apri PDF p.8](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=8) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.8 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The number crossword*
+*The crucinumber 70 points*
 
 ![[src_gs_2003__prob23.png]]
 
-> The number crossword (70 points)
-> This year Michele found, in an old book of mathematics problems, a number crossword: it is a kind of crossword consisting of a 4 × 4 grid with a single black square, placed in the third square of the first row. The 15 white squares must be filled with digits, so that the numbers read in the various rows and columns never begin with a zero and satisfy the clues below.
-> • First row (first two squares): has exactly 12 positive divisors (including 1 and itself).
-> • Second row: the smallest positive integer that can be written as a sum of two positive perfect cubes in two different ways.
-> • Third row: a multiple of 13.
-> • Fourth row: a prime number.
-> • First column: a power of two.
-> • Second column: is divisible by 102.
-> • Third column: the largest prime number less than 300.
-> Unfortunately the last clue, corresponding to the fourth column, has been eaten by moths, but Michele, after solving the rest of the crossword, realises that he can write his own year of birth in the last column without contradicting the other clues. Determine Michele's year of birth.
+> The crucinumber 70 points
+> This year, Michele found a crucinumber in an old book of math problems: it is a kind of crossword puzzle consisting of a 4 × 4 grid with a single black cell in the third cell of the first row. The 15 white cells must be filled with digits so that the numbers read in the various rows and columns never begin with a zero and conform to the definitions given below. • First row (first two cells): has exactly 12 positive divisors (including 1 and itself). • Second row: the smallest positive integer that can be written as the sum of two positive perfect cubes in two different ways. • Third row: a multiple of 13. • Fourth row: a prime number. • First column: a power of two. • Second column: is divisible by 102. • Third column: the largest prime number less than 300. Unfortunately, the last definition, corresponding to the fourth column, has been nibbled by moths, but after solving the rest of the crucinumber, Michele realizes that he can write his own year of birth in the last column without this contradicting the other definitions. Determine Michele's year of birth.
 
-**Answer:** 1977
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2003#q23|src_gs_2003__Q23]]
 
 
 
@@ -926,17 +963,17 @@ level: squadre
 > albero di questo giardino.
 
 **Risposta:** 3006
-**Fonte:** [apri PDF p.8](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=8) · fairmath.it (Coppa Fermat 2003)
+**Fonte:** apri PDF p.8 · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fruit trees*
+*Fruit trees 80 points*
 
 ![[src_gs_2003__prob24.png]]
 
-> Fruit trees (80 points)
-> All the trees in the garden of Villa Pallavicini have some strange features. First of all, they all consist of 2003 branches; moreover, each branch either forks into two other branches, or ends with one fruit, or ends with two fruits; finally, all the trees have a single trunk (to be considered as a branch). Determine the sum of the maximum and the minimum number of fruits that a tree in this garden can have.
+> Fruit trees 80 points
+> All the trees in the garden of Villa Pallavicini have some strange characteristics. First of all, all of them consist of 2003 branches; moreover, each branch either forks into two other branches, or ends in one fruit, or ends in two fruits; finally, all the trees have a single trunk (to be regarded as a branch). Determine the sum of the maximum and minimum numbers of fruits that a tree in this garden can have.
 
-**Answer:** 3006
+[[Quesiti/src_gs_2003#q24|src_gs_2003__Q24]]

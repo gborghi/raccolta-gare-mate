@@ -32,11 +32,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of square cuts max from semicircle*
+*Maximum square-cut length from a semi-circle*
 
-> The cuts From a semicircle of paper with a radius of 100√5 you want to cut the largest square possible. What is the overall length of the cuts to achieve the goal?
+> Cuts: From a semicircular piece of paper with radius 100√5, you want to cut out the largest possible square. What is the total length of the cuts needed to achieve this?
 
-**Answer:** 0600
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q01|src_kangourou_2024_junior_squadre__Q01]]
 
 
 
@@ -62,11 +67,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of coefficients of the given functional polynomial*
+*Sum of coefficients of the given functional polynomial*
 
-> A polynomial P is such that P(x + 2020) = 2024 – 2x + 2P(2024) for every real value of x. What is the sum of the coefficients of P?
+> A polynomial. A polynomial P satisfies P(x + 2020) = 2024 – 2x + 2P(2024) for every real value of x. What is the sum of the coefficients of P?
 
-**Answer:** 2030
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q02|src_kangourou_2024_junior_squadre__Q02]]
 
 
 
@@ -116,7 +126,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many routes are closed without repeating segments*
+*How many paths are closed without repeating segments?*
 
 ![[src_kangourou_2024_junior_squadre__prob3.png]]
 
@@ -139,9 +149,14 @@ level: squadre
 \end{document}
 ```
 
-> The paths. Look at the figure. Starting from point A, you want to return to A by traveling only segments present in the figure, not necessarily all, but without traveling more than once any segment (although you can pass more than once through some endpoint of the segments). How many different routes are possible?
+> Paths Observe the figure. Starting from point A, one wants to return to A by following only the line segments shown in the figure—not necessarily all of them—but without traversing any segment more than once (although one may pass through some endpoint of the segments more than once). How many different possible paths are there?
 
-**Answer:** 1458
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q03|src_kangourou_2024_junior_squadre__Q03]]
 
 
 
@@ -168,11 +183,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two three-digit numbers summed up, seven times the sum of the numbers*
+*Add two 3-digit numbers; concatenate the product 7 times*
 
-> Two positive integers of three digits each are written consecutively to each other in a certain order: this gives a six-digit number that turns out to be 7 times the product of the two starting numbers. How much is the sum of these two numbers?
+> Two integers Two positive three-digit integers are written one immediately after the other in a certain order; this yields a six-digit number that is 7 times the product of the two starting numbers. What is the sum of these two numbers?
 
-**Answer:** 0286
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q04|src_kangourou_2024_junior_squadre__Q04]]
 
 
 
@@ -199,14 +219,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference of areas of right triangles with leg 18*
+*Difference of areas of right-angled triangles, leg 18*
 
-> Right triangles  
-> Consider all right triangles whose shorter leg measures 18 cm and whose other sides measure an 
-> integer number of centimeters. Consider the areas (in square centimeters) of these triangles: what is the 
-> difference, in square centimeters, between the largest and the smallest of them?
+> Right-angled triangles Consider all right-angled triangles whose shorter leg measures 18 cm and whose other sides measure a whole number of centimetres. Consider the areas (in square centimetres) of these triangles: what is the difference, in square centimetres, between the largest and the smallest of these areas?
 
-**Answer:** 0504
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q05|src_kangourou_2024_junior_squadre__Q05]]
 
 
 
@@ -231,11 +253,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Root of N, perfect square from M with +3 digits*
+*N's root, a perfect square from M with +3 digits*
 
-> The integer M is a perfect square and has four digits, all less than 7. Adding 3 to every digit of M gives you another perfect square N. What is the (positive) square root of N?
+> Squares The whole number M is a perfect square and has four digits, all of which are less than 7. Adding 3 to each digit of M yields another perfect square, N. What is the positive square root of N?
 
-**Answer:** 0067
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q06|src_kangourou_2024_junior_squadre__Q06]]
 
 
 
@@ -264,16 +290,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer part absolute value minimum solution f^4*
+*Whole part absolute minimum value solution f^4*
 
-> The integer part
-> For every real number x let f(x) = x2 + 64x + 992. Let α be the smaller of the solutions of the equation
-> f(f(f(f(x)))) = 0: determine the integer part of the absolute value of α.
->  
->  
+> Integer part For every real number x, let f(x) = x² + 64x + 992. Let α be the smallest solution of the equation f(f(f(f(x)))) = 0: determine the integer part of the absolute value of α.
+>
+>
 > A
 
-**Answer:** 0033
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q07|src_kangourou_2024_junior_squadre__Q07]]
 
 
 
@@ -306,16 +335,14 @@ level: squadre
 
 *Maximum N(S) among the centini, average 100*
 
-> The centini  
-> Let us say that a finite set S of positive integers is a centino if 
->  its elements are all distinct from one another, 
-> it contains the number 2,024, 
-> the average of its numbers is 100.  
-> For each such set S, let us denote by N(S) the largest of the numbers in S. As S varies among the 
-> centini, what is the largest of the numbers N(S)? (If you believe that there are centini sets S with N(S) 
-> arbitrarily large, answer 9999.)
+> Centini Let us say that a finite set S of positive integers is a centino if - all its elements are distinct from one another, - it contains the number 2,024, - the mean of its numbers is 100. For each such set S, let N(S) denote the largest number in S. As S varies among the centini, what is the largest possible value of N(S)? (If you believe there are centino sets S for which N(S) can be arbitrarily large, answer 9999.)
 
-**Answer:** 3126
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q08|src_kangourou_2024_junior_squadre__Q08]]
 
 
 
@@ -341,11 +368,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 12 digits 1,2,3 with adjacent differences 1*
+*Numbers with 12 digits, digits 1, 2, 3, with adjacent difference 1*
 
-> Only 1, 2, 3 How many positive integers of 12 digits, whose digits are only 1 and/or 2 and/or 3 and such that two adjacent digits differ by 1 anyway?
+> Solo 1, 2, 3 How many positive 12-digit integers are there whose digits are only 1 and/or 2 and/or 3 and in which any two adjacent digits differ by 1?
 
-**Answer:** 0128
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q09|src_kangourou_2024_junior_squadre__Q09]]
 
 
 
@@ -371,13 +403,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum surface area of a rectangular parallelepiped made from 500 cubes*
+*Minimum parallelepipedal area for 500 cubic units*
 
-> Rectangular parallelepiped  
-> A rectangular parallelepiped was built by putting together 500 cubes with side 1, so that the area of 
-> its total surface is as small as possible. What is this area?
+> Parallelepiped: A right rectangular parallelepiped has been constructed by joining 500 cubes with an edge length of 1, in such a way that its total surface area is as small as possible. What is the value of this area?
 
-**Answer:** 0400
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q10|src_kangourou_2024_junior_squadre__Q10]]
 
 
 
@@ -404,11 +439,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary values greater than given pair sums*
+*Sum of values: larger number, sums of pairs given*
 
-> Four real numbers With four distinct real numbers you can form six pairs of numbers. Knowing that, when these pairs vary, the sums of the two numbers that make them up are all different from each other and that the four smallest sums are 2, 4, 6, 8, we calculate the sum of all possible values of the greatest number.
+> Four real numbers With four distinct real numbers, six pairs of numbers can be formed. Given that, as these pairs vary, the sums of the two numbers in each pair are all different from one another, and that the four smallest sums are 2, 4, 6, and 8, calculate the sum of all possible values of the larger number.
 
-**Answer:** 0015
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q11|src_kangourou_2024_junior_squadre__Q11]]
 
 
 
@@ -437,16 +477,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result 2024∗24 with binary operation*
+*2024*24 result with binary operation*
 
-> Binary operation  
-> About a binary operation * defined between real numbers it is known that 
-> x * x = 0 
-> and 
->  x * (y * z) = (x * y) + z 
-> however three numbers x, y, z are assigned. What is the result of 2,024 * 24?
+> Binary operation For a binary operation * defined on real numbers, it is known that x * x = 0 and x * (y * z) = (x * y) + z, regardless of how three numbers x, y, z are assigned. What is the result of 2.024 * 24?
 
-**Answer:** 2000
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q12|src_kangourou_2024_junior_squadre__Q12]]
 
 
 
@@ -472,11 +512,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of squares of two integers summing to 29*
+*The minimum sum of the squares of two integers whose sum is 29*
 
-> The sum of two nonnegative integers is 29 and the sum of their squares is the smallest possible. What is this sum?
+> Sum 29: The sum of two non-negative integers is 29, and the sum of their squares is as small as possible. What is this sum?
 
-**Answer:** 0421
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q13|src_kangourou_2024_junior_squadre__Q13]]
 
 
 
@@ -505,11 +550,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extractions ordered to remove 12 marbles*
+*Draws ordered to remove 12 marbles*
 
-> One bag contains 12 indistinguishable marbles. Gaetano wants to take them all, not necessarily one at a time, but sometimes taking more than one at a time (e.g. he could take three together, then one, then again one, then seven, or even all twelve in a single shot). Taking into account the order in which Gaetano can group the marbles by extracting them, how many extractions are possible? Note: the order is important, e.g. (3, 1, 1, 7) is an extraction different from (1, 3, 1, 7).
+> The Marbles A bag contains 12 indistinguishable marbles. Gaetano wants to remove them all—not necessarily one at a time, but sometimes he may take more than one at a time (for example, he could remove three together, then one, then another one, then seven, or even all twelve at once). Taking into account the order in which Gaetano can group the marbles when removing them, how many possible removals are there? Note: order matters—for example, (3, 1, 1, 7) is a different removal from (1, 3, 1, 7).
 
-**Answer:** 2048
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q14|src_kangourou_2024_junior_squadre__Q14]]
 
 
 
@@ -543,12 +593,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 3 digits with distinct conditions and factors*
+*Maximum number with 3 digits, with distinct conditions and factors*
 
-> Three digits Of a positive integer we know that it has three digits, that the sum of the digits of the units with that of the hundreds coincides with the tens digit, that its prime factorization has all distinct factors and that it is the largest compatible with these constraints. What's the number?
-> 
-> Kangourou of Mathematics 2024 Junior Cup to teams Final 1 Cervia, 5 May 2024
->  
-> Titles and answers
+> Three digits: It is known about a positive integer that it has three digits, that the sum of the units digit and the hundreds digit equals the tens digit, that in its prime factorization all the factors are distinct from one another, and that it is the largest number consistent with these constraints. What number is it?
+>
+> Kangourou de Mathématiques 2024 Junior Team Cup Final 1 Cervia, 5 May 2024
+>
+> Titles and Answers
 
-**Answer:** 0781
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre#q15|src_kangourou_2024_junior_squadre__Q15]]

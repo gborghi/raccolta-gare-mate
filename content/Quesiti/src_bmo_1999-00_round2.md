@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi con tangente comune: dimostrare i triangoli di superficie uguale MNP e MNQ*
+*Due cerchi con tangente comune: dimostrare che i triangoli MNP e MNQ hanno la stessa area*
 
-> Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. Provare che i triangoli $MNP$ e $MNQ$ hanno aree uguali.
+> Due cerchi secanti $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ in $P$ e $C_2$ in $Q$. I due cerchi si intersecano in $M$ e $N$, dove $N$ è più vicino a $PQ$ di quanto lo sia $M$. Dimostrare che i triangoli $MNP$ e $MNQ$ hanno aree uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1999-00_round2#q01|src_bmo_1999-00_round2__Q01]]
 
 
 
@@ -56,11 +63,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo di x^2+4xy+4y^2+2z^2 dato xyz=32*
+*Trovare il minimo di x^2+4xy+4y^2+2z^2 dato che xyz=32*
 
-> Poiché $x, y, z$ sono numeri reali positivi che soddisfano $xyz = 32$, trovare il valore minimo di $$x^2 + 4xy + 4y^2 + 2z^2.$$
+> Dato che $x, y, z$ sono numeri reali positivi che soddisfano $xyz = 32$, determina il valore minimo di
+> $$x^2 + 4xy + 4y^2 + 2z^2.$$
 
-**Risposta:** 96
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1999-00_round2#q02|src_bmo_1999-00_round2__Q02]]
 
 
 
@@ -84,9 +97,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca dei numeri interi positivi p,q che soddisfano una determinata equazione piano/radicale*
+*Trovare numeri interi positivi p, q che soddisfino una data equazione con parte intera/radicale*
 
-> Trovare integri positivi $p$ e $q$ tali da $$p + q = \lfloor \sqrt{p} \rfloor + \lfloor \sqrt{q} \rfloor + \lfloor \sqrt{p+q} \rfloor.$$
+> Trovare i numeri interi positivi $p$ e $q$ tali che
+> $$p + q = \lfloor \sqrt{p} \rfloor + \lfloor \sqrt{q} \rfloor + \lfloor \sqrt{p+q} \rfloor.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1999-00_round2#q03|src_bmo_1999-00_round2__Q03]]
 
 
 
@@ -110,6 +131,14 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un insieme di 10 elementi in cui non ci sono 6 elementi sommati divisibili per 6; che dire di 11?*
+*Trovare un insieme di 10 elementi tale che nessuna somma di 6 elementi sia divisibile per 6; e per 11?*
 
-> (a) Trovare un insieme $A$ di dieci integri positivi in modo tale che non ci siano sei membri di $A$ che abbiano una somma divisibile da $6$. (b) È possibile trovare tale insieme se "dieci" vengono sostituiti da "onze"?
+> (a) Trova un insieme $A$ di dieci numeri interi positivi tale che nessuna sestupla di elementi di $A$ abbia una somma divisibile per $6$.
+> (b) È possibile trovare un tale insieme se "dieci" viene sostituito con "undici"?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1999-00_round2#q04|src_bmo_1999-00_round2__Q04]]

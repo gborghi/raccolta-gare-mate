@@ -37,17 +37,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ray of the circle surrounded by three tangent circles*
+*Radius of the circle circumscribed about three mutually tangent circles*
 
-> There are three outer tangent circumferences of two to two. They have a radius equal to 1, 2, 3 respectively. The radius of the circumference surrounding the triangle having three centers of circumference as vertices is then equal to
+> There are three circles tangent externally to each other in pairs. They have radii equal respectively to 1, 2, 3. The radius of the circle circumscribed about the triangle whose vertices are the three centers of the circles is then equal to
 >
 > - **(A)** 2
-> - **(B)** 2,5
+> - **(B)** 2.5
 > - **(C)** 3
 > - **(D)** π
-> - **(E)** There's no way to tell.
+> - **(E)** it cannot be determined.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_triennio#q03|src_archimede_1998_triennio__Q03]]
 
 
 
@@ -88,9 +92,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison between two numbers with irrational exponents*
+*Comparison of two numbers with irrational exponents*
 
-> Consider the two numbers x = √ 3 √ 2 √ 2 and y = √ 2 √ 3 √ 3 . You have that
+> Consider the two numbers x = √ 3 √ 2√ 2 and y = √ 2 √ 3√ 3. It holds that
 >
 > - **(A)** x = y
 > - **(B)** x > y
@@ -98,7 +102,10 @@ level: triennio
 > - **(D)** x2 −y2 > 1
 > - **(E)** x and y cannot be compared.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1998_triennio#q04|src_archimede_1998_triennio__Q04]]
 
 
 
@@ -127,9 +134,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n with n sides and 4n diagonal*
+*Value of n with n sides and 4n diagonals*
 
-> A regular polygon has n sides and 4 n diagonals. How much is n?
+> A regular polygon has n sides and 4n diagonals. What is the value of n?
 >
 > - **(A)** 8
 > - **(B)** 9
@@ -137,7 +144,10 @@ level: triennio
 > - **(D)** 11
 > - **(E)** 12.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_triennio#q05|src_archimede_1998_triennio__Q05]]
 
 
 
@@ -167,9 +177,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement is certainly true among three reports*
+*The statement that must be true, given three relations*
 
-> We know that only one of the following three relationships is true: x = 5, x > 5, x ≤5. Which of the following is certainly true?
+> We know that exactly one of the following three relations is true: x = 5, x > 5, x ≤5. Which of the following statements is certainly true?
 >
 > - **(A)** x = 5
 > - **(B)** x ̸= 5
@@ -177,7 +187,10 @@ level: triennio
 > - **(D)** x < 5
 > - **(E)** x ≥5.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1998_triennio#q06|src_archimede_1998_triennio__Q06]]
 
 
 
@@ -209,17 +222,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of intersection of two circles passing through the centres*
+*Area of the intersection of two circles through each other's centers*
 
-> Two planar circles of radius 1 are arranged in such a way that the circumference of each circle passes through the centre of the other. What is the area of the intersection of the two circles?
+> Two coplanar circles of radius 1 are arranged so that the circumference of each passes through the center of the other. What is the area of the intersection of the two circles?
 >
 > - **(A)** √ 3 2
 > - **(B)** √ 3 + π 2
 > - **(C)** π 2
 > - **(D)** √ 3
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_triennio#q07|src_archimede_1998_triennio__Q07]]
 
 
 
@@ -250,9 +267,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of growth of the first three extracts*
+*Probability that the first three drawn numbers are increasing*
 
-> Numbers 1, 2, 3 and 4 are extracted from a single day in any order. What is the probability that the first three numbers extracted are in increasing order?
+> The numbers 1, 2, 3 and 4 are drawn from an urn in any order. What is the probability that the first 3 drawn numbers are in increasing order?
 >
 > - **(A)** 1 3
 > - **(B)** 1 4
@@ -260,7 +277,11 @@ level: triennio
 > - **(D)** 1 8
 > - **(E)** 1 12.
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_triennio#q08|src_archimede_1998_triennio__Q08]]
 
 
 
@@ -293,19 +314,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BCD angle given the inscribed angle and diameter*
+*Angle BCD given an inscribed angle and a diameter*
 
-![[src_archimede_1998_triennio__prob10.png]]
-
-> Suppose, in the circle in the figure, the angle $\widehat{BAC}$ is 35°. Whether CD is the diameter passing through C, how much is $\widehat{BCD}$?
+> Suppose that, in the circle in the figure, the angle $\widehat{BAC}$ is 35°. Let CD be the diameter through C. What is $\widehat{BCD}$?
 >
 > - **(A)** 35°
 > - **(B)** 45°
 > - **(C)** 50°
 > - **(D)** 55°
-> - **(E)** None of the previous ones. C A B b O D
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_triennio#q10|src_archimede_1998_triennio__Q10]]
 
 
 
@@ -335,17 +357,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Negation of all perfect numbers is equal*
+*Negation of the claim that all perfect numbers are even*
 
-> What is the negation of all perfect numbers are equal? (You don't have to know what a perfect number is.)
+> What is the negation of "all perfect numbers are even"? (It is not necessary to know what a perfect number is.)
 >
-> - **(A)** All perfect numbers are odd.
-> - **(B)** There's at least one odd perfect number.
-> - **(C)** There is at least one even number that is not perfect.
-> - **(D)** No odd number is perfect.
-> - **(E)** No number is perfect.
+> - **(A)** all perfect numbers are odd
+> - **(B)** there is at least one odd perfect number
+> - **(C)** there is at least one even number that is not perfect
+> - **(D)** no odd number is perfect
+> - **(E)** no even number is perfect.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1998_triennio#q11|src_archimede_1998_triennio__Q11]]
 
 
 
@@ -378,17 +403,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum change in the volume of a parallel piped*
+*Greatest possible error in the volume of a sawn parallelepiped*
 
-> By sewing a piece of wood in the shape of a rectangular parallel-piped, another 3 cm × 4 cm × 5 cm diameter parallel-piped pair is extracted by making three parallel cuts to the faces. Working with the saw can only ensure that the actual dimensions will differ by no more than 1 mm from those desired. How far can the volume of the parallel piped constructed from that of the desired parallel piped be diverted at most?
+> By sawing a piece of wood in the shape of a rectangular parallelepiped, one wants to cut out another parallelepiped of dimensions 3 cm × 4 cm × 5 cm, making three cuts parallel to the faces. With the saw, one can only guarantee that the actual dimensions will differ by at most 1 mm from those desired. By how much, at most, can the volume of the parallelepiped obtained differ from that of the desired parallelepiped?
 >
-> - **(A)** Approximately 0,5 cm3
-> - **(B)** about 1.2 cm3
-> - **(C)** about 2 cm3
-> - **(D)** about 2.4 cm3
-> - **(E)** about four and a half inches.
+> - **(A)** about 0.5 cm³
+> - **(B)** about 1.2 cm³
+> - **(C)** about 2 cm³
+> - **(D)** about 2.4 cm³
+> - **(E)** about 4.8 cm³.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_1998_triennio#q12|src_archimede_1998_triennio__Q12]]
 
 
 
@@ -419,17 +447,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum of three dice less than or equal to 5*
+*Probability that three rolls of a die sum to at most 5*
 
-> What is the probability that by throwing a dice three times the sum of the values obtained is less than or equal to 5?
+> What is the probability that, on rolling a die three times, the sum of the values obtained is less than or equal to 5?
 >
-> - **(A)** Less than 3%
+> - **(A)** less than 3%
 > - **(B)** between 3% and 5%
 > - **(C)** between 5% and 7%
 > - **(D)** between 7% and 9%
 > - **(E)** more than 9%.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_triennio#q13|src_archimede_1998_triennio__Q13]]
 
 
 
@@ -460,9 +492,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement is definitely false given xy<x*
+*Which statement is certainly false given xy<x*
 
-> Let x and y be real numbers such that xy < x. Which of the following claims is definitely false?
+> Let x and y be real numbers such that xy < x. Which of the following statements is certainly false?
 >
 > - **(A)** x2y > x2
 > - **(B)** y ≥1
@@ -470,7 +502,11 @@ level: triennio
 > - **(D)** xy2 = xy
 > - **(E)** x2 + y2 ≤4(y −1).
 
-**Answer:** E
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1998_triennio#q15|src_archimede_1998_triennio__Q15]]
 
 
 
@@ -509,19 +545,22 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-How old is Barbara given the number of cuts*
+*How old is Barbara, given the number of cuts*
 
-![[src_archimede_1998_triennio__prob16.png]]
-
-> Antonio and Barbara are coming of age on the same day. Antonio turns 7 and, by correctly arranging the candlesticks, with three straight cuts he can divide his birthday cake so that each part contains exactly one candlestick (see figure next to it). Barbara manages to do the same operation with her cake by making four straight cuts, but she knows that next year four cuts won't be enough, no matter what the candles are. How old is Barbara?
+> Antonio and Barbara have their birthdays on the same day.
+> Antonio is 7 years old, and by arranging the candles appropriately, with three straight cuts he can divide his birthday cake so that each part contains exactly one candle (see figure alongside). Barbara manages to do the same operation with her cake using 4 straight cuts, but knows that next year 4 cuts will no longer suffice, however the candles are arranged. How old is Barbara?
 >
 > - **(A)** 9
 > - **(B)** 10
 > - **(C)** 11
 > - **(D)** 14
-> - **(E)** 16. b b b b b b b
+> - **(E)** 16.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_1998_triennio#q16|src_archimede_1998_triennio__Q16]]
 
 
 
@@ -551,17 +590,20 @@ How old is Barbara given the number of cuts*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which triangle of the center of the beam has maximum area*
+*The centroid triangle of greatest area*
 
-> Let G be the center of the ABC triangle. Knowing that AB < AC < BC, which of the triangles GAB, GAC, GBC has maximum area?
+> Let G be the centroid of triangle ABC. Given that AB < AC < BC, which of the triangles GAB, GAC and GBC has the greatest area?
 >
 > - **(A)** GAB
 > - **(B)** GAC
 > - **(C)** GBC
-> - **(D)** They all have the same area.
-> - **(E)** depends on the lengths of the sides of the ABC.
+> - **(D)** they all have the same area
+> - **(E)** it depends on the side lengths of ABC.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_triennio#q17|src_archimede_1998_triennio__Q17]]
 
 
 
@@ -591,17 +633,21 @@ How old is Barbara given the number of cuts*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little five-digit integer divisible by 3 and 13*
+*Smallest five-digit integer divisible by 3 and by 13*
 
-> What's the smallest integer of five digits divisible by 3 and 13?
+> What is the smallest five-digit integer divisible by 3 and by 13?
 >
 > - **(A)** 10011
 > - **(B)** 10020
 > - **(C)** 10036
 > - **(D)** 10062
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_triennio#q18|src_archimede_1998_triennio__Q18]]
 
 
 
@@ -636,17 +682,21 @@ How old is Barbara given the number of cuts*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sara's age from the sum of the age figures*
+*Sara's age from the digit sums of the ages*
 
-> Two mathematicians, Andrea and Sara, meet one evening. Andrea says the sum of the numbers of my age is equal to the sum of the numbers of your age, and Sarah answers but next year my sum will be four times your, to which Andrea replies yes, but in two years our sums will be equal again. Considering that neither of them has yet reached their 100th birthday, how old is Sara?
+> Two mathematicians, Andrea and Sara, meet one evening. Andrea says "the sum of the digits of my age equals the sum of the digits of your age", and Sara replies "but next year my sum will be four times yours", to which Andrea answers "yes, but in two years our sums will be equal again". Given that neither of them has yet reached the age of 100, how old is Sara?
 >
-> - **(A)** Less than 20
+> - **(A)** less than 20
 > - **(B)** between 21 and 30
 > - **(C)** between 31 and 40
 > - **(D)** more than 40
-> - **(E)** It is not possible to establish it uniquely.
+> - **(E)** it cannot be determined uniquely.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1998_triennio#q20|src_archimede_1998_triennio__Q20]]
 
 
 
@@ -680,11 +730,12 @@ How old is Barbara given the number of cuts*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of a pyramid since its development*
+*Volume of a pyramid from its net*
 
-![[src_archimede_1998_triennio__prob21.png]]
-
-> The figure next to it is the development of a straight pyramid having as its base an equilateral triangle of side 1 and as its side faces three equal isosceles rectangles. The volume of the pyramid is
+> The figure alongside is the net of a right pyramid
+> having as base an equilateral triangle of side 1 and as
+> lateral faces three equal isosceles right triangles. The
+> volume of the pyramid is
 >
 > - **(A)** 1 24
 > - **(B)** √ 2 24
@@ -692,7 +743,10 @@ How old is Barbara given the number of cuts*
 > - **(D)** 1 12
 > - **(E)** √ 5 24 .
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_triennio#q21|src_archimede_1998_triennio__Q21]]
 
 
 
@@ -721,9 +775,9 @@ How old is Barbara given the number of cuts*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the expression and goal of 4 at 1998*
+*Which expression is half of 41998*
 
-> Which of the following is the half of 1998?
+> Which of the following expressions is half of 41998?
 >
 > - **(A)** 21998
 > - **(B)** 41997
@@ -731,7 +785,11 @@ How old is Barbara given the number of cuts*
 > - **(D)** 4999
 > - **(E)** 23995.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_archimede_1998_triennio#q23|src_archimede_1998_triennio__Q23]]
 
 
 
@@ -762,9 +820,10 @@ How old is Barbara given the number of cuts*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number does not divide 100 by factor*
+*Which number does not divide 100 factorial*
 
-> Which of the following numbers does NOT divide 100? (Remember that 100! = 100 · 99 · 98 · · 3 · 2 · 1)?
+> Which of the following numbers does NOT divide 100! (recall that 100! = 100 · 99
+> 98 · · 3 · 2 · 1)?
 >
 > - **(A)** 1968
 > - **(B)** 1988
@@ -772,4 +831,8 @@ How old is Barbara given the number of cuts*
 > - **(D)** 2008
 > - **(E)** 2048.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1998_triennio#q25|src_archimede_1998_triennio__Q25]]

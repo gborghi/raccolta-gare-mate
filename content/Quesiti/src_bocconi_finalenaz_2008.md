@@ -32,13 +32,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count the balls belonging to any two of the three figures but not to all three.*
+*Count the marbles that belong to any two of the three figures but not to all three.*
 
-> Luke drew on the ground three geometric figures: a rectangle, a triangle, and an oval. He then took his little bag of colored beans and put 33 of them in his figures, as in the drawing. How many balls can you count that belong to any two of the three figures, but not all three?
+> Luca drew three geometric shapes on the ground: one rectangular, one triangular, and one oval. He then took his little bag of colored marbles and put 33 marbles into his shapes, as in the drawing. How many marbles can be counted that belong to any two of the three shapes but not to all three?
 
 ![[src_bocconi_finalenaz_2008__q01.png]]
 
-**Answer:** 10 marbles
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q01|src_bocconi_finalenaz_2008__Q01]]
 
 
 
@@ -62,11 +67,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find out how many seconds later three periodic sounds (every 2, 3, 4 s) repeat together.*
+*Find after how many seconds three periodic sounds (occurring every 2, 3, and 4 seconds, respectively) coincide again.*
 
-> Sergio, a music and computer enthusiast, enjoys creating musical rhythms with the computer and programs the following sounds: a "clac", which regularly starts every 2 seconds; a "spring", which regularly starts every 3 seconds; a "toc", which regularly starts every 4 seconds. Sergio, starting the program, immediately and simultaneously hears the three sounds (he has really good ears!). After how many seconds, will Sergio hear the three sounds exactly together again?
+> Sergio, who is passionate about music and computing, enjoys creating musical rhythms on the computer and programs the following sounds: a "clac", which starts regularly every 2 seconds; a "pring", which starts regularly every 3 seconds; a "toc", which starts regularly every 4 seconds. When Sergio starts the program, he immediately hears all three sounds at the same time (he really does have good ears!). After how many seconds will Sergio hear all three sounds together again, exactly?
 
-**Answer:** 12 seconds
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q02|src_bocconi_finalenaz_2008__Q02]]
 
 
 
@@ -90,11 +100,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Holiday duration given the daily fishing pattern and total of 52 fish.*
+*Duration of the holiday, given the daily fishing schedule and a total of 52 fish.*
 
-> Jacob, on vacation at sea, devotes himself to his favorite hobby: fishing. On the first day one fish; on the second day two fish; on the third day three fish. In the following days he caught 4 fish a day (one day on his vacation, when Jacob caught only 3 fish. The penultimate day, two, the last day, only one. During the entire vacation, Jacob caught a total of 52 fish. How many days did Jacob's sea vacation last?
+> Jacob, on a seaside holiday, indulges in his favorite hobby: fishing. On the first day, he catches 1 fish; on the second day, 2 fish; on the third day, 3 fish. On the following days, he catches 4 fish per day (on one day of his holiday, Jacob catches only 3 fish. On the second-to-last day, 2; on the last day, only 1. Over the entire holiday, Jacob caught a total of 52 fish. How many days did Jacob's seaside holiday last?
 
-**Answer:** 14 days
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q03|src_bocconi_finalenaz_2008__Q03]]
 
 
 
@@ -120,13 +135,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of vertices of a square base pyramid after cutting all vertices at 1/3 of the vertex.*
+*Number of edges of a square-based pyramid after truncating all vertices at 1/3 of the edge length.*
 
-> Sara found a square-shaped regular wooden pyramid in her grandfather's attic, reproduced in the figure on the left: who knows what it will be used for? Passionate about DIY, she decides to "decapitate" all the peaks of the pyramid by intervening each time at a distance from the peak equal to $1/3$ of the length of the original beads (as in the figure to the right). How many beads will Grandpa's ex-pyramid have when Sara intervenes on all of its peaks?
+> In her grandfather's attic, Sara found a regular square-based wooden pyramid, shown in the figure on the left: I wonder what it was used for? Being fond of DIY, she decides to "decapitate" all the vertices of the pyramid, each time cutting at a distance from the vertex equal to $1/3$ of the length of the original edges (as in the figure on the right). How many edges will the former pyramid belonging to the grandfather have once Sara has acted on all its vertices?
 
 ![[src_bocconi_finalenaz_2008__q04.png]]
 
-**Answer:** 24 edges
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q04|src_bocconi_finalenaz_2008__Q04]]
 
 
 
@@ -150,11 +170,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of Matteo's chocolates given a system of inequalities on the triple and the double.*
+*Number of chocolates of Matteo, given a system of inequalities concerning three times and twice.*
 
-> Matteo and Rossella are both greedy and argue over the chocolates they have. Matteo counts his people. "If I had three times as many, I would have more than 31", he tells Rossella, "but if I had twice as many, I would have less than 31!" Then he takes a chocolate from Rossella and confesses: "Even now, if I had twice as much, I would always have less than 31!" At this point, it's Rossella getting four chocolates from Matteo - she likes them too much! - and then he says, "Don't complain! Even now, if you had three times as many chocolates as you have, you would have more than 31!" How many chocolates did Matteo have before this heated argument?
+> Matteo and Rossella are both fond of sweets and compete for the chocolates they have. Matteo counts his. "If I had three times as many, I'd have more than 31," he says to Rossella, "but if I had twice as many, I'd have fewer than 31!" He then takes one of Rossella's chocolates and admits, "Even now, if I had twice as many, I'd still have fewer than 31!" At this point, it's Rossella who takes 4 chocolates from Matteo—she likes them too much!—and then says to him, "Don't complain! Even now, if you had three times as many chocolates as you have, you'd have more than 31!" How many chocolates did Matteo have before this heated argument?
 
-**Answer:** 14 chocolates
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Inequalities]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q05|src_bocconi_finalenaz_2008__Q05]]
 
 
 
@@ -178,11 +203,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of cake remain for Rosi after the next five picks of friends.*
+*How many slices of cake are left for Rosi after the subsequent takings by five friends?*
 
-> For Angelo's birthday, Rosi made a huge cake that divides into 20 equal slices. Angelo came first and took a fifth of the cake plus a slice. If David repents, he takes a fifth of the cake and a slice of it. Now it's up to Carla to take a slice first and then add a fifth of what's left. Milena takes a quarter of the cake left over and a slice. Finally, Arianna takes a fifth of the cake and a slice of it. How many slices of cake do you have left for Rosi?
+> For Angelo's birthday, Rosi baked a huge cake and divided it into 20 equal slices. Angelo arrived first and took one fifth of the cake plus one slice. Davide regretted this, so he took one fifth of what was left of the cake plus one slice. Now it was Carla's turn: at first, she took one slice and then added one fifth of what remained. Milena took one quarter of what was left of the cake plus one slice. Finally, Arianna took one fifth of what was left of the cake plus one slice. How many slices of cake were left for Rosi?
 
-**Answer:** 3 slices
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q06|src_bocconi_finalenaz_2008__Q06]]
 
 
 
@@ -206,11 +236,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of 5 cent coins given that each pays 60 cents with six different coins.*
+*Total number of 5-cent coins, given that each person pays 60 cents using six all-different coins.*
 
-> Piercarlo, Piergiorgio, Pierluca, Piermarco and Pierpaolo each have 60 cents of Euro in their wallet, made up of six coins. To their surprise, they realize that the cents in their wallets are all different. They take a moment to think and find that there is no other way to get 60 cents with six coins. At this point, they put all their coins together. How many five-cent coins do they have all over our pier? Note: the euro coins in use (below 1 euro) are 1, 2, 5, 10, 20 and 50 cents.
+> Piercarlo, Piergiorgio, Pierluca, Piermarco, and Pierpaolo each have 60 cents in their coin purses, made up of six coins. To their slight surprise, they notice that the cents in their coin purses are all different. They think for a while and discover that there are no other ways to make 60 cents using 6 coins. At this point, they put all their coins together. How many 5-cent coins do our Piers have in total? Note: the euro coins in circulation (under 1 euro) are 1, 2, 5, 10, 20, and 50-cent pieces.
 
-**Answer:** 7 coins of 5 cents
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q07|src_bocconi_finalenaz_2008__Q07]]
 
 
 
@@ -233,11 +268,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the number of two digits such that, encoding a 2, the value increases by 335.*
+*Find the two-digit number such that, when a 2 is appended to it, its value increases by 335.*
 
-> Renato wrote a two-digit number. He then writes a 2 to the right of the second digit, thus getting a three-digit number. The new number is 335 more than the original (2 digits) number. What was the two-digit number?
+> Renato wrote a two-digit number. He then wrote a 2 to the right of the second digit, thus obtaining a three-digit number. The new number is 335 more than the initial (two-digit) number. What was the two-digit number?
 
-**Answer:** 37
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q08|src_bocconi_finalenaz_2008__Q08]]
 
 
 
@@ -263,13 +302,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete an encrypted addition of three three digits with the digits 1-9 (7 and 9 already used), resulting in 900.*
+*Complete an encrypted addition of three three-digit addends using the digits 1–9 (7 and 9 already used), with a result of 900.*
 
-> In this addition, to write the three three-digit additions, the digits 1 to 9 can be used, taken only once each (7 and 9 have already been used). In each column the digits of the addens are arranged from top to bottom, from smallest to largest. Complete the addition, writing the first addition in particular.
+> In this addition, to write the three three-digit addends, the digits from 1 to 9 can be used, each only once (7 and 9 have already been used). In each column, the digits of the addends are arranged from top to bottom, from smallest to largest. Complete the addition, writing in particular the first addend.
 
 ![[src_bocconi_finalenaz_2008__q09.png]]
 
-**Answer:** first addend 135
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q09|src_bocconi_finalenaz_2008__Q09]]
 
 
 
@@ -295,13 +339,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Determine the qualities of the upper row axes using the rule of triangles (identical or all different).*
+*Determine the qualities of the grapes in the top row using the triangle rule (identical or all different).*
 
-> The grapes of a grape cluster (represented in the figure, in the plan, in small circles) can be of three qualities: A, B or C. When three circles touch two by two, they form a small triangle (see the two examples shown in the figure). In each of these triangles, the three qualities of acin can be either identical or all different. Complete the figure by writing in particular (in order, from left to right) the letters of the upper-line ears.
+> The grapes on a bunch of grapes (represented in the figure, in the plane, by small circles) can be of three qualities: A, B, or C. When three circles touch each other in pairs, they form a small triangle (see the two dashed examples in the figure). In each of these triangles, the three qualities of the grapes can either all be the same or all be different. Complete the figure by writing, in particular, the letters of the grapes in the top row (in order, from left to right).
 
 ![[src_bocconi_finalenaz_2008__q10.png]]
 
-**Answer:** CBACB
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q10|src_bocconi_finalenaz_2008__Q10]]
 
 
 
@@ -325,11 +374,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), total 45 rounds, one hole in one shot.
+*How many holes did Desiderio complete in 3 strokes, given 18 holes (par 2 or 3), a total of 45 strokes, with only one hole completed in a single stroke?*
 
-> The "par" of a minigolf hole is the average number of shots a good player takes to get the ball into that hole. Math City's mini-golf has 18 holes: nine have a "pair" of 2 and nine a "pair" of 3. Desiderio has just finished the 18-hole course. For none, the number of shots he fired was equal to the hole pair. He still made as many shots as a good player would make: 45. Only for one hole, Desiderio managed to make a single shot. How many holes did Desiderio have to shoot three times ?
+> The "par" of a minigolf hole is the average number of strokes a good player needs to get the ball into that hole. Math City's minigolf course has eighteen holes: nine have a "par" of 2 and nine have a "par" of 3. Desiderio has just finished the 18-hole course. On none of the holes was the number of his strokes equal to the hole's "par". Nevertheless, in total he took as many strokes as a good player would have taken: 45. Only on one hole did Desiderio manage to take just one stroke. On how many holes did Desiderio have to take 3 strokes?
 
-**Answer:** 6, 7 o 8
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q11|src_bocconi_finalenaz_2008__Q11]]
 
 
 
@@ -353,11 +407,16 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the starting point of the centre of a billiards ball to a rebound of 45 degrees at 59 degrees.*
+*Distance from the starting point of the center of a billiard ball to the 59th rebound, when the ball is struck at 45 degrees.*
 
-> Amerigo plays pool on a rectangular pool of 2.06 m by 3.06 m. His ball (which is 6 cm in diameter) is placed in the middle of one of the two long sides of the pool and Amerigo makes it roll, without effects, at an angle of $45^\circ$ with respect to the pool side. Assuming Amerigo has pulled hard enough, how far from the starting point will the center of the ball be at the time of the$59^\circ$ bounce? Give the answer in meters, rounding to centimeters. It's closer. In the final expression of the result, $1{,}414$ for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$ and $4{,}123$ for $\sqrt{17}$ shall be taken if necessary.
+> Amerigo plays billiards on a rectangular billiard table measuring 2.06 m by 3.06 m. His ball (6 cm in diameter) is placed at the midpoint of one of the two long sides of the table, and Amerigo rolls it, with no spin, at an angle of $45^\circ$ relative to the side of the table. Assuming Amerigo struck it hard enough, how far from the starting point will the center of the ball be at the moment of the $59^\circ$ bounce? Give the answer in metres, rounded to the nearest centimetre. In the final expression for the result, if necessary, $1{,}414$ will be taken for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$; and $4{,}123$ for $\sqrt{17}$.
 
-**Answer:** $1{,}5\sqrt{2}$ m, about 2,12 m
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q12|src_bocconi_finalenaz_2008__Q12]]
 
 
 
@@ -381,11 +440,16 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full percentage of change in sides of a rectangle given the area reduction between 2% and 3%.*
+*Whole percentage change in the sides of a rectangle, given an area reduction between 2% and 3%.*
 
-> We've reduced the width and increased the length of a rectangle by the same percentage. After this deformation, the area of the rectangle decreased by a percentage between 2% and 3%. What percentage of the original width and length have been changed ?
+> We reduced the width and increased the length of a rectangle by the same whole percentage. After this deformation, the area of the rectangle decreased by a percentage between 2% and 3%. By what percentage were the original width and length changed?
 
-**Answer:** 15%, 16% e 17%
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q13|src_bocconi_finalenaz_2008__Q13]]
 
 
 
@@ -409,11 +473,16 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the integer that, multiplied by 4 and by 5, uses each digit from 1 to 9 together once.*
+*Find the whole number that, when multiplied by 4 and by 5, uses each digit from 1 to 9 exactly once in total.*
 
-> Multiply an integer by 4. Then multiply the same integer by 5. So you're going to find that the results of the two multiples, collectively, use every digit from 1 to 9 once and only once. What 's the whole number you started from ?
+> Multiply an integer by 4. Then multiply the same integer by 5. You will thus find that, in total, the results of the two multiplications use each digit from 1 to 9 exactly once. What is the integer you started with?
 
-**Answer:** 2469
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q14|src_bocconi_finalenaz_2008__Q14]]
 
 
 
@@ -437,11 +506,16 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABED trapezoid area given the ABC and CDE triangles of areas 32 and 50 cm2 (AB parallel to DE, diagonal in C).*
+*Area of trapezoid ABED, given triangles ABC and CDE with areas 32 and 50 cm² (AB parallel to DE, diagonals meeting at C).*
 
-> Trapezio is a truly original gardener, by name and deed, and he created a garden... in his own image and likeness. He planted five trees A, B, C, D and E so that: the lines (AB) and (DE) are parallel; the lines (AE) and (BD) intersect in C. The areas of the ABC and CDE triangles shall be 32 and 50 cm$^2$ respectively. What is the area of the ABED trapezoid in cm$^2$?
+> Trapezio is a truly original gardener, in name and in fact, and has created a garden … in his own image and likeness. He planted five trees A, B, C, D, and E such that: the lines (AB) and (DE) are parallel; the lines (AE) and (BD) intersect at C. The areas of triangles ABC and CDE are 32 and 50 cm$^2$, respectively. What is the area of trapezoid ABED, in cm$^2$?
 
-**Answer:** 162 cm$^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q15|src_bocconi_finalenaz_2008__Q15]]
 
 
 
@@ -464,11 +538,15 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between DO and SI speed given different on three tracks and total round trip times.*
+*Road distance between DO and SI, given different speeds over three segments and the total times for the outward and return journeys.*
 
-> Nando lives in a fantastic country, where mountains and valleys are named after musical notes! When driving from DO to SI, it goes down from DO to MI at 72 Km/h; goes from MI to SOL at 63 Km/h and goes up from SOL to SI at 56 Km/h. It'll take four hours. On the return, when it goes from SI to DO, Nando goes down from SI to SOL at 72 Km/h, goes from SOL to MI at 63 Km/h and goes up from MI to DO at 56 Km/h. All in all, it takes 4 hours and 40 minutes to get back. What is the road distance in kilometres between DO and SI?
+> Nando lives in a fantastic town, where the mountains and valleys have the names of musical notes! When he drives from DO to SI, he descends from DO to MI at 72 km/h; he travels from MI to SOL at 63 km/h and ascends from SOL to SI at 56 km/h. In total, it takes him 4 hours. On the way back, when he drives from SI to DO, Nando descends from SI to SOL at 72 km/h, travels from SOL to MI at 63 km/h, and ascends from MI to DO at 56 km/h. In total, on the way back, it takes him 4 hours and 40 minutes. What is the road distance between DO and SI, in kilometers?
 
-**Answer:** 273 km
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q16|src_bocconi_finalenaz_2008__Q16]]
 
 
 
@@ -493,11 +571,18 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the white/gray colouring of a floor of 16 large squares with boundaries of identity on the contacts and edges.*
+*Complete the white/grey coloring of a floor consisting of 16 large squares, with identity constraints at the contacts and on the edges.*
 
-> The drawing is a floor plan composed of sixteen large squares. Each of the large squares is in turn divided into four white and gray colored squares. The large, oriented squares are all different. Five gray squares have already been inserted into the drawing. The contact squares in two large squares must be identical. In addition, the last line (below) must be identical to the first (top) and the first square column (left) must be identical to the last (right). Finish the pattern coloring.
+> The drawing shows a paving pattern consisting of sixteen large squares. Each of the large squares is in turn divided into four small squares colored white and gray. The oriented large squares are all different. Five gray small squares have already been placed in the drawing. The small squares that touch each other in two large squares must be identical. Furthermore, the last row (at the bottom) must be identical to the first row (at the top), and the first column of small squares (on the left) must be identical to the last column (on the right). Complete the coloring of the pattern.
 
 ![[src_bocconi_finalenaz_2008__q17.png]]
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q17|src_bocconi_finalenaz_2008__Q17]]
 
 
 
@@ -523,10 +608,15 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the largest equilateral triangle, given 9 points with a constant ratio of distances per stretch to a minimum area of 1 Km2.*
+*Area of the largest equilateral triangle, given 9 points with a constant ratio between distances on each segment and a minimum area of 1 km².*
 
-> The Math City subway network has nine stations (represented by the points drawn on the plane). On each of the nine straight lines connecting three stations, the ratio of the greater to the lesser distance is always the same. The area of the smallest equilateral triangle is 1 Km$^2$. In Km$^2$ (rounded to the nearest Km$^2$) what is the largest area of the equilateral triangle? If necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$ is to be taken.
+> The subway network of Math City has nine stations (represented by the points drawn on the plane). On each of the nine straight segments connecting three stations, the ratio of the greatest distance to the smallest distance is always the same. The area of the smallest equilateral triangle is 1 Km$^2$. In Km$^2$ (rounded to the nearest Km$^2$), what is the area of the largest equilateral triangle? If necessary, $1{,}414$ will be taken for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$.
 
 ![[src_bocconi_finalenaz_2008__q18.png]]
 
-**Answer:** 47
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2008#q18|src_bocconi_finalenaz_2008__Q18]]

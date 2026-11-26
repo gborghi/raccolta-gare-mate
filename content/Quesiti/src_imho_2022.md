@@ -31,12 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Processo di ordinamento della catena di monete, monete finali dello stesso tipo*
+*Processo di smistamento delle catene di monete, monete finali dello stesso tipo*
 
-> La banca di Oslo emette due tipi di moneta: alluminio (indicato con $A$) e bronzo (indicato con $B$). Marianne possiede $n$ monete in alluminio e $n$ monete in bronzo, disposte in fila in un ordine iniziale arbitrario. Una catena è qualsiasi sottosequenza di monete consecutive dello stesso tipo. Dato un fissato intero positivo $k \le 2n$, Marianne ripete ripetutamente l'operazione seguente: identifica la catena più lunga che contiene la moneta $k^{\text{th}}$ a partire da sinistra, e sposta tutte le monete di tale catena all'inizio della fila. Ad esempio, se $n = 4$ e $k = 4$, il processo a partire dall'ordinamento $AABBBABA$ sarebbe
+> La Banca di Oslo emette due tipi di monete: in alluminio (denotate con $A$) e in bronzo (denotate con $B$). Marianne possiede $n$ monete in alluminio e $n$ monete in bronzo, disposte in fila secondo un ordine iniziale arbitrario. Una catena è qualsiasi sottosequenza di monete consecutive dello stesso tipo. Dato un intero positivo fisso $k \le 2n$, Marianne esegue ripetutamente l'operazione seguente: individua la catena più lunga che contiene la moneta $k^{\text{th}}$ partendo da sinistra e sposta tutte le monete di quella catena all'estremità sinistra della fila. Ad esempio, se $n = 4$ e $k = 4$, il processo a partire dall'ordinamento $AABBBABA$ sarebbe
 > $$AABBBABA \to BBBAAABA \to AAABBBBA \to BBBBAAA A \to AAAABBBB \to BBBBAAAA \to \cdots$$
->
-> Determinare tutte le coppie $(n, k)$ con $1 \le k \le 2n$ tali che, partendo da qualsiasi ordinamento iniziale, in qualche momento del processo le rimanenti $n$ monete siano tutte dello stesso tipo.
+> Trova tutte le coppie $(n, k)$ con $1 \le k \le 2n$ tali che, partendo da un qualsiasi ordinamento iniziale, in un certo momento durante il processo, le restanti $n$ monete siano tutte dello stesso tipo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2022#q01|src_imho_2022__Q01]]
 
 
 
@@ -60,10 +66,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni f: R+ → R+ tali che xf(y) + yf(x) ≤ 2*
+*Trovare tutte le funzioni f: R+ → R+ tali che xf(y)+yf(x)≤2*
 
 > Sia $\mathbb{R}^+$ l'insieme dei numeri reali positivi. Determinare tutte le funzioni $f\colon \mathbb{R}^+ \to \mathbb{R}^+$ tali che, per ogni $x \in \mathbb{R}^+$, esista esattamente un $y \in \mathbb{R}^+$ che soddisfi
 > $$x f(y) + y f(x) \le 2.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2022#q02|src_imho_2022__Q02]]
 
 
 
@@ -86,9 +99,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insieme di numeri primi dispari su un cerchio, prodotto di vicini forma x²+x+k*
+*Insieme di numeri primi dispari su una circonferenza, il prodotto dei vicini ha la forma x²+x+k*
 
-> Sia $k$ un intero positivo e sia $S$ un insieme finito di numeri primi dispari. Si dimostri che esiste al più un modo (a meno di rotazione e riflessione) per disporre gli elementi di $S$ intorno a una circonferenza in modo che il prodotto di ogni coppia di elementi vicini sia della forma $x^2 + x + k$ per qualche intero positivo $x$.
+> Sia $k$ un numero intero positivo e sia $S$ un insieme finito di numeri primi dispari. Dimostrare che esiste al più un modo (a meno di rotazione e riflessione) di disporre gli elementi di $S$ attorno a un cerchio tale che il prodotto di due elementi vicini qualsiasi sia della forma $x^2 + x + k$ per qualche numero intero positivo $x$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2022#q03|src_imho_2022__Q03]]
 
 
 
@@ -111,9 +131,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono convesso ABCDE con BC=DE, si dimostri che P,S,Q,R sono ciclici*
+*Pentagono convesso ABCDE con BC=DE: dimostrare che P, S, Q, R sono conciclici*
 
-> Sia $ABCDE$ un pentagono convesso tale che $BC = DE$. Si assuma che esista un punto $T$ interno a $ABCDE$ tale che $TB = TD$, $TC = TE$ e $\angle ABT = \angle TEA$. Sia la retta $AB$ che interseca le rette $CD$ e $CT$ rispettivamente nei punti $P$ e $Q$. Sia la retta $AE$ che interseca le rette $CD$ e $DT$ rispettivamente nei punti $R$ e $S$. Si assuma inoltre che i punti $P$, $Q$, $A$, $S$ giacciano sulla stessa retta in quest'ordine. Si dimostri che i punti $P$, $S$, $Q$, $R$ sono conciclici.
+> Sia $ABCDE$ un pentagono convesso tale che $BC = DE$. Si supponga che esista un punto $T$ all'interno di $ABCDE$ con $TB = TD$, $TC = TE$ e $\angle ABT = \angle TEA$. Sia la retta $AB$ a intersecare le rette $CD$ e $CT$ nei punti $P$ e $Q$, rispettivamente. Sia la retta $AE$ a intersecare le rette $CD$ e $DT$ nei punti $R$ e $S$, rispettivamente. Si supponga che i punti $P$, $Q$, $A$, $S$ giacciano sulla loro retta in tale ordine. Dimostrare che i punti $P$, $S$, $Q$, $R$ giacciono su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2022#q04|src_imho_2022__Q04]]
 
 
 
@@ -137,10 +164,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le terne (a,b,p) di interi positivi, con p primo, tali che a^b + b = p^a*
+*Terne di interi positivi (a, b, p), con p primo, tali che a^b + b = p^a*
 
-> Determinare tutte le terne $(a, b, p)$ di interi positivi con $p$ primo e
+> Trovare tutte le terne $(a, b, p)$ di interi positivi con $p$ primo e
 > $$a^b + b = p^a.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_2022#q05|src_imho_2022__Q05]]
 
 
 
@@ -167,12 +201,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percorsi in salita su quadrato nordico: determinare il minimo totale come funzione di n*
+*Percorsi in salita quadrati nordici: trovare il totale minimo in funzione di n*
 
-> Sia $n$ un intero positivo. Una scacchiera nordica è una tabellone $n \times n$ che contiene tutti gli interi da $1$ a $n^2$, in modo che ogni cella contenga esattamente un numero. Due celle si dicono adiacenti se condividono un lato comune. Ogni cella che è adiacente soltanto a celle contenenti numeri più grandi viene detta valle. Un cammino in salita è una sequenza di una o più celle tale che:
->
-> (i) la prima cella della sequenza è una valle,
-> (ii) ciascuna cella successiva nella sequenza è adiacente alla precedente,
-> (iii) i numeri scritti nelle celle della sequenza formano una successione crescente.
->
-> Determinare, in funzione di $n$, il numero minimo possibile di cammini in salita in una scacchiera nordica.
+> Sia $n$ un numero intero positivo. Un quadrato nordico è una scacchiera $n \times n$ che contiene tutti gli interi da $1$ a $n^2$, in modo che ogni cella contenga esattamente un numero. Due celle si dicono adiacenti se condividono un lato. Ogni cella adiacente solo a celle che contengono numeri maggiori è chiamata valle. Un percorso in salita è una sequenza di una o più celle tale che: (i) la prima cella della sequenza è una valle, (ii) ciascuna cella successiva della sequenza è adiacente alla cella precedente e (iii) i numeri scritti nelle celle della sequenza sono in ordine crescente. Determinare, in funzione di $n$, il numero totale minimo possibile di percorsi in salita in un quadrato nordico.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2022#q06|src_imho_2022__Q06]]

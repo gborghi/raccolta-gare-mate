@@ -35,15 +35,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural numbers less than 1000 with sum of digits 4*
+*Natural numbers below 1000 with digit sum 4*
 
-> How many natural numbers are less than 1000 in which the sum of the digits is 4?
+> How many natural numbers less than 1000 have a digit sum of 4?
 >
 > - **(A)** 15
 > - **(B)** 10
 > - **(C)** 9
 > - **(D)** 12
 > - **(E)** 11
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio_rec#q01|src_archimede_2024_triennio_rec__Q01]]
 
 
 
@@ -76,15 +82,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of two periodic numbers as fraction, X+Y*
+*Sum of two repeating decimals as a fraction, X+Y*
 
-> Consider these two periodic numbers: a = 0.123 = 0.123123123 . . . e b = 0,987 = 0,987987987 . . . Let's write their sum a+b as a fraction of X/Y reduced to minimum terms. What 's the value of X + Y ?
+> Consider these two repeating decimals:
+> a = 0.123 = 0.123123123 . . .
+> and
+> b = 0.987 = 0.987987987 . . .
+> Write their sum a+b as a fraction X/Y
+> in lowest terms. What is the value of X + Y ?
 >
 > - **(A)** 9
 > - **(B)** 10
 > - **(C)** 19
 > - **(D)** 11
 > - **(E)** 13
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio_rec#q02|src_archimede_2024_triennio_rec__Q02]]
 
 
 
@@ -114,15 +130,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple of 3 with only 1,4,7 digits between 1000 and 100000*
+*Number of multiples of 3 between 1000 and 100 000 using only the digits 1, 4 and 7*
 
-> What are the multiples of 3, between 1,000 and 100,000, that you can write using the numbers 1, 4, and 7 alone?
+> How many multiples of 3, between 1000 and 100 000, can be written using only the digits 1, 4 and 7?
 >
 > - **(A)** 99
 > - **(B)** 27
 > - **(C)** 9
-> - **(D)** No one
+> - **(D)** none
 > - **(E)** 36
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio_rec#q03|src_archimede_2024_triennio_rec__Q03]]
 
 
 
@@ -157,15 +179,27 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of an expression with powers*
+*Value of the expression 4 + 1, 2, 2025, 32024 ·, 2 + 1, 4, 1013*
 
-> Indicate the value of 4 + 1 2 2025 32024 · 2 + 1 4 1013
+> Find the value of
+> 4 + 1
+> 2
+> 2025
+> 32024
+> 2 + 1
+> 4
+> 1013
 >
 > - **(A)** 1
-> - **(B)** None of the other 4
+> - **(B)** none of the other four
 > - **(C)** 1/9
 > - **(D)** 1/3
 > - **(E)** 2
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio_rec#q04|src_archimede_2024_triennio_rec__Q04]]
 
 
 
@@ -218,17 +252,38 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EFG triangle area from parallelogram areas*
+*Area of triangle EFG from areas in parallelogram*
 
-![[src_archimede_2024_triennio_rec__prob5.png]]
-
-> In an ABCD parallelogram, the segments DE, EF, FG, GH, HB are plotted between the sides AB and CD. The areas (in m2) of the DEF, FGH, HBC triangles are those shown in the figure. Knowing that the AE segment is double EG, which in turn is double GB, indicate how many m2 the area of the EFG triangle measures. A B C D E F G H 14 25 17 ? A B C D
+> In a parallelogram ABCD, the segments DE, EF, FG, GH, HB are drawn between the sides AB and CD.
+> The areas (in m2) of the triangles DEF, FGH, HBC are those indicated in the figure.
+> Knowing that segment AE is twice EG, which in turn is twice GB, indicate how many m2 the area of triangle EFG measures.
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
+> 14
+> 25
+> 17
+> ?
+> A
+> B
+> C
+> D
 >
 > - **(A)** 14
 > - **(B)** 15
 > - **(C)** 18
 > - **(D)** 16
 > - **(E)** 12
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio_rec#q05|src_archimede_2024_triennio_rec__Q05]]
 
 
 
@@ -256,15 +311,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grade of a polynomial composed of powers*
+*Degree of a polynomial made of powers*
 
-> What is the degree of the polynomial p(x) = (9x5 −x2 +1)10 ·(x7 +8x3 −10) +(x6 −7x+6)7 ?
+> What is the degree of the polynomial p(x) = (9x5 −x2 +1)10 ·(x7 +8x3 −10)+(x6 −7x+6)7 ?
 >
 > - **(A)** 10
 > - **(B)** 57
 > - **(C)** 99
 > - **(D)** 50
 > - **(E)** 42
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio_rec#q06|src_archimede_2024_triennio_rec__Q06]]
 
 
 
@@ -321,15 +381,48 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*H value for telescopic sum of rationalized roots*
+*Value of H for a telescoping sum of rationalized roots*
 
-> Consider the number H = 1 √ 47 + √ 45 + 1 √ 45 + √ 43 + 1 √ 43 + √ 41 + 1 √ 41 + √ 39 What is the value of H· √ 47 + √ 39 ?
+> Consider the number
+> H =
+> 1
+> √
+> 47 +
+> √
+> 45 +
+> 1
+> √
+> 45 +
+> √
+> 43 +
+> 1
+> √
+> 43 +
+> √
+> 41 +
+> 1
+> √
+> 41 +
+> √
+> 39
+> What is the value of H·
+>  √
+> 47 +
+> √
+> 39
+> ?
 >
 > - **(A)** 15/4
 > - **(B)** 7/2
 > - **(C)** 4
 > - **(D)** 17/4
 > - **(E)** 9/2
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio_rec#q07|src_archimede_2024_triennio_rec__Q07]]
 
 
 
@@ -370,17 +463,27 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*UV length between midpoints and two arcs in the square*
+*Length UV between midpoints and two arcs in the square*
 
-![[src_archimede_2024_triennio_rec__prob8.png]]
-
-> Taking a DEFG square of 1 m side, the quarter-circles of centers D and F with extremes at the other two vertices are plotted. The segment connecting the midpoints of the sides DE and FG, which intersects the two arcs at points U and V, is then mapped. How many meters does the length of the UV segment measure ? D E F G U V
+> Given a square DEFG of side 1 m, the quarter-circles with centres D and F and endpoints at the other two vertices are drawn. The segment joining the midpoints of sides DE and FG is then drawn, intersecting the two arcs at points U and V. How many metres is the length of segment UV?
+> D
+> E
+> F
+> G
+> U
+> V
 >
 > - **(A)** √ 3−1
 > - **(B)** √ 2 2
 > - **(C)** √ 3 2
 > - **(D)** √ 3 3
 > - **(E)** 3 4
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio_rec#q08|src_archimede_2024_triennio_rec__Q08]]
 
 
 
@@ -410,15 +513,22 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 4x-1 with (x-7)^8=(x+4)^8*
+*Value of 4x-1 given (x-7)^8=(x+4)^8*
 
-> Knowing that for the real number x is equal to (x −7)8 = (x + 4)8, what is the value of 4x −1?
+> Knowing that for the real number x the equality (x −7)8 = (x + 4)8 holds, what is the
+> value of 4x −1 ?
 >
 > - **(A)** 4
 > - **(B)** 3
 > - **(C)** 2
 > - **(D)** 7
 > - **(E)** 5
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio_rec#q09|src_archimede_2024_triennio_rec__Q09]]
 
 
 
@@ -448,15 +558,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to sit 4 pairs of sisters next to each other
+*Ways of sitting 4 pairs of sisters next to each other*
 
-> Four sisters want to sit on a bench. They all want to be with their sister. How many ways can they go from left to right?
+> Four pairs of sisters want to sit on a bench. Each wants to sit next to her sister. In how many ways can they arrange themselves from left to right?
 >
 > - **(A)** 480
 > - **(B)** 384
 > - **(C)** 360
 > - **(D)** 432
 > - **(E)** 420
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio_rec#q10|src_archimede_2024_triennio_rec__Q10]]
 
 
 
@@ -497,17 +613,27 @@ How to sit 4 pairs of sisters next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PC length from inner point distances to the sides*
+*Length PC' from distances of an interior point to the sides*
 
-![[src_archimede_2024_triennio_rec__prob11.png]]
-
-> In the triangle ABC the sides AB and BC measure 17 dm, the CA side measures 16 dm. Taking a point P within the triangle, the segments PA′, PB′ and PC′, perpendicular to the sides, are plotted from P. The lengths (in dm) of PA′ and PB′ are, in the order, 3 and 13/2. How many dm does PC′ measure? A B C P A′ B′ C′
+> In triangle ABC the sides AB and BC measure 17 dm, the side CA measures 16 dm. Taking a point P inside the triangle, the segments PA′, PB′ and PC′ are drawn from P, perpendicular to the sides. The lengths (in dm) of PA′ and PB′ are, in order, 3 and 13/2. How many dm does PC′ measure?
+> A
+> B
+> C
+> P
+> A′
+> B′
+> C′
 >
 > - **(A)** 5
 > - **(B)** 75/17
 > - **(C)** 21/4
 > - **(D)** 4
 > - **(E)** 9/2
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio_rec#q11|src_archimede_2024_triennio_rec__Q11]]
 
 
 
@@ -540,15 +666,21 @@ How to sit 4 pairs of sisters next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arrival orders compatible with partial forecasts*
+*Compatible finishing orders consistent with partial predictions*
 
-> Six cooks, indicated by A, B, C, D, E, F, participate in a cooking competition. According to the forecasts of the eve, the cook A is considered better than B, who is better than C. It is also believed that A is better than D. If all the forecasts were met, assuming that there could be no equally qualified chefs, how many possible orders would be placed for the competition?
+> Six cooks, labelled A, B, C, D, E, F, take part in a cooking contest. According to the pre-event predictions, cook A is considered better than B, who is better than C. It is also believed that A is better than D. If all the predictions were respected, assuming that no cooks can be tied, how many possible finishing orders of the contest would there be?
 >
 > - **(A)** 88
 > - **(B)** 96
 > - **(C)** 75
 > - **(D)** 90
 > - **(E)** 81
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio_rec#q12|src_archimede_2024_triennio_rec__Q12]]
 
 
 
@@ -578,15 +710,21 @@ How to sit 4 pairs of sisters next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inteers from 1 to 100 not dividing the product from 50 to 80*
+*Integers from 1 to 100 that do not divide the product from 50 to 80*
 
-> Whether K = 50 · 51 · 52 · · 79 · 80 the product of integers 50 to 80. How many integers from 1 to 100 (extremes included) don't divide K?
+> Let K = 50 · 51 · 52 · · · 79 · 80 be the product of the integers from 50 to 80. How many integers from 1 to 100 (inclusive) do not divide K?
 >
 > - **(A)** 6
 > - **(B)** 9
 > - **(C)** 3
-> - **(D)** No one
+> - **(D)** none
 > - **(E)** 68
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2024_triennio_rec#q13|src_archimede_2024_triennio_rec__Q13]]
 
 
 
@@ -625,17 +763,25 @@ How to sit 4 pairs of sisters next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*F angle with a circular biset tangent*
+*Angle F with bisector tangent in a circular configuration*
 
-![[src_archimede_2024_triennio_rec__prob14.png]]
-
-> In the DEF triangle, the angle bE measures 21°. The point G on the EF side is equidistant from D and E. Say ω the passing circumference for D, E, G, so t is the tangent in D to ω. Knowing that the straight t is the intersection of the angle bD, what is the width of the angle bF? F D E G ω
+> In triangle DEF, angle bE measures 21°. Point G, on side EF, is equidistant from D and E. Let ω be the circle passing through D, E, G, and let t be the tangent at D to ω. Knowing that line t is the bisector of angle bD, what is the measure of angle bF?
+> F
+> D
+> E
+> G
+> ω
 >
 > - **(A)** 75°
 > - **(B)** 81°
 > - **(C)** 78°
 > - **(D)** 77°
 > - **(E)** 72°
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio_rec#q14|src_archimede_2024_triennio_rec__Q14]]
 
 
 
@@ -664,15 +810,20 @@ How to sit 4 pairs of sisters next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BCD triangular area with D symmetrical to the baricenter*
+*Area of triangle BCD with D symmetric with respect to the centroid*
 
-> Whether ABC is a rectangular triangle in B, the cathetes AB and BC measuring, respectively, 8 and 15 m. If the symmetry of A with respect to ABC's barycenter is given by D, how many m2 does the area of the BCD triangle measure?
+> Let ABC be a right triangle at B, whose legs AB and BC measure, respectively, 8 and 15 m. Denoting by D the point symmetric to A with respect to the centroid of ABC, how many m2 is the area of triangle BCD?
 >
 > - **(A)** 16
 > - **(B)** 15
 > - **(C)** 20
 > - **(D)** 30
 > - **(E)** 25
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio_rec#q15|src_archimede_2024_triennio_rec__Q15]]
 
 
 
@@ -704,12 +855,18 @@ How to sit 4 pairs of sisters next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that two divisors of 18000 are prime to each other*
+*Probability that two divisors of 18000 are coprime*
 
-> Luca and Giulia wrote, in 60 different notes, the list of all natural numbers that are divisors of 18000 (one for each note). Luke randomly draws one, then puts it back together with the others, and Julia then runs a new draw. What is the probability that the extracted numbers are prime?
+> Luca and Giulia wrote, on 60 different slips of paper, the list of all natural numbers that are divisors of 18000 (one per slip). Luca draws one at random, then puts it back with the others, and Giulia then performs a new draw. What is the probability that the numbers drawn are coprime?
 >
 > - **(A)** 9/100
 > - **(B)** 5/54
 > - **(C)** 1/12
 > - **(D)** 1/10
 > - **(E)** 7/80 511
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio_rec#q16|src_archimede_2024_triennio_rec__Q16]]

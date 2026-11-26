@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min integri da {1,18} in modo che 3 consecutive siano scelte*
+*Minimo di interi da {1..18} affinché vengano scelti 3 consecutivi*
 
-> Dato l'insieme $\{1, 2, 3, \ldots, 18\}$, qual è il numero minimo di interi che dobbiamo scegliere in modo che tra i numeri scelti ci siano almeno 3 numeri consecutivi?
+> Dato l'insieme $\{1, 2, 3, \ldots, 18\}$, qual è il numero minimo di interi che dobbiamo scegliere affinché tra i numeri scelti vi siano almeno 3 interi consecutivi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f2#q01|src_obm_2013_n2_f2__Q01]]
 
 
 
@@ -60,13 +67,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la combinazione più piccola e sicura che soddisfi tre indizi*
+*Trovare la combinazione sicura più piccola che soddisfi tre indizi*
 
-> Abel tiene i suoi risparmi in una cassaforte. Per non dimenticare la combinazione della cassaforte, decide di memorizzare i seguenti indizi:
-> 
-> - è un numero maggiore di $3001$; - ha divisori $6$; - è un multiple di $5$.
-> 
-> Abel sa che la sua combinazione e' il numero piu' piccolo che soddisfi tutti gli indizi. Qual è la combinazione sicura di Abele?
+> Abel conserva i propri risparmi in una cassaforte. Per non dimenticare la combinazione della cassaforte, decide di conservare i seguenti indizi:
+>
+> - È un numero maggiore di $3001$;
+> - Ha $6$ divisori;
+> - È un multiplo di $5$.
+>
+> Abel sa che la sua combinazione è il numero più piccolo che soddisfa tutti gli indizi. Qual è la combinazione della cassaforte di Abel?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f2#q02|src_obm_2013_n2_f2__Q02]]
 
 
 
@@ -89,9 +105,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiare i minuti "ora di potenza" tra le 00:00 e le 02:59*
+*Conta i minuti di "power-hour" tra le 00:00 e le 02:59*
 
-> Una \textit{hora potência} (ora di potenza) è un'ora il cui formato rappresenta una potenza perfetta di un intero positivo con esponente maggiore di $1$; cioè qualcosa nel formato $a^b$ dove $a$ e $b$ sono interi positivi e $b > 1$. Ad esempio, $03{:}43$ è un'ora di potenza perché $343 = 7^3$, ma $01{:}10$ non è un'ora di potenza perché $110$ non è una potenza perfetta. Inoltre, $02{:}89$ non è un'ora di potenza perché non c'è tempo $02{:}89$. Quanti minuti di orario di potenza ci sono da $00{:}00$ a $02{:}59$?
+> Una \textit{hora potência} (ora di potenza) è un'ora il cui formato rappresenta una potenza perfetta di un numero intero positivo con esponente maggiore di $1$; vale a dire, qualcosa nel formato $a^b$, dove $a$ e $b$ sono numeri interi positivi e $b > 1$. Ad esempio, $03{:}43$ è un'ora di potenza perché $343 = 7^3$, ma $01{:}10$ non è un'ora di potenza perché $110$ non è una potenza perfetta. Inoltre, $02{:}89$ non è un'ora di potenza perché non esiste il tempo $02{:}89$. Quante minuti di ore di potenza ci sono da $00{:}00$ a $02{:}59$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f2#q03|src_obm_2013_n2_f2__Q03]]
 
 
 
@@ -116,11 +139,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La corda AM incontra la BD diagonale a P nel quadrato inciso in cerchio; trova AP*
+*La corda AM incontra la diagonale BD nel punto P nel quadrato inscritto in una circonferenza; determina AP*
 
-> Il quadrato $ABCD$ è inserito in un cerchio di raggio $30$. L'accordo $AM$ interseca la diagonale $BD$ al punto $P$. Se $AM = 50$, determinare la lunghezza del segmento $AP$.
+> Il quadrato $ABCD$ è inscritto in una circonferenza di raggio $30$. La corda $AM$ interseca la diagonale $BD$ nel punto $P$. Se $AM = 50$, determina la lunghezza del segmento $AP$.
 
 ![[src_obm_2013_n2_f2__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f2#q04|src_obm_2013_n2_f2__Q04]]
 
 
 
@@ -145,11 +175,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Massimi vescovi su una tavola 8x8 senza due che si attaccano
+*Numero massimo di alfieri su una scacchiera 8x8 senza che due di essi siano sotto attacco reciproco*
 
-> Un \textit{bispo} (vescovo) è un pezzo di scacchi che può fare solo mosse diagonali; cioè può spostare qualsiasi numero di quadrati diagonalmente. Nella figura seguente sono indicate le possibili indicazioni di movimento di un vescovo da un determinato quadrato della lavagna. Diciamo che due vescovi si attaccano quando uno di loro è in una piazza che l'altro può raggiungere. Qual è il numero massimo di vescovi che può essere posto su una scacchiera in modo tale che due vescovi non si attaccino a vicenda?
+> Un \textit{alfiere} è un pezzo degli scacchi che può muoversi solo in diagonale; cioè, può spostarsi di qualsiasi numero di caselle in diagonale. Nella figura sottostante sono indicate le possibili direzioni di movimento di un alfiere da una data casella della scacchiera. Diciamo che due alfieri \textit{si attaccano a vicenda} quando uno di essi si trova in una casella raggiungibile dall'altro. Qual è il numero massimo di alfieri che si possono collocare su una scacchiera $8 \times 8$ in modo che nessun paio di alfieri si attacchi a vicenda?
 
 ![[src_obm_2013_n2_f2__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f2#q05|src_obm_2013_n2_f2__Q05]]
 
 
 
@@ -186,15 +223,30 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Modello nella tabella a due colonne: trovare la decima riga e somma nella riga 21*
+*Schema in tabella a due colonne: individua la 10ª riga e somma nella riga 21*
 
-> Nella tabella mostrata, a partire dalla seconda riga, il numero scritto nella colonna $X$ è uguale al prodotto dei numeri della riga precedente e il numero scritto nella colonna $Y$ è uguale al quotiente del valore $X$ diviso dal valore $Y$ della riga precedente.
-> 
-> $$\begin{array}{c|c|c} \text{Row} & X & Y \\ \hline 1^\circ & & 1 \\ 2^\circ & 2 & 2 \\ 3^\circ & 4 & 1 \\ \hline \cdots & \cdots & \cdots \end{array}$$
-> 
-> a) Quale numero figura nella colonna $X$ della decima riga?
-> 
-> b) Qual è la somma dei numeri che figurano nella riga $21$?
+> Nella tabella mostrata, a partire dalla seconda riga, il numero scritto nella colonna $X$ è uguale al prodotto dei numeri della riga precedente, e il numero scritto nella colonna $Y$ è uguale al quoziente tra il valore $X$ e il valore $Y$ della riga precedente.
+>
+> $$\begin{array}{c|c|c}
+> \text{Row} & X & Y \\
+> \hline
+> 1^\circ & & 1 \\
+> 2^\circ & 2 & 2 \\
+> 3^\circ & 4 & 1 \\
+> \hline
+> \cdots & \cdots & \cdots
+> \end{array}$$
+>
+> a) Quale numero compare nella colonna $X$, alla decima riga?
+>
+> b) Qual è la somma dei numeri che compaiono nella riga $21$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f2#q06|src_obm_2013_n2_f2__Q06]]
 
 
 
@@ -218,9 +270,17 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi quadrupli ordinati di numeri interi positivi con il prodotto 2013*
+*Conta le quaterne ordinate di interi positivi il cui prodotto è 2013*
 
-> Determinare il numero di quadrupli ordinati di enti interi $(x, y, z, w)$ che soddisfano $$x \cdot y \cdot z \cdot w = 2013.$$
+> Determinare il numero di quadruple ordinate di interi positivi $(x, y, z, w)$ che soddisfano
+> $$x \cdot y \cdot z \cdot w = 2013.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f2#q07|src_obm_2013_n2_f2__Q07]]
 
 
 
@@ -243,9 +303,16 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min scatole per garantire l'apertura di tutte le 10 lucchette con 2 chiavi per scatola*
+*Numero minimo di scatole per garantire l'apertura di tutti e 10 i lucchetti con 2 chiavi per scatola*
 
-> Led, un famoso eroe del gioco, ha una nuova sfida: aprire il portale del drago. Il portale dispone di $10$ lucchetti distinti. Per aprire il portale, Led deve avere almeno una chiave per ogni lucchetto. Ci sono scatole $45$ nel gioco, e ciascuna scatola contiene esattamente $2$ chiavi distinte, con le chiavi nella stessa scatola che aprono lo stesso lucchetto. Inoltre, le serrature $10$ hanno tutte chiavi diverse e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare per garantire l'apertura del portale?
+> Led, un celebre eroe dei videogiochi, ha una nuova sfida: aprire il portale del drago. Il portale ha $10$ lucchetti distinti. Per aprire il portale, Led deve disporre di almeno una chiave per ciascun lucchetto. Nel gioco ci sono $45$ scatole, e ciascuna scatola contiene esattamente $2$ chiavi distinte; le chiavi presenti nella stessa scatola aprono lo stesso lucchetto. Inoltre, i $10$ lucchetti hanno tutti chiavi diverse, e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare con sé per garantire di poter aprire il portale?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f2#q08|src_obm_2013_n2_f2__Q08]]
 
 
 
@@ -268,6 +335,13 @@ Massimi vescovi su una tavola 8x8 senza due che si attaccano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'angolo più grande del triangolo dato il punto medio e le condizioni di angolo*
+*Trovare l'angolo maggiore del triangolo dati il punto medio e le condizioni sugli angoli*
 
-> $M$ sia il punto medio del segmento $AC$ nel triangolo $ABC$. Se $\angle ABM = 2\,\angle BAM$ e $BC = 2 \cdot BM$, determinare la misura dell'angolo più grande del triangolo $ABC$.
+> Sia $M$ il punto medio del segmento $AC$ nel triangolo $ABC$. Se $\angle ABM = 2\,\angle BAM$ e $BC = 2 \cdot BM$, determina la misura del maggior angolo del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f2#q09|src_obm_2013_n2_f2__Q09]]

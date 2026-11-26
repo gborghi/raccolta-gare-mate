@@ -12,188 +12,354 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_insiemi_funzioni,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Convex subsets of plane and a symmetry map delta*
+*Image d'une partie convexe par les milieux des segments vus depuis un point*
 
-> We say that a non-empty subset $\Delta$ of the plane $\mathcal{P}$ is convex if it has the following property: for every pair $(M, N)$ of points of $\Delta$, the segment $[MN]$ is contained in $\Delta$.
-> 
-> Let $\Delta$ be a convex part of the plane $\mathcal{P}$. If $A$ is a point of $\mathcal{P}$, to every pair $(M, N)$ of points of $\Delta$ we associate the point $m$ defined by
-> $$\overrightarrow{Am} = \frac{1}{2}\overrightarrow{MN}$$
-> and we denote by $\delta_A(\Delta)$ the set of all points $m$ so obtained.
-> 
-> **1.** 
->    **a.** Show that $\delta_A(\Delta)$ admits a centre of symmetry.
->    
->    **b.** Under what condition on $A$ does one have $\delta_A(\Delta) = \Delta$? By what transformation does one pass from $\delta_0(\Delta)$ to $\delta_A(\Delta)$?
-> 
-> **2.** Let $A$ be a point of the plane $\mathcal{P}$. Determine and represent $\delta_A(\Delta)$ when:
->    **a.** $\Delta$ is a strip of the plane bounded by two parallel lines.
->    
->    **b.** $\Delta$ is bounded by a triangle.
->    
->    **c.** $\Delta$ is a half-plane.
-> 
-> **3.** Show that in both cases 2.b. and 2.c., the boundaries of $\Delta$ and $\delta_A(\Delta)$ have the same length.
+> **Exercice I**
+>
+> On dit qu'une partie non vide $\Delta$ du plan $\mathcal{P}$ est convexe si elle possède la propriété suivante : pour tout couple $(M, N)$ de points de $\Delta$, le segment $[MN]$ est contenu dans $\Delta$.
+>
+> Soit $\Delta$ une partie convexe du plan $\mathcal{P}$. Si $A$ est un point de $\mathcal{P}$, à tout couple $(M, N)$ de points de $\Delta$ on associe le point $m$ défini par
+>
+> $$Am = \frac{1}{2}\, MN,$$
+>
+> et on note $\delta_A(\Delta)$ l'ensemble des points $m$ ainsi obtenus.
+>
+> 1. a. Montrer que $\delta_A(\Delta)$ admet un centre de symétrie.
+>
+> b. À quelle condition a-t-on $\delta_A(\Delta) = \Delta$ ?
+>
+> c. Soient $B$ et $C$ deux points du plan $\mathcal{P}$. Par quelle transformation passe-t-on de $\delta_B(\Delta)$ à $\delta_C(\Delta)$ ?
+>
+> 2. Soit $A$ un point du plan $\mathcal{P}$. Déterminer et représenter $\delta_A(\Delta)$ lorsque :
+>
+> a. $\Delta$ est une bande du plan $\mathcal{P}$ délimitée par deux droites parallèles ;
+>
+> b. $\Delta$ est délimitée par un triangle ;
+>
+> c. $\Delta$ est un demi-disque.
+>
+> 3. Montrer que dans les deux cas 2. b. et 2. c., les contours de $\Delta$ et de $\delta_A(\Delta)$ ont la même longueur.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
+**Metodo:** [[method_simmetria|Symétrie]], [[method_coordinate|Coordonnées]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_astrazione|Abstraction]]
+**Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi convexi di piano e di un delta di mappa di simmetria*
+*Immagine di una parte convessa tramite i punti medi dei segmenti visti da un punto*
 
-> Diciamo che un sottoinsieme non vuoto $\Delta$ del piano $\mathcal{P}$ è convexo se ha la seguente proprietà: per ogni coppia $(M, N)$ di punti di $\Delta$, il segmento $[MN]$ è contenuto in $\Delta$.
-> 
-> Il $\Delta$ deve essere una parte convexa del piano $\mathcal{P}$. Se $A$ è un punto di $\mathcal{P}$, a ogni coppia $(M, N)$ di punti di $\Delta$ si associa il punto $m$ definito da $$\overrightarrow{Am} = \frac{1}{2}\overrightarrow{MN}$$ e si indica con $\delta_A(\Delta)$ l'insieme di tutti i punti $m$ così ottenuti.
-> 
-> **1.** **a.** Mostra che $\delta_A(\Delta)$ ammette un centro di simmetria.
->    
-> **b.** In che condizione si ha $A$ $\delta_A(\Delta) = \Delta$? Con quale trasformazione si passa da $\delta_0(\Delta)$ a $\delta_A(\Delta)$?
-> 
-> **2.** $A$ deve essere un punto del piano $\mathcal{P}$. Determinare e rappresentare $\delta_A(\Delta)$ quando: **a.** $\Delta$ è una striscia del piano delimitata da due linee parallele.
->    
-> **b.** $\Delta$ è delimitato da un triangolo.
->    
-> **c.** $\Delta$ è mezzo piano.
-> 
-> **3.** Indicare che in entrambi i casi 2.b. e 2.c., i confini di $\Delta$ e $\delta_A(\Delta)$ hanno la stessa lunghezza.
+> **Esercizio I**
+>
+> Si dice che una parte non vuota $\Delta$ del piano $\mathcal{P}$ è convessa se ha la proprietà seguente: per ogni coppia $(M, N)$ di punti di $\Delta$, il segmento $[MN]$ è contenuto in $\Delta$.
+>
+> Sia $\Delta$ una parte convessa del piano $\mathcal{P}$. Se $A$ è un punto di $\mathcal{P}$, a ogni coppia $(M, N)$ di punti di $\Delta$ si associa il punto $m$ definito da
+>
+> $$Am = \frac{1}{2}\, MN,$$
+>
+> e si indica con $\delta_A(\Delta)$ l'insieme dei punti $m$ così ottenuti.
+>
+> 1. a. Dimostrare che $\delta_A(\Delta)$ ammette un centro di simmetria.
+>
+> b. A quale condizione si ha $\delta_A(\Delta) = \Delta$?
+>
+> c. Siano $B$ e $C$ due punti del piano $\mathcal{P}$. Con quale trasformazione si passa da $\delta_B(\Delta)$ a $\delta_C(\Delta)$?
+>
+> 2. Sia $A$ un punto del piano $\mathcal{P}$. Determinare e rappresentare $\delta_A(\Delta)$ quando:
+>
+> a. $\Delta$ è una striscia del piano $\mathcal{P}$ delimitata da due rette parallele;
+>
+> b. $\Delta$ è delimitata da un triangolo;
+>
+> c. $\Delta$ è un semidisco.
+>
+> 3. Dimostrare che nei due casi 2. b. e 2. c. i contorni di $\Delta$ e di $\delta_A(\Delta)$ hanno la stessa lunghezza.
+
+[[Quesiti/src_cgen_1992#q01|src_cgen_1992__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Image of a convex set under midpoints of segments seen from a point*
+
+> **Exercise I**
+>
+> A nonempty subset $\Delta$ of the plane $\mathcal{P}$ is said to be convex if it has the following property: for every pair $(M, N)$ of points of $\Delta$, the segment $[MN]$ is contained in $\Delta$.
+>
+> Let $\Delta$ be a convex subset of the plane $\mathcal{P}$. If $A$ is a point of $\mathcal{P}$, to every pair $(M, N)$ of points of $\Delta$ one associates the point $m$ defined by
+>
+> $$Am = \frac{1}{2}\, MN,$$
+>
+> and one denotes by $\delta_A(\Delta)$ the set of points $m$ thus obtained.
+>
+> 1. a. Prove that $\delta_A(\Delta)$ has a centre of symmetry.
+>
+> b. Under what condition does one have $\delta_A(\Delta) = \Delta$?
+>
+> c. Let $B$ and $C$ be two points of the plane $\mathcal{P}$. By what transformation does one pass from $\delta_B(\Delta)$ to $\delta_C(\Delta)$?
+>
+> 2. Let $A$ be a point of the plane $\mathcal{P}$. Determine and draw $\delta_A(\Delta)$ when:
+>
+> a. $\Delta$ is a strip of the plane $\mathcal{P}$ bounded by two parallel lines;
+>
+> b. $\Delta$ is bounded by a triangle;
+>
+> c. $\Delta$ is a half-disk.
+>
+> 3. Prove that in the two cases 2. b. and 2. c., the boundaries of $\Delta$ and of $\delta_A(\Delta)$ have the same length.
+
+[[Quesiti/src_cgen_1992#q01|src_cgen_1992__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,topic_disuguaglianze,method_estremalita,method_trigonometria,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Inscribed triangles and quadrilaterals maximising sum of squared sides*
+*Triangles et quadrilatères inscrits maximisant une somme de carrés de distances*
 
-> Let $(C)$ be a circle of the plane of radius $1$.
-> 
-> **1.** Determine the triangles $ABC$ inscribed in the circle $(C)$ for which the sum
+> **Exercice II**
+>
+> Soit $(C)$ un cercle du plan de rayon $\ell$.
+>
+> 1. Déterminer les triangles $ABC$ inscrits dans le cercle $(C)$ pour lesquels la somme
+>
 > $$AB^2 + BC^2 + CA^2$$
-> is maximum.
-> 
-> **2.** Determine the quadrilaterals $ABCD$ inscribed in the circle $(C)$ for which the sum
+>
+> est maximale.
+>
+> 2. Déterminer les quadrilatères $ABCD$ inscrits dans le cercle $(C)$ pour lesquels la somme
+>
 > $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$
-> is maximum. Represent such a quadrilateral.
+>
+> est maximale. Représenter un tel quadrilatère.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_trigonometria|Trigonométrie]], [[topic_disuguaglianze|Inégalités]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_trigonometria|Trigonométrie]], [[method_simmetria|Symétrie]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli e quadrilaterali inseriti che massimizzano la somma dei lati quadrati*
+*Triangoli e quadrilateri inscritti che massimizzano una somma di quadrati di distanze*
 
-> Il $(C)$ deve essere un cerchio del piano del raggio $1$.
-> 
-> **1.** Determinare i triangoli $ABC$ inseriti nel cerchio $(C)$ per i quali la somma $$AB^2 + BC^2 + CA^2$$ è massima.
-> 
-> **2.** Determinare i quadrilaterali $ABCD$ inseriti nel cerchio $(C)$ per i quali la somma $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$ è massima. Rappresenta un quadrilaterale.
+> **Esercizio II**
+>
+> Sia $(C)$ un cerchio del piano di raggio $\ell$.
+>
+> 1. Determinare i triangoli $ABC$ inscritti nel cerchio $(C)$ per i quali la somma
+>
+> $$AB^2 + BC^2 + CA^2$$
+>
+> è massima.
+>
+> 2. Determinare i quadrilateri $ABCD$ inscritti nel cerchio $(C)$ per i quali la somma
+>
+> $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$
+>
+> è massima. Rappresentare un tale quadrilatero.
+
+[[Quesiti/src_cgen_1992#q02|src_cgen_1992__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Inscribed triangles and quadrilaterals maximising a sum of squared distances*
+
+> **Exercise II**
+>
+> Let $(C)$ be a circle in the plane of radius $\ell$.
+>
+> 1. Determine the triangles $ABC$ inscribed in the circle $(C)$ for which the sum
+>
+> $$AB^2 + BC^2 + CA^2$$
+>
+> is maximal.
+>
+> 2. Determine the quadrilaterals $ABCD$ inscribed in the circle $(C)$ for which the sum
+>
+> $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$
+>
+> is maximal. Draw such a quadrilateral.
+
+[[Quesiti/src_cgen_1992#q02|src_cgen_1992__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Tetrahedron inscribed in sphere: three equivalent conditions*
+*Tétraèdre inscrit : centre de la sphère, isobarycentre et centre de la sphère inscrite*
 
-> Let $ABCD$ be a tetrahedron inscribed in a sphere with centre $O$. Denote by $G$ the isobarycenter of the four vertices of the tetrahedron, and by $I$ the centre of the sphere inscribed in the tetrahedron. Show that the following three properties are equivalent:
-> 
-> **1.** The two points $O$ and $G$ coincide.
-> 
-> **2.** The four faces of the tetrahedron are congruent (isometric).
-> 
-> **3.** The two points $O$ and $I$ coincide.
+> **Exercice III**
+>
+> Soit $ABCD$ un tétraèdre inscrit dans une sphère de centre $O$.
+>
+> On note $G$ l'isobarycentre des quatre sommets du tétraèdre et $I$ le centre de la sphère inscrite dans le tétraèdre. Montrer que les trois propriétés suivantes sont équivalentes :
+>
+> 1. Les deux points $O$ et $G$ sont confondus.
+> 2. Les quatre faces du tétraèdre sont isométriques.
+> 3. Les deux points $O$ et $I$ sont confondus.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]]
+**Metodo:** [[method_simmetria|Symétrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_astrazione|Abstraction]], [[skill_manipolazione_algebrica|Manipulation algébrique]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro inserito nella sfera: tre condizioni equivalenti*
+*Tetraedro inscritto: centro della sfera, isobaricentro e incentro*
 
-> Il $ABCD$ deve essere un tetraedro inciso in una sfera con il centro $O$. Denotare con $G$ il centro isobario delle quattro vertici del tetraedro e con $I$ il centro della sfera inserita nel tetraedro. dimostrare che le seguenti tre proprietà sono equivalenti:
-> 
-> **1. ** I due punti $O$ e $G$ coincidono.
-> 
-> **2.** Le quattro facce del tetraedro sono congruenti (isometriche).
-> 
-> **3.** I due punti $O$ e $I$ coincidono.
+> **Esercizio III**
+>
+> Sia $ABCD$ un tetraedro inscritto in una sfera di centro $O$.
+>
+> Si indichi con $G$ l'isobaricentro dei quattro vertici del tetraedro e con $I$ il centro della sfera inscritta nel tetraedro. Dimostrare che le tre proprietà seguenti sono equivalenti:
+>
+> 1. I due punti $O$ e $G$ coincidono.
+> 2. Le quattro facce del tetraedro sono isometriche.
+> 3. I due punti $O$ e $I$ coincidono.
+
+[[Quesiti/src_cgen_1992#q03|src_cgen_1992__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Inscribed tetrahedron: sphere centre, isobarycentre and incentre*
+
+> **Exercise III**
+>
+> Let $ABCD$ be a tetrahedron inscribed in a sphere with centre $O$.
+>
+> Denote by $G$ the isobarycentre of the four vertices of the tetrahedron and by $I$ the centre of the sphere inscribed in the tetrahedron. Prove that the following three properties are equivalent:
+>
+> 1. The two points $O$ and $G$ coincide.
+> 2. The four faces of the tetrahedron are isometric.
+> 3. The two points $O$ and $I$ coincide.
+
+[[Quesiti/src_cgen_1992#q03|src_cgen_1992__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Convergence and eventual monotonicity of a square-root recurrence*
+*Suite récurrente u_{n+2}=(1/2)(√u_{n+1}+√u_n) : convergence et monotonie*
 
-> Let $(u_n)$ be the numerical sequence defined by its first two terms $u_0$ and $u_1$, with $0 < u_0 < 1$ and $0 < u_1 < 1$, and by the recurrence relation:
-> $$u_{n+2} = \frac{1}{2}\left(\sqrt{u_{n+1}} + \sqrt{u_n}\right).$$
-> 
-> **1.** Show that the sequence $(u_n)$ is convergent and determine its limit.
-> 
-> **2.** Show that from some index $n_0$ onwards, the sequence $(u_n)$ is monotone (one is not asked to determine $n_0$, which depends on the initial values $u_0$ and $u_1$).
+> **Exercice IV**
+>
+> Soit $(u_n)$ la suite définie par la donnée de ses deux premiers termes $u_0$ et $u_1$, avec $0 < u_0 < 1$ et $0 < u_1 < 1$, et par la relation de récurrence
+>
+> $$u_{n+2} = \frac{1}{2}\bigl(\sqrt{u_{n+1}} + \sqrt{u_n}\bigr).$$
+>
+> 1. Montrer que la suite $(u_n)$ est convergente et déterminer sa limite.
+> 2. Montrer qu'à partir d'un certain rang $n_0$, la suite $(u_n)$ est monotone (on ne demande pas de déterminer $n_0$, qui dépend des valeurs initiales $u_0$ et $u_1$).
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]]
+**Metodo:** [[method_induzione|Récurrence]], [[method_ricorsione|Récursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_astrazione|Abstraction]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Convergenza e eventuale monotonia di una ricorrenza di radice quadrata*
+*Ricorrenza u_{n+2}=(1/2)(√u_{n+1}+√u_n): convergenza e monotonia*
 
-> $(u_n)$ sia la sequenza numerica definita dai suoi primi due termini $u_0$ e $u_1$, con $0 < u_0 < 1$ e $0 < u_1 < 1$, e dal rapporto di ricorrenza: $$u_{n+2} = \frac{1}{2}\left(\sqrt{u_{n+1}} + \sqrt{u_n}\right).$$
-> 
-> **1.** Mostra che la sequenza $(u_n)$ è convergente e determina il suo limite.
-> 
-> **2.** Mostra che da alcuni indici $n_0$ in poi, la sequenza $(u_n)$ è monotona (non è richiesto di determinare $n_0$, che dipende dai valori iniziali $u_0$ e $u_1$).
+> **Esercizio IV**
+>
+> Sia $(u_n)$ la successione definita dai primi due termini $u_0$ e $u_1$, con $0 < u_0 < 1$ e $0 < u_1 < 1$, e dalla relazione di ricorrenza
+>
+> $$u_{n+2} = \frac{1}{2}\bigl(\sqrt{u_{n+1}} + \sqrt{u_n}\bigr).$$
+>
+> 1. Dimostrare che la successione $(u_n)$ è convergente e determinarne il limite.
+> 2. Dimostrare che da un certo rango $n_0$ in poi la successione $(u_n)$ è monotona (non si chiede di determinare $n_0$, che dipende dai valori iniziali $u_0$ e $u_1$).
+
+[[Quesiti/src_cgen_1992#q04|src_cgen_1992__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Recurrence u_{n+2}=(1/2)(√u_{n+1}+√u_n): convergence and monotonicity*
+
+> **Exercise IV**
+>
+> Let $(u_n)$ be the sequence defined by its first two terms $u_0$ and $u_1$, with $0 < u_0 < 1$ and $0 < u_1 < 1$, and by the recurrence
+>
+> $$u_{n+2} = \frac{1}{2}\bigl(\sqrt{u_{n+1}} + \sqrt{u_n}\bigr).$$
+>
+> 1. Prove that the sequence $(u_n)$ converges, and determine its limit.
+> 2. Prove that from some rank $n_0$ onwards, the sequence $(u_n)$ is monotonic (one is not asked to determine $n_0$, which depends on the initial values $u_0$ and $u_1$).
+
+[[Quesiti/src_cgen_1992#q04|src_cgen_1992__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Units digit of floor of 10^1992 / (10^83 + 7)*
+*Chiffre des unités de la partie entière de 10^{1992}/(10^{83}+7)*
 
-> What is the units digit of the largest integer less than or equal to $\dfrac{10^{1992}}{10^{83}+7}$?
+> **Exercice V**
+>
+> Quel est le chiffre des unités du plus grand entier inférieur ou égal à
+>
+> $$\frac{10^{1992}}{10^{83}+7}\ ?$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_congruenze|Congruences]], [[method_fattorizzazione|Factorisation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_stima|Estimation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di polvere di 10^1992 / (10^83 + 7)*
+*Cifra delle unità della parte intera di 10^{1992}/(10^{83}+7)*
 
-> Qual è la cifra di unità del più grande intero inferiore o uguale a $\dfrac{10^{1992}}{10^{83}+7}$?
+> **Esercizio V**
+>
+> Qual è la cifra delle unità del massimo intero minore o uguale a
+>
+> $$\frac{10^{1992}}{10^{83}+7}\ ?$$
+
+[[Quesiti/src_cgen_1992#q05|src_cgen_1992__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Units digit of the integer part of 10^{1992}/(10^{83}+7)*
+
+> **Exercise V**
+>
+> What is the units digit of the greatest integer less than or equal to
+>
+> $$\frac{10^{1992}}{10^{83}+7}\ ?$$
+
+[[Quesiti/src_cgen_1992#q05|src_cgen_1992__Q05]]

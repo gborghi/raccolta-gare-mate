@@ -38,19 +38,25 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso dalla sua diagonale in triangoli bianchi, grigi e blu; trovare aree e la superficie di un nuovo rettangolo costruito sulla diagonale*
+*Un rettangolo è diviso dalla sua diagonale in triangoli bianchi, grigi e blu; determinare le aree e l'area di un nuovo rettangolo costruito sulla diagonale*
 
-> Un rettangolo era diviso in tre triangoli: uno bianco, uno grigio e uno blu. Il triangolo blu ha, sulla diagonale del rettangolo, il doppio della lunghezza del lato del triangolo grigio su quella diagonale. Il lato superiore del rettangolo misura $36$ cm e il lato sinistro misura $40$ cm. Lungo la diagonale, il triangolo grigio occupa un segmento di lunghezza $x$ e il triangolo blu un segmento di lunghezza $2x$.
-> 
+> Un rettangolo è stato diviso in 3 triangoli: uno bianco, uno grigio e uno blu. Sul lato diagonale del rettangolo, il triangolo blu ha un lato lungo il doppio del lato del triangolo grigio che giace su quella diagonale. Il lato superiore del rettangolo misura $36$ cm e il lato sinistro misura $40$ cm. Lungo la diagonale, il triangolo grigio occupa un segmento di lunghezza $x$ e il triangolo blu un segmento di lunghezza $2x$.
+>
 > a) Qual è l'area del triangolo bianco?
-> 
+>
 > b) Qual è l'area del triangolo blu?
-> 
-> Disegniamo un rettangolo che ha come uno dei suoi lati la diagonale del rettangolo originale. Il lato opposto a questo lato del nuovo rettangolo passa attraverso uno dei vertici del rettangolo originale.
-> 
+>
+> Tracciamo un rettangolo il cui lato è, tra gli altri, la diagonale del rettangolo originale. Il lato opposto a questo lato del nuovo rettangolo passa per uno dei vertici del rettangolo originale.
+>
 > c) Qual è l'area del rettangolo giallo?
 
 ![[src_obm_2020_n1_fx__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2020_n1_fx#q01|src_obm_2020_n1_fx__Q01]]
 
 
 
@@ -81,17 +87,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un dado standard (la somma delle facce opposte è pari a 7) ruota su una lavagna 3x3 da A a H; determina la faccia superiore e le due facce laterali visibili*
+*Un dado standard (le facce opposte sommano a 7) rotola su una scacchiera 3x3 da A a H; determina la faccia superiore e le due facce laterali visibili*
 
-> Su un dado, la somma dei numeri su due facce opposte è sempre $7$. La figura 1 mostra una lavagna con celle quadrate $9$, una vuota e le altre contrassegnate con le lettere dell'alfabeto da $A$ a $H$. La figura 2 mostra un dado comune che occupa la cella vuota di quella lavagna.
-> 
-> Il marchio si snoda su un bordo, senza scivolare, per occupare la cella $A$. Poi si ruota su un altro bordo per occupare la cella $B$, e così via, ruotando e seguendo l'alfabeto fino a occupare la cella centrale $H$. E' qui che finisce il sentiero.
-> 
+> Su un dado, la somma dei numeri presenti su due facce opposte è sempre $7$. La Figura 1 mostra una tavola con $9$ celle quadrate, una vuota e le altre contrassegnate dalle lettere dell'alfabeto da $A$ a $H$. La Figura 2 mostra un dado comune che occupa la cella vuota di tale tavola.
+>
+> Il dado rotola oltre un bordo, senza scivolare, per occupare la casella $A$. Poi rotola oltre un altro bordo per occupare la casella $B$, e così via, rotolando e seguendo l'alfabeto finché non occupa la casella centrale $H$. Lì il percorso termina.
+>
 > a) Qual è il numero sulla faccia superiore del dado?
-> 
-> b) Considerando il dado quando raggiunge la cella centrale $H$, cioè dallo stesso punto di vista della figura 2, quali sono i numeri sulle altre due facce visibili? Giustifica la tua risposta.
+>
+> b) Considerando il dado quando raggiunge la cella centrale $H$, cioè dallo stesso punto di vista della Figura 2, quali sono i numeri sulle altre due facce visibili? Giustifica la tua risposta.
 
 ![[src_obm_2020_n1_fx__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2020_n1_fx#q02|src_obm_2020_n1_fx__Q02]]
 
 
 
@@ -120,15 +133,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei numeri decimali iniziali di 7/33 e 11/41 dopo il punto decimale: raggiungere esattamente 1202, mostrare che il 2020 è impossibile, raggiungere almeno 2021*
+*Somme delle cifre decimali iniziali di 7/33 e 11/41 dopo la virgola: si arriva esattamente a 1202, si dimostrare che 2020 è impossibile, si raggiunge almeno 2021*
 
-> Quando dividiamo un intero per un altro intero, possiamo ottenere un risultato intero o meno. Ad esempio, $12/3 = 4$ è un intero e $5/4 = 1{,}25$ non è un intero. Esistono divisioni in cui il risultato non è un numero intero e, anche utilizzando i punti decimali dopo la virgola, la divisione non finisce mai e abbiamo un numero con una rappresentazione decimale infinita. Ad esempio, $1/3 = 0{,}333\ldots$ in modo che la rappresentazione decimale di $1/3$ sia infinita.
-> 
-> a) Juca ha osservato che $7/33 = 0{,}212121\ldots$ Si possono osservare le somme delle cifre delle prime decimali dopo la virgola: $2$, $2+1 = 3$, $2+1+2 = 5$, e così via. Quante decimali iniziali dopo la virgola della rappresentazione decimale di $7/33$ dovrebbe sommare Juca per ottenere esattamente $1202$?
-> 
-> b) dimostrare che per Juca non è possibile sommare le cifre di una certa quantità di prime decimali dopo la virgola della rappresentazione decimale di $7/33$ per ottenere esattamente $2020$.
-> 
-> c) Juca ha osservato la rappresentazione decimale di $11/41$. Quante decimali iniziali dopo la virgola dovrebbe sommare Juca per ottenere un risultato maggiore o uguale a $2021$?
+> Quando si divide un numero intero per un altro numero intero, si può ottenere un risultato intero oppure no. Ad esempio, $12/3 = 4$ è un numero intero e $5/4 = 1{,}25$ non è un numero intero. Esistono divisioni il cui risultato non è un numero intero e, anche utilizzando cifre decimali dopo la virgola, la divisione non termina mai e si ottiene un numero con una rappresentazione decimale infinita. Ad esempio, $1/3 = 0{,}333\ldots$, cosicché la rappresentazione decimale di $1/3$ è infinita.
+>
+> a) Juca ha osservato che $7/33 = 0{,}212121\ldots$ Possiamo osservare le somme delle cifre delle cifre decimali iniziali dopo la virgola: $2$, $2+1 = 3$, $2+1+2 = 5$, e così via. Quante cifre decimali iniziali dopo la virgola della rappresentazione decimale di $7/33$ dovrebbe sommare Juca per ottenere esattamente $1202$?
+>
+> b) Dimostrare che non è possibile che Juca sommi le cifre di un certo numero di cifre decimali iniziali dopo la virgola nella rappresentazione decimale di $7/33$ per ottenere esattamente $2020$.
+>
+> c) Juca ha osservato la rappresentazione decimale di $11/41$. Quante cifre decimali iniziali dopo la virgola dovrebbe sommare Juca per ottenere un risultato maggiore o uguale a $2021$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2020_n1_fx#q03|src_obm_2020_n1_fx__Q03]]
 
 
 
@@ -160,17 +180,25 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare i numeri primi etichettati A,B,C,D nell'elenco; i numeri primadoidi (ogni due cifre consecutive formano un primo, tutti i numeri distinti); dimostrare che non ci sono primadoidi a 6 cifre e trovare il più grande*
+*Identifica i numeri primi contrassegnati con A, B, C, D nell'elenco; i numeri primadoido (in cui ogni coppia di cifre consecutive forma un numero primo e tutte le cifre sono distinte); dimostrare che non esiste alcun primadoido di 6 cifre e trova il più grande*
 
-> I numeri primi sono quei numeri interi positivi che possiedono esattamente due distinti divisori positivi: $1$ e se stesso. I primi numeri primi positivi sono $$2, 3, 5, 7, 11, 13, 17, 19, 23, A, 31, 37, 41, B, 47, 53, 59, 61, 67, 71, C, 79, 83, 89, D, 101, \ldots$$
-> 
-> a) Alcune prime sono state rappresentate da $A$, $B$, $C$ e $D$. Determina questi numeri primi.
-> 
-> Si dice che un numero primo positivo sia $\textit{primadoido}$ se ha due o più cifre, tutte le sue cifre sono distinte l'una dall'altra e ogni due cifre consecutive formano un numero primo. Ad esempio, $413$ è primadoido, dal momento che $41$ e $13$ sono prime, ma $143$ e $313$ non sono primadoido, dal momento che $14$ non è primo e $313$ non ha tutti i suoi numeri distinti.
-> 
-> b) dimostrare che un numero di sei cifre $\overline{ABCDEF}$ non può essere primadoido.
-> 
-> c) Trova il numero primo primato più grande.
+> I numeri primi sono quegli interi positivi che possiedono esattamente due divisori positivi distinti: $1$ e se stessi. I primi numeri primi positivi sono
+> $$2, 3, 5, 7, 11, 13, 17, 19, 23, A, 31, 37, 41, B, 47, 53, 59, 61, 67, 71, C, 79, 83, 89, D, 101, \ldots$$
+>
+> a) Alcuni numeri primi furono rappresentati da $A$, $B$, $C$ e $D$. Determinare questi numeri primi.
+>
+> Un numero primo positivo si dice $\textit{primadoido}$ se ha due o più cifre, tutte le sue cifre sono distinte tra loro e ogni coppia di cifre consecutive forma un numero primo. Ad esempio, $413$ è primadoido, poiché $41$ e $13$ sono primi, ma $143$ e $313$ non sono primadoido, poiché $14$ non è primo e $313$ non ha tutte le cifre distinte.
+>
+> b) Dimostrare che un numero di sei cifre $\overline{ABCDEF}$ non può essere primadoido.
+>
+> c) Trova il numero primo primadoido più grande.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_n1_fx#q04|src_obm_2020_n1_fx__Q04]]
 
 
 
@@ -203,16 +231,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligoni semplici e linee rette che tagliano i loro lati senza passare attraverso vertici: costruzioni e un argomento di parità*
+*Poligoni semplici e rette che intersecano i loro lati senza passare per i vertici: costruzioni e un argomento di parità*
 
-> Un poligono semplice è determinato dall'unione di segmenti di linea che collegano punti in sequenza, in modo tale che i punti consecutivi di una sequenza siano uniti da un segmento e l'ultimo punto della sequenza sia unito al primo. I lati consecutivi sono segmenti che condividono un vertice; gli altri sono chiamati lati non consecutivi. Tale sequenza di punti deve essere tale che gli unici punti di intersezione tra i segmenti si trovino ai vertici di segmenti consecutivi. La figura mostra due esempi di poligoni semplici e un esempio che non è un poligono semplice.
-> 
-> a) Disegnare un poligono semplice con i lati $4$ e una linea che non contiene alcuna vertice ma taglia $4$ dei suoi lati.
-> 
-> b) Indicare se è possibile disegnare un poligono semplice con lati $20$ e una linea che non contiene vertici e taglia i lati $20$ del poligono. Se possibile, mostralo con un disegno. Se no, spiegate il motivo.
-> 
-> c) Considerare un poligono semplice con lati $21$. Spiega perché non è possibile disegnare una linea che taglia esattamente $17$ i lati di questo poligono senza passare attraverso uno dei suoi vertici.
-> 
-> d) Rendere uno sketch di un poligono semplice con lati $21$ e linee $10$ in modo tale che queste linee non passino attraverso nessun vertice e il numero di lati tagliati da queste linee sia distinto.
+> Un poligono semplice è determinato dall'unione di segmenti che collegano i punti in sequenza, in modo tale che i punti consecutivi di una sequenza siano uniti da un segmento e l'ultimo punto della sequenza sia unito al primo. I lati consecutivi sono segmenti che condividono un vertice; gli altri sono detti lati non consecutivi. Tale sequenza di punti deve essere tale che gli unici punti di intersezione tra i segmenti si verifichino nei vertici dei segmenti consecutivi. La figura mostra due esempi di poligoni semplici e un esempio che non è un poligono semplice.
+>
+> a) Disegna un poligono semplice con $4$ lati e una retta che non contiene alcun vertice ma interseca $4$ dei suoi lati.
+>
+> b) Indica se è possibile disegnare un poligono semplice con $20$ lati e una retta che non contenga alcun vertice e che intersechi $20$ lati del poligono. Se è possibile, mostralo con un disegno. Altrimenti, spiega perché.
+>
+> c) Si consideri un poligono semplice con $21$ lati. Spiega perché non è possibile tracciare una retta che intersechi esattamente $17$ lati di questo poligono senza passare per alcuno dei suoi vertici.
+>
+> d) Disegna uno schizzo di un poligono semplice con $21$ lati e $10$ rette tali che queste rette non passino per alcun vertice e che i numeri dei lati intersecati da tali rette siano tutti distinti.
 
 ![[src_obm_2020_n1_fx__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_n1_fx#q05|src_obm_2020_n1_fx__Q05]]

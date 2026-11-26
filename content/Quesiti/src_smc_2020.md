@@ -35,7 +35,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare il 2020 diviso per (20 volte 20)*
+*Valuta 2020 diviso (20 per 20)*
 
 > Qual è il valore di $\dfrac{2020}{20 \times 20}$?
 >
@@ -45,7 +45,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $5.05$
 > - **(E)** $0.55$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q01|src_smc_2020__Q01]]
 
 
 
@@ -75,9 +79,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rimanente quando 1234 per 5678 è diviso per 5*
+*Trovare il resto della divisione di 1234 per 5678 per 5*
 
-> Qual è il rimanente quando $1234 \times 5678$ è diviso da $5$?
+> Qual è il resto della divisione di $1234 \times 5678$ per $5$?
 >
 > - **(A)** $0$
 > - **(B)** $1$
@@ -85,7 +89,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $3$
 > - **(E)** $4$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q02|src_smc_2020__Q02]]
 
 
 
@@ -117,9 +126,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di superficie di una forma fatta di cinque cubetti unitari disposti in segno più*
+*Area superficiale di una figura composta da cinque cubi unitari disposti a forma di segno più*
 
-> Una forma è fatta da cinque cubetti, come mostrato. Qual è l'area superficiale della forma?
+> La figura è composta da cinque cubi unitari, come mostrato. Qual è l'area della superficie della figura?
 >
 > - **(A)** $22$
 > - **(B)** $24$
@@ -129,7 +138,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2020__q03.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2020#q03|src_smc_2020__Q03]]
 
 
 
@@ -158,7 +172,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca p+q+r+s data una catena di prodotti pari a 2, 20, 202, 2020*
+*Trovare p+q+r+s dato una catena di prodotti uguale a 2, 20, 202, 2020*
 
 > I numeri $p$, $q$, $r$ e $s$ soddisfano le equazioni $p = 2$, $p \times q = 20$, $p \times q \times r = 202$ e $p \times q \times r \times s = 2020$. Qual è il valore di $p + q + r + s$?
 >
@@ -168,7 +182,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $33.1$
 > - **(E)** $34$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2020#q04|src_smc_2020__Q04]]
 
 
 
@@ -197,9 +215,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la radice quadrata di 123454321*
+*Trovare la radice quadrata di 123454321*
 
-> Che cos' è $\sqrt{123454321}$?
+> Che cos'è $\sqrt{123454321}$?
 >
 > - **(A)** $1111111$
 > - **(B)** $111111$
@@ -207,7 +225,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $1111$
 > - **(E)** $111$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q05|src_smc_2020__Q05]]
 
 
 
@@ -237,9 +259,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno studenti che giocano all'hockey in condizioni di LCM in una classe inferiore a 30*
+*Il minor numero di studenti che praticano l'hockey, considerate le condizioni LCM con classi di dimensione inferiore a 30*
 
-> Ci sono meno di 30 studenti nella classe di matematica di livello A. Una metà di loro suona il pianoforte, un quarto giocano all'hockey e un settimo sono nel gioco scolastico. Quanti studenti giocano a hockey?
+> Nella classe di matematica per gli A-level ci sono meno di 30 studenti. La metà di loro suona il pianoforte, un quarto gioca a hockey e un settimo partecipa allo spettacolo teatrale della scuola. Quanti studenti giocano a hockey?
 >
 > - **(A)** $3$
 > - **(B)** $4$
@@ -247,7 +269,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $6$
 > - **(E)** $7$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2020#q06|src_smc_2020__Q06]]
 
 
 
@@ -276,9 +303,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riduczione approssimativa percentuale degli incidenti di macchine da tè da 225 a 47*
+*Riduzione percentuale approssimativa degli incidenti con le teiere: da 225 a 47*
 
-> Le statistiche ufficiali britanniche sugli incidenti hanno mostrato che in un solo anno si sono verificati 225 incidenti che hanno coinvolto teapot. Tuttavia, nell'anno successivo si registrarono 47 simili incidenti. Qual è stata la percentuale approssimativa di riduzione degli incidenti registrati che hanno coinvolto teapot dal primo anno al secondo?
+> Le statistiche ufficiali britanniche sugli incidenti hanno mostrato che, in un anno, si sono verificati 225 incidenti che hanno coinvolto teiere. Tuttavia, nell'anno successivo si sono verificati 47 incidenti di questo tipo. Qual è stata la riduzione percentuale approssimativa degli incidenti registrati che hanno coinvolto teiere dal primo al secondo anno?
 >
 > - **(A)** $50$
 > - **(B)** $60$
@@ -286,7 +313,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $80$
 > - **(E)** $90$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q07|src_smc_2020__Q07]]
 
 
 
@@ -316,7 +347,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fattore primo più piccolo di 106 al quadrato meno 15 al quadrato*
+*Il più grande fattore primo di 106 al quadrato meno 15 al quadrato*
 
 > Qual è il più grande fattore primo di $106^2 - 15^2$?
 >
@@ -326,7 +357,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $13$
 > - **(E)** $17$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q08|src_smc_2020__Q08]]
 
 
 
@@ -355,9 +391,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distanza in metri tra due auto a 180 km/h ciascuna che si trovano a 1 secondo di distanza*
+*Distanza in metri tra due auto, ciascuna a 180 km/h, separate da 1 secondo*
 
-> Nel 2018, un pilota di corse è stato autorizzato a utilizzare il sistema di riduzione del trascinamento a condizione che l'auto fosse entro 1 secondo dalla vettura davanti. Supponiamo che due macchine fossero a un secondo di distanza, ognuna di cui viaggiava a 180 km/h nella stessa direzione. Quanti metri erano distanti le auto?
+> Nel 2018, a un pilota di corsa era consentito utilizzare il Drag Reduction System a condizione che la propria vettura fosse entro 1 secondo dalla vettura che lo precedeva. Supponiamo che due vetture fossero distanziate di 1 secondo e che ciascuna viaggiasse a 180 km/h nella stessa direzione. Quanti metri separavano le vetture?
 >
 > - **(A)** $100$
 > - **(B)** $50$
@@ -365,7 +401,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $5$
 > - **(E)** $1$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q09|src_smc_2020__Q09]]
 
 
 
@@ -395,9 +435,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Contare le persone che stanno tra Tara e Uma in una fila di sei amici
+*Conta le persone che si trovano in piedi tra Tara e Uma in una fila di sei amici*
 
-> Sei amici Pat, Qasim, Roman, Sam, Tara e Uma sono in fila per una fotografia. Ci sono tre persone tra Pat e Qasim, due tra Qasim e Roman, e una tra Roman e Sam. Sam non e' a nessuna fine della linea. Quante persone sono tra Tara e Uma?
+> Sei amici, Pat, Qasim, Roman, Sam, Tara e Uma, sono allineati per una fotografia. Ci sono tre persone tra Pat e Qasim, due tra Qasim e Roman, e una tra Roman e Sam. Sam non si trova a nessuna delle due estremità della fila. Quante persone ci sono tra Tara e Uma?
 >
 > - **(A)** $4$
 > - **(B)** $3$
@@ -405,7 +445,12 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 > - **(D)** $1$
 > - **(E)** $0$
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2020#q10|src_smc_2020__Q10]]
 
 
 
@@ -436,9 +481,9 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro di un ottagono formato da due pentagoni congruenti uniti*
+*Perimetro di un ottagono ottenuto unendo due pentagoni congruenti*
 
-> Due pentagoni congruenti sono formati ciascuno rimuovendo un triangolo a rettangolo di isosceles da un quadrato di lunghezza laterale 1. I due pentagoni vengono quindi montati insieme come mostrato. Qual è il perimetro dell'ottagono formato?
+> Due pentagoni congruenti si ottengono ciascuno rimuovendo un triangolo isoscele rettangolo da un quadrato di lato 1. I due pentagoni vengono poi accostati come mostrato. Qual è il perimetro dell'ottagono che si forma?
 >
 > - **(A)** $4$
 > - **(B)** $4 + 2\sqrt{2}$
@@ -448,7 +493,11 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 
 ![[src_smc_2020__q11.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2020#q11|src_smc_2020__Q11]]
 
 
 
@@ -477,17 +526,21 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il costo di un completo a tre pezzi data due equazioni sui prezzi di giacca, pantaloni, giubbotto*
+*Trovare il costo di un abito tre pezzi partendo da due equazioni riguardanti i prezzi di giacca, pantaloni e gilet*
 
-> Un vestito a tre pezzi è costituito da una giacca, un paio di pantaloni e una cintura. Due giacche e tre coppie di pantaloni costano 380 sterline. Un paio di pantaloni costa lo stesso che due giubbotti. Quanto costa un vestito a tre pezzi?
+> Un abito tre pezzi è composto da una giacca, un paio di pantaloni e un gilet. Due giacche e tre paia di pantaloni costano 380 sterline. Un paio di pantaloni costa quanto due gilet. Quanto costa un abito tre pezzi?
 >
-> - **(A)** 150 chili.
+> - **(A)** £150
 > - **(B)** £190
-> - **(C)** 200 chili.
-> - **(D)** 228 chili.
-> - **(E)** ulteriori informazioni necessarie
+> - **(C)** £200
+> - **(D)** £228
+> - **(E)** servono ulteriori informazioni
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2020#q12|src_smc_2020__Q12]]
 
 
 
@@ -517,9 +570,9 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 <div class="qlang-split" data-lang="it"></div>
 
 
-Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
+*Trovare k tale che 16! diviso 2^k sia un numero intero dispari*
 
-> Il numero $16! \div 2^k$ è un numero intero impar. Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$. Qual è il valore di $k$?
+> Il numero $16! \div 2^k$ è un numero intero dispari. Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$. Qual è il valore di $k$?
 >
 > - **(A)** $9$
 > - **(B)** $11$
@@ -527,7 +580,12 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $15$
 > - **(E)** $17$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q13|src_smc_2020__Q13]]
 
 
 
@@ -559,9 +617,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le reti completate che collocano due dischi blu identici, due rossi e uno giallo su una griglia 3x2 con restrizioni sulla condivisione dei bordi*
+*Conteggia le griglie completate in cui vengono posizionati due dischi blu identici, due rossi e uno giallo su una griglia 3x2 con restrizioni di condivisione dei bordi*
 
-> Diane ha cinque dischi blu identici, due dischi rossi identici e un disco giallo. Lei vuole posizionarli sulla griglia opposta in modo che ogni cella contiene esattamente un disco. I due dischi rossi non devono essere collocati in celle che condividono un bordo. Quante griglie di aspetto diverso può produrre?
+> Diane ha cinque dischi blu identici, due dischi rossi identici e un disco giallo. Vuole disporli sulla griglia a fronte in modo che ogni cella contenga esattamente un disco. I due dischi rossi non devono essere collocati in celle che condividono un lato. Quante griglie completate di aspetto diverso può ottenere?
 >
 > - **(A)** $96$
 > - **(B)** $108$
@@ -571,7 +629,12 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 
 ![[src_smc_2020__q14.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2020#q14|src_smc_2020__Q14]]
 
 
 
@@ -602,9 +665,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area oscurata all'interno di un cerchio di raggio 3, tra il cerchio e due tangenti che si incontrano a 60 gradi*
+*Area ombreggiata all'interno di un cerchio di raggio 3, compresa tra il cerchio e due tangenti che si incontrano formando un angolo di 60 gradi*
 
-> L'area ombreggiata mostrata nel diagramma è costituita dall'interno di un cerchio di raggio 3 insieme alle due tangenti del cerchio. L'angolo tra le tangenti al punto di incontro è $60^\circ$. Che cos'è la zona ombrosa?
+> La regione ombreggiata mostrata nel diagramma è costituita dall'interno di un cerchio di raggio 3 insieme alle due tangenti al cerchio. L'angolo tra le tangenti nel punto in cui si incontrano è $60^\circ$. Qual è l'area ombreggiata?
 >
 > - **(A)** $6\pi + 9\sqrt{3}$
 > - **(B)** $15\sqrt{3}$
@@ -614,7 +677,11 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 
 ![[src_smc_2020__q15.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2020#q15|src_smc_2020__Q15]]
 
 
 
@@ -646,19 +713,24 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare il diagramma che rappresenta tutti i punti (x,y) che soddisfano y^2 - 2y = x^2 + 2x*
+*Identifica il diagramma che rappresenta tutti i punti (x,y) che soddisfano y^2 - 2y = x^2 + 2x*
 
 > Quale diagramma rappresenta l'insieme di tutti i punti $(x, y)$ che soddisfano $y^2 - 2y = x^2 + 2x$?
 >
-> - **(A)** grafico A (due linee nello stesso quadrante, pendii positivi)
-> - **(B)** grafico B (due linee che si incrociano, una verticale)
-> - **(C)** grafico C (due curve separate, entrambe verso l'alto)
-> - **(D)** grafico D (circolo o curva chiusa)
-> - **(E)** grafico E (due linee rette che si incrociano: $y = x+2$ e $y = -x$)
+> - **(A)** grafico A (due rette nello stesso quadrante, pendenze positive)
+> - **(B)** grafico B (due rette che si intersecano, una verticale)
+> - **(C)** grafico C (due curve separate, entrambe crescenti)
+> - **(D)** grafico D (cerchio o curva chiusa)
+> - **(E)** grafico E (due rette che si intersecano: $y = x+2$ e $y = -x$)
 
 ![[src_smc_2020__q16.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2020#q16|src_smc_2020__Q16]]
 
 
 
@@ -688,7 +760,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca p dato che i numeri interi positivi m, n, p soddisfano 3m + 3/(n + 3/p) = 17*
+*Trovare p sapendo che gli interi positivi m, n, p soddisfano 3m + 3/(n + 3/p) = 17*
 
 > I numeri interi positivi $m$, $n$ e $p$ soddisfano l'equazione $3m + \dfrac{3}{n + \dfrac{3}{p}} = 17$. Qual è il valore di $p$?
 >
@@ -698,7 +770,12 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $6$
 > - **(E)** $9$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q17|src_smc_2020__Q17]]
 
 
 
@@ -727,9 +804,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei raggi di due cerchi centrati a (3,4) che toccano ciascuno un cerchio centrato a origine con raggio 2*
+*Somma dei raggi di due cerchi, ciascuno centrato in (3,4), che sono tangenti a un cerchio centrato nell'origine e avente raggio 2*
 
-> Due cerchi $C_1$ e $C_2$ hanno i loro centri al punto $(3, 4)$ e toccano un terzo cerchio $C_3$. Il centro di $C_3$ si trova al punto $(0, 0)$ e il suo raggio è di 2. Qual è la somma dei radii dei due cerchi $C_1$ e $C_2$?
+> Due cerchi $C_1$ e $C_2$ hanno i loro centri nel punto $(3, 4)$ e sono tangenti a un terzo cerchio $C_3$. Il centro di $C_3$ si trova nel punto $(0, 0)$ e il suo raggio è 2. Qual è la somma dei raggi dei due cerchi $C_1$ e $C_2$?
 >
 > - **(A)** $6$
 > - **(B)** $7$
@@ -737,7 +814,11 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $9$
 > - **(E)** $10$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2020#q18|src_smc_2020__Q18]]
 
 
 
@@ -767,9 +848,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i possibili valori di t dove p, q, r, s, t sono diversi interi positivi a un solo digitolo con p - q = r - s + t*
+*Conta i valori possibili di t tali che p, q, r, s, t siano numeri interi positivi a una cifra tutti distinti e p - q = r - s + t*
 
-> Le lettere $p$, $q$, $r$, $s$ e $t$ rappresentano diversi numeri positivi a singola cifra, quali $p - q = r - s + t$. Quanti valori diversi potrebbe avere $t$?
+> Le lettere $p$, $q$, $r$, $s$ e $t$ rappresentano numeri positivi diversi, ciascuno di una sola cifra, tali che $p - q = r - s + t$. Quanti valori diversi potrebbe assumere $t$?
 >
 > - **(A)** $6$
 > - **(B)** $5$
@@ -777,7 +858,12 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $3$
 > - **(E)** $2$
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2020#q19|src_smc_2020__Q19]]
 
 
 
@@ -806,7 +892,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca 5^(x+y) dato due equazioni esponenziali in x e y*
+*Trovare 5^(x+y) dati due equazioni esponenziali in x e y*
 
 > I numeri reali $x$ e $y$ soddisfano le equazioni $4^y = \dfrac{1}{8(\sqrt{2})^{x+2}}$ e $9^x \times 3^y = 3\sqrt{3}$. Qual è il valore di $5^{x+y}$?
 >
@@ -816,7 +902,11 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $\dfrac{1}{5}$
 > - **(E)** $\dfrac{1}{\sqrt{5}}$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2020#q20|src_smc_2020__Q20]]
 
 
 
@@ -845,9 +935,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri di (10^2020 + 2020)^2, un numero di 4041 cifre*
+*Somma delle cifre di (10^2020 + 2020)^2, un numero di 4041 cifre*
 
-> Se scritto a pieno, il numero $(10^{2020} + 2020)^2$ ha 4041 cifre. Qual è la somma dei numeri di questo numero di 4041 cifre?
+> Quando viene scritto per esteso, il numero $(10^{2020} + 2020)^2$ ha 4041 cifre. Qual è la somma delle cifre di questo numero di 4041 cifre?
 >
 > - **(A)** $9$
 > - **(B)** $17$
@@ -855,7 +945,11 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $2048$
 > - **(E)** $4041$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2020#q21|src_smc_2020__Q21]]
 
 
 
@@ -886,9 +980,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro di un rettangolo formato da riorganizzazione di pezzi tagliati da un quadrato unitario*
+*Perimetro di un rettangolo ottenuto riorganizzando i pezzi tagliati da un quadrato unitario*
 
-> Un quadrato con perimetro di 4 cm può essere tagliato in due triangoli rettangolari congruenti e due trapezoi congruenti come mostrato nel primo diagramma in modo tale che i quattro pezzi possano essere riordinati per formare il rettangolo mostrato nel secondo diagramma. Qual è il perimetro, in centimetri, di questo rettangolo?
+> Un quadrato con perimetro di 4 cm può essere tagliato in due triangoli rettangoli congruenti e due trapezi congruenti, come mostrato nel primo disegno, in modo tale che i quattro pezzi possano essere riassemblati per formare il rettangolo mostrato nel secondo disegno. Qual è il perimetro, in centimetri, di questo rettangolo?
 >
 > - **(A)** $2\sqrt{5}$
 > - **(B)** $4\sqrt{2}$
@@ -898,7 +992,11 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 
 ![[src_smc_2020__q22.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2020#q22|src_smc_2020__Q22]]
 
 
 
@@ -927,7 +1025,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di (f(20) - f(2)) / f(3) per una funzione che soddisfa y^2 f(x) = x^2 f(y)*
+*Valore di (f(20) - f(2)) / f(3) per una funzione che soddisfa y^2 f(x) = x^2 f(y)*
 
 > Una funzione $f$ soddisfa $y^2 f(x) = x^2 f(y)$ e $f(3) \neq 0$. Qual è il valore di $\dfrac{f(20) - f(2)}{f(3)}$?
 >
@@ -937,7 +1035,11 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 > - **(D)** $296$
 > - **(E)** $2023$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2020#q23|src_smc_2020__Q23]]
 
 
 
@@ -969,9 +1071,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di SQ in un triangolo in cui M è il punto medio di PQ, PS divide l'angolo RPQ, ST è parallelo a PR, angolo MTI = 120 gradi*
+*Lunghezza di SQ in un triangolo in cui M è il punto medio di PQ, PS biseca l'angolo RPQ, ST è parallela a PR, angolo MTI = 120 gradi*
 
-> Nel diagramma mostrato, $M$ è il punto medio di $PQ$. La linea $PS$ divide $\angle RPQ$ e si interseca $RQ$ a $T$. La linea $ST$ è parallela a $PR$ e si interseca con $PQ$ a $S$. La lunghezza di $PQ$ è 12 e la lunghezza di $MT$ è 1. L'angolo $\angle STQ = 120^\circ$. Qual è la lunghezza di $SQ$?
+> Nel diagramma mostrato, $M$ è il punto medio di $PQ$. La retta $PS$ biseca $\angle RPQ$ e interseca $RQ$ in $T$. La retta $ST$ è parallela a $PR$ e interseca $PQ$ in $S$. La lunghezza di $PQ$ è 12 e la lunghezza di $MT$ è 1. L'angolo $\angle STQ = 120^\circ$. Qual è la lunghezza di $SQ$?
 >
 > - **(A)** $2$
 > - **(B)** $3$
@@ -981,7 +1083,12 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 
 ![[src_smc_2020__q24.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2020#q24|src_smc_2020__Q24]]
 
 
 
@@ -1013,9 +1120,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il valore più basso possibile di p per un normale m-gon, n-gon e p-gon che condividono un vertex e bordi in coppia*
+*Valore massimo possibile di p per un m-gono regolare, un n-gono regolare e un p-gono regolare che condividono un vertice e hanno spigoli a coppie*
 
-> Un gono regolare $m$, un gono regolare $n$ e un gono regolare $p$ condividono un vertex e due bordi, come mostrato nel diagramma. Qual è il valore più grande possibile di $p$?
+> Un $m$-gono regolare, un $n$-gono regolare e un $p$-gono regolare hanno in comune un vertice e condividono spigoli a coppie, come mostrato nel diagramma. Qual è il valore massimo possibile di $p$?
 >
 > - **(A)** $6$
 > - **(B)** $20$
@@ -1025,4 +1132,9 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 
 ![[src_smc_2020__q25.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2020#q25|src_smc_2020__Q25]]

@@ -32,11 +32,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum shifts for every boy to dance with every girl
+*AR BS CT DU*
 
 > AR BS CT DU
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+[[Quesiti/src_kangourou_2014_benjamin_finale#q01|src_kangourou_2014_benjamin_finale__Q01]]
 
 
 
@@ -61,9 +66,15 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Why number pairs = sum of the first n-1 integers*
+*Letter pairs*
 
 > AS BT CU DV
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+[[Quesiti/src_kangourou_2014_benjamin_finale#q02|src_kangourou_2014_benjamin_finale__Q02]]
 
 
 
@@ -104,7 +115,7 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the table with overlapping fabrics*
+*Letter pairs*
 
 ![[src_kangourou_2014_benjamin_finale__prob3.png]]
 
@@ -123,7 +134,12 @@ Minimum shifts for every boy to dance with every girl
 
 > AT BU CV DZ
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** 4
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+[[Quesiti/src_kangourou_2014_benjamin_finale#q03|src_kangourou_2014_benjamin_finale__Q03]]
 
 
 
@@ -149,13 +165,15 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squirrel empties 15 plates in four visits*
+*Squirrel empties 15 little plates in four visits*
 
-> In a little house in the woods there are 15 little plates in a row: on the first there is 1 nut, on the
-> second there are 2 nuts, on the third 3, and so on up to the fifteenth little plate on which there are 15 nuts.
-> Every so often a squirrel enters the little house, chooses some little plates and eats some nuts,
-> taking the same number from each of the chosen little plates. If it makes four visits to the little house,
-> can it manage to eat all the nuts?
+> In a little house in the woods there are 15 little plates in a row: on the first there is 1 walnut, on the second there are 2 walnuts, on the third 3, and so on up to the fifteenth little plate, on which there are 15 walnuts. From time to time a squirrel enters the little house, chooses some little plates and eats some walnuts, taking the same number from each of the little plates chosen. If it makes four visits to the little house, can it manage to eat all the walnuts?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+[[Quesiti/src_kangourou_2014_benjamin_finale#q04|src_kangourou_2014_benjamin_finale__Q04]]
 
 
 
@@ -180,12 +198,15 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blacken 16 squares of an 8x8 with adjacent covering*
+*AV BZ CR DS*
 
-> AV 
-> BZ 
-> CR 
-> DS
+> AV BZ CR DS
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+[[Quesiti/src_kangourou_2014_benjamin_finale#q05|src_kangourou_2014_benjamin_finale__Q05]]
 
 
 
@@ -219,9 +240,16 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisibility sum of consecutive integers and minimum m*
+*Pairs and the sum of the first positive integers*
 
 > AZ BR CS DT
->  
->  
-> B2. (7 points) You have n objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: {A,B}, {A,C} and {B,C}). Whatever the number n of objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first n - 1 positive integers. Without using any formula, would you be able to explain the reason for this coincidence?
+>
+>
+> B2. (7 points ) You have n objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: {A,B}, {A,C} and {B,C}). Whatever the number n of objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first  n - 1  positive integers. Without using any formula, could you explain the reason for this coincidence?
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+[[Quesiti/src_kangourou_2014_benjamin_finale#q06|src_kangourou_2014_benjamin_finale__Q06]]

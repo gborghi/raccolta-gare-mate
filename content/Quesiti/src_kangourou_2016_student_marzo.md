@@ -40,19 +40,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Oldest age given three sums in pairs*
+*And from the oldest date, three sums in pairs*
 
-> The sum of Teresa's and Joan's years is 23, that of Joan's and Alexandra's years is 24, and the sum of Teresa's and Alexandra's years is 25. How old is the oldest of the three girls? A) 10
-> 	
-> B) 11
-> 	
-> C) 12
-> 	
-> D) 13
-> 	
+> The sum of Teresa's age and Giovanna's age is 23, the sum of Giovanna's age and Alessandra's age is 24, and the sum of Teresa's age and Alessandra's age is 25. How old is the oldest of the three girls?
+> A) 10	
+>
+> B) 11	
+>
+> C) 12	
+>
+> D) 13	
+>
 > E) 14
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q01|src_kangourou_2016_student_marzo__Q01]]
 
 
 
@@ -80,16 +85,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the sum 1/10+1/100+1/1000*
+*Value of the sum 1/10 + 1/100 + 1/1000*
 
-> The sum       +        +           equals
+> The sum + + is valid
 > A)          	
 > B)            	
 > C)               	
 >       D)             	
 >     E)
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q02|src_kangourou_2016_student_marzo__Q02]]
 
 
 
@@ -122,13 +131,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure cannot be the stream (constant bridge)*
+*Which figure cannot be the stream (constant bridge)?*
 
 ![[src_kangourou_2016_student_marzo__prob3.png]]
 
-> Two friends want to build a bridge, as short as possible, over a stream and they realize that no matter how they choose a point on their shore from which to start the bridge, the length of the bridge remains the same. Which of the following cannot represent their stream? A) B) C) D) E)
+> Two friends want to build a bridge—as short as possible—across a stream, and they realize that no matter which point on their bank they choose as the starting point of the bridge, the length of the bridge always remains the same. Which of the following figures cannot represent their stream?
+>         A)	 	
+>         B)	 	
+>          C)		
+>           D)	
+>            E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q03|src_kangourou_2016_student_marzo__Q03]]
 
 
 
@@ -160,19 +178,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers between 2015x2017 and 2016x2016*
+*Interiors between 2015x2017 and 2016x2016*
 
-> How many integers are there strictly greater than 2015 ∙ 2017 and strictly less 
-> than 2016 ∙ 2016?
+> How many integers are strictly greater than 2015 ∙ 2017 and strictly less than 2016 ∙ 2016?
 > A) 0	
-> 	
+>
 > B) 1	
-> 	
+>
 > C) 2015		
 > D) 2016		
 > E) 2017
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q04|src_kangourou_2016_student_marzo__Q04]]
 
 
 
@@ -230,16 +252,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reflected logo exchanging x and y coordinates*
+*Reflected logo with x and y coordinates swapped*
 
 ![[src_kangourou_2016_student_marzo__prob5.png]]
 
-> In the image on the right you can see how I put the Kangourou logo on the xy plane. If for each point in the plane I exchange between them the x and y coordinates, which of the following images do I get for the Kangourou logo?
->  
-> A) B) C) D) E) 1---- 10 1 ------ 100 1 -------- 1000 3 ------ 111 111 -------- 1110 111 -------- 1000 3 -------- 1000 3 -------- 1110
+> In the image on the right, you can see how I placed the kangaroo logo in the xy-plane. If, for each point in the plane, the x- and y-coordinates are swapped, which of the following images do I get for the kangaroo logo?
+>
+>         A)	 	
+>                B)	 	
+>         C)	 	
+>          D)		
+>            E)
+> 1---- 10 1 ------ 100 1 -------- 1000 3 ------ 111 111 -------- 1110 111 -------- 1000 3 -------- 1000 3 -------- 1110
 >
 
-**Answer:** A
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q05|src_kangourou_2016_student_marzo__Q05]]
 
 
 
@@ -274,22 +306,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of planes needed to bound a bounded region in space*
+*Minimum plans for delimiting a bounded region in space*
 
-> In three-dimensional space I want that, by drawing planes, among the regions that they 
-> bound there is at least one bounded one. What is the minimum number of planes with which 
-> I can achieve my goal? 
+> In three-dimensional space, I want that, by drawing planes, at least one of the regions delimited by those planes is bounded. What is the minimum number of planes with which I can achieve my goal?
 > A) 3	
-> 	
+>
 > B) 4	
-> 	
+>
 > C) 5	
-> 	
+>
 > D) 6	
-> 	
+>
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q06|src_kangourou_2016_student_marzo__Q06]]
 
 
 
@@ -327,21 +362,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of integers with equal sums over eight triangles*
+*Maximum whole numbers, distinct, with equal sums on the eight triangles*
 
 ![[src_kangourou_2016_student_marzo__prob7.png]]
 
-> Diana wants to write an integer in each of the nine circles of the diagram in the figure so that, for each of the eight smaller triangles formed by the diagram segments, the sum of the three numbers that appear in the vertices is always the same. What's the maximum number of different integers that Diana can use? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 5
-> 	
+> Diana wants to write an integer in each of the nine circles in the diagram shown in the figure so that, for each of the eight smaller triangles formed by the line segments of the diagram, the sum of the three numbers appearing at the vertices is always the same. What is the maximum number of distinct integers Diana can use?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 5	
+>
 > E) 8
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q07|src_kangourou_2016_student_marzo__Q07]]
 
 
 
@@ -375,15 +416,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio a/b with two rectangles of equal area*
+*a/b ratio with two rectangles of equal area*
 
 ![[src_kangourou_2016_student_marzo__prob8.png]]
 
-> The two rectangles S1 and S2 in the figure have the same area. They are bounded by two axes and two pairs of parallel lines that cut the x axis in a and 8, and the y axis in b and 5, respectively. Determine the a/b ratio. A) 1
-> 	
-> B) 3/2 C) 4/3 D) 7/4 E) 8/5
+> The two rectangles S1 and S2 in the figure have the same area. They are bounded by the two axes and by two pairs of parallel lines that intersect the x-axis at a and 8, respectively, and the y-axis at b and 5, respectively. Determine the ratio a / b.
+> A) 1	
+>
+> B) 3/2 	 	
+> C) 4/3	 	
+> D) 7/4	 	
+> E) 8/5
 
-**Answer:** E
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q08|src_kangourou_2016_student_marzo__Q08]]
 
 
 
@@ -416,19 +465,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x+(2/x) given x^2-4x+2=0*
+*Value of x + (2/x) given x^2 - 4x + 2 = 0*
 
-> If x2 − 4x + 2 = 0, then x + is equal to A) −4
-> 	
-> B) −2
-> 	
-> C) 0
-> 	
-> D) 2
-> 	
+> If x² − 4x + 2 = 0, then x + is equal to
+> A) −4	
+>
+> B) −2	
+>
+> C) 0	
+>
+> D) 2	
+>
 > E) 4
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q09|src_kangourou_2016_student_marzo__Q09]]
 
 
 
@@ -465,21 +519,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AXP angle AP and BP arcs data of 20 and 16*
+*Angle AXP, given arcs AP and BP of 20 and 16*
 
 ![[src_kangourou_2016_student_marzo__prob10.png]]
 
-> In the figure, the length of the AP and BP arcs is 20 and 16 respectively. How many degrees does the AXP angle measure ? A) 30
-> 	
-> B) 24
-> 	
-> C) 18
-> 	
-> D) 15
-> 	
-> (e) 10 Questions from N. 11 al N. 20 is worth 4 points each.
+> In the figure, the lengths of arcs AP and BP are 20 and 16, respectively. How many degrees is angle AXP?
+> A) 30	
+>
+> B) 24	
+>
+> C) 18	
+>
+> D) 15	
+>
+> E) 10
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q10|src_kangourou_2016_student_marzo__Q10]]
 
 
 
@@ -522,18 +582,24 @@ level: kangourou
 
 *2*
 
-> a, b, c, and d are strictly positive integers that satisfy the chain of equations a + 2 = b − 2 = c ∙ 2 = d : 2. Establish which is the largest of the four numbers. A) a
-> 	
-> B) b
-> 	
-> C) c
-> 	
-> D) d
-> 	
-> E) It is not uniquely determined. b a 2 --- x
+> a, b, c, and d are strictly positive integers satisfying the chain of equations a + 2 = b − 2 = c ∙ 2 = d : 2. Determine which of the four numbers is the largest.
+> A) a	
+>
+> B) b	
+>
+> C) c	
+>
+> D) d	
+>
+> E) It is not uniquely determined.
+> b a 2 --x
 >
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q11|src_kangourou_2016_student_marzo__Q11]]
 
 
 
@@ -606,15 +672,22 @@ level: kangourou
 \end{document}
 ```
 
-> In each of the rectangles that appear in the figure, you want to write a number so that all the rectangles in the lower row contain natural numbers greater than 1 and, for each rectangle in the upper rows, the number written there is the product of the numbers in the two rectangles on which it rests. Which of the following numbers can never appear in the rectangle at the top of the figure? A) 56
-> 	
-> B) 84
-> 	
-> C) 90
-> 	
-> D) 105 E) 220
+> In each of the rectangles shown in the figure, we want to write a number such that all the rectangles in the bottom row contain natural numbers greater than 1 and, for each rectangle in the upper rows, the number written in it is the product of the numbers contained in the two rectangles it rests on. Which of the following numbers can never appear in the rectangle at the top of the figure?
+> A) 56	
+>
+> B) 84	
+>
+> C) 90	
+>
+> D) 105	 	
+> E) 220
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q12|src_kangourou_2016_student_marzo__Q12]]
 
 
 
@@ -648,17 +721,21 @@ level: kangourou
 
 *Value of x4 in the tower of exponents x_{n+1}=x_n^{x_n}*
 
-> We build a sequence of numbers by setting x1 = 2  and  xn+1 = xn    for every  n ≥ 1. 
-> What is the value of x4?
+> We construct a sequence of numbers by setting x1 = 2 and xn+1 = xn for every n ≥ 1. What is the value of x4?
 > A) 2    	 	
 > B) 2 	
-> 	
+>
 > C) 2    	 	
 > D) 2	
-> 	
+>
 > E) 2
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q13|src_kangourou_2016_student_marzo__Q13]]
 
 
 
@@ -689,13 +766,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CAM angle in a rectangle with BC half diagonal*
+*CAM angle in a rectangle with BC as the midpoint of the diagonal*
 
-> In an ABCD rectangle the length of the side BC is half the length of the diagonals. If M is a point on the CD side such that AM and MC have the same length. What is the size of the CAM angle ? A) 12° 30’ B) 15° C) 27° 30’ D) 42° 30’
-> 	
+> In rectangle ABCD, the length of side BC is half the length of the diagonals. Let M be a point on side CD such that AM and MC have the same length. What is the measure of angle CAM?
+> A) 12° 30’	
+> B) 15°	 	
+> C) 27° 30’	
+> D) 42° 30’	
+>
 > E) None of the above.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q14|src_kangourou_2016_student_marzo__Q14]]
 
 
 
@@ -730,19 +816,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2016 area rectangles cut into 56 whole squares*
+*Rectangles with area 2016, divisible into 56 whole squares*
 
-> Diana cuts a rectangle of area 2016 into 56 equal square pieces. We know that the measurements of both the sides of the rectangle and the side of the squares are integers. How many different rectangles can Diana perform this operation on? A) 2
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> D) 8
-> 	
+> Diana cuts a rectangle with area 2016 into 56 equal square pieces. It is known that both the side lengths of the rectangle and the side length of the squares are whole numbers. How many distinct rectangles are there for which Diana can carry out this operation?
+> A) 2	
+>
+> B) 4 	
+>
+> C) 6	
+>
+> D) 8	
+>
 > E) 0
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q15|src_kangourou_2016_student_marzo__Q15]]
 
 
 
@@ -778,19 +870,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars out of 7 in a circle that declare themselves liars*
+*How many liars among 7 in a circle who declare themselves to be among liars?*
 
-> You're making a trip to the Island of the Sincere and the Liar, where every resident is either Sincere (always telling the truth) or Liar (always lying). You meet seven of them, sitting in a circle around a campfire, and each of them declares "I am sitting between two Liars!". How many of them are actually liars? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
-> E) The information is not sufficient to answer.
+> You are on a trip to the Island of Truth-tellers and Liars, where every inhabitant is either a Truth-teller (always tells the truth) or a Liar (always lies). You meet 7 of them, sitting in a circle around a campfire, and each of them declares, "I am sitting between two Liars!" How many of them are actually Liars?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
+> E) The information is insufficient to respond.
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q16|src_kangourou_2016_student_marzo__Q16]]
 
 
 
@@ -821,11 +919,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a+b with two real and symmetrical root squares*
+*Value of a+b, where a and b are quadratic expressions with real and symmetric roots*
 
-> The two equations x2 + ax + b = 0 and x2 + bx + a = 0 have both real roots. We know that the sum of the squares of the roots of the first equation is equal to the sum of the squares of the roots of the second and that a ≠ b. The value of a + b A) is 0. B) is  −2. C) is  4. D) is  −4. E) cannot be determined.
+> The two equations x² + ax + b = 0 and x² + bx + a = 0 both have real roots. It is known that the sum of the squares of the roots of the first equation equals the sum of the squares of the roots of the second equation, and that a ≠ b. The value of a + b
+> A) è  0.	 	
+> B) è  −2.	
+> C) è  4.	 	
+> D) è  −4.	
+> E) cannot be determined.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q17|src_kangourou_2016_student_marzo__Q17]]
 
 
 
@@ -877,7 +985,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of an equilateral triangle given the square perimeter 4*
+*Perimeter of an equilateral triangle given the perimeter of a square: 4*
 
 ![[src_kangourou_2016_student_marzo__prob18.png]]
 
@@ -892,14 +1000,23 @@ level: kangourou
 \end{document}
 ```
 
-> The perimeter of the square drawn in the figure is 4; what is the perimeter of the equilateral triangle? A) 4
-> 	
-> B) 3+√3		C) 3
-> 	
-> D) 3+√2 E) 4+√3 xn 23 24 211 216 2768
+> The perimeter of the square drawn in the figure is 4; what is the perimeter of the equilateral triangle?
+> A) 4	
+>
+> B) 3+√3		
+> C) 3	
+>
+> D) 3+√2		
+> E) 4+√3
+> xn 23 24 211 216 2768
 >
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q18|src_kangourou_2016_student_marzo__Q18]]
 
 
 
@@ -936,17 +1053,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible values in the circle with conditions divisible by 3*
+*Possible values for the small circle, with conditions for divisibility by 3*
 
 ![[src_kangourou_2016_student_marzo__prob19.png]]
 
-> Each of the ten circles in the figure is assigned a value of 0, 1 or 2, but only the three values marked in the figure are known. You know that the sum of the numbers in the vertices of any white triangle is divisible by 3 whereas the sum of the numbers in the vertices of any black triangle is not. What values can be assigned to the circle marked with the question mark? A) Only 0.
-> 	
-> B) Only 1. C) Only 2. D) Only 0 or 1.
-> 	
-> E) 0 or 1 or 2.
+> Each of the ten small circles in the figure is assigned the value 0, 1, or 2, but only the three values marked in the figure are known. It is known that the sum of the numbers at the vertices of any white triangle is divisible by 3, whereas the sum of the numbers at the vertices of any black triangle is not. What values can be assigned to the small circle marked with a question mark?
+> A) Only 0.
+>
+> B) Only 1.
+> C) Solo 2.
+> D) Only 0 or 1.
+>
+> E) 0 o 1 o 2.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q19|src_kangourou_2016_student_marzo__Q19]]
 
 
 
@@ -981,13 +1106,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABD angle with five equal tangent-string angles*
+*ABD angle with five equal tangent-chord angles*
 
 ![[src_kangourou_2016_student_marzo__prob20.png]]
 
-> James scored 5 points A, B, C, D and E on a circumference and plotted the right tangent to the circumference in A, choosing the points so that all five angles marked in the figure with x are equal. What is the angle of ABD ? (a) 66° B) 70° 30 C) 72° D) 75° E) 77° 30 Questions from N. 21 al N. 30 is worth 5 points each.
+> Giacomo marked points A, B, C, D, and E on a circle and drew the line tangent to the circle at A, choosing the points so that all five angles marked x in the figure are equal. What is the measure of angle ABD?
+> A) 66°	 	
+> B) 70° 30’	
+>    C) 72°		
+> D) 75°	 	
+> E) 77° 30’
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q20|src_kangourou_2016_student_marzo__Q20]]
 
 
 
@@ -1022,17 +1158,23 @@ level: kangourou
 
 *Real solutions of (x^2-4x+5)^{x^2+x-30}=1*
 
-> How many distinct real solutions does the equation (x2 − 4x + 5) = 1 admit? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> How many distinct real solutions does the equation (x² − 4x + 5) = 1 have?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) Infinite.
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q21|src_kangourou_2016_student_marzo__Q21]]
 
 
 
@@ -1062,11 +1204,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of quadrilateral areas/circle with inscribed circle*
+*Ratio of quadrilateral area to circle area with an inscribed circle*
 
-> A circle is inscribed in a quadrilateral (i.e. the four sides of the quadrilateral are tangent to its circumference). The ratio of the perimeter of the quadrilateral to the length of the circumference is 4: 3. What is the ratio between the area of the quadrilateral and that of the circle? A) 4 : π B) 3√2 : π C) 16 : 9 D) π : 3 E) 4 : 3
+> A circle is inscribed in a quadrilateral (that is, the four sides of the quadrilateral are tangent to the circle's circumference). The ratio of the perimeter of the quadrilateral to the length of the circumference is 4 : 3. What is the ratio of the area of the quadrilateral to the area of the circle?
+> A) 4 : π	 	
+> B) 3√2 : π	
+> C) 16 : 9	
+> D) π : 3	 	
+> E) 4 : 3
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q22|src_kangourou_2016_student_marzo__Q22]]
 
 
 
@@ -1117,7 +1268,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many vertical-axis parabolas for 3 blackened points*
+*How many parabolas with a vertical axis for 3 blackened points?*
 
 ![[src_kangourou_2016_student_marzo__prob23.png]]
 
@@ -1137,17 +1288,23 @@ level: kangourou
 \end{document}
 ```
 
-> How many parables with a vertical axis pass through three of the blackened points in the figure? A) 6
-> 	
-> B) 15
-> 	
-> C) 19
-> 	
-> D) 22
-> 	
+> How many parabolas with a vertical axis pass through 3 of the blackened points in the figure?
+> A) 6	
+>
+> B) 15	
+>
+> C) 19	
+>
+> D) 22	
+>
 > E) 27
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q23|src_kangourou_2016_student_marzo__Q23]]
 
 
 
@@ -1184,16 +1341,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of P from A, incenter of right triangle*
+*Distance from P to A, incenter of a right triangle*
 
-> In a right triangle ABC, right-angled at A, the angle bisectors of the acute angles intersect at a point P. If the distance of P from the hypotenuse is √8, what is the distance of P from A? A) 8
-> 	
-> B) 3
-> 	
-> C)√10 D) √12 E) 4 x2 + x − 30 O x y
+> In right triangle ABC, right-angled at A, the angle bisectors of the acute angles intersect at point P. If the distance from P to the hypotenuse is √8, what is the distance from P to A?
+> A) 8	
+>
+> B) 3	
+>
+> C)√10 	 	
+> D) √12	 	
+> E) 4
+> x2 + x − 30 O x y
 >
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q24|src_kangourou_2016_student_marzo__Q24]]
 
 
 
@@ -1223,11 +1389,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible sum of three three-digit numbers with 1..9*
+*Impossible sum of three three-digit numbers using 1..9*
 
-> Using one and only one time all the digits from 1 to 9 were written three numbers of three digits each. Which of the following numbers cannot be the sum of the three numbers? A) 1500 B) 1503 C) 1512 D) 1521 E) 1575
+> Using each of the digits from 1 to 9 exactly once, three three-digit numbers were written. Which of the following numbers cannot be the sum of the three numbers?
+> A) 1500		
+> B) 1503		
+> C) 1512		
+> D) 1521		
+> E) 1575
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q25|src_kangourou_2016_student_marzo__Q25]]
 
 
 
@@ -1261,19 +1437,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the sixth pyramid in the sectioned cube*
+*Volume of the sixth pyramid within the sliced cube*
 
-> By connecting an inner point of a cube to each of the vertices of the cube by segments, the cube is divided into 6 pyramids. The volumes of five of these pyramids are 2, 5, 10, 11, and 14. What is the volume of the sixth pyramid? A) 1
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> D) 9
-> 	
+> By joining an interior point of a cube to each of the cube's vertices with line segments, the cube is divided into 6 pyramids. The volumes of five of these pyramids are 2, 5, 10, 11, and 14. What is the volume of the sixth pyramid?
+> A) 1	
+>
+> B) 4	
+>
+> C) 6	
+>
+> D) 9	
+>
 > E) 12
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q26|src_kangourou_2016_student_marzo__Q26]]
 
 
 
@@ -1311,17 +1493,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Clear area visible from the double-folded strip*
+*Area of the twice-folded strip that is visibly in the light part*
 
 ![[src_kangourou_2016_student_marzo__prob27.png]]
 
-> A rectangular strip of paper with vertices A, B, C and D, 5 cm wide and 50 cm long, has a clear face and the other dark. Cristina folds the strip, light side against light side, so that the vertex B overlaps the midpoint M of the CD side. Fold it a second time, always on the clear side, so that the vertex D coincides with the midpoint N of the AB side. How many square centimetres does the area of the clear part of the strip still visible in the figure measure? A) 50
-> 	
-> B) 60
-> 	
-> C) 62,5 D)100 E)125
+> A rectangular strip of paper with vertices A, B, C, and D, 5 cm wide and 50 cm long, has one light face and the other dark. Cristina folds the strip with the light sides together so that vertex B overlaps the midpoint M of side CD. She folds it a second time, again on the light side, so that vertex D coincides with the midpoint N of side AB. How many square centimeters is the area of the light part of the strip that is still visible in the figure?
+> A) 50	
+>
+> B) 60	
+>
+> C) 62,5	
+> D)100	 	
+> E)125
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q27|src_kangourou_2016_student_marzo__Q27]]
 
 
 
@@ -1352,11 +1541,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p divides the sum 1..n but not the addends*
+*First, divide the sum from 1 to n, but not the addends*
 
-> Anna chose a positive integer n and wrote the sum of all positive integers from 1 to n. A certain prime number p divides that sum, but does not divide any of the addends. Which of the following values can be n + p ? A) 217 B) 221 C) 229 D) 245 E) 269
+> Anna has chosen a positive integer n and has written the sum of all positive integers from 1 to n. Some prime number p divides this sum but does not divide any of the addends. Which of the following values can be n + p?
+> A) 217	 	
+> B) 221	 	
+> C) 229	 	
+> D) 245	 	
+> E) 269
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q28|src_kangourou_2016_student_marzo__Q28]]
 
 
 
@@ -1438,7 +1637,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves for 5x5 checkerboard with consecutive triple*
+*Minimum moves for a 5x5 chessboard with consecutive triples*
 
 ![[src_kangourou_2016_student_marzo__prob29.png]]
 
@@ -1467,18 +1666,25 @@ level: kangourou
 \end{document}
 ```
 
-> Imagine a square divided into 25 equal cells. Initially, all cells are white. With each move, you can change the color of the cells of a block of three cells in a row or column: each white cell becomes dark and vice versa. Is it possible to turn the square into a colored checkerboard as shown in the figure and if so, what is the minimum number of moves needed? A) Yes and the minimum number is less than 10.
-> 	
+> Imagine a square divided into 25 equal cells. At the initial moment, all the cells are white. With each move, you can change the color of the cells in a block of three consecutive cells in a row or a column: each white cell becomes dark, and vice versa. Is it possible to turn the square into a colored chessboard like the one in the figure? And if so, what is the minimum number of moves required?
+> A) Yes, and the minimum number is less than 10.
+>
 > B) Yes, and the minimum number is 10.
-> 	
+>
 > C) Yes, and the minimum number is 12.
-> 	
-> D) Yes and the minimum number is greater than 12.
-> 	
-> E) It is not possible. A M D B C A D N B’ C’ A’ D’ B’ C’
+>
+> D) Yes, and the minimum number is greater than 12.
+>
+> E) It's not possible.
+> A M D B C A D N B’ C’ A’ D’ B’ C’
 >
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q29|src_kangourou_2016_student_marzo__Q29]]
 
 
 
@@ -1520,18 +1726,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sixth divisor of N with 6 divisors, product of five 648*
+*Sixth divisor of N with 6 divisors, product of five 648s*
 
-> The positive integer N has exactly 6 distinct (positive) divisors, including 1 and N itself. The product of five of them is 648. Which of the following numbers is the sixth divisor of N ? A) 4
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 12
-> 	
+> The entire positive number N has exactly 6 distinct (positive) divisors, including 1 and N itself. The product of five of them is 648. Which of the following numbers is the sixth divisor of N?
+> A) 4	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 12	
+>
 > E) 24
-> 
-> A category
+>
+> Category A B C D E
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_marzo#q30|src_kangourou_2016_student_marzo__Q30]]

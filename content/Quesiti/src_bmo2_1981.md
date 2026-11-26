@@ -30,11 +30,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo con lati rossi è tagliato da tre linee blu in sette pezzi (quattro triangoli, tre pentagoni); dato che i quattro triangoli sono congruenti, esprimere l'area di ciascuno come una frazione dell'intero triangolo.*
+*Area di ciascuno dei quattro triangoli congruenti, come frazione del triangolo dato*
 
-> Un determinato triangolo ha i suoi tre lati di colore rosso. Tre linee rette blu tagliano il triangolo in sette pezzi, quattro dei quali sono triangoli e tre sono pentagoni. Due lati di ogni triangolo sono blu e uno di loro ha anche il suo terzo lato blu.
-> 
-> Dato che tutti e quattro i triangoli sono congruenti, esprimere l'area di ciascuno come una frazione dell'area del triangolo dato.
+> Un dato triangolo ha i tre lati colorati di rosso. Tre rette blu tagliano il triangolo in sette pezzi, quattro dei quali sono triangoli e tre sono pentagoni. Due dei lati di ciascun triangolo sono blu, e uno di essi ha anche il terzo lato blu.
+>
+> Sapendo che i quattro triangoli sono tutti congruenti, esprimere l'area di ciascuno come frazione dell'area del triangolo dato.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1981#q01|src_bmo2_1981__Q01]]
 
 
 
@@ -61,13 +67,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con un asse di un solido definito come una linea intorno alla quale il solido può essere girato da un angolo compreso tra 0 e 360 gradi per coincidere con se stesso, trovare quanti assi ha un cubo e l'angolo di rotazione minimo per ciascuno dei tre tipi.*
+*Quanti assi ha un cubo, e i tre tipi con l'angolo minimo di rotazione*
 
-> Un $\underline{\text{axis}}$ di un solido è, ai fini della presente domanda, definito come una linea retta che unisce due punti sulla superficie del solido e tale che il solido, quando ruotato attorno a questa linea attraverso un angolo maggiore di $0^\circ$ e inferiore a $360^\circ$, coincida con se stesso.
-> 
-> Quanti assi ha un cubo? Disegnare tre schemi per mostrare i tre diversi tipi di asse e indicare l'angolo minimo di rotazione per ciascun tipo.
-> 
-> (Non sono richieste prove formali. Ogni diagramma deve mostrare chiaramente l'asse, i vertici del cubo numerati da $1$ a $8$ e un simbolo come $\begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ 2 & 5 & 3 & 1 & 4 & 8 & 6 & 7 \end{pmatrix}$ che indica che i punti $1, 2, 3, \ldots 8$ si spostano rispettivamente verso i punti $2, 5, 3, \ldots, 7$.)
+> Un $\underline{\text{axis}}$ di un solido è, ai fini di questo quesito, una retta che congiunge due punti della superficie del solido e tale che il solido, ruotato attorno a questa retta di un angolo maggiore di $0^\circ$ e minore di $360^\circ$, coincide con se stesso.
+>
+> Quanti assi ha un cubo? Disegnare tre diagrammi che mostrino i tre tipi diversi di asse e indicare l'angolo minimo di rotazione per ciascun tipo.
+>
+> (Non si richiedono dimostrazioni formali. Ciascun diagramma deve mostrare chiaramente l'asse, i vertici del cubo numerati da $1$ a $8$ e un simbolo come $\begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ 2 & 5 & 3 & 1 & 4 & 8 & 6 & 7 \end{pmatrix}$ che indica che i punti $1, 2, 3, \ldots 8$ vanno rispettivamente nei punti $2, 5, 3, \ldots, 7$.)
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1981#q02|src_bmo2_1981__Q02]]
 
 
 
@@ -91,9 +104,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi per x, y, z il sistema di tre equazioni simmetriche simultanee in termini di dati a, b, c.*
+*Soluzioni di un sistema in $x, y, z$ per $a, b, c$ dati*
 
-> Risolvere per $x, y, z$ le equazioni simultanee $$x^2 y^2 + x^2 z^2 = axyz, \quad y^2 z^2 + y^2 x^2 = bxyz, \quad z^2 x^2 + z^2 y^2 = cxyz$$ dove $a, b, c$ sono dati numeri.
+> Risolvere rispetto a $x, y, z$ il sistema
+> $$x^2 y^2 + x^2 z^2 = axyz, \quad y^2 z^2 + y^2 x^2 = bxyz, \quad z^2 x^2 + z^2 y^2 = cxyz$$
+> dove $a, b, c$ sono numeri dati.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1981#q03|src_bmo2_1981__Q03]]
 
 
 
@@ -118,9 +139,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rimanente quando un dato polinomio è diviso da un altro polinomio.*
+*Il resto di $x^{81} + x^{49} + x^{25} + x^9 + x$ diviso per $x^3 - x$*
 
-> Trova il rimanente quando il polinomio $$x^{81} + x^{49} + x^{25} + x^9 + x$$ è diviso dal polinomio $x^3 - x$.
+> Trovare il resto della divisione del polinomio
+> $$x^{81} + x^{49} + x^{25} + x^9 + x$$
+> per il polinomio $x^3 - x$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1981#q04|src_bmo2_1981__Q04]]
 
 
 
@@ -147,9 +177,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una sequenza di numeri reali è definita ricorritivamente per n >= 0; dimostrare che ogni termine è un intero.*
+*Ciascun $u_n$ è un intero*
 
-> La sequenza $\{u_n\}$ dei numeri reali è definita per $n \ge 0$ da $$u_0 = 2, \quad u_1 = 5$$ e $$u_{n+1} u_{n-1} - u_n^2 = 6^{n-1} \quad \text{when } n \ge 1.$$ Prova che ogni $u_n$ è un intero.
+> La successione $\{u_n\}$ di numeri reali è definita per $n \ge 0$ da
+> $$u_0 = 2, \quad u_1 = 5$$
+> e
+> $$u_{n+1} u_{n-1} - u_n^2 = 6^{n-1} \quad \text{when } n \ge 1.$$
+> Dimostrare che ciascun $u_n$ è un intero.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1981#q05|src_bmo2_1981__Q05]]
 
 
 
@@ -173,9 +214,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Demonstra che per il razionale c l'equazione cubica data ha al massimo una radice razionale.*
+*Se $c$ è razionale, l'equazione ha al più una radice razionale*
 
-> Prova che se $c$ è un numero razionale, l'equazione $$x^3 - 3cx^2 - 3x + c = 0$$ ha almeno una radice razionale.
+> Dimostrare che, se $c$ è un numero razionale, l'equazione
+> $$x^3 - 3cx^2 - 3x + c = 0$$
+> ha al più una radice razionale.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1981#q06|src_bmo2_1981__Q06]]
 
 
 
@@ -199,6 +248,14 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che i numeri interi non negativi x, y soddisfano 5x >= 7y se e solo se esistono numeri interi non negativi a, b, c, d con le due rappresentazioni di x e y date.*
+*$5x \ge 7y$ se e solo se esistono interi non negativi $a, b, c, d$ di quella forma*
 
-> Prova che se $x, y$ sono integri non negativi allora $5x \ge 7y$ se e solo se esistono integri non negativi $a, b, c, d$ in modo tale che $$x = a + 3b + 3c + 7d,$$ $$y = b + 2c + 5d.$$
+> Dimostrare che, se $x, y$ sono interi non negativi, allora $5x \ge 7y$ se e solo se esistono interi non negativi $a, b, c, d$ tali che
+> $$x = a + 3b + 3c + 7d,$$
+> $$y = b + 2c + 5d.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1981#q07|src_bmo2_1981__Q07]]

@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Convex n-gon con punto interno Q non su alcuna diagonale; dimostrare che il numero di triangoli P_iP_jP_k contenenti Q è pari quando n è pari.*
+*Poligono convesso a n lati con un punto interno Q non appartenente a nessuna diagonale; dimostrare che, quando n è pari, il numero di triangoli P_iP_jP_k che contengono Q è pari.*
 
-> Sul piano sono indicati un convex $n$-gon $P_1P_2\ldots P_n$ e un punto $Q$ all'interno, non situato su nessuna delle sue diagonali. Prova che se $n$ è pari, il numero di triangoli $P_iP_jP_k$ contenenti il punto $Q$ è pari.
+> Nel piano sono dati un $n$-gono convesso $P_1P_2\ldots P_n$ e un punto $Q$ interno ad esso, che non giace su nessuna delle sue diagonali. Dimostrare che, se $n$ è pari, allora il numero dei triangoli $P_iP_jP_k$ che contengono il punto $Q$ è pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1983_r3#q01|src_pol_1983_r3__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato un a irrazionale in (0,1) e un intero positivo N, trovare integri positivi p,q,r,s con p/q < a < r/s, r/s - p/q < 1/N, e rq - ps = 1.*
+*Dati un numero irrazionale a in (0,1) e un intero positivo N, trovare interi positivi p, q, r, s tali che p/q < a < r/s, r/s - p/q < 1/N e rq - ps = 1.*
 
-> Si deve dare un numero irrazionale $a$ nell'intervallo $(0,1)$ e un intero positivo $N$. Prova che esistono integri positivi $p,q,r,s$ in modo tale che $$\frac{p}{q} < a < \frac{r}{s}, \quad \frac{r}{s} - \frac{p}{q} < \frac{1}{N}, \quad \text{and} \quad rq - ps = 1.$$
+> Sia dato un numero irrazionale $a$ nell'intervallo $(0,1)$ e un numero intero positivo $N$. Dimostrare che esistono numeri interi positivi $p,q,r,s$ tali che
+> $$\frac{p}{q} < a < \frac{r}{s}, \quad \frac{r}{s} - \frac{p}{q} < \frac{1}{N}, \quad \text{and} \quad rq - ps = 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1983_r3#q02|src_pol_1983_r3__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di pedoni da un giocatore su una scacchiera infinita: vengono rimossi due pedoni adiacenti e uno viene posto su un terzo quadrato vuoto adiacente; se i pedoni iniziali riempiono un rettangolo il cui numero di quadrati è divisibile per 3, dimostrare che il gioco non può finire con un pedone rimasto.*
+*Gioco dei pedoni a un giocatore su una scacchiera infinita: due pedoni adiacenti vengono rimossi e un pedone viene collocato su un terzo quadrato vuoto adiacente; se i pedoni iniziali riempiono un rettangolo il cui numero di caselle è divisibile per 3, dimostrare che il gioco non può terminare con un solo pedone rimasto.*
 
-> Considerate il seguente gioco da giocatore su una scacchiera infinita. Se due quadrati orizzontalmente o verticalmente adiacenti sono occupati da un pedone ciascuno, e un quadrato sulla stessa linea adiacente a uno di essi è vuoto, allora è consentito rimuovere i due pedoni e posizionare un pedone sul terzo quadrato (vuoto). Prova che se nella posizione iniziale tutti i pedoni formavano un rettangolo con il numero di quadrati divisibili per 3, allora non è possibile terminare la partita con solo un pedone rimasto sulla tavola.
+> Si consideri il seguente gioco a un solo giocatore su una scacchiera infinita. Se due caselle adiacenti orizzontalmente o verticalmente sono ciascuna occupata da un pedone, e una casella sulla stessa riga o sulla stessa colonna, adiacente a una di esse, è vuota, allora è consentito rimuovere i due pedoni e collocare un pedone sulla terza casella (vuota). Dimostrare che, se nella posizione iniziale tutti i pedoni formavano un rettangolo il cui numero di caselle era divisibile per 3, allora non è possibile concludere il gioco con un solo pedone rimasto sulla scacchiera.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1983_r3#q03|src_pol_1983_r3__Q03]]
 
 
 
@@ -106,9 +128,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che per i numeri naturali a,b,c,d con ab=cd, gcd(a,c) gcd(a,d)/gcd(a,b,c,d) = a.*
+*Dimostrare che, per numeri naturali a, b, c, d tali che ab=cd, vale gcd(a,c)gcd(a,d)/gcd(a,b,c,d) = a.*
 
-> Prova che se i numeri naturali $a,b,c,d$ soddisfano l'uguaglianza $ab = cd$, allora $$\frac{\gcd(a,c)\,\gcd(a,d)}{\gcd(a,b,c,d)} = a.$$
+> Dimostrare che, se i numeri naturali $a,b,c,d$ soddisfano l'uguaglianza $ab = cd$, allora
+> $$\frac{\gcd(a,c)\,\gcd(a,d)}{\gcd(a,b,c,d)} = a.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1983_r3#q04|src_pol_1983_r3__Q04]]
 
 
 
@@ -131,9 +161,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dati tre vettori di unità di piano a1,a2,a3, mostrare che si può scegliere c1,c2,c3 in {-1,1} in modo che la lunghezza di c1×a1+c2×a2+c3×a3 sia almeno 2.*
+*Dati tre vettori unitari nel piano a1, a2, a3, mostrare che si possono scegliere c1, c2, c3 in {-1,1} in modo che la lunghezza di c1*a1 + c2*a2 + c3*a3 sia almeno 2.*
 
-> Sul piano sono dati i vettori unitari $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Mostra che si possono scegliere numeri $c_1, c_2, c_3 \in \{-1, 1\}$ in modo che la lunghezza del vettore $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ sia almeno $2$.
+> Nel piano sono dati vettori unitari $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Dimostrare che si possono scegliere numeri $c_1, c_2, c_3 \in \{-1, 1\}$ tali che la lunghezza del vettore $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ sia almeno $2$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_pol_1983_r3#q05|src_pol_1983_r3__Q05]]
 
 
 
@@ -156,6 +193,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove che se tutti gli angoli diedrali di un tetraedro sono acuti, allora tutte le sue facce sono triangoli ad angolo acuto.
+*Dimostrare che, se tutti gli angoli diedri di un tetraedro sono acuti, allora tutte le sue facce sono triangoli acutangoli.*
 
-> Prova che se tutti gli angoli diedrali di un tetraedro sono acuti, allora tutte le sue facce sono triangoli a angolo acuto.
+> Dimostrare che, se tutti gli angoli diedri di un tetraedro sono acuti, allora tutte le sue facce sono triangoli acutangoli.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1983_r3#q06|src_pol_1983_r3__Q06]]

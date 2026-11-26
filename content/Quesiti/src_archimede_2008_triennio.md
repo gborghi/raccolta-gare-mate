@@ -39,17 +39,23 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of b with whole roots of x2+bx-16*
+*Values of b for which x2+bx-16 has integer roots*
 
-> For how many distinct values of the real number b is the equation x2 + bx −16 = 0 , has two real solutions (possibly coincident) and these are both integers?
+> For how many distinct values of the real number b does the equation
+> x2 + bx −16 = 0 ,
+> have two real solutions (possibly coincident), and are these both integers?
 >
-> - **(A)** Two, two.
+> - **(A)** two,
 > - **(B)** three,
 > - **(C)** four,
 > - **(D)** five,
-> - **(E)** You are.
+> - **(E)** six.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2008_triennio#q06|src_archimede_2008_triennio__Q06]]
 
 
 
@@ -84,11 +90,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance between two circles on square sheet*
+*Minimum distance between two circles on squared paper*
 
-![[src_archimede_2008_triennio__prob7.png]]
-
-> In a square sheet where the side of a square is 2 cm, two circles are drawn as in the figure next to it. The measurement of the minimum distance between the two circles shall be:
+> On a sheet of squared paper where the side of a small square is 2 cm, two circles are drawn as in the figure alongside. The measure of the minimum distance between the two circles is:
 >
 > - **(A)** √ 10 cm,
 > - **(B)** 3 cm,
@@ -96,7 +100,11 @@ level: triennio
 > - **(D)** ( √ 10 −2) cm,
 > - **(E)** ( √ 10 −3) cm.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_triennio#q07|src_archimede_2008_triennio__Q07]]
 
 
 
@@ -128,9 +136,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum S1+...+S10 of sums of the first multiples*
+*Sum S1+...+S10 of sums of the first multiples*
 
-> For every natural number n we indicate with Sn the sum of the first ten multiples of n: for example S2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20. What 's S1 + S2 + S3 + ? . . + S10?
+> For every natural number n, let Sn denote the sum of the first ten multiples of n: for example S2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20. What is the value of S1 + S2 + S3 + . . . + S10?
 >
 > - **(A)** 2925,
 > - **(B)** 3025,
@@ -138,7 +146,11 @@ level: triennio
 > - **(D)** 3225,
 > - **(E)** 3325.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_triennio#q08|src_archimede_2008_triennio__Q08]]
 
 
 
@@ -169,9 +181,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reed of circumference from a quadrilateral with perpendicular diagonal*
+*Radius of a circle from a quadrilateral with perpendicular diagonals*
 
-> A quadrilateral ABCD has the diagonal perpendicular to each other and is inscribed in a circumference c of AC diameter. The area and perimeter of the quadrilateral are 48 cm2 and 28 cm respectively. What is the radius of the circumference c?
+> A quadrilateral ABCD has perpendicular diagonals and is inscribed in a circle c with diameter AC. The area and perimeter of the quadrilateral are 48 cm2 and 28 cm, respectively. What is the radius of the circle c?
 >
 > - **(A)** 4 cm,
 > - **(B)** 5 cm,
@@ -179,7 +191,10 @@ level: triennio
 > - **(D)** 7 cm,
 > - **(E)** 8 cm.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_triennio#q09|src_archimede_2008_triennio__Q09]]
 
 
 
@@ -212,9 +227,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fifteenth term of sequence sum of the preceding*
+*Fifteenth term of a sequence equal to the sum of the preceding terms*
 
-> A student of Fibonacci invented a sequence of numbers defined in this way: the first and second numbers of the sequence are 0 and 1 respectively; each number of the sequence, from the third to the next, is equal to the sum of all the numbers that precede it (excluding him!). What is the fifteenth number in the sequence?
+> A Fibonacci student invented a sequence of numbers defined as follows:
+> the first and second numbers of the sequence are 0 and 1 respectively; every number
+> of the sequence, from the third onward, is equal to the sum of all the numbers that precede it
+> (excluding it!). What is the fifteenth number of the sequence?
 >
 > - **(A)** 377,
 > - **(B)** 2084,
@@ -222,7 +240,11 @@ level: triennio
 > - **(D)** 3012,
 > - **(E)** 4096.
 
-**Answer:** E
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2008_triennio#q10|src_archimede_2008_triennio__Q10]]
 
 
 
@@ -259,9 +281,15 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*m+n cubic root of 45+29 roots2*
+*m+n from the cube root of 45+29√2*
 
-> n and m are two positive integers for which: 3p 45 + 29 √ 2 = m + n √ 2. How much is m + n?
+> n and m are two positive integers such that:
+> 3p
+> 45 + 29
+> √
+> 2 = m + n
+> √
+> 2. What is the value of m + n?
 >
 > - **(A)** 3,
 > - **(B)** 4,
@@ -269,7 +297,11 @@ level: triennio
 > - **(D)** 6,
 > - **(E)** 7.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_triennio#q11|src_archimede_2008_triennio__Q11]]
 
 
 
@@ -299,9 +331,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest of 27 consecutive years with average 2008*
+*Smallest of 27 consecutive numbers with mean 2008*
 
-> The arithmetic mean of twenty-seven consecutive natural numbers is 2008. How much is the smallest of them worth?
+> The arithmetic mean of twenty-seven consecutive natural numbers is 2008. What is the smallest among them?
 >
 > - **(A)** 1995,
 > - **(B)** 1997,
@@ -309,7 +341,10 @@ level: triennio
 > - **(D)** 2001,
 > - **(E)** 2004.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_triennio#q12|src_archimede_2008_triennio__Q12]]
 
 
 
@@ -343,9 +378,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of maximum n figures with fractional inequality*
+*Sum of the digits of the largest n satisfying a fractional inequality*
 
-> Whether N is the largest of the n natural numbers showing the inequality n n + 1 < 6024 6027 . What's the sum of the digits of N?
+> Let N be the largest natural number n satisfying the inequality
+> n
+> n + 1 < 6024
+> 6027 .
+> What is the sum of the digits of N?
 >
 > - **(A)** 6,
 > - **(B)** 7,
@@ -353,7 +392,11 @@ level: triennio
 > - **(D)** 9,
 > - **(E)** 10.
 
-**Answer:** D
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_triennio#q13|src_archimede_2008_triennio__Q13]]
 
 
 
@@ -383,7 +426,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of all numbers of two distinct digits*
+*Sum of all two-digit numbers with distinct digits*
 
 > The sum of all natural numbers formed by two distinct digits is:
 >
@@ -393,7 +436,11 @@ level: triennio
 > - **(D)** 4260,
 > - **(E)** 4410.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2008_triennio#q18|src_archimede_2008_triennio__Q18]]
 
 
 
@@ -424,17 +471,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deduction on punishment and bad grade*
+*Logical deduction about a punishment and a bad grade*
 
-> Every time Agilulfo comes home from school after a bad grade, if his mother is home, she punishes him. Knowing that Agilulfo was not punished yesterday afternoon, which of the following claims is certainly true?
+> Every time Agilulfo comes home from school after getting a bad grade, if his mother is at home she punishes him. Given that yesterday afternoon Agilulfo was not punished, which of the following statements is certainly true?
 >
-> - **(A)** Agilulfo got a bad vote yesterday.
-> - **(B)** Agilulfo didn't get a bad grade yesterday.
-> - **(C)** Yesterday afternoon, his mother was home.
-> - **(D)** His mom wasn't home yesterday afternoon,
-> - **(E)** None of the above claims is certainly true.
+> - **(A)** yesterday Agilulfo got a bad grade,
+> - **(B)** yesterday Agilulfo did not get a bad grade,
+> - **(C)** yesterday afternoon his mother was at home,
+> - **(D)** yesterday afternoon his mother was not at home,
+> - **(E)** none of the previous statements is certainly true.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2008_triennio#q21|src_archimede_2008_triennio__Q21]]
 
 
 
@@ -466,9 +516,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Yellow area in coloured rectangle on the nearest side*
+*Yellow area in a coloured rectangle by nearest side*
 
-> On a sheet of Charles' notebook there is a rectangle with two yellow sides of 24 cm and two red sides of 36 cm. Charles colors each point of the rectangle of the same color on the side closest to the same point. What will be the area of the part of the yellow rectangle?
+> On Carlo’s notebook page there is a rectangle with two yellow sides of 24 cm and
+> two red sides of 36 cm. Carlo colours every point of the rectangle the same colour
+> as the side closest to that point. What will be the area of the part of the rectangle
+> coloured yellow?
 >
 > - **(A)** 144 cm2,
 > - **(B)** 288 cm2,
@@ -476,7 +529,10 @@ level: triennio
 > - **(D)** 442 cm2,
 > - **(E)** 524 cm2.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_triennio#q23|src_archimede_2008_triennio__Q23]]
 
 
 
@@ -509,9 +565,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of cone volume at the cylinder intersection*
+*Percentage of cone volume in the intersection with cylinder*
 
-> C and T are respectively a cone and a straight circular cylinder, which have the same axis and have the bases in the same plane (and are turned from the same side relative to this plane). The base area of C is 400 π cm2 while the base radius of T is 10 cm. In addition, the heights of C and T both measure 20 cm. What percentage of the volume of C is contained in the intersection between C and T ?
+> C and T are respectively a right circular cone and a right circular cylinder, which have the same axis and have their bases in the same plane (and are oriented to the same side of this plane). The base area of C measures 400 π cm2 while the base radius of T measures 10 cm. Furthermore, the heights of C and T both measure 20 cm. What percentage of the volume of C is contained in the intersection between C and T?
 >
 > - **(A)** 20 √ 2 %,
 > - **(B)** 40 %,
@@ -519,7 +575,10 @@ level: triennio
 > - **(D)** 60 %,
 > - **(E)** 50 √ 2 %.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_triennio#q24|src_archimede_2008_triennio__Q24]]
 
 
 
@@ -551,14 +610,17 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic 3x3 squares with digits 0-4 and sum of 4*
+*3x3 magic squares with digits 0-4 and sum 4*
 
-> John wants to draw a square made up of nine boxes (three boxes per side) and write in each box a number to choose between 0, 1, 2, 3, 4, so that if a row, column or diagonal of the square is fixed, the sum of the numbers in his boxes is always equal to 4. How many different squares can you build?
+> Giovanni wants to draw a square made up of nine cells (three cells per side) and write in each cell a number chosen from 0, 1, 2, 3, 4, so that, for any row, column or diagonal of the square, the sum of the numbers in its cells is always equal to 4. How many different squares can he build?
 >
-> - **(A)** No one.
+> - **(A)** none,
 > - **(B)** 1,
 > - **(C)** 2,
 > - **(D)** 3,
 > - **(E)** 4.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2008_triennio#q25|src_archimede_2008_triennio__Q25]]

@@ -31,11 +31,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che ogni intero positivo n ha un chapa con esattamente n cifre*
+*Dimostrare che ogni intero positivo n ha una chapa con esattamente n cifre*
 
-> Diciamo che un intero positivo è un **chapa** se è formato solo da cifre non zero e la somma dei quadrati delle sue cifre è anche un quadrato perfetto. Ad esempio, 221 è un chapa perché $2^2 + 2^2 + 1^2 = 9 = 3^2$ e tutti i suoi numeri sono non zero; 403 non è un chapa perché $4^2 + 0^2 + 3^2 = 5^2$ ma una delle sue cifre è zero; e 5 non è un chapa perché $1^2 + 2^2 = 5$ non è un quadrato perfetto (nota: se tutti i numeri di 403 non sono zero allora $1^2 + 2^2 = 5$ non è un quadrato perfetto).
-> 
-> Prova che per ogni intero positivo $n$, esiste un chapa con esattamente $n$ cifre.
+> Diciamo che un numero intero positivo è una **chapa** se è formato solo da cifre non nulle e la somma dei quadrati delle sue cifre è anch'essa un quadrato perfetto. Ad esempio, 221 è una chapa perché $2^2 + 2^2 + 1^2 = 9 = 3^2$ e tutte le sue cifre sono non nulle; 403 non è una chapa perché $4^2 + 0^2 + 3^2 = 5^2$ ma una delle sue cifre è zero; e 5 non è una chapa perché $1^2 + 2^2 = 5$ non è un quadrato perfetto (nota: se tutte le cifre di 403 sono non nulle, allora $1^2 + 2^2 = 5$ non è un quadrato perfetto).
+>
+> Dimostrare che per ogni numero intero positivo $n$ esiste una chapa con esattamente $n$ cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f3#q01|src_obm_2011_n3_f3__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova m minimo così ogni distribuzione degli adesivi 2011 tra 33 amici è incompleta*
+*Trovare il minimo m tale che ogni distribuzione di 2011 adesivi tra 33 amici sia incompleta*
 
-> Un album composto da adesivi del 2011 è stato raccolto da 33 amici. Una distribuzione tra i 33 amici si chiama *incompleto* quando esiste almeno uno dei 33 amici che ha meno di $m$ adesivi. Determinare il valore minimo di $m$ con la seguente proprietà: ogni distribuzione di adesivi tra i 33 amici è tale che, per due amici, entrambi mancano, per ciascuno di loro, almeno $m$ adesivi in comune.
+> Un album composto da adesivi del 2011 è in fase di collezionamento da parte di 33 amici. Una distribuzione tra i 33 amici è detta *incompleta* quando esiste almeno un amico tra i 33 che possiede meno di $m$ adesivi. Determinare il valore minimo di $m$ con la seguente proprietà: ogni distribuzione di adesivi tra i 33 amici è tale che, per qualsiasi coppia di amici, entrambi mancano, per ciascuno di loro, di almeno $m$ adesivi in comune.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n3_f3#q02|src_obm_2011_n3_f3__Q02]]
 
 
 
@@ -84,9 +98,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*area pentagonale convexa-1: i triangoli da vertici consecutivi soddisfano le disuguaglianze di superficie*
+*Area del pentagono convesso-1: i triangoli formati da vertici consecutivi soddisfano la disuguaglianza sull'area*
 
-> Mostrare che per ogni pentagono convexo $P_1P_2P_3P_4P_5$ dell'area 1, esistono due triangoli $P_iP_{i+1}P_{i+2}$ e $P_jP_{j+1}P_{j+2}$ (dove $P_6 = P_1$ e $P_7 = P_2$), formati da tre vertici consecutivi del pentagono, in modo tale che $$\operatorname{area}(P_iP_{i+1}P_{i+2}) \le \frac{5-\sqrt{5}}{10} \le \operatorname{area}(P_jP_{j+1}P_{j+2}).$$
+> Dimostrare che per ogni pentagono convesso $P_1P_2P_3P_4P_5$ di area 1, esistono due triangoli $P_iP_{i+1}P_{i+2}$ e $P_jP_{j+1}P_{j+2}$ (dove $P_6 = P_1$ e $P_7 = P_2$), formati da tre vertici consecutivi del pentagono, tali che
+> $$\operatorname{area}(P_iP_{i+1}P_{i+2}) \le \frac{5-\sqrt{5}}{10} \le \operatorname{area}(P_jP_{j+1}P_{j+2}).$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f3#q03|src_obm_2011_n3_f3__Q03]]
 
 
 
@@ -110,9 +132,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
+*Esistono 2011 interi positivi tali che, per ogni i<j, si abbia mcd(a_i,a_j)=a_j-a_i?*
 
-> Esistono numeri interi positivi del 2011 $a_1 < a_2 < \cdots < a_{2011}$ in modo che, per tutti $1 \le i < j \le 2011$, $$\gcd(a_i,\, a_j) = a_j - a_i\,?$$
+> Esistono 2011 interi positivi $a_1 < a_2 < \cdots < a_{2011}$ tali che, per ogni $1 \le i < j \le 2011$,
+> $$\gcd(a_i,\, a_j) = a_j - a_i\,?$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f3#q04|src_obm_2011_n3_f3__Q04]]
 
 
 
@@ -135,9 +165,16 @@ Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con centro ortografico: bisettieri angolari di BFC e BHC si incontrano su BC*
+*Triangolo acuto con ortocentro: le bisettrici degli angoli di BFC e BHC si incontrano su BC*
 
-> Che $ABC$ sia un triangolo acuto e $H$ il suo centro orto. Le linee $BH$ e $CH$ incontrano $AC$ e $AB$ rispettivamente a $D$ e $E$. La circoncirca di $ADE$ incontra la circoncirca di $ABC$ a $F \neq A$. Prove che i bisettori interni di $\angle BFC$ e $\angle BHC$ si incontrano in un punto del segmento $BC$.
+> Sia $ABC$ un triangolo acutangolo e $H$ il suo ortocentro. Le rette $BH$ e $CH$ intersecano $AC$ e $AB$ rispettivamente nei punti $D$ e $E$. La circonferenza circoscritta a $ADE$ interseca la circonferenza circoscritta a $ABC$ nel punto $F \neq A$. Dimostrare che le bisettrici interne di $\angle BFC$ e $\angle BHC$ si incontrano in un punto che giace sul segmento $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f3#q05|src_obm_2011_n3_f3__Q05]]
 
 
 
@@ -161,6 +198,14 @@ Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il prodotto ciclico delle differenze dei reali non negativi del 2011 con la somma data è limitato*
+*Il prodotto ciclico delle differenze di 2011 numeri reali non negativi con somma data è limitato*
 
-> $x_1, x_2, x_3, \ldots, x_{2011}$ siano numeri reali non negativi la cui somma è $\dfrac{2011}{2}$. Provare che $$\left|\prod_{\text{cyc}}(x_i - x_{i+1})\right| = \left|(x_1-x_2)(x_2-x_3)(x_3-x_4)(x_4-x_5)\cdots(x_{2009}-x_{2010})(x_{2010}-x_{2011})(x_{2011}-x_1)\right| \le \frac{3\sqrt{3}}{16}.$$
+> Siano $x_1, x_2, x_3, \ldots, x_{2011}$ numeri reali non negativi la cui somma è $\dfrac{2011}{2}$. Dimostrare che
+> $$\left|\prod_{\text{cyc}}(x_i - x_{i+1})\right| = \left|(x_1-x_2)(x_2-x_3)(x_3-x_4)(x_4-x_5)\cdots(x_{2009}-x_{2010})(x_{2010}-x_{2011})(x_{2011}-x_1)\right| \le \frac{3\sqrt{3}}{16}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f3#q06|src_obm_2011_n3_f3__Q06]]

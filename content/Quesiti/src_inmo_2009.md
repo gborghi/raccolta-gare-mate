@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Collinearità del punto interno e dei punti medi dati BP=2PM*
+*Collinearità del punto interno e dei punti medi, dato che BP=2PM*
 
-> Che $ABC$ sia un triangolo e che $P$ sia un punto interno tale che $\angle BPC = 90^\circ$, $\angle BAP = \angle BCP$. $M$ e $N$ siano rispettivamente i punti di mezzo di $AC$ e $BC$. Supponiamo $BP = 2PM$. Prove che $A$, $P$, $N$ sono collineari.
+> Sia $ABC$ un triangolo e sia $P$ un punto interno tale che $\angle BPC = 90^\circ$, $\angle BAP = \angle BCP$. Siano $M$, $N$ i punti medi di $AC$, $BC$ rispettivamente. Si supponga che $BP = 2PM$. Dimostrare che $A$, $P$, $N$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2009#q01|src_inmo_2009__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di 0/1 per parità del numero di divisori; razionale o irrazionale?*
+*Sequenza di 0/1 in base alla parità del numero di divisori; razionale o irrazionale?*
 
-> Definire una sequenza $(a_n)_{n \ge 1}$ come segue: $$a_n = \begin{cases} 0, & \text{if the number of positive divisors of } n \text{ is odd,} \\ 1, & \text{if the number of positive divisors of } n \text{ is even.} \end{cases}$$ (I divisori positivi di $n$ includono $1$ e $n$.) $x = 0.a_1 a_2 a_3 \ldots$ sia il numero reale la cui espansione decimale contiene $a_n$ nel posto di $n$, $n \ge 1$. Determinare, con la prova, se $x$ è razionale o irrazionale.
+> Definire una successione $(a_n)_{n \ge 1}$ nel modo seguente:
+> $$a_n = \begin{cases} 0, & \text{if the number of positive divisors of } n \text{ is odd,} \\ 1, & \text{if the number of positive divisors of } n \text{ is even.} \end{cases}$$
+> (I divisori positivi di $n$ includono $1$ nonché $n$.) Sia $x = 0.a_1 a_2 a_3 \ldots$ il numero reale la cui espansione decimale contiene $a_n$ alla $n$-esima cifra, $n \ge 1$. Determinare, con dimostrazione, se $x$ è razionale o irrazionale.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2009#q02|src_inmo_2009__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le x reali che soddisfano [x^2+2x]=[x]^2+2[x]*
+*Reali x per cui [x²+2x] = [x]² + 2[x]*
 
-> Trova tutti i numeri reali $x$ in modo tale che $$[x^2 + 2x] = [x]^2 + 2[x].$$ (Qui $[x]$ indica il più grande numero intero non superiore a $x$.)
+> Trovare tutti i numeri reali $x$ tali che
+> $$[x^2 + 2x] = [x]^2 + 2[x].$$
+> (Qui $[x]$ denota il più grande intero che non supera $x$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_2009#q03|src_inmo_2009__Q03]]
 
 
 
@@ -108,9 +133,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*3-colorazione del piano produce isosceles monocromatici o triangolo di progressione geometrica*
+*La colorazione a 3 colori del piano produce un triangolo isoscele monocolore o un triangolo in progressione geometrica*
 
-> Tutti i punti del piano sono colorati con tre colori. Prova che esiste un triangolo con vertici dello stesso colore in modo tale che sia uguale o gli angoli siano in progressione geometrica.
+> Tutti i punti del piano sono colorati con tre colori. Dimostrare che esiste un triangolo i cui vertici hanno lo stesso colore tale che il triangolo è isoscele oppure i suoi angoli sono in progressione geometrica.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_inmo_2009#q04|src_inmo_2009__Q04]]
 
 
 
@@ -134,9 +166,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo acuto, somma delle distanze di centro ortodosso ≤ 2 × massima altitudine*
+*In un triangolo acuto, la somma delle distanze dall'ortocentro è ≤ 2 × la massima altezza*
 
-> Che $ABC$ sia un triangolo acuto e che $H$ sia il suo centro ortografico. $h_{\max}$ indichi l'altitudine più grande del triangolo $ABC$. Provare che $$AH + BH + CH \le 2h_{\max}.$$
+> Sia $ABC$ un triangolo acutangolo e sia $H$ il suo ortocentro. Sia $h_{\max}$ l'altezza maggiore del triangolo $ABC$. Dimostrare che
+> $$AH + BH + CH \le 2h_{\max}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2009#q05|src_inmo_2009__Q05]]
 
 
 
@@ -160,6 +200,14 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i reali positivi con a3+b3=c3, provare a2+b2−c2≥6(c−a)(c−b)*
+*Se a³ + b³ = c³, allora a² + b² − c² ≥ 6(c−a)(c−b)*
 
-> $a$, $b$, $c$ siano numeri reali positivi tali da $a^3 + b^3 = c^3$. Provare che $$a^2 + b^2 - c^2 \ge 6(c - a)(c - b).$$
+> Siano $a$, $b$, $c$ numeri reali positivi tali che $a^3 + b^3 = c^3$. Dimostrare che
+> $$a^2 + b^2 - c^2 \ge 6(c - a)(c - b).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_2009#q06|src_inmo_2009__Q06]]

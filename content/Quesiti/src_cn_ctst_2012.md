@@ -31,11 +31,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Orthocenter, circumcenter, collinearità triangolare equilaterale*
+*Collinearità di ortocentro, circocentro e triangolo equilatero*
 
-> Che $H$ sia l'ortocentro di un $\triangle ABC$ angolato acuto con $\angle A = 60^\circ$. I punti $M$ e $N$ siano rispettivamente sui lati $AB$ e $AC$, in modo che $\angle HMB = 60^\circ = \angle HNC$. Il $O$ deve essere il centro circundante di $\triangle HMN$. I punti $D$ e $A$ devono essere sullo stesso lato della riga $BC$, in modo che $\triangle DBH$ sia equilaterale (vedere figura 1). 5.1). Provare che i punti $H$, $O$ e $D$ sono collineari.
+> Sia $H$ l'ortocentro di un $\triangle ABC$ acutangolo con $\angle A = 60^\circ$. Siano i punti $M$ e $N$ rispettivamente sui lati $AB$ e $AC$, in modo che $\angle HMB = 60^\circ = \angle HNC$. Sia $O$ il circocentro di $\triangle HMN$. Siano i punti $D$ e $A$ sullo stesso lato della retta $BC$, in modo che $\triangle DBH$ sia equilatero (vedi Fig. 5.1). Dimostrare che i punti $H$, $O$ e $D$ sono allineati.
 
 ![[src_cn_ctst_b11_w142__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2012#q01|src_cn_ctst_2012__Q01]]
 
 
 
@@ -61,9 +68,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di k integri che soddisfano la disuguaglianza dei prodotti per tutti gli interpolanti reali*
+*Esistenza di k interi che soddisfano la disuguaglianza del prodotto per tutti gli interpolanti reali*
 
-> Prove che, per qualsiasi dato intero $k \ge 2$, esistono $k$ diversi interi positivi $a_1, a_2, \ldots, a_k$, in modo tale che per qualsiasi numero reale $b_1, b_2, \ldots, b_k$ soddisfa $a_i \le b_i \le 2a_i$, $1 \le i \le k$, e qualsiasi intero non negativo $c_1, c_2, \ldots, c_k$, abbiamo fornito $$k \prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i,$$ $\prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i$. (Possibile da Chen Yonggao)
+> Dimostrare che, per ogni intero $k \ge 2$ dato, esistono $k$ interi positivi distinti $a_1, a_2, \ldots, a_k$ tali che, per ogni numero reale $b_1, b_2, \ldots, b_k$ che soddisfa $a_i \le b_i \le 2a_i$, $1 \le i \le k$, e per ogni intero non negativo $c_1, c_2, \ldots, c_k$, si ha
+> $$k \prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i,$$
+> fornito $\prod_{i=1}^{k} b_i^{c_i} < \prod_{i=1}^{k} b_i$. (proposto da Chen Yonggao)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2012#q02|src_cn_ctst_2012__Q02]]
 
 
 
@@ -88,11 +104,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum c con Im z Di ≤ < c di <Re z Di per le radici di polinomi cambiati segno*
+*c minimo tale che |Im z| ≤ c|Re z| per le radici dei polinomi a segno cambiato*
 
-> $P(x) = x^{2012} + a_{2011}x^{2011} + a_{2010}x^{2010} + \cdots + a_1 x + a_0$ sia un polinomio di grado $2012$ di coefficienti reali con $1$ come suo coefficiente principale. Trovare il minimo del numero reale $c$ in modo tale che $|\operatorname{Im} z| \le c\,|\operatorname{Re} z|$, dove $\operatorname{Re} z$ e $\operatorname{Im} z$ sono rispettivamente le parti reali e immaginarie di qualsiasi radice di un polinomio ottenuta cambiando alcuni dei coefficienti di $P(x)$ ai loro numeri opposti. (postato da Zhu Huawei)
+> Sia $P(x) = x^{2012} + a_{2011}x^{2011} + a_{2010}x^{2010} + \cdots + a_1 x + a_0$ un polinomio di grado $2012$ a coefficienti reali, con $1$ come coefficiente principale. Determinare il minimo del numero reale $c$ tale che $|\operatorname{Im} z| \le c\,|\operatorname{Re} z|$, dove $\operatorname{Re} z$ e $\operatorname{Im} z$ sono rispettivamente la parte reale e la parte immaginaria di una qualsiasi radice di un polinomio ottenuto cambiando alcuni dei coefficienti di $P(x)$ nei loro opposti. (proposto da Zhu Huawei)
 
-**Risposta:** \cot\dfrac{\pi}{4022}
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2012#q03|src_cn_ctst_2012__Q03]]
 
 
 
@@ -117,11 +138,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove min{displaystyle min{displaystyle A+1,displaystyle B_{1}} bounded by log2n quando ab è sempre un quadrato perfetto*
+*Dimostrare che min{|A|,|B|} è limitato da log₂n quando ab+1 è sempre un quadrato perfetto*
 
-> Data un numero intero $n \geq 3$. Il valore di $A$, $B \subseteq \{1, 2, \ldots, n\}$. Supponiamo che $ab + 1$ sia un numero quadrato perfetto per qualsiasi $a \in A$ e $b \in B$. Prove che $\min\{|A|, |B|\} \leq \log_2 n$.
-> 
-> (Posizionato da Xiong Bin)
+> Sia dato un numero intero $n \geq 3$. Siano $A$, $B \subseteq \{1, 2, \ldots, n\}$. Si supponga che $ab + 1$ sia un quadrato perfetto per ogni $a \in A$ e $b \in B$. Dimostrare che $\min\{|A|, |B|\} \leq \log_2 n$.
+>
+> (proposto da Xiong Bin)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2012#q04|src_cn_ctst_2012__Q04]]
 
 
 
@@ -147,10 +175,15 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza massima del vettore di spostamento totale per gli scarafaggi sul tabellone 2012×2012*
+*Lunghezza massima del vettore di spostamento totale per gli scarabei sulla scacchiera 2012×2012*
 
-> Supponiamo che ci siano scarafaggi su una scacchiera composta da quadrati unitari $2012 \times 2012$. Ogni quadrato può ospitare al massimo un scarafaggio. In un istante, tutti gli scarafaggi volano e atterrano di nuovo sulla scacchiera. Per un scarafaggio, chiamiamo il vettore dalla sua unità di volo alla sua unità di atterraggio il "vettore di spostamento" del scarafaggio. Chiamiamo la somma di tutti i "vettor di spostamento" del scarafaggio "vettor di spostamento totale". Trova la lunghezza massima del "vettore di spostamento totale" considerando il numero di scarafaggi e tutte le posizioni possibili di volo e atterraggio.
-> 
-> (Posizionato da Qu Zhenhua)
+> Supponiamo che su una scacchiera composta da $2012 \times 2012$ caselle unitarie ci siano dei coleotteri. Ogni casella unitaria può ospitare al massimo un coleottero. In un certo istante, tutti i coleotteri volano e atterrano di nuovo sulla scacchiera. Per un coleottero, chiamiamo "vettore di spostamento" del coleottero il vettore che va dalla casella unitaria da cui parte in volo a quella in cui atterra. Chiamiamo "vettore di spostamento totale" la somma di tutti i "vettori di spostamento" dei coleotteri. Determinare la lunghezza massima del "vettore di spostamento totale", tenendo conto del numero di coleotteri e di tutte le posizioni possibili di partenza e di atterraggio.
+>
+> (proposto da Qu Zhenhua)
 
-**Risposta:** $2 \times 1006^3$
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2012#q05|src_cn_ctst_2012__Q05]]

@@ -33,11 +33,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which n is a multiple of 2022 with n digit 7 and remainder 0*
+*For which positive integers n there exists a positive integer A, a multiple of 2022, written with only the digits 0 and 7, and with the digit 7 exactly n times*
 
-> Determine for which positive integers n there exists a positive integer A such that • A is multiple to 2022, • The decimal expression of A contains only digits 0 and 7, • The decimal expression of A contains exactly n times the number 7.
+> Determine for which positive integers n there exists a positive integer A such that
+> • A is a multiple of 2022,
+> • the decimal expression of A contains only the digits 0 and 7,
+> • the decimal expression of A contains the digit 7 exactly n times.
 
-**Answer:** multiples of 3
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2022#q01|src_cesenatico_2022__Q01]]
 
 
 
@@ -67,11 +74,20 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*circumference for EFG tangent to AC*
+*The circle circumscribed about triangle EFG is tangent to the line AC*
 
-![[src_cesenatico_2022__prob2.png]]
+> Let ABC be an acute-angled triangle with AB < AC. Let
+> • D be the foot of the bisector of the angle at A,
+> • E be the point of the segment BC (other than B) such that AB = AE,
+> • F be the point of the segment BC (other than B) such that BD = DF,
+> • G be the point of the segment AC such that AB = AG.
+> Prove that the circle circumscribed about the triangle EFG is tangent to the line AC.
 
-> Let's say ABC is an acute triangle with AB < AC. They are • D the foot of the angle's edge in A, • And the point of the segment BC (different from B) such that AB = AE, • F the point of the segment BC (different from B) such that BD = DF, • G the point of the segment AC such that AB = AG. Demonstrate that the circumference circumscribed to the EFG triangle is tangent to the straight AC.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2022__prob2.png]]
 
 
 
@@ -99,11 +115,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who takes the biggest slice
+*Which of the 10 000 contestants takes the largest piece of cake*
 
-> In a mathematical competition, n = 10 000 competitors participate. At the closing party, in succession, the first takes 1/n of the cake, the second takes 2/n of the remaining cake, the third takes 3/n of the cake that remains after the first and second have been served, and so on until the last, who takes all the remaining cake. Determine which competitor gets the biggest piece of cake.
+> n = 10 000 contestants take part in a mathematics competition.
+> At the closing party, in succession, the first takes 1/n of the cake, the second takes 2/n of the cake that remains, the third takes 3/n of the cake that remains after the first and the second have served themselves, and so on up to the last, who takes all the cake that remains.
+> Determine which contestant takes the largest piece of cake.
 
-**Answer:** the 100th
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2022#q03|src_cesenatico_2022__Q03]]
 
 
 
@@ -183,15 +205,58 @@ Who takes the biggest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum questions to determine ak*
+*As k varies, the least number of path-sum questions Barbara needs in order to determine ak*
 
-![[src_cesenatico_2022__prob4.png]]
+> Alberto chooses 2022 integers a1, a2, . . . , a2022 (not necessarily positive and not necessarily distinct) and arranges them on a 2022 × 2022 table so that in the cell (i, j) there is the number ak, with k equal to the maximum of i and j, as in the following figure (in which, for greater readability, we have denoted a2022 by an).
+> a1
+> a2
+> a2
+> a3
+> a3
+> a3
+> a4
+> a4
+> a4
+> a4
+> a5
+> a5
+> a5
+> a5
+> a5
+> a2
+> a2
+> a3
+> a3
+> a3
+> a4
+> a4
+> a4
+> a4
+> a5
+> a5
+> a5
+> a5
+> a5
+> an an an an an an an
+> an
+> an
+> an
+> an
+> an
+> an
+> . . .
+> ...
+> Barbara does not know the numbers chosen by Alberto, but she knows how they have been arranged in the table. An integer k having been fixed, with 1 ≤ k ≤ 2022, Barbara wants to determine the value of ak, while she is not interested in determining the values of the other ai with i ̸= k. To do so, Barbara may put to Alberto one or more questions, in each of which she asks Alberto what the sum of the numbers contained in the cells of a "path" is worth, where by the term "path" one means an ordered list of cells with the following characteristics:
+> • the path starts with the cell at the top left and ends with the cell at the bottom right,
+> • the cells of the path are all distinct,
+> • two consecutive cells of the path always have a side in common.
+> Determine, as k varies, the least number of questions Barbara needs in order to determine ak.
 
-> Alberto chooses 2022 integers a1, a2, . . . , a2022 (not necessarily positive and not necessarily distinct) and sets them on a table 2022 × 2022 so that in box (i, j) there is the number ak, with k equal to the maximum between i and j, as in the following figure (in which, for greater readability, we have indicated a2022 with an). a1 a2 a2 a3 a3 a3 a4 a4 a4 a4 a5 a5 a5 a5 a5 a2 a2 a3 a3 a3 a4 a4 a4 a4 a5 a5 a5 a5 a5 an an an an an an an an an an an an an . . . ... Italian Olympic Games of Mathematics 2022 -- Texts and solutions -- Page 1 of 16
-> 
-> Barbara doesn't know the numbers Alberto chose, but she knows how they were arranged in the table. Fitted an integer k, with 1 ≤k ≤2022, Barbara wants to determine the value of ak, while she is not interested in determining the values of the other a with the =k. To do this, Barbara can ask Albert one or more questions, each of which asks Albert how much the sum of the numbers contained in the boxes of a percorso is worth, where the term percorso means an ordered list of boxes with the following characteristics: • the path begins with the box above left and ends with the box below right, • the boxes of the path are all distinct, • two consecutive boxes of the path always have a side in common. Determine, when k varies, the minimum number of requests needed by Barbara to determine ak.
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 
-**Answer:** 2
+[[src_cesenatico_2022__prob4.png]]
 
 
 
@@ -229,11 +294,18 @@ Who takes the biggest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*identifiable subset*
+*The odd numbers are identifiable, and all the identifiable subsets of {0, 1, . . . , 101}*
 
-> The Mag-o-matic robot handles 101 glasses, arranged in a row whose positions are numbered from 1 to 101. There may or may not be a ball in each glass. The Mag-o-matic robot only accepts basic instructions of the form (a; b, c), which interprets how considers the glass in position a: if it contains a ball, then it exchanges between them the glasses in positions b and c (with the relevant content), otherwise it moves on to the subsequent instruction (it is understood that a, b, c are integers between 1 and 101, with b and c different between them, but not necessarily different from a). A program is a finite sequence of elementary instructions, assigned initially, that Mag-o-matic executes one after the other. A subset S ⊆{0, 1, 2, . . . , 101} is said to be identifiable if there is a program which, from any initial configuration, produces a final configuration in which the glass in position 1 contains a ball if and only if the number of glasses containing a ball is an element of S. (a) Demonstrate that the subset of {0, 1, . . . , 101} consisting of odd numbers can be identified. (b) Determine all subsets of {0, 1, . . . Identifiable.
+> The robot "Mag-o-matic" handles 101 glasses, arranged in a row whose positions are numbered from 1 to 101. In each of the glasses there may, or may not, be a ball. The robot Mag-o-matic accepts only elementary instructions of the form (a; b, c), which it interprets as "consider the glass in position a: if it contains a ball, then swap the glasses that are in positions b and c (together with their possible contents), otherwise pass to the next instruction" (it is understood that a, b and c are integers between 1 and 101, with b and c different from each other, but not necessarily different from a). A program is a finite sequence of elementary instructions, assigned at the start, which Mag-o-matic carries out one after another.
+> A subset S ⊆ {0, 1, 2, . . . , 101} is called identifiable if there exists a program that, starting from any initial configuration, produces a final configuration in which the glass in position 1 contains a ball if and only if the number of glasses containing a ball is an element of S.
+> (a) Prove that the subset of {0, 1, . . . , 101} consisting of the odd numbers is identifiable.
+> (b) Determine all the identifiable subsets of {0, 1, . . . , 101}.
 
-**Answer:** S identifiable iff 0 not in S and 101 in S
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2022#q05|src_cesenatico_2022__Q05]]
 
 
 
@@ -267,10 +339,15 @@ Who takes the biggest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P on a circumscribed basis; perimeter*
+*P lies on the circumcircle of ABC, and the possible perimeters when AB = 1 and P coincides with C*
 
-![[src_cesenatico_2022__prob6.png]]
+> Let ABC be a non-equilateral triangle, and let R be the radius of its circumscribed circle. The circle inscribed in ABC has centre at I, and is tangent to the side CA at the point D, and to the side CB at the point E.
+> Let A1 be the point of the line EI such that A1I = R, with I lying between A1 and E. Let B1 be the point of the line DI such that B1I = R, with I lying between B1 and D. Let P be the intersection of the lines AA1 and BB1.
+> (a) Prove that P belongs to the circle circumscribed about the triangle ABC.
+> (b) Suppose now moreover that AB = 1 and that P coincides with C. Determine the possible values of the perimeter of ABC.
 
-> Let ABC be a non-equilateral triangle, and let R be the radius of its circumscribed circumference. The circumference inscribed in ABC is centered in I, and is tangent to the CA side at point D, and to the CB side at point E. So either A1 is the point of the line EI such that A1I = R, with I standing between A1 and E. Both B1 and B1I = R, with I standing between B1 and D. Both the AA1 and BB1 intersection. (a) Demonstrate that P belongs to the circumscribed circumference of the triangle ABC. (b) Now let's also assume that AB = 1 and P is C. Determine the possible values of the perimeter of ABC.
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-**Answer:** perimeter between 2 and 3
+[[src_cesenatico_2022__prob6.png]]

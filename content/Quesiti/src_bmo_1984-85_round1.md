@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti a una linea, dimostrare la bisezione e il rapporto di superficie*
+*$RP$ biseca l'angolo $MPN$, e il rapporto delle aree se $MP$ biseca $RPL$*
 
-> Due cerchi $S_1$ e $S_2$ toccano ognuno una linea retta $p$ nello stesso punto $P$. Tutti i punti di $S_2$, tranne $P$, sono all'interno di $S_1$. Una linea retta $q$ (i) è perpendicolare a $p$; (ii) tocca $S_2$ a $R$; (iii) taglia $p$ a $L$; e (iv) taglia $S_1$ a $N$ e $M$, dove $M$ è tra $L$ e $R$. a) Provare che $RP$ divide l'angolo $MPN$. b) Se $MP$ divide l'angolo $RPL$, trovare, con la prova, il rapporto tra le superfici di $S_1$ e $S_2$.
+> Due circonferenze $S_1$ e $S_2$ toccano ciascuna una retta $p$ nello stesso punto $P$. Tutti i punti di $S_2$, tranne $P$, sono interni a $S_1$. Una retta $q$ (i) è perpendicolare a $p$; (ii) tocca $S_2$ in $R$; (iii) seca $p$ in $L$; e (iv) seca $S_1$ in $N$ e in $M$, dove $M$ sta fra $L$ e $R$.
+> (a) Dimostrare che $RP$ biseca l'angolo $MPN$.
+> (b) Se $MP$ biseca l'angolo $RPL$, trovare, con dimostrazione, il rapporto delle aree di $S_1$ e di $S_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1984-85_round1#q01|src_bmo_1984-85_round1__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per a,b,c in (0,1), non tutte le a(1-b),b(1-c),c(1-a) superano 1/4*
+*Non possono essere tutti maggiori di $\frac{1}{4}$*
 
-> $a, b, c$, sono ogni numero tra $0$ e $1$. Prova che non tutte le $a(1-b)$, $b(1-c)$, $c(1-a)$ possono essere superiori a $\frac{1}{4}$.
+> $a, b, c$ sono ciascuno numeri fra $0$ e $1$. Dimostrare che non possono essere tutti maggiori di $\frac{1}{4}$ i numeri $a(1-b)$, $b(1-c)$, $c(1-a)$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1984-85_round1#q02|src_bmo_1984-85_round1__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'identità di somma dei coefficienti binomiali*
+*Quella somma di binomi vale $\binom{n+2}{m+2}$*
 
-> $n$ e $m$ sono integri non negativi. Prove che $$\binom{n}{m} + 2\binom{n-1}{m} + 3\binom{n-2}{m} + \cdots + (n+1-m)\binom{m}{m} = \binom{n+2}{m+2}$$ dove $\binom{r}{s}$ è il coefficiente binomio $r(r-1)(r-2)\cdots(r-s+1)/s!$.
+> $n$ e $m$ sono interi non negativi. Dimostrare che
+> $$\binom{n}{m} + 2\binom{n-1}{m} + 3\binom{n-2}{m} + \cdots + (n+1-m)\binom{m}{m} = \binom{n+2}{m+2}$$
+> dove $\binom{r}{s}$ è il coefficiente binomiale $r(r-1)(r-2)\cdots(r-s+1)/s!$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Metodo telescopico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1984-85_round1#q03|src_bmo_1984-85_round1__Q03]]
 
 
 
@@ -110,9 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di ricorrenza: dimostra che f_k f_{k+1} è uguale a qualche termine*
+*Per ogni $k \ge 0$ esiste $h$ tale che $f_k f_{k+1} = f_h$*
 
-> La sequenza $f_n$ è definita da $f_0 = 1$, $f_1 = c$, dove $c$ è un numero intero positivo, e per tutti $n > 1$, $$f_n = 2f_{n-1} - f_{n-2} + 2.$$ dimostra che per ogni $k \ge 0$ esiste $h$ tale che $f_k f_{k+1} = f_h$.
+> La successione $f_n$ è definita da $f_0 = 1$, $f_1 = c$, dove $c$ è un intero positivo, e per ogni $n > 1$,
+> $$f_n = 2f_{n-1} - f_{n-2} + 2.$$
+> Dimostrare che per ogni $k \ge 0$ esiste $h$ tale che $f_k f_{k+1} = f_h$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1984-85_round1#q04|src_bmo_1984-85_round1__Q04]]
 
 
 
@@ -135,9 +169,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus del centro di un bordo di cilindro appoggiato su un cerchio fisso*
+*Il luogo del centro di una base circolare del cilindro*
 
-> Un contenitore cilindrico ha altezza $6\text{ cm}$ e raggio $4\text{ cm}$. Si fonda su un cerchio circolare che ha anche un raggio $4\text{ cm}$ e il cerchio è fissato in un piano orizzontale. Il contenitore si posa con il suo asse orizzontale e con ciascuna delle sue periferie circolari che toccano il cerchio in due punti. Il cilindro è ora spostato in modo che ciascuna delle sue periferie circolari tocchi ancora il cerchio a due punti. Trovare, con prova, il luogo del centro di una delle estremità circolari del cilindro.
+> Un recipiente cilindrico ha altezza $6\text{ cm}$ e raggio $4\text{ cm}$. Poggia su un cerchio che ha anch'esso raggio $4\text{ cm}$ e il cerchio è fissato in un piano orizzontale. Il recipiente poggia con l'asse orizzontale e con ciascuno dei suoi bordi circolari che tocca il cerchio in due punti. Il cilindro viene ora mosso in modo che ciascuno dei suoi bordi circolari tocchi ancora il cerchio in due punti. Trovare, con dimostrazione, il luogo del centro di una delle basi circolari del cilindro.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1984-85_round1#q05|src_bmo_1984-85_round1__Q05]]
 
 
 
@@ -160,6 +201,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione x^2+y^2=z^5+z ha infinite soluzioni positive coprime*
+*Infinite soluzioni intere positive di $x^2 + y^2 = z^5 + z$ senza un fattore comune maggiore di $1$*
 
-> Mostrare che l'equazione $x^2 + y^2 = z^5 + z$ ha infinite soluzioni in numeri interi positivi $x, y, z$ senza fattore in comune maggiore di $1$.
+> Dimostrare che l'equazione $x^2 + y^2 = z^5 + z$ ha infinite soluzioni in interi positivi $x, y, z$ senza un fattore comune maggiore di $1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1984-85_round1#q06|src_bmo_1984-85_round1__Q06]]

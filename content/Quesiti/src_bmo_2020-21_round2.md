@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che ogni numero intero positivo ha un moltiplo 'buono'*
+*Dimostrare che ogni numero intero positivo ha un multiplo "buono"*
 
-> Un intero positivo $n$ viene chiamato $\textit{good}$ se esiste un insieme di divisori di $n$ i cui membri sommano a $n$ e includono $1$. Prove che ogni intero positivo ha un multiple che è buono.
+> Un numero intero positivo $n$ è detto $\textit{good}$ se esiste un insieme di divisori di $n$ i cui elementi sommano a $n$ e includono $1$. Dimostrare che ogni numero intero positivo ha un multiplo che è buono.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2020-21_round2#q01|src_bmo_2020-21_round2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tagliare un quadrato con due tipi di piastrelle quadrate*
+*Ricoprire un quadrato con due tipi di tessere quadrate*
 
-> Eliza ha una grande collezione di piastrelle $a \times a$ e $b \times b$ in cui $a$ e $b$ sono integri positivi. Lei organizza alcune di queste piastrelle, senza sovrapposizioni, per formare un quadrato di lunghezza laterale $n$. Provare che può coprire un altro quadrato di lunghezza laterale $n$ utilizzando solo uno dei suoi due tipi di piastrelle.
+> Eliza possiede una vasta collezione di tessere $a \times a$ e $b \times b$, dove $a$ e $b$ sono interi positivi. Dispone alcune di queste tessere, senza sovrapposizioni, per formare un quadrato di lato $n$. Dimostrare che può coprire un altro quadrato di lato $n$ utilizzando solo uno dei due tipi di tessere di cui dispone.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2020-21_round2#q02|src_bmo_2020-21_round2__Q02]]
 
 
 
@@ -83,13 +97,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*AI e KD si incontrano sul circolo del triangolo ABC*
+*AI e KD si incontrano sulla circonferenza circoscritta al triangolo ABC*
 
-> Che $ABC$ sia un triangolo con $AB > AC$. Il suo circoncircolo è $\Gamma$ e il suo incentro è $I$. Il punto di contatto dell'incircolo di $ABC$ con $BC$ è $D$.
-> 
-> $K$ sia il punto su $\Gamma$ in modo tale che $\angle AKI$ sia un angolo retto.
-> 
-> Prove che $AI$ e $KD$ si incontrano su $\Gamma$.
+> Sia $ABC$ un triangolo con $AB > AC$. La sua circonferenza circoscritta è $\Gamma$ e il suo incentro è $I$. Sia $D$ il punto di contatto della circonferenza inscritta di $ABC$ con $BC$.
+>
+> Sia $K$ il punto su $\Gamma$ tale che $\angle AKI$ sia un angolo retto.
+>
+> Dimostrare che $AI$ e $KD$ si incontrano su $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2020-21_round2#q03|src_bmo_2020-21_round2__Q03]]
 
 
 
@@ -112,6 +133,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza in cui a_i - i contiene ogni numero intero esattamente una volta*
+*Sequenza in cui a_i - i contiene ogni intero esattamente una volta*
 
-> Matteo scrive una sequenza $a_1, a_2, a_3, \ldots$ di numeri interi positivi. Ogni $a_n$ è il numero intero positivo più piccolo, diverso da tutti i termini precedenti della sequenza, in modo tale che la media dei termini $a_1, a_2, \ldots, a_n$ è un numero intero. Provare che la sequenza definita da $a_i - i$ per $i = 1, 2, 3, \ldots$ contiene ogni numero intero esattamente una volta.
+> Matthew scrive una successione $a_1, a_2, a_3, \ldots$ di numeri interi positivi. Ogni $a_n$ è il più piccolo numero intero positivo, diverso da tutti i termini precedenti della successione, tale che la media dei termini $a_1, a_2, \ldots, a_n$ sia un numero intero. Dimostrare che la successione definita da $a_i - i$ per $i = 1, 2, 3, \ldots$ contiene ogni numero intero esattamente una volta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2020-21_round2#q04|src_bmo_2020-21_round2__Q04]]

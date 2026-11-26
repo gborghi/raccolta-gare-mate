@@ -34,15 +34,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrato con due trasversali perpendicolari; trovare lunghezza laterale*
+*Lato di un quadrato, date parallele e un'intersezione*
 
-> Nel quadrato $ABCD$, i punti $P$, $Q$, $R$, $S$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$. La linea $PR$ è parallela a $BC$ e la linea $SQ$ è parallela a $AB$. Il $Z$ deve essere l'incrocio di $PR$ e $SQ$. Date $BP = 7$, $BQ = 6$, $DZ = 5$, si trova la lunghezza laterale del quadrato $ABCD$.
-> 
+> Nel quadrato $ABCD$, i punti $P$, $Q$, $R$, $S$ stanno rispettivamente sui lati $AB$, $BC$, $CD$, $DA$. La retta $PR$ è parallela a $BC$, e la retta $SQ$ è parallela a $AB$. Sia $Z$ l'intersezione di $PR$ e $SQ$. Dati $BP = 7$, $BQ = 6$, $DZ = 5$, trovare la lunghezza del lato del quadrato $ABCD$.
+>
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jmo22yq_yosen__q01.png]]
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 10
+[[Quesiti/src_jmo22yq_yosen#q01|src_jmo22yq_yosen__Q01]]
 
 
 
@@ -68,13 +72,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo con angoli di corda tangente 30° e 10°; angolo di ricerca BDC*
+*Un angolo in un quadrilatero inscritto, con due tangenti*
 
-> I punti $A$, $B$, $C$, $D$ si trovano su un cerchio in questo ordine. L'angolo tra la tangente al cerchio a $B$ e l'accord $AB$ è $30^\circ$, e l'angolo tra la tangente a $C$ e l'accord $CD$ è $10^\circ$. Le linee $AB$ e $DC$ sono parallele, e $B$ e $C$ si trovano su lati opposti del centro rispetto all'accordo $AD$. Trova $\angle BDC$.
+> I punti $A$, $B$, $C$, $D$ stanno su una circonferenza, in quest'ordine. L'angolo fra la tangente alla circonferenza in $B$ e la corda $AB$ è $30^\circ$, e l'angolo fra la tangente in $C$ e la corda $CD$ è $10^\circ$. Le rette $AB$ e $DC$ sono parallele, e $B$ e $C$ stanno da parti opposte rispetto al centro, rispetto alla corda $AD$. Trovare $\angle BDC$.
 
 ![[src_jmo22yq_yosen__q02.png]]
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 70
+[[Quesiti/src_jmo22yq_yosen#q02|src_jmo22yq_yosen__Q02]]
 
 
 
@@ -98,11 +106,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Allegare i numeri 19 alle variabili; trovare la somma minima possibile del prodotto triplo massima*
+*Minimo di un massimo su assegnazioni di interi distinti*
 
-> $a, b, c, d, e, f, g, h, i$ sono integri reciprocamente distinti, ognuno scelto da $1$ a $9$. Il valore massimo $N$ deve essere $a \times b \times c + d \times e \times f + g \times h \times i$ per tutte le assegnazioni. Trova il valore minimo di $N$.
+> $a, b, c, d, e, f, g, h, i$ sono interi a due a due distinti, ciascuno scelto da $1$ a $9$. Sia $N$ il massimo valore di $a \times b \times c + d \times e \times f + g \times h \times i$ su tutte queste assegnazioni. Trovare il minimo valore di $N$.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 72
+[[Quesiti/src_jmo22yq_yosen#q03|src_jmo22yq_yosen__Q03]]
 
 
 
@@ -126,11 +138,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiplici di 3 ma non di 9 la cui somma digitali lo eleva a un multiple di 9*
+*Minimo intero positivo multiplo di un numero ma non di un altro, con una condizione sulle cifre*
 
-> $A$ sia un intero positivo che sia un multiple di $3$ ma non un multiple di $9$. Quando ogni cifra di $A$ viene aggiunta a $A$, il risultato è un multiple di $9$. Trova il valore minimo possibile di $A$.
+> Sia $A$ un intero positivo multiplo di $3$ ma non multiplo di $9$. Quando ogni cifra di $A$ si somma a $A$, il risultato è un multiplo di $9$. Trovare il minimo valore possibile di $A$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 138
+[[Quesiti/src_jmo22yq_yosen#q04|src_jmo22yq_yosen__Q04]]
 
 
 
@@ -154,11 +170,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri positivi il cui prodotto di tutti i divisori è uguale a 2^{240}*
+*Interi positivi il cui prodotto dei divisori positivi è un valore dato*
 
-> Trova tutti gli integri positivi il cui prodotto di tutti i divisori positivi è uguale a $2^{240}$.
+> Determinare tutti gli interi positivi il cui prodotto di tutti i divisori positivi è uguale a $2^{240}$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** $2^{15} \cdot 3^5$
+[[Quesiti/src_jmo22yq_yosen#q05|src_jmo22yq_yosen__Q05]]
 
 
 
@@ -187,15 +207,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2×100 colore rosso/blu a griglia con restrizioni di parità ed esistenza*
+*Colorazioni rosso-blu di una griglia con entrambi i colori in numero pari, a meno di simmetria*
 
-> C'è una griglia $2 \times 100$ in cui ogni cella è colorata in rosso o blu. Considerate i coloranti che soddisfano entrambe le seguenti condizioni. I colori legati alla rotazione o alla riflessione sono considerati uguali.
-> 
-> - Sia l'insieme delle cellule rosse che l'insieme delle cellule blu non sono vuote (esistono almeno una cellula rossa e almeno una cellula blu). - Il numero totale di globuli rossi è pari, e il numero totale di globuli blu è pari.
-> 
-> Trova il numero di tali coloranti.
+> C'è una griglia $2 \times 100$ in cui ogni casella è colorata di rosso o di blu. Si considerino le colorazioni che soddisfano entrambe le condizioni seguenti. Colorazioni che si ottengono l'una dall'altra per rotazione o riflessione si contano come una sola.
+>
+> - Sia l'insieme delle caselle rosse sia l'insieme delle caselle blu sono non vuoti (c'è almeno una casella rossa e almeno una blu).
+> - Il numero totale di caselle rosse è pari, e il numero totale di caselle blu è pari.
+>
+> Trovare il numero di tali colorazioni.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 39800
+[[Quesiti/src_jmo22yq_yosen#q06|src_jmo22yq_yosen__Q06]]
 
 
 
@@ -221,13 +246,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con centro circonciso O; punto medio di DE è O; trovare CE*
+*Una lunghezza, dato il circocentro e il punto medio di un segmento*
 
-> $O$ sia il circoncentro del triangolo $ABC$. Il punto $D$ deve essere un punto sul segmento $AB$ e il punto $E$ un punto sul segmento $AC$ in modo tale che il punto medio del segmento $DE$ sia $O$. Dato $AD = 8$, $BD = 3$, $AO = 7$, si trova $CE$.
-> 
+> Sia $O$ il circocentro del triangolo $ABC$. Sia $D$ un punto sul segmento $AB$ e $E$ un punto sul segmento $AC$ tali che il punto medio del segmento $DE$ sia $O$. Dati $AD = 8$, $BD = 3$, $AO = 7$, trovare $CE$.
+>
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{4\sqrt{21}}{7}
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{4\sqrt{21}}{7}$
+[[Quesiti/src_jmo22yq_yosen#q07|src_jmo22yq_yosen__Q07]]
 
 
 
@@ -253,13 +282,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di conteggio a partire dal 2012, che terminano a 1, ogni termine inferiore al quadrato del precedente*
+*Successioni di interi positivi che decrescono strettamente fino a un valore finale*
 
-> In quanti modi si può scrivere una sequenza di numeri interi positivi che soddisfano la seguente condizione?
-> 
-> Condizione: il primo numero scritto è $2012$ e l'ultimo numero scritto è $1$. Dopo aver scritto un numero $n$, il numero successivo scritto è un intero positivo inferiore a $\sqrt{n}$.
+> In quanti modi si può scrivere una successione di interi positivi che soddisfa la condizione seguente?
+>
+> Condizione: il primo numero scritto è $2012$ e l'ultimo numero scritto è $1$. Dopo aver scritto un numero $n$, il numero successivo è un intero positivo minore di $\sqrt{n}$.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 201
+[[Quesiti/src_jmo22yq_yosen#q08|src_jmo22yq_yosen__Q08]]
 
 
 
@@ -283,11 +316,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due giocatori scrivono due interi ciascuno; condizioni prodotto/somma; trovare tutte le possibili somme dei numeri di B*
+*Valori possibili della somma dei due interi di B*
 
-> I giocatori A e B scrivono ciascuno due numeri interi su una lavagna. Il prodotto dei due numeri di A è il doppio della somma dei due numeri di B, e la somma dei due numeri di A è almeno grande come il prodotto dei due numeri di B. Trova tutti i valori possibili della somma dei due numeri di B. (I quattro numeri scritti non sono necessariamente distinti.)
+> I giocatori A e B scrivono ciascuno due interi su una lavagna. Il prodotto dei due numeri di A è il doppio della somma dei due numeri di B, e la somma dei due numeri di A è almeno grande quanto il prodotto dei due numeri di B. Trovare tutti i valori possibili della somma dei due numeri di B. (I quattro numeri scritti non sono necessariamente distinti.)
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 8, 9, 10, 13, 17, 19, 27
+[[Quesiti/src_jmo22yq_yosen#q09|src_jmo22yq_yosen__Q09]]
 
 
 
@@ -313,11 +350,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n in cui livello(1000000/n) - livello(1000000/(n+1)) = 1*
+*Quanti interi positivi soddisfano una disuguaglianza con la parte intera*
 
-> Quanti integri positivi $n$ soddisfano $$\left\lfloor \frac{1000000}{n} \right\rfloor - \left\lfloor \frac{1000000}{n+1} \right\rfloor = 1?$$ (Qui $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$.)
+> Quanti interi positivi $n$ soddisfano
+>
+> $$\left\lfloor \frac{1000000}{n} \right\rfloor - \left\lfloor \frac{1000000}{n+1} \right\rfloor = 1?$$
+>
+> (Qui $\lfloor x \rfloor$ indica il massimo intero che non supera $x$.)
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 1172
+[[Quesiti/src_jmo22yq_yosen#q10|src_jmo22yq_yosen__Q10]]
 
 
 
@@ -345,15 +390,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2n×2n griglia; colore esattamente 2n^2 cellule in modo che non due cellule di colore condividono un lato*
+*Colorazioni di un dato numero di caselle senza due colorate che condividano un lato*
 
-> C'è una griglia $2n \times 2n$. Colore esattamente le celle $2n^2$ secondo la seguente condizione:
-> 
-> Condizione: se una cellula colorata condivide un vertice con un'altra cellula colorata, non devono condividere un lato (cioè non ci sono due cellule colorate adiacenti).
-> 
-> Trova il numero di tali coloranti. (Le colorazioni legate alla rotazione o alla riflessione sono conteggiate come diverse.)
+> C'è una griglia $2n \times 2n$. Si colorano esattamente $2n^2$ caselle secondo la condizione seguente.
+>
+> Condizione: se una casella colorata condivide un vertice con un'altra casella colorata, esse NON devono condividere un lato (cioè due caselle colorate non sono adiacenti per un lato).
+>
+> Trovare il numero di tali colorazioni. (Colorazioni che si ottengono l'una dall'altra per rotazione o riflessione si contano come diverse.)
 
-**Risposta:** \binom{2n}{n}^2
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Risposta:** $\binom{2n}{n}^2$
+[[Quesiti/src_jmo22yq_yosen#q11|src_jmo22yq_yosen__Q11]]
 
 
 
@@ -384,14 +433,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cuba lato 2012 tagliato per piano come hexagono IJKLMN; trovare combinazione di superficie*
+*Una lunghezza in una sezione esagonale di un cubo*
 
-> In spazio, un cubo $ABCD\text{-}EFGH$ ha lunghezza laterale $2012$. Un piano incrocia il cubo e la sezione trasversale è un esagono $IJKLMN$, dove rispettivamente $I$, $J$, $K$, $L$, $M$, $N$ si trovano sui bordi $AE$, $EF$, $FG$, $GC$, $CD$ e $DA$.
-> 
-> Date $AI - GL = 8$, $CM - EJ = 6$, $FK - DN = 4$, trovate $$(\text{area of } \triangle IKM) + (\text{area of } \triangle JLN) - (\text{area of hexagon } IJKLMN).$$
-> 
+> Nello spazio, un cubo $ABCD\text{-}EFGH$ ha lato $2012$. Un piano interseca il cubo e la sezione è un esagono $IJKLMN$, dove $I$, $J$, $K$, $L$, $M$, $N$ stanno rispettivamente sugli spigoli $AE$, $EF$, $FG$, $GC$, $CD$, $DA$.
+>
+> Dati $AI - GL = 8$, $CM - EJ = 6$, $FK - DN = 4$, trovare
+>
+> $$(\text{area of } \triangle IKM) + (\text{area of } \triangle JLN) - (\text{area of hexagon } IJKLMN).$$
+>
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jmo22yq_yosen__q12.png]]
 
-**Risposta:** 4\sqrt{61}
+**Argomento:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Risposta:** $4\sqrt{61}$
+[[Quesiti/src_jmo22yq_yosen#q12|src_jmo22yq_yosen__Q12]]

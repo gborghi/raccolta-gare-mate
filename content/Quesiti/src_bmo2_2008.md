@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di x^2+y^2+z^2 soggetto a x^3+y^3+z^3-3xyz=1.*
+*Il minimo di $x^2 + y^2 + z^2$ se $x^3 + y^3 + z^3 - 3xyz = 1$*
 
-> Trova il valore minimo di $x^2 + y^2 + z^2$ dove $x, y, z$ sono numeri reali come $x^3 + y^3 + z^3 - 3xyz = 1$.
+> Trovare il valore minimo di $x^2 + y^2 + z^2$ dove $x, y, z$ sono numeri reali tali che $x^3 + y^3 + z^3 - 3xyz = 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2008#q01|src_bmo2_2008__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con incentro I e circoncentro O, angolo AIO=90 e CIO=45; trovare AB:BC:CA.*
+*Il rapporto $AB : BC : CA$ se $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$*
 
-> Il triangolo $ABC$ deve avere il centro $I$ e il circoncentro $O$. Supponiamo che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trova il rapporto $AB : BC : CA$.
+> Sia $I$ l'incentro e $O$ il circocentro del triangolo $ABC$. Si supponga che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trovare il rapporto $AB : BC : CA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2008#q02|src_bmo2_2008__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina il raggio di un cerchio sconosciuto (raggio di un intero positivo al massimo 2008, origine all'interno) utilizzando al massimo sessanta domande di appartenenza all'interno/all'esterno.*
+*Bastano al più sessanta domande per dedurre il raggio*
 
-> Adrian ha disegnato un cerchio nel piano $xy$ il cui raggio è un intero positivo al massimo 2008. L'origine si trova da qualche parte dentro il cerchio. È consentito fargli domande del tipo "Il punto $(x, y)$ è all'interno del suo cerchio?" Dopo ogni domanda egli risponderà con verità "sì" o "no". Mostrare che è sempre possibile dedurre il raggio del cerchio dopo almeno sessanta domande. [Nota: ogni punto che si trova esattamente sul cerchio può essere considerato situato all'interno del cerchio.]
+> Adrian ha disegnato nel piano $xy$ una circonferenza il cui raggio è un intero positivo al più 2008. L'origine sta da qualche parte all'interno della circonferenza. Ti è permesso fargli domande della forma «Il punto $(x, y)$ è interno alla tua circonferenza?» Dopo ogni domanda risponderà sinceramente «sì» o «no». Dimostrare che è sempre possibile dedurre il raggio della circonferenza dopo al più sessanta domande. [Nota: qualunque punto che stia esattamente sulla circonferenza si può considerare interno alla circonferenza.]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2008#q03|src_bmo2_2008__Q03]]
 
 
 
@@ -104,6 +125,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prova che ci sono infinite coppie di diversi integri positivi x,y con x^3+y^2 dividendo x^2+y^3.
+*Infinite coppie di interi positivi distinti $x$, $y$ tali che $x^3 + y^2$ divide $x^2 + y^3$*
 
-> Prove che ci sono infinite coppie di integri positivi distinti $x, y$ in modo tale che $x^2 + y^3$ sia divisibile da $x^3 + y^2$.
+> Dimostrare che esistono infinite coppie di interi positivi distinti $x, y$ tali che $x^2 + y^3$ è divisibile per $x^3 + y^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2008#q04|src_bmo2_2008__Q04]]

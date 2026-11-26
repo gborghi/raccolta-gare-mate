@@ -40,19 +40,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignment not obtained by exchanging two cards*
+*Alignment cannot be achieved by swapping two cards*
 
 ![[src_kangourou_2017_benjamin_marzo__prob1.png]]
 
-> Four cards are aligned like this: Which of these alignments can't you get by swapping the positions of just two cards? A) B)
-> 	 	
-> C)
-> 	
-> D)
-> 	
+> Four cards are arranged in this alignment: Which of these alignments cannot be achieved by swapping only two cards?
+> A)	
+>                 B)	
+>
+> C)	
+>
+> D)	
+>
 > E)
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q01|src_kangourou_2017_benjamin_marzo__Q01]]
 
 
 
@@ -81,11 +87,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3 flies and 2 spiders such as 9 canaries and cats*
+*3 flies and 2 spiders as 9 canaries and cats*
 
-> A fly has six legs, a spider has eight. All together, three flies and two spiders have as many legs as nine canaries and... A) Two cats B) Three cats C) Four cats D) Five cats E) Six cats
+> A fly has 6 legs; a spider has 8. In total, 3 flies and 2 spiders have as many legs as 9 canaries and ...
+> A) 2 cats
+> B) 3 cats
+> C) 4 cats
+> D) 5 cats
+> E) 6 cats
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q02|src_kangourou_2017_benjamin_marzo__Q02]]
 
 
 
@@ -119,17 +134,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure not composable with 4 equal shapes*
+*Shape that cannot be assembled with 4 identical outlines*
 
 ![[src_kangourou_2017_benjamin_marzo__prob3.png]]
 
-> Alice has four cardboard shapes like this: What figure can't compose with these four shapes? A) B) C)
-> 	
-> D)
-> 	
+> Alice has 4 cardboard cutouts of this shape: . Which figure cannot be formed using these 4 cutouts?
+> A)	
+>           B)	 	
+>    C)	
+>
+>      D) 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q03|src_kangourou_2017_benjamin_marzo__Q03]]
 
 
 
@@ -159,14 +181,18 @@ level: kangourou
 
 *Value of 1111x3333 given 1111x1111*
 
-> I tell you that 1111 × 1111 = 1234321. Then what is 1111 × 3333?
+> I'm telling you that 1111 × 1111 = 1234321. So what's the value of 1111 × 3333?
 > A) 3692963	
 > B) 3698963	
 > C) 3456543	
 > D) 3579753 	
 > E) 3702963
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q04|src_kangourou_2017_benjamin_marzo__Q04]]
 
 
 
@@ -204,21 +230,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum bridges to be closed to separate islands A and B*
+*Minimum number of bridges to close to separate islands A and B*
 
 ![[src_kangourou_2017_benjamin_marzo__prob5.png]]
 
-> In an archipelago there are 10 islands and 12 bridges that connect them as shown in the figure. All bridges are currently open to traffic. What is the minimum number of bridges that need to be closed to stop traffic between Island A and Island B? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> In an archipelago, there are 10 islands and 12 bridges connecting them, as shown in the figure. At present, all the bridges are open to traffic. What is the minimum number of bridges that need to be closed, and only those, to stop traffic between island A and island B?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q05|src_kangourou_2017_benjamin_marzo__Q05]]
 
 
 
@@ -252,19 +284,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-€ € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € €
+*The euro that Giovanna gives to each sister to even things out*
 
-> Joan has 20 euros. Each of her four sisters has 10 euros. How many euros does Joan have to give to each of her sisters so that each of the five girls has the same amount of money? A) 2
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 8
-> 	
+> Giovanna has 20 euros. Each of her four sisters has 10 euros. How many euros must Giovanna give to each of her sisters so that each of the five girls has the same amount of money?
+> A) 2	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 8	
+>
 > E) 10
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q06|src_kangourou_2017_benjamin_marzo__Q06]]
 
 
 
@@ -300,18 +337,23 @@ level: kangourou
 
 *brothers/sisters of Maria and Martino*
 
-> Maria has the same number of brothers and sisters; her brother Martino has twice as many sisters as brothers. How many children are there in their family? A) 4
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
+> Maria has the same number of brothers and sisters; her brother Martino has twice as many sisters as brothers. How many children are there in their family?
+> A) 4	
+>
+> B) 6	
+>
+> C) 7	
+>
+> D) 8	
+>
 > E) 9
 >
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q07|src_kangourou_2017_benjamin_marzo__Q07]]
 
 
 
@@ -346,17 +388,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct order of the three rhinos by weight*
+*Correct order of the three rhinoceroses by weight*
 
 ![[src_kangourou_2017_benjamin_marzo__prob8.png]]
 
-> Three rhinoceroses, Jane, Kate and Leila, are wandering the savannah. Jane walks in front, Leila walks in the middle, and Kate closes the line. Jane weighs 500 kg more than Kate. Kate weighs 1,000 kg less than Leila. If the size of the figures gives an idea of the weight of the animals, which of the following pictures shows Jane, Kate and Leila in the correct order? A)
-> 	
-> B) C)
-> 	
-> D) E)
+> Three rhinoceroses—Jane, Kate, and Leila—are roaming the savanna. Jane walks at the front, Leila walks in the middle, and Kate brings up the rear. Jane weighs 500 kg more than Kate. Kate weighs 1000 kg less than Leila. If the sizes of the figures give an idea of the animals' weights, which of the following images shows Jane, Kate, and Leila in the correct order?
+> A) 	
+>
+> B) 
+> C) 	
+>
+> D)
+> E)
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q08|src_kangourou_2017_benjamin_marzo__Q08]]
 
 
 
@@ -390,19 +439,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many more questions has Nino solved than Piero
+*How many more questions did Nino solve than Piero?*
 
-> At the same time that Piero solves two questions in the Kangourou race, Nino manages to solve three. At the end of the race, the two boys solved a total of 30 questions. How many more questions has Nino solved than Piero? A) 5
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
+> At the same time that Piero solves two problems from the Kangourou competition, Nino manages to solve three. At the end of the competition, the two boys have solved a total of 30 problems. By how many more problems has Nino solved than Piero?
+> A) 5	
+>
+> B) 6	
+>
+> C) 7	
+>
+> D) 8	
+>
 > E) 9
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q09|src_kangourou_2017_benjamin_marzo__Q09]]
 
 
 
@@ -439,21 +493,27 @@ How many more questions has Nino solved than Piero
 <div class="qlang-split" data-lang="en"></div>
 
 
-How Beppe had folded the sheet given the hole
+*How Beppe had folded the sheet with the hole*
 
 ![[src_kangourou_2017_benjamin_marzo__prob10.png]]
 
-> Beppe folded a sheet of paper, then drilled a single hole in the paper so folded; finally, he opened the sheet of paper. You can see the result in the figure on the side. How did Beppe fold the paper? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
-> E) Questions from N. 11 to N. 20 is worth 4 points each.
+> Beppe folded a sheet of paper, then made a single hole in the folded paper; finally, he unfolded the sheet of paper. See the result in the figure beside. How had Beppe folded the sheet of paper?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
+> E) 
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q10|src_kangourou_2017_benjamin_marzo__Q10]]
 
 
 
@@ -487,19 +547,24 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sixth face of the dice with equal opposite sums*
+*Sixth face of the die with equal opposite sums*
 
-> A special die has a number on each face. The sums of the numbers on opposite faces are all the same. Five of the six numbers are 5, 6, 9, 11, and 14. What's the number on the sixth face? A) 4
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 13
-> 	
+> A special die has a number on each face. The sums of the numbers on opposite faces are all equal. Five of the six numbers are 5, 6, 9, 11, and 14. What is the number on the sixth face?
+> A) 4	
+>
+> B) 7	
+>
+> C) 8	
+>
+> D) 13	
+>
 > E) 15
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q11|src_kangourou_2017_benjamin_marzo__Q11]]
 
 
 
@@ -537,30 +602,25 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pieces of string by cutting at points into 9 and 8 parts*
+*Pieces of string, cut into 9 and 8 parts at certain points*
 
-> Simone intends to divide a piece of string into nine pieces of the same length 
-> and marks the points where he must cut it with a blue marker.
-> Barbara intends to divide the same piece of string into eight pieces of the same 
-> length and, in turn, marks the points where she must cut it with a red marker.
-> Carlo arrives and cuts the string at all the points where he finds marker marks. How many pieces 
-> of string does Carlo obtain?
+> Simone intends to divide a piece of string into nine pieces of equal length and marks the points where she must cut it with a blue marker. Barbara intends to divide the same piece of string into eight pieces of equal length and, in turn, marks the points where she must cut it with a red marker. Carlo arrives and cuts the string at all the points where he finds marker marks. How many pieces of string does Carlo get?
 > A) 15	
-	
-> 	
+>
 > B) 16	
-	
-> 	
+>
 > C) 17	
-	
-> 	
+>
 > D) 18	
-	
-> 	
+>
 > E) 19
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q12|src_kangourou_2017_benjamin_marzo__Q12]]
 
 
 
@@ -597,21 +657,26 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Armchair width given 2 and 3 seat sofas*
+*Armchair width: data for 2- and 3-seater sofas*
 
 ![[src_kangourou_2017_benjamin_marzo__prob13.png]]
 
-> The Modern Mobili store sells armchairs and 2 and 3 seat sofas made of the same modular elements, as shown in the figure. Including the arms, the width of a two-seater sofa is 160 cm, that of a three-seater sofa is 220 cm. Including the arms, how many centimeters wide is the armchair? A) 60
-> 	
-> B) 80
-> 	
-> C) 90
-> 	
-> D) 100
-> 	
+> The Mobili Moderni warehouse sells armchairs and 2-seat and 3-seat sofas made from the same modular elements, as shown in the figure. Including the armrests, a 2-seat sofa is 160 cm wide, and a 3-seat sofa is 220 cm wide. Including the armrests, how many centimeters wide is the armchair?
+> A) 60 	
+>
+> B) 80 	
+>
+> C) 90 	
+>
+> D) 100	
+>
 > E) 120
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q13|src_kangourou_2017_benjamin_marzo__Q13]]
 
 
 
@@ -644,13 +709,22 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smaller box sizes for construction*
+*Dimensions of the smallest box for construction*
 
 ![[src_kangourou_2017_benjamin_marzo__prob14.png]]
 
-> Milena made the construction you see next to it by gluing 1 dm side cubes and now wants to put it in a box with rectangular faces. Which of the following are the dimensions of the smallest box you can use? A) 3 × 4 × 4 B) 3 × 5 × 5 C) 3 × 4 × 5 D) 4 × 4 × 4 E) 4 × 4 × 5
+> Milena built the structure you see beside it by gluing together small cubes with sides 1 dm long, and now she wants to put it in a box with rectangular faces. Which of the following are the dimensions, in dm, of the smallest box she can use?
+> A) 3 × 4 × 4	
+> B) 3 × 5 × 5 	
+> C) 3 × 4 × 5	
+> D) 4 × 4 × 4	
+> E) 4 × 4 × 5
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q14|src_kangourou_2017_benjamin_marzo__Q14]]
 
 
 
@@ -682,11 +756,21 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 7 digits by deleting 24 digits*
+*Maximum number with 7 digits by deleting 24 digits*
 
-> Tom writes all the numbers from 1 to 20 on the same line and gets the 31-digit number: 1234567891011121314151617181920. Then he deletes 24 of the 31 digits so that the number that remains written (leaving the digits in the order in which they are) is as large as possible. What number is this? A) 9671819 B) 9567892 C) 9781920 D) 9912345 E) 9818192
+> Tom writes all the numbers from 1 to 20 on the same line and obtains a 31-digit number: 1234567891011121314151617181920. Then he deletes 24 of the 31 digits so that the number that remains written (with the digits kept in the order in which they appear) is as large as possible. What number is it?
+> A) 9671819	
+> B) 9567892	
+> C) 9781920	
+> D) 9912345	
+> E) 9818192
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q15|src_kangourou_2017_benjamin_marzo__Q15]]
 
 
 
@@ -723,21 +807,26 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the last key (letter-digit encryption)*
+*Number on the last key (letter-digit cryptarithm)*
 
 ![[src_kangourou_2017_benjamin_marzo__prob16.png]]
 
-> Each lock can be opened by only one of the five keys: the one whose number is obtained by replacing (in the same order) each letter of the lock with a digit, so that the same letters, even on different locks, correspond to the same numbers. What's the number written on the last key? A) 382
-> 	
-> B) 282
-> 	
-> C) 284
-> 	
-> D) 823
-> 	
+> Each padlock can be opened by only one of the five keys: the key whose number is obtained by replacing (in the same order) each letter of the padlock with a digit, such that identical letters correspond to identical digits even on different padlocks. What number is written on the last key?
+> A) 382	
+>
+> B) 282	
+>
+> C) 284	
+>
+> D) 823	
+>
 > E) 824
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q16|src_kangourou_2017_benjamin_marzo__Q16]]
 
 
 
@@ -788,39 +877,26 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Km travelled on Thursday, 2 km more each day, total 70*
+*Kilometers traveled on Thursday, 2 km more per day, total 70*
 
-> Paolo left on Monday for a 5-day hiking trip in the mountains. Every day from Monday
-> to Friday he walked 2 km more than the previous day, covering a total of 70 km. How many
-> kilometres did he travel on Thursday?
+> Paolo set off on Monday for a five-day hiking trip in the mountains. From Monday to Friday, each day he walked 2 km more than the previous day, covering a total of 70 km. How many kilometers did he walk on Thursday?
 > A) 12	
-	
+>
 > B) 13 	
-	
+>
 > C) 14	
-	
+>
 > D) 15	
-	
+>
 > E) 16 
-> 3-seater sofa
-> 2-seater sofa
-> Armchair
-> 220 cm
-> 160 cm
-> ?
-> DAD
-> BHD
-> ABD
-> AHD
-> HAB
-> 414
-> 124
-> ?
-> 812
-> 184
+> 3-seater sofa 2-seater sofa Armchair 220 cm 160 cm ? DAD BHD ABD AHD HAB 414 124 ? 812 184
 >
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q17|src_kangourou_2017_benjamin_marzo__Q17]]
 
 
 
@@ -853,13 +929,22 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement on letters/numbers with row-column sums*
+*True statement about letters/numbers with row-column sums*
 
 ![[src_kangourou_2017_benjamin_marzo__prob18.png]]
 
-> The letters in the figure represent integers greater than or equal to zero. Adding the numbers represented in each row and in each column gives the results shown in the figure. Which of the following is true? A) b is equal to c. B) a is less than d. C) a is greater than d. D) c is greater than b. E) None of the above.
+> The letters in the figure represent integers greater than or equal to zero. When the numbers represented in each row and each column are added, the results shown in the figure are obtained. Which of the following statements is true?
+> A) b is equal to c.
+> B) a is less than d.
+> C) a is greater than d.
+> D) c is greater than b.
+> E) None of the above.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q18|src_kangourou_2017_benjamin_marzo__Q18]]
 
 
 
@@ -892,11 +977,20 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orders of A,T,R sticks for maximum amount of money*
+*Order the sticks A, T, R for the maximum total amount of money*
 
-> Adriano has a sum of money and 3 magic sticks: • the A stick adds 1 euro to the sum; • the T stick takes 1 euro from the sum; • the R stick doubles the sum. You have to use them all, one at a time. In what order should you use them to get as much money as possible? A) R, A, T B) A, T, R C) R, T, A D) A, R, T E) T, A, R
+> Adriano has a sum of money and 3 magic wands: • wand A adds 1 euro to the sum; • wand T subtracts 1 euro from the sum; • wand R doubles the sum. He must use all of them, each exactly once. In what order must he use them to end up with the greatest possible amount of money?
+> A) R, A, T	
+> B) A, T, R	
+> C) R, T, A	
+> D) A, R, T	
+> E) T, A, R
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q19|src_kangourou_2017_benjamin_marzo__Q19]]
 
 
 
@@ -962,7 +1056,7 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area of three squares overlaid by 2,4,6 cm*
+*Area of a figure made up of three overlapping squares, 2, 4, 6 cm*
 
 ![[src_kangourou_2017_benjamin_marzo__prob20.png]]
 
@@ -991,17 +1085,24 @@ How Beppe had folded the sheet given the hole
 \end{document}
 ```
 
-> In the image you see a figure formed by overlapping three squares so that the overlapping parts are square. The first has a side of length 2 cm, the second has a side of length 4 cm and a vertex in the centre of the first square, the last has a side of length 6 cm and a vertex in the centre of the second square. How many square centimetres is the area of the figure? A) 32
-> 	
-> B) 51
-> 	
-> C) 40
-> 	
-> D) 56
-> 	
-> E) 48 Questions from N. 21 to N. 30 are worth 5 points each.
+> In the image, you can see a figure formed by superimposing three squares so that the overlapping parts are squares. The first square has a side length of 2 cm, the second has a side length of 4 cm and one vertex at the center of the first square, and the last has a side length of 6 cm and one vertex at the center of the second square. How many square centimeters is the area of the figure?
+> A) 32 	
+>
+> B) 51	
+>
+> C) 40	
+>
+> D) 56	
+>
+> E) 48
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q20|src_kangourou_2017_benjamin_marzo__Q20]]
 
 
 
@@ -1033,20 +1134,21 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid constructible with 9 bars 2 gray 1 white*
+*Solid buildable with 9 bars: 2 grey, 1 white*
 
 ![[src_kangourou_2017_benjamin_marzo__prob21.png]]
 
-> Raffaele has some bars, each made of 2 gray cubes and one white cube
-> glued together, like the one shown in the figure.
-> Which of the following solids can he build with 9 of these bars?
+> Raffaele has some bars, each made up of 2 grey cubes and 1 white cube glued together, like the one shown in the figure. Which of the following solids can he build using 9 such bars?
 > A) 	
 >                  B)	
->     …..      C) 	
-> ….          D) 	
+> ….. C) …. D)
 >               E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q21|src_kangourou_2017_benjamin_marzo__Q21]]
 
 
 
@@ -1102,7 +1204,7 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to insert 1..5 with greater-than rules below/right*
+*Ways to insert 1..5 with rules for "greater below/right"*
 
 ![[src_kangourou_2017_benjamin_marzo__prob22.png]]
 
@@ -1120,18 +1222,24 @@ How Beppe had folded the sheet given the hole
 \end{document}
 ```
 
-> I want to insert the numbers 1, 2, 3, 4, 5 into the five cells of the figure next to me, following the following rules: • if a number is below another number it must be larger than this; • if a number is to the right of another number it must be larger than this. How many different ways can I do this? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> I want to place the numbers 1, 2, 3, 4, 5 in the five cells in the figure beside, following these rules: • if a number is below another number, it must be greater than that number; • if a number is to the right of another number, it must be greater than that number. In how many different ways can I do this?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 8
 >
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q22|src_kangourou_2017_benjamin_marzo__Q22]]
 
 
 
@@ -1168,13 +1276,23 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image of the kangaroo in the grey triangle by symmetry*
+*Image of the kangaroo in the grey triangle for symmetries*
 
 ![[src_kangourou_2017_benjamin_marzo__prob23.png]]
 
-> In the first left triangle a kangaroo was drawn. The kangaroo in the second triangle is the first's symmetry to the common side of the first and second triangles. The kangaroo in the third triangle is symmetrical to the second relative to the side common to the second and third triangles. If the same is done, which of the following is the image shown in the grey triangle? A) B) C) D) E)
+> In the first triangle on the left, a kangaroo has been drawn. The kangaroo in the second triangle is the reflection of the first one with respect to the side common to the first and second triangles. The kangaroo in the third triangle is the reflection of the second one with respect to the side common to the second and third triangles. If the same procedure is followed, which of the following is the image that will be seen in the grey triangle?
+> A) 	
+>                 B) 	
+>                C) 	
+>              D) 	
+>              E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q23|src_kangourou_2017_benjamin_marzo__Q23]]
 
 
 
@@ -1210,17 +1328,23 @@ How Beppe had folded the sheet given the hole
 
 *Minimum different results by multiplying 5 numbers by 2 or 3*
 
-> Monica has to choose 5 different numbers so that, if you multiply some by 2 and the others by 3, the different results you get are as few as possible. What's this number? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> Monica must choose 5 different numbers so that, if she multiplies some of them by 2 and the others by 3, the distinct results she obtains are as few as possible. What is this number?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q24|src_kangourou_2017_benjamin_marzo__Q24]]
 
 
 
@@ -1258,21 +1382,27 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-Exchange moves of kangaroos looking at each other
+*Movements of kangaroos exchanging glances face to face*
 
 ![[src_kangourou_2017_benjamin_marzo__prob25.png]]
 
-> A video game begins with eight kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more swaps. How many moves will Angelo make? A) 2
-> 	
-> B) 10
-> 	
-> C) 12
-> 	
-> D) 13
-> 	
+> A video game begins with eight kangaroos arranged in a row as shown in the figure: On each move, Angelo can swap two adjacent kangaroos, but only if these two kangaroos are facing each other. The game continues until Angelo can no longer make any swaps. How many moves will Angelo make?
+> A) 2	
+>
+> B) 10	
+>
+> C) 12	
+>
+> D) 13	
+>
 > E) 16
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q25|src_kangourou_2017_benjamin_marzo__Q25]]
 
 
 
@@ -1307,19 +1437,25 @@ Exchange moves of kangaroos looking at each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*5 with a red, 6 with a blue*
+*5 with a red one, 6 with a blue one*
 
-> A bag contains only red and blue tokens. Any way we extract 5 tokens at least one is red; any way we extract 6 at least one is blue. What is the maximum number of tokens that can be contained in the bag? A) 11
-> 	
-> B) 10
-> 	
-> C) 9
-> 	
-> D) 8
-> 	
+> A bag contains only red tokens and blue tokens. No matter how we draw 5 tokens, at least one is red; no matter how we draw 6 tokens, at least one is blue. What is the maximum number of tokens that can be in the bag?
+> A) 11	
+>
+> B) 10	
+>
+> C) 9	
+>
+> D) 8	
+>
 > E) 7
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q26|src_kangourou_2017_benjamin_marzo__Q26]]
 
 
 
@@ -1355,14 +1491,24 @@ Exchange moves of kangaroos looking at each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum tiles to be exchanged for 4-way symmetry*
+*Minimum number of tiles to swap for 4-directional symmetry*
 
 ![[src_kangourou_2017_benjamin_marzo__prob27.png]]
 
-> The square floor in the figure is covered with triangular and square tiles, some grey, others white. What is the minimum number of gray tiles that is enough to swap places with white tiles if we want the decoration to look the same from each of the four highlighted directions? A) One triangle, one square B) One triangle, three squares C) Three triangles, one square D) Three triangles, three squares E) Three triangles, two squares
+> The square floor in the figure is covered with triangular and square tiles, some gray and some white. What is the minimum number of gray tiles that need to be swapped for white tiles in order for the pattern to look the same from each of the four indicated directions?
+> A) A triangular one, a square one
+> B) One triangular, three square
+> C) Three triangular ones, one square one
+> D) Three triangular, three square
+> E) Three triangular, two square
 >
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q27|src_kangourou_2017_benjamin_marzo__Q27]]
 
 
 
@@ -1397,22 +1543,22 @@ Exchange moves of kangaroos looking at each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order in which the three girls take the marbles*
+*The order in which the three girls pick up the marbles*
 
-> Alice loves even numbers, Bianca loves numbers divisible by 3, Clelia loves numbers divisible
-> by 5. A basket contains 8 marbles on each of which a number is written: each of the three
-> girls passes by it at different times and, among the marbles still present, takes all those with
-> the numbers she loves. In the end Alice has collected the marbles with the numbers 32 and 52, Bianca those
-> with the numbers 24, 33 and 45 and Clelia those with the numbers 20, 25 and 35. In what order did the three girls
-> pass by the basket?
->       A) Alice, Clelia, Bianca
+> Alice likes even numbers, Bianca likes numbers divisible by 3, and Clelia likes numbers divisible by 5. A basket contains 8 marbles, each marked with a number; the three girls pass by the basket at different times and, from among the marbles still in the basket, take all those bearing the numbers they like. In the end, Alice has collected the marbles marked with the numbers 32 and 52, Bianca has collected those marked with the numbers 24, 33, and 45, and Clelia has collected those marked with the numbers 20, 25, and 35. In what order did the three girls pass by the basket?
+> A) Alice, Clelia, Bianca
 > B) Clelia, Bianca, Alice
->       C) Bianca, Alice, Clelia
+> C) Bianca, Alice, Clelia
 > D) Bianca, Clelia, Alice
 >
->       E) Clelia, Alice, Bianca
+> E) Clelia, Alice, Bianca
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q28|src_kangourou_2017_benjamin_marzo__Q28]]
 
 
 
@@ -1471,7 +1617,7 @@ Exchange moves of kangaroos looking at each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most odd numbers in the sum pyramid*
+*Maximum number of odd numbers in the sum pyramid*
 
 ![[src_kangourou_2017_benjamin_marzo__prob29.png]]
 
@@ -1496,15 +1642,22 @@ Exchange moves of kangaroos looking at each other
 \end{document}
 ```
 
-> Sara wants to write a positive integer in each box of the drawing so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 4
-> 	
-> B) 5
-> 	
-> C) 6 D) 7
-> 	
+> Sara wants to write a positive integer in each cell of the diagram so that every number above the bottom row is the sum of the two numbers in the cells immediately below it. What is the maximum number of odd numbers Sara can write?
+> A) 4	
+>
+> B) 5	
+>
+> C) 6	
+> D) 7	
+>
 > E) 8
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q29|src_kangourou_2017_benjamin_marzo__Q29]]
 
 
 
@@ -1544,19 +1697,25 @@ Exchange moves of kangaroos looking at each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to colour a map of 4 regions with 4 colours*
+*Ways of coloring a map of 4 regions with 4 colors*
 
 ![[src_kangourou_2017_benjamin_marzo__prob30.png]]
 
-> Giulia has four pencils of different colours and wants to use them (all or part) to colour the map of an island divided into four regions, as shown in the figure. She doesn't want two neighboring regions to be the same color. How many ways can you color the map of the island? A) 12
-> 	
-> B) 18
-> 	
-> C) 24
-> 	
-> D) 36
-> 	
+> Giulia has four pencils of different colors and wants to use them (all or some of them) to color the map of an island divided into four regions, as shown in the figure. She does not want two adjacent regions to have the same color. In how many ways can she color the map of the island?
+> A) 12	
+>
+> B) 18	
+>
+> C) 24	
+>
+> D) 36	
+>
 > E) 48
 >
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_marzo#q30|src_kangourou_2017_benjamin_marzo__Q30]]

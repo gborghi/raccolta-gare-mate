@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli insiemi di cifre che appaiono un numero impar di volte nel periodo da 1 a 2016*
+*Cifre dispari nella scrittura di $1, 2, 3, \ldots, 2016$*
 
-> I numeri interi $1, 2, 3, \ldots, 2016$ sono scritti in base $10$, apparendo uno dopo l'altro. Ciascuna delle cifre da $0$ a $9$ appare molte volte. Una cifra $d$ viene chiamata odd se il numero di volte $d$ appare nell'elenco $1, 2, 3, \ldots, 2016$ è odd. Trova tutte le possibilità per l'insieme di cifre rare.
+> Gli interi $1, 2, 3, \ldots, 2016$ sono scritti in base $10$, uno dopo l'altro. Ciascuna delle cifre da $0$ a $9$ compare molte volte. Una cifra $d$ si dice dispari se il numero di volte in cui $d$ compare nell'elenco $1, 2, 3, \ldots, 2016$ è dispari. Trovare tutte le possibilità per l'insieme delle cifre dispari.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2017#q01|src_bmo1_2017__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i reali positivi y che soddisfano {y}{2y}=1 dove {x}=max(x,1/x)*
+*Numeri reali positivi $y$ tali che $\{y\}\{2y\} = 1$*
 
-> Per ogni numero reale positivo $x$, definire $\{x\}$ come il più grande di $x$ e $\dfrac{1}{x}$. Trova, con la prova, tutti i numeri reali positivi $y$ in modo tale che $$\{y\}\{2y\} = 1.$$
+> Per ogni numero reale positivo $x$, si definisca $\{x\}$ come il maggiore fra $x$ e $\dfrac{1}{x}$. Trovare, con dimostrazione, tutti i numeri reali positivi $y$ tali che
+> $$\{y\}\{2y\} = 1.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2017#q02|src_bmo1_2017__Q02]]
 
 
 
@@ -81,9 +96,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi positivi (m,n) che soddisfano m^6 - 66 = n^2 + 5n - 10*
+*Coppie di interi positivi $(m, n)$ tali che $m^6 - 66 = n^2 + 5n - 10$*
 
-> Determinare tutte le coppie $(m, n)$ di integri positivi che soddisfano l'equazione $$m^6 - 66 = n^2 + 5n - 10.$$
+> Determinare tutte le coppie $(m, n)$ di interi positivi che soddisfano l'equazione
+> $$m^6 - 66 = n^2 + 5n - 10.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2017#q03|src_bmo1_2017__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
+*Chi ha una strategia vincente se la somma non può essere differenza di quadrati*
 
-> Naomi e Tom giocano a un gioco. Lo scelgono a turno per scegliere un numero intero positivo, con Naomi prima. Un giocatore perde la partita se, dopo il turno, la somma di tutti i numeri interi scelti dall'inizio della partita (da entrambi) non può essere espressa come la differenza di due quadrati. Determina se uno dei giocatori ha una strategia vincente e, se sì, quale.
+> Naomi e Tom giocano. A turno scelgono un intero positivo, e Naomi comincia. Un giocatore perde se, dopo la sua mossa, la somma di tutti gli interi scelti dall'inizio della partita (da entrambi) non si può esprimere come differenza di due quadrati. Stabilire se uno dei due ha una strategia vincente e, in caso affermativo, quale.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2017#q04|src_bmo1_2017__Q04]]
 
 
 
@@ -133,9 +163,18 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Aree uguali [ACP]=[ABC]=[BQC] implicano angolo BCA=90 gradi*
+*Dimostrare che $\angle BCA = 90^\circ$*
 
-> $ABC$ sia un triangolo con $\angle A < \angle B < \angle C$. Il circolo $\Gamma$ deve essere il circolo che attraversa $A$, $B$ e $C$. Le tangenti di $\Gamma$ a $A$ e $C$ si incontrano a $P$. Il segmento di linea $AP$ incontra di nuovo $\Gamma$ a $Q$. È dato che $$[ACP] = [ABC] = [BQC].$$ dimostra che $\angle BCA = 90^\circ$. Qui $[XYZ]$ indica l'area del triangolo $XYZ$.
+> Sia $ABC$ un triangolo con $\angle A < \angle B < \angle C$. Sia $\Gamma$ la circonferenza per $A$, $B$ e $C$. Le tangenti a $\Gamma$ in $A$ e in $C$ si incontrano in $P$. Il segmento $AP$ seca di nuovo $\Gamma$ in $Q$. È dato che
+> $$[ACP] = [ABC] = [BQC].$$
+> Dimostrare che $\angle BCA = 90^\circ$. Qui $[XYZ]$ indica l'area del triangolo $XYZ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2017#q05|src_bmo1_2017__Q05]]
 
 
 
@@ -158,6 +197,13 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri positivi consecutivi divisibili da numeri interi unici consecutivi; trovare il più piccolo m*
+*Il minimo $m$ dispari positivo tale che $n$, $n+2$, $n+4$ sono divisibili per $m$, $m+2$, $m+4$*
 
-> I numeri interi positivi consecutivi $n$, $n + 2$ e $n + 4$ sono entrambi esattamente divisibili rispettivamente da numeri interi positivi odd $m$, $m + 2$ e $m + 4$. Determinare il minimo valore possibile di $m$.
+> Interi positivi consecutivi $n$, $n + 2$ e $n + 4$ sono ciascuno esattamente divisibili rispettivamente per interi positivi dispari consecutivi $m$, $m + 2$ e $m + 4$. Determinare il minimo valore possibile di $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2017#q06|src_bmo1_2017__Q06]]

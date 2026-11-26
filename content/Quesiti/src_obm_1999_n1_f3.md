@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Dividere un cubo in piccoli cubetti del 1999
+*Dividi un cubo in 1999 cubi piccoli*
 
-> Spiega come dividere un cubo in piccoli cubetti $1999$. La figura mostra un modo per dividere un cubo in $15$ piccoli cubetti.
+> Spiega come dividere un cubo in $1999$ cubi piccoli. La figura mostra un modo per dividere un cubo in $15$ cubi piccoli.
 
 ![[src_obm_1999_n1_f3__q01.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f3#q01|src_obm_1999_n1_f3__Q01]]
 
 
 
@@ -62,13 +69,20 @@ Dividere un cubo in piccoli cubetti del 1999
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti per il concorso di nuoto; trovare il numero di giri e i punteggi totali*
+*Punti della gara di nuoto; determina il numero di turni e i punteggi totali*
 
-> Emanuela, Marta e Isabel sono tre nuotatori che amano la competizione, e così hanno deciso di organizzare una competizione di nuoto tra loro. È stato concordato che il numero totale di punti distribuiti per round sarebbe stato lo stesso per ogni round: il punteggio per il primo posto è maggiore di quello per il secondo, che a sua volta è maggiore di quello per il terzo, e tutti questi punteggi sono numeri interi positivi. La sfida consisteva in diversi round, e alla fine Emanuela ha ottenuto punti $20$, punti Marta $9$ e punti Isabel $10$. Il primo round è stato vinto da Isabel.
-> 
-> (a) Quanti colpi furono contestati?
-> 
-> b) Determinare il numero totale di punti per il primo, il secondo e il terzo posto.
+> Emanuela, Marta e Isabel sono tre nuotatrici a cui piace gareggiare, perciò hanno deciso di organizzare una competizione di nuoto tra loro. Si è concordato che il numero totale di punti distribuiti per ogni round sarebbe stato lo stesso in ciascun round: il punteggio per il primo posto è maggiore di quello per il secondo, che a sua volta è maggiore di quello per il terzo, e tutti questi punteggi sono numeri interi positivi. La sfida prevedeva diversi round e, alla fine, Emanuela ha totalizzato $20$ punti, Marta $9$ punti e Isabel $10$ punti. Il primo round è stato vinto da Isabel.
+>
+> (a) Quante manche sono state disputate?
+>
+> (b) Determina il numero totale di punti per il primo, il secondo e il terzo posto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f3#q02|src_obm_1999_n1_f3__Q02]]
 
 
 
@@ -95,13 +109,20 @@ Dividere un cubo in piccoli cubetti del 1999
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cittadini esiliati tra città; può ritornare nella città A?*
+*Cittadino esiliato tra città; può tornare nella città A?*
 
-> Un regno è composto da dieci città. Un cittadino che si comporta male viene esiliato dalla città $A$ alla città $B$, dove $B$ è la città del regno più lontana da $A$. Dopo un po' di tempo, viene espulso dalla città $B$ alla città $C$, la città del regno più lontana da $B$. È noto che la città $C$ non è la stessa città $A$.
-> 
-> **Nota: ** Le distanze tra tutte le città sono diverse.
-> 
-> Se continua a essere esiliato in questo modo, è possibile che ritorni in città?
+> Un regno è composto da dieci città. Un cittadino che si comporta male viene esiliato dalla città $A$ alla città $B$, dove $B$ è la città del regno più lontana da $A$. Dopo un po' di tempo, viene espulso dalla città $B$ alla città $C$, la città del regno più lontana da $B$. Si sa che la città $C$ non è la stessa della città $A$.
+>
+> **Note:** Le distanze tra tutte le città sono diverse.
+>
+> Se continua a essere esiliato in questo modo, è possibile che torni nella città $A$?
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f3#q03|src_obm_1999_n1_f3__Q03]]
 
 
 
@@ -124,6 +145,13 @@ Dividere un cubo in piccoli cubetti del 1999
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Serie di tennis da tavolo; conteggio di partite tra Adriano e Bruno*
+*Serie di incontri di tennistavolo; conta gli incontri tra Adriano e Bruno*
 
-> Adriano, Bruno e Carlos hanno giocato una serie di partite di tennis da tavolo. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita fu disputata da Adriano e Bruno. È noto che Adriano ha vinto $12$ e Bruno ha vinto $21$. Quante volte Adriano e Bruno si sono affrontati?
+> Adriano, Bruno e Carlos hanno disputato una serie di incontri di tennistavolo. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aveva atteso. Il primo incontro è stato disputato da Adriano e Bruno. Si sa che Adriano ha vinto $12$ incontri e Bruno ha vinto $21$ incontri. Quante volte si sono affrontati Adriano e Bruno?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f3#q04|src_obm_1999_n1_f3__Q04]]

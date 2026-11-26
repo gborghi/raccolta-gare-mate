@@ -30,11 +30,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcola la composizione iterata f^(99)(1) per f(x) = x/sqrt(1+x^2)*
+*Calcola la composizione iterata f^(99)(1) per f(x)=x/sqrt(1+x^2)*
 
-> Supponiamo che $f(x) = \dfrac{x}{\sqrt{1+x^2}}$ e $f^{(99)}(x) = f[f[\cdots f(x)\cdots]]$ (99 composizioni). Poi $f^{(99)}(1) = $ \_\_\_\__.
+> Supponiamo che $f(x) = \dfrac{x}{\sqrt{1+x^2}}$ e $f^{(99)}(x) = f[f[\cdots f(x)\cdots]]$ (99 composizioni). Allora $f^{(99)}(1) = $ \_\_\_\_.
 
-**Risposta:** \dfrac{1}{10}
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2009#q01|src_cn_cmc_2009__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intervallo delle coordinate x del punto su linea che forma un angolo di 45 gradi con un cerchio*
+*Intervallo delle ascisse dei punti sulla retta che forma un angolo di 45 gradi con la circonferenza*
 
-> Data la linea $L: x + y - 9 = 0$ e il cerchio $M: 2x^2 + 2y^2 - 8x - 8y - 1 = 0$, il punto $A$ si trova su $L$ e i punti $B$, $C$ si trovano sul cerchio $M$. Se $\angle BAC = 45^\circ$ e le linee $AB$, $AC$ sono tangenti al cerchio $M$ dal punto $A$, l'intervallo delle coordinate $x$ del punto $A$ è \_\_\_\__.
+> Dato il segmento $L: x + y - 9 = 0$ e il cerchio $M: 2x^2 + 2y^2 - 8x - 8y - 1 = 0$, il punto $A$ giace su $L$ e i punti $B$, $C$ giacciono sul cerchio $M$. Se $\angle BAC = 45^\circ$ e le rette $AB$, $AC$ sono tangenti al cerchio $M$ dal punto $A$, allora l'intervallo di variazione della coordinata $x$ del punto $A$ è \_\_\_\_.
 
-**Risposta:** 3 \le a \le 6
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2009#q02|src_cn_cmc_2009__Q02]]
 
 
 
@@ -88,13 +98,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area comune di due regioni piane in funzione del parametro t*
+*Area comune di due regioni piane in funzione del parametro t*
 
-> In un piano di coordinate ci sono due regioni $M$ e $N$. La regione $M$ è limitata da $\begin{cases} y \ge 0 \\ y \le x \end{cases}$ e la regione $N$ è determinata dalle disuguaglianze $t \le x \le t + 1$, $0 \le t \le 1$. Poi la dimensione della superficie comune di $M$ e $N$ viene data da $f(t) = $ \_\_\_\__.
+> In un piano cartesiano ci sono due regioni $M$ e $N$. La regione $M$ è delimitata da $\begin{cases} y \ge 0 \\ y \le x \end{cases}$, e la regione $N$ è determinata dalle disuguaglianze $t \le x \le t + 1$, $0 \le t \le 1$. Allora l'area della parte comune di $M$ e $N$ è data da $f(t) = $ \_\_\_\_.
 
 ![[src_cn_cmc_2009__q03.png]]
 
-**Risposta:** f(t) = -t^2 + t + \dfrac{1}{2}
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2009#q03|src_cn_cmc_2009__Q03]]
 
 
 
@@ -120,11 +135,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero intero positivo minimo a soddisfacente una disuguaglianza di tipo armonico*
+*Trovare il più piccolo intero positivo a che soddisfa una disuguaglianza di tipo armonico*
 
-> La disuguaglianza $$\frac{1}{a+1} + \frac{1}{a+2} + \cdots + \frac{1}{2a+1} \le a - 2007\tfrac{1}{2}$$ vale per ogni intero positivo $a$. Quindi il numero intero meno positivo $a$ che soddisfa l'ineguaglianza è \_\_\_\__.
+> La disuguaglianza
+> $$\frac{1}{a+1} + \frac{1}{a+2} + \cdots + \frac{1}{2a+1} \le a - 2007\tfrac{1}{2}$$
+> vale per ogni numero intero positivo $a$. Allora il minimo numero intero positivo $a$ che soddisfa la disuguaglianza è \_\_\_\_.
 
-**Risposta:** 2009
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2009#q04|src_cn_cmc_2009__Q04]]
 
 
 
@@ -148,11 +170,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di ∆OP di × di <OQ di di <OQ di di perpendicolare radii su un'ellisse*
+*Valore minimo di |OP|*|OQ| per i raggi perpendicolari su un'ellisse*
 
-> Se si considerano i punti $P$, $Q$ su un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) che soddisfano $OP \perp OQ$, il valore minimo di $|OP| \times |OQ|$ è \_\_\_\__.
+> Dati i punti $P$, $Q$ su un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) che soddisfano $OP \perp OQ$, il valore minimo di $|OP| \times |OQ|$ è \_\_\_\_.
 
-**Risposta:** \dfrac{\sqrt{2}\,a^2 b^2}{a^2+b^2}
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2009#q05|src_cn_cmc_2009__Q05]]
 
 
 
@@ -176,11 +203,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Range di k in modo che lg(kx) - 2×lg(x+1) = 0 abbia esattamente una radice reale*
+*Intervallo di k per cui lg(kx) - 2*lg(x+1) = 0 ha esattamente una radice reale*
 
-> Supponiamo che l'equazione $\lg(kx) - 2\lg(x + 1) = 0$ abbia esattamente una radice reale. Quindi l'intervallo di $k$ è \_\_\_\___.
+> Supponiamo che l'equazione $\lg(kx) - 2\lg(x + 1) = 0$ abbia esattamente una radice reale. Allora l'insieme immagine di $k$ è \_\_\_\_.
 
-**Risposta:** 0 < k < 4 \text{ oppure } k = 4
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2009#q06|src_cn_cmc_2009__Q06]]
 
 
 
@@ -204,11 +236,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero nell'ultima riga di un triangolo numerico di 100 righe*
+*Numero nell'ultima riga di una disposizione triangolare di numeri con 100 righe*
 
-> Considera una disposizione di numeri a forma di triangolo: la prima riga è composta dai numeri da 1 a 100 ordinati in ordine; ogni numero della seconda riga è la somma di due numeri direttamente al di sotto della prima riga; ogni numero della terza riga è la somma dei due numeri direttamente al di sotto della seconda riga; e così via. Ci sono 100 righe in totale. Il numero nell'ultima riga è \_\_\_\__.
+> Si consideri una disposizione di numeri a forma di triangolo: la prima riga è composta dai numeri da 1 a 100 disposti in ordine; ciascun numero della seconda riga è la somma dei due numeri che si trovano direttamente sotto di esso nella prima riga; ciascun numero della terza riga è la somma dei due numeri che si trovano direttamente sotto di esso nella seconda riga; e così via. In totale ci sono 100 righe. Il numero dell'ultima riga è \_\_\_\_.
 
-**Risposta:** 101 \times 2^{99}
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2009#q07|src_cn_cmc_2009__Q07]]
 
 
 
@@ -242,15 +279,26 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tempo di attesa previsto per il viaggiatore che sceglie tra due treni*
+*Tempo di attesa previsto per un viaggiatore che sceglie tra due treni*
 
-> Ogni giorno in una stazione arriva solo un treno tra le 8:10 e le 10. I tempi di arrivo e le loro probabilità per i due treni (treno A e treno B) sono riportati nella tabella seguente:
-> 
-> Orario di arrivo Treno A Treno B -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D
-> 
-> Supponiamo che gli eventi dei due treni siano indipendenti l'uno dall'altro. Ora, un viaggiatore arriva alla stazione alle 8:20. Allora l'aspettativa matematica del suo tempo di attesa è \_\_\_\_ (rondo al minuto più vicino).
+> Ogni giorno, in una stazione, c'è un solo treno in arrivo tra le 8:10 e le 10:00. Gli orari di arrivo e le relative probabilità per i due treni (Treno A e Treno B) sono riportati nella tabella seguente:
+>
+> | Orario di arrivo | Treno A | Treno B |
+> |---|---|---|
+> | 8:10 | $\dfrac{1}{2}$ | |
+> | 8:30 | $\dfrac{1}{4}$ | |
+> | 9:10 | $\dfrac{1}{4}$ | |
+> | 9:30 | | $\dfrac{1}{2}$ |
+> | 10:10 | | $\dfrac{1}{2}$ |
+>
+> Si supponga che gli eventi relativi ai due treni siano indipendenti l'uno dall'altro. Ora, un viaggiatore entra nella stazione alle 8:20. Allora il valore atteso del suo tempo di attesa è \_\_\_\_ (arrotondare al minuto più vicino).
 
-**Risposta:** 27
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2009#q08|src_cn_cmc_2009__Q08]]
 
 
 
@@ -274,11 +322,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le linee a coefficiente interi che incontrano ellipse e iperbole con AC=BD*
+*Conta le rette a coefficienti interi che intersecano l'ellisse e l'iperbole con AC=BD*
 
-> Supponiamo che la linea $l$: $y = -kx + m$ (dove $k$ e $m$ sono numeri interi) intercetta l'ellisse $\dfrac{x^2}{4} + \dfrac{y^2}{12} = 1$ a due punti diversi $A$, $B$, e intercetta l'iperbola $\dfrac{x^2}{4} - \dfrac{y^2}{12} = 1$ a due punti diversi $C$, $D$. Se $\overrightarrow{AC} = \overrightarrow{BD}$, quante diverse possibilità ci sono per la riga $l$? Spiega il motivo.
+> Supponiamo che la retta $l$: $y = -kx + m$ (dove $k$ e $m$ sono interi) intersechi l'ellisse $\dfrac{x^2}{4} + \dfrac{y^2}{12} = 1$ in due punti distinti $A$, $B$, e intersechi l'iperbole $\dfrac{x^2}{4} - \dfrac{y^2}{12} = 1$ in due punti distinti $C$, $D$. Se $\overrightarrow{AC} = \overrightarrow{BD}$, quante possibilità diverse ci sono per la retta $l$? Spiega il motivo.
 
-**Risposta:** 9
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2009#q09|src_cn_cmc_2009__Q09]]
 
 
 
@@ -305,13 +358,20 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza che soddisfa la ricorrenza lineare; termine generale e somma dei primi n termini*
+*Successione che soddisfa una ricorrenza lineare; termine generale e somma dei primi n termini*
 
-> È noto che $p \ne 0$, $q \ne 0$ sono numeri reali, e l'equazione $x^2 - px - q = 0$ ha due radici reali $\alpha$ e $\beta$. La sequenza $\{a_n\}$ soddisfa $a_{n+2} = p \cdot a_{n+1} + q \cdot a_n$ per $n = 1, 2, \ldots$
-> 
-> (1) Se $\alpha \ne \beta$, trovare l'espressione generale di $\{a_n\}$ in termini di $\alpha$ e $\beta$.
-> 
-> (2) Se $p = 1$, $q = \dfrac{1}{4}$, si trova la somma dei primi termini $n$ di $\{a_n\}$.
+> È noto che $p \ne 0$, $q \ne 0$ sono numeri reali, e l'equazione $x^2 - px - q = 0$ ha due radici reali $\alpha$ e $\beta$. La successione $\{a_n\}$ soddisfa $a_{n+2} = p \cdot a_{n+1} + q \cdot a_n$ per $n = 1, 2, \ldots$
+>
+> (1) Se $\alpha \ne \beta$, determina l'espressione generale di $\{a_n\}$ in funzione di $\alpha$ e $\beta$.
+>
+> (2) Se $p = 1$, $q = \dfrac{1}{4}$, determina la somma dei primi $n$ termini di $\{a_n\}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2009#q10|src_cn_cmc_2009__Q10]]
 
 
 
@@ -337,8 +397,15 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimo e minimo di sqrt(x)+sqrt(x+27)+sqrt(13-x) su [0,13]*
+*Massimo e minimo di sqrt(x)+sqrt(x+27)+sqrt(13-x) sull'intervallo [0,13]*
 
-> Trova il massimo e il minimo della funzione $$y = \sqrt{x} + \sqrt{x + 27} + \sqrt{13 - x}$$ per $x \in [0, 13]$.
+> Trovare il massimo e il minimo della funzione
+> $$y = \sqrt{x} + \sqrt{x + 27} + \sqrt{13 - x}$$
+> per $x \in [0, 13]$.
 
-**Risposta:** \max = 11,\ \min = 3\sqrt{3} + \sqrt{13}
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2009#q11|src_cn_cmc_2009__Q11]]

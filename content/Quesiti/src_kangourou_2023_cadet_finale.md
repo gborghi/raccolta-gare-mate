@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*last position boy*
+*In what place did the last of the boys finish?*
 
-> Five girls and four boys took part in a competition where there were no positions of equal merit. The first place in the ranking is taken by a girl; by adding the numbers of the girls' positions you get twice the sum of the numbers of the boys' positions. What position did the last of the boys rank in?
+> Five girls and four boys took part in a race in which ties were not provided for. First place went to a girl; adding the numbers of the girls' places gives twice the sum of the numbers of the boys' places. In what place did the last of the boys finish?
 
-**Answer:** 6 (sixth)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Answer:** 6 (sesta)
+[[Quesiti/src_kangourou_2023_cadet_finale#qc1|src_kangourou_2023_cadet_finale__QC1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum tokens*
+*What is the least number of counters that lets the aim be achieved?*
 
-> We want to place some tokens in as many square cells of a $2 \times 9$ grid so that each cell either contains a token or shares a side with some cell that contains a token. What is the minimum number of tokens that allows achieving the goal?
+> One wants to place some counters in as many square cells of a $2 \times 9$ grid so that every cell either contains a counter or shares a side with some cell that contains a counter. What is the least number of counters that lets the aim be achieved?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5
+[[Quesiti/src_kangourou_2023_cadet_finale#qc2|src_kangourou_2023_cadet_finale__QC2]]
 
 
 
@@ -83,11 +91,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided:
+*What is the average weight of the objects in S?*
 
-> I have at my disposal a large number of items of each of the following weights: 1, 2, 3, 4 and 5 kilos. With these I have composed a set containing objects of at least three different weights: the average weight of objects of$S$ is an integer number of kilograms. However, the average weight of $S$ objects would remain an integer number of kilograms if you replaced each $S$ object weighing 2, 3 or 4 kilograms, respectively, with an object weighing 1, 2 or 3 kilograms, without making any further substitutions. What is the average weight of $S$ objects?
+> I have a large quantity of objects of each of the following weights: 1, 2, 3, 4 and 5 kilograms. With these I made up a set $S$ containing objects of at least three different weights: the average weight of the objects in $S$ is a whole number of kilograms. The average weight of the objects in $S$ would still be a whole number of kilograms if I replaced every object in $S$ that weighs 2, 3 or 4 kilograms with an object that weighs 1, 2 or 3 kilograms respectively, without making any further replacements. What is the average weight of the objects in $S$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2023_cadet_finale#qc3|src_kangourou_2023_cadet_finale__QC3]]
 
 
 
@@ -110,11 +122,15 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*word of the full meaning*
+*Which word is it?*
 
-> To form a secret code, the 21 letters of the Italian alphabet (therefore without the letters K, J, X, Y, W), written in alphabetical order, were progressively numbered starting from a letter that is not necessarily the A and starting again with the A after the Z (for example, if the letter E was the number 1, the F would be the number 2, the Z the number 17 and the A the number 18 until reaching the D, the number 21). The sum of the numbers assigned to the letters P, R, T is 24. The code $(3, 1, 11)$ corresponds to a word of complete meaning, i.e. present in the Italian vocabulary: which?
+> To form a secret code, the 21 letters of the Italian alphabet (so without the letters K, J, X, Y, W), written in alphabetical order, have been numbered in sequence starting from a letter that is not necessarily A, and starting again with A after Z (for example, if the letter E were number 1, F would be number 2, Z number 17 and A number 18, up to D, number 21). The sum of the numbers assigned to the letters P, R, T is 24. The code $(3, 1, 11)$ corresponds to a word that makes sense, that is, one present in the Italian dictionary: which one?
 
-**Answer:** THREE
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** TRE
+[[Quesiti/src_kangourou_2023_cadet_finale#qc4|src_kangourou_2023_cadet_finale__QC4]]
 
 
 
@@ -139,13 +155,17 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the maximum amount of lying.
+*How many inhabitants who always lie can there be, at most?*
 
 ![[src_kangourou_2023_cadet_finale__probc5.png]]
 
-> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Every inhabitant says, "Among my neighbours there is at least one person who always lies". How many people can be at most lying all the time? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+> An island is divided into 15 regions as indicated in the picture. In each region there lives one and only one inhabitant, who either always tells the truth or always lies. Each inhabitant states: "Among my neighbours there is at least one person who always lies." How many inhabitants who always lie can there be, at most? (Two inhabitants are regarded as neighbours when their regions share a segment of their border, not necessarily a whole side of one of the two.) (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6
+[[Quesiti/src_kangourou_2023_cadet_finale#qc5|src_kangourou_2023_cadet_finale__QC5]]
 
 
 
@@ -189,29 +209,14 @@ This is the maximum amount of lying.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*trajectory length of P*
+*Give a qualitative drawing of the path of the point P that can make clear how it was determined, and calculate its length.*
 
 ![[src_kangourou_2023_cadet_finale__probc6.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (3,0);
-  \coordinate (C) at (3,3);
-  \coordinate (D) at (0,3);
-  \coordinate (P) at (1.5,0);
-  \draw (A) -- (B) -- (C) -- (D) -- cycle;
-  \filldraw (P) circle (2pt);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[below] at (P) {$P$};
-\end{tikzpicture}
-\end{document}
-```
+> Look at the picture. The segment $AK$ is 5 long, the side of the square $ABCD$ is 1 long and the point $P$ is the midpoint of the side $AB$. We rotate the square with pivot at the vertex $B$ until the vertex $C$ comes to fall (for the first time) on the segment $AK$; starting from this position of the square, we now carry out the same operation with pivot at $C$, and so on, until the side $AB$ comes to lie again (for the first time after the first rotation) in the segment $AK$. Give a qualitative drawing of the path of the point $P$ that can make clear how it was determined, and calculate its length. (see the picture)
 
-> Look at the figure. The $AK$ segment is length 5, the side of the square $ABCD$ is length 1 and the point $P$ is the midpoint of the side $AB$. Let's rotate the square with a pivot at the $B$ vertex until the $C$ vertex falls (for the first time) on the $AK$ segment; starting from this position of the square, we now perform the same operation with a pivot at $C$ and so on until the $AB$ side is contained again (for the first time after the first rotation) in the $AK$ segment. Provide a qualitative drawing of the trajectory of the point $P$ that can clarify how it was determined and calculate the length. (see figure)
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** (π/2)(1+√5)
+[[Quesiti/src_kangourou_2023_cadet_finale#qc6|src_kangourou_2023_cadet_finale__QC6]]

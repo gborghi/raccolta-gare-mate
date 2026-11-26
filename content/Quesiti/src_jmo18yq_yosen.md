@@ -29,9 +29,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'LCM più grande di quattro diversi integri positivi a una cifra*
+*Massimo minimo comune multiplo di quattro interi positivi di una cifra, distinti*
 
-> Ci sono quattro diversi numeri interi positivi a una cifra. Trova il valore più grande che può essere preso dal loro più piccolo comune multiple.
+> Ci sono quattro interi positivi di una cifra, distinti. Trovare il massimo valore che può assumere il loro minimo comune multiplo.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo18yq_yosen#q01|src_jmo18yq_yosen__Q01]]
 
 
 
@@ -69,9 +74,9 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del triangolo da una tangente al cerchio su un lato quadrato*
+*Area di un triangolo da una tangente alla circonferenza su un lato del quadrato*
 
-> C'è un quadrato $ABCD$ con lunghezza laterale $1$. Si deve $O$ essere il cerchio con $AD$ come diametro e prendere un punto $E$ sul lato $AB$ in modo che la linea $CE$ sia tangente a $O$. Trova l'area del triangolo $CBE$.
+> C'è un quadrato $ABCD$ di lato $1$. Sia $O$ la circonferenza che ha $AD$ come diametro, e si prenda un punto $E$ sul lato $AB$ in modo che la retta $CE$ sia tangente a $O$. Trovare l'area del triangolo $CBE$.
 
 ```tikz
 \begin{tikzpicture}[scale=2.2]
@@ -87,6 +92,11 @@ level: JMO Yosen
 \foreach \p/\n in {A/{above left},B/{below left},C/{below right},D/{above right},E/{left},O/{above}}{\fill (\p) circle (0.6pt) node[\n]{$\p$};}
 \end{tikzpicture}
 ```
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo18yq_yosen#q02|src_jmo18yq_yosen__Q02]]
 
 
 
@@ -109,9 +119,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prezzi delle voci per un pagamento a pezzi minimi senza denominazione condivisa*
+*Quanti prezzi si possono pagare con quattro pezzi, scegliendo il resto con meno pezzi*
 
-> Taro va a fare acquisti con una banconota $1000$-yen, una moneta $100$-yen, una moneta $10$-yen e una moneta $1$-yen (una di ciascuna), e le usa tutte e quattro per effettuare il pagamento per un singolo articolo. Quanti valori possibili può assumere il prezzo dell'oggetto? Qui si suppone che, tra i modi di pagamento con cui Taro consegna i soldi e il cambio che riceve non abbiano alcuna denominazione in comune, egli ne scelga una in modo che il numero di monete che detiene dopo aver ricevuto il cambio sia il più piccolo possibile. Inoltre, la variazione viene data utilizzando il minor numero possibile di pezzi, e la variazione può essere $0$ yen.
+> Taro va a fare spese con una banconota da $1000$ yen, una moneta da $100$ yen, una moneta da $10$ yen e una moneta da $1$ yen (una per tipo), e le usa tutte e quattro per pagare un solo articolo. Quanti valori può assumere il prezzo dell'articolo? Si assume che, tra i modi di pagare in cui il denaro che Taro consegna e il resto che riceve non hanno alcun taglio in comune, egli ne scelga uno in modo che il numero di pezzi che ha dopo aver ricevuto il resto sia il più piccolo possibile. Inoltre il resto si dà con il minor numero possibile di pezzi, e il resto può essere di $0$ yen.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo18yq_yosen#q03|src_jmo18yq_yosen__Q03]]
 
 
 
@@ -134,9 +149,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi positivi la cui somma di divisore limitata è uguale a 1000*
+*Interi positivi la cui somma di certi divisori è un valore fissato*
 
-> Trova tutti gli enti positivi in modo tale che la somma di quelli dei loro divisori positivi il cui rimanente dopo la divisione per $4$ non è $2$ è uguale a $1000$.
+> Determinare tutti gli interi positivi tali che la somma di quei loro divisori positivi il cui resto nella divisione per $4$ non è $2$ sia uguale a $1000$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo18yq_yosen#q04|src_jmo18yq_yosen__Q04]]
 
 
 
@@ -159,9 +179,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che ogni i-th carta sia almeno i in una riga casuale*
+*Probabilità che ogni carta sia almeno un dato valore, secondo la posizione*
 
-> Cinque carte con i numeri $2, 3, 4, 5, 6$ (un numero per carta, cinque carte in totale) sono disposte in fila a caso. Trova la probabilità che, per ogni $i = 1, 2, 3, 4, 5$, il numero scritto sulla carta $i$-da sinistra sia almeno $i$.
+> Cinque carte con i numeri $2, 3, 4, 5, 6$ (un numero per carta, cinque carte in tutto) sono disposte in fila a caso. Trovare la probabilità che, per ogni $i = 1, 2, 3, 4, 5$, il numero scritto sulla $i$-esima carta da sinistra sia almeno $i$.
+
+**Argomento:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo18yq_yosen#q05|src_jmo18yq_yosen__Q05]]
 
 
 
@@ -190,9 +215,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*C più piccolo ottenuto eliminando una cifra 6 da due moltipli di lunghezza uguale*
+*Minimo intero positivo ottenuto cancellando cifre, con un multiplo dello stesso numero di cifre*
 
-> Per un intero positivo $n$, scrivere la sua rappresentazione decimale come $n_{(10)}$. I numeri interi positivi $a, b, c$ separati in coppia soddisfano tutte le seguenti condizioni: \begin{itemize} \item $c_{(10)}$ coincide con il numero ottenuto da $a_{(10)}$ eliminando una cifra $6$. Il punto $c_{(10)}$ coincide con il numero ottenuto da $b_{(10)}$ eliminando una cifra $6$. \item $a$ e $b$ hanno lo stesso numero di cifre, e $a$ è un multiple di $b$. \end{itemize} Trova il minimo possibile valore di $c$.
+> Per un intero positivo $n$, si scriva la sua rappresentazione decimale come $n_{(10)}$. Interi positivi a due a due distinti $a, b, c$ soddisfano tutte le condizioni seguenti:
+> \begin{itemize}
+> \item $c_{(10)}$ coincide con il numero ottenuto da $a_{(10)}$ cancellando una cifra $6$;
+> \item $c_{(10)}$ coincide con il numero ottenuto da $b_{(10)}$ cancellando una cifra $6$;
+> \item $a$ e $b$ hanno lo stesso numero di cifre, e $a$ è un multiplo di $b$.
+> \end{itemize}
+> Trovare il minimo valore possibile di $c$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo18yq_yosen#q06|src_jmo18yq_yosen__Q06]]
 
 
 
@@ -215,9 +251,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di possibili blocchi a tre cifre di quadrato a sei cifre di testa*
+*Quanti valori possono avere le prime tre cifre di un quadrato perfetto di sei cifre*
 
-> Quanti valori sono possibili complessivamente per le prime tre cifre (il primo blocco a tre cifre) di un quadrato perfetto a sei cifre?
+> Quanti valori sono possibili, in tutto, per le prime tre cifre (il blocco iniziale di tre cifre) di un quadrato perfetto di sei cifre?
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_stima|Stima e approssimazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo18yq_yosen#q07|src_jmo18yq_yosen__Q07]]
 
 
 
@@ -242,9 +283,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero atteso di monete a coda dopo un processo di voltaggio*
+*Numero atteso di monete croce alla fine di un processo di ribaltamenti*
 
-> Otto monete sono disposte in fila, tutte rivolte a testa in su. Noi facciamo ripetutamente quanto segue: scegliamo uniformemente una moneta a caso tra quelle che soddisfano la condizione di seguito, e la voltiamo. Condizione: la moneta scelta non ha monete a destra, o non ha monete a sinistra. Continueremo questa operazione finché non ci sarà una moneta che soddisfi la condizione. Trova il numero atteso di monete che sono rivolte verso l'alto in quel momento.
+> Otto monete sono in fila, tutte con la testa in su. Si ripete l'operazione seguente: si sceglie uniformemente a caso una moneta tra quelle che soddisfano la condizione sotto, e la si ribalta.
+> Condizione: la moneta scelta non ha alcuna moneta croce alla sua destra, oppure non ha alcuna moneta testa alla sua sinistra.
+> Si continua finché non c'è più alcuna moneta che soddisfi la condizione. Trovare il numero atteso di monete che in quel momento mostrano croce.
+
+**Argomento:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo18yq_yosen#q08|src_jmo18yq_yosen__Q08]]
 
 
 
@@ -267,9 +315,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma minima di una sequenza reale con vincoli ricorsivi*
+*Minimo valore possibile sotto una relazione di ricorrenza*
 
-> Ci sono $2008$ numeri reali $x_1, x_2, \ldots, x_{2008}$ con $|x_1| = 999$, e per ogni numero intero $n$ con $2 \le n \le 2008$ la relazione $|x_n| = |x_{n-1} + 1|$ mantiene. Trova il minimo valore possibile di $x_1 + x_2 + \cdots + x_{2008}$.
+> Ci sono $2008$ numeri reali $x_1, x_2, \ldots, x_{2008}$ con $|x_1| = 999$, e per ogni intero $n$ con $2 \le n \le 2008$ vale la relazione $|x_n| = |x_{n-1} + 1|$. Trovare il minimo valore possibile di $x_1 + x_2 + \cdots + x_{2008}$.
+
+**Argomento:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo18yq_yosen#q09|src_jmo18yq_yosen__Q09]]
 
 
 
@@ -292,9 +345,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le configurazioni dei posti che consentono uno scambio circolare completo dei regali*
+*Configurazioni di sedie dei ragazzi dopo uno scambio di regali in cerchio*
 
-> $2008$ ragazzi e $2008$ ragazze si riuniscono per fare uno scambio di regali. Ogni ragazzo prepara un bouquet e ogni ragazza prepara una cioccolata come regalo, e tutti si siedono su sedie disposte in cerchio, tutte rivolte verso l'interno. Ripetono poi l'azione "ogni persona trasmette contemporaneamente il regalo che tiene alla persona immediatamente alla sua destra" un certo numero di volte, dopo di che succede che ogni ragazzo tiene una cioccolata e ogni ragazza tiene un bouquet. Quante configurazioni sono possibili per l'insieme delle sedie occupate dai ragazzi?
+> Si riuniscono $2008$ ragazzi e $2008$ ragazze per uno scambio di regali. Ogni ragazzo prepara un mazzo di fiori e ogni ragazza una cioccolata, e tutti siedono su sedie disposte in cerchio, rivolti verso l'interno. Ripetono un certo numero di volte l'azione «tutti passano contemporaneamente il regalo che hanno in mano alla persona immediatamente alla loro destra», dopo di che ogni ragazzo ha in mano una cioccolata e ogni ragazza un mazzo. Quante configurazioni sono possibili per l'insieme delle sedie occupate dai ragazzi?
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo18yq_yosen#q10|src_jmo18yq_yosen__Q10]]
 
 
 
@@ -317,9 +375,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di un quadrilaterale convesso dai lati e dalla distanza diagonale dal punto medio*
+*Area di un quadrilatero convesso dati lati e punti medi*
 
-> Un quadrilaterale converso $ABCD$ soddisfa $AB = BC = 2$, $CD = 2\sqrt{3}$, $DA = 2\sqrt{5}$. Inoltre, lasciando che $M$ e $N$ siano i punti medi di $AC$ e $BD$ rispettivamente, abbiamo $MN = \sqrt{2}$. Trova l'area del quadrilaterale $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Un quadrilatero convesso $ABCD$ soddisfa $AB = BC = 2$, $CD = 2\sqrt{3}$, $DA = 2\sqrt{5}$. Inoltre, detti $M$ e $N$ i punti medi di $AC$ e $BD$ rispettivamente, si ha $MN = \sqrt{2}$. Trovare l'area del quadrilatero $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo18yq_yosen#q11|src_jmo18yq_yosen__Q11]]
 
 
 
@@ -342,6 +405,11 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare la somma dei prodotti prefissi di una somma tupla a 2008*
+*Massimo valore possibile di un'espressione su una tupla di interi positivi*
 
-> Un tuple di integri positivi $(n, a_1, a_2, \ldots, a_n)$ soddisfa $a_1 + a_2 + \cdots + a_n = 2008$. Impostando $A_k = a_1 a_2 \cdots a_k$, si trova il valore più grande possibile di $A_1 + A_2 + \cdots + A_n$.
+> Una tupla di interi positivi $(n, a_1, a_2, \ldots, a_n)$ soddisfa $a_1 + a_2 + \cdots + a_n = 2008$. Posto $A_k = a_1 a_2 \cdots a_k$, trovare il massimo valore possibile di $A_1 + A_2 + \cdots + A_n$.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo18yq_yosen#q12|src_jmo18yq_yosen__Q12]]

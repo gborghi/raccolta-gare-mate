@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sine di angolo tra AC e media da C in triangolo rettangolo*
+*Trovare $\sin \alpha$, angolo fra $AC$ e la mediana da $C$*
 
-> Nel triangolo $ABC$, $B$ è un angolo rettangolo e $\alpha$ è l'angolo tra $AC$ e la media da $C$ a $AB$. Trova $\sin \alpha$.
+> Nel triangolo $ABC$, $B$ è un angolo retto e $\alpha$ è l'angolo fra $AC$ e la mediana da $C$ ad $AB$. Trovare $\sin \alpha$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1991#q01|src_bmo2_1991__Q01]]
 
 
 
@@ -60,15 +67,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano alla fine
+*Prima o poi i nani non cambiano più mantello*
 
-> 12 nani vivono in una foresta. Ognuno ha un mantello a due lati che è blu da un lato e rosso dall'altro. Alcuni nani indossano costantemente il loro mantello sul lato rosso e gli altri costantemente indossano il loro mantello sul lato blu.
-> 
-> Il giorno successivo di Capodanno, ogni nano (numerato modulo 12) visiterà ciascuno dei suoi amici. Se trova una maggioranza di questi amici che indossano i loro abiti diversi dai suoi, cambierà immediatamente; altrimenti le cose continueranno come prima.
-> 
-> Prove che prima o poi non ci saranno ulteriori cambiamenti.
-> 
+> Dodici nani vivono in un bosco. Ciascuno ha un mantello a due facce, blu da un lato e rosso dall'altro. Alcuni nani portano sempre il mantello con il rosso fuori, e gli altri sempre con il blu fuori.
+>
+> Il giorno di Capodanno seguente, ciascun nano (numerato modulo 12) visiterà ciascuno dei suoi amici. Se trova che la maggioranza di questi amici porta il mantello diversamente dal suo, lo cambia subito; altrimenti le cose restano come prima.
+>
+> Dimostrare che, prima o poi, non avverranno altri cambiamenti.
+>
 > (Le amicizie sono reciproche e non cambiano.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1991#q02|src_bmo2_1991__Q02]]
 
 
 
@@ -92,9 +106,17 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con perimetro 2: prova $a^2+b^2+c^2+2abc<2$*
+*Se il perimetro è $2$, allora $a^2 + b^2 + c^2 + 2abc < 2$*
 
-> Prova che se il perimetro di un triangolo con lati $a$, $b$, $c$ è $2$, allora $$a^2 + b^2 + c^2 + 2abc < 2.$$
+> Dimostrare che, se il perimetro di un triangolo di lati $a$, $b$, $c$ è $2$, allora
+> $$a^2 + b^2 + c^2 + 2abc < 2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1991#q03|src_bmo2_1991__Q03]]
 
 
 
@@ -123,8 +145,19 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra $x,2x,\ldots,20x$ alcuni multipli contengono la cifra 2; trovare min $N$*
+*Almeno uno fra $x, 2x, \ldots, 20x$ contiene la cifra 2; stime per il minimo $N$*
 
-> $x$ sia un numero reale positivo. Prova che almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots\ ,\ 20x$$ contiene la cifra $2$ nella sua espansione decimale.
-> 
-> $N$ sia il numero intero positivo più piccolo in modo tale che, per ogni numero reale positivo $x$, almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots\ ,\ Nx$$ contenga la cifra $2$ nella sua espansione decimale. Trova i limiti inferiori e superiori per $N$ e, se possibile, trova esattamente $N$.
+> Sia $x$ un numero reale positivo. Dimostrare che almeno uno dei numeri
+> $$x,\ 2x,\ 3x,\ \ldots\ ,\ 20x$$
+> contiene la cifra $2$ nella sua espansione decimale.
+>
+> Sia $N$ il minimo intero positivo tale che, per ogni numero reale positivo $x$, almeno uno dei numeri
+> $$x,\ 2x,\ 3x,\ \ldots\ ,\ Nx$$
+> contiene la cifra $2$ nella sua espansione decimale. Trovare limiti inferiori e superiori per $N$ e, se possibile, trovare $N$ esattamente.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1991#q04|src_bmo2_1991__Q04]]

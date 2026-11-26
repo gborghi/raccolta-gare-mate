@@ -37,9 +37,15 @@ level: kangourou
 
 *Number of chocolates given to three children*
 
-> The mother gave her three children the same number of chocolates. When they each ate six, they realized that, overall, the chocolates left were as many as they each received from their mother. What is the total number of chocolates the mother gave? A) 27 B) 48 C) 36 D) 21 E) 22 Answer: A). Solution. The number sought must be such that subtracting 18 gives one third of the same number.
+> (Point 2) Mom gave her three children some chocolates—the same number to each. When each of them had eaten 6 chocolates, they realized that, in total, the number of chocolates left was the same as the number each of them had received from Mom. What is the total number of chocolates Mom gave?
+> A) 27             B) 48             C) 36             D) 21             E) 22 
+> Answer: A). Solution. The number sought must be such that, when 18 is subtracted from it, one third of the number itself is obtained.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q01|src_kangourou_2024_ecolier_semifinale__Q01]]
 
 
 
@@ -69,11 +75,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many trains the 6.00 train meets*
+*How many trains does the 6:00 train meet?*
 
-> (Points 3) Two cities A and B are connected by a railway line. The trains always travel on time in each of the two directions and take 270 minutes to get from one terminus to the other. Every day, trains depart from A every hour, the first at 6.00 and the last at 18.00; also from B trains depart every hour, but the first at 8.00 and the last at 20.00. During its journey, how many trains does the train that leaves from A at 6:00 meet? A) 1 B) 2 C) 3 D) 4 E) 5 Answer: C). The solution. 270 minutes correspond to 4 and a half hours: the train departing from A at 6.00 arrives at B at 10.30, so it meets those departing from B at 8.00, 9.00 and 10.00.
+> (Point 3) Two cities, A and B, are connected by a railway line. Trains always run on schedule in both directions and take 270 minutes to travel from one terminus to the other. Each day, trains depart from A on the hour, the first at 6:00 a.m. and the last at 6:00 p.m.; from B too, trains depart on the hour, but the first at 8:00 a.m. and the last at 8:00 p.m. During its journey, how many trains does the train that departs from A at 6:00 a.m. meet?
+> A) 1             B) 2             C) 3             D) 4             E) 5 
+> Answer: C). Solution. 270 minutes equals four and a half hours: the train that departed from A at 6:00 a.m. arrives at B at 10:30 a.m., so it meets the trains that departed from B at 8:00 a.m., 9:00 a.m., and 10:00 a.m.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q02|src_kangourou_2024_ecolier_semifinale__Q02]]
 
 
 
@@ -102,14 +114,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the three numbers thought of (Adele, Beatrice, Cecilia)*
+*Product of the three thought-of numbers (Adele, Beatrice, Cecilia)*
 
-> (3 points) Adele, Beatrice, and Cecilia each thought of a number. Adding Adele's number to Beatrice's gives 20; adding Adele's number to Cecilia's gives 24; adding all three numbers together gives 44. What is the result when multiplying the three numbers together?
->
-> A) 2024             B) 1012             C) 880             D) 440            E) 0
-> Answer: E). Solution. The sum of the three numbers equals twice Adele's number plus the other two; therefore, Adele's number must be 0.
+> (Point 3) Adele, Beatrice, and Cecilia each thought of a number. Adding Adele's number to Beatrice's gives 20; adding Adele's number to Cecilia's gives 24; adding Adele's number to Beatrice's and Cecilia's gives 44. What do you get if you multiply the three numbers together?
+> A) 2024             B) 1012             C) 880             D) 440            E) 0 
+> Answer: E). Solution. The sum of the three numbers is equal to the sum of twice Adele's number and the other two numbers; therefore, Adele's number must be 0.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q03|src_kangourou_2024_ecolier_semifinale__Q03]]
 
 
 
@@ -138,11 +153,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of digits of a 3-digit number divisible by 4*
+*Maximum sum of the digits of a 3-digit number divisible by 4*
 
-> (Points 4) Among integers that have three digits and are divisible by 4, find one such that the sum of its digits is the highest possible. What is that sum? A) 26 B) 25 C) 24 D) 23 E) 22 Answer: B). The solution. The highest possible sum of the digits of a three-digit number is 27 (999); the (even) number 998 is not divisible by 4: it is therefore necessary to decrease it by one unit again, obtaining 988 which is divisible by 4 (while 898 is not).
+> (Point 4) Among the three-digit integers divisible by 4, find the one for which the sum of its digits is as high as possible. What is the value of this sum?
+> A) 26            B) 25            C) 24              D) 23            E) 22 
+> Answer: B). Solution. The highest possible sum of the digits of a three-digit number is 27 (999); the (even) number 998 is not divisible by 4: therefore, it must be reduced by another unit, giving 988, which is divisible by 4 (whereas 898 is not).
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q04|src_kangourou_2024_ecolier_semifinale__Q04]]
 
 
 
@@ -195,7 +217,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the place of the question mark (unrelated sequences)*
+*Number in place of the question mark (unconnected consecutives)*
 
 ![[src_kangourou_2024_ecolier_semifinale__prob5.png]]
 
@@ -216,11 +238,19 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 4) Each of the numbers 1, 2, 3, 4, 5 must be placed in one of the circles in the figure (one per circle only) so that two consecutive numbers are never in two circles connected by a segment. What number should be placed in place of the question mark? A) Only 2. B) Only 3. C) 2 or 4. D) 1 or 5. E) Only 1. Answer: B). The solution. For direct verification on the five numbers. (the vertices of the rhombus must contain pairs of consecutive numbers arranged at opposite vertices)
->  
+> (Point 4) Each of the numbers 1, 2, 3, 4, 5 must be placed in one of the circles in the figure (only one number per circle) so that two consecutive numbers are never in two circles connected by a line segment. Which number should be placed in place of the question mark?
+> A) Only 2. B) Only 3. C) 2 or 4.
+> D) 1 or 5. E) Only 1.
+> Answer: B). Solution. By direct verification on the 5 numbers. (The vertices of the rhombus must contain pairs of consecutive numbers placed at opposite vertices.)
+>
 > ?
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q05|src_kangourou_2024_ecolier_semifinale__Q05]]
 
 
 
@@ -250,11 +280,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The number of stops passengers make is halved*
+*From how many stops does the number of passengers halve?*
 
-> There are 56 people on a subway train, and many stops remain before the terminus. At the next stop, one more person will get off than will get on, at the next stop two more people will get off than will get on, at the third stop three more people will get off than will get on, and so on. After how many stops will the train leave with half the number of passengers compared to the initial number? A) 7 B) 8 C) 9 D) 10 E) 12 Answer: A). Solution. You will have to lose 56: 2 = 28 passengers and at each stop you will lose one more than at the previous stop: we have 28 = 1 + 2 + ... + 7.
+> (Point 4) There are 56 people on a metro train, and many stops remain before it reaches the terminal. At the next stop, one more person will alight than will board; at the following stop, two more people will alight than will board; at the third stop, three more people will alight than will board, and so on. After how many stops will the train depart again with half as many passengers as it started with?
+> A) 7           B) 8              C) 9           D) 10            E) 12 
+> Answer: A). Solution. 56 : 2 = 28 passengers will have to be lost, and at each stop one more passenger will be lost than at the previous stop: 28 = 1 + 2 + … + 7.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q06|src_kangourou_2024_ecolier_semifinale__Q06]]
 
 
 
@@ -282,15 +318,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is certainly odd*
+*Which number is certainly odd?*
 
-> (Points 5) About the number N you know that it is an integer, but you know nothing else. Which of the following numbers is
-> certainly odd?
-> A) 17 × N             B) N × N + 17             C) (N + 1) × N + 17            D) N × N × N             E) N + 17
-> Answer: C). Solution. If N is even, D) is also even. If N is odd, A), B) and E) are even. Whatever N is,
-> (N + 1) × N is even because either N is or N + 1 is, therefore C) is odd.
+> (Point 5) You know that N is an integer, but you know nothing else. Which of the following numbers is certainly odd?
+> A) 17 × N             B) N × N + 17             C) (N + 1) × N + 17            D) N × N × N             E) N + 17 
+> Answer: C). Solution. If N is even, then D) is also even. If N is odd, then A), B), and E) are even. Regardless of N, (N + 1) × N is even because either N is even or N + 1 is even; therefore, C) is odd.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q07|src_kangourou_2024_ecolier_semifinale__Q07]]
 
 
 
@@ -414,111 +453,84 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which row is 2024 located (modular arrangement)*
+*In which row is 2024 located (modular layout)?*
 
 ![[src_kangourou_2024_ecolier_semifinale__prob8.png]]
 
-> (Points 5) Imagine listing all the integers from 1 onward, arranging them as indicated by the
-> figure, where every "vertical segment" and every "horizontal segment" of consecutive numbers
-> contains exactly 5. In which row, starting from the top, is the number 2,024 located?
-> Row 1
-> →
-> 5
-> 6
-> 7
-> 8
-> 9
->  
->  
->  
-> 21
-> 22
-> 23
-> 24
-> 25
->  
->  
->  
-> Row 2
-> →
-> 4
->  
->  
->  
+> (Point 5) Imagine listing all the whole numbers starting from 1 and arranging them as shown in the figure, where each "vertical segment" and each "horizontal segment" of consecutive numbers contains exactly 5 numbers. In which row, counting from the top, is the number 2,024 located? Row 1 → 5 6 7 8 9
+>
+>
+>
+> 21 22 23 24 25
+>
+>
+>
+> Riga 2 → 4
+>
+>
+>
 > 10
->  
->  
->  
+>
+>
+>
 > 20
->  
->  
->  
+>
+>
+>
 > 26
->  
->  
->  
-> Row 3
-> →
-> 3
->  
->  
->  
+>
+>
+>
+> Riga 3 → 3
+>
+>
+>
 > 11
->  
->  
->  
+>
+>
+>
 > 19
->  
->  
->  
+>
+>
+>
 > 27
->  
->  
->  
-> Row 4
-> →
-> 2
->  
->  
->  
+>
+>
+>
+> Riga 4 → 2
+>
+>
+>
 > 12
->  
->  
->  
+>
+>
+>
 > 18
->  
->  
->  
+>
+>
+>
 > 28
->  
->  
->  
-> Row 5
-> →
-> 1
->  
->  
->  
-> 13
-> 14
-> 15
-> 16
-> 17
->  
->  
->  
-> 29
-> 30
-> 31
-> …
-> A) The first.     B) The second.     C) The third.     D) The fourth.      E) The fifth.
-> Answer: A). Solution.  The arrangement consists of an
-> alignment of modules like the one in the figure, each of which
-> hosts 16 consecutive integers. We have 2,024 = 16 × 126 + 8: then
-> 2,024 is located in the same row as the number 8, therefore in the
-> first.
+>
+>
+>
+> Riga 5 → 1
+>
+>
+>
+> 13 14 15 16 17
+>
+>
+>
+> 29 30 31 …
+> A) The first. B) The second. C) The third. D) The fourth. E) The fifth.
+> Answer: A). Solution. The arrangement consists of an alignment of modules like the one in the figure, each of which holds 16 consecutive integers. We have 2,024 = 16 × 126 + 8: therefore, 2,024 is in the same row as the number 8, hence in the first row.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q08|src_kangourou_2024_ecolier_semifinale__Q08]]
 
 
 
@@ -587,56 +599,52 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who lied among the four little grandchildren*
+*Who lied among the four little grandchildren?*
 
-> (Points 6) The grandmother prepares some sweets; she recommends to her little grandchildren to wait to eat them and
-> goes away for a few minutes. One little grandchild disobeys and eats a sweet. The grandmother returns,
-> discovers that a sweet is missing and asks the little grandchildren: “Who was it?”
-> Angelo answers: “It wasn't me”.
-> Bruno answers: “It was Carlo”.
-> Donato answers: “It was Bruno”.
-> Carlo answers: “Donato told a lie”.
-> Only one lied. Who?
-> A) Angelo               B) Bruno               C) Carlo               D) Donato
-> E) Bruno or Donato could have lied, but it is not possible to establish it with certainty.
-> Answer: D) Sol. If the disobedient one had been Angelo, both Bruno and Donato would be lying. If it had been
-> Bruno, besides him Carlo would also be lying. If it had been Donato, besides him Bruno would be lying. So it was
-> Carlo, and it is Donato who lied.
->  
->  
->  
-> • 
->  
->  
->  
-> • 
->  
->  
->  
-> • 
->  
->  
->  
-> • 
->  
->  
->  
-> • 
->  
->  
->  
-> • 
->  
->  
->  
-> • 
->  
->  
->  
-> 
-> Open-answer questions
+> (Point 6) The grandmother prepares some little treats; she tells her little grandchildren to wait before eating them and goes away for a few minutes. One of the little grandchildren disobeys and eats a little treat. The grandmother comes back, finds that one little treat is missing, and asks the little grandchildren, "Who did it?" Angelo answers, "It wasn't me." Bruno answers, "It was Carlo." Donato answers, "It was Bruno." Carlo answers, "Donato told a lie." Only one person lied. Who?
+> A) Angelo B) Bruno C) Carlo D) Donato
+> E) Either Bruno or Donato might have lied, but it cannot be determined with certainty.
+> Answer: D) Sol. If the disobedient one had been Angelo, both Bruno and Donato would have lied. If it had been Bruno, besides him, Carlo would also have lied. If it had been Donato, besides him, Bruno would also have lied. So it was Carlo, and it was Donato who lied.
+>
+>
+>
+> •
+>
+>
+>
+> •
+>
+>
+>
+> •
+>
+>
+>
+> •
+>
+>
+>
+> •
+>
+>
+>
+> •
+>
+>
+>
+> •
+>
+>
+>
+>
+> Open-ended questions
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q09|src_kangourou_2024_ecolier_semifinale__Q09]]
 
 
 
@@ -663,11 +671,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of digits of a digital clock*
+*Maximum sum of the digits on a digital clock*
 
-> A digital clock displays the hours with four digits: for example, if it is 3 and 12 in the afternoon, it shows 15:12, and the sum of the digits shown is 9. In the course of a day, what is the largest possible sum of the digits that the clock can show at any given moment? The answer is 0024. Solution. The maximum of the sum of the hour numbers is 10, which is done with 19, the sum of the minute numbers is 14, which is done with 59.
+> (Point 4) A digital clock displays the hours using four digits: for example, at 3:12 p.m. it displays 15:12, and the sum of the digits shown is 9. Over the course of a day, what is the greatest possible sum of the digits that the clock can display at any given moment? Answer: 0024. Solution. The maximum sum of the digits of the hour is 10, which is achieved with 19; the maximum sum of the digits of the minutes is 14, which is achieved with 59.
 
-**Answer:** 0024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q10|src_kangourou_2024_ecolier_semifinale__Q10]]
 
 
 
@@ -695,11 +707,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In how many years will the sum of the children's ages equal the father's age
+*After how many years will the combined ages of the children equal the father's age?*
 
-> Today, May 25, Samuel turns 31 and his three sons turn 2, 4, and 7. In how many years, on the date of their birthday, will the sum of the ages of Samuel's sons coincide with the age of their father? Answer: 0009. Solution. By direct or graphical check or by observing that the double of the waiting years must fill the difference between 31 and 2 + 4 + 7 (Samuel's age increases with the age of each of his children).
+> (Point 4) Today, May 25, Samuele turns 31, and his three children turn 2, 4, and 7 years old, respectively. In how many years, on their birthdays, will the sum of Samuele's children's ages equal their father's age? Answer: 0009. Solution. By direct checking or graphically, or by noting that twice the number of years to wait must make up the difference between 31 and 2 + 4 + 7 (Samuele's age increases in step with each of his children's ages).
 
-**Answer:** 0009
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q11|src_kangourou_2024_ecolier_semifinale__Q11]]
 
 
 
@@ -728,13 +744,13 @@ In how many years will the sum of the children's ages equal the father's age
 
 *Last four digits of the first lively number > 598764*
 
-> (6 points) Call "lively" any number that, like 598,764, can be written using six 
-> consecutive digits, even if not listed in their natural order. Determine the first lively number 
-> greater than 598,764 and write its last four digits on the right. 
-> Answer: 2345. Solution.  It is clear that the sought number cannot start with 5. Since it must start with 6, one 
-> immediately obtains 612,345.
+> (Point 6) Call "lively" any number that, like 598,764, can be written using six consecutive digits, even if they are not listed in their natural order. Determine the first lively number greater than 598,764 and write its last four digits on the right. Answer: 2345. Solution. It is clear that the number sought cannot start with 5. Since it must start with 6, we immediately get 612,345.
 
-**Answer:** 2345
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q12|src_kangourou_2024_ecolier_semifinale__Q12]]
 
 
 
@@ -762,11 +778,16 @@ In how many years will the sum of the children's ages equal the father's age
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stamps in the first envelope (recurrence backwards)*
+*Stamps in the first envelope (retrospective anniversary)*
 
-> (Points 6) There are six numbered envelopes lined up: from the third onward, each contains as many stamps as the two immediately preceding ones combined. The sixth contains 71 stamps, the fifth contains 43. How many stamps does the first one have? Answer: 0002. Solution. Proceeding backwards, the fourth contains 71 - 43 = 28, the third 43 - 28 = 15, the second 28 - 15 = 13, the first 15 - 13 = 2.
+> (Point 6) There are six numbered envelopes arranged in a row: from the third onward, each contains as many stamps as the two immediately preceding ones contain in total. The sixth contains 71 stamps, and the fifth contains 43. How many stamps does the first contain? Answer: 0002. Solution. Working backwards, the fourth contains 71 – 43 = 28 stamps, the third contains 43 – 28 = 15 stamps, the second contains 28 – 15 = 13 stamps, and the first contains 15 – 13 = 2 stamps.
 
-**Answer:** 0002
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q13|src_kangourou_2024_ecolier_semifinale__Q13]]
 
 
 
@@ -797,18 +818,16 @@ In how many years will the sum of the children's ages equal the father's age
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways can 1..8 be split into pairs with a constant difference*
+*In how many ways can 1..8 be partitioned into pairs with a constant difference?*
 
-> (Points 8) You want to split the set of numbers 1, 2, 3, 4, 5, 6, 7, 8 into four pairs of numbers such
-> that the difference between the larger and the smaller of the numbers in each pair is always the same. In how many
-> different ways can you do it?
-> Answer: 0003. Solution.  The differences to consider are only 1, 2, 3 and 4: the number 4 has no
-> difference greater than 4 with any of the others. Each possible difference determines one and only one partition.
-> For 1 we have the pairs {1, 2}, {3, 4}, {5, 6}, {7, 8}; for 2 we have the pairs {1, 3}, {2, 4}, {5, 7}, {6, 8};
-> for 4 we have the pairs {1, 5}, {2, 6}, {3, 7}, {4, 8}. With 3 it is not possible to proceed: both 2 and 8 would have
-> to be paired with 5.
+> (Point 8) You want to partition the set of numbers 1, 2, 3, 4, 5, 6, 7, 8 into four pairs of numbers such that the difference between the larger and the smaller number in each pair is always the same. In how many different ways can you do this? Answer: 0003. Solution. The differences to consider are only 1, 2, 3, and 4: the number 4 has a difference no greater than 4 with any of the other numbers. Each possible difference determines exactly one partition. For a difference of 1, we have the pairs {1, 2}, {3, 4}, {5, 6}, {7, 8}; for a difference of 2, we have the pairs {1, 3}, {2, 4}, {5, 7}, {6, 8}; for a difference of 4, we have the pairs {1, 5}, {2, 6}, {3, 7}, {4, 8}. With a difference of 3, it is not possible to proceed: both 2 and 8 would have to be paired with 5.
 
-**Answer:** 0003
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q14|src_kangourou_2024_ecolier_semifinale__Q14]]
 
 
 
@@ -836,8 +855,13 @@ In how many years will the sum of the children's ages equal the father's age
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product of 9 numbers 2 or 3 between 600 and 1000
+*Product of 9 numbers, each being 2 or 3, between 600 and 1000*
 
-> (Points 8) I've multiplied 9 numbers between them: each of them is 2 or 3. The result of this operation is a number between 600 and 1,000: what is this number? The answer is 0768. The solution. You have 29 = 512 < 600, so at least one of the factors must be 3. On the other hand, if at least two factors were 3, the product would be greater than or equal to 9 × 27 > 1000. So 8 factors are 2 and only one is 3, with 768 as the result of the operation.
+> (Point 8) I multiplied 9 numbers together: each of them is either 2 or 3. The result of this operation is a number between 600 and 1,000: what is this number? Answer: 0768. Solution. We have 2^9 = 512 < 600, so at least one of the factors must be 3. On the other hand, if at least two factors were 3, the product would be greater than or equal to 9 × 27 > 1,000. Therefore, 8 factors are 2 and only one is 3, with 768 as the result of the operation.
 
-**Answer:** 0768
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_semifinale#q15|src_kangourou_2024_ecolier_semifinale__Q15]]

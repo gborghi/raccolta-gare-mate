@@ -30,11 +30,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare un'espressione simmetrica in x,y su (0,1)*
+*Massimizza un'espressione simmetrica in x,y su (0,1)*
 
-> Dato che $0 < x$, $y < 1$ determinano, con prova, il valore massimo di $\frac{xy(1-x-y)}{(x+y)(1-x)(1-y)}$.
+> Dato che $0 < x$, $y < 1$, determina, con dimostrazione, il valore massimo di $\frac{xy(1-x-y)}{(x+y)(1-x)(1-y)}$.
 
-**Risposta:** \frac{1}{8}
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2011#q01|src_cn_cwmo_2011__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grandezza massima del sottogruppo di {1,...,2011} con proprietà della catena di divisibilità*
+*Dimensione massima di un sottoinsieme di {1,...,2011} con la proprietà della catena di divisibilità*
 
-> Se $M \subseteq \{1, 2, \ldots, 2011\}$ è un sottoinsieme che soddisfa la seguente condizione: Per tutti e tre gli elementi di $M$, esistono due di essi $a$ e $b$, quali $a \mid b$ o $b \mid a$. Determinare, con prova, il valore massimo di $|M|$, dove $|M|$ indica il numero di elementi di $M$.
+> Sia $M \subseteq \{1, 2, \ldots, 2011\}$ un sottoinsieme che soddisfa la seguente condizione. Per qualsiasi terna di elementi in $M$, esistono due di essi, $a$ e $b$, tali che $a \mid b$ oppure $b \mid a$. Determinare, con dimostrazione, il valore massimo di $|M|$, dove $|M|$ denota il numero di elementi di $M$.
 
-**Risposta:** 21
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2011#q02|src_cn_cwmo_2011__Q02]]
 
 
 
@@ -90,15 +100,20 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangere tutti i sottoinsiemi in una sequenza e calcolare una somma che coinvolga le somme del sottoinsieme*
+*Disponi tutti i sottoinsiemi in una sequenza e calcola una somma che coinvolga le somme dei sottoinsiemi*
 
-> $n \ge 2$ sia un dato numero intero.
-> 
-> (1) Prove che tutti i sottogruppi del set $\{1, 2, \ldots, n\}$ possono essere organizzati come una sequenza di sottogruppi $A_1, A_2, \ldots, A_{2^n}$, come $|A_{i+1}| = |A_i| + 1$ o $|A_{i+1}| = |A_i| - 1$, dove $i = 1, 2, \ldots, 2^n$ e $A_{2^n+1} = A_1$.
-> 
-> (2) Determinare, con la prova, tutti i valori possibili della somma $\displaystyle\sum_{i=1}^{2^n} (-1)^{|S|} S(A_i)$, dove $S(A_i) = \displaystyle\sum_{x \in A_i} x$ e $S(\emptyset) = 0$ per qualsiasi sequenza del sottogruppo $A_1, A_2, \ldots, A_{2^n}$ che soddisfi la condizione di (1).
+> Sia $n \ge 2$ un intero dato.
+>
+> (1) Dimostrare che si possono disporre tutti i sottoinsiemi dell'insieme $\{1, 2, \ldots, n\}$ in una successione di sottoinsiemi $A_1, A_2, \ldots, A_{2^n}$, tale che $|A_{i+1}| = |A_i| + 1$ oppure $|A_{i+1}| = |A_i| - 1$, dove $i = 1, 2, \ldots, 2^n$ e $A_{2^n+1} = A_1$.
+>
+> (2) Determinare, con dimostrazione, tutti i valori possibili della somma $\displaystyle\sum_{i=1}^{2^n} (-1)^{|S|} S(A_i)$, dove $S(A_i) = \displaystyle\sum_{x \in A_i} x$ e $S(\emptyset) = 0$ per qualsiasi successione di sottoinsiemi $A_1, A_2, \ldots, A_{2^n}$ che soddisfi la condizione di (1).
 
-**Risposta:** 0
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2011#q03|src_cn_cwmo_2011__Q03]]
 
 
 
@@ -123,11 +138,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo con accordi perpendicolari, circolo tangente interno; dimostrare una tangenza*
+*Cerchio con corde perpendicolari, cerchio tangente interno; dimostrare una tangenza*
 
-> Come mostrato nella figura, $AB$ e $CD$ sono due accordi nel cerchio $\odot O$, che si incontrano al punto $E$ e $AB \perp CD$. $\odot I$ è tangente a $\odot O$ internamente al punto $F$, ed è tangente agli accordi $AB$ e $CD$ rispettivamente ai punti $G$ e $H$. $l$ è una linea che attraversa $O$, che incontra $AB$, $CD$ rispettivamente nei punti $P$ e $Q$, in modo tale che $EP = EQ$. La linea $l$ incontra la linea $EF$ al punto $M$. Prove che la linea attraverso $M$ e parallela alla linea $AB$ è tangente al cerchio $\odot O$.
+> Come mostrato nella figura, $AB$ e $CD$ sono due corde della circonferenza $\odot O$, che si intersecano nel punto $E$, e $AB \perp CD$. $\odot I$ è tangente a $\odot O$ internamente nel punto $F$, ed è tangente alle corde $AB$ e $CD$ nei punti $G$ e $H$, rispettivamente. $l$ è una retta che passa per $O$ e interseca $AB$ e $CD$ nei punti $P$ e $Q$, rispettivamente, in modo che $EP = EQ$. La retta $l$ interseca la retta $EF$ nel punto $M$. Dimostrare che la retta passante per $M$ e parallela alla retta $AB$ è tangente alla circonferenza $\odot O$.
 
 ![[src_cn_cwmo_b11_w244__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2011#q04|src_cn_cwmo_2011__Q04]]
 
 
 
@@ -151,11 +173,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se esistono prime odd n ≥3 e n distinte con tutti i prodotti consecutivi a quadrati perfetti*
+*Determinare se esistono n dispari, n≥3, e n numeri primi distinti tali che tutti i prodotti di due elementi consecutivi siano quadrati perfetti*
 
-> Determinare se ci sono numeri interi unici $n \ge 3$ e $n$ distinti prime $p_1, p_2, \ldots, p_n$, in modo che tutti $p_i \cdot p_{i+1}$ ($1 \le i \le n$ e $p_{n+1} = p_1$) siano quadrati perfetti.
+> Determinare se esista un intero dispari $n \ge 3$ e se esistano numeri primi distinti $n$, $p_1, p_2, \ldots, p_n$, tali che tutti gli $p_i \cdot p_{i+1}$ ($1 \le i \le n$ e $p_{n+1} = p_1$) siano quadrati perfetti.
 
-**Risposta:** No
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2011#q05|src_cn_cwmo_2011__Q05]]
 
 
 
@@ -178,6 +205,13 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie di numeri interi (a,b) con n. a^n + b^(n+1) per tutti n*
+*Trovare tutte le coppie di interi (a,b) tali che n | a^n + b^(n+1) per ogni n*
 
-> Determinare, con la prova, tutte le coppie $(a, b)$ di enti interi, in modo tale che per qualsiasi numero intero positivo $n$ si abbia $n \mid (a^n + b^{n+1})$. (Possibile da Chen Yonggao)
+> Determinare, con dimostrazione, tutte le coppie $(a, b)$ di interi tali che, per ogni intero positivo $n$, si abbia $n \mid (a^n + b^{n+1})$. (proposto da Chen Yonggao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2011#q06|src_cn_cwmo_2011__Q06]]

@@ -32,9 +32,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedri che condividono una vertice; centro uguale al centroide; confronta i volumi*
+*$VA$, $VB$, $VC$ in funzione dei lati, e quale tetraedro ha volume maggiore*
 
-> $VLMN$ e $VABC$ sono tetraedri con $A$, $B$, $C$ su $VL$, $VM$, $VN$ prodotte se necessario. Il centro del triangolo $LMN$ coincide con il centroide del triangolo $ABC$. (i) Determinare $VA$, $VB$, $VC$ in termini di lati del triangolo $LMN$ e $VL$, $VM$, $VN$. (ii) Determinare la condizione che i tetraedri abbiano volumi uguali. (iii) Se i tetraedri hanno volumi diseguali, determinare, con la prova, quale ha il volume maggiore.
+> $VLMN$ e $VABC$ sono tetraedri con $A$, $B$, $C$ su $VL$, $VM$, $VN$, prolungati se occorre. L'incentro del triangolo $LMN$ coincide con il baricentro del triangolo $ABC$.
+> (i) Determinare $VA$, $VB$, $VC$ in funzione dei lati del triangolo $LMN$ e di $VL$, $VM$, $VN$.
+> (ii) Determinare la condizione affinché i tetraedri abbiano volumi uguali.
+> (iii) Se i tetraedri hanno volumi diversi, determinare, con dimostrazione, quale ha il volume maggiore.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1979-80_round2#q01|src_bmo_1979-80_round2__Q01]]
 
 
 
@@ -58,9 +68,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri primi in una sequenza di numeri interi definita*
+*Tutti i numeri primi nella successione $\{u_n\}$*
 
-> Determinare, con prova, tutti i numeri primi della sequenza $\{u_n\}$ di numeri interi definiti da $$u_0 = 2, \quad u_1 = a, \quad u_{n+1} = a u_n - u_{n-1} \qquad (n \ge 0).$$
+> Determinare, con dimostrazione, tutti i numeri primi nella successione $\{u_n\}$ di interi definita da
+> $$u_0 = 2, \quad u_1 = a, \quad u_{n+1} = a u_n - u_{n-1} \qquad (n \ge 0).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1979-80_round2#q02|src_bmo_1979-80_round2__Q02]]
 
 
 
@@ -85,9 +103,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare una disuguaglianza per i numeri reali con condizione di uguaglianza*
+*La disuguaglianza, con uguaglianza se e solo se $a_i = a_n$*
 
-> Dimostra che se $a_0 = 0$, $a_1$, $a_2$, $\ldots$, $a_n$ sono numeri reali, allora $$\sum_{i=1}^{n} a_i(a_{i-1} - a_i) \le \tfrac{1}{4}\sum_{i=1}^{n}(a_i - a_{i-1})^2,$$ tenuta di uguaglianza se e solo se $a_i = a_n$ $(0 \le i \le n).$
+> Dimostrare che se $a_0 = 0$, $a_1$, $a_2$, $\ldots$, $a_n$ sono numeri reali, allora
+> $$\sum_{i=1}^{n} a_i(a_{i-1} - a_i) \le \tfrac{1}{4}\sum_{i=1}^{n}(a_i - a_{i-1})^2,$$
+> con uguaglianza se e solo se $a_i = a_n$ $(0 \le i \le n).$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Metodo telescopico]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1979-80_round2#q03|src_bmo_1979-80_round2__Q03]]
 
 
 
@@ -110,6 +137,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Torneo di ponte: ogni coppia è avversaria esattamente una volta
+*Si può fare se e solo se $n = 4m+1$*
 
-> Dato un insieme di persone $n$, è desideroso organizzare una serie di giochi di bridge in modo tale che ogni due persone $n$ giocino come avversari in esattamente una partita. Mostrare che questo può essere fatto se e solo se $n$ è di forma $n = 4m+1$, dove $m$ è un intero positivo. (Non vi è alcuna limitazione sul numero di volte, se del caso, in cui due persone giocano come partner.)
+> Dato un insieme di $n$ persone, si vuole organizzare una serie di partite di bridge in modo che ogni due delle $n$ persone giochino come avversari in esattamente una partita. Dimostrare che ciò si può fare se e solo se $n$ è della forma $n = 4m+1$, dove $m$ è un intero positivo. (Non c'è restrizione sul numero di volte, se ce n'è, in cui due persone giocano come compagni.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1979-80_round2#q04|src_bmo_1979-80_round2__Q04]]

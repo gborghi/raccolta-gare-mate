@@ -32,9 +32,20 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum della somma ciclica delle differenze quadrate sotto vincoli di distanza*
+*Minimo di una somma di quadrati, data una relazione sui reali*
 
-> $n \ge 2$ sia un numero intero. I numeri reali $a_1, a_2, \ldots, a_{2n}$ soddisfano $$|a_k - a_{n+k}| \ge 1$$ per ogni numero intero $k$ con $1 \le k \le n$. Trova il valore minimo di $$(a_1 - a_2)^2 + (a_2 - a_3)^2 + \cdots + (a_{2n-1} - a_{2n})^2 + (a_{2n} - a_1)^2.$$
+> Sia $n \ge 2$ un intero. Numeri reali $a_1, a_2, \ldots, a_{2n}$ soddisfano
+>
+> $$|a_k - a_{n+k}| \ge 1$$
+>
+> per ogni intero $k$ con $1 \le k \le n$. Trovare il minimo valore di
+>
+> $$(a_1 - a_2)^2 + (a_2 - a_3)^2 + \cdots + (a_{2n-1} - a_{2n})^2 + (a_{2n} - a_1)^2.$$
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo35hq_honsen#q01|src_jmo35hq_honsen__Q01]]
 
 
 
@@ -57,9 +68,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcenti di sotto-triangoli con circoncentro; prova di collinearietà*
+*Tre punti sono allineati*
 
-> $ABC$ sia un triangolo acuto con il centro circundante $O$. $O_1$ e $O_2$ siano rispettivamente i circoncentri dei triangoli $ABO$ e $ACO$. Il circoncircolo del triangolo $AO_1O_2$ incontra la linea $BC$ a due punti distinti $P$ e $Q$. Lasciate che $O_3$ sia il centro circundante del triangolo $OPQ$. Prove che i tre punti $A$, $O$ e $O_3$ sono collineari.
+> Sia $ABC$ un triangolo acutangolo di circocentro $O$. Siano $O_1$ e $O_2$ i circocentri dei triangoli $ABO$ e $ACO$ rispettivamente. La circonferenza circoscritta al triangolo $AO_1O_2$ incontra la retta $BC$ in due punti distinti $P$ e $Q$. Sia $O_3$ il circocentro del triangolo $OPQ$. Dimostrare che i tre punti $A$, $O$, $O_3$ sono allineati.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo35hq_honsen#q02|src_jmo35hq_honsen__Q02]]
 
 
 
@@ -86,13 +102,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum n tripli coprono tutti i tripli consecutivi in qualsiasi sequenza da 1 a 100*
+*Minimo numero di terne di interi che soddisfano una condizione sulle successioni*
 
-> $n$ sia un numero intero positivo. Supponiamo che $n$ tripli di integri $(x_1, y_1, z_1),\,(x_2, y_2, z_2),\,\ldots,\,(x_n, y_n, z_n)$, ciascuno con $1 \le x_j, y_j, z_j \le 100$, soddisfino la seguente condizione:
-> 
-> \textit{Per ogni sequenza infinita $a_1, a_2, \ldots$ di numeri interi con $1 \le a_i \le 100$ per tutti $i \ge 1$, e per ogni intero positivo $i$, esiste un intero $j$ con $1 \le j \le n$ tale che $(a_i, a_{i+1}, a_{i+2}) = (x_j, y_j, z_j)$.}
-> 
-> Trova il valore minimo possibile di $n$.
+> Sia $n$ un intero positivo. Si supponga che $n$ terne di interi $(x_1, y_1, z_1),\,(x_2, y_2, z_2),\,\ldots,\,(x_n, y_n, z_n)$, ciascuna con $1 \le x_j, y_j, z_j \le 100$, soddisfino la condizione seguente.
+>
+> \textit{Per ogni successione infinita $a_1, a_2, \ldots$ di interi con $1 \le a_i \le 100$ per tutti i $i \ge 1$, e per ogni intero positivo $i$, esiste un intero $j$ con $1 \le j \le n$ tale che $(a_i, a_{i+1}, a_{i+2}) = (x_j, y_j, z_j)$.}
+>
+> Trovare il minimo valore possibile di $n$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo35hq_honsen#q03|src_jmo35hq_honsen__Q03]]
 
 
 
@@ -119,9 +140,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore intero con f(n)>0 e f(n) divisi n^{f(n)}-1*
+*Funzioni a valori interi positivi che soddisfano due condizioni*
 
-> Trova tutte le funzioni $f$ definite su enti $n \ge 2$ che assumono valori interi positivi in modo tale che entrambe le seguenti condizioni si applichino a tutti gli enti $n \ge 2$: \begin{itemize} \item $f(n) > 0$, \item $f(n) \mid n^{f(n)} - 1$. # Finire #
+> Determinare tutte le funzioni $f$ definite sugli interi $n \ge 2$, a valori interi positivi, tali che valgano entrambe le condizioni seguenti per tutti gli interi $n \ge 2$:
+> \begin{itemize}
+> \item $f(n) > 0$,
+> \item $f(n) \mid n^{f(n)} - 1$.
+> \end{itemize}
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo35hq_honsen#q04|src_jmo35hq_honsen__Q04]]
 
 
 
@@ -153,6 +183,22 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti interni tramite bisettori angolari; i riflessi producono triangoli simili*
+*Due triangoli sono simili*
 
-> Che il $ABC$ sia un triangolo acuto non isosceles. Ci sono tre punti distinti $A_1$, $B_1$, $C_1$ all'interno del triangolo $ABC$ che soddisfano $$AB_1 : CB_1 = AB : CB \quad \text{and} \quad AC_1 : BC_1 = AC : BC.$$ Che $A_2$ sia il riflesso di $A_1$ sulla linea $BC$, che $B_2$ sia il riflesso di $B_1$ sulla linea $AC$, e che $C_2$ sia il riflesso di $C_1$ sulla linea $AB$. Le seguenti condizioni si applicano tutte: \begin{itemize} \item I quattro punti $A$, $A_2$, $B$, $C_2$ sono conciclici. \item I quattro punti $A$, $A_2$, $B_2$, $C$ sono conciclici. \item I quattro punti $B$, $B_2$, $C$, $C_2$ sono conciclici. \item Nessuno dei punti $A_2$, $B_2$, $C_2$ si trova sul circoncircolo del triangolo $ABC$. \end{itemize} Prova che il triangolo $A_1B_1C_1$ è simile al triangolo $A_2B_2C_2$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $ABC$ un triangolo acutangolo non isoscele. Ci sono tre punti distinti $A_1$, $B_1$, $C_1$ nell'interno del triangolo $ABC$ che soddisfano
+>
+> $$AB_1 : CB_1 = AB : CB \quad \text{and} \quad AC_1 : BC_1 = AC : BC.$$
+>
+> Sia $A_2$ il simmetrico di $A_1$ rispetto alla retta $BC$, sia $B_2$ il simmetrico di $B_1$ rispetto alla retta $AC$, e sia $C_2$ il simmetrico di $C_1$ rispetto alla retta $AB$. Valgono tutte le condizioni seguenti:
+> \begin{itemize}
+> \item i quattro punti $A$, $A_2$, $B$, $C_2$ sono conciclici;
+> \item i quattro punti $A$, $A_2$, $B_2$, $C$ sono conciclici;
+> \item i quattro punti $B$, $B_2$, $C$, $C_2$ sono conciclici;
+> \item nessuno dei punti $A_2$, $B_2$, $C_2$ sta sulla circonferenza circoscritta al triangolo $ABC$.
+> \end{itemize}
+> Dimostrare che il triangolo $A_1B_1C_1$ è simile al triangolo $A_2B_2C_2$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo35hq_honsen#q05|src_jmo35hq_honsen__Q05]]

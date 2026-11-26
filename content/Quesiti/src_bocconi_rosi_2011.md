@@ -31,11 +31,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Luxury machinery cost versus savings*
+*Cost of luxury cars vs. savings*
 
-> Today Mark feels particularly rich and is ready to invest his savings. So he learned about the prices of some cars and learned that buying two luxury cars, one medium-cylinder and two vintage, costs 176,000 euros. On the other hand, if you buy three luxury cars, two medium-cylinder and one vintage, you would spend a total of 197,000 euros. How much will you spend if you're content with one luxury car and three vintage cars?
+> Today Marco feels particularly wealthy and is ready to invest his savings. So he looked into the prices of some cars and found out that if he buys two luxury cars, one medium-sized car, and two classic cars, he will spend 176,000 euros. If, on the other hand, he buys three luxury cars, two medium-sized cars, and one classic car, he would spend a total of 197,000 euros. **So how much will he spend if he settles for one luxury car and three classic cars?**
 
-**Answer:** 155.000 Euro
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2011#q01|src_bocconi_rosi_2011__Q01]]
 
 
 
@@ -61,13 +66,18 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count triangles in the figure*
+*Count the triangles in the figure*
 
-> **How many triangles do you see in the figure? **
+> How many triangles do you see in the figure?
 
 ![[src_bocconi_rosi_2011__q02.png]]
 
-**Answer:** 16
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2011#q02|src_bocconi_rosi_2011__Q02]]
 
 
 
@@ -91,11 +101,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers distinguished by 1,2,3,4,5*
+*Three-digit numbers with distinct digits using 1, 2, 3, 4, 5*
 
-> **How many distinct three-digit numbers can be formed with the digits $1, 2, 3, 4, 5$?**
+> **How many three-digit numbers with distinct digits can be formed using the digits $1, 2, 3, 4, 5$?**
 
-**Answer:** 60
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2011#q03|src_bocconi_rosi_2011__Q03]]
 
 
 
@@ -119,11 +134,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers (repeated) with 1,2,3,4,5*
+*Three-digit numbers (with repetition) using 1, 2, 3, 4, 5*
 
-> **How many three-digit numbers can be formed with the digits $1, 2, 3, 4, 5$?**
+> **How many three-digit numbers can be formed using the digits $1, 2, 3, 4, 5$?**
 
-**Answer:** 125
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2011#q04|src_bocconi_rosi_2011__Q04]]
 
 
 
@@ -148,11 +168,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Potatoes of travellers distributed to third parties*
+*Travelers' potatoes divided into thirds*
 
-> Three endless travelers finally arrive at a restaurant and ask for a plate of potatoes. When the host brings them, the first finds them already asleep. Then leave the plate on the table. One in three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point a second traveler wakes up, eats a third of the potatoes left in the plate, and then he falls asleep again. Shortly afterward the third traveler wakes up, unaware that his adventure companions have already served themselves, and he also eats a third of the potatoes left in the dish. When the host comes to pick up the dish, he finds it still contains eight potatoes. How many potatoes did you bring first?
+> Three travelers, infinite in number, finally arrive at an inn and ask for a dish of potatoes. When the innkeeper brings them, the first one finds some potatoes already asleep. He then leaves the dish on the table. One of the three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point, a second traveler wakes up, eats a third of the potatoes left in the dish, and then he too falls asleep again. Shortly afterward, the third traveler wakes up; unaware that his fellow adventurers have already helped themselves, he too eats a third of the potatoes left in the dish. When the innkeeper comes to collect the dish, he finds that it still contains 8 potatoes. **How many potatoes did he bring initially?**
 
-**Answer:** 27
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2011#q05|src_bocconi_rosi_2011__Q05]]
 
 
 
@@ -178,13 +203,17 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AC diagonal on four aligned equilateral triangles*
+*Diagonal AC on four aligned equilateral triangles*
 
-> The figure consists of four equilateral triangles with sides of 1 m. **Calculate the length of the diagonal $AC$.**
+> The figure consists of four equilateral triangles with sides measuring 1 m. **Calculate the length of the diagonal $AC$.**
 
 ![[src_bocconi_rosi_2011__q06.png]]
 
-**Answer:** $\sqrt{3} = 1{,}732$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2011#q06|src_bocconi_rosi_2011__Q06]]
 
 
 
@@ -209,13 +238,17 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of area dark square to large square*
+*Ratio of dark square area to large square area*
 
-> **Express with a fraction the ratio of the area of the dark square to that of the whole square.**
+> Express as a fraction the ratio of the area of the dark square to the area of the whole square.
 
 ![[src_bocconi_rosi_2011__q07.png]]
 
-**Answer:** $\frac{5}{9}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2011#q07|src_bocconi_rosi_2011__Q07]]
 
 
 
@@ -241,13 +274,17 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A white area between three concentric circles*
+*Area of the white zone between three concentric circles*
 
-> The intermediate circle in the figure has a radius twice that of the small circle. Instead, the larger circle has a radius three times that of the smaller circle. Knowing that the large circle has an area equal to $1.113 \text{ cm}^2$, what is the area of the white area?
+> The intermediate circle shown in the figure has a radius twice that of the small circle. The largest circle, however, has a radius three times that of the small circle. Given that the large circle has an area equal to $1.113 \text{ cm}^2$, what is the area of the white region?
 
 ![[src_bocconi_rosi_2011__q08.png]]
 
-**Answer:** $371 \text{ cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2011#q08|src_bocconi_rosi_2011__Q08]]
 
 
 
@@ -271,11 +308,15 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres in the batch which initially contained more*
+*Liters in the barrel that initially held more of them*
 
-> Two (precious) barrels contain a total of 350 litres of Brunello di Montalcino. Taking 20 liters from the first bottle and 80 from the second, the wine left in the two bottles is the same (the same number of liters). How many liters were in the box that initially contained more?
+> Two (precious) casks contain, in total, 350 litres of Brunello di Montalcino. If 20 litres are removed from the first cask and 80 from the second, the wine remaining in the two casks is the same (the same number of litres). **How many litres were there in the cask that initially held the most?**
 
-**Answer:** 205 liters
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2011#q09|src_bocconi_rosi_2011__Q09]]
 
 
 
@@ -299,11 +340,15 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of Deborah with constraints on three twins*
+*Deborah's age with constraints on three twins*
 
-> Deborah, Jacob, and Luke have a combined age of 32. Jacob and Luke are twins, while Deborah was born 4 years after Luke. What is Deborah's age?
+> Debora, Jacopo, and Luca are together 32 years old. Jacopo and Luca are twins, while Debora was born 4 years after Luca. **How old is Debora?**
 
-**Answer:** 8 years
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2011#q10|src_bocconi_rosi_2011__Q10]]
 
 
 
@@ -328,11 +373,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-Chocolates received from Carla in the second distribution*
+*Chocolates received from Carla in the second distribution*
 
-> Deborah, Jacob, and Luke went to visit their cousins Carla and Milena. Uncle Desiderio, to celebrate the meeting, distributed some chocolates to everyone: Debora had 7, Jacob 3, Luke 2, Carla 8 and Milena 9. At this point, Desiderio had 21 chocolates left to distribute and he wants to do so so that after this second distribution, all cousins have the same number of chocolates. How many chocolates has Carla (in the second order) received?
+> Debora, Jacopo, and Luca went to visit their cousins Carla and Milena. To celebrate the reunion, Uncle Desiderio handed out some chocolates to everyone: Debora got 7, Jacopo 3, Luca 2, Carla 8, and Milena 9. At this point, Desiderio still had 21 chocolates to distribute, and he wants to do it in such a way that, after this second distribution, all the cousins end up with the same number of chocolates. **How many more chocolates did Carla receive (in the second distribution)?**
 
-**Answer:** 2 chocolates
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2011#q11|src_bocconi_rosi_2011__Q11]]
 
 
 
@@ -356,11 +406,15 @@ Chocolates received from Carla in the second distribution*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Places in Liliana's favourite film
+*Posts in Liliana's favorite cinema*
 
-> Liliana's favorite movie theater, when it's 40 percent empty, has 72 fewer viewers than when it's 80 percent full. How many seats does Liliana's favorite movie have?
+> When it is 40% empty, the cinema hall that Liliana prefers has 72 fewer spectators than when it is 80% full. **How many seats does Liliana's favorite cinema have?**
 
-**Answer:** 360 seats
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2011#q12|src_bocconi_rosi_2011__Q12]]
 
 
 
@@ -384,11 +438,15 @@ Places in Liliana's favourite film
 <div class="qlang-split" data-lang="en"></div>
 
 
-The cost of the lost book in the classroom library
+*Cost of a lost book in the class library*
 
-> At the beginning of the year, the classroom library consisted of 20 books. Their average cost was 30 euros each. At the end of the year, unfortunately, one book was lost and now the average cost of each book has risen to 31 euros. How much did the lost book cost?
+> At the beginning of the year, the class library consisted of 20 books. Their average cost was 30 euros each. At the end of the year, unfortunately, one book was lost, and now the average cost of each book has risen to 31 euros. **How much did the lost book cost?**
 
-**Answer:** 11 Euro
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2011#q13|src_bocconi_rosi_2011__Q13]]
 
 
 
@@ -413,11 +471,16 @@ The cost of the lost book in the classroom library
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nando's arrival time is late*
+*Nando's arrival time: late*
 
-> The appointment was for 3:00 p.m. but Peter's friends are all late. One with a delay of 47 minutes, another with a delay of half an hour, another with a delay of 35 minutes, another with a delay of 20 minutes, another with a delay of 25 minutes, another with an hour and 10 minutes, another with a delay of 53 minutes. Nando came in third. What time did Nando arrive yesterday?
+> The appointment was set for 3:00 p.m., but all the friends invited by Pietro arrive late. One is 47 minutes late, another half an hour late, another 35 minutes late, another 20 minutes late, another 25 minutes late, another an hour and 10 minutes late, and finally one more is 53 minutes late. Nando arrived third. **What time did Nando arrive yesterday?**
 
-**Answer:** 15.30
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2011#q14|src_bocconi_rosi_2011__Q14]]
 
 
 
@@ -445,11 +508,15 @@ The cost of the lost book in the classroom library
 
 *Three out of five surfaces of equal area*
 
-> Three of the five surfaces in the figure have the same area. **What are they? **
+> Three of the five surfaces shown in the figure have the same area. **Which ones are they?**
 
 ![[src_bocconi_rosi_2011__q15.png]]
 
-**Answer:** $1 - 2 - 5$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2011#q15|src_bocconi_rosi_2011__Q15]]
 
 
 
@@ -476,13 +543,18 @@ The cost of the lost book in the classroom library
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the eight numbers around 55*
+*Sum of the eight numbers around 55*
 
-> You have in the circles around 55 eight natural numbers, different from each other and less than 100, so that the product of three aligned numbers is always equal to 1980. What's the sum of the eight numbers that you put around 55?
+> Arrange eight distinct natural numbers less than 100 in circles around the 55 such that the product of three numbers aligned in a row is always equal to 1980. **What is the sum of the eight numbers you have arranged around the 55?**
 
 ![[src_bocconi_rosi_2011__q16.png]]
 
-**Answer:** 85
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2011#q16|src_bocconi_rosi_2011__Q16]]
 
 
 
@@ -506,11 +578,15 @@ The cost of the lost book in the classroom library
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rifter current speed*
+*River current speed*
 
-> Descending down a river, Amerigo took two hours to travel 50 miles [60 km]. To get back to the starting point, going up the river, it took three. **What is the current velocity in km/h (assumed constant)?**
+> Traveling downstream along a river, Amerigo took two hours to cover 60 km. To return to the starting point, traveling upstream along the river, he took three hours. **What is the speed of the current in km/h (assuming it is constant)?**
 
-**Answer:** 5 km/h
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2011#q17|src_bocconi_rosi_2011__Q17]]
 
 
 
@@ -535,11 +611,16 @@ The cost of the lost book in the classroom library
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How often does Amerigo fixation occur between 14 and 17*
+*How many times does Amerigo's fixation occur between 2 p.m. and 5 p.m.?*
 
-> Amerigo has a small "fixation": he uses two digits to indicate the time and another two digits to indicate the minutes. For example, write $08\text{h}\,04$ or $22\text{h}\,41$. Then multiply the two digits of the hours between them and equally multiply the two digits of the minutes between them. It's all happy when the results of the two multiplication are the same (as in the previous examples where you have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). How many times does this happen between$14\text{h}\,00$and$17\text{h}\,00$?
+> Amerigo has a small "fixation": he uses two digits to indicate the hour and two other digits to indicate the minutes. For example, he writes $08\text{h}\,04$ or $22\text{h}\,41$. Then he multiplies the two hour digits together and likewise multiplies the two digits that indicate the minutes together. He is absolutely delighted when the results of the two multiplications are equal (as happens in the previous examples where we have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). **How many times does this happen between $14\text{h}\,00$ and $17\text{h}\,00$?**
 
-**Answer:** 8
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2011#q18|src_bocconi_rosi_2011__Q18]]
 
 
 
@@ -568,11 +649,16 @@ The cost of the lost book in the classroom library
 
 *Number in the empty brick of the pyramid*
 
-> In the pyramid you see in the figure, the other numbers (in addition to those already written) are placed so that the number in each brick is the sum of the numbers written in the two bricks that support it. **What number do you have to write on the empty tile at the bottom, so that the top tile actually writes 396? **
+> In the pyramid shown in the figure, the other numbers (besides those already written) are placed so that the number in each block is the sum of the numbers written in the two blocks that support it. **What number must you write in the empty block at the bottom so that 396 is actually written in the topmost block?**
 
 ![[src_bocconi_rosi_2011__q19.png]]
 
-**Answer:** 42
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2011#q19|src_bocconi_rosi_2011__Q19]]
 
 
 
@@ -596,8 +682,12 @@ The cost of the lost book in the classroom library
 <div class="qlang-split" data-lang="en"></div>
 
 
-The time Renato had charged the pendulum yesterday.
+*The time at which Renato had wound the pendulum yesterday*
 
-> Yesterday, Renato simultaneously charged his old pendulum and his old wake. This morning, waking up, he can't help but notice that the wake indicates 6:00 while the pendulum indicates 7:00. At this point it is remembered that the alarm goes back three minutes every hour while the pendulum goes forward (as opposed to the exact time) for two minutes every hour. What time did Renato load them yesterday?
+> Yesterday, Renato wound his old pendulum clock and his old alarm clock at the same time. This morning, upon waking, he can't help but notice that the alarm clock shows 6:00 while the pendulum clock shows 7:00. At this point, he remembers that the alarm clock loses three minutes every hour, whereas the pendulum clock gains two minutes every hour (relative to the correct time). **What time yesterday did Renato "wind" them?**
 
-**Answer:** 18.36
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2011#q20|src_bocconi_rosi_2011__Q20]]

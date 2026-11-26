@@ -29,9 +29,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcento, punto medio, collinearietà del centroide nel triangolo*
+*Collinearità di circocentro, punto medio e baricentro in un triangolo*
 
-> Nel triangolo $ABC$ con circoncentro $O$, $AB = AC$, $D$ è il punto medio di $AB$ e $E$ è il centroide del triangolo $ACD$. Prove che $OE$ è perpendicolare a $CD$.
+> Nel triangolo $ABC$ con circocentro $O$, $AB = AC$, $D$ è il punto medio di $AB$ e $E$ è il baricentro del triangolo $ACD$. Dimostrare che $OE$ è perpendicolare a $CD$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1983#q01|src_bmo1_1983__Q01]]
 
 
 
@@ -56,9 +62,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*divisibilità della sequenza di Fibonacci per m per tutte le n*
+*Divisibilità della sequenza di Fibonacci per m per ogni n*
 
-> La sequenza di Fibonacci $\{f_n\}$ è definita da $$f_1 = 1, \quad f_2 = 1, \quad f_n = f_{n-1} + f_{n-2} \quad (n \ge 2).$$ Prove che ci sono enti unici $a$, $b$, $m$ in modo tale che $0 < a < m$, $0 < b < m$ e $f_n - ab^n$ siano divisibili da $m$ per tutti gli enti positivi $n$.
+> La sequenza di Fibonacci $\{f_n\}$ è definita da
+> $$f_1 = 1, \quad f_2 = 1, \quad f_n = f_{n-1} + f_{n-2} \quad (n \ge 2).$$
+> Dimostrare che esistono interi unici $a$, $b$, $m$ tali che $0 < a < m$, $0 < b < m$ e $f_n - ab^n$ è divisibile per $m$ per ogni intero positivo $n$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1983#q02|src_bmo1_1983__Q02]]
 
 
 
@@ -83,9 +97,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma e il prodotto delle reciprocità della sequenza iterata soddisfano l'identità*
+*Somma e prodotto dei reciproci di una successione iterata soddisfano un'identità*
 
-> I numeri reali $x_1, x_2, x_3, \ldots$ sono definiti da $$x_1 = x, \quad x_{n+1} = x_n^2 + 1 \quad \text{for all } n \ge 1.$$ $S_n$ è la somma e $P_n$ è il prodotto dei primi termini $n$ della sequenza $\gamma_1, \gamma_2, \gamma_3, \ldots$ dove $\gamma_n = \frac{1}{x_n}$. Indicare che $x S_n + P_n = 1$ per tutti $n$.
+> I numeri reali $x_1, x_2, x_3, \ldots$ sono definiti da
+> $$x_1 = x, \quad x_{n+1} = x_n^2 + 1 \quad \text{for all } n \ge 1.$$
+> $S_n$ è la somma e $P_n$ è il prodotto dei primi $n$ termini della successione $\gamma_1, \gamma_2, \gamma_3, \ldots$, dove $\gamma_n = \frac{1}{x_n}$. Dimostrare che $x S_n + P_n = 1$ per ogni $n$.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1983#q03|src_bmo1_1983__Q03]]
 
 
 
@@ -112,9 +134,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il percorso più corto dal punto alto della cupola all'angolo della base del cilindro*
+*Percorso più breve dal punto più alto della cupola a un angolo della base della torre*
 
-> Le due superfici cilindriche $$x^2 + y^2 = 1, \quad |y| \le a, \quad x > 0$$ e $$y^2 + z^2 = 1, \quad x > 0, \quad |x| \le a$$ si incrociano e insieme al piano $z = 0$ si inseriscono in una forma di cupola che viene chiamata qui una "cupola". La cupola è collocata sulla cima di una torre verticale di altezza $h$ la cui sezione trasversale orizzontale è un quadrato di lato $2a$. Trova la distanza più breve dal punto più alto della cupola a un angolo della base della torre, sopra la superficie della cupola e della torre.
+> Le due superfici cilindriche
+> $$x^2 + y^2 = 1, \quad |y| \le a, \quad x > 0$$
+> e
+> $$y^2 + z^2 = 1, \quad x > 0, \quad |x| \le a$$
+> si intersecano e, insieme al piano $z = 0$, racchiudono una forma a cupola che qui viene chiamata "cupola". La cupola è posta sopra una torre verticale di altezza $h$ la cui sezione orizzontale è un quadrato di lato $2a$. Trovare la distanza minima dal punto più alto della cupola a un angolo della base della torre, lungo la superficie della cupola e della torre.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1983#q04|src_bmo1_1983__Q04]]
 
 
 
@@ -137,9 +169,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dicenni punti in un cerchio di diametro di 5 pollici: due entro 2 pollici*
+*Dieci punti in una circonferenza di diametro 5 pollici: due a distanza minore di 2 pollici*
 
-> Se i punti $10$ sono all'interno di un cerchio di diametro $5''$, dimostrare che la distanza tra alcuni $2$ dei punti è inferiore a $2''$.
+> Dimostrare che, se $10$ punti sono contenuti in una circonferenza di diametro $5''$, allora la distanza tra alcuni $2$ di essi è minore di $2''$.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1983#q05|src_bmo1_1983__Q05]]
 
 
 
@@ -166,6 +204,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione a radice quadrata: trovare p che dà esattamente una soluzione reale*
+*Equazione con radici quadrate: trovare p che dia esattamente una soluzione reale*
 
-> Considera l'equazione $$\sqrt{2p + 1 - x^2} + \sqrt{3x + p + 4} = \sqrt{x^2 + 9x + 3p + 9} \tag{1}$$ in cui $x, p$ sono numeri reali e le radici quadrate devono essere reali e non negative. Mostrare che se (1) tiene allora $$(x^2 + x - p)(x^2 + 8x + 2p + 9) = 0.$$ Quindi trovare l'insieme di numeri reali $p$ per cui (1) è soddisfatto da un numero reale $x$ esattamente.
+> Consider the equation
+> $$\sqrt{2p + 1 - x^2} + \sqrt{3x + p + 4} = \sqrt{x^2 + 9x + 3p + 9} \tag{1}$$
+> in which $x, p$ are real numbers and the square roots are to be real and non-negative. Show that if (1) holds then
+> $$(x^2 + x - p)(x^2 + 8x + 2p + 9) = 0.$$
+> Hence find the set of real numbers $p$ for which (1) is satisfied by exactly one real number $x$.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+[[Quesiti/src_bmo1_1983#q06|src_bmo1_1983__Q06]]

@@ -33,15 +33,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which geometric figure is missing in the frames*
+*Which geometric shape is missing from the squares?*
 
 ![[src_kangourou_2015_marzo_preecolier__prob1.png]]
 
-> What geometric figure is missing in any of the four frames? (see figure)
-> 
+> Which geometric shape is missing from one of the four squares? (see figure)
+>
 > (A) (B) (C) (D) (E)
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q01|src_kangourou_2015_marzo_preecolier__Q01]]
 
 
 
@@ -69,15 +73,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles in Figure*
+*How many triangles are there in the figure?*
 
 ![[src_kangourou_2015_marzo_preecolier__prob2.png]]
 
-> How many triangles are in the figure? (see figure)
-> 
+> How many triangles are there in the figure? (see figure)
+>
 > (A) $7$ (B) $6$ (C) $5$ (D) $4$ (E) $3$
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q02|src_kangourou_2015_marzo_preecolier__Q02]]
 
 
 
@@ -104,15 +113,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find the missing part of the house
+*Find the missing part of the little house*
 
 ![[src_kangourou_2015_marzo_preecolier__prob3.png]]
 
-> Find the missing part of the house. (see figure)
-> 
+> Find the missing part of the little house. (see figure)
+>
 > (A) (B) (C) (D) (E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q03|src_kangourou_2015_marzo_preecolier__Q03]]
 
 
 
@@ -139,15 +152,19 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*total black spots*
+*Total black dots*
 
 ![[src_kangourou_2015_marzo_preecolier__prob4.png]]
 
-> Five ladybugs live in a bush. How many black spots do they have in total? (see figure)
-> 
+> Five ladybugs live in a bush. In total, how many black dots do they have? (see figure)
+>
 > (A) $17$ (B) $18$ (C) $19$ (D) $20$ (E) $21$
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q04|src_kangourou_2015_marzo_preecolier__Q04]]
 
 
 
@@ -178,11 +195,15 @@ Find the missing part of the house
 
 ![[src_kangourou_2015_marzo_preecolier__prob5.png]]
 
-> Henry has 10 strips of metal equal to each other. It joins them in pairs to form longer strips. What's the shortest? (see figure)
-> 
+> Enrico has 10 metal strips that are all the same. He joins them in pairs to form longer strips. Which one is the shortest? (see figure)
+>
 > (A) (B) (C) (D) (E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q05|src_kangourou_2015_marzo_preecolier__Q05]]
 
 
 
@@ -209,15 +230,19 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which rotated image matches the given one*
+*Which rotated image coincides with the given one?*
 
 ![[src_kangourou_2015_marzo_preecolier__prob6.png]]
 
 > Which of the following images can be rotated so that it matches the image shown here on the right? (see figure)
-> 
+>
 > (A) (B) (C) (D) (E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q06|src_kangourou_2015_marzo_preecolier__Q06]]
 
 
 
@@ -244,15 +269,19 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*View from the top of a round tower*
+*Viewed from above, from a tower with a circular base*
 
 ![[src_kangourou_2015_marzo_preecolier__prob7.png]]
 
-> What do we see when we look at the round tower from above? (see figure)
-> 
+> What do we see when we look down at the tower with a circular base? (see figure)
+>
 > (A) (B) (C) (D) (E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q07|src_kangourou_2015_marzo_preecolier__Q07]]
 
 
 
@@ -279,15 +308,19 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers outside the square*
+*Sum of the numbers outside the square*
 
 ![[src_kangourou_2015_marzo_preecolier__prob8.png]]
 
-> What's the sum of the numbers outside the square? (see figure)
-> 
+> What is the sum of the numbers outside the square? (see figure)
+>
 > (A) $30$ (B) $60$ (C) $90$ (D) $45$ (E) $100$
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q08|src_kangourou_2015_marzo_preecolier__Q08]]
 
 
 
@@ -312,13 +345,17 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*total time*
+*Total time*
 
-> It takes Isabella half an hour to go halfway between home and school. How long does it take to get all the way from home to school?
-> 
+> Isabella takes half an hour to cover half of the distance between home and school. How long does it take her to cover the entire distance from home to school?
+>
 > (A) $15$ minutes (B) $30$ minutes (C) $60$ minutes (D) $120$ minutes (E) $40$ minutes
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q09|src_kangourou_2015_marzo_preecolier__Q09]]
 
 
 
@@ -345,15 +382,19 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which construction is impossible*
+*what an impossible construction*
 
 ![[src_kangourou_2015_marzo_preecolier__prob10.png]]
 
-> Matteo forms two bricks by gluing two cubes (see figure on the side). Which of the constructions presented below cannot be constructed using those two bricks? (see figure)
-> 
+> Matteo makes two bricks by gluing two cubes together (see the figure beside). Which of the constructions shown below cannot be made using those two bricks? (see the figure)
+>
 > (A) (B) (C) (D) (E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q10|src_kangourou_2015_marzo_preecolier__Q10]]
 
 
 
@@ -378,13 +419,17 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candies from Roberta to Cristina to make them equal*
+*Candies from Roberta to Cristina to even the score*
 
-> Cristina has $9$ candies while Roberta has $17$. How many candies must Roberta give to Cristina if we want both to have the same number of candies?
-> 
+> Cristina has $9$ candies, while Roberta has $17$. How many candies must Roberta give to Cristina if we want both of them to have the same number of candies?
+>
 > (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) $6$
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q11|src_kangourou_2015_marzo_preecolier__Q11]]
 
 
 
@@ -415,11 +460,15 @@ Find the missing part of the house
 
 ![[src_kangourou_2015_marzo_preecolier__prob12.png]]
 
-> Six towers were built with grey and white cubes (see figure). Each tower is made of five cubes. Cubes of the same color don't touch. How many white cubes are there?
-> 
+> Six towers have been built using grey and white cubes (see figure). Each tower is made of five cubes. Cubes of the same color do not touch. How many white cubes are there?
+>
 > (A) $10$ (B) $11$ (C) $12$ (D) $18$ (E) $30$
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q12|src_kangourou_2015_marzo_preecolier__Q12]]
 
 
 
@@ -444,13 +493,17 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*the missing card*
+*The missing card*
 
-> Each card is an equilateral triangle. What's the missing card? (see figure)
-> 
+> Each tile is an equilateral triangle. Which tile is missing? (see figure)
+>
 > (A) (B) (C) (D) (E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q13|src_kangourou_2015_marzo_preecolier__Q13]]
 
 
 
@@ -475,13 +528,17 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next future date with three 5*
+*Next future date with three 5s*
 
-> The date $5/5/2015$ ($5$ May $2015$) contains three $5$. The nearest future date which will contain still three $5$ is:
-> 
+> The date $5/5/2015$ ($5$ May $2015$) contains three $5$. The nearest future date that will still contain three $5$ is:
+>
 > (A) $5/5/2025$ (B) $15/6/2055$ (C) $15/5/2050$ (D) $25/5/2015$ (E) $15/5/2015$
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q14|src_kangourou_2015_marzo_preecolier__Q14]]
 
 
 
@@ -506,13 +563,17 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*remaining slices*
+*Parts remaining*
 
-> Mum orders two pizzas and divides each into $8$ slices for her daughter Vera's birthday. $14$ guests, including Vera, are present at the party. How many slices of pizza remain if Vera's mum gives one slice to each participant?
-> 
+> Mom orders two pizzas and divides each one into $8$ pieces for her daughter Vera's birthday. $14$ guests, including Vera, are present at the party. How many pieces of pizza are left if Vera's mom gives one piece to each participant?
+>
 > (A) $5$ (B) $4$ (C) $3$ (D) $2$ (E) $1$
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q15|src_kangourou_2015_marzo_preecolier__Q15]]
 
 
 
@@ -537,13 +598,17 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number in the question mark*
+*Number at the question mark*
 
-> Insert all the $1, 2, 3, 4, 5$ numbers each in a box, so that each operation is correct. What number should you enter in the box with the question mark? (see figure)
-> 
+> Insert all the numbers $1, 2, 3, 4, 5$, each in a box, so that each operation is correct. Which number must you insert in the box marked with a question mark? (see figure)
+>
 > (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q16|src_kangourou_2015_marzo_preecolier__Q16]]
 
 
 
@@ -570,11 +635,15 @@ Find the missing part of the house
 
 *path length*
 
-> There are $11$ flags along a straight line where a race takes place. The first flag is raised at departure and the last at arrival. The distance between one flag and the next flag shall be $8$ metres. How many meters is the path?
-> 
+> There are $11$ flags along a straight line where a race is taking place. The first flag is placed at the start, and the last one at the finish. The distance between one flag and the next is $8$ metres. How many metres long is the course?
+>
 > (A) $24$ (B) $48$ (C) $72$ (D) $80$ (E) $88$
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q17|src_kangourou_2015_marzo_preecolier__Q17]]
 
 
 
@@ -600,13 +669,18 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many ways*
+*How many ways*
 
-> A kangaroo can jump from a position to an adjacent one connected by a segment. He's not allowed to go through the same position twice. If it starts from $S$, how many different ways can it reach $F$ by jumping exactly $4$ times? (see figure)
-> 
+> A kangaroo can hop from one position to an adjacent position connected by a segment. It is not allowed to pass through the same position twice. If it starts at $S$, in how many different ways can it reach $F$ by making exactly $4$ jumps? (see figure)
+>
 > (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q18|src_kangourou_2015_marzo_preecolier__Q18]]
 
 
 
@@ -631,13 +705,17 @@ Find the missing part of the house
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many pirates?
+*How many pirates*
 
-> A ship was attacked by pirates. They threw a rope ladder, and one by one they climbed aboard. The pirate captain was eighth in line and right in the middle of the line. How many pirates were there?
-> 
+> A ship was attacked by pirates. The pirates threw a rope ladder and climbed aboard one after another. The pirate captain was eighth in the line and was right in the middle of the line. How many pirates were there?
+>
 > (A) $7$ (B) $8$ (C) $12$ (D) $15$ (E) $16$
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q19|src_kangourou_2015_marzo_preecolier__Q19]]
 
 
 
@@ -664,11 +742,15 @@ How many pirates?
 
 *total*
 
-> For $3$ days the cat Joy goes hunting for mice. Each day Joy catches $2$ more mice than the previous day. On the third day he caught twice the mice taken on the first day. In total, how many mice did Joy catch during the $3$ days?
-> 
+> For $3$ days, the cat Joy hunts mice. Each day, Joy catches $2$ more mice than the previous day. On the third day, Joy caught twice as many mice as were caught on the first day. In total, how many mice did Joy catch over the $3$ days?
+>
 > (A) $12$ (B) $15$ (C) $18$ (D) $20$ (E) $24$
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q20|src_kangourou_2015_marzo_preecolier__Q20]]
 
 
 
@@ -695,11 +777,15 @@ How many pirates?
 
 *total together*
 
-> Rick and Tom are building an igloo. Every hour Rick makes$8$ snow bricks and Tom makes$2$ less. How many snow bricks will they have built together in three hours?
-> 
+> Rick and Tom are building an igloo. Every hour, Rick makes $8$ snow bricks, and Tom makes $2$ fewer. How many snow bricks will they have made together in three hours?
+>
 > (A) $14$ (B) $30$ (C) $42$ (D) $48$ (E) $54$
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q21|src_kangourou_2015_marzo_preecolier__Q21]]
 
 
 
@@ -728,17 +814,21 @@ How many pirates?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*true statement*
+*True statement*
 
-> Chiara builds a cube using gray and white cubes (see figure). Two cubes of the same color have no face in common. Which of the following statements regarding the number of cubes used is true?
+> Chiara builds a cube using grey and white small cubes (see the figure). Two small cubes of the same colour have no faces in common. Which of the following statements about the number of small cubes used is true?
 >
-> - **(A)** the grey cubes are $1$ more than the white cubes
-> - **(B)** the white cubes are $1$ more than the grey cubes
-> - **(C)** The grey cubes are as many as the white ones.
-> - **(D)** the white cubes are $2$ more than the grey cubes
-> - **(E)** the grey cubes are $2$ more than the white cubes
+> - **(A)** The grey cubes are $1$ more than the white cubes
+> - **(B)** The white cubes are $1$ more than the grey cubes
+> - **(C)** There are as many grey cubes as white ones.
+> - **(D)** The white cubes are $2$ more than the grey cubes
+> - **(E)** The grey cubes are $2$ more than the white cubes.
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q22|src_kangourou_2015_marzo_preecolier__Q22]]
 
 
 
@@ -767,17 +857,21 @@ How many pirates?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*32, arrival 6:11: hours of travel*
+*32, arrival 6:11: travel hours*
 
-> We left for Scout Camp yesterday afternoon at $16{:}32$ and arrived at our destination this morning at $6{:}11$. How many hours did we travel?
+> We set off for the Scout Camp yesterday afternoon at $16{:}32$ and arrived at our destination this morning at $6{:}11$. How many hours did we travel?
 >
-> - **(A)** $13$ hours and $39$ minutes
-> - **(B)** $13$ hours and $21$ minutes
-> - **(C)** $2$ hours and $21$ minutes
-> - **(D)** $14$ hours and $39$ minutes
-> - **(E)** $14$ hours and $21$ minutes
+> - **(A)** $13$ or $39$ minutes
+> - **(B)** $13$ or $21$ minutes
+> - **(C)** $2$ ore and $21$ minutes
+> - **(D)** $14$ or $39$ minutes
+> - **(E)** $14$ or $21$ minutes
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q23|src_kangourou_2015_marzo_preecolier__Q23]]
 
 
 
@@ -804,8 +898,12 @@ How many pirates?
 
 *central number*
 
-> Each of the numbers $3, 5, 7, 8$ and $9$ must be written in one of the squares in the figure. Each square must be written with only one number. You want to make sure that the sum of the numbers in the row is equal to the sum of the numbers in the column. What number do you have to write in the center box? (see figure)
-> 
+> Each of the numbers $3, 5, 7, 8$ and $9$ must be written in one of the squares in the figure. Only one number must be written in each square. You want to make the sum of the numbers in the row equal to the sum of the numbers in the column. Which number must you write in the central cell? (see figure)
+>
 > (A) $3$ (B) $5$ (C) $7$ (D) $8$ (E) $9$
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_preecolier#q24|src_kangourou_2015_marzo_preecolier__Q24]]

@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Aggiungere acqua per diluire la miscela di alcol da 9L al 30% di alcol*
+*Aggiungi acqua per diluire 9 L di miscela alcolica fino a ottenere una concentrazione alcolica del 30%*
 
-> Esmeralda ha una bottiglia contenente 9 litri di una miscela che è di 50% alcol e 50% acqua. Vuole aggiungere acqua alla bottiglia in modo che la miscela risultante sia solo alcol del 30%. Quanti litri di acqua dovrebbe aggiungere?
+> Esmeralda ha una bottiglia che contiene 9 litri di una miscela composta al 50% da alcol e al 50% da acqua. Vuole aggiungere acqua alla bottiglia in modo che la miscela risultante sia composta solo per il 30% da alcol. Quanti litri d'acqua dovrebbe aggiungere?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f2#q01|src_obm_2009_n2_f2__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore massimo di ab+bc+cd+da per a,b,c,d con una permutazione di 1,2,3,4*
+*Valore massimo di ab+bc+cd+da per a,b,c,d permutazione di 1,2,3,4*
 
-> Se $a$, $b$, $c$ e $d$ sono, in un certo ordine, i numeri $1$, $2$, $3$ e $4$, quale è il più grande valore possibile di $$ab + bc + cd + da?$$
+> Se $a$, $b$, $c$ e $d$ sono, in un certo ordine, i numeri $1$, $2$, $3$ e $4$, qual è il valore massimo possibile di
+> $$ab + bc + cd + da?$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f2#q02|src_obm_2009_n2_f2__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più grande famiglia di numeri a 3 cifre che condividono almeno una cifra in coppia*
+*La famiglia più numerosa di numeri a tre cifre che condividono almeno una cifra a coppie*
 
-> Diciamo che due o più numeri, ognuno con lo stesso numero di cifre, appartengono alla stessa famiglia quando ogni coppia di loro condivide almeno una cifra in comune. Ad esempio, $32$, $25$ e $22$ appartengono alla stessa famiglia, perché $32$ e $25$ condividono il numero $2$, $25$ e $22$ condividono il numero $2$, e $32$ e $22$ condividono il numero $2$. D'altra parte, $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché $123$ e $568$ non condividono una cifra comune. Qual è il maggior numero di membri che una famiglia di numeri a tre cifre può avere?
+> Diciamo che due o più numeri, ciascuno con lo stesso numero di cifre, appartengono alla stessa famiglia quando ogni coppia di essi ha almeno una cifra in comune. Ad esempio, $32$, $25$ e $22$ appartengono alla stessa famiglia, perché $32$ e $25$ hanno in comune la cifra $2$, $25$ e $22$ hanno in comune la cifra $2$, e $32$ e $22$ hanno in comune la cifra $2$. D'altra parte, $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché $123$ e $568$ non hanno alcuna cifra in comune. Qual è il numero massimo di membri che può avere una famiglia di numeri di tre cifre?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f2#q03|src_obm_2009_n2_f2__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi a due cifre divisibili da ciascuno dei loro cifre*
+*Conta gli interi a due cifre divisibili per ciascuna delle proprie cifre*
 
-> Determina quanti numeri interi a due cifre sono divisibili da entrambi i loro cifre.
+> Determinare quanti numeri interi a due cifre sono divisibili per entrambe le proprie cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f2#q04|src_obm_2009_n2_f2__Q04]]
 
 
 
@@ -132,11 +161,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrate sovrapposte ABCD e EFGH lato 48; trovare la zona di intersezione evidenziata*
+*Quadrati sovrapposti ABCD ed EFGH con lato 48; trova l'area dell'intersezione evidenziata*
 
-> Nella figura seguente, $ABCD$ e $EFGH$ sono quadrati con lunghezza laterale $48\,\text{cm}$. Sapendo che $A$ è il punto medio di $EF$ e $G$ è il punto medio di $DC$, determinare l'area della regione ombreggiata (illustrata) in $\text{cm}^2$.
+> Nella figura sottostante, $ABCD$ e $EFGH$ sono quadrati di lato lungo $48\,\text{cm}$. Sapendo che $A$ è il punto medio di $EF$ e che $G$ è il punto medio di $DC$, determina l'area della regione ombreggiata (evidenziata) in $\text{cm}^2$.
 
 ![[src_obm_2009_n2_f2__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f2#q05|src_obm_2009_n2_f2__Q05]]
 
 
 
@@ -165,15 +201,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Table della Teorema dei Rimanenti Cinesi mod 7 e mod 3; somma delle celle evidenziate*
+*Tabella del teorema cinese del resto modulo 7 e modulo 3; somma delle celle evidenziate*
 
-> $m$ e $n$ siano due integri positivi con $\gcd(m,n)=1$ e $0 \le j < m$, $0 \le i < n$. Il teorema del rimanente cinese afferma che esiste esattamente un intero $a$ con $0 \le a < mn$ in modo tale che il resto della divisione $a$ da $m$ equivale a $j$ e il resto della divisione $a$ da $n$ equivale a $i$. Ad esempio, con $m=7$ e $n=3$, abbiamo $19$ come numero unico in $\{0,1,\ldots,20\}$ che lascia il rimanente $5$ quando diviso da $7$ e il rimanente $1$ quando diviso da $3$.
-> 
-> Si forma quindi una tabella in cui ciascuna cella $(i,j)$ ( riga $i$ per mod restante $3$, colonna $j$ per mod restante $7$) contiene il valore unico $a \in \{0,1,\ldots,20\}$ che soddisfa le due congruenze. La tabella è parzialmente riempita come mostrato, con il numero $19$ presente in una delle celle evidenziate.
-> 
+> Siano $m$ e $n$ due interi positivi tali che $\gcd(m,n)=1$ e $0 \le j < m$, $0 \le i < n$. Il teorema cinese del resto afferma che esiste esattamente un intero $a$ tale che $0 \le a < mn$, per cui il resto della divisione di $a$ per $m$ è uguale a $j$ e il resto della divisione di $a$ per $n$ è uguale a $i$. Ad esempio, con $m=7$ e $n=3$, si ha che $19$ è l'unico numero in $\{0,1,\ldots,20\}$ che lascia resto $5$ quando viene diviso per $7$ e resto $1$ quando viene diviso per $3$.
+>
+> Pertanto, si forma una tabella in cui ogni cella $(i,j)$ (riga $i$ per il resto modulo $3$, colonna $j$ per il resto modulo $7$) contiene il valore unico $a \in \{0,1,\ldots,20\}$ che soddisfa le due congruenze. La tabella è parzialmente compilata come mostrato, con il numero $19$ che compare in una delle celle evidenziate.
+>
 > Qual è la somma dei numeri nelle celle evidenziate?
 
 ![[src_obm_2009_n2_f2__q06.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f2#q06|src_obm_2009_n2_f2__Q06]]
 
 
 
@@ -206,9 +249,26 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di ricorrenza S_k=ar^k+bs^k; trovare S_7 data S_1..S_4*
+*Successione ricorrente S_k=ar^k+bs^k; trovare S_7 dati S_1..S_4*
 
-> Si osserva che $$(x-r)(x-s) = x^2 - (r+s)x + rs.$$ Sostituendo $x$ da $r$ e poi da $s$, otteniamo: $$\begin{cases} r^2 - (r+s)r + rs = 0 \\ s^2 - (r+s)s + rs = 0. \end{cases}$$ Moltiplicando la prima equazione da $a r^{n-1}$ e la seconda da $b s^{n-1}$ e aggiungendo: $$a r^{n+1} - (r+s)\,a r^n + rs\,a r^{n-1} = 0 \quad \text{and} \quad b s^{n+1} - (r+s)\,b s^n + rs\,b s^{n-1} = 0.$$ Sommando queste due equazioni e scrivendo $S_k = a r^k + b s^k$, si verifica che $$S_{n+1} = (r+s)\,S_n - rs\,S_{n-1}.$$ Dato $$S_1 = ar + bs = 1, \quad S_2 = ar^2 + bs^2 = 2, \quad S_3 = ar^3 + bs^3 = 5, \quad S_4 = ar^4 + bs^4 = 6,$$ $S_7$ determina.
+> Si noti che
+> $$(x-r)(x-s) = x^2 - (r+s)x + rs.$$
+> Sostituendo $x$ con $r$ e poi con $s$, otteniamo:
+> $$\begin{cases} r^2 - (r+s)r + rs = 0 \\ s^2 - (r+s)s + rs = 0. \end{cases}$$
+> Moltiplicando la prima equazione per $a r^{n-1}$ e la seconda per $b s^{n-1}$ e sommando:
+> $$a r^{n+1} - (r+s)\,a r^n + rs\,a r^{n-1} = 0 \quad \text{and} \quad b s^{n+1} - (r+s)\,b s^n + rs\,b s^{n-1} = 0.$$
+> Sommando queste due equazioni e scrivendo $S_k = a r^k + b s^k$, si verifica che
+> $$S_{n+1} = (r+s)\,S_n - rs\,S_{n-1}.$$
+> Dato
+> $$S_1 = ar + bs = 1, \quad S_2 = ar^2 + bs^2 = 2, \quad S_3 = ar^3 + bs^3 = 5, \quad S_4 = ar^4 + bs^4 = 6,$$
+> determina $S_7$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n2_f2#q07|src_obm_2009_n2_f2__Q07]]
 
 
 
@@ -233,11 +293,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria mediana triangolare: trovare MN perpendicolare a AB data AN=2NC, AC=12*
+*Geometria della mediana del triangolo: determina MN perpendicolare ad AB sapendo che AN=2NC e AC=12*
 
-> Che $N$ sia un punto sul lato $AC$ del triangolo $ABC$ tale che $AN = 2NC$, e che $M$ sia un punto sul lato $AB$ tale che $MN \perp AB$. Dato che $AC = 12\,\text{cm}$ e $G$ è il centroide del triangolo $ABC$ (il punto di intersezione dei mediani), determinare la lunghezza del segmento $MN$.
-> 
-> \textit{Nota: il centroide (baricentro) è il punto di intersezione dei mediani del triangolo.}
+> Sia $N$ un punto sul lato $AC$ del triangolo $ABC$ tale che $AN = 2NC$, e sia $M$ un punto sul lato $AB$ tale che $MN \perp AB$. Dato che $AC = 12\,\text{cm}$ e che $G$ è il baricentro del triangolo $ABC$ (il punto di intersezione delle mediane), determina la lunghezza del segmento $MN$.
+>
+> \textit{Nota: Il baricentro è il punto di intersezione delle mediane del triangolo.}
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f2#q08|src_obm_2009_n2_f2__Q08]]
 
 
 
@@ -264,10 +331,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Torneo a scacchi 8 giocatori 7 round: possibilità di punteggio e punteggio minimo del leader
+*Torneo di scacchi con 8 giocatori e 7 turni: possibilità di punteggio e punteggio minimo del leader*
 
-> Un campionato di scacchi ha 7 round. In ogni round, ogni giocatore fa un punto per una vittoria, mezzo punto per un pareggio e nessun punto per una sconfitta. Ci sono otto partecipanti, e ogni coppia di giocatori si affronterà esattamente una volta.
-> 
-> (a) Dopo il terzo round, è possibile che tutti i giocatori abbiano punteggi distinti? Giustifica la tua risposta.
-> 
-> b) Al termine del campionato, qual è il numero minimo di punti che il giocatore di primo posto avrebbe potuto ottenere? Giustifica la tua risposta.
+> Un campionato di scacchi prevede 7 turni. In ogni turno, ciascun giocatore ottiene un punto per una vittoria, mezzo punto per una patta e nessun punto per una sconfitta. I partecipanti sono 8, e ogni coppia di giocatori si affronta esattamente una volta.
+>
+> (a) Dopo il terzo round, è possibile che tutti i giocatori abbiano punteggi diversi? Motiva la tua risposta.
+>
+> (b) Al termine del campionato, qual è il numero minimo di punti che il giocatore al primo posto avrebbe potuto ottenere? Giustifica la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f2#q09|src_obm_2009_n2_f2__Q09]]

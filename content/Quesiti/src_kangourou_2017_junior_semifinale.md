@@ -33,11 +33,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Middle angle in a 10-sided convex polygon*
+*Average angle in a convex decagon*
 
-> 2x > 130 2) x < 100 3) 3x > 50 4) x > 20 5) x > 15 two are true and three are false, what are the real ones? (A) 1) and 3). (B) 2) and 3). (C) 2) and 4). (D) 2) and 5). (E) 4) and 5).
+> 2x > 130 2) x < 100 3) 3x > 50 4) x > 20 5) x > 15: two are true and three are false—which ones are true?
+> (A) 1) and 3). (B) 2) and 3). (C) 2) and 4).
+> (D) 2) and 5).
+> (E) 4) and 5).
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q01|src_kangourou_2017_junior_semifinale__Q01]]
 
 
 
@@ -61,11 +68,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum road with short river bridge*
+*Minimum road with a short bridge across the river*
 
-> 2. Kangcity is located 2 km east and 2 km north of Kangtown and the two towns are separated by a 1 km wide river running from south to north. We want to build a road that crosses the river on a bridge as short as possible and that, if this demand is met, is the shortest possible. How many kilometers will the road be? (B) 2√2 (C) √3+1 (D) √5 + 1 (A) 4 (E) 3
+> 2. (Points 3) Kangcity is located 2 km east and 2 km north of Kangtown, and the two towns are separated by a river 1 km wide that flows from south to north. A road is to be built that crosses the river via a bridge as short as possible and, subject to this requirement, is as short as possible overall. How many kilometres long will the road be? (B) 2√2 (C) √3+1 (D) √5 + 1 (A) 4 (E) 3
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q02|src_kangourou_2017_junior_semifinale__Q02]]
 
 
 
@@ -89,11 +101,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which two inequalities on x are true*
+*Which two inequalities in x are true?*
 
-> 3. (Points 3) If any of the following five inequalities
+> 3. (Point 3) If any of the following five inequalities
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q03|src_kangourou_2017_junior_semifinale__Q03]]
 
 
 
@@ -124,17 +141,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison of timing and speed of two trains*
+*Comparison of the times and speeds of two trains*
 
-> (Point 4) Train X travels the entire route between two cities without stopping during the journey (in particular without making intermediate stops). The Y train follows the same route by making a mid-way stop of 5 minutes and taking 5 minutes more than X for the entire journey. So, what?
+> (Point 4) Train X covers the entire route between two cities without stopping during the journey (in particular, it does not make any intermediate stops). Train Y covers the same route, making an intermediate stop of 5 minutes and taking 5 minutes longer than X for the entire journey. Then
 >
-> - **(A)** At some point along the route, the speed of Y is greater than the speed of X.
-> - **(B)** the maximum speed reached by Y is greater than that reached by X.
-> - **(C)** the maximum speed reached by the two trains is the same.
-> - **(D)** the average speed on the entire route is the same for the two trains.
-> - **(E)** None of the above claims are correct.
+> - **(A)** at some point along the route, Y's speed is greater than X's speed.
+> - **(B)** The maximum speed attained by Y is greater than the maximum speed attained by X.
+> - **(C)** The maximum speed reached by the two trains is the same.
+> - **(D)** The average speed over the entire journey is the same for both trains.
+> - **(E)** None of the preceding statements is correct.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q04|src_kangourou_2017_junior_semifinale__Q04]]
 
 
 
@@ -165,9 +186,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of impossible terms for sum of cubes 2017*
+*Impossible number of addends for the sum of cubes 2017*
 
-> (Points 4) A sum of positive integer cubes is 2017. Which of the following cannot be the number of terms?
+> (Point 4) The sum of cubes of positive integers equals 2017. Which of the following cannot be the number of addends?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -175,7 +196,12 @@ level: kangourou
 > - **(D)** 2010
 > - **(E)** 2017
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q05|src_kangourou_2017_junior_semifinale__Q05]]
 
 
 
@@ -210,9 +236,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct arrangements of two glued dice*
+*Distinct abutments of two glued nuts*
 
-> You have two classic dice of equal size, with faces numbered 1 to 6, one red and one green. You want to stick them together by completely matching one face to another, so that the adhering faces give different scores. How many different arrangements can you make? (Two arrangements are to be considered different if they cannot be obtained from each other by rotations of the solids formed by the pair of glued dice.)
+> (Point 4) You have two standard dice of the same size, with faces numbered from 1 to 6—one red and one green. You want to glue them together so that one face of one die exactly matches a face of the other, with the adjoining faces showing different scores. How many different pairings can you create? (Two pairings are to be considered different if they cannot be obtained from one another by rotating the solid bodies formed by the pair of glued dice.)
 >
 > - **(A)** 30
 > - **(B)** 60
@@ -220,7 +246,12 @@ level: kangourou
 > - **(D)** 120
 > - **(E)** 240
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q06|src_kangourou_2017_junior_semifinale__Q06]]
 
 
 
@@ -255,9 +286,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible number of matches of the pool tournament*
+*Possible number of matches in the round-robin tournament*
 
-> (Points 5) The number of participants in a mega tennis tournament has been set so that the tournament can be organised as follows. All participants are divided into pools of 5 players each. The overall winners of the individual batches are still divided into pools of 5 players each and so on until they have only 2 pools of 5 players each whose winners face each other in the final. In each pool, each player faces each other once and only once. What is the total number of matches to be played in the tournament?
+> (Point 5) The number of entries for a mega tennis tournament has been set so that the tournament can be organized as follows. The set of participants is divided into groups of 5 players each. The set of winners from the individual groups is again divided into groups of 5 players each, and so on, until there are only 2 groups of 5 players each, whose winners face each other in the final. In each group, each player faces every other player once and only once. Which of the following could be the total number of matches to be played in the tournament?
 >
 > - **(A)** 501
 > - **(B)** 601
@@ -265,7 +296,12 @@ level: kangourou
 > - **(D)** 3101
 > - **(E)** None of the above
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q07|src_kangourou_2017_junior_semifinale__Q07]]
 
 
 
@@ -324,7 +360,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of quadrilateral and triangular areas from midpoints*
+*Ratio of the areas of the quadrilateral and the triangle formed by the midpoints*
 
 ![[src_kangourou_2017_junior_semifinale__prob8.png]]
 
@@ -352,7 +388,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 5) Note the figure: ABC is a triangle, M is the middle point of the AB side and N is the middle point of the MC segment. What is the ratio of the area of the quadrilateral AMNP (grey) to the area of the remaining part of the triangle ABC?
+> (Point 5) Observe the figure: ABC is a triangle, M is the midpoint of side AB, and N is the midpoint of segment MC. What is the ratio of the area of quadrilateral AMNP (shaded in gray) to the area of the remaining part of triangle ABC?
 >
 > - **(A)** 5 : 12
 > - **(B)** 1 : 2
@@ -360,7 +396,12 @@ level: kangourou
 > - **(D)** 3 : 5
 > - **(E)** 5 : 7
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q08|src_kangourou_2017_junior_semifinale__Q08]]
 
 
 
@@ -394,17 +435,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum games played by Carlo*
+*Minimum number of matches played by Carlo*
 
-> Arthur, Bruno, and Carlo play cards. Two of them start playing a game; the winner then plays a game with the partner who is watching, and so they continue for some time: the game is such that no game can end in a draw. When they stop, it turns out Arthur played 17 games and Bruno played 23. What's the minimum number of games Carlo must have played?
+> (Point 9) Arturo, Bruno, and Carlo are playing cards. Two of them start a game; the winner then plays a game against the one who has been watching, and they continue like this for a while: the nature of the game is such that no game can end in a draw. When they stop, it turns out that Arturo has played 17 games and Bruno has played 23. What is the minimum number of games Carlo must have played?
 >
 > - **(A)** 12
 > - **(B)** 14
 > - **(C)** 16
 > - **(D)** 18
-> - **(E)** 20 Open-ended questions
+> - **(E)** 20 open-ended questions
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q09|src_kangourou_2017_junior_semifinale__Q09]]
 
 
 
@@ -456,7 +502,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region drawn with chords equal to the radius*
+*Area bounded by arcs equal in length to the radius*
 
 ![[src_kangourou_2017_junior_semifinale__prob10.png]]
 
@@ -484,9 +530,14 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) In the figure you see a circle of area 600. AB is a diameter and the DB and BC chords are as long as the radius. What is the area of the shaded region?
+> (Point 6) In the figure, you see a circle with an area of 600. AB is a diameter, and the chords DB and BC are as long as the radius. What is the area of the shaded region?
 
-**Answer:** 0100
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q10|src_kangourou_2017_junior_semifinale__Q10]]
 
 
 
@@ -511,11 +562,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of b/a+a/b data a+b and 1/a+1/b*
+*Value of b/a + a/b given a + b and 1/a + 1/b*
 
-> (Points 9) Two numbers a and b other than zero are such that a + b = 101 and (1/a) + (1/b) = 20. How much is (b/a) + (a/b) worth?
+> (Point 9) Two non-zero numbers a and b satisfy a + b = 101 and (1/a) + (1/b) = 20. What is the value of (b/a) + (a/b)?
 
-**Answer:** 2018
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q11|src_kangourou_2017_junior_semifinale__Q11]]
 
 
 
@@ -541,9 +597,14 @@ level: kangourou
 
 *Remainder of the division by 15 of a product*
 
-> (Points 9) Denotes with N the product of 97532 for 1468. What is the remainder of the division of N by 15?
+> (Point 9) Let N denote the product of 97532 and 1468. What is the remainder when N is divided by 15?
 
-**Answer:** 0011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q12|src_kangourou_2017_junior_semifinale__Q12]]
 
 
 
@@ -567,11 +628,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius inscribed in a right triangle*
+*Inradius of a right triangle*
 
-> (Points 12) In a right triangle the length of the hypotenuse is 4 less than the sum of the lengths of the legs. How long is the radius of the inscribed circle?
+> (Point 12) In a right-angled triangle, the length of the hypotenuse is 4 less than the sum of the lengths of the legs. How long is the radius of the inscribed circle?
 
-**Answer:** 0002
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q13|src_kangourou_2017_junior_semifinale__Q13]]
 
 
 
@@ -597,11 +662,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean speed required to recover delay*
+*Average speed required to make up the delay*
 
-> City A is 450 km from city B. A train that connects you to the station, scheduled to take 2 hours and 15 minutes. After travelling for the first part of the journey at an average of 160 km/h, the train is 9 minutes late on the roadmap: to arrive on time, how many km/h must its average speed be on the remaining part of the journey?
+> (Point 12) City A is 450 km from City B. A train connecting the two cities is scheduled to take 2 hours and 15 minutes. After traveling the first part of the journey at an average speed of 160 km/h, the train is 9 minutes behind schedule; to arrive on time, what must its average speed be for the remaining part of the journey, in km/h?
 
-**Answer:** 0220
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q14|src_kangourou_2017_junior_semifinale__Q14]]
 
 
 
@@ -628,11 +697,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of x1^2+x2^2 for whole-root equation*
+*Maximum of x1^2 + x2^2 for an equation with integer roots*
 
-> (Points 12) The equation x2 – mx + 10 = 0 has two distinct integer solutions x1 ≠ x2. What is the maximum value that the expression x1^2 + x2^2 can take?
+> (Point 12) The equation x² – mx + 10 = 0 has two distinct integer solutions x₁ ≠ x₂. What is the maximum value that the expression x₁² + x₂² can take?
 
-**Answer:** 0101
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q15|src_kangourou_2017_junior_semifinale__Q15]]
 
 
 
@@ -657,11 +731,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum numbers divisible by 2017 with divisible sums*
+*Minimum number of integers divisible by 2017 with sums divisible by 2017*
 
-> (Points 15) We have 2017 positive integers such that the sum of two of them, however chosen, is divisible by 2017. At the very least, how many of them should be divisible by 2017?
+> (Point 15) We have 2017 positive integers such that the sum of any two of them is divisible by 2017. At minimum, how many of them must be divisible by 2017?
 
-**Answer:** 2017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q16|src_kangourou_2017_junior_semifinale__Q16]]
 
 
 
@@ -688,9 +767,14 @@ level: kangourou
 
 *Minimum sum given GCD 3 and LCM 1800*
 
-> (Points 15) Two positive integers have 3 as their greatest common divisor and 1800 as their least common multiple. What is the minimum value that their sum can have?
+> (Question 15) Two positive integers have 3 as their greatest common divisor and 1800 as their least common multiple. What is the minimum possible value of their sum?
 
-**Answer:** 0147
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q17|src_kangourou_2017_junior_semifinale__Q17]]
 
 
 
@@ -758,52 +842,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of derangement of 5 hats*
+*Probability of a derangement of 5 hats*
 
-> (Points 18) The cloakroom attendant randomly returns 5 hats to the 5 gentlemen who had deposited them 
-> at the entrance. What is the probability that no one receives his own hat? 
-> Write first the numerator and then the denominator of the fraction reduced to its lowest terms that expresses the prob-
-> ability: for example, if it were 7/12 write 0712.
-> A
-> B
-> P
-> C
-> M
-> N
-> A
-> D
-> C
-> B
-> 
-> Question No.
-> score
-> 2
-> 3
-> 3
-> 4
-> 4
-> 4
-> 5
-> 5
-> 9
-> 6
-> 9
-> 9
-> 12
-> 12
-> 12
-> 15
-> 15
-> 18
-> answer
-> 0100
-> 2018
-> 0011
-> 0002
-> 0220
-> 0101
-> 2017
-> 0147
-> 1130
+> (Points 18) The cloakroom attendant randomly returns 5 hats to the 5 gentlemen who had left them at the entrance. What is the probability that no one receives their own hat? First write the numerator and then the denominator of the fraction in lowest terms that represents the probability: e.g., if it were 7/12, write 0712. A B P C M N A D C B
+>
+> Question No. score 2 3 3 4 4 4 5 5 9 6 9 9 12 12 12 15 15 18 answer 0100 2018 0011 0002 0220 0101 2017 0147 1130
 
-**Answer:** 1130
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_semifinale#q18|src_kangourou_2017_junior_semifinale__Q18]]

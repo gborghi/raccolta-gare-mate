@@ -35,11 +35,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of workers before increasing working hours*
+*Number of workers before the increase in working hours*
 
-> Increasing the hours of work of workers (and wages!), the owner of a television factory increased production by 25%. Subsequently, in the face of declining demand for the product, 39 workers were able to be transferred to a refrigerator factory and, after their transfer, while the working hours for the remaining workers remained increased, the production of the television factory returned to what it was before the increase in hours. How many workers worked in the television factory before the increase in working hours?
+> The work increases By increasing the workers' hours of work (and their wages!), the owner of a television factory increased production by 25%. Afterwards, faced with a reduced demand for the product,  39 workers could be transferred to a refrigerator factory and, after their transfer, with working hours remaining increased for the remaining workers, production at the television factory returned to what it had been before the increase in hours. How many workers worked at the television factory before the increase in working hours?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 195
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q01|src_kangourou_2013_squadre_a__Q01]]
 
 
 
@@ -67,15 +72,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side LM of a rectangle from equal angles in similarity*
+*Side LM from equal angles in a similarity*
 
-> The side of the rectangle  
-> Marco drew a square ABCD with a side of 54 millimetres. On side AB he then identified the point E  
-> 3 millimetres away from A. Elena drew a rectangle KLM whose side KL is 5 millimetres long and  
-> observed that the measure of the angles ACE and KML is the same. How many millimetres long is the side LM of the  
-> rectangle drawn by Elena?
+> The side of the rectangle Marco drew a square ABCD of side 54 millimetres. On side AB he then located the point E at a distance of 3 millimetres from A. Elena drew a rectangle KLM	 whose side KL is 5 millimetres long and observed that the measure of angles ACE and KML is the same. How many millimetres long is side LM of the rectangle drawn by Elena?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 175
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q02|src_kangourou_2013_squadre_a__Q02]]
 
 
 
@@ -108,15 +115,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value by entering parentheses in the sign sequence*
+*Maximum value by inserting brackets in the sequence of signs*
 
-> You put the brackets in the sequence of operations.
->  
+> Insert the brackets yourselves. In the sequence of operations
+>
 > 1 – 2 + 3 – 4 + 5 – 6 + 7 – 8 + 9 – 10
->  
-> You are free to insert all the parentheses you want (even more types, one internally to the other) in the positions you want, as long as you do not get multiplication between the contents of two pairs of parentheses: for example you can write [1 – (2 + 3 – 4)] + ..., but not (1 – 2 + 3)( – 4 + 5 – 6) +... . In accordance with this rule, what is the highest number you can get as a result of the expression?
+>
+> you are free to insert all the brackets you like (including more than one type, some inside others) in whatever positions you like, provided that you do not obtain multiplications between the contents of two pairs of brackets: for example you can write [1 – (2 + 3 – 4)] + …, but not (1 – 2 + 3)( – 4 + 5 – 6) +… . Following this rule, what is the highest number you can obtain as the result of the expression?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 45
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q03|src_kangourou_2013_squadre_a__Q03]]
 
 
 
@@ -146,14 +159,14 @@ level: squadre
 
 *Volume of water in the two-cube hourglass*
 
-> How much water?
-> The figure shows a water hourglass built using two identical cubes. The hourglass
-> has enough water to run continuously for 4 minutes; when the water is all in one of the
-> two cubes, that cube is exactly half full. If the water falls for 20 seconds without
-> interruption, the water level in the lower cube rises by exactly 1 centimeter. What is,
-> in cubic centimeters, the volume of the water in the hourglass?
+> How much water? The figure shows you a water hourglass constructed using two equal cubes. The hourglass has water to run continuously for 4 minutes; when all the water is in one of the two cubes, that cube is exactly half full. If the water falls for 20 seconds without interruption, the water level in the lower cube rises by exactly 1 centimetre. What is the volume of the water in the hourglass, in cubic centimetres?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 6912
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q04|src_kangourou_2013_squadre_a__Q04]]
 
 
 
@@ -181,11 +194,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the base of the pyramid cutting plane*
+*Distance of the cutting plane from the base*
 
-> Truncated pyramid You have a straight pyramid with a square base 66 centimeters high; you want to cut the pyramid with a plane parallel to its base by breaking it into a smaller pyramid and a truncated pyramid so that the volume of the truncated pyramid is 26 times that of the small pyramid. How far from the base, in centimeters, should the plane used for cutting be?
+> Frustum of a pyramid. You have a right pyramid with a square base, 66 centimetres high; you want to cut the pyramid with a plane parallel to its base, splitting it into a smaller pyramid and a frustum of a pyramid in such a way that the volume of the frustum of the pyramid is 26 times that of the small pyramid. What distance from the base, in centimetres, must the plane used for the cut have?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 44
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q05|src_kangourou_2013_squadre_a__Q05]]
 
 
 
@@ -216,14 +235,15 @@ level: squadre
 
 *Minimum number of moves to remove all the counters*
 
-> Piles of counters     
-> Marco has formed two piles of counters on the table, the first with 75 counters and the second with 81, and he wants to play the 
-> following solitaire. On each turn he can make one and only one of the following moves: a) remove 4 counters from the 
-> first pile; b) remove 5 counters from the second pile; c) remove one counter from each of the two piles. 
-> What is the minimum number of moves by making which Marco can remove all the counters from the table? 
-> Write [0000] if you believe that Marco cannot finish the game.
+> Piles of counters. Marco has  formed two piles of counters on the table, the first of 75 counters and the second of 81, and wants to play the following  solitaire. At each turn he can make one and only one of the following moves: a) remove 4 counters from the first pile; b) remove 5 counters from the second pile; c) remove one counter from each of the two piles. What is the minimum number of moves with which Marco can remove all the counters from the table? Write [0000] if you think that Marco cannot finish the game.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 41
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q06|src_kangourou_2013_squadre_a__Q06]]
 
 
 
@@ -250,11 +270,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers on the faces of the cube, vertices=1001*
+*Sum of the numbers on the faces of the cube, vertices = 1001*
 
-> The numbered cube A positive integer is written on each face of a cube; each vertex of the cube is assigned the number that is the product of the numbers written on the faces that have that vertex in common. The sum of all the numbers assigned to the vertices is 1001. What is the sum of all the numbers that are written on the faces?
+> The numbered cube. On each face of a cube a positive integer is written; each vertex of the cube is assigned the number that is the product of the numbers written on the faces that have that vertex in common. The sum of all the numbers assigned to the vertices is 1001. What is the sum of all the numbers written on the faces?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 31
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q07|src_kangourou_2013_squadre_a__Q07]]
 
 
 
@@ -281,11 +307,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of 8x8 chess numbers with boundary differences*
+*Chessboard sum with a difference constraint*
 
-> The sum In each cell of an 8 × 8 chessboard an integer is written; the numbers written in two cells that have a common side always differ by 1. On the chessboard, both number 3 and number 17 appear. What is the sum of all the numbers that appear on the chessboard?
+> The sum In each square of an 8 × 8 chessboard an integer is written; the numbers written in two squares that share a side always differ by 1. Both the number 3 and the number 17 appear on the chessboard. What is the sum of all the numbers that appear on the chessboard?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 640
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q08|src_kangourou_2013_squadre_a__Q08]]
 
 
 
@@ -310,11 +342,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with A+B other than C*
+*Three-digit numbers with A + B different from C*
 
-> How many three-digit (with nonzero leading digit) ABC numbers are such that A + B is different from C?
+> +on tutti How many numbers of three digits (significant) ABC are there such that A + B is different from C?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 855
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q09|src_kangourou_2013_squadre_a__Q09]]
 
 
 
@@ -352,9 +390,15 @@ level: squadre
 
 ![[src_kangourou_2013_squadre_a__prob10.png]]
 
-> The figure suggests the pattern of a square park. On its sides are planted trees equidistant, the same number of trees on all sides, and at each vertex there is a tree. The park is crossed by two avenues; the edges of each avenue are parallel: one ends at a vertex of the square, the other against a tree adjacent to the opposite vertex. The two avenues intersect in a small square (plaza), indicated in gray, whose area is 1/365 of the area of the square. How many trees are along the entire perimeter of the park? (The number of trees in the figure does not correspond to the actual number.)
+> The park. The figure suggests the layout of a square park. Along its sides, equally spaced trees are planted, the same number of trees for all the sides, and at each vertex there is a tree. The park is crossed by two avenues; the edges of each avenue are parallel: one ends at a vertex of the square, the other against a tree adjacent to the opposite vertex. The two avenues intersect in a small piazza, indicated in grey, whose area is 1/365 of the area of the square. How many trees are there along the whole perimeter of the park? (The number of trees in the figure does not correspond to the actual number.)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 56
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q10|src_kangourou_2013_squadre_a__Q10]]
 
 
 
@@ -385,15 +429,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First four digits of the largest number by deleting 20 digits*
+*First four digits of the largest number*
 
-> The largest number Cecilia wrote, one after the other in a row, the first 20 whole numbers getting the sequence
->  
+> The largest number. Cecilia wrote, one after another in a row, the first 20 integers, obtaining the sequence
+>
 > 123456789101112...1920
->  
-> Now she wants to erase exactly 20 of the digits written and get a new number by placing the remaining ones (without changing the order). What are the first four digits of the greatest number you can get?
+>
+> Now she wants to delete exactly 20 of the digits she wrote and obtain a new number by setting those that remain side by side (without changing their order). What are the first four digits of the largest number she can obtain?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9561
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q11|src_kangourou_2013_squadre_a__Q11]]
 
 
 
@@ -419,11 +469,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the angle of BAD in the isosceles triangle section*
+*Measure of angle BAD in a dissected isosceles triangle*
 
-> The segmented triangle Marco is able to segment an isosceles triangle ABC (AB=AC) along the segment connecting the vertex A to a point D on the opposite side, so that the angle of the sides AC and AD is 33° and the triangle ABD is isosceles with AB = BD. What is the measure, in degrees, of the BAD angle?
+> The dissected triangle: Marco manages to dissect an isosceles triangle ABC (AB=AC) along the line segment joining vertex A to a point D on the opposite side, so that the angle with sides AC and AD is 33o and triangle ABD is isosceles with AB = BD. What is the measure, in degrees, of angle BAD?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 71
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q12|src_kangourou_2013_squadre_a__Q12]]
 
 
 
@@ -456,13 +511,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Disposition of digits 1-9 in disks with minimum sum*
+*Arrangement of digits 1-9 in the discs with the smallest sum*
 
 ![[src_kangourou_2013_squadre_a__prob13.png]]
 
-> The magic discs. Look at the figure. Gianna wants to insert, one in each box, all the digits from 1 to 9 in the available boxes so that the sum of the digits inserted inside each of the disks is always the same and is the smallest possible, and that also the number obtained by juxtaposing the 9 digits written is the smallest possible. What are the first four digits inserted from the left?
+> The magic discs. Look at the figure. Gianna wants to place all the digits from 1 to 9 in the available boxes, one in each box, so that the sum of the digits placed inside each of the discs is always the same and is the smallest possible, and so that the number obtained by putting the 9 written digits next to each other is also the smallest possible. What are the first four digits placed, starting from the left?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 8371
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q13|src_kangourou_2013_squadre_a__Q13]]
 
 
 
@@ -489,14 +550,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the 126th position of the sequence of only even digits*
+*Number in the 126th place of the only-even-digits sequence*
 
-> Only even digits  
-> From the sequence 1, 2, 3, 4, 5 , 6, … of positive integers, eliminate all and only those for whose writing it is 
-> necessary to use at least one odd digit. There remain, in order: 2, 4, 6, 8, 20, 22, … . Which 
-> number occupies the 126th position in this new sequence?
+> Only even digits. From the sequence 1, 2, 3, 4, 5 , 6, … of the positive integers, eliminate all and only those that need at least one odd digit in order to be written. There remain, in order: 2, 4, 6, 8, 20, 22, … . Which number occupies the 126th place in this new sequence?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2002
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q14|src_kangourou_2013_squadre_a__Q14]]
 
 
 
@@ -529,16 +593,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number less the cube sum of the digits*
+*Number minus the sum of the cubes of its digits*
 
-> Subtraction From a three-digit number subtract the sum of the cubes of its digits. What is the greatest result you can achieve?
->  
->  
->  
-> 
-> Kangourou of Mathematics 2013 Kangourou Team Cup Semifinal round at Cervia, 4 May 2013
->  
->  
+> Subtraction. From a three-digit number, subtract the sum of the cubes of its digits. What is the largest result you can obtain? Kangourou of Mathematics 2013, Kangourou Team Cup, Semi-final round A, Cervia, 4 May 2013
+>
+>
 > Questions and solutions
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 396
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+[[Quesiti/src_kangourou_2013_squadre_a#q15|src_kangourou_2013_squadre_a__Q15]]

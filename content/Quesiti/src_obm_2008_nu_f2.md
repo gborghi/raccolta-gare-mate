@@ -33,13 +33,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione integrale che implica due punti derivati uguali*
+*Equazione integrale che implica due punti con derivate uguali*
 
-> Lasciate che il $f:[0,1]\to[0,1]$ sia crescente, differenziabile e invertibile.
-> 
-> Se $\displaystyle\int_0^1 f(x)\,dx = \int_0^1 f^{-1}(x)\,dx$, dimostrare che esistono due valori reali distinti $a,b$ con $0\le a < b \le 1$ tali che $f'(a)=f'(b)=1$.
-> 
-> (Nota: $f^{-1}$ indica la funzione inversa di $f$.)
+> Sia $f:[0,1]\to[0,1]$ crescente, derivabile e invertibile.
+>
+> Se $\displaystyle\int_0^1 f(x)\,dx = \int_0^1 f^{-1}(x)\,dx$, dimostrare che esistono due numeri reali distinti $a,b$ tali che $0\le a < b \le 1$ e $f'(a)=f'(b)=1$.
+>
+> (Nota: $f^{-1}$ denota la funzione inversa di $f$.)
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_nu_f2#q01|src_obm_2008_nu_f2__Q01]]
 
 
 
@@ -64,11 +71,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caratteristica del complemento finito attraverso il conteggio delle soluzioni di equazioni lineari*
+*Caratterizzazione per complemento finito tramite il numero di soluzioni di un'equazione lineare*
 
-> Let $\mathbb{N}=\{0,1,2,3,\ldots\}$. Per ogni set $A,B\subseteq\mathbb{N}$, per ogni numero intero positivo $n$ indicare con $r(A,B,n)$ il numero di soluzioni dell'equazione $a+b=n$ con $a\in A$, $b\in B$.
-> 
-> Dimostrare che esiste un $n_0\in\mathbb{N}$ tale che $r(A,B,n+1)>r(A,B,n)$ per tutti $n>n_0$ se e solo se entrambi $\mathbb{N}\setminus A$ e $\mathbb{N}\setminus B$ sono finiti.
+> Sia $\mathbb{N}=\{0,1,2,3,\ldots\}$. Dati gli insiemi $A,B\subseteq\mathbb{N}$, per ogni intero positivo $n$, si indichi con $r(A,B,n)$ il numero di soluzioni dell'equazione $a+b=n$ con $a\in A$, $b\in B$.
+>
+> Dimostrare che esiste $n_0\in\mathbb{N}$ tale che $r(A,B,n+1)>r(A,B,n)$ per ogni $n>n_0$ se e solo se sia $\mathbb{N}\setminus A$ sia $\mathbb{N}\setminus B$ sono finiti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_nu_f2#q02|src_obm_2008_nu_f2__Q02]]
 
 
 
@@ -93,11 +107,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Recurrenza della sequenza: subsequenza limitata da progressione aritmetica infinita*
+*Ricorrenza di sequenze: sottosequenza limitata tratta da una progressione aritmetica infinita*
 
-> Date $n,a_1,a_2,\ldots,a_n$ integri positivi, definire $q_0=1$, $q_1=a_1$ e $q_{i+1}=a_{i+1}q_i+q_{i-1}$ per $1\le i\le n-1$.
-> 
-> Prove che per ogni $c>1$ esiste $K>0$ tale che per ogni $M>K$ esiste $n$ un intero positivo e $a_1,a_2,\ldots,a_n$ appartenente a $\{1,2\}$ tale che $M\le q_n < c\cdot M$.
+> Dati $n,a_1,a_2,\ldots,a_n$ interi positivi, definisci $q_0=1$, $q_1=a_1$ e $q_{i+1}=a_{i+1}q_i+q_{i-1}$ per $1\le i\le n-1$.
+>
+> Dimostrare che, per ogni $c>1$, esiste $K>0$ tale che, per ogni $M>K$, esistono $n$, un numero intero positivo, e $a_1,a_2,\ldots,a_n$, appartenente a $\{1,2\}$, tali che $M\le q_n < c\cdot M$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_nu_f2#q03|src_obm_2008_nu_f2__Q03]]
 
 
 
@@ -124,13 +145,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line iperboloide: esistenza di due linee e angolo comune con z=0*
+*Rette iperboloidali: esistenza di due rette e angolo comune con z=0*
 
-> $H$ sia l'iperboloide dell'equazione $3x^2+3y^2-z^2-1=0$.
-> 
-> (i) dimostrare che ogni punto $(x,y,z)\in H$ appartiene esattamente a due linee contenute in $H$.
-> 
-> (ii) dimostrare che tutte le linee contenute in $H$ fanno lo stesso angolo con il piano $z=0$, e determinare tale angolo.
+> Sia $H$ l'iperboloide di equazione $3x^2+3y^2-z^2-1=0$.
+>
+> (i) Dimostrare che ogni punto $(x,y,z)\in H$ appartiene esattamente a due rette contenute in $H$.
+>
+> (ii) Dimostrare che tutte le rette contenute in $H$ formano lo stesso angolo con il piano $z=0$, e determina tale angolo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_nu_f2#q04|src_obm_2008_nu_f2__Q04]]
 
 
 
@@ -157,13 +185,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni da Z a Z che soddisfano due condizioni funzionali*
+*Trovare tutte le funzioni da Z a Z che soddisfano due condizioni funzionali*
 
-> Trova tutte le funzioni $f:\mathbb{Z}\to\mathbb{Z}$ che soddisfano:
-> 
-> (i) $f(f(n))=f(n)+1$ per tutti $n\in\mathbb{Z}$;
-> 
-> (ii) $f(2009n+2008)=2009f(n)$ per tutti $n\in\mathbb{Z}$.
+> Trovare tutte le funzioni $f:\mathbb{Z}\to\mathbb{Z}$ che soddisfano:
+>
+> (i) $f(f(n))=f(n)+1$ per tutti gli $n\in\mathbb{Z}$;
+>
+> (ii) $f(2009n+2008)=2009f(n)$ per tutti gli $n\in\mathbb{Z}$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_nu_f2#q05|src_obm_2008_nu_f2__Q05]]
 
 
 
@@ -192,12 +227,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tuppi ordinati con prodotto massimo n; legato f(n) tra due potenze*
+*Conteggia le n-tuple ordinate il cui prodotto è al più n; delimita f(n) tra due potenze*
 
-> Per un numero intero positivo $n$, $f(n)$ è il numero di prodotti di numeri interi superiori a $1$ il cui risultato è al massimo $n$; cioè $f(n)$ è il numero di $k$-tupli $(a_1,a_2,\ldots,a_k)$ dove $k$ è un numero naturale, $a_1\ge 2$ è un numero intero, e $a_1\cdot a_2\cdots a_k\le n$ per ogni $i$ e $a_1\cdot a_2\cdots a_k\le n$ (conteggiando il numero vuoto $0$-tuplo $()$, il cui prodotto è $1$, come un termine). Quindi, ad esempio, $f(1)=1$ per il $0$-tuple; $f(6)=9$ per il $0$-tuple $()$, i $1$-tuple $(2),(3),(4),(5),(6)$, i $2$-tuple $(2,2),(2,3)$ e $(3,2)$.
-> 
-> Che $\alpha>1$ sia tale che $\displaystyle\sum_{m=2}^{\infty}\frac{1}{m^{\alpha}}=\frac{1}{2}$.
-> 
-> a) Prove che esiste una costante $K>0$ tale che $f(n)\le K\cdot n^{\alpha}$ per ogni intero positivo $n$.
-> 
-> b) dimostrare l'esistenza di una costante $c>0$ tale che $f(n)\ge c\cdot n^{\alpha}$ per ogni intero positivo $n$.
+> Per un intero positivo $n$, si ponga $f(n)$ come il numero dei prodotti di interi maggiori di $1$ il cui risultato è al più $n$; vale a dire che $f(n)$ è il numero delle $k$-tuple $(a_1,a_2,\ldots,a_k)$ in cui $k$ è un certo numero naturale, $a_1\ge 2$ è un intero e $a_1\cdot a_2\cdots a_k\le n$ per ogni $i$ e $a_1\cdot a_2\cdots a_k\le n$ (contando come un termine la $0$-tupla vuota $()$, il cui prodotto è $1$). Dunque, ad esempio, $f(1)=1$ mediante la $0$-tupla; $f(6)=9$ mediante la $0$-tupla $()$, le $1$-tuple $(2),(3),(4),(5),(6)$, le $2$-tuple $(2,2),(2,3)$ e $(3,2)$.
+>
+> Sia $\alpha>1$ tale che $\displaystyle\sum_{m=2}^{\infty}\frac{1}{m^{\alpha}}=\frac{1}{2}$.
+>
+> (a) Dimostrare che esiste una costante $K>0$ tale che $f(n)\le K\cdot n^{\alpha}$ per ogni numero intero positivo $n$.
+>
+> (b) Dimostrare che esiste una costante $c>0$ tale che $f(n)\ge c\cdot n^{\alpha}$ per ogni numero intero positivo $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_nu_f2#q06|src_obm_2008_nu_f2__Q06]]

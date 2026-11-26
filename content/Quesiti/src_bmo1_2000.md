@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tangente comune a due cerchi che si intersecano; dimostrazione dell'angolo PMR*
+*Dimostrare che $MQ$ biseca l'angolo $PMR$*
 
-> Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. La linea $PN$ incontra nuovamente il cerchio $C_2$ a $R$. Provare che $MQ$ divide l'angolo $PMR$.
+> Due circonferenze secanti $C_1$ e $C_2$ hanno una tangente comune, che tocca $C_1$ in $P$ e $C_2$ in $Q$. Le due circonferenze si secano in $M$ e in $N$, dove $N$ è più vicino a $PQ$ di quanto lo sia $M$. La retta $PN$ seca di nuovo la circonferenza $C_2$ in $R$. Dimostrare che $MQ$ biseca l'angolo $PMR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2000#q01|src_bmo1_2000__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che un'espressione in n è divisibile per 2000*
+*Dimostrare che $121^n - 25^n + 1900^n - (-4)^n$ è divisibile per 2000*
 
-> Mostra che per ogni intero positivo $n$, $$121^n - 25^n + 1900^n - (-4)^n$$ è divisibile per 2000.
+> Dimostrare che, per ogni intero positivo $n$,
+> $$121^n - 25^n + 1900^n - (-4)^n$$
+> è divisibile per 2000.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2000#q02|src_bmo1_2000__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare AP+BP+CP per il punto P sul perimetro del triangolo rettangolare*
+*Punto $P$ sul perimetro che rende minimo $AP + BP + CP$*
 
-> Il triangolo $ABC$ ha un angolo retto a $A$. Tra tutti i punti $P$ sul perimetro del triangolo, trovare la posizione di $P$ tale da ridurre al minimo $$AP + BP + CP$$.
+> Il triangolo $ABC$ è rettangolo in $A$. Fra tutti i punti $P$ del perimetro del triangolo, trovare la posizione di $P$ tale che
+> $$AP + BP + CP$$
+> sia minimo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2000#q03|src_bmo1_2000__Q03]]
 
 
 
@@ -110,9 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di ricorrenze; trovare tutti i k per i quali 2000 è un termine*
+*Valori di $k > 1$ per cui 2000 compare nella successione*
 
-> Per ogni intero positivo $k > 1$, definire la sequenza $\{a_n\}$ da $$a_0 = 1 \quad \text{and} \quad a_n = kn + (-1)^n a_{n-1} \quad \text{for each } n \geq 1.$$ Determinare tutti i valori di $k$ per i quali 2000 è un termine della sequenza.
+> Per ogni intero positivo $k > 1$, si definisca la successione $\{a_n\}$ mediante
+> $$a_0 = 1 \quad \text{and} \quad a_n = kn + (-1)^n a_{n-1} \quad \text{for each } n \geq 1.$$
+> Determinare tutti i valori di $k$ per cui 2000 è un termine della successione.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2000#q04|src_bmo1_2000__Q04]]
 
 
 
@@ -137,8 +171,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi in cui sette (allora otto) persone formano quattro squadre disuguali*
+*Modi di ripartire i sette nani, e poi anche Biancaneve, in quattro squadre*
 
-> Le sette nane decidono di formare quattro squadre per competere nel Millennium Quiz. Naturalmente, le dimensioni delle squadre non saranno tutte uguali. Ad esempio, una squadra potrebbe essere composta da Doc solo, una da Dopey solo, una da Sleepy, Happy $\&$ Grumpy, e una da Bashful $\&$ Sneezy. In quanti modi possono essere costituite le quattro squadre? (L'ordine delle squadre o dei nani all'interno delle squadre non importa, ma ogni nano deve essere esattamente in una delle squadre.)
-> 
-> Supponiamo che anche Bianco Neve abbia accettato di partecipare. In quanti modi potevano allora essere formate le quattro squadre?
+> I sette nani decidono di formare quattro squadre per il quiz del millennio. Naturalmente le squadre non avranno tutte la stessa numerosità. Per esempio, una squadra potrebbe essere formata dal solo Dotto, una dal solo Cucciolo, una da Pisolo, Gongolo $\&$ Brontolo, e una da Mammolo $\&$ Eolo. In quanti modi si possono formare le quattro squadre? (L'ordine delle squadre e l'ordine dei nani dentro le squadre non contano, ma ciascun nano deve stare in esattamente una squadra.)
+>
+> Si supponga che anche Biancaneve accetti di partecipare. In quanti modi si potrebbero allora formare le quattro squadre?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2000#q05|src_bmo1_2000__Q05]]

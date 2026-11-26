@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove 3^n + 2×17^n non è mai un quadrato perfetto*
+*$3^n + 2 \times 17^n$ non è mai un quadrato perfetto*
 
-> Prova che il numero $$3^n + 2 \times 17^n$$ dove $n$ è un intero non negativo, non è mai un quadrato perfetto.
+> Dimostrare che il numero
+> $$3^n + 2 \times 17^n$$
+> dove $n$ è un intero non negativo, non è mai un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1990-91_round1#q01|src_bmo_1990-91_round1__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca dei numeri interi positivi k tale che x^(2k+1)+x+1 sia divisibile da x^k+x+1*
+*Tutti i $k$ positivi per cui $x^k + x + 1$ divide $x^{2k+1} + x + 1$, e gli $n$ corrispondenti*
 
-> Trovare tutti gli integri positivi $k$ in modo tale che il polinomio $x^{2k+1} + x + 1$ sia divisibile dal polinomio $x^k + x + 1$.
-> 
-> Per ciascuna di tali $k$ specificare gli integri $n$ in modo tale che $x^n + x + 1$ sia divisibile da $x^k + x + 1$.
+> Trovare tutti gli interi positivi $k$ tali che il polinomio $x^{2k+1} + x + 1$ sia divisibile per il polinomio $x^k + x + 1$.
+>
+> Per ciascuno di tali $k$ specificare gli interi $n$ tali che $x^n + x + 1$ sia divisibile per $x^k + x + 1$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1990-91_round1#q02|src_bmo_1990-91_round1__Q02]]
 
 
 
@@ -90,13 +106,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico: BD perpendicolare a CA se EA2+EB2+EC2+ED2=4r2*
+*Se le diagonali sono perpendicolari vale $(*)$; vale il viceversa?*
 
-> $ABCD$ è un quadrilaterale inserito in un cerchio di raggio $r$. Le diagonali $AC$ e $BD$ si incontrano a $E$.
-> 
-> Prova che se $AC$ è perpendicolare a $BD$, allora $$EA^2 + EB^2 + EC^2 + ED^2 = 4r^2. \quad (*)$$
-> 
-> E' vero che se $(*)$ si tiene, allora $AC$ è perpendicolare a $BD$? Datemi una ragione per la vostra risposta.
+> $ABCD$ è un quadrilatero inscritto in una circonferenza di raggio $r$. Le diagonali $AC$, $BD$ si incontrano in $E$.
+>
+> Dimostrare che se $AC$ è perpendicolare a $BD$ allora
+> $$EA^2 + EB^2 + EC^2 + ED^2 = 4r^2. \quad (*)$$
+>
+> È vero che se vale $(*)$ allora $AC$ è perpendicolare a $BD$? Dare una ragione della risposta.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1990-91_round1#q03|src_bmo_1990-91_round1__Q03]]
 
 
 
@@ -121,11 +145,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo di (x+y)(y+z) dato xyz(x+y+z)=1*
+*Il minimo di $(x + y)(y + z)$ se $xyz(x + y + z) = 1$*
 
-> Trova, con prova, il valore minimo di $(x + y)(y + z)$ dove $x, y, z$ sono numeri reali positivi che soddisfano la condizione $$xyz(x + y + z) = 1.$$
+> Trovare, con dimostrazione, il minimo valore di $(x + y)(y + z)$ dove $x, y, z$ sono numeri reali positivi che soddisfano la condizione
+> $$xyz(x + y + z) = 1.$$
 
-**Risposta:** 1
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1990-91_round1#q04|src_bmo_1990-91_round1__Q04]]
 
 
 
@@ -152,11 +182,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi permutazioni di 16 senza segmento iniziale che costituisca una permutazione di 1..n*
+*Il numero di permutazioni in cui nessun prefisso è una permutazione di $1, \ldots, n$*
 
-> Trova il numero di permutazioni (arrangiamenti) $$P_1, P_2, P_3, P_4, P_5, P_6$$ di $1, 2, 3, 4, 5, 6$ con la proprietà:
-> 
-> Per nessun numero intero $n$, $1 \le n \le 5$, $p_1, p_2, \ldots, p_n$ costituisce una permutazione di $1, 2, \ldots, n$.
+> Trovare il numero di permutazioni (disposizioni)
+> $$P_1, P_2, P_3, P_4, P_5, P_6$$
+> di $1, 2, 3, 4, 5, 6$ con la proprietà seguente:
+>
+> per nessun intero $n$, $1 \le n \le 5$, i numeri $p_1, p_2, \ldots, p_n$ formano una permutazione di $1, 2, \ldots, n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1990-91_round1#q05|src_bmo_1990-91_round1__Q05]]
 
 
 
@@ -179,9 +218,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra x è un quadrato perfetto se x2+y2−x è divisibile da 2xy*
+*Se $2xy$ divide $x^2 + y^2 - x$, allora $x$ è un quadrato perfetto*
 
-> Mostrare che se $x$ e $y$ sono numeri interi positivi in modo tale che $x^2 + y^2 - x$ sia divisibile da $2xy$ allora $x$ è un quadrato perfetto.
+> Dimostrare che se $x$ e $y$ sono interi positivi tali che $x^2 + y^2 - x$ sia divisibile per $2xy$ allora $x$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1990-91_round1#q06|src_bmo_1990-91_round1__Q06]]
 
 
 
@@ -204,6 +250,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lada contro parete: trovare l'altezza h in termini di lunghezza l e distanza tra le scale d*
+*L'altezza $h$ in funzione di $l$ e $d$*
 
-> Una scala di lunghezza $l$ si appoggia a una parete verticale. Supponiamo che sulla scala ci sia un gradino che abbia la stessa distanza $d$ sia dalla parete che dal terreno (orizzontale). Indicare esplicitamente, in termini di $l$ e $d$, l'altezza $h$ dal suolo che la scala raggiunge fino al muro.
+> Una scala di lunghezza $l$ poggia contro un muro verticale. Si supponga che ci sia un piolo della scala che ha la stessa distanza $d$ sia dal muro sia dal suolo (orizzontale). Trovare esplicitamente, in funzione di $l$ e $d$, l'altezza $h$ dal suolo a cui la scala arriva sul muro.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1990-91_round1#q07|src_bmo_1990-91_round1__Q07]]

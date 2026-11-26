@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N a due cifre in cui la somma di 10^N meno 1 è divisibile per 170*
+*Numero N a due cifre tale che la somma delle cifre di 10^N meno 1 sia divisibile per 170*
 
-> Trova tutti i numeri interi a due cifre $N$ per i quali la somma dei numeri di $10^N - 1$ è divisibile da $170$.
+> Trovare tutti gli interi a due cifre $N$ per i quali la somma delle cifre di $10^N - 1$ è divisibile per $170$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2000-01_round1#q01|src_bmo_2000-01_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due accordi tangenti dal punto sul cerchio esterno: rapporto angolare*
+*Due corde tangenti condotte da un punto sulla circonferenza esterna: relazione angolare*
 
-> Il cerchio $S$ si trova all'interno del cerchio $T$ e lo tocca a $A$. A partire da un punto $P$ (diverso da $A$) su $T$, vengono disegnati gli accordi $PQ$ e $PR$ di $T$ che toccano rispettivamente $S$ a $X$ e $Y$. Mostra che $\angle QAR = 2\angle XAY$.
+> Il cerchio $S$ giace all'interno del cerchio $T$ e lo tocca in $A$. Da un punto $P$ (distinto da $A$) appartenente a $T$, si tracciano le corde $PQ$ e $PR$ del cerchio $T$, che toccano il cerchio $S$ rispettivamente in $X$ e in $Y$. Dimostrare che $\angle QAR = 2\angle XAY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2000-01_round1#q02|src_bmo_2000-01_round1__Q02]]
 
 
 
@@ -81,9 +95,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette tetromini distinti; imballazione in un rettangolo 4×7*
+*Sette tetromini distinti; incastrali in un rettangolo 4×7*
 
-> Un tetromino è una figura composta da quattro quadrati unitari collegati ai bordi. (i) Se non facciamo distinzione tra le possibili rotazioni di un tetromino all'interno del suo piano, dimostriamo che ci sono sette tetromino distinte. (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
+> Un tetromino è una figura composta da quattro quadrati unitari collegati lungo i lati. (i) Se non si distinguono le possibili rotazioni di un tetromino nel suo piano, dimostrare che esistono sette tetromini distinti. (ii) Dimostrare o confutare l'affermazione: è possibile impacchettare tutti e sette i tetromini distinti all'interno di un rettangolo $4 \times 7$ senza sovrapposizioni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2000-01_round1#q03|src_bmo_2000-01_round1__Q03]]
 
 
 
@@ -108,9 +129,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita con la funzione integro più vicina; prove i termini formano integri consecutivi*
+*Sequenza definita tramite la funzione dell'intero più vicino; dimostrare che i termini formano interi consecutivi*
 
-> Definire la sequenza $(a_n)$ con $a_0 = 0$, $a_1 = 1$ e $$a_{n+1} = n\,a_n + (n-1)\,a_{n-1}$$ dove $n$ è un intero positivo e dove $r$ indica il numero intero più vicino a $r$. Determinare se i termini $a_0, a_1, a_2, \ldots$ costituiscono una sequenza di numeri interi consecutivi.
+> Definisci la successione $(a_n)$ mediante $a_0 = 0$, $a_1 = 1$ e
+> $$a_{n+1} = n\,a_n + (n-1)\,a_{n-1}$$
+> dove $n$ è un numero intero positivo, e dove $r$ indica l'intero più vicino a $r$. Determinare se i termini $a_0, a_1, a_2, \ldots$ formano una successione di interi consecutivi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2000-01_round1#q04|src_bmo_2000-01_round1__Q04]]
 
 
 
@@ -133,6 +163,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il triangolo è rettangolare se a2+b2+c2=8R2*
+*Un triangolo è rettangolo se e solo se a²+b²+c²=8R²*
 
-> Un triangolo ha lati di lunghezza $a$, $b$, $c$ e il suo circoncircolo ha raggio $R$. Prove che il triangolo è rettangolare se e solo se $a^2 + b^2 + c^2 = 8R^2$.
+> Un triangolo ha lati di lunghezza $a$, $b$, $c$ e la sua circonferenza circoscritta ha raggio $R$. Dimostrare che il triangolo è rettangolo se e solo se $a^2 + b^2 + c^2 = 8R^2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2000-01_round1#q05|src_bmo_2000-01_round1__Q05]]

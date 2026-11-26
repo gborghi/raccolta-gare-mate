@@ -32,13 +32,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*inscribed circles and squares, radius over 2001*
+*inscribed circles and squares, radius beyond 2001*
 
-> **The IMO Confederation** (15 points)
-> 
-> The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius of 1 Imoparsec. If a square is circled around it and a circle is circled around it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$ The last belt is the only one with a greater radius than 2001 Imoparsec. How many are in all the belts?
+> **The IMO confederation** (15 points)
+>
+> The IMO confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has radius 1 Imoparsec. If a square is circumscribed about it and a circle is circumscribed about this square, the second belt of stars ($I_2$) is obtained. In the same way, starting from $I_2$, $I_3$ is obtained, then $I_4$, $I_5$, $\ldots$ The last belt is the only one that has a radius greater than 2001 Imoparsec. How many belts are there in total?
 
-**Answer:** 0023
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_squadre#q01|src_archimede_2001_squadre__Q01]]
 
 
 
@@ -66,15 +70,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The position of the planet (24.25) in paired numbering
+*Position of the planet (24,25) in the pair numbering*
 
-> This is the total number of points for each of the following categories:
+> **Toponymy** (20 points)
 > 
-> The confederation's planets are identified by a pair of natural numbers. The capital (the planet of origin of civilization) is $(0, 0)$ and the first colonized planet is identified by the pair $(1, 0)$, the second by $(0, 1)$, the third by $(2, 0)$, the fourth by $(1, 1)$ and so on. What position does the planet $(24, 25)$ occupy in the history of the Imo-colonized planets?
+> The planets of the confederation are identified by a pair of natural numbers. The capital (the planet of origin of the civilization) is $(0, 0)$ and the first planet colonized is identified with the pair $(1, 0)$, the second with $(0, 1)$, the third with $(2, 0)$, the fourth with $(1, 1)$ and so on. What position does the planet $(24, 25)$ occupy in the history of the planets colonized by the Imo?
 > 
-> NB: More formally, $(a, b)$ comes before $(c, d)$ if and only if: $$a + b < c + d \quad \text{oppure} \quad a + b = c + d \text{ e } a < c.$$
+> NB: More formally, $(a, b)$ comes before $(c, d)$ if and only if:
+> $$a + b < c + d \quad \text{or} \quad a + b = c + d \text{ and } a < c.$$
 
-**Answer:** 1250
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_squadre#q02|src_archimede_2001_squadre__Q02]]
 
 
 
@@ -102,11 +110,15 @@ The position of the planet (24.25) in paired numbering
 
 *minimum number of members*
 
-> **Wretched explorers** (10 points)
-> 
-> Five Imesi spacecraft are returning home from a voyage of exploration in our galaxy and one of them has just suffered irreparable damage. The crew of this ship is transferred to the other four and when these ships resume their journey each has the same number of people on board. The captain of the ship failing realizes that if his crew had been less numerous it would not have been possible to distribute it among the ships in order to obtain the same result. Since at the start of the voyage the four healthy ships contained 109, 49, 267, and 278 imes, how many crew members were on the wrecked ship?
+> **Clumsy Explorers** (10 points)
+>
+> Five Imesi spaceships are returning home after an exploration trip through our galaxy, and one of them has just suffered an irreparable breakdown. The crew of this ship is transferred to the other four, and when these ships resume their journey each has the same number of people on board. The captain of the broken ship notices that if his crew had been smaller it would not have been possible to distribute it among the ships so as to obtain the same result. Given that at the start of the journey the four healthy ships contained 109, 49, 267 and 278 imesi, how many are the members of the crew of the broken ship?
 
-**Answer:** 0409
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_squadre#q03|src_archimede_2001_squadre__Q03]]
 
 
 
@@ -132,13 +144,17 @@ The position of the planet (24.25) in paired numbering
 <div class="qlang-split" data-lang="en"></div>
 
 
-*full maximum perimeter*
+*perimetro massimo intero*
 
-> **Montecitorio** (60 points)
-> 
-> The confederation's parliament is based on a triangle whose angle is twice that of the other. All sides of the triangle have a full length and a measure of 55 mm. How long can the perimeter of the building be, at most?
+> **Montecitorio** (60 punti)
+>
+> The parliament of the confederation has as its base a triangle in which one angle is double another. All sides of the triangle have integer length and one measures 55 imometri. What can be the maximum length of the perimeter of the building?
 
-**Answer:** 1540
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2001_squadre#q04|src_archimede_2001_squadre__Q04]]
 
 
 
@@ -182,32 +198,35 @@ The position of the planet (24.25) in paired numbering
 <div class="qlang-split" data-lang="en"></div>
 
 
-The measurement shall be carried out in accordance with the following conditions:
+*measure DC*
 
-![[src_archimede_2001_squadre__prob5.png]]
+> ![[src_archimede_2001_squadre__prob5.png]]
+>
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}
+>   \coordinate (A) at (0,0);
+>   \coordinate (B) at (5,0);
+>   \coordinate (C) at (0,6);
+>   \coordinate (D) at (2,3.6);
+>   \draw (A)--(B)--(C)--cycle;
+>   \draw (A)--(D);
+>   \node[below left] at (A) {$A$};
+>   \node[below right] at (B) {$B$};
+>   \node[above left] at (C) {$C$};
+>   \node[right] at (D) {$D$};
+> \end{tikzpicture}
+> \end{document}
+> ```
+>
+> **The park** (40 points)
+>
+> In the park in front of the parliament there is a rectangular-triangular flower bed cut into two parts by the road leading to the entrance of the Senate (see figure). The sides of the flower bed, the stretch of road $AD$ and the sides $BD$ and $DC$ have integer length and $BC$ measures 40 imometri. How many imometri does $DC$ measure (write 0 if the data are insufficient to solve the problem)? (see figure)
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (5,0);
-  \coordinate (C) at (0,6);
-  \coordinate (D) at (2,3.6);
-  \draw (A)--(B)--(C)--cycle;
-  \draw (A)--(D);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above left] at (C) {$C$};
-  \node[right] at (D) {$D$};
-\end{tikzpicture}
-\end{document}
-```
 
-> The park** (40 points)
-> 
-> In the park in front of the Parliament there is a rectangular triangle-shaped awning cut in two by the road leading to the entrance to the Senate (see figure). The sides of the hood, the road section $AD$ and the sides $BD$ and $DC$ are of full length and $BC$ measures 40 mm. How many imometers measure $DC$ (write 0 if the data is insufficient to solve the problem)? (see figure)
-
-**Answer:** 0020
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_squadre#q05|src_archimede_2001_squadre__Q05]]
 
 
 
@@ -261,37 +280,39 @@ The measurement shall be carried out in accordance with the following conditions
 
 *crossword of prime numbers and products*
 
-![[src_archimede_2001_squadre__prob6.png]]
-
-> Other readings**(65 points)
-> 
-> One of the most controversial provisions of the Senate this month is a law banning the publication of crosswords. Some student associations have launched the monthly "Contestation" cross number in protest.
-> 
-> The cross-sectional number shall have a grid $3 \times 4$ with the following definitions:
-> 
-> The value of the underlying assets shall be the sum of all the assets of the institution.
-> 
+> **Strange laws** (65 points)
+>
+> One of the most contested measures of the Senate this month is a law that forbids the publication of crosswords. Some student associations have launched, in protest, the cross-number on the magazine «Contestazione».
+>
+> The cross-number has a $3 \times 4$ grid with the following definitions:
+>
+> **Across**
+>
 > (1) The exact answer to this game.
-> 
-> (2) It is a prime, equal to the product of more consecutive primes minus 1 (e.g. $5 \times 7 \times 11 - 1$, even if this is not a prime).
-> 
-> (3) Product of three consecutive numbers (e.g. $4 \times 5 \times 6$).
-> 
+>
+> (2) It is a prime number, equal to the product of several consecutive primes minus 1 (example $5 \times 7 \times 11 - 1$, even though this is not a prime number).
+>
+> (3) Product of three consecutive numbers (example $4 \times 5 \times 6$).
+>
 > (4) It is a prime number.
-> 
-> The manufacturer shall provide the manufacturer with the following information:
-> 
-> (1) Sum of two cubes (of natural numbers, of course).
-> 
-> (2) 4-digit palindrome number power of a prime (a palindrome number is a number that does not change if read from right to left).
-> 
+>
+> **Down**
+>
+> (1) Sum of two cubes (of natural numbers, naturally).
+>
+> (2) A 4-digit palindromic number that is a power of a prime (a palindromic number is a number that does not change if read from right to left).
+>
 > (3) It is a prime number.
-> 
-> (4) 5 vertically to the square.
-> 
-> (NB: The answer to any of the definitions can also be a number less than 1000. If one of the answers should be, for example, 13 in the table, enter 0013.)
+>
+> (4) 5 down squared.
+>
+> (NB: The answer to any of the definitions may also be a number less than 1000. If one of the answers were, for example, 13, it should be entered in the table as 0013.)
 
-**Answer:** 7100
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2001_squadre#q06|src_archimede_2001_squadre__Q06]]
 
 
 
@@ -317,13 +338,17 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*in how many ways*
+*in quanti modi*
 
-> This is the total number of subscriptions.
-> 
-> To subscribe to Contest you must pay 50 shields to the Imesi Free Students Association. In the confederation you can find banknotes of any value from 1 to 100 shields. How many ways can an Imese pay for the subscription to Contest using three different banknotes?
+> **Abbonamenti** (45 punti)
+>
+> Per abbonarsi a «Contestazione» bisogna pagare 50 Scudi all'Associazione Liberi Studenti Imesi. Nella confederazione si possono trovare banconote di ogni valore da 1 a 100 Scudi. In quanti modi un Imese può pagare l'abbonamento a «Contestazione» usando tre banconote diverse tra loro?
 
-**Answer:** 0184
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_squadre#q07|src_archimede_2001_squadre__Q07]]
 
 
 
@@ -351,11 +376,15 @@ The measurement shall be carried out in accordance with the following conditions
 
 *decimal digits after 2001 moves*
 
-> I mean, games... 1 2 3** (25 points)
-> 
-> The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the beams of the triangle detected by the three points and considering the points that those beams intercept on the circumference. Xam begins to play with points that on the circumference identify arcs of length 1, 2 and 3. Xam stops after the 2001 move. How many digits after the comma is the product of the lengths of the three arcs identified by the last points marked?
+> **Giochi ... 1 2 3** (25 points)
+>
+> Periodicals that are rich in columns on solitaire and pastimes. Here is one. Starting with three points on a circle; a move consists of drawing the angle bisectors of the triangle determined by the three points and considering the points that these bisectors intersect on the circle. Xam begins playing with points that on the circle determine arcs of length 1, 2 and 3. Xam stops after 2001 moves. How many digits after the decimal point does the product of the lengths of the 3 arcs determined by the last points marked have?
 
-**Answer:** 4001
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2001_squadre#q08|src_archimede_2001_squadre__Q08]]
 
 
 
@@ -381,13 +410,17 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*units and divisions, maximum number of heaps*
+*unioni e divisioni, numero massimo di mucchi*
 
-> **... and hobbies** (30 points)
-> 
-> Here's another one. The following operations are permitted: two can be joined and one can be divided into two equal piles (if the number of stones is equal). Assuming Obob leaves with 3 piles made of 441, 1437 and 327 stones, respectively, what is the maximum number of piles he can reach?
+> **... and pastimes** (30 points)
+>
+> Here is another one. Starting with a certain number of piles of stones, the following operations are allowed: two piles may be joined, and one pile may be divided into two equal piles (if the number of stones is even). Assuming that Obob starts with 3 piles made respectively of 441, 1437 and 327 stones, what is the maximum number of piles he can reach?
 
-**Answer:** 0735
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2001_squadre#q09|src_archimede_2001_squadre__Q09]]
 
 
 
@@ -419,17 +452,23 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum known term*
+*largest constant term*
 
-> **Ancient civilizations** (60 points)
-> 
-> One of the most important problems of Imese archaeology is the deciphering of the numbers of the Qwghlm civilization, whose writing is quite well known. It is assumed that the Qwghlmians used a base 11 system, having 11 tentacles. A brilliant archaeologist just found a page in an old math book that said:
-> 
-> Using the method of 'Rtenio' (NdR: a well-known Qwghlmian mathematician) it is concluded that the roots of the $$\alpha x^2 - \beta x + \alpha + \beta - \gamma = 0$$ polynomial are all integers
-> 
-> The Greek letters represent two different unknown Qwghlmian figures. Calculate the maximum value that the known term can assume.
+> **Ancient civilisations** (60 points)
+>
+> One of the most important problems in Imese archaeology is the deciphering of the numbers of the Qwghlm civilisation, whose writing is known quite well. It is taken for granted that the Qwghlmians used a base-11 system, having 11 tentacles. A brilliant archaeologist has just found a page from an old mathematics notebook with the following written on it:
+>
+> “Using the method of ‘Rtenio’ (NdR: a well-known Qwghlmian mathematician) it is concluded that the roots of the polynomial
+> $$\alpha x^2 - \beta x + \alpha + \beta - \gamma = 0$$
+> are all integers”
+>
+> The Greek letters represent two different unknown Qwghlmian digits. Calculate the maximum value that the constant term can take.
 
-**Answer:** 3024
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_squadre#q10|src_archimede_2001_squadre__Q10]]
 
 
 
@@ -455,13 +494,17 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum cone radius*
+*minimum radius of the cone*
 
-> This is the total amount of the contribution from the Union to the programme.
-> 
-> The typical imesis house is made up of three square chambers of 10 mm side length connected by a triangular-shaped compartment, so that each side of this compartment coincides with one side of one of the chambers. The roof is a straight circular cone. What is the minimum radius that the base of the roof must have to cover the entire house? (Only the full part of the number found is indicated in the answer)
+> **Architecture** (20 points)
+>
+> The typical imese house is made up of three square rooms with side length 10 imometri connected by a triangular-shaped hall, so that each side of this hall coincides with a side of one of the rooms. The roof is a right circular cone. What is the minimum radius that the base of the roof must have so that the whole house is covered? (In the answer indicate only the integer part of the number found)
 
-**Answer:** 0013
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_squadre#q11|src_archimede_2001_squadre__Q11]]
 
 
 
@@ -486,13 +529,16 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minor segment*
+*shorter segment*
 
-> Furniture ** (40 points)
-> 
-> The wall clocks in use in the Confederation are all in the shape of a rectangle having the angle between the $45°$ diagonals. The upper side is parallel to the ground, while the lower side measures 1221 impolite. In the capital it is 20 hours a day; at this moment it is one quarter and the bidding indicates a point that divides the main side of the rectangle into two segments. What is the length of the lesser of the two segments?
+> **Furniture** (40 points)
+>
+> The wall clocks used in the confederation all have the shape of a rectangle whose diagonals meet at an angle of $45°$. The longer side is parallel to the ground, while the shorter side measures 1221 imopollici. In the capital, 20 hours are made per day; at this moment it is one quarter past one and the hand points to a point that divides the longer side of the rectangle into two segments. What is the length of the shorter of the two segments?
 
-**Answer:** 0865
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_squadre#q12|src_archimede_2001_squadre__Q12]]
 
 
 
@@ -518,13 +564,17 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum number to make 2001*
+*minimum number needed to make 2001*
 
-> The following is the list of countries in the world which have been granted the right to vote:
-> 
-> Another ancient people that existed before the birth of the confederation represented each number by a sequence of two symbols: $\circ$ and $\triangle$. The $\circ$ symbol at the end of a sequence meant adding a unit, while the $\triangle$ symbol meant multiplying by 7. For example, the sequence $\circ\circ\circ\triangle\circ$ represented the number 29. What is the minimum number of symbols needed to represent the number 2001?
+> **Alternative civilisations** (30 points)
+>
+> Another ancient people that existed before the birth of the confederation represented every number by means of a sequence of two symbols: $\circ$ and $\triangle$. The symbol $\circ$ at the bottom of a sequence meant adding one unit, while the symbol $\triangle$ meant multiplying by 7. For example, the sequence $\circ\circ\circ\triangle\circ$ represented the number 29. What is the minimum number of symbols needed to represent the number 2001?
 
-**Answer:** 0024
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2001_squadre#q13|src_archimede_2001_squadre__Q13]]
 
 
 
@@ -550,13 +600,17 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bisexual years with a sum of 7 digits between 0 and 5000*
+*Years with digit sum 7 between 0 and 5000*
 
-> The following table shows the number of calendar days: ** Calendars** (30 points)
-> 
-> In the IMES calendar, even-numbered years are those corresponding to numbers whose sum of digits is 7 (for example, the year 1060 is even-numbered). How many leap years have there been between year zero and year 5000?
+> **Calendars** (30 points)
+>
+> In the imese calendar, leap years are those corresponding to numbers whose digit sum is 7 (for example, the year 1060 is a leap year). How many leap years have there been between year zero and year 5000?
 
-**Answer:** 0110
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_squadre#q14|src_archimede_2001_squadre__Q14]]
 
 
 
@@ -584,11 +638,15 @@ The measurement shall be carried out in accordance with the following conditions
 
 *maximum base area*
 
-> This is the total amount of the contribution from the Union to the programme.
-> 
-> Confederation president Ocram Ifrof wants to have a pool in his villa garden. Because he doesn't like too complicated geometric figures, he decides that his pool will be rectangular, just like his garden is rectangular. In addition, he would like to place a three-lane straight avenue around the basin to form a triangle. Considering the width of the alley is negligible, what will be the base area of the pool (in $\text{im}^2$) at most if the garden extends for $3500\ \text{im}^2$?
+> **Casabianca** (30 points)
+>
+> The president of the Ocram Ifrof confederation wants to have a swimming pool in the garden of his villa. Since he does not like too complicated geometric shapes, he decides that his pool will be rectangular, just like his garden. In addition, he would like to place around the basin a path consisting of three straight segments so as to form a triangle. Considering the width of the path negligible, what will be at most the base area of the pool (in $\text{im}^2$) if the garden extends over $3500\ \text{im}^2$?
 
-**Answer:** 0875
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_squadre#q15|src_archimede_2001_squadre__Q15]]
 
 
 
@@ -616,15 +674,19 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*probability of up to 4 consecutive points*
+*probability of max 4 consecutive points*
 
-> **Sports competence** (55 points)
-> 
-> Two brothers stationed in orbit around the Earth just watched the fifth set of the Italy-Yugoslavia volleyball game in Imo-Vision, which ended with a score of 15-12 for Yugoslavia. The Pescato, after 5 consecutive points from Sartoretti leads on its net and screams, saying back, who tiffs for Italy: it is Ardna, who tiffs for Italy. You're wrong, says Ardna, Italy has never scored more than 4 points in a row. Olean looks at the statistics, sees that throughout the set there have been 8 ball changes and he starts to calculate the probability that he is right (calculating the number of all possible moves of the score, those that would give him right and getting the percentage by ignoring the decimal digits). What percentage will Olean find?
-> 
-> NB: A team scores even when they get the ball.
+> **Sporting rivalries** (55 points)
+>
+> Two brothers Imesi in orbit around the Earth have just watched in Imo-vision the fifth set of the Italy-Yugoslavia volleyball match, which ended with the score 15-12 in favour of Yugoslavia. Pescato, after 5 consecutive points by Sartoretti, dives onto his own net and shouts, rallying, who supports Italy: it is Ardna, who supports Italy. "You're wrong," says Ardna, "Italy has never won more than 4 consecutive points." Olean looks at the statistics, sees that in the whole set there were 8 ball changes and starts calculating the probability that he is right (calculating the number of all possible score progressions, those that would give him right and deriving the percentage, neglecting the decimal figures). What percentage will Olean find?
+>
+> NB: A team scores a point also when it wins the ball change.
 
-**Answer:** 0081
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_squadre#q16|src_archimede_2001_squadre__Q16]]
 
 
 
@@ -649,13 +711,16 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*relationship between areas*
+*ratio of the areas*
 
-> This is the total amount of the loan.
-> 
-> When Ardna and Olean returned from their trip, they inherited a square field from an uncle whose side is 100 feet long. The will says that the division of the field must be done by drawing a line that cuts two opposite sides so that the difference in the perimeter of the two sides is 120 immeters. What is the relationship between the area of the largest part and the area of the smallest?
+> **Patrimoni** (30 points)
+>
+> On their return from their journey, Ardna and Olean inherit from an uncle a square field whose side is 100 imometri long. In the will it is said that the division of the field must be made by drawing a line that cuts two opposite sides so that the difference of the perimeters of the two parts is 120 imometri. What is the ratio of the area of the larger part to the area of the smaller part?
 
-**Answer:** 0004
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_squadre#q17|src_archimede_2001_squadre__Q17]]
 
 
 
@@ -680,13 +745,16 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Innaig field size*
+*area of Innaig's field*
 
-> This is the total amount of the loan amount.
-> 
-> Olean and Ardna, having inherited their field from 10000 immovable $^2$ decide to plough it by dividing the work in half. They're going to take eight hours each to work both. Wanting to take less time, they ask for help from Innaig, also the owner of a plough, who works at their own pace and is willing to help them if the help is exactly returned by both. In doing so, each of them works six hours to plough all the fields. How large is the Innaig field?
+> **Solidarietà imese** (10 points)
+>
+> Olean and Ardna, after inheriting their field of 10000 imotavole$^2$, decide to plough it by dividing the work in half. They plan to spend 8 hours each working both. Since they would like to spend less time, they ask for help from Innaig, who is also the owner of a field to be ploughed, works at the same speed as them and is willing to help them provided that the help is exactly repaid by both of them. In this way, each of them works 6 hours to plough all the fields. How many imotavole$^2$ is Innaig's field?
 
-**Answer:** 1250
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_squadre#q18|src_archimede_2001_squadre__Q18]]
 
 
 
@@ -713,11 +781,14 @@ The measurement shall be carried out in accordance with the following conditions
 
 *cost of the car*
 
-> Loans between friends** (10 points)
-> 
-> Ammac and Olomam would like to buy a limousine, splitting the cost in half, but currently they only have the $3/4$ of the required amount. The generous Ollimac lends to both of them, at zero rate, the amount of shields they each need to complete their share; in particular, he lends 2 million shields to Olomam. Ammac pledges to buy 10 million shields (all his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
+> **Loans between friends** (10 points)
+>
+> Ammac and Olomam would like to buy a car, splitting the cost in half, but currently they only have $3/4$ of the amount needed. The generous Ollimac lends to both, at zero interest, the amount of scudi needed by each of them to complete their share; in particular he lends 2 million scudi to Olomam. Ammac commits 10 million scudi (all his savings!) for the purchase, in addition to the amount lent to him by Ollimac. How many million scudi does the car cost?
 
-**Answer:** 0032
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_squadre#q19|src_archimede_2001_squadre__Q19]]
 
 
 
@@ -746,15 +817,21 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*last 4 digits*
+*Last four digits of the largest coefficient of a polynomial*
 
-> **More archaeology** (45 points)
-> 
-> Thanks also to your help the Qwghlm civilization numbering system has finally been deciphered. Now you can appreciate another problem found by some good archaeologists and translated into our decimal system:
-> 
-> What are the last four digits of the greatest coefficient (in absolute value) of the $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)(x-64)?»$$ polynomial
+> **Archaeology again** (45 points)
+>
+> Thanks to your help as well, the numeral system of the Qwghlm civilisation has at last been deciphered. You can now take up another problem found by some able archaeologists and translated into our decimal system:
+>
+> «What are the last four digits of the coefficient of largest absolute value in the polynomial
+> $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)(x-64)?»$$
 
-**Answer:** 1536
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_archimede_2001_squadre#q20|src_archimede_2001_squadre__Q20]]
 
 
 
@@ -780,13 +857,17 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*count fivefold in 20 years, the last 4 digits after 40020*
+*quintupled account in 20 years, last 4 digits after 40020*
 
 > **Generous banks** (25 points)
-> 
-> The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCIs after 20 years, the amount of a current account account is multiplied by five. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last four digits of the statement that Ocnarf's heirs will be able to read in 40020 years?
+>
+> The Imese economy is subject to strong devaluation and so interest rates are very high. In particular, with the current BCI rates, after 20 years the amount in a current account is quintupled. Assuming that today Ocnarf deposits one scudo and that the rates remain the same throughout, what will be the last 4 digits of the bank statement that Ocnarf's heirs will be able to read in 40020 years?
 
-**Answer:** 3125
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2001_squadre#q21|src_archimede_2001_squadre__Q21]]
 
 
 
@@ -814,15 +895,19 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many are*
+*how many are there*
 
-> The following table shows the results of the calculations:
-> 
-> In the textbooks of the confederation, polynomials whose coefficients are integers such that the sum of their squares is less than or equal to the degree of the polynomial are called onesti. How many honest polynomials (of a variable) of degree less than or equal to five?
-> 
-> (NB: Non-zero constant polynomials have degree 0 and the polynomial 0 per convention has degree $-\infty$; therefore the latter is not an honest polynomial.)
+> **Algebraists** (45 points)
+>
+> In the confederation's textbooks, "honest" polynomials are those whose coefficients are integers such that the sum of their squares is less than or equal to the degree of the polynomial. How many honest polynomials (in one variable) of degree less than or equal to five are there?
+>
+> (NB: Nonzero constant polynomials have degree 0 and the polynomial 0 by convention has degree $-\infty$; therefore the latter is not an honest polynomial.)
 
-**Answer:** 0646
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_squadre#q22|src_archimede_2001_squadre__Q22]]
 
 
 
@@ -850,13 +935,19 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum to*
+*minimum a*
 
-> The following table shows the calculation of the average monthly earnings:
-> 
-> Five operations are taught in primary schools. The fifth, which we will indicate with $\diamond$, is called the sum of imes, and is defined on fractions as follows: $$\frac{a}{b} \diamond \frac{c}{d} = \frac{ac}{ad + bc}$$ Calculate the smallest positive integer $a$ for which there are non-zero integers $b$, $c$ and $d$ such that the sum of imes of $a/b$ and $c/d$ coincides with their ordinary sum. You answer 0 if the sum of the months never coincides with the ordinary when $a$ is a positive integer.
+> **Imese arithmetic** (15 points)
+>
+> In Imese elementary schools five operations are taught. The fifth, which we will denote by $\diamond$, is called imese sum, and is defined on fractions in the following way:
+> $$\frac{a}{b} \diamond \frac{c}{d} = \frac{ac}{ad + bc}$$
+> Calculate the smallest positive integer $a$ for which there exist nonzero integers $b$, $c$ and $d$ such that the imese sum of $a/b$ and $c/d$ coincides with their ordinary sum. Answer 0 if the imese sum never coincides with the ordinary sum when $a$ is a positive integer.
 
-**Answer:** 0000
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_squadre#q23|src_archimede_2001_squadre__Q23]]
 
 
 
@@ -884,15 +975,19 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*when*
+*how many*
 
-> **Schools placed ** (15 points)
-> 
-> A monthly pupil was assigned the following year. It must find all ordered pairs of natural numbers $(m, n)$ so that both $m$ and $n$ are divisors of 385 and $m$ is divisor of $n$. Can you give him a hand by telling him how many pairs there are?
-> 
-> (NB: $1$ and $k$ are considered $k$ divisors.)
+> **Junior paper** (15 points)
+>
+> A junior student has been assigned the following exercise. He must find all ordered pairs of natural numbers $(m, n)$ such that both $m$ and $n$ are divisors of 385 and such that $m$ divides $n$. Can you help him by telling him how many pairs there are?
+>
+> (NB: $1$ and $k$ are considered divisors of $k$.)
 
-**Answer:** 0027
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_squadre#q24|src_archimede_2001_squadre__Q24]]
 
 
 
@@ -917,10 +1012,13 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*third radius*
+*raggio terza*
 
-> The amount of the loan shall be calculated as follows:
-> 
-> There is a square next to the parliament building with three circular fountains. Two of them have a radius of 52 mm, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
+> **Arte imese** (25 points)
+>
+> Near the parliament building there is a square with three circular fountains. Two of them have radius 52 metres, are externally tangent and tangent to a tree-lined avenue. The third is externally tangent to the first two and to the avenue. How many metres is its radius long?
 
-**Answer:** 0013
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_squadre#q25|src_archimede_2001_squadre__Q25]]

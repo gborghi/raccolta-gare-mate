@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ortocentro, punto medio, punto simmetrico in triangolo con angolo 30*
+*Ortocentro, punto medio, punto simmetrico in un triangolo con angolo di 30°*
 
-> In un triangolo a angolo acuto $ABC$ con $\angle A = 30^\circ$, $H$ è l'ortocentro e $M$ il punto medio di $BC$. Il punto $T$ è simmetrico a $H$ rispetto a $M$. Mostra che $AT = 2BC$.
+> In un triangolo acutangolo $ABC$ con $\angle A = 30^\circ$, $H$ è l'ortocentro e $M$ è il punto medio di $BC$. Il punto $T$ è simmetrico di $H$ rispetto a $M$. Dimostrare che $AT = 2BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1995#q01|src_inmo_1995__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molte copriemi con due quadratici con radici interi*
+*Infiniti coppie di numeri coprimi con due polinomi di secondo grado aventi radici intere*
 
-> Mostrare che ci sono infinite coppie $(a,b)$ di integri coprimi in modo tale che sia le equazioni quadratiche $x^2 + ax + b = 0$ che $x^2 + 2ax + b = 0$ abbiano radici di enti.
+> Dimostrare che esistono infiniti coppie $(a,b)$ di interi coprimi tali che entrambe le equazioni quadratiche $x^2 + ax + b = 0$ e $x^2 + 2ax + b = 0$ abbiano radici intere.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1995#q02|src_inmo_1995__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi di tre elementi di {1,...,65} con a+b+c<95*
+*Conta i sottoinsiemi di tre elementi di {1,...,65} tali che a+b+c<95*
 
-> Indicare che il numero di sottogruppi di tre elementi $\{a,b,c\}$ di $\{1,2,\ldots,65\}$ con $a+b+c < 95$ è inferiore a quello di quelli con $a+b+c > 95$.
+> Dimostrare che il numero dei sottoinsiemi a tre elementi $\{a,b,c\}$ di $\{1,2,\ldots,65\}$ con $a+b+c < 95$ è minore del numero di quelli con $a+b+c > 95$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_1995#q03|src_inmo_1995__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di radii di cerchio mistilineare a cerchio incircolo = tan^2((B-C)/4)*
+*Il rapporto tra i raggi del cerchio mixtilineo e del cerchio inscritto è uguale a tan^2((B-C)/4)*
 
-> Il $\Gamma$ deve essere il cerchio situato all'interno di un triangolo $ABC$ e che tocca i lati $AB$ e $AC$ e l'incircolo $\Gamma'$ del triangolo esternamente. Indicare che il rapporto tra i raggi di $\Gamma$ e $\Gamma'$ è uguale a $\tan^2\!\dfrac{B-C}{4}$.
+> Sia $\Gamma$ il cerchio che giace all'interno di un triangolo $ABC$, è tangente ai lati $AB$ e $AC$ e è esternamente tangente all'incirconferenza $\Gamma'$ del triangolo. Dimostrare che il rapporto tra i raggi di $\Gamma$ e $\Gamma'$ è uguale a $\tan^2\!\dfrac{B-C}{4}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1995#q04|src_inmo_1995__Q04]]
 
 
 
@@ -130,9 +158,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri reali a_k>1 che soddisfano la condizione di somma, dimostrano la disuguaglianza della somma doppia*
+*Numeri reali a_k>1 che soddisfano la condizione sulla somma; dimostrare la disuguaglianza sulla somma doppia*
 
-> I numeri reali $a_1, a_2, \ldots, a_n$ sono tutti superiori a $1$ e soddisfano $|a_k - a_{k+1}| < 1$ per $1 \le k \le n-1$. Provare che $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1} < 2n-1.$$
+> I numeri reali $a_1, a_2, \ldots, a_n$ sono tutti maggiori di $1$ e soddisfano $|a_k - a_{k+1}| < 1$ per $1 \le k \le n-1$. Dimostrare che
+> $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1} < 2n-1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1995#q05|src_inmo_1995__Q05]]
 
 
 
@@ -155,6 +191,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le prime p per le quali (2^p - 1)/p è un quadrato perfetto*
+*Primi p per cui (2^p − 1)/p è un quadrato perfetto*
 
-> Trova tutti i numeri primi $p$ per i quali $\dfrac{2^p - 1}{p}$ è un quadrato perfetto.
+> Trovare tutti i primi $p$ per cui $\dfrac{2^p - 1}{p}$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_1995#q06|src_inmo_1995__Q06]]

@@ -34,11 +34,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People with three candies of the same taste*
+*How many people have three sweets of the same flavour?*
 
-> Candies In a certain group of people, each person has three candies that can be exclusively lemon or orange. 90 people have at least two lemon candies, 45 have at least two orange candies, 34 have two candies of different taste. How many people have three candies of the same taste?
+> The sweets
+>
+> In a certain group of people, each has three sweets, which can only be lemon or orange. 90 people have at least two lemon sweets, 45 have at least two orange sweets, and 34 have two sweets of different flavour. How many people have three sweets of the same flavour?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0101
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q01|src_kangourou_2023_kangourou_squadre__Q01]]
 
 
 
@@ -91,35 +98,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AE segment in isosceles trapezoid with triangle*
+*How many centimetres long is the segment AE?*
 
 ![[src_kangourou_2023_kangourou_squadre__prob2.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.025]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (220,0);
-  \coordinate (C) at (200,60);
-  \coordinate (D) at (20,60);
-  \coordinate (E) at (70,0);
-  \coordinate (F) at (120,60);
-  \draw (A) -- (B) -- (C) -- (D) -- cycle;
-  \fill[gray!30] (D) -- (E) -- (F) -- cycle;
-  \draw (D) -- (E) -- (F) -- cycle;
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[below] at (E) {$E$};
-  \node[above] at (F) {$F$};
-\end{tikzpicture}
-\end{document}
-```
+> The trapezium
+>
+> The trapezium ABCD in the picture is isosceles; the shaded triangle DEF is also isosceles and its area is a quarter of the area of the trapezium. The longer base and the shorter base of the trapezium ABCD measure 220 and 180 cm respectively. How many centimetres long is the segment AE?
 
-> The ABCD trapezoid in the figure is isosceles; the shaded DEF triangle is also isosceles and its area is one quarter of the trapezoid area. The major base and the minor base of the ABCD trapezoid measure 220 and 180 cm respectively. How many centimeters is the AE segment?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0070
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q02|src_kangourou_2023_kangourou_squadre__Q02]]
 
 
 
@@ -148,11 +140,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum summer camp entries, allowance*
+*What is the least number of those enrolled?*
 
-> Marco and his brother enrolled in a summer camp. The weekly cost of enrolling a child in this camp is €60, but if a family enrolls more than one child, they are entitled to the reduced fee of €54 per child from the second. The first week's enrollment has raised €3,000 and more than half of those enrolled are single children. What is the minimum number of applicants?
+> The summer camp
+>
+> Marco and his brother enrolled in a summer camp. The weekly cost of enrolling one child in that camp is 60 euros, but if a family enrols more than one child it is entitled to the reduced fee of 54 euros for every child from the second onwards. For enrolments in the first week, 3.000 euros were collected and more than half of those enrolled are only children. What is the least number of those enrolled?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0051
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q03|src_kangourou_2023_kangourou_squadre__Q03]]
 
 
 
@@ -179,11 +178,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of two runners circular track*
+*How many metres long is the track?*
 
-> Circular track Paul and Gino train to run along a circular track. They start at the same point, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the track?
+> The circular track
+>
+> Paolo and Gino train by running along a circular track. They set off from the same point, but run in opposite directions, each at his own constant speed. When they meet for the first time, Paolo has covered 100 metres from the start; when they meet for the second time, Gino has covered 150 metres from the point of the first meeting. How many metres long is the track?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0250
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q04|src_kangourou_2023_kangourou_squadre__Q04]]
 
 
 
@@ -209,11 +214,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insertions SUDOKU 2x3 grid with U constraint*
+*How many different insertions are possible?*
 
-> SUDOKU The six letters of the word SUDOKU must be inserted into the six cells of a grid 2 × 3 so that no row and no column host both letters U. How many different insertions are possible?
+> SUDOKU
+>
+> The six letters of the word SUDOKU are to be entered in the six cells of a 2 × 3 grid so that no row and no column holds both letters U. How many different insertions are possible?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0144
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q05|src_kangourou_2023_kangourou_squadre__Q05]]
 
 
 
@@ -247,14 +259,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gym attendees given conditions groups*
+*How many people attend the gym?*
 
-> In a gym, the attendees of a gym are divided into groups of equal number, each followed by an instructor. By hiring 10 more instructors, each group could be reduced by 5 units; instead, by hiring 20 more, each group could be reduced by 8 units. How many people are in the gym?
->  
->  
-> A B D C F E
+> At the gym
+>
+> The people who attend a gym are divided into groups all equally numerous, each supervised by an instructor. By hiring 10 more instructors, each group could be reduced by 5; by hiring 20 more instead, each group could be reduced by 8. How many people attend the gym?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0600
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q06|src_kangourou_2023_kangourou_squadre__Q06]]
 
 
 
@@ -286,13 +301,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Original square area of white portion*
+*How many square centimetres is the area of the original square?*
 
 ![[src_kangourou_2023_kangourou_squadre__prob7.png]]
 
-> The area of the square A square is divided into six flat figures as shown in the figure. Those in white are two isosceles right triangles, a square and a parallelogram; one of the two in black is an isosceles right triangle, the other (which has only one point in common with the previous one) is divisible into two isosceles right triangles. The area of the portion of the square remaining white is 99 cm2. How many square centimetres is the area of the original square?
+> The area of the square
+>
+> A square is divided into six plane figures as shown in the picture. The white ones are two isosceles right-angled triangles, a square and a parallelogram; one of the two black ones is an isosceles right-angled triangle, the other (which has only one point in common with the previous one) can be divided into two isosceles right-angled triangles. The area of the part of the square left white is 99 cm2. How many square centimetres is the area of the original square?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0176
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q07|src_kangourou_2023_kangourou_squadre__Q07]]
 
 
 
@@ -321,11 +342,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum students correct three questions*
+*How many are there?*
 
-> The three questions A number of students were asked the same three questions. 1260 of them answered the first question correctly, representing exactly 70% of the total. The percentage of students who answered correctly to the second is 79%, the percentage of students who answered correctly to the third is 53%. The students who answered all three questions correctly are the minimum compatible with these percentages. How many are there?
+> The three questions
+>
+> A certain number of students were asked the same three questions. 1260 of them answered the first question correctly: they are exactly 70% of the total. The percentage of the students who answered the second correctly is 79%, and the percentage of the students who answered the third correctly is 53%. The students who answered all three questions correctly are the least number compatible with these percentages. How many are there?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0036
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q08|src_kangourou_2023_kangourou_squadre__Q08]]
 
 
 
@@ -352,13 +380,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of angles a+b+c+d in figure*
+*What is the value of a + b + c + d, where a, b, c, d are the measures in degrees of the angles indicated in the picture?*
 
 ![[src_kangourou_2023_kangourou_squadre__prob9.png]]
 
-> The sum of the angles What is a + b + c + d, where a, b, c, d are the degree measurements of the angles shown in the figure?
+> The sum of the angles
+>
+> What is the value of a + b + c + d, where a, b, c, d are the measures in degrees of the angles indicated in the picture?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0540
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q09|src_kangourou_2023_kangourou_squadre__Q09]]
 
 
 
@@ -386,11 +420,23 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum min and max of the expression AB0/(A+B)*
+*What is the sum of the smallest and the largest of the values that the expression can take?*
 
-> The fraction Be AB0 the generic positive three-digit integer (A ≠ 0), the unit number of which is zero. What is the sum of the smallest and largest of the values that AB0 A+B can assume?
+> The fraction
+>
+> Let AB0 be the generic positive three-digit integer (A ≠ 0) whose units digit is zero. What is the sum of the smallest and the largest of the values that the expression
+>
+> AB0
+> A+B
+>
+> can take?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0119
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q10|src_kangourou_2023_kangourou_squadre__Q10]]
 
 
 
@@ -418,13 +464,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*KLM area in equilateral triangle ABC*
+*What is the area of KLM?*
 
 ![[src_kangourou_2023_kangourou_squadre__prob11.png]]
 
-> Two equilateral triangles Within the equilateral triangle ABC in the figure the KLM triangle has each side perpendicular to one of the sides of ABC. The area of ABC is 150. How much is the KLM area worth?
+> Two equilateral triangles
+>
+> Inside the equilateral triangle ABC in the picture, the triangle KLM has been obtained, which has each side perpendicular to one of the sides of ABC. The area of ABC is 150. What is the area of KLM?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0050
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q11|src_kangourou_2023_kangourou_squadre__Q11]]
 
 
 
@@ -450,11 +502,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of 100 numbers in a circle, adjacent mean*
+*Minimum of 100 numbers in a circle, average of adjacent numbers*
 
-> One hundred numbers in a circle On a circle are written 100 numbers, each of which is the arithmetic mean of the two adjacent to it. One of them is 2,023, and there are no greater ones. How much is the smallest?
+> A Hundred Numbers in a Circle On a circumference, 100 numbers are written, each of which is the arithmetic mean of the two numbers adjacent to it. One of them is 2,023, and none are larger. What is the value of the smallest one?
 
-**Answer:** 2023
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q12|src_kangourou_2023_kangourou_squadre__Q12]]
 
 
 
@@ -480,11 +537,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*500-th term not square or perfect cube*
+*500 is neither a perfect square nor a perfect cube*
 
-> The 500th term Think of ordering in increasing succession all positive integers that are neither perfect squares nor perfect cubes. What is the 500th term of the sequence?
+> The 500th term: Suppose you list in increasing order all positive integers that are neither perfect squares nor perfect cubes. What is the 500th term of the sequence?
 
-**Answer:** 0528
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q13|src_kangourou_2023_kangourou_squadre__Q13]]
 
 
 
@@ -510,11 +572,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of n digits with 3n=ABCDE1*
+*Product of digits of n with 3n=ABCDE1*
 
-> The triple of n. Let n be a six digit integer 1ABCDE. If the number 3 × n is ABCDE1, what is the product of the digits of n?
+> Three times n Let n be a six-digit integer 1ABCDE. If the number 3 × n is ABCDE1, what is the product of the digits of n?
 
-**Answer:** 2240
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q14|src_kangourou_2023_kangourou_squadre__Q14]]
 
 
 
@@ -548,9 +615,13 @@ level: squadre
 
 *06*
 
-> The clock A traditional clock with 12 hours and the hour and minute hands mark 8 and 6 minutes. How many degrees does the smallest angle between the two hands measure? a b c d
-> 
->  
-> Questions and solutions
+> The Clock: A traditional clock with 12 hours and hour and minute hands shows 8 o'clock and 6 minutes. How many degrees is the smaller of the angles between the two hands? a b c d
+>
+>
+> Questions and Solutions
 
-**Answer:** 0153
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre#q15|src_kangourou_2023_kangourou_squadre__Q15]]

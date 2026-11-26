@@ -36,13 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*-2 from a multiple of 10, +2 from a square, double of a prime*
+*-2 from a multiple of 10, +2 from a square, twice a prime*
 
-> It's missing two units to be a multiple of 10, it has two too many to be a perfect square, but it's double a prime number. It's one of the following numbers. Which one? A) 258 B) 78
-> 	
-> C) 58 D) 38 E) 18
+> It is two units short of being a multiple of 10, it has two too many to be a perfect square, but it is twice a prime number. It is one of the following numbers. Which one?
+> A) 258 	 	
+> B) 78 	
+>
+> C) 58 	 	
+> D) 38 	 	
+> E) 18
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_student#q01|src_kangourou_2024_student__Q01]]
 
 
 
@@ -74,13 +82,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pentagon replaces white for self-intersecting curve*
+*Which pentagon replaces the white one for the self-intersecting curve?*
 
 ![[src_kangourou_2024_student__prob2.png]]
 
-> Look at the figure: seven congruent pentagons, each with two internal 90 degree angles, surround an eighth white pentagon, congruent to the previous ones. Which of the following pentagons can replace the white one (perhaps by rotating it, but not by flipping it) so that only a single black curve that intersects itself is left in place? A)                 B)               C) D)               E)
+> Look at the figure: seven congruent pentagons, each having two interior angles of 90 degrees, surround an eighth white pentagon that is congruent to the previous ones. Which of the following pentagons can replace the white one (possibly rotated but not flipped) so that a single self-intersecting black curve remains drawn?
+> A)                 B)               C) 	
+>  D)               E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q02|src_kangourou_2024_student__Q02]]
 
 
 
@@ -114,17 +128,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of values x for which max(4-2x,3x-1)=8*
+*Sum of the values of x for which max(4-2x, 3x-1) = 8*
 
-> What is the sum of the values of x such that the largest of the two numbers 4  2x and 3x  1 is 8? A) – 1 B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> What is the sum of the values of x for which the larger of the two numbers 4 – 2x and 3x – 1 equals 8?
+> A) – 1	 	
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_student#q03|src_kangourou_2024_student__Q03]]
 
 
 
@@ -160,19 +181,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Line y=x+1 in axes with inverted orientation*
+*The line y = x + 1 in axes with reversed orientation*
 
 ![[src_kangourou_2024_student__prob4.png]]
 
-> When using an orthogonal Cartesian coordinate system, Pamela has her own way of doing this: reversing the orientation of both axes. In Pamela's system, which of the following is the line of equation y = x + 1? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D) E)
+> When using an orthogonal Cartesian coordinate system, Pamela has her own way of doing so: she reverses the orientation of both axes. In Pamela's system, which of the following is the line with the equation y = x + 1?
+> A)	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>             E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q04|src_kangourou_2024_student__Q04]]
 
 
 
@@ -203,13 +231,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 6 with a loaded die*
+*Probability of rolling a 6 on a loaded die*
 
-> A die has been loaded: now the probability of getting 2, 3, 4 or 5 is always 1/6, but the probability of getting 6 is twice the probability of getting 1. Now what's the probability of getting 6? A) 1/4 B) 1/6
-> 	
-> C) 7/36 D) 2/9 E) 5/18
+> A die has been rigged: now the probability of rolling 2, 3, 4, or 5 is always 1/6, but the probability of rolling 6 is twice the probability of rolling 1. What is the probability of rolling 6 now?
+> A) 1/4	 	
+> B) 1/6	
+>
+> C) 7/36	 	
+> D) 2/9	 	
+> E) 5/18
 
-**Answer:** D
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q05|src_kangourou_2024_student__Q05]]
 
 
 
@@ -260,39 +296,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum 16^15 four times expressed as a power*
+*The sum of 16^15, expressed as a power four times*
 
-> Which of the following numbers coincides with the result of the sum
-> 1615 + 1615 + 1615 + 1615 ?
-> A) 1619
-> B) 431
+> Which of the following numbers is equal to the result of the sum 1615 + 1615 + 1615 + 1615?
+> A) 1619	 	
+> B) 431	
 >
-> C) 460
-> D) 1660
-> E) 260
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
+> C) 460 	 	
+> D) 1660	 	
+> E) 260        
+> x y 1 1 x y 1 1 x y 1 1 x y 1 1 x y 1 1
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_student#q06|src_kangourou_2024_student__Q06]]
 
 
 
@@ -328,13 +348,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of colours for triangles and contact squares*
+*Minimum number of colors for touching triangles and small squares*
 
 ![[src_kangourou_2024_student__prob7.png]]
 
-> Each of the triangles and each of the squares (not those divided into two triangles) in the figure must be coloured so that each time two of these figures are in contact, even for a single point (vertex), they receive different colors. What is the minimum number of colours sufficient to achieve the intention? A) 5 B) 6 C) 7 D) 8 E) 9
+> Each of the triangles and each of the small squares (not those divided into two triangles) shown in the figure must be colored so that, whenever two of these figures are in contact—even at a single point (a vertex)—they receive different colors. What is the minimum number of colors sufficient to achieve this?
+> A) 5	
+>  B) 6 	
+> C) 7 	
+> D) 8	
+> E) 9
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q07|src_kangourou_2024_student__Q07]]
 
 
 
@@ -370,19 +400,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves to turn 6 cards by flipping 4*
+*Minimum moves to turn 6 cards by flipping 4 of them*
 
-> Six playing cards are lined up on a table, and none of them shows the back. One move consists of flipping exactly four cards (not necessarily consecutive). What's the minimum number of moves enough to make all the cards show the back? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> Six playing cards are arranged in a row on a table, and none of them shows its back. A move consists of flipping exactly four cards (not necessarily consecutive). What is the minimum number of moves sufficient to ensure that all the cards show their backs?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q08|src_kangourou_2024_student__Q08]]
 
 
 
@@ -414,11 +450,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Outcome not obtained by multiplying by 6 or 10*
+*A result that cannot be obtained by multiplying by 6 or 10*
 
-> Suppose you play like this. Starting with a number, you toss a coin: if it comes up heads, multiply that number by 6; if it comes up tails, multiply that number by 10. If you start from number 1 and apply this rule to every result you get, you'll never get any of the results listed below. What kind? A) 2100 × 320 × 580 B) 290 × 320 × 580 C) 290 × 320 × 570 D) 2110 × 380 × 530 E) 250 × 550
+> Suppose you play in this way. Starting from a number, you flip a coin: if it lands heads, you multiply that number by 6; if it lands tails, you multiply it by 10. If you start from the number 1 and apply this rule to each result you obtain along the way, you will never be able to get one of the results listed below. Which one?
+> A) 2100 × 320 × 580		
+> B) 290 × 320 × 580	 	
+> C) 290 × 320 × 570	 	
+> D) 2110 × 380 × 530		
+> E) 250 × 550
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_student#q09|src_kangourou_2024_student__Q09]]
 
 
 
@@ -456,19 +502,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation of areas regions of park divided by two routes*
+*Report on park areas and regions divided by two paths*
 
 ![[src_kangourou_2024_student__prob10.png]]
 
-> The figure shows a map of a park with two intersecting paths, each dividing it into two regions with the same area. If A, B and C are the areas of the regions shown in the figure, which of the following equations is necessarily true? A) A = C
-> 	
-> B) B = A + C
-> 	
-> C) B = (A + C) / 2 D) B = 2(A + C) / 3
-> 	
-> E) B = 3(A + C) / 5 The questions from N. 11 to N. 20 are worth 4 points each.
+> The figure shows a map of a park with two paths that cross each other as they run through the park, with each path dividing the park into two regions of equal area. If A, B, and C are the areas of the regions indicated in the figure, which of the following equalities must be true?
+> A) A = C	
+>
+> B) B = A + C	
+>
+> C) B = (A + C) / 2	
+> D) B = 2(A + C) / 3	
+>
+> E) B = 3(A + C) / 5
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q10|src_kangourou_2024_student__Q10]]
 
 
 
@@ -500,15 +553,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Any single statement on n is necessarily true*
+*Which single statement about n is necessarily true?*
 
-> With respect to a certain positive integer n which we do not know, we know that one and only one of the statements listed is true. Which one is it? A) n is divisible by 3.
-> 	
-> B) n is divisible by 6. C) n is odd. D) n is equal to 2.
-> 	
+> Regarding a certain positive integer n that we do not know, we know that exactly one of the statements listed is true. Which one must it be?
+> A) n is not divisible by 3.
+>
+> B) n is not divisible by 6.
+> C) n is odd.
+> D) n is equal to 2.
+>
 > E) n is a prime number.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q11|src_kangourou_2024_student__Q11]]
 
 
 
@@ -561,22 +622,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagonal polygonal length mean points tetrahedron edges*
+*Hexagonal polygonal length, midpoints of edges of a tetrahedron*
 
 ![[src_kangourou_2024_student__prob12.png]]
 
-> The figure shows a tetrahedron (not regular) ABCD, on each edge of which the midpoint is marked. By joining the midpoints with segments in an appropriate order, the closed non-flat hexagonal polygon MNPQRSM is obtained. If the lengths of the edges are the ones shown in the figure (the integers 5 to 10), how long is the polygon? A) 19
-> 	
-> B) 20
-> 	
-> C) 21
-> 	
-> D) 22
-> 	
-> E) 23 M N Q S R P 7 6 5 10 9 8
+> The figure shows a (non-regular) tetrahedron ABCD, on each of whose edges the midpoint has been marked. By joining the midpoints with line segments in an appropriate order, the closed non-planar hexagonal polygonal chain MNPQRSM was obtained. If the edge lengths are those indicated in the figure (the integers from 5 to 10), how long is the polygonal chain?
+> A) 19	
+>
+> B) 20	
+>
+> C) 21	
+>
+> D) 22	
+>
+> E) 23
+> M N Q S R P 7 6 5 10 9 8
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q12|src_kangourou_2024_student__Q12]]
 
 
 
@@ -613,13 +680,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the large square as a function of a,b,c*
+*Side length of the large square as a function of a, b, c*
 
 ![[src_kangourou_2024_student__prob13.png]]
 
-> The three smallest squares of the four shown in the figure have sides of lengths a, b, c. The vertex A of the largest square coincides with a vertex of the square on side a, the opposite vertex C with a vertex of the square on side c. The vertex B of the square with side b lies on one side of the larger square. Which of the following expressions gives the length of the side of the largest square? A) (a + b + c) / 2 B) √a2 + b2 + c2 C)  √(a + b)2 + c2 D) √(b − a)2 + c2 E) √a2  + ab + b2 + c2
+> Among the four squares shown in the figure, the three smallest have sides of lengths a, b, and c. Vertex A of the largest square coincides with a vertex of the square with side a, and the opposite vertex C coincides with a vertex of the square with side c. Vertex B of the square with side b lies on a side of the largest square. Which of the following expressions gives the length of the side of the largest square?
+> A) (a + b + c) / 2 		
+> B) √a2 + b2 + c2 	 	
+> C)  √(a + b)2 + c2 	
+> D) √(b − a)2 + c2 		
+> E) √a² + ab + b² + c²
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q13|src_kangourou_2024_student__Q13]]
 
 
 
@@ -655,13 +732,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of exiting T in one-way neighbourhood*
+*Probability of exiting T in a one-way neighborhood*
 
 ![[src_kangourou_2024_student__prob14.png]]
 
-> The figure shows a neighbourhood in a city where all the streets are one-way, in the direction indicated by the arrows. You can still go in from R and you can go out from S or T. At every junction where it is possible to do so, Arianna chooses at random how to proceed (legally). What is the probability that Arianna will come out of T? A) 3 / 32 B) 3 / 16 C) 1 / 4 D) 3 / 8 E) 1 / 2
+> The figure shows a district of a city in which all the streets are one-way, in the direction indicated by the arrows. In any case, one enters via R and can exit via S or T. At every junction where it is possible to do so, Arianna chooses at random how to continue (in a lawful manner). What is the probability that Arianna exits via T?
+> A) 3 / 32 	
+> B) 3 / 16	
+> C) 1 / 4 		
+> D) 3 / 8	 	
+> E) 1 / 2
 
-**Answer:** D
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q14|src_kangourou_2024_student__Q14]]
 
 
 
@@ -696,17 +783,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square region shaded area with arches*
+*Area shaded in a square with arches*
 
 ![[src_kangourou_2024_student__prob15.png]]
 
-> The figure shows a square with a side of 6 cm with a diagonal, a semicircle and a quarter of a circle. All these lines have their ends at two vertices of the square. How many square centimetres is the area of the shaded region? A) 9
-> 	
-> B) 3π
-> 	
-> C) 6π − 9 D) 10π/3 E) 12
+> The figure shows a square with sides 6 cm long, in which a diagonal, a semicircle, and a quarter-circle are drawn. All these lines have their endpoints at two vertices of the square. How many square centimetres is the area of the shaded region?
+> A) 9	
+>
+> B) 3π	
+>
+> C) 6π − 9	
+> D) 10π/3	
+> E) 12
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q15|src_kangourou_2024_student__Q15]]
 
 
 
@@ -765,7 +859,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum AX+XD as X varies on BC of the trapezoid*
+*Minimum of AX + XD as X varies over BC of the trapezoid*
 
 ![[src_kangourou_2024_student__prob16.png]]
 
@@ -790,15 +884,22 @@ level: kangourou
 \end{document}
 ```
 
-> The rectangular trapezoid ABCD has right angles in B and C. The sides AB, BC and CD are 4, 8 and 2, respectively. When the X-point varies on the BC side, what is the minimum possible value for the sum of the lengths of AX and XD? A) 9√2 B) 12
-> 	
-> C) 13
-> 	
-> D) 10
-> 	
+> In right-angled trapezoid ABCD, the right angles are at B and C. Sides AB, BC, and CD measure 4, 8, and 2, respectively. As point X varies along side BC, what is the minimum possible value of the sum of the lengths of AX and XD?
+> A) 9√2	 	
+> B) 12	
+>
+> C) 13	
+>
+> D) 10	
+>
 > E) None of the above.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q16|src_kangourou_2024_student__Q16]]
 
 
 
@@ -831,17 +932,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression between p and q (p<q) is the largest*
+*Which expression—between p and q (p<q)—is the greater one?*
 
-> Two positive numbers p and q are given, with p < q. Which of the following expressions gives the largest number? A) (p + 3q) / 4
-> 	
-> B) (p + 2q) / 3
-> 	
-> C) (p + q) / 2 D) (2p + q) / 3
-> 	
+> Two positive numbers p and q are given, with p < q. Which of the following expressions yields the larger number?
+> A) (p + 3q) / 4 	
+>
+> B) (p + 2q) / 3	
+>
+> C) (p + q) / 2	
+> D) (2p + q) / 3 	
+>
 > E) (3p + q) / 4
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_student#q17|src_kangourou_2024_student__Q17]]
 
 
 
@@ -876,12 +984,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many three-digit integers contain at least one digit 1,2,3*
+*How many three-digit integers contain at least one of the digits 1, 2, or 3?*
 
-> How many three-digit positive integers (therefore between 100 and 999, extremes included) contain at least one of the digits 1, 2, 3? A) 27 B) 147 C) 441 D) 557 E) 606 a b c X
+> How many positive three-digit integers (that is, integers between 100 and 999 inclusive) contain at least one of the digits 1, 2, or 3?
+> A) 27 	 	
+> B) 147	 	
+> C) 441 	 	
+> D) 557 	 	
+> E) 606
+> a b c X
 >
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q18|src_kangourou_2024_student__Q18]]
 
 
 
@@ -915,19 +1034,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A+B+C+D given AB,CD arithmetic mean with AB,CD*
+*A+B+C+D given AB, CD arithmetic mean with AB, CD*
 
-> Four digits A, B, C, D with A ≠ 0 are assigned. The positive number represented, in decimal notation, as AB,CD is the arithmetic mean of the integers AB and CD. How much is A + B + C + D ? A) 14
-> 	
-> B) 18
-> 	
-> C) 21
-> 	
-> D) 25
-> 	
+> Four digits A, B, C, D are assigned, with A ≠ 0. The positive number represented in decimal notation as AB,CD is the arithmetic mean of the integers AB and CD. What is the value of A + B + C + D?
+> A) 14	
+>
+> B) 18	
+>
+> C) 21	
+>
+> D) 25	
+>
 > E) 27
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_student#q19|src_kangourou_2024_student__Q19]]
 
 
 
@@ -959,13 +1083,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After several hours one candle and triple the other*
+*After how many hours is one candle three times the other?*
 
-> Two candles of equal height begin to burn at the same moment and each one is consumed evenly over time. One would take 4 hours to run out, the other 5 hours. After how many hours will one be three times as long as the other? A) 40 / 11 B) 45 / 12 C) 63 / 20 D) 3
-> 	
-> E) 47 / 14 Questions from N. 21 to N. 30 are worth 5 points each.
+> Two candles of equal height start burning at the same instant, and each burns down uniformly over time. One would take 4 hours to burn out, and the other 5 hours. After how many hours will one of the two be three times as long as the other?
+> A) 40 / 11	
+> B) 45 / 12	
+> C) 63 / 20	
+> D) 3	
+>
+> E) 47 / 14
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_student#q20|src_kangourou_2024_student__Q20]]
 
 
 
@@ -1001,13 +1134,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum result with operations on two-sided cards*
+*Minimum result with operations on double-sided cards*
 
 ![[src_kangourou_2024_student__prob21.png]]
 
-> There are six cards, each of which has a number pair, a number on each face. The six pairs are (5, 12), (3, 11), (0, 16), (7, 8), (4, 14) and (9, 10). You can choose how to line up the cards and what face each card should show. Once a disposition is chosen, the operations shown in the figure must be performed on the numbers that appear in it: What is the minimum result that can be achieved? A) – 23 B) – 24 C) – 25 D) – 26 E) – 27
+> There are six cards, each bearing a pair of numbers—one number on each face. The six pairs are (5, 12), (3, 11), (0, 16), (7, 8), (4, 14), and (9, 10). You can choose as you wish how to arrange the cards and which face each card should show. Once an arrangement has been chosen, the operations indicated in the figure must be performed on the numbers that appear in that arrangement: What is the smallest result that can be obtained?
+> A) – 23	 	
+> B) – 24	 	
+> C) – 25	 	
+>  D) – 26		
+>  E) – 27
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q21|src_kangourou_2024_student__Q21]]
 
 
 
@@ -1044,21 +1187,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement for two equations with common solution*
+*True statement for two equations with a common solution*
 
-> The three numbers a, b, c are all different from each other and different from 0. The two equations ax2 + bx + c = 0 and bx2 + ax + c = 0 have at least one solution in common. Which of the following statements must be true?
-> 	
+> The three numbers a, b, c are all different from one another and different from 0. The two equations ax² + bx + c = 0 and bx² + ax + c = 0 have at least one common solution. Which of the following statements must be true?
+>
 > A) A common solution must be 0.
-> 	
-> B) One of the two equations has only one real solution.
-> 	
+>
+> B) One of the two equations has exactly one real solution.
+>
 > C) a > 0.
-> 	
+>
 > D) b > 0.
-> 	
+>
 > E) a + b + c = 0
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_student#q22|src_kangourou_2024_student__Q22]]
 
 
 
@@ -1105,18 +1253,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance between X and Y on folded tape*
+*Minimum distance between X and Y on a folded tape*
 
 ![[src_kangourou_2024_student__prob23.png]]
 
-> The figure shows a tape 12 cm long and 2 cm high, folded into two perpendicular pieces. If the position of the bend varies as described, how many centimetres is the minimum distance between the two points X and Y? A) 6 √2 B) 7 √2 C) 10 D) 8
-> 	
+> The figure shows a strip 12 cm long and 2 cm high, folded into two perpendicular segments. As the folding position varies, as described, by how many centimetres is the minimum possible distance between the two points X and Y?
+> A) 6 √2	 	
+> B) 7 √2	 	
+> C) 10	
+> D) 8	
+>
 > E) 6 + √2
->       
+>
 > + + − − − = ... X Y 45°
 >
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q23|src_kangourou_2024_student__Q23]]
 
 
 
@@ -1151,19 +1308,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of bags with a single extract of 12 equal to none*
+*Number of bags with prob of drawing a single 12 equal to none*
 
-> There are some identical bags, each containing 12 tokens numbered 1 through 12. By randomly extracting a token from each bag, the probability of extracting one and only one token with the number 12 is equal to the probability of not extracting any. How many bags are there? A) 8
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 11
-> 	
+> There are several identical bags, each containing 12 numbered tokens from 1 to
+> 12. By randomly drawing one token from each bag, the probability of drawing one and one
+> The probability of getting only the token numbered 12 is equal to the probability of not drawing any token at all. How many bags are there?
+> A) 8	
+>
+> B) 9	
+>
+> C) 10	
+>
+> D) 11	
+>
 > E) 12
 
-**Answer:** D
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q24|src_kangourou_2024_student__Q24]]
 
 
 
@@ -1196,15 +1360,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of p coefficients with p(x+1)=x^2-x+2p(6)*
+*Sum the coefficients of p such that p(x+1)=x^2-x+2p(6)*
 
-> A real polynomial p of the variable x is such that p (x + 1) = x2 − x + 2 p(6) for every real x. What is the sum of the p coefficients ? A) – 40 B) – 6
-> 	
-> C) 12
-> 	
-> D) 40 E) A number different from the previous one
+> A real polynomial p in the variable x satisfies p(x + 1) = x² − x + 2 p(6) for every real x. What is the sum of the coefficients of p?
+> A) – 40	 	
+> B) – 6	
+>
+> C) 12	
+>
+> D) 40           
+> E) A number different from the preceding ones
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_student#q25|src_kangourou_2024_student__Q25]]
 
 
 
@@ -1240,23 +1412,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement about rational points is false*
+*Which statement about rational points is false?*
 
-> We say that a point in the plane, equipped with an orthogonal Cartesian system,
-> is "rational" if both of its coordinates are rational numbers (that is, expressible
-> as a quotient of integers). Which of the following statements is false?
-> 	
+> Let us say that a point in the plane, equipped with an orthogonal Cartesian coordinate system, is "rational" if both of its coordinates are rational numbers (that is, numbers expressible as the quotient of integers). Which of the following statements is false?
+>
 > A) There exists a line with no rational points.
-> 	
+>
 > B) There exists a line that contains infinitely many rational points.
-> 	
-> C) There exists a line that contains only one rational point.
-> 	
+>
+> C) There exists a line that contains exactly one rational point.
+>
 > D) There exists a line that contains exactly two rational points.
-> 	
-> E) No line contains only rational points.
+>
+> E) No straight line contains only rational points.
 
-**Answer:** D
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q26|src_kangourou_2024_student__Q26]]
 
 
 
@@ -1298,19 +1473,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the cell with stains after +1 to 4 cell movements*
+*Number in the cell with spots after moves +1 to 4 cells*
 
 ![[src_kangourou_2024_student__prob27.png]]
 
-> Consider an alignment of eight consecutive cells each of which initially contains the number 0. To make a move is to choose 4 consecutive cells to your liking and add 1 to the number in each cell. After a few moves the situation that has been created is expressed in the figure, in which, however, some spots have made the numbers present in 4 cells invisible. What number should be written in the cell identified by the question mark? A) 24
-> 	
-> B) 30
-> 	
-> C) 36
-> 	
-> D) 48 E) None of the above
+> Consider an alignment of eight consecutive cells, each of which initially contains the number 0. A move consists of choosing 4 consecutive cells as desired and adding 1 to the number in each of those cells. After several moves, the situation that has arisen is shown in the figure, but in this figure some marks have made the numbers in 4 cells invisible. What number must be written in the cell indicated by the question mark?
+> A) 24	
+>
+> B) 30	
+>
+> C) 36	
+>
+> D) 48	
+> E) None of the above
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student#q27|src_kangourou_2024_student__Q27]]
 
 
 
@@ -1350,16 +1532,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two zeros of f with f(20-x) = f(22+x)*
+*Sum of the two zeros of f, given f(20-x)=f(22+x)*
 
-> A function f, real and defined on the whole real axis, is such that f (20 – x) = f (22 + x) for every value of x and vanishes for exactly two distinct values of x. What is the sum of these two values? A) – 1 B) 20
-> 	
-> C) 21
-> 	
-> D) 22 E) None of the preceding numbers 30 42 36 14 ?
+> A real-valued function f defined on all of the real line satisfies f(20 – x) = f(22 + x) for every value of x and vanishes at exactly two distinct values of x. What is the sum of these two values?
+> A) – 1	 	
+> B) 20	
+>
+> C) 21	
+>
+> D) 22	
+> E) None of the preceding numbers
+> 30 42 36 14 ?
 >
 
-**Answer:** E
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_student#q28|src_kangourou_2024_student__Q28]]
 
 
 
@@ -1395,17 +1586,23 @@ level: kangourou
 
 *Triangles of the dodecagon with at least one angle of 45 degrees*
 
-> Consider a regular dodecagon. How many triangles, the vertices of which are vertices of the dodecagon, have at least an angle of 45 degrees? A) 48
-> 	
-> B) 60
-> 	
-> C) 72
-> 	
-> D) 84
-> 	
+> Consider a regular dodecagon. How many triangles, whose vertices are vertices of the dodecagon, have at least one angle of 45 degrees?
+> A) 48	
+>
+> B) 60	
+>
+> C) 72	
+>
+> D) 84	
+>
 > E) 96
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student#q29|src_kangourou_2024_student__Q29]]
 
 
 
@@ -1443,18 +1640,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the securities issued by the issuer.
+*Figure A in ABCD = AA+BB+CC+DD*
 
-> The positive integer of four digits ABCD (A ≠ 0), not necessarily distinct, is the result of the sum of AA + BB + CC + DD. What 's A ? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> The positive four-digit integer ABCD (A ≠ 0), with digits not necessarily distinct, is the result of the sum AA + BB + CC + DD. What digit is A?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
-> 
+>
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_student#q30|src_kangourou_2024_student__Q30]]

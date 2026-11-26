@@ -36,9 +36,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Center of the hundreds of 5^2017*
+*Hundreds digit of 5^2017*
 
-> What's the figure for the hundreds of 52017?
+> What is the hundreds digit of 5^2017?
 >
 > - **(A)** 5
 > - **(B)** 2
@@ -46,7 +46,11 @@ level: biennio
 > - **(D)** 3
 > - **(E)** 6
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2017_biennio#q01|src_archimede_2017_biennio__Q01]]
 
 
 
@@ -80,17 +84,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of thieves*
+*Total number of knaves seated at the table*
 
-> Around a table are seated 4 people, each of whom can be either a knight (who always tells the truth) or a cunning man (who always lies). Each of the people in the room says, "Of the other three people sitting at this table with me, there are exactly two crooks". What's the total number of crooks sitting at the table?
+> Four people are seated around a table, each of whom may be either a knight (who always tells the truth) or a knave (who always lies). Each of them states: “Of the other three people seated at this table with me, exactly two are knaves.” What is the total number of knaves seated at the table?
 >
-> - **(A)** No one
-> - **(B)** I 'm sure it 's two .
-> - **(C)** I'm sure all four of them.
-> - **(D)** Certainly 1
-> - **(E)** the information provided is insufficient to establish it;
+> - **(A)** none
+> - **(B)** certainly 2
+> - **(C)** certainly all 4
+> - **(D)** certainly 1
+> - **(E)** the information given is not sufficient to determine it
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2017_biennio#q02|src_archimede_2017_biennio__Q02]]
 
 
 
@@ -121,7 +129,7 @@ level: biennio
 
 *Pairs (m,n) with m^n = 2^12*
 
-> How many pairs of positive integers (m, n) are such that mn = 212?
+> How many pairs of positive integers (m, n) are there such that mn = 212?
 >
 > - **(A)** 2
 > - **(B)** 1
@@ -129,7 +137,10 @@ level: biennio
 > - **(D)** 6
 > - **(E)** 4
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2017_biennio#q03|src_archimede_2017_biennio__Q03]]
 
 
 
@@ -162,9 +173,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the results of the calculation:
+*Empty rooms*
 
-> There are 2017 rooms lined up. The first contains 2017 people and all the others are initially empty. Every minute, if a room contains more than one person, a random person in that room moves into the next room. After 1001 minutes, how many empty rooms are there?
+> There are 2017 rooms arranged in a row. The first contains 2017 people and all the others are initially empty. Every minute, if a room contains more than one person, a randomly chosen person in that room moves to the next room. After 1001 minutes, how many rooms are empty?
 >
 > - **(A)** 1017
 > - **(B)** 1515
@@ -172,7 +183,11 @@ The following table shows the results of the calculation:
 > - **(D)** 1517
 > - **(E)** 1015
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2017_biennio#q04|src_archimede_2017_biennio__Q04]]
 
 
 
@@ -202,17 +217,20 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Properties of n multiple of 1000 not 10000*
+*Statement that must hold for a multiple of 1000 but not of 10000*
 
-> Whether it's an integer that's a multiple of 1,000 but not 10,000. Which of these statements is certainly true?
+> Let n be an integer that is a multiple of 1000 but not of 10000. Which of these statements is certainly true?
 >
-> - **(A)** n/3 is a number whose whole part ends in the digits 333 or 666.
-> - **(B)** n/8 is an integer ending in 25 or 75.
-> - **(C)** n/125 is an integer ending in 8 or 6.
+> - **(A)** n/3 is a number whose integer part ends with the digits 333 or 666.
+> - **(B)** n/8 is an integer that ends with the digits 25 or 75.
+> - **(C)** n/125 is an integer that ends with the digits 8 or 6.
 > - **(D)** n is divisible by 16.
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2017_biennio#q05|src_archimede_2017_biennio__Q05]]
 
 
 
@@ -251,7 +269,7 @@ The following table shows the results of the calculation:
 
 *last remaining*
 
-> Mark writes in a row the integers from 1 to 64 (included). Then you start deleting some of them, like this: delete the number 1, leave the 2, delete the 3, leave the 4, etc. At the bottom of the line, it goes backwards, deleting the first number it finds among the remaining ones, leaving the second, etc. He then continues to cross the line alternately in both directions, deleting each time a yes number and a no number, until only one number remains on the board. What's the last number left?
+> Marco writes the integers from 1 to 64 (inclusive) in a row. Then he begins to erase some of them, in this way: he erases the number 1, leaves the 2, erases the 3, leaves the 4, etc. Having reached the end of the row, he goes back along it in the opposite direction, erasing the first number he finds among those remaining, then leaving the second, etc. He continues to go back along the row alternately in the two directions, erasing each time one number and leaving one, until only one number remains on the board. What is the last remaining number?
 >
 > - **(A)** 22
 > - **(B)** 14
@@ -259,7 +277,11 @@ The following table shows the results of the calculation:
 > - **(D)** 54
 > - **(E)** 38
 
-**Answer:** A
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2017_biennio#q06|src_archimede_2017_biennio__Q06]]
 
 
 
@@ -292,11 +314,9 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regional area with six semicirculars radius 1*
+*Area of a region with six semicircles of radius 1*
 
-![[src_archimede_2017_biennio__prob7.png]]
-
-> The six semicirculars in the figure on the side have a radius of 1 cm. How many cm2 is the area of the shaded region?
+> The six semicircles in the figure on the right all have radius 1 cm. What is the area of the shaded region, in cm2?
 >
 > - **(A)** 8 + 3π/4
 > - **(B)** 9 + π/2
@@ -304,7 +324,10 @@ The following table shows the results of the calculation:
 > - **(D)** 6 + 3π/2
 > - **(E)** 10 + π/6
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_biennio#q07|src_archimede_2017_biennio__Q07]]
 
 
 
@@ -335,9 +358,10 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with MCD 2 and mcm 60*
+*Pairs (a,b) with gcd 2 and lcm 60*
 
-> How many pairs of positive integers (a, b), with a < b, such that MCD(a, b) = 2 and mcm(a, b) = 60?
+> How many pairs of positive integers (a, b), with a < b, are there such that gcd(a, b) = 2 and
+> lcm(a, b) = 60?
 >
 > - **(A)** 0
 > - **(B)** 4
@@ -345,7 +369,10 @@ The following table shows the results of the calculation:
 > - **(D)** 2
 > - **(E)** 6
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2017_biennio#q08|src_archimede_2017_biennio__Q08]]
 
 
 
@@ -383,17 +410,28 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle with angles BAD=ACD and CAD=ABD*
+*Statement that must hold given the equal angles in triangle ABC*
 
-> So ABC is a triangle and D is a point on the BC side. Let's say you have \ BAD = \ ACD and \ CAD = \ ABD. Which of the following is certainly true?
+> Let ABC be a triangle and let D be a point on side BC. Suppose that
+> \
+> BAD = \
+> ACD
+> and
+> \
+> CAD = \
+> ABD. Which of the following statements is certainly true?
 >
 > - **(A)** ABC is an equilateral triangle
-> - **(B)** ABC is an octagonal triangle.
-> - **(C)** ABC is an isosceles triangle.
-> - **(D)** ABC is a right triangle.
-> - **(E)** ABC is a right triangle.
+> - **(B)** ABC is an obtuse triangle
+> - **(C)** ABC is an isosceles triangle
+> - **(D)** ABC is a scalene triangle
+> - **(E)** ABC is a right triangle
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_biennio#q09|src_archimede_2017_biennio__Q09]]
 
 
 
@@ -426,9 +464,10 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First remaining first by deleting digits*
+*Primes that remain prime when digits are deleted*
 
-> How many prime numbers are such that, if you delete any group of even non-consecutive digits from them (without deleting them all) and read the remaining digits in the order in which they are found, you still get a prime number? (Remember that 1 is not a prime number.)
+> How many prime numbers are there such that, if any group of digits — even non-consecutive ones (but not all of them) — is deleted from them and the remaining digits are read in the order in which they occur, the result is still a prime number?
+> (Recall that 1 is not a prime number.)
 >
 > - **(A)** 7
 > - **(B)** 3
@@ -436,7 +475,11 @@ The following table shows the results of the calculation:
 > - **(D)** 8
 > - **(E)** 10
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2017_biennio#q10|src_archimede_2017_biennio__Q10]]
 
 
 
@@ -469,9 +512,10 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of AEH triangle with trisection/quadrisection points*
+*Area of triangle AEH with trisection/quadrisection points*
 
-> The area of the triangle ABC is 60 m2. The internal points on the AB side are D, E such that AD = DE = EB and are F, G, H the internal points in AC such that AF = FG = GH = HC. What is the area of the AEH triangle?
+> The area of triangle ABC is 60 m2.
+> Let D, E be the points inside side AB such that AD = DE = EB and let F, G, H be the points inside AC such that AF = FG = GH = HC. What is the area of triangle AEH?
 >
 > - **(A)** 20 m2
 > - **(B)** 45 m2
@@ -479,7 +523,10 @@ The following table shows the results of the calculation:
 > - **(D)** 40 m2
 > - **(E)** 24 m2
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_biennio#q11|src_archimede_2017_biennio__Q11]]
 
 
 
@@ -511,9 +558,9 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of Chiara winning after 6 to 4-2*
+*Probability that Chiara wins after 6 throws, 4–2*
 
-> Andrea and Chiara challenge each other by throwing a dice several times. Every time an odd number comes out, Andrea makes a point, and every time an even number comes out, she makes a clear point. The first player to score five points wins the game. After six pitches, Andrea has a 4-2 lead. What are the odds of Clara winning the game?
+> Andrea and Chiara take turns throwing a die. Whenever an odd number comes up, Andrea scores a point; whenever an even number comes up, Chiara scores a point. The player who reaches 5 points first wins the game. After 6 throws, Andrea is ahead 4–2. What is the probability that Chiara wins the game?
 >
 > - **(A)** 1/8
 > - **(B)** 1/3
@@ -521,7 +568,10 @@ The following table shows the results of the calculation:
 > - **(D)** 1/4
 > - **(E)** 1/5
 
-**Answer:** A
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2017_biennio#q12|src_archimede_2017_biennio__Q12]]
 
 
 
@@ -554,9 +604,9 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Replacement of beverage to obtain 50% juice*
+*Replacing soda to obtain 50% juice*
 
-> A bottle of 1 litre of orange drink is 80% water and 20% orange juice. Gianni wants to replace some of the beverage in this bottle with orange juice, so as to get a new beverage that is 50% orange juice. How many ml of Gianni's initial drink should he replace with orange juice?
+> A one-litre bottle of orange drink is 80% water and 20% orange juice. Gianni wants to replace some of the drink in this bottle with orange juice, so as to obtain a new drink that is 50% orange juice. How many ml of the initial drink must Gianni replace with orange juice?
 >
 > - **(A)** 300
 > - **(B)** 400
@@ -564,7 +614,10 @@ The following table shows the results of the calculation:
 > - **(D)** 320
 > - **(E)** 350
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2017_biennio#q13|src_archimede_2017_biennio__Q13]]
 
 
 
@@ -596,9 +649,11 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles trapezoidal area inscribed in the circumference*
+*Area of an isosceles trapezium inscribed in a circle*
 
-> The ABCD isosceles trapezoid, of bases AB and CD, is inscribed within a radius of 13 m. It is known that the center of circumference is inside the ABCD trapezoid and furthermore AB = 24 m, CD = 10 m. What is the area of ABCD?
+> The isosceles trapezium ABCD, with bases AB and CD, is inscribed in a circle of
+> radius 13 m. It is known that the centre of the circle is inside the trapezium ABCD and
+> moreover AB = 24 m, CD = 10 m. What is the area of ABCD?
 >
 > - **(A)** 272 m2
 > - **(B)** 289 m2
@@ -606,7 +661,11 @@ The following table shows the results of the calculation:
 > - **(D)** 306 m2
 > - **(E)** 340 m2
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_biennio#q14|src_archimede_2017_biennio__Q14]]
 
 
 
@@ -637,9 +696,10 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at position 2017 of the sequence of integers*
+*Digit in position 2017 of the sequence of integers*
 
-> Catherine begins to write all positive integers, one after the other: 12345678910111213... What figure will occupy the 2017th position?
+> Caterina begins writing all positive integers, one after another:
+> 12345678910111213... Which digit will occupy the 2017th position?
 >
 > - **(A)** 8
 > - **(B)** 5
@@ -647,7 +707,11 @@ The following table shows the results of the calculation:
 > - **(D)** 7
 > - **(E)** 2
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2017_biennio#q15|src_archimede_2017_biennio__Q15]]
 
 
 
@@ -685,16 +749,18 @@ The following table shows the results of the calculation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final product zeros in the triangular scheme*
+*Trailing zeros of the bottom product in the triangular diagram*
 
-![[src_archimede_2017_biennio__prob16.png]]
-
-> After drawing a triangular pattern like the one next to it, Alberto writes in the circles of the top row the whole numbers from 1 to 7. Then, inside each of the other circles, he writes the product of the numbers contained in the two circles above it that are connected to it with an arrow (so he gets 2, 6, 12, ... and so on. How many zeros will you finish the number you have to write in the bottom circle?
+> After drawing a triangular diagram like the one in the figure, Alberto writes the integers from 1 to 7 in the circles of the top row. Then, in each of the other circles, he writes the product of the numbers in the two circles above it that are connected to it by an arrow (so he obtains 2, 6, 12, ... and so on). With how many zeros will the number he must write in the bottom circle end?
 >
 > - **(A)** 15
 > - **(B)** 12
 > - **(C)** 16
 > - **(D)** 13
-> - **(E)** 14 1 2 3 4 5 6 7 2 6 12 ... ... ... 12 ... ... ... ... ... ... ... ... ... ... ... ... ... ... T2 Italian Mathematical Union PROJECT OLYMPIADS OF MATHEMATICS Ministry of Education, University and Research The Archimedes Games - Race Biennio 23 November 2017 • The test consists of 16 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: email (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+> - **(E)** 14
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2017_biennio#q16|src_archimede_2017_biennio__Q16]]

@@ -40,19 +40,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image seen from above the three objects*
+*Top-down view of the three objects*
 
 ![[src_kangourou_2018_benjamin_marzo__prob1.png]]
 
-> The figure shows Piero placing three objects on the table. What image does Piero see if he looks at the table from above? A)
-> 	
-> B) C)
-> 	
-> D)
-> 	
+> The figure shows how Piero has arranged three objects on the table. What image does Piero see if he looks at the table from above?
+> A) 	
+>
+> B) 
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q01|src_kangourou_2018_benjamin_marzo__Q01]]
 
 
 
@@ -95,7 +101,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the star of triangles and squares*
+*Perimeter of the star of triangles and the square*
 
 ![[src_kangourou_2018_benjamin_marzo__prob2.png]]
 
@@ -111,9 +117,18 @@ level: kangourou
 \end{document}
 ```
 
-> The star in the figure consists of four equilateral triangles and a square. The perimeter of the square is 36 cm. What is the perimeter of the star? A) 144 cm B) 120 cm C) 104 cm D) 90 cm E) 72 cm
+> The star in the figure is made up of four equilateral triangles and a square. The perimeter of the square is 36 cm. What is the perimeter of the star?
+> A) 144 cm
+> B) 120 cm
+> C) 104 cm
+> D) 90 cm
+> E) 72 cm
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q02|src_kangourou_2018_benjamin_marzo__Q02]]
 
 
 
@@ -155,17 +170,22 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_marzo__prob3.png]]
 
-> Look at the figure: a rectangular garden is divided into 20 identical identical square flowerbeds. Two snakes, Slow and Fast, move along the outer edge of the garden starting, at the same moment, from vertex S, but in different directions. Fast's speed is twice that of Slow. Which point of the perimeter will they meet? A) A
-> 	
-> B) B
-> 	
-> C) C
-> 	
-> D) D
-> 	
+> Look at the figure: a rectangular garden is divided into 20 identical square flowerbeds. Two snakes, Lento and Veloce, move along the outer edge of the garden, starting at the same instant from vertex S but in different directions. Veloce's speed is twice Lento's speed. At which point on the perimeter will they meet?
+> A) A	
+>
+> B) B	
+>
+> C) C	
+>
+> D) D	
+>
 > E) E
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q03|src_kangourou_2018_benjamin_marzo__Q03]]
 
 
 
@@ -201,21 +221,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two digits deleted in subtraction*
+*Sum of the two digits cancelled in the subtraction*
 
 ![[src_kangourou_2018_benjamin_marzo__prob4.png]]
 
-> Look at the figure: Alice correctly subtracted two two-digit numbers; then she deleted two digits. What is the sum of the deleted digits? A) 8
-> 	
-> B) 9
-> 	
-> C) 12
-> 	
-> D) 13
-> 	
+> Look at the figure: Alice correctly performed subtraction between two two-digit numbers; then she erased two digits. What is the sum of the erased digits?
+> A) 8	
+>
+> B) 9	
+>
+> C) 12	
+>
+> D) 13	
+>
 > E) 15
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q04|src_kangourou_2018_benjamin_marzo__Q04]]
 
 
 
@@ -257,30 +282,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On which day does the 25th of the month fall*
+*What day of the week does the 25th of the month fall on?*
 
 ![[src_kangourou_2018_benjamin_marzo__prob5.png]]
 
-> The figure shows the calendar of a certain month. Unfortunately
-> an ink stain covers most
-> of the dates. On which day does the 25th of that month fall?
-> A) Monday	
-> B) Wednesday	
+> The figure shows the calendar for a particular month. Unfortunately, an ink stain covers most of the dates. On what day does the 25th of that month fall?
+> A) Monday
+> B) Wednesday
 > C) Thursday
-> D) Saturday	
+> D) Saturday
 > E) Sunday
-> Fast
-> Slow
-> L
-> M
-> M
-> G
-> S
-> V
-> D
+> Fast Slow L M M G S V D
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q05|src_kangourou_2018_benjamin_marzo__Q05]]
 
 
 
@@ -315,21 +334,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the largest square of three squares*
+*Side length of the largest of three squares*
 
 ![[src_kangourou_2018_benjamin_marzo__prob6.png]]
 
-> In the figure, you see three squares. The side of the smallest square is 6 cm long. How many centimetres is the length of the side of the largest square? A) 8
-> 	
-> B) 10
-> 	
-> C) 12
-> 	
-> D) 14
-> 	
+> In the figure, you see three squares. The side of the smallest square is 6 cm long. How many centimeters long is the side of the largest square?
+> A) 8	
+>
+> B) 10	
+>
+> C) 12	
+>
+> D) 14 	
+>
 > E) 16
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q06|src_kangourou_2018_benjamin_marzo__Q06]]
 
 
 
@@ -364,21 +388,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which square has the largest black area*
+*Which square has the larger black area?*
 
 ![[src_kangourou_2018_benjamin_marzo__prob7.png]]
 
-> The squares here next to each other are congruent. In which of them is the area of the portion painted in black the largest? A) A
-> 	
-> B) B
-> 	
-> C) C
-> 	
-> D) D
-> 	
+> The squares beside here are congruent. In which of them is the area of the part painted black greater?
+> A) A	
+>
+> B) B	
+>
+> C) C	
+>
+> D) D	
+>
 > E) The four areas are equal.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q07|src_kangourou_2018_benjamin_marzo__Q07]]
 
 
 
@@ -418,21 +447,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum rings to be touched to make them red*
+*Minimum number of little circles to tap to make them red*
 
 ![[src_kangourou_2018_benjamin_marzo__prob8.png]]
 
-> On the screen of my tablet, there's this figure: all the circles are transparent. If I touch a circle, it and all the circles that are near it (i.e. connected to it by a single segment) turn red. What is the minimum number of circles that I can touch to turn all the circles red? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> This figure appeared on my tablet screen: all the little circles are transparent. If I tap a little circle, it and all the little circles adjacent to it (that is, those connected to it by a single line segment) turn red. What is the minimum number of little circles I need to tap for all the little circles to turn red?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q08|src_kangourou_2018_benjamin_marzo__Q08]]
 
 
 
@@ -467,19 +502,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points made on the third arrow round*
+*Points scored in the third round of darts*
 
 ![[src_kangourou_2018_benjamin_marzo__prob9.png]]
 
-> In the first round, Diana scored 14 points with three arrows on the target; in the second round, she scored 16. How many points did she score in the third round? A) 17
-> 	
-> B) 18
-> 	
-> C) 19
-> 	
-> D) 20 E) The information is insufficient to answer.
+> In the first round, Diana scored 14 points by shooting three arrows at the target; in the second round, she scored 16 points. How many points did she score in the third round?
+> A) 17	
+>
+> B) 18	
+>
+> C) 19	
+>
+> D) 20
+> E) The information is insufficient to respond.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q09|src_kangourou_2018_benjamin_marzo__Q09]]
 
 
 
@@ -525,21 +566,32 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Behind which door is the lion*
+*Behind which door is the lion?*
 
-> Four doors lead to four rooms in which a lion is hidden. Above each door is written a statement, but only one of the four is true.
-> 	
-> • On the first is written: The lion is not behind this door.
-> 	
-> • On the second is written: The lion is behind this door.
-> 	
-> • On the third it says: The sum of two and three is five.
-> 	
-> • On the fourth it says: The Earth is larger than the Sun. Behind which door is the lion? A) The first. B) The second. C) The third. D) The fourth. E) The information is not sufficient to answer. 2 cm 2 cm 14 points 16 points ???
-> 
-> The questions from N. 11 to N. 20 are worth 4 points each.
+> Four doors lead to four rooms, and in one of these rooms a lion is hidden. Above each door is a statement, but only one of the four statements is true.
+>
+> • On the first one, it says: "The lion is not behind this door."
+>
+> • On the second one, it says: "The lion is behind this door."
+>
+> • On the third one, it says: "The sum of two and three is five."
+>
+> • On the fourth one it says, "The Earth is larger than the Sun." Behind which door is the lion?
+> A) The first one.
+> B) The second one.
+> C) The third.
+> D) The fourth.
+> E) The information is insufficient to respond.
+> 2 cm 2 cm 14 points 16 points ???
+>
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q10|src_kangourou_2018_benjamin_marzo__Q10]]
 
 
 
@@ -575,19 +627,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of cars after crossing*
+*Positions of the cars after the intersection*
 
 ![[src_kangourou_2018_benjamin_marzo__prob11.png]]
 
-> Nine cars arrive at an intersection and exit as shown by the respective arrows in the figure below. Which of the following figures shows the position of the cars when they all left the intersection? A)
-> 	
-> B) C)
-> 	
-> D)
-> 	
+> New cars arrive at an intersection and exit it as indicated by their respective arrows in the figure beside here. Which of the following figures shows the positions of the cars when all of them have left the intersection?
+> A) 	
+>
+> B) 	
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q11|src_kangourou_2018_benjamin_marzo__Q11]]
 
 
 
@@ -626,21 +684,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number under the starred spot*
+*Number below the stain with the star*
 
 ![[src_kangourou_2018_benjamin_marzo__prob12.png]]
 
-> I chose from the numbers 1, 2, 3, 4, 5 four different numbers, and then I performed the operations suggested by the figure following the arrows: in both cases the correct result is 8. Now the numbers are hidden by spots: which number is hidden under the star spot? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> From the numbers 1, 2, 3, 4, 5, I chose four different numbers; then I performed the operations suggested by the figure, following the arrows: in both cases, the correct result is 8. Now the numbers are hidden by spots: which number is hidden under the spot with the star?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4 	
+>
 > E) 5
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q12|src_kangourou_2018_benjamin_marzo__Q12]]
 
 
 
@@ -671,11 +734,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number N cannot be written*
+*Which number N cannot be written?*
 
-> Suppose that A, B and C are three digits all different from 0 and distinct from each other. Call N the largest six digit number you can write using 3 times the A digit, 2 times the B digit and 1 time the C digit. So N cannot be A) AAABBC B) CAAABB C) BBAAAC D) AAABCB E) AAACBB
+> Suppose that A, B, and C are three digits, all different from 0 and distinct from one another. Let N be the largest six-digit number you can write using the digit A three times, the digit B twice, and the digit C once. Then N cannot be
+> A) AAABBC
+> B) CAAABB
+> C) BBAAAC
+> D) AAABCB
+> E) AAACBB
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q13|src_kangourou_2018_benjamin_marzo__Q13]]
 
 
 
@@ -712,21 +785,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of board cut into 9 pieces*
+*Length of the sawn shaft in 9 pieces*
 
 ![[src_kangourou_2018_benjamin_marzo__prob14.png]]
 
-> Peter cut into 9 pieces a rectangular wooden board, 8 cm wide, with parallel cuts on the side 8 cm long. One piece is a square, the other rectangles. Then he put all the pieces together to form a square, as shown in the figure. How long was the board? A) 150
-> 	
-> B) 168
-> 	
-> C) 196
-> 	
-> D) 200
-> 	
+> Pietro sawed a rectangular wooden board, 8 cm wide, into 9 pieces using cuts parallel to the 8-cm-long side. One piece is a square, and the others are rectangles. Then he placed all the pieces together to form a square, as shown in the figure. How long was the board in centimeters?
+> A) 150	
+>
+> B) 168	
+>
+> C) 196	
+>
+> D) 200	
+>
 > E) 232
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q14|src_kangourou_2018_benjamin_marzo__Q14]]
 
 
 
@@ -763,18 +841,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which ball weighs 30 g
+*Which ball weighs 30 g?*
 
 ![[src_kangourou_2018_benjamin_marzo__prob15.png]]
 
-> Of the five balls you see in the figure, three weigh 50 g, one weighs 30 g and one weighs 80 g. Which one weighs 30 grams? A) A
-> 	
-> B) B C) C
-> 	
-> D) D E) E
+> Of the five balls you see in the figure, three weigh 50 g, one weighs 30 g, and one weighs 80 g. Which one weighs 30 g?
+> A) A 	
+>
+> B) B 
+> C) C 	
+>
+> D) D 
+> E) E
 >
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q15|src_kangourou_2018_benjamin_marzo__Q15]]
 
 
 
@@ -805,11 +891,20 @@ Which ball weighs 30 g
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who gets the fifth shot in the ball game
+*Who takes the fifth shot in the ball game?*
 
-> Two boys  Enrico and Paolo  and three girls  Alda, Luisa and Valeria  play ball with a strange rule. When a guy gets the ball, he can throw it to another guy or a girl. When a girl gets the ball, she throws it to another girl, but not to whoever threw it. Henry starts and throws to Alda. Who makes the fifth shot? A) Alda B) Enrico C) Luisa D) Paolo E) Valeria
+> Two boys—Enrico and Paolo—and three girls—Alda, Luisa, and Valeria—are playing ball with a strange rule. When a boy gets the ball, he can throw it to the other boy or to a girl. When a girl gets the ball, she must throw it to another girl, but not to the one who threw it to her. Enrico starts and throws to Alda. Who will make the fifth throw?
+> A) Alda
+> B) Enrico
+> C) Luisa
+> D) Paolo
+> E) Valeria
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q16|src_kangourou_2018_benjamin_marzo__Q16]]
 
 
 
@@ -841,11 +936,20 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On what day the recipients exceed 100*
+*On which day do the recipients exceed 100?*
 
-> On Monday, Alexandra sent a photo to five friends. The next day each of the five sent the photo to two friends, each of whom, the next day, sent it to two other friends and so on, for a few days. If each person sent the photo only to people who hadn't seen it before and only in one day, on what day of the week did the number of people who received the photo exceed 100? A) Wednesday B) Thursday C) Friday D) Saturday E) Sunday
+> On Monday, Alessandra sent a photo to five friends. The next day, each of the five sent the photo to two friends, and each of those friends, the day after that, sent it to two other friends, and so on for several days. If each person sent the photo only to people who had not seen it yet and only on one day, on which day of the week did the number of people who had received the photo become greater than 100?
+> A) Wednesday
+> B) Thursday
+> C) Friday
+> D) Saturday
+> E) Sunday
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q17|src_kangourou_2018_benjamin_marzo__Q17]]
 
 
 
@@ -882,19 +986,26 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of all the numbers in the triangular table*
+*Sum of all numbers in the triangular table*
 
 ![[src_kangourou_2018_benjamin_marzo__prob18.png]]
 
-> Emilia wants to insert a number into each cell of a triangular table so that the sum of the numbers in two cells sharing a side is the same however she chooses them. She has already entered two numbers. What will be the sum of all the numbers in the table? A) 18
-> 	
-> B) 20
-> 	
-> C) 21
-> 	
-> D) 22 E) It is impossible to determine.
+> Emilia wants to put a number in each cell of a triangular table so that the sum of the numbers in two cells that share a side is the same no matter which two cells she chooses. She has already put in two numbers. What will the sum of all the numbers in the table be?
+> A) 18	
+>
+> B) 20	
+>
+> C) 21	
+>
+> D) 22
+> E) It is impossible to determine it.
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q18|src_kangourou_2018_benjamin_marzo__Q18]]
 
 
 
@@ -929,17 +1040,25 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which net cannot be of the colored cube*
+*Which development cannot be of the colored cube?*
 
 ![[src_kangourou_2018_benjamin_marzo__prob19.png]]
 
-> Each face of a cube has been painted in only one color: black, gray, or white. Opposite faces were given different colors. Which of the following nets cannot be the net of such a cube? A) B)
-> 	
-> C)
-> 	
-> D) E)
+> Each face of a cube was painted with a single color: black, gray, or white. Opposite faces were given different colors. Which of the following nets cannot be the net of such a cube?
+>        A) 	 	
+>       B)	
+>
+>    C) 	
+>
+>  D)	
+>               E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q19|src_kangourou_2018_benjamin_marzo__Q19]]
 
 
 
@@ -974,17 +1093,25 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers are common to Lara and Mara's choices*
+*How many numbers are common to Lara's and Mara's choices?*
 
-> From the list of numbers 3, 5, 2, 6, 1, 4, 7 Lara chose 3 numbers, different from each other, whose sum is 8; instead, from the same list, Mara chose 3 numbers, different from each other, whose sum is 7. How many numbers do Lara and Mara have in common? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3 E) There is not enough information to decide. The questions from N. 21 to N. 30 are worth 5 points each.
+> From the list of numbers 3, 5, 2, 6, 1, 4, 7, Lara chose 3 distinct numbers whose sum is 8; meanwhile, from the same list, Mara chose 3 distinct numbers whose sum is 7. How many numbers are common to Lara's and Mara's choices?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3
+> E) There is not enough information to decide.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q20|src_kangourou_2018_benjamin_marzo__Q20]]
 
 
 
@@ -1026,22 +1153,30 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number represented by the letter B in the sum*
+*The digit represented by the letter B in the sum*
 
 ![[src_kangourou_2018_benjamin_marzo__prob21.png]]
 
-> Francis correctly summed two three-digit numbers. In the figure, the digits that formed the numbers were replaced with letters: equal letters for equal digits, different letters for different digits. What number is represented by the letter B? A) 0
-> 	
-> B) 2
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
-> E) 6 A B C  + C B A  =
+> Francesco correctly added two three-digit numbers. In the figure, the digits that made up the numbers have been replaced by letters: the same letters for the same digits, and different letters for different digits. Which digit is represented by the letter B?
+> A) 0	
+>
+> B) 2	
+>
+> C) 4	
+>
+> D) 5	
+>
+> E) 6
+> A B C + C B A =
+>
 >
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q21|src_kangourou_2018_benjamin_marzo__Q21]]
 
 
 
@@ -1076,19 +1211,25 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at 2018th place in the sequence*
+*Number at the 2018th position in the sequence*
 
-> Matilde wrote a long sequence of numbers: the first four are 2, 0, 1, 8 and the sum of five consecutive numbers is always 18. What's the number that occupies the 2018th place in the sequence? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 8
-> 	
+> Matilde has written a long sequence of numbers: the first four are 2, 0, 1, 8, and the sum of five consecutive numbers is always 18. What number occupies the 2018th position in the sequence?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 8	
+>
 > E) 9
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q22|src_kangourou_2018_benjamin_marzo__Q22]]
 
 
 
@@ -1128,13 +1269,23 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible situation after the fourth whistle*
+*A possible scenario after the final whistle*
 
 ![[src_kangourou_2018_benjamin_marzo__prob23.png]]
 
-> Four indistinguishable ladybugs are each in a different cell of a 4 x 4 grid. One of them sleeps and doesn't move. Each time a whistle is made, the other three move into an adjacent cell already free at the time of the whistle, without ending in two in the same cell: they can move up, down, to the right or to the left, but they cannot return to the cell from which they came to the previous whistle. The first figure shows the result of the first three whistles. Which of the following images represents a possible situation after the fourth whistle? A) B) C) D) E)
+> Four indistinguishable ladybugs each occupy a different cell of a 4 x 4 grid. One of them is sleeping and does not move. Each time a whistle is blown, the other three move to an adjacent cell that is already empty at the moment of the whistle, without two of them ending up in the same cell: they can move up, down, right, or left, but they cannot return to the cell they were in at the previous whistle. The first figure shows the result of the first three whistles. Which of the following images represents a possible situation after the fourth whistle?
+>           A)	 	
+>           B)	 	
+>           C) 		
+>            D)		
+>            E)
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q23|src_kangourou_2018_benjamin_marzo__Q23]]
 
 
 
@@ -1170,15 +1321,22 @@ Who gets the fifth shot in the ball game
 
 *Maximum groups with the same sum from 2 to 10*
 
-> Nicola wants to distribute the nine numbers 2, 3, 4, ..., 10 into certain groups, so that the sum of the numbers appearing in each group is the same for all groups. How many groups can you get at most? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 6 E) None of the above answers is correct.
+> Nicola wants to distribute the nine numbers 2, 3, 4, …, 10 into some groups so that the sum of the numbers in each group is the same for all groups. What is the maximum number of groups he can have?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 6
+> E) None of the preceding answers is correct.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q24|src_kangourou_2018_benjamin_marzo__Q24]]
 
 
 
@@ -1212,19 +1370,24 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grandmother's age at the time of Katia's birth*
+*Grandma's age at Katia's birth*
 
-> Adding the ages (in whole numbers of years) of Katia and her mother gives 36; adding the ages of her mother and grandmother gives 81. How old was Grandma when Katia was born? A) 28
-> 	
-> B) 38
-> 	
-> C) 45
-> 	
-> D) 53
-> 	
+> Adding Katia's age and her mother's age (in whole years) gives 36; adding her mother's age and her grandmother's age gives 81. How old was the grandmother when Katia was born?
+> A) 28	
+>
+> B) 38	
+>
+> C) 45	
+>
+> D) 53	
+>
 > E) 56
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q25|src_kangourou_2018_benjamin_marzo__Q25]]
 
 
 
@@ -1272,24 +1435,29 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many volumes each box contains*
+*How many volumes are in each box?*
 
-> A writer has signed many copies of his book and numbered them from number 1. Copies are kept in a gradual order in some boxes: each box contains the same amount of volumes as the others, and the boxes are also numbered starting with the number 1. It is known that volume n. 40 is in the fourth box, which volume n. 73 is in the seventh box and that volume n. 99 is in box nine. How many volumes does each box contain?
-> 	
-> A) Surely 11.
-> 	
-> B) Surely 12.
-> 	
-> C) It could contain 11, but also 12.
-> 	
-> D) It may contain 12, but also 13.
-> 	
-> E) It could contain 11, but also 12 or 13.
->  
+> A writer signed many copies of one of his books and numbered them starting from number 1. The copies are placed, in sequential order, into some boxes: each box contains the same number of volumes as the others, and the boxes are also numbered starting from number 1. It is known that volume no. 40 is in the fourth box, that volume no. 73 is in the seventh box, and that volume no. 99 is in the ninth box. How many volumes does each box contain?
+>
+> A) Definitely 11.
+>
+> B) Definitely 12.
+>
+> C) It could hold 11 of them, but also 12.
+>
+> D) It could hold 12 of them, but also 13.
+>
+> E) It could contain 11 of them, but also 12 or 13.
+>
 > Initial position After the first whistle After the second whistle After the third whistle
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q26|src_kangourou_2018_benjamin_marzo__Q26]]
 
 
 
@@ -1327,19 +1495,26 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum in the 5x5 table with 2x2 binding*
+*Maximum sum in a 5x5 table with a 2x2 constraint*
 
 ![[src_kangourou_2018_benjamin_marzo__prob27.png]]
 
-> In each cell of this table 5 × 5 we have to write 1 or 0 so that every square 2 × 2 contained in the 5 × 5 table contains exactly 3 equal numbers. There are several ways to do this. If we add up all the numbers in the table we can get a maximum of A) 22.
-> 	
-> B) 21.
-> 	
-> C) 20.
-> 	
-> D) 19. E) 18.
+> In each cell of this 5 × 5 table, we must write either 1 or 0 in such a way that every 2 × 2 square contained within the 5 × 5 table has exactly 3 identical numbers: there are various ways to do this. If we add up all the numbers entered in the table, we can obtain at most
+> A) 22.	
+>
+> B) 21.	
+>
+> C) 20.	
+>
+> D) 19.
+> E) 18.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q27|src_kangourou_2018_benjamin_marzo__Q27]]
 
 
 
@@ -1378,21 +1553,27 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of possible numbers at the question mark*
+*Sum of the possible numbers at the question mark*
 
 ![[src_kangourou_2018_benjamin_marzo__prob28.png]]
 
-> I want to write in each of the seven circles one of the numbers 3, 4, 5, 6, 7, 8, 9 so you can use them all and get the same sum every time you add the three numbers that are on the same straight line through the center of the figure. What is the sum of all the numbers that I can put in the place of the question mark? A) 3
-> 	
-> B) 6
-> 	
-> C) 9
-> 	
-> D) 12
-> 	
+> I want to write one of the numbers 3, 4, 5, 6, 7, 8, 9 in each of the seven circles so that I use all of them and get the same sum each time I add the three numbers that lie on the same straight line passing through the center of the figure. What is the sum of all the numbers I can put in place of the question mark?
+> A) 3	
+>
+> B) 6	
+>
+> C) 9	
+>
+> D) 12	
+>
 > E) 18
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q28|src_kangourou_2018_benjamin_marzo__Q28]]
 
 
 
@@ -1433,21 +1614,27 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden points in the covered domino tile*
+*Hidden dots on the covered domino tile*
 
 ![[src_kangourou_2018_benjamin_marzo__prob29.png]]
 
-> There are eight dominoes on the table: as you can see, one is half covered by another. The eight cards can be inserted (without necessarily respecting the rules of dominoes) into a square of 4 × 4 so that the number of points in each row and in each column is the same. How many dots are hidden in the covered part of the tile? Remember, in each half of each card, the points can be 0 to 6. A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> There are eight domino tiles on the table: as you can see in the figure, one is half-covered by another. The eight tiles can be placed (without necessarily following the rules of dominoes) in a 4 × 4 square so that the number of dots in each row and each column is the same. How many dots are hidden in the covered part of the tile? Remember that, in each half of each tile, the number of dots can range from 0 to 6.
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q29|src_kangourou_2018_benjamin_marzo__Q29]]
 
 
 
@@ -1494,20 +1681,26 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum lie around the round table
+*The biggest liars around the round table*
 
 ![[src_kangourou_2018_benjamin_marzo__prob30.png]]
 
-> Fourteen people are sitting around a round table. Each of them is either a liar (that is, always lying) or always telling the truth. Each of them says, "Both my neighbors are liars". What is the maximum number of liars sitting at that table? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> Fourteen people are sitting around a round table. Each of them is either a liar (that is, always lies) or always tells the truth. Each of them says, "Both of my neighbors are liars." What is the maximum possible number of liars sitting at that table?
+> A) 7	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 14
-> 
+>
 > C E B D D C E A B
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_marzo#q30|src_kangourou_2018_benjamin_marzo__Q30]]

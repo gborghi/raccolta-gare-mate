@@ -28,9 +28,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il circolo dei triangoli ACD e XAY si trova sul bisettore perp di O1O2*
+*Il circocentro dei triangoli ACD e XAY giace sull'asse perpendicolare di O1O2*
 
-> I valori $\Gamma_1$ e $\Gamma_2$ siano due cerchi di raggio diseguale, con i centri $O_1$ e $O_2$ rispettivamente, nel piano che si intersecano in due punti distinti $A$ e $B$. Supponiamo che il centro di ciascuno dei cerchi $\Gamma_1$ e $\Gamma_2$ sia all'esterno dell'altro. La tangente di $\Gamma_1$ a $B$ interseca di nuovo $\Gamma_2$ in $C$, diversa da $B$; la tangente di $\Gamma_2$ a $B$ interseca di nuovo $\Gamma_1$ in $D$, diversa da $B$. I bisettori di $\angle CAB$ e $\angle DAB$ incontrano $\Gamma_2$ e $\Gamma_1$ di nuovo rispettivamente in $X$ e $Y$, diversi da $A$. $P$ e $Q$ siano rispettivamente i circoncenti dei triangoli $ACD$ e $XAY$. Prova che $PQ$ è il bisettore perpendicolare del segmento di linea $O_1 O_2$.
+> Siano $\Gamma_1$ e $\Gamma_2$ due circonferenze di raggi disuguali, con centri rispettivamente $O_1$ e $O_2$, nel piano, che si intersecano in due punti distinti $A$ e $B$. Si supponga che il centro di ciascuna delle circonferenze $\Gamma_1$ e $\Gamma_2$ sia esterno all'altra. La tangente a $\Gamma_1$ in $B$ interseca nuovamente $\Gamma_2$ in $C$, diverso da $B$; la tangente a $\Gamma_2$ in $B$ interseca nuovamente $\Gamma_1$ in $D$, diverso da $B$. Le bisettrici di $\angle CAB$ e $\angle DAB$ intersecano nuovamente $\Gamma_2$ e $\Gamma_1$ rispettivamente in $X$ e $Y$, diversi da $A$. Siano $P$ e $Q$ i circocentri dei triangoli $ACD$ e $XAY$, rispettivamente. Dimostrare che $PQ$ è la mediatrice del segmento $O_1 O_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2020#q01|src_inmo_2020__Q01]]
 
 
 
@@ -56,9 +62,19 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione di simmetria soddisfacente polinomial espressa in potenze di (1-x^2)*
+*Polinomio che soddisfa la condizione di simmetria, espresso in potenze di (1-x^2)*
 
-> Supponiamo che $P(x)$ sia un polinomio con coefficienti reali che soddisfano la condizione $$P(\cos\theta + \sin\theta) = P(\cos\theta - \sin\theta)$$ per ogni $\theta$ reale. Prova che $P(x)$ può essere espresso nella forma $$P(x) = a_0 + a_1(1 - x^2)^2 + a_2(1 - x^2)^4 + \cdots + a_n(1 - x^2)^{2n},$$ per alcuni $a_0, a_1, a_2, \ldots, a_n$ e per un intero non negativo $n$.
+> Sia $P(x)$ un polinomio a coefficienti reali che soddisfa la condizione
+> $$P(\cos\theta + \sin\theta) = P(\cos\theta - \sin\theta)$$
+> per ogni $\theta$ reale. Dimostrare che $P(x)$ può essere espresso nella forma
+> $$P(x) = a_0 + a_1(1 - x^2)^2 + a_2(1 - x^2)^4 + \cdots + a_n(1 - x^2)^{2n},$$
+> per qualche $a_0, a_1, a_2, \ldots, a_n$ e un intero non negativo $n$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2020#q02|src_inmo_2020__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo sottoinsieme S di cifre in modo che ogni intero positivo sia uguale a p + q con cifre in S*
+*Sottinsieme più piccolo S di cifre tale che ogni numero intero positivo sia uguale a p+q con cifre appartenenti a S*
 
-> $X = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\}$ sia l'insieme di cifre decimali. Che $S \subseteq X$ sia tale che qualsiasi numero intero positivo $n$ possa essere scritto come $p + q$ dove i numeri interi non negativi $p, q$ hanno tutte le loro cifre in $S$. Trova il numero minimo possibile di elementi in $S$.
+> Sia $X = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\}$ l'insieme delle cifre decimali. Sia $S \subseteq X$ tale che ogni numero intero positivo $n$ possa essere scritto come $p + q$, dove gli interi non negativi $p, q$ hanno tutte le loro cifre in $S$. Determinare il numero minimo possibile di elementi in $S$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2020#q03|src_inmo_2020__Q03]]
 
 
 
@@ -107,9 +130,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza di n numeri reali con la somma 2n*
+*Dimostrare la disuguaglianza per n numeri reali la cui somma è 2n*
 
-> Let $n \geq 3$ essere un numero intero e let $1 < a_1 \leq a_2 \leq \cdots \leq a_n$ essere $n$ numeri reali come $a_1 + a_2 + \cdots + a_n = 2n$. Provare che $$a_1 a_2 \cdots a_{n-1} + a_1 a_2 \cdots a_{n-2} + 2 + a_1 a_2 + a_1 a_2 \cdots a_n \geq 2 \cdot a_1 a_2 \cdots a_n.$$
+> Sia $n \geq 3$ un numero intero e siano $1 < a_1 \leq a_2 \leq \cdots \leq a_n$ $n$ numeri reali tali che $a_1 + a_2 + \cdots + a_n = 2n$. Dimostrare che
+> $$a_1 a_2 \cdots a_{n-1} + a_1 a_2 \cdots a_{n-2} + 2 + a_1 a_2 + a_1 a_2 \cdots a_n \geq 2 \cdot a_1 a_2 \cdots a_n.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2020#q04|src_inmo_2020__Q04]]
 
 
 
@@ -138,15 +169,22 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caratterizzare quali numeri regolari di vertici poligonistici possono essere incorniciati su linee parallele*
+*Caratterizza quali numeri di vertici dei poligoni regolari consentono di delimitare una figura con segmenti giacenti su rette parallele*
 
-> Infinitamente molte linee parallele equidistanti sono tracciate nel piano. Un intero positivo $n \geq 3$ è chiamato \emph{frameable} se è possibile disegnare un poligono regolare con i lati $n$ i cui vertici si trovano tutte su queste linee e nessuna linea contiene più di un vertice del poligono.
-> 
-> (a) dimostrare che $3, 4, 6$ sono incornicibili.
-> 
-> b) dimostrare che ogni $n \geq 7$ non è incornicibile.
-> 
-> c) Determinare se $5$ è incornicibile.
+> Nel piano si tracciano infiniti segmenti di retta paralleli e equidistanti. Un numero intero positivo $n \geq 3$ è detto \emph{incorniciabile} se è possibile tracciare un poligono regolare con $n$ lati tale che tutti i suoi vertici giacciano su queste rette e nessuna retta contenga più di un vertice del poligono.
+>
+> (a) Dimostrare che $3, 4, 6$ sono incorniciabili.
+>
+> (b) Dimostrare che ogni $n \geq 7$ non è incorniciabile.
+>
+> (c) Determinare se $5$ è incorniciabile.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2020#q05|src_inmo_2020__Q05]]
 
 
 
@@ -169,6 +207,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5x5 tabella non può essere coperta da 16 trombini con ogni quadrato coperto una o due volte*
+*Una scacchiera 5x5 non può essere coperta da 16 tromini, con ogni casella coperta una o due volte*
 
-> Un \emph{stromino} è un rettangolo $3 \times 1$. Mostrare che una tabella $5 \times 5$ divisa in venticinque quadrati $1 \times 1$ non può essere coperta da stromino $16$ in modo tale che ogni stromino copra esattamente tre quadrati della tabella e ogni quadrato unitario sia coperto da uno o due stromino. [Un stromino può essere posizionato orizzontalmente o verticalmente sulla lavagna.]
+> Uno \emph{stromino} è un rettangolo $3 \times 1$. Dimostrare che una scacchiera $5 \times 5$ suddivisa in venticinque quadrati $1 \times 1$ non può essere ricoperta da $16$ stromini in modo che ciascuno stromino copra esattamente tre quadrati della scacchiera e ogni quadrato unitario sia coperto da uno o due stromini. [Uno stromino può essere collocato sulla scacchiera in orizzontale o in verticale.]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2020#q06|src_inmo_2020__Q06]]

@@ -31,11 +31,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tripli interi non negativi con a^20+b^2+c^6=2026*
+*Terne di interi non negativi che soddisfano un'equazione*
 
-> Trova tutti i triples $(a, b, c)$ di numeri interi non negativi che soddisfano $$a^{20} + b^2 + c^6 = 2026.$$
+> Determinare tutte le terne $(a, b, c)$ di interi non negativi che soddisfano
+>
+> $$a^{20} + b^2 + c^6 = 2026.$$
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** (1,36,3)
+[[Quesiti/src_jmo36yqa_yosen#q01|src_jmo36yqa_yosen__Q01]]
 
 
 
@@ -59,11 +65,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo intero positivo n in cui il piano(sqrt(2026n)) non è divisibile da n*
+*Massimo intero positivo per cui un'espressione non è divisibile per un intero*
 
-> Trova il più grande intero positivo $n$ in modo che $\lfloor \sqrt{2026n} \rfloor$ non sia divisibile da $n$. Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$ (ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 5 \rfloor = 5$).
+> Trovare il massimo intero positivo $n$ tale che $\lfloor \sqrt{2026n} \rfloor$ non è divisibile per $n$. Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il massimo intero che non supera $r$ (per esempio $\lfloor 3.14 \rfloor = 3$, $\lfloor 5 \rfloor = 5$).
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** 91
+[[Quesiti/src_jmo36yqa_yosen#q02|src_jmo36yqa_yosen__Q02]]
 
 
 
@@ -89,13 +99,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova AC/AD dato segmenti di accordi uguali e tre aree triangolari su un cerchio*
+*Un valore, date le aree di tre triangoli su una circonferenza*
 
-> Su un cerchio ci sono cinque punti $A$, $B$, $C$, $D$, $E$ in questo ordine. $P$ e $Q$ siano rispettivamente le intersezioni di accordi $BE$ con accordi $AC$ e di accordi $BE$ con accordi $AD$. Supponiamo che $BP = PQ = QE$ sia valido. Le superfici dei triangoli $BCP$, $APQ$ e $DEQ$ sono rispettivamente $2$, $9$ e $3$. Trova il valore di $\dfrac{AC}{AD}$, dove $XY$ indica la lunghezza del segmento $XY$.
+> Su una circonferenza ci sono cinque punti $A$, $B$, $C$, $D$, $E$, in quest'ordine. Siano $P$ e $Q$ le intersezioni della corda $BE$ con la corda $AC$, e della corda $BE$ con la corda $AD$, rispettivamente. Si supponga che valga $BP = PQ = QE$. Le aree dei triangoli $BCP$, $APQ$ e $DEQ$ sono rispettivamente $2$, $9$ e $3$. Trovare il valore di $\dfrac{AC}{AD}$, dove $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jmo36yqa_yosen__q03.png]]
 
-**Risposta:** \dfrac{11\sqrt{6}}{24}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Risposta:** $\dfrac{11\sqrt{6}}{24}$
+[[Quesiti/src_jmo36yqa_yosen#q03|src_jmo36yqa_yosen__Q03]]
 
 
 
@@ -123,13 +137,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima del rettangolo ABCD tagliata in sotto rettangoli con diversi lati interi non più di 9*
+*Massima area di un rettangolo tagliato in rettangoli più piccoli a lati interi, tutti diversi*
 
-> C'è un rettangolo $ABCD$ le cui lunghezze laterali sono numeri interi positivi. Una linea di taglio **** è definita come una delle linee rette seguenti: - una linea che attraversa un punto laterale $AB$ (escluse le estremità) e che è parallela a $BC$, - una linea che attraversa un punto laterale $BC$ (escluse le estremità) e che è parallela a $AB$.
-> 
-> Scegliamo alcune linee tagliate e le usiamo per tagliare completamente il rettangolo $ABCD$ in rettangoli più piccoli. Si è scoperto che ogni rettangolo più piccolo ha tutte le lunghezze laterali interi positivi al massimo $9$. Inoltre, non esistono due rettangoli più piccoli che abbiano la stessa lunghezza laterale. Trova la superficie massima possibile di rettangolo $ABCD$.
+> C'è un rettangolo $ABCD$ i cui lati sono interi positivi. Una **retta di taglio** è una qualunque delle rette seguenti:
+> - una retta passante per un punto del lato $AB$ (estremi esclusi) e parallela a $BC$;
+> - una retta passante per un punto del lato $BC$ (estremi esclusi) e parallela a $AB$.
+>
+> Si scelgono alcune rette di taglio e con esse si taglia completamente il rettangolo $ABCD$ in rettangoli più piccoli. Risulta che ogni rettangolo più piccolo ha tutti i lati interi positivi al più $9$. Inoltre non ci sono due rettangoli più piccoli distinti con la stessa coppia di lunghezze dei lati. Trovare la massima area possibile del rettangolo $ABCD$.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 729
+[[Quesiti/src_jmo36yqa_yosen#q04|src_jmo36yqa_yosen__Q04]]
 
 
 
@@ -154,11 +174,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i triples di numeri interi (x,y,z) in [1,17] dove un singolo numero intero >1 divide tutte e quattro le espressioni*
+*Terne di interi per cui un intero maggiore di un dato valore divide quattro quantità*
 
-> Trovare tutti i triples $(x, y, z)$ di numeri interi con $1 \le x, y, z \le 17$ in modo tale che esista un numero intero maggiore di $1$ che divide tutte e quattro delle seguenti quantità: $$xy + 4, \quad yz + 5, \quad zx + 6, \quad xyz + 7.$$
+> Determinare tutte le terne $(x, y, z)$ di interi con $1 \le x, y, z \le 17$ tali che esista un intero maggiore di $1$ che divide tutte e quattro le quantità seguenti:
+>
+> $$xy + 4, \quad yz + 5, \quad zx + 6, \quad xyz + 7.$$
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** (4,12,5), (17,12,5)
+[[Quesiti/src_jmo36yqa_yosen#q05|src_jmo36yqa_yosen__Q05]]
 
 
 
@@ -182,11 +208,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca XY in un parallelo con condizioni di punto medio e di intersezione con CE=DF=3*
+*Lunghezza di un segmento in un parallelogramma*
 
-> Nel parallelogramma $ABCD$, $E$ deve essere un punto laterale $CD$ (escluse le estremità). Il $M$ deve essere il punto medio del segmento $AE$, e il $G$ deve essere l'intersezione della linea $BM$ e della linea $AD$. Dato che $CE = DF = 3$ (dove $F$ è un punto specifico definito dalla configurazione), $MB = 5$, $MC = 4$, si trova la lunghezza $XY$, dove $XY$ indica la lunghezza del segmento $AB$.
+> Nel parallelogramma $ABCD$, sia $E$ un punto sul lato $CD$ (estremi esclusi). Sia $M$ il punto medio del segmento $AE$, e sia $G$ l'intersezione della retta $BM$ e della retta $AD$. Sapendo che $CE = DF = 3$ (dove $F$ è un punto specifico definito dalla configurazione), $MB = 5$, $MC = 4$, trovare la lunghezza $XY$, dove $XY$ indica la lunghezza del segmento $AB$.
 
-**Risposta:** \sqrt{41}-3
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Risposta:** $\sqrt{41}-3$
+[[Quesiti/src_jmo36yqa_yosen#q06|src_jmo36yqa_yosen__Q06]]
 
 
 
@@ -214,13 +244,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio dei sedili degli studenti sulle banche del 2026 dopo un processo di migrazione a due regole*
+*Disposizioni possibili degli studenti sulle panchine dopo gli spostamenti*
 
-> Ci sono banchi $2026$ equamente spaziati intorno a un cerchio (numerati $1$ fino a $2026$), ognuno inizialmente occupato da esattamente uno studente. A ogni fase del processo, l'insegnante: - Seleziona uno studente che sta seduto sulla panchina $1$ e gli chiede di passare alla panchina $2$ (la panchina successiva nella direzione positiva). - Ogni altro studente che non è stato selezionato si sposta sulla panchina che è $2$ posizioni in avanti.
-> 
-> Quando tutti gli studenti hanno finito di muoversi, il numero totale degli studenti sulle panchine risulta essere esattamente $2000$. Trova il numero di posti a sedere possibili in quel momento.
+> Ci sono $2026$ panchine equispaziate su una circonferenza (numerate da $1$ a $2026$), ciascuna occupata inizialmente da esattamente uno studente. A ogni passo del procedimento, l'insegnante:
+> - sceglie uno studente che in quel momento siede sulla panchina $1$ e gli chiede di spostarsi sulla panchina $2$ (la panchina successiva nel verso positivo);
+> - ogni altro studente che NON è stato scelto si sposta sulla panchina che sta $2$ posizioni più avanti.
+>
+> Quando tutti gli studenti hanno finito di spostarsi, il numero totale di studenti sulle panchine risulta esattamente $2000$. Trovare il numero di disposizioni possibili a quel punto.
 
-**Risposta:** 2 \cdot \binom{2026}{52}
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Risposta:** $2 \cdot \binom{2026}{52}$
+[[Quesiti/src_jmo36yqa_yosen#q07|src_jmo36yqa_yosen__Q07]]
 
 
 
@@ -248,13 +284,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca a_{20} in una sequenza in aumento rigoroso con condizione di divisibilità di somma alternata*
+*Un valore di una successione strettamente crescente di interi positivi*
 
-> Che $a_1, a_2, a_3, \ldots$ sia una sequenza di numeri interi positivi in stretta crescita che soddisfa le seguenti due condizioni: - $a_1 = 36$, e esistono indici $i, j$ tali da $a_3 = 3750$. - Per qualsiasi numero intero positivo $n$, $\displaystyle\sum_{k=1}^{n} (-1)^{k-1} a_k$ è divisibile per $a_{n+1}$.
-> 
-> Qui, un intero $x$ viene detto **divide** un intero $y$ se esiste un intero $m$ tale che $y = mx$. Trova $a_{20}$.
+> Sia $a_1, a_2, a_3, \ldots$ una successione strettamente crescente di interi positivi che soddisfa le due condizioni seguenti:
+> - $a_1 = 36$, ed esistono indici $i, j$ tali che $a_3 = 3750$;
+> - per ogni intero positivo $n$, $\displaystyle\sum_{k=1}^{n} (-1)^{k-1} a_k$ è divisibile per $a_{n+1}$.
+>
+> Qui si dice che un intero $x$ **divide** un intero $y$ se esiste un intero $m$ tale che $y = mx$. Trovare $a_{20}$.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Risposta:** 48000
+[[Quesiti/src_jmo36yqa_yosen#q08|src_jmo36yqa_yosen__Q08]]
 
 
 
@@ -278,11 +320,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del triangolo DPQ nel triangolo ABC con condizione angolare e lunghezze date*
+*Area di un triangolo, dati punti sui lati e due assi dei segmenti*
 
-> In triangolo $ABC$, $AB = AC$ e $BC = 21$. Sul lato $BC$, $CA$, $AB$ (esclusi i punti finali) ci sono i punti $D$, $E$ e $F$ rispettivamente tali che $\angle EDF = 180^\circ - \dfrac{1}{2}\angle BAC$. $P$ sia l'intersezione del bisettore perpendicolare di $BD$ e della linea $DE$, e $Q$ sia l'intersezione del bisettore perpendicolare di $CD$ e della linea $DF$. Dato che $FP = 16$, $FQ = 12$ e $AB = 6\sqrt{7}$, si trova l'area del triangolo $DPQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo $ABC$, $AB = AC$ e $BC = 21$. Sui lati $BC$, $CA$, $AB$ (estremi esclusi) ci sono rispettivamente i punti $D$, $E$, $F$ tali che $\angle EDF = 180^\circ - \dfrac{1}{2}\angle BAC$. Sia $P$ l'intersezione dell'asse del segmento $BD$ e della retta $DE$, e sia $Q$ l'intersezione dell'asse del segmento $CD$ e della retta $DF$. Sapendo che $FP = 16$, $FQ = 12$ e $AB = 6\sqrt{7}$, trovare l'area del triangolo $DPQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-**Risposta:** \dfrac{48\sqrt{7}}{25}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Risposta:** $\dfrac{48\sqrt{7}}{25}$
+[[Quesiti/src_jmo36yqa_yosen#q09|src_jmo36yqa_yosen__Q09]]
 
 
 
@@ -310,13 +356,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minima n per l'esistenza di un convex 101-gon con vertici della griglia che condividono coordinate consecutive*
+*Minimo numero di lati di un poligono convesso a vertici buoni, con lati orizzontali o verticali*
 
-> $n$ sia un numero intero positivo. Nel piano $xy$, chiamare un punto **good** se sia la sua coordinata $x$ che la sua coordinata $y$ sono integri in $\{0, 1, \ldots, n\}$. Diciamo che una convexa $101$-gon $P_1 P_2 \cdots P_{101}$ soddisfa le condizioni se: - Ogni vertice $P_i$ è un buon punto. - Per ogni $1 \le i \le 101$, le vertici successive $P_i$ e $P_{i+1}$ condividono la stessa $x$-coordinata o la stessa $y$-coordinata (indici modulo $101$, con $P_{102} = P_1$).
-> 
-> Un convex $101$-gon è un non-auto-intersezione $101$-gon il cui angolo interno è inferiore a $180^\circ$. Trovare il valore più piccolo di $n$ per il quale esiste un tale convex $101$-gon.
+> Sia $n$ un intero positivo. Nel piano $xy$, si chiami **buono** un punto se sia la sua coordinata $x$ sia la sua coordinata $y$ sono interi in $\{0, 1, \ldots, n\}$. Si dice che un $101$-gono convesso $P_1 P_2 \cdots P_{101}$ soddisfa le condizioni se:
+> - ogni vertice $P_i$ è un punto buono;
+> - per ogni $1 \le i \le 101$, i vertici consecutivi $P_i$ e $P_{i+1}$ hanno la stessa coordinata $x$ o la stessa coordinata $y$ (indici modulo $101$, con $P_{102} = P_1$).
+>
+> Un $101$-gono convesso è un $101$-gono che non si autointerseca e i cui angoli interni sono tutti minori di $180^\circ$. Trovare il minimo valore di $n$ per il quale esiste un tale $101$-gono convesso.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 650
+[[Quesiti/src_jmo36yqa_yosen#q10|src_jmo36yqa_yosen__Q10]]
 
 
 
@@ -341,11 +393,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di conteggio (a_1,...,a_26) in [1,20] che soddisfano una condizione di equilibrio parziale per tutte le coppie*
+*Successioni di interi per cui fra due indici ne esiste uno con una proprietà*
 
-> Trova il numero di sequenze $(a_1, a_2, \ldots, a_{26})$ di numeri interi con $1 \le a_i \le 20$ che soddisfano la seguente condizione: per qualsiasi coppia di indici $(i, j)$ con $1 \le i < j \le 26$, esiste un indice $t$ con $i \le t \le j$ tale che $$a_1 + a_2 + \cdots + a_t = a_{t+1} + a_{t+2} + \cdots + a_{26}.$$
+> Trovare il numero di successioni $(a_1, a_2, \ldots, a_{26})$ di interi con $1 \le a_i \le 20$ che soddisfano la condizione seguente: per qualunque coppia di indici $(i, j)$ con $1 \le i < j \le 26$, esiste un indice $t$ con $i \le t \le j$ tale che
+>
+> $$a_1 + a_2 + \cdots + a_t = a_{t+1} + a_{t+2} + \cdots + a_{26}.$$
 
-**Risposta:** 9980 \cdot 19^{23}
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Risposta:** $9980 \cdot 19^{23}$
+[[Quesiti/src_jmo36yqa_yosen#q11|src_jmo36yqa_yosen__Q11]]
 
 
 
@@ -369,8 +427,12 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo z per gli integri positivi x,y,z con x^y×y^z=2^{20x+20y} e y/20 integri, z/20 non*
+*Minimo valore possibile di un intero positivo, dato che un quoziente è intero e un altro no*
 
-> Lasciate che $x$, $y$, $z$ siano integri positivi che soddisfino $x^y \cdot y^z = 2^{20x + 20y}$. Dato che $\dfrac{y}{20}$ è un numero intero e $\dfrac{z}{20}$ non è un numero intero, trovare il valore minimo possibile di $z$.
+> Siano $x$, $y$, $z$ interi positivi che soddisfano $x^y \cdot y^z = 2^{20x + 20y}$. Sapendo che $\dfrac{y}{20}$ è un intero e $\dfrac{z}{20}$ non è un intero, trovare il minimo valore possibile di $z$.
 
-**Risposta:** 2^{127} \cdot 641^{641}
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Risposta:** $2^{127} \cdot 641^{641}$
+[[Quesiti/src_jmo36yqa_yosen#q12|src_jmo36yqa_yosen__Q12]]

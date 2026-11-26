@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who received q on first round*
+*Who received q chips on the first round*
 
-> Three players $A$, $B$ and $C$ play the following game: on each of the three cards a whole is written. These three numbers $p, q, r$ correspond to $0 < p < q < r$. The three cards are mixed and one is dealt to each player. Each player then receives the number of tokens indicated by the card in his hand. The cards are then mixed again; the chips remain with the players.
-> 
-> This process (mixing, distributing, giving tokens) takes place for at least two shifts. After the last round, $A$ has a total of 20 tokens, $B$ has 10 and $C$ has 9. In the last round $B$ received $r$ tokens. Who received $q$ tokens in the first round?
+> Three players $A$, $B$ and $C$ play the following game: on each of three cards an integer is written. These three numbers $p, q, r$ satisfy $0 < p < q < r$. The three cards are shuffled and one is dealt to each player. Each then receives the number of chips indicated by the card in hand. The cards are then shuffled again; the chips remain with the players.
+>
+> This process (shuffle, deal, give the chips) takes place for at least two rounds. After the last round, $A$ has 20 chips in all, $B$ has 10 and $C$ has 9. On the last round $B$ received $r$ chips. Who received $q$ chips on the first round?
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1974_all#q01|src_imo_1974_all__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Point D with CD geometric mean iff sinA sinB<=sin^2(C/2)*
+*A point D on AB such that CD is the geometric mean of AD and DB*
 
-> In the $ABC$ triangle, prove that there is a point $D$ on the $AB$ side such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if $$\sin A \sin B \leq \sin^2 \frac{C}{2}.$$
+> In triangle $ABC$, prove that there exists a point $D$ on the side $AB$ such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if
+> $$\sin A \sin B \leq \sin^2 \frac{C}{2}.$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1974_all#q02|src_imo_1974_all__Q02]]
 
 
 
@@ -84,9 +98,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Prove binomial-sum with 2^3k not divisible by 5
+*A binomial sum is never divisible by 5*
 
-> Demonstrate that the number $$\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$$ is not divisible by 5 for any integer $n \geq 0$.
+> Prove that the number
+> $$\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$$
+> is not divisible by 5 for any integer $n \geq 0$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1974_all#q03|src_imo_1974_all__Q03]]
 
 
 
@@ -115,15 +137,22 @@ Prove binomial-sum with 2^3k not divisible by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max rectangles partitioning chessboard with balanced colors*
+*Maximum number of rectangles in a balanced black-and-white decomposition of a chessboard*
 
-> Decompositions of a $8 \times 8$ chessboard into $p$ non-overlapping rectangles shall be considered subject to the following conditions:
-> 
+> Consider decompositions of an $8 \times 8$ chessboard into $p$ non-overlapping rectangles subject to the following conditions:
+>
 > (i) Each rectangle has as many white squares as black squares.
-> 
-> (ii) If $a_i$ is the number of white squares in the $i$-eighth rectangle, then $a_1 < a_2 < \cdots < a_p$.
-> 
-> Find the maximum value of $p$ for which such decomposition is possible. For this value of $p$, determine all possible successions $a_1, a_2, \ldots, a_p$.
+>
+> (ii) If $a_i$ is the number of white squares in the $i$th rectangle, then $a_1 < a_2 < \cdots < a_p$.
+>
+> Find the maximum value of $p$ for which such a decomposition is possible. For this value of $p$, determine all possible sequences $a_1, a_2, \ldots, a_p$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1974_all#q04|src_imo_1974_all__Q04]]
 
 
 
@@ -147,9 +176,17 @@ Prove binomial-sum with 2^3k not divisible by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-Determine the values of cyclic four-fraction sum S*
+*Possible values of a sum of four fractions in positive reals*
 
-> Determine all possible values of $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$ where $a, b, c, d$ are arbitrary positive numbers.
+> Determine all possible values of
+> $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$
+> where $a, b, c, d$ are arbitrary positive numbers.
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1974_all#q05|src_imo_1974_all__Q05]]
 
 
 
@@ -173,6 +210,14 @@ Determine the values of cyclic four-fraction sum S*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bound n(P) -deg(P) <=2 for P(k) ^2=1 integer roots*
+*How many integers a polynomial with integer coefficients can send to ±1*
 
-> Whether $P$ is a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such as $(P(k))^2 = 1$, prove that $$n(P) - \deg(P) \leq 2,$$ where $\deg(P)$ denotes the degree of the $P$ polynomial.
+> Let $P$ be a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such that $(P(k))^2 = 1$, prove that
+> $$n(P) - \deg(P) \leq 2,$$
+> where $\deg(P)$ denotes the degree of the polynomial $P$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1974_all#q06|src_imo_1974_all__Q06]]

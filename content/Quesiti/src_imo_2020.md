@@ -31,9 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three competing squared lines with angular ratios*
+*Two angle-bisectors and the perpendicular bisector of AB meet at a point*
 
-> Consider the convex quadrilateral $ABCD$. The point $P$ is within $ABCD$. The following equations of proportions are valid: $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$ It shows that the following three lines meet at a point: the inner intersections of the $\angle ADP$ and $\angle PCB$ angles and the mediator of the $AB$ segment.
+> Consider the convex quadrilateral $ABCD$. The point $P$ is inside $ABCD$. The following equalities of ratios hold:
+> $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$
+> Prove that the following three lines meet at a point: the internal bisectors of the angles $\angle ADP$ and $\angle PCB$, and the perpendicular bisector of the segment $AB$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2020#q01|src_imo_2020__Q01]]
 
 
 
@@ -57,9 +66,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the same as the previous one.
+*A weighted sum times a product of powers is less than 1*
 
-> The real numbers $a, b, c, d$ are $a \geq b \geq c \geq d > 0$ and $a + b + c + d = 1$. Indicates that $$(a + 2b + 3c + 4d)\, a^a b^b c^c d^d < 1.$$
+> The real numbers $a, b, c, d$ are such that $a \geq b \geq c \geq d > 0$ and $a + b + c + d = 1$. Prove that
+> $$(a + 2b + 3c + 4d)\, a^a b^b c^c d^d < 1.$$
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_2020#q02|src_imo_2020__Q02]]
 
 
 
@@ -85,11 +102,20 @@ This is the same as the previous one.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4n coloured rocks in two balanced heaps*
+*Stones of weights 1 through 4n, four of each colour, split into two equal piles*
 
-> There are $4n$ rocks of $1, 2, 3, \ldots, 4n$ weight. Each stone is colored in one of $n$ colors and there are four stones of each color. It shows that we can arrange the rocks in two piles so that both of the following conditions are met:
-> 
-> - The total weight of both batteries is the same. - Each pile contains two stones of each color.
+> There are $4n$ stones of weights $1, 2, 3, \ldots, 4n$. Each stone is coloured in one of $n$ colours, and there are four stones of each colour. Show that we can arrange the stones in two piles so that both of the following conditions are satisfied:
+>
+> - The total weight of the two piles is equal.
+>
+> - Each pile contains two stones of each colour.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2020#q03|src_imo_2020__Q03]]
 
 
 
@@ -114,11 +140,18 @@ This is the same as the previous one.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k cableways with two stations connected by both*
+*Least k such that two cable-car companies must share a connected pair of stations*
 
-> It is $n > 1$ a whole. There are $n^2$ stations on one side of a mountain, all at different heights. Each of the two cable car companies, $A$ and $B$, operates $k$ cable cars; each cable car provides a transfer from one of the stations to a higher one (without intermediate stops). The $k$ cableways of $A$ have different $k$ starting points and $k$ different arrival points, and a cableway that starts at a higher altitude also reaches a higher altitude. The same conditions apply to $B$. Let's say that two stations are connected by a company if you can start from the lower station and reach the upper one using one or more means of that company (no other movements between stations are allowed).
-> 
-> It determines the smallest positive integer $k$ so that it can be guaranteed that there are two stations connected by both companies.
+> Let $n > 1$ be an integer. There are $n^2$ stations on a mountainside, all at different altitudes. Each of two cable-car companies, $A$ and $B$, operates $k$ cable cars; each cable car provides a transfer from one of the stations to a higher one (with no intermediate stops). The $k$ cable cars of $A$ have $k$ different starting points and $k$ different arrival points, and a cable car that starts at a higher altitude also arrives at a higher altitude. The same conditions hold for $B$. We say that two stations are connected by a company if one can start from the lower station and reach the upper one using one or more of that company's cars (no other moves between stations are allowed).
+>
+> Determine the least positive integer $k$ for which one can guarantee that there exist two stations connected by both companies.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2020#q04|src_imo_2020__Q04]]
 
 
 
@@ -143,11 +176,18 @@ This is the same as the previous one.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n with arithmetic mean=geometric mean equal force*
+*For which n must the numbers on the cards all be equal?*
 
-> A deck of $n > 1$ cards is given. On each card is written a positive integer. The deck has the property that the arithmetic mean of the numbers on each pair of cards is also the geometric mean of the numbers on some collection of one or more cards.
-> 
-> So what does it mean that the numbers on the cards are all the same?
+> A deck of $n > 1$ cards is given. On each card a positive integer is written. The deck has the property that the arithmetic mean of the numbers on every pair of cards is also the geometric mean of the numbers on some collection of one or more cards.
+>
+> For which $n$ does it follow that the numbers on the cards are all equal?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2020#q05|src_imo_2020__Q05]]
 
 
 
@@ -176,12 +216,19 @@ This is the same as the previous one.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separating straight with distance >= n^(-1/3)*
+*A line separating a separated point set stays at least c n^{-1/3} from every point*
 
-> It shows that there is such a positive constant $c$ that the following statement is true:
-> 
-> Consider an integer $n > 1$ and a set $S$ of $n$ points in the plane such that the distance between any two distinct points of $S$ is at least $1$. It follows that there is a $\ell$ line separating $S$ such that the distance from each point of $S$ to $\ell$ is at least $cn^{-1/3}$.
-> 
-> (A straight $\ell$ separates a set of points $S$ if any segment connecting two points of $S$ intersects $\ell$.)
-> 
-> **Note.** Weaker results with $cn^{-1/3}$ replaced by $cn^{-\alpha}$ may receive points depending on the value of the $\alpha > 1/3$ constant.
+> Prove that there exists a positive constant $c$ such that the following statement is true:
+>
+> Consider an integer $n > 1$ and a set $S$ of $n$ points in the plane such that the distance between any two distinct points of $S$ is at least $1$. It follows that there exists a line $\ell$ that separates $S$ such that the distance from every point of $S$ to $\ell$ is at least $cn^{-1/3}$.
+>
+> (A line $\ell$ separates a set of points $S$ if some segment joining two points of $S$ meets $\ell$.)
+>
+> **Note.** Weaker results with $cn^{-1/3}$ replaced by $cn^{-\alpha}$ may receive marks depending on the value of the constant $\alpha > 1/3$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2020#q06|src_imo_2020__Q06]]

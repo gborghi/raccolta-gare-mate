@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti medi quadrilaterali ciclici danno quattro triangoli con circumradii uguali*
+*I punti medi di un quadrilatero ciclico danno quattro triangoli con raggi circoscritti uguali*
 
-> Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico si incontrano a $E$. I punti intermedi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Provare che le circondazioni dei triangoli $EPQ$, $EQR$, $ERS$ e $ESP$ sono tutte uguali.
+> Le diagonali $AC$ e $BD$ di un quadrilatero ciclico si incontrano in $E$. I punti medi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Dimostrare che i raggi circoscritti dei triangoli $EPQ$, $EQR$, $ERS$ e $ESP$ sono tutti uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2011-12_round2#q01|src_bmo_2011-12_round2__Q01]]
 
 
 
@@ -58,11 +65,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione ricursiva su numeri interi positivi: dimostrare f(n) = n infinitamente spesso*
+*Funzione ricorsiva sugli interi positivi: dimostrare che f(n)=n infinite volte*
 
-> Una funzione $f$ è definita sui numeri interi positivi da $f(1) = 1$ e, per $n > 1$, da $$f(n) = f\!\left(\left\lfloor \frac{n}{2} \right\rfloor\right) + f\!\left(\left\lceil \frac{n}{2} \right\rceil\right),$$ dove $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Prova che $f(n) = n$ per infinite $n \ge 1$.
-> 
-> [Questi sono esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor 3.729 \rfloor = 3$; $\lfloor 1729 \rfloor = 1729$]
+> Una funzione $f$ è definita sugli interi positivi mediante $f(1) = 1$ e, per $n > 1$,
+> $$f(n) = f\!\left(\left\lfloor \frac{n}{2} \right\rfloor\right) + f\!\left(\left\lceil \frac{n}{2} \right\rceil\right),$$
+> dove $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$. Dimostrare che $f(n) = n$ per infiniti $n \ge 1$.
+>
+> [Ecco alcuni esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor 3.729 \rfloor = 3$; $\lfloor 1729 \rfloor = 1729$]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2011-12_round2#q02|src_bmo_2011-12_round2__Q02]]
 
 
 
@@ -85,9 +101,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reals suddivisi in due sottogruppi: trovare elementi vicini nello stesso sottogruppo*
+*I reali si suddividono in due sottoinsiemi: trova elementi vicini nello stesso sottoinsieme*
 
-> L'insieme dei numeri reali è diviso in due sottinsiemi non vuoti. Prova che per ogni coppia $(m, n)$ di integri positivi, ci sono $x < y$ nello stesso sottoinsieme in modo tale che $m(y - x) < n$.
+> L'insieme dei numeri reali è suddiviso in due sottoinsiemi non vuoti. Dimostrare che, per ogni coppia $(m, n)$ di numeri interi positivi, esistono $x < y$ nello stesso sottoinsieme tali che $m(y - x) < n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2011-12_round2#q03|src_bmo_2011-12_round2__Q03]]
 
 
 
@@ -112,4 +135,11 @@ level: BMO Round 2
 
 *Interi a,b,c,d: condizione di divisibilità per ogni n positivo*
 
-> Mostrare che se $a$, $b$, $c$, $d$ sono interi e $a$ è un divisore di $b^n + c^n + d^n - b - c - d$ per tutti gli interi positivi $n$, allora $a$ divide $b + c + d$.
+> Dimostrare che, se $a$, $b$, $c$, $d$ sono interi e $a$ è un divisore di $b^n + c^n + d^n - b - c - d$ per tutti gli interi positivi $n$, allora $a$ divide $b + c + d$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2011-12_round2#q04|src_bmo_2011-12_round2__Q04]]

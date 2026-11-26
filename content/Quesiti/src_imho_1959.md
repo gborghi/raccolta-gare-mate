@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove that (21n+4)/(14n+3) is irreducible*
+*The fraction (21n+4)/(14n+3) is irreducible for every natural number n*
 
-> Demonstrate that the fraction $\dfrac{21n+4}{14n+3}$ is irreducible for any natural number $n$.
+> Prove that the fraction $\dfrac{21n+4}{14n+3}$ is irreducible for every natural number $n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imho_1959#q01|src_imho_1959__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real values of x for an equation with nested roots*
+*Real x satisfying a nested-radical equation for three values of A*
 
-> For which real values of $x$ is the equation $$\sqrt{x + \sqrt{2x-1}} + \sqrt{x - \sqrt{2x-1}} = A,$$ given (a) $A = \sqrt{2}$, (b) $A = 1$, (c) $A = 2$ satisfied, where only square roots of non-negative real numbers are allowed?
+> For which real values of $x$ does the equation
+> $$\sqrt{x + \sqrt{2x-1}} + \sqrt{x - \sqrt{2x-1}} = A,$$
+> hold, given (a) $A = \sqrt{2}$, (b) $A = 1$, (c) $A = 2$, where only square roots of non-negative real numbers are allowed?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imho_1959#q02|src_imho_1959__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*From equation in cos x to equation in cos 2x*
+*A quadratic in cos 2x with the same roots as one in cos x*
 
-> They shall be $a$, $b$, $c$ real numbers. Consider the second degree equation in $\cos x$: $$a \cos^2 x + b \cos x + c = 0.$$ Using the numbers $a$, $b$, $c$, form a second degree equation in $\cos 2x$ that has the same roots as the original equation. Compare the equations in $\cos x$ and in $\cos 2x$ for $a = 4$, $b = 2$, $c = -1$.
+> Let $a$, $b$, $c$ be real numbers. Consider the quadratic equation in $\cos x$:
+> $$a \cos^2 x + b \cos x + c = 0.$$
+> Using the numbers $a$, $b$, $c$, form a quadratic equation in $\cos 2x$ with the same roots as the original equation. Compare the equations in $\cos x$ and in $\cos 2x$ for $a = 4$, $b = 2$, $c = -1$.
+
+**Topic:** [[topic_trigonometria|Trigonometry]], [[topic_algebra|Algebra]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1959#q03|src_imho_1959__Q03]]
 
 
 
@@ -107,9 +132,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Building a rectangular triangle with a geometric mean*
+*A right triangle with given hypotenuse whose median is the geometric mean of the legs*
 
-> Build a rectangular triangle with a given $c$ hypotenuse, such that the median relative to the hypotenuse is the geometric mean of the two cathetes of the triangle.
+> Construct a right triangle with given hypotenuse $c$ such that the median to the hypotenuse is the geometric mean of the two legs.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1959#q04|src_imho_1959__Q04]]
 
 
 
@@ -138,15 +169,22 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*coincidence of points and location of the media*
+*Squares on a segment, their circumcircles, and the locus of the midpoints of PQ*
 
-> An arbitrary point $M$ is selected within the $AB$ segment. The $AMCD$ and $MBEF$ squares are constructed from the same side of $AB$, having the $AM$ and $MB$ segments as bases respectively. The circles surrounded by these squares, with centres $P$ and $Q$, intersect at $M$ and at another point $N$. The intersection point of lines $AF$ and $BC$ shall be indicated by $N'$.
-> 
-> (a) Demonstrate that the $N$ and $N'$ points coincide.
-> 
-> (b) Demonstrate that the straight $MN$ passes through a fixed point $S$ independent of the choice of $M$.
-> 
-> (c) Find the geometric location of the mean points of the $PQ$ segments when $M$ varies between $A$ and $B$.
+> An arbitrary point $M$ is chosen on the segment $AB$. The squares $AMCD$ and $MBEF$ are constructed on the same side of $AB$, with $AM$ and $MB$ respectively as bases. The circumcircles of these squares, with centres $P$ and $Q$, meet at $M$ and at another point $N$. Let $N'$ be the intersection of the lines $AF$ and $BC$.
+>
+> (a) Prove that the points $N$ and $N'$ coincide.
+>
+> (b) Prove that the line $MN$ passes through a fixed point $S$ independent of the choice of $M$.
+>
+> (c) Find the locus of the midpoints of the segments $PQ$ as $M$ varies between $A$ and $B$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1959#q05|src_imho_1959__Q05]]
 
 
 
@@ -168,6 +206,12 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Build a circular isosceles trapezoid between two planes*
+*An isosceles trapezium with an incircle, vertices in two planes*
 
-> Two planes, $P$ and $Q$, intersect along the straight $p$. The point $A$ is given in the plane $P$ and the point $C$ in the plane $Q$; neither of these points lies on the straight $p$. Build an isosceles trapezoid $ABCD$ (with $AB$ parallel to $CD$) into which a circle can be inscribed, with the vertices $B$ and $D$ lying in the planes $P$ and $Q$ respectively.
+> Two planes, $P$ and $Q$, meet along the line $p$. The point $A$ is given in the plane $P$ and the point $C$ in the plane $Q$; neither point lies on the line $p$. Construct an isosceles trapezium $ABCD$ (with $AB$ parallel to $CD$) in which a circle can be inscribed, with the vertices $B$ and $D$ lying in the planes $P$ and $Q$ respectively.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1959#q06|src_imho_1959__Q06]]

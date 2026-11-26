@@ -30,11 +30,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le schede max volte possono essere rimosse da una casella secondo una regola*
+*Numero massimo di carte che possono essere rimosse da una scatola in base a una regola*
 
-> Si inseriscono in una scatola cinque carte numerate $3, 4, 5, 6, 7$ rispettivamente. Le carte vengono rimosse dalla scatola una alla volta, ognuna posta su una pila sul tavolo. Se il numero della carta che viene rimossa è inferiore al numero della carta che la precede immediatamente, o inferiore al numero della carta che la segue immediatamente sulla pila, la carta viene riposta immediatamente nella scatola. La procedura continua fino a quando tutte le carte sono sul tavolo. Qual è il numero massimo di volte che le carte possono essere rimosse dalla scatola?
+> Nella scatola vengono poste cinque carte numerate rispettivamente con $3, 4, 5, 6, 7$. Le carte vengono estratte dalla scatola una alla volta, e ciascuna viene posata in cima a una pila sul tavolo. Se il numero sulla carta che viene estratta è minore del numero sulla carta che la precede immediatamente, oppure minore del numero sulla carta che si trova immediatamente sotto di essa nella pila, allora quella carta viene subito rimessa nella scatola. La procedura continua finché tutte le carte non sono sul tavolo. Qual è il numero massimo di volte in cui le carte possono essere estratte dalla scatola?
 
-**Risposta:** 15
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f2#q01|src_obm_1998_n3_f2__Q01]]
 
 
 
@@ -57,9 +62,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due bambini che si alternano a mangiare palle; strategia per il secondo giocatore a vincere*
+*Due bambini si alternano a mangiare le palline; strategia per far vincere il secondo giocatore*
 
-> Ci sono 20 palle su un tavolo e due bambini si alternano a mangiarle. A ogni turno, un bambino deve mangiare almeno una palla e al massimo tutte le palle attualmente sul tavolo. In questo gioco vince il bambino che riesce a lasciare esattamente una palla sul tavolo. Quale dei due bambini  il primo o il secondo a giocare  può sempre vincere? Cosa devono fare per vincere?
+> Sul tavolo ci sono 20 palline e due bambini se le mangiano a turno. A ogni turno, un bambino deve mangiare almeno una pallina e al massimo tutte quelle che si trovano attualmente sul tavolo. In questo gioco, vince il bambino che riesce a lasciare esattamente una pallina sul tavolo. Quale dei due bambini — il primo o il secondo a giocare — può vincere sempre? Cosa deve fare per vincere?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n3_f2#q02|src_obm_1998_n3_f2__Q02]]
 
 
 
@@ -82,9 +94,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea attraverso i punti di mezzo dei lati opposti di quadrilaterali convexi bisecta entrambe le diagonali*
+*La retta che passa per i punti medi dei lati opposti di un quadrilatero convesso biseca entrambe le diagonali*
 
-> Una linea passa attraverso i punti medi di due lati opposti di un quadrilaterale convexo e fa angoli uguali con entrambi i diagonali. Mostrare che le due diagonali hanno la stessa lunghezza.
+> Una retta passa per i punti medi di due lati opposti di un quadrilatero convesso e forma angoli uguali con entrambe le diagonali. Dimostrare che le due diagonali hanno la stessa lunghezza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n3_f2#q03|src_obm_1998_n3_f2__Q03]]
 
 
 
@@ -107,9 +126,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semi-cerchi su gambe di triangolo acuto; linee d'altitudine li incontrano in segmenti uguali*
+*Semicerchi sui lati di un triangolo acutangolo; le altezze li intersecano in segmenti uguali*
 
-> Nei lati $AB$ e $AC$ di un triangolo acuto $ABC$, sono costruiti semicircoli esternamente, con quei lati come diametri. Le linee contenenti le altitudini relative ai lati $AB$ e $AC$ tagliano tali semicircoli rispettivamente ai punti $P$ e $Q$. Dimostra che $AP = AQ$.
+> Sui lati $AB$ e $AC$ di un triangolo acuto $ABC$, si costruiscono esternamente dei semicerchi aventi tali lati come diametri. Le rette contenenti le altezze relative ai lati $AB$ e $AC$ intersecano questi semicerchi nei punti $P$ e $Q$, rispettivamente. Dimostrare che $AP = AQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n3_f2#q04|src_obm_1998_n3_f2__Q04]]
 
 
 
@@ -135,11 +161,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare f(1998) per una funzione che soddisfa una determinata equazione funzionale*
+*Trovare f(1998) per una funzione che soddisfa una data equazione funzionale*
 
-> Let $f: \mathbb{N} \to \mathbb{R}$ essere una funzione tale che $f(1) = 999$ e $$f(1) + f(2) + \cdots + f(n) = n^2 f(n)$$ per ogni intero positivo $n$. Determinare il valore di $f(1998)$.
+> Sia $f: \mathbb{N} \to \mathbb{R}$ una funzione tale che $f(1) = 999$ e
+> $$f(1) + f(2) + \cdots + f(n) = n^2 f(n)$$
+> per ogni intero positivo $n$. Determinare il valore di $f(1998)$.
 
-**Risposta:** $\dfrac{1}{1999}$
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f2#q05|src_obm_1998_n3_f2__Q05]]
 
 
 
@@ -163,8 +196,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo multiple del 1998 con solo i numeri 0 e 3*
+*Il più piccolo multiplo di 1998 composto esclusivamente dalle cifre 0 e 3*
 
-> Il più piccolo multiple di $1998$ che ha solo le cifre $0$ e $9$ è $9990$. Qual è il più piccolo multiple di $1998$ che ha solo le cifre $0$ e $3$?
+> Il più piccolo multiplo di $1998$ che contiene solo le cifre $0$ e $9$ è $9990$. Qual è il più piccolo multiplo di $1998$ che contiene solo le cifre $0$ e $3$?
 
-**Risposta:** $333333330$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f2#q06|src_obm_1998_n3_f2__Q06]]

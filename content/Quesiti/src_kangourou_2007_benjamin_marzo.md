@@ -43,7 +43,11 @@ level: kangourou
 > D) 0
 > E) 2007
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q01|src_kangourou_2007_benjamin_marzo__Q01]]
 
 
 
@@ -72,11 +76,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number divisible by the sum of its digits*
+*A number divisible by the sum of its digits*
 
-> Which of the following numbers is exactly divisible by the sum of its digits? A) 2008 B) 2009 C) 2010 D) 2011 E) 2012
+> Which of the following numbers is exactly divisible by the sum of its digits?
+> A) 2008
+> B) 2009
+> C) 2010
+> D) 2011
+> E) 2012
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q02|src_kangourou_2007_benjamin_marzo__Q02]]
 
 
 
@@ -104,13 +118,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What section X to order cars*
+*Which section X to use to order the little cars?*
 
 ![[src_kangourou_2007_benjamin_marzo__prob3.png]]
 
-> Matteo is building a route for the cars by placing three sections side by side. In order for the cars to finally be ordered as at the finish, which of the following elements must replace the central section X?
+> Matteo is building a path for
+> The little cars pull over in three sections. To end up with the little cars ordered as if they were arriving, which of the following elements must replace section X in the middle?
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q03|src_kangourou_2007_benjamin_marzo__Q03]]
 
 
 
@@ -140,11 +159,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tower height of 1000 cubes*
+*Height of the tower: 1000 cubes*
 
-> Elisa has many cubes with side 1 cm. Using all of them, she could build a cube of volume 1 dm3. Instead, if she wanted to build a tower and put them on top of each other, how tall would the tower be? (a) 1 (b) 5 (c) 10 (d) 100 (e) a value different from the previous one
+> Elisa has many small cubes, each with an edge length of 1 cm. Using all of them, she could build a cube with a volume of 1 dm³. But if she wanted to build a tower by stacking them one on top of another, how tall would the tower be in meters?
+> A) 1
+> B) 5
+> C) 10 
+> D) 100
+> E) a value different from the preceding ones
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q04|src_kangourou_2007_benjamin_marzo__Q04]]
 
 
 
@@ -191,34 +219,33 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which true statement about P1 and P2 (parallelogram)?*
+*Which statement is true about P1 and P2 (parallelogram)?*
 
 ![[src_kangourou_2007_benjamin_marzo__prob5.png]]
 
-> A parallelogram is divided into two parts P1 and P2, as shown in the figure. Which statement is true?
-> (A) P1 and P2 have the same area.
-> (B) P1 and P2 have the same perimeter.
-> (C) P2 has smaller area than P1.
-> (D) P2 has greater perimeter than P1.
-> (E) None of the above.
+> A parallelogram is divided into two parts P1 and P2,
+> As shown in the figure. Which statement is true?
+> A) P1 and P2 have the same area.
+> B) P1 and P2 have the same perimeter.
+> C) P2 has a smaller area than P1.
+> D) P2 has a larger perimeter than P1.
+> E) None of the above.
+> P1 P2
 >
-> P1
-> P2
->  
 > A)
 > B)
 > C)
 > D)
 > E)
-> arrival
-> Texts_07.qxp  16-04-2007  12:03 Page 10
-> 
-> Page
-> Page 11
-> Kang 2007
-> Kang 2007
+> arrival Testi_07.qxp 16-04-2007 12:03 Page 10
+>
+> Pag. Pag. 11 11 Kang 2007 Kang 2007
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q05|src_kangourou_2007_benjamin_marzo__Q05]]
 
 
 
@@ -254,13 +281,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Short sequence of machinery A,B*
+*Shorter sequence of machines A, B*
 
 ![[src_kangourou_2007_benjamin_marzo__prob6.png]]
 
-> In a factory, two machines A and B deal with square objects. As shown in the figure next to you, machine A places a horizontal line on the squares with respect to the work plan, machine B rotates the squares 45 degrees clockwise. Starting from a square  white in this position , you want to get a product like this . What is the shortest sequence of use of the two machines to achieve this? (a) AB B) BABBB C) BAB D) BBA E) BA
+> In a factory, two machines, A and B, process
+> Square objects. As indicated in the figure beside, machine A applies a horizontal line to the squares relative to the workplane, and machine B rotates the squares 45 degrees clockwise. Starting from a "white" square in this position, the goal is to obtain a product like this one. What is the shortest sequence of uses of the two machines that makes it possible to obtain it?
+> A) AB
+> B) BABBB
+> C) CHAPTER
+> D) BBA
+> E) BA
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q06|src_kangourou_2007_benjamin_marzo__Q06]]
 
 
 
@@ -291,9 +329,18 @@ level: kangourou
 
 *Perimeter of the other rectangle (cut square)*
 
-> Ada has a cardboard square with a perimeter of 20 centimeters. She cuts it and gets two rectangles, the perimeter of one of which measures 16 centimeters. How many centimetres does the perimeter of the other measure? A) 8 B) 9 C) 12 D) 14 E) 16
+> Ada has a square piece of cardboard whose perimeter is 20 centimeters. She cuts it and gets two rectangles, one of which has a perimeter of 16 centimeters. How many centimeters is the perimeter of the other rectangle?
+> A) 8
+> B) 9
+> C) 12
+> D) 14
+> E) 16
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q07|src_kangourou_2007_benjamin_marzo__Q07]]
 
 
 
@@ -322,11 +369,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result by removing 5 letters and reversing*
+*Result after removing 5 letters and reversing*
 
-> 5 letters are removed from the word KANGAROO (some may be repeated), then the remaining letters are written in reverse order. What may be the result? (a) RANK B) OGR C) RNO D) RAN E) ANG
+> Five letters are removed from the word KANGAROO (some of them may be repeated), and then the remaining letters are written in reverse order. What could the result be?
+> A) RANK
+> B) OGR
+> C) RNO
+> D) RAN
+> E) ANG
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q08|src_kangourou_2007_benjamin_marzo__Q08]]
 
 
 
@@ -357,13 +413,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Overlay area of two squares*
+*Overlap area of two squares*
 
 ![[src_kangourou_2007_benjamin_marzo__prob9.png]]
 
-> Two squares whose sides measure 9 cm are partially superimposed, as shown in the figure, to form a rectangle whose sides measure 9 cm and 13 cm. How many square centimetres measure the area of the region where the two squares are overlapping? A) 36 B) 45 C) 54 D) 63 E) 72
+> Two squares, each with a side measuring 9 cm, are
+> Partially overlapping, as shown in the figure, until they form a rectangle whose sides measure 9 cm and 13 cm. How many square centimetres is the area of the region where the two squares overlap?
+> A) 36
+> B) 45 
+> C) 54 
+> D) 63  
+> E) 72
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q09|src_kangourou_2007_benjamin_marzo__Q09]]
 
 
 
@@ -405,29 +471,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Conclusion about truth-tellers and liars (3 inhabitants)*
+*Conclusion on sincere people and liars (3 inhabitants)*
 
-> On an island, every inhabitant either always tells the truth (and is called a truth-teller)
-> or always lies (and is called a liar). Three of these inhabitants, A, B
-> and C, meet and A and B make this same statement: "There is at least one
-> liar among the three of us". What conclusion can we draw?
-> A) all three are liars.
-> B) all three are truth-tellers.
-> C) A and C are liars, while B is a truth-teller.
-> D) A and B are truth-tellers, while C is a liar.
-> E) A and B cannot make the same statement.
-> A
-> B
-> Testi_07.qxp  16-04-2007  12:03  Page 11
-> 
-> Pag. 
-> Pag. 12
-> 12
-> Kang 2007
-> Kang 2007
-> Questions from No. 11 to No. 20 are worth 4 points each
+> On an island, every inhabitant either always tells the truth (and is called truthful) or always lies (and is called a liar). Three of these inhabitants, A, B, and C, meet, and A and B make this same statement: "There is at least one liar among the three of us." What conclusion can we draw?
+> A) All three are liars.
+> B) All three are sincere.
+> C) A and C are liars, while B is truthful.
+> D) A and B are truthful, whereas C is a liar.
+> E) A and B cannot make the same claim.
+> A B Testi_07.qxp 16-04-2007 12:03 Page 11
+>
+> Page Page 12 12 Kang 2007 Kang 2007 Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q10|src_kangourou_2007_benjamin_marzo__Q10]]
 
 
 
@@ -480,7 +541,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black boxes on the diagonal (grid 4x4)*
+*Black cells on the diagonal (4x4 grid)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob11.png]]
 
@@ -502,9 +563,20 @@ level: kangourou
 \end{document}
 ```
 
-> The rows and columns of a 4 x 4 square grid were numbered with the numbers 1, 2, 3 and 4, as shown in the figure. Colour some of the grid boxes in black so that the number of black boxes in each row and column is equal to the number of the corresponding row and column. How many black boxes meet on the diagonal that goes from A to B? A) 1, 2, 3 or 4 depending on how you colored the boxes. B) Exactly 1 C) Exactly 2 D) Exactly 3 E) 1, 2 or 3 depending on how you colored the boxes, but never 4
+> The rows and columns of a 4 x 4 square grid
+> They have been numbered 1, 2, 3, and 4, as shown in the figure. Color some cells of the grid black so that, in each row and each column, the number of black cells equals the number of the corresponding row and column. How many black cells are there on the diagonal from A to B?
+> A) 1, 2, 3, or 4 depending on how you have colored the boxes.
+> B) Exactly 1
+> C) Exactly 2
+> D) Exactly 3
+> E) 1, 2, or 3 depending on how you've colored the boxes, but never 4
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q11|src_kangourou_2007_benjamin_marzo__Q11]]
 
 
 
@@ -538,13 +610,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total lengths of the two segments (27 cm tape)*
+*Sum of the lengths of the two segments (tape: 27 cm)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob12.png]]
 
-> Cristina has a 27 cm long paper tape. She divides it into 4 rectangles of different sizes and traces two segments so that each of the segments connects the centers of two adjacent rectangles, as shown in the figure. Find the sum of the lengths of the two segments. A) 12 cm B) 13.5 cm C) 14 cm D) 14.5 cm E) the number depends on how the tape is divided
+> Cristina has a tape of
+> A strip of paper 27 cm long. It is divided into 4 rectangles, all of which have different dimensions, and two line segments are drawn so that each segment joins the centers of two adjacent rectangles, as shown in the figure. Find the sum of the lengths of the two segments.
+> A) 12 cm
+> B) 13.5 cm
+> C) 14 cm
+> D) 14.5 cm
+> E) The number depends on how the tape is divided
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q12|src_kangourou_2007_benjamin_marzo__Q12]]
 
 
 
@@ -579,13 +661,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where the robot stops in the grid
+*Where does the robot stop on the grid?*
 
 ![[src_kangourou_2007_benjamin_marzo__prob13.png]]
 
-> A robot moves by walking inside the figure grid. It starts from position A2 moving in the direction indicated by the arrow and always walks straight until it encounters an obstacle (gray box or edge of the grid): at this point it can only continue by turning to its right and, if it does not find the path open, it must stop. Which box will it stop in? A) B2 B) A1 C) E1 D) D1 E) in none
+> A robot moves by walking within the grid.
+> In the figure. It starts from position A2, moves in the direction indicated by the arrow, and always goes straight until it encounters an obstacle (a gray cell or the edge of the grid): at this point, it can only continue by turning to its right, and if it cannot find a clear path, it must stop. In which cell will it stop?
+> A) B2 
+> B) A1 
+> C) E1 
+> D) D1 
+> E) in none
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q13|src_kangourou_2007_benjamin_marzo__Q13]]
 
 
 
@@ -616,11 +708,22 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the letter C (cryptogram)*
+*Value of the letter C (cryptoarithm)*
 
-> In the sum represented here next to the same letter it corresponds to the same figure. Find the value corresponding to the letter C A) 0 B) 2 C) 3 D) 6 E) 7
+> In the sum represented here beside the same letter
+> The same amount corresponds. Find the value corresponding to the letter “C”.
+> A) 0 
+> B) 2 
+> C) 3 
+> D) 6 
+> E) 7
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q14|src_kangourou_2007_benjamin_marzo__Q14]]
 
 
 
@@ -678,42 +781,20 @@ Where the robot stops in the grid
 
 *Grid size if 9 colored small squares*
 
-> Anna colors the small squares that lie on the diagonals of a square grid. What is the size of the grid, if Anna colors 9 small squares in all? 
+> Anna colors the small squares that lie on the diagonals of a square grid. What is the size of the grid if Anna colors a total of 9 small squares?
 > A) 3 x 3 
 > B) 4 x 4                   C) 8 x 8
 > D) 9 x 9
 > E) None of the above.
-> 4
-> 3
-> 2
-> 1
-> A
-> B
-> C
-> D
-> E
-> B C 2 A +
-> A B A =
-> 4 B A 2
-> 4
-> 3
-> 2
-> 1
-> A
-> 4
-> 3
-> 2
-> 1
-> B
-> Testi_07.qxp  16-04-2007  12:03  Page 12
-> 
-> Pag. 
-> Pag. 13
-> 13
-> Kang 2007
-> Kang 2007
+> 4 3 2 1 A B C D E B C 2 A + A B A = 4 B A 2 4 3 2 1 A 4 3 2 1 B Testi_07.qxp 16-04-2007 12:03 Page 12
+>
+> Pag. Pag. 13 13 Kang 2007 Kang 2007
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q15|src_kangourou_2007_benjamin_marzo__Q15]]
 
 
 
@@ -757,7 +838,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the small inscribed square (Pitagora)*
+*Area of the small inscribed square (Pythagoras)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob16.png]]
 
@@ -772,9 +853,20 @@ Where the robot stops in the grid
 \end{document}
 ```
 
-> A "small" square is inscribed in a "large" as shown in the figure, where the lengths are indicated in meters. The area in square metres of the small square is A) 16 B) 28 C) 34 D) 36 E) 49
+> A "small" square is inscribed in a "large" one like
+> Shown in the figure, where the lengths are given in metres. The area, in square metres, of the small square is
+> A) 16
+> B) 28
+> C) 34
+> D) 36
+> E) 49
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q16|src_kangourou_2007_benjamin_marzo__Q16]]
 
 
 
@@ -805,11 +897,20 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro to the second-placed player (double prizes)*
+*Euro for the second-place finisher (prizes double)*
 
-> EUR 1005 was distributed among the competitors who placed in the top four places of a race. The prize doubles with each placement, so for example the third-placed person wins twice as much as the fourth-placed person. How much does the second-placed person receive? A) 138 B) 140 C) 268 D) 300 E) 301,50
+> 1005 euros were distributed among the competitors who finished in the top four positions in a race. The prize doubles with each successive placing, so, for example, the person who came third wins twice as much as the person who came fourth. How many euros does the person who finished in second place receive?
+> A) 138  
+> B) 140  
+> C) 268  
+> D) 300 
+> E) 301,50
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q17|src_kangourou_2007_benjamin_marzo__Q17]]
 
 
 
@@ -843,13 +944,24 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the polyline ABC...P*
+*Length of the broken line ABC...P*
 
 ![[src_kangourou_2007_benjamin_marzo__prob18.png]]
 
-> The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken ABC...OP line. How long is the broken ABC...OP? (a) the data are insufficient to answer B) 72 C) 96 D) 56 E) 106
+> The squares in the figure have been
+> Form the shapes by intersecting the 24-centimeter segment AP with the broken line ABC…OP. How many centimeters long is the broken line ABC…OP?
+> A) The data are insufficient for
+> to respond
+> B) 72 
+> C) 96 
+> D) 56 
+> E) 106
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q18|src_kangourou_2007_benjamin_marzo__Q18]]
 
 
 
@@ -881,11 +993,21 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number that the group must contain (partition)*
+*Number that must contain the group (partition)*
 
-> The collection of numbers 1, 2, 3, 4, 5, 6, 7, 8 is divided into two groups that have the same number of elements. You know the sum of the elements is the same in both groups. If numbers 1 and 3 are in the same group, then that group must necessarily contain number A) 2 B) 4 C) 5 D) 6 E) 7
+> The set consisting of the numbers 1, 2, 3, 4, 5, 6, 7, 8 is divided into two groups with the same number of elements. You know that the sum of the elements is the same in both groups. If the numbers 1 and 3 are in the same group, then that group must necessarily contain the number
+> A) 2
+> B) 4 
+> C) 5 
+> D) 6 
+> E) 7
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q19|src_kangourou_2007_benjamin_marzo__Q19]]
 
 
 
@@ -916,11 +1038,22 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total time with at least a 2-digit time (clock)*
+*Total time with at least one digit 2 (clock)*
 
-> How long in total, for 24 hours, does at least a digit 2 appear on my digital clock where the hours are from 00:00 to 23:59? A) 3 hours 45 min B) 6 hours 45 min C) 10 hours 30 min D) 6 hours 00 min E) 5 hours 30 min The questions from N. 21 to N. 30 are worth 5 points each.
+> Over a 24-hour period, for how long in total does at least one digit 2 appear on my digital clock, where the hours are displayed from 00:00 to 23:59?
+> A) 3 hours 45 minutes
+> B) 6 hours 45 minutes
+> C) 10 hours 30 minutes
+> D) 6 hours 00 minutes
+> E) 5 hours 30 minutes
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q20|src_kangourou_2007_benjamin_marzo__Q20]]
 
 
 
@@ -972,13 +1105,24 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares with 2 common vertices with ABCD*
+*Squares with 2 vertices in common with ABCD*
 
-> Let a square ABCD be given. The number of squares that have exactly two vertices in common with ABCD is A) 4 B) 5 C) 6 D) 8 E) 12 3 5 A D E B C F G H I L M N O P Test_07.qxp 16-04-2007 12:03 Page 13
-> 
-> Page. Page. 14 14 Kang 2007 Kang 2007
+> Let a square ABCD be given. The number of squares that have exactly 2 vertices in common with ABCD is
+> A) 4 
+> B) 5 
+> C) 6
+> D) 8 
+> E) 12
+> 3 5 A D E B C F G H I L M N O P Testi_07.qxp 16-04-2007 12:03 Page 13
+>
+> Pag. Pag. 14 14 Kang 2007 Kang 2007
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q21|src_kangourou_2007_benjamin_marzo__Q21]]
 
 
 
@@ -1013,13 +1157,24 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Box position for maximum opening of the door*
+*Box position for maximum door opening*
 
 ![[src_kangourou_2007_benjamin_marzo__prob22.png]]
 
-> On the long side of a room whose short side measures 10 dm, a door of 10 dm width opens. In the corner adjacent to the one where the door is inserted, a box with a length of 4, 5 and 6 dm is to be placed. Four of the possible positions are outlined in the figure. In which of them must the box be placed so that the door can be opened as much as possible? (a) (b) (c) (d) (e) (c) and (d) are both optimal positions
+> On the long side of a small room whose short side measures 10
+> A door 10 dm wide is being opened. In the corner adjacent to the corner where the door is hinged, a cardboard box whose edges measure 4, 5, and 6 dm is to be placed. The figure shows four of the possible positions schematically. In which of these positions must the box be placed so that the door can open as wide as possible?
+> A) a 
+> B) b 
+> C) c 
+> D) d 
+> E) c and e d are both positions
+> optimal
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q22|src_kangourou_2007_benjamin_marzo__Q22]]
 
 
 
@@ -1051,13 +1206,24 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum squares per axis of symmetry*
+*Minimum small squares for the axis of symmetry*
 
 ![[src_kangourou_2007_benjamin_marzo__prob23.png]]
 
-> We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3
+> We want to ensure that the figure beside it presents a
+> Axis of symmetry. What is the smallest number of small squares that need to be blackened to achieve the goal?
+> A) 4
+> B) 6
+> C) 5  
+> D) 2 
+> E) 3
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q23|src_kangourou_2007_benjamin_marzo__Q23]]
 
 
 
@@ -1087,11 +1253,20 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times a 4-digit number exceeds that of 2*
+*How many times does the 4-digit number exceed the 2-digit number?*
 
-> A 2-digit number is given. To its right we rewrite the same number, so as to obtain a 4-digit number. How many times is the four-digit number so obtained greater than the initial two-digit number? A) 100 B) 101 C) 1000 D) 1001 E) 10
+> A two-digit number is assigned. To its right, we write the same number again, so as to obtain a four-digit number. By how many times is the four-digit number thus obtained greater than the original two-digit number?
+> A) 100 
+> B) 101 
+> C) 1000 
+> D) 1001 
+> E) 10
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q24|src_kangourou_2007_benjamin_marzo__Q24]]
 
 
 
@@ -1125,13 +1300,23 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential perimeter figures B and A (stripe)*
+*Difference between the perimeters of Figure B and Figure A (strips)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob25.png]]
 
-> In Figure A you can see 4 strips of paper attached, each of which (starting from the second) is 25 centimetres longer than the one on the left. The strips are rearranged as shown in Figure B. How many centimetres is the perimeter of Figure B longer than the perimeter of Figure A? A) 0 B) 25 C) 40 D) 50 E) 75
+> In Figure A, you can see 4 strips of paper placed side by side.
+> Each of them (starting from the second) is 25 centimeters longer than the one to its left. The strips are brought back together as shown in Figure B. By how many centimeters is the perimeter of Figure B longer than the perimeter of Figure A?
+> A) 0
+> B) 25
+> C) 40
+> D) 50
+> E) 75
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q25|src_kangourou_2007_benjamin_marzo__Q25]]
 
 
 
@@ -1185,41 +1370,24 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number thought of by Elisa (unknown operations)*
+*Number conceived by Elisa (operations unknown)*
 
-> Elisa thought of a positive integer. Marco multiplied it by 5 or by 6,
-> but we do not know by which of the two. Sonia added to the result obtained by
-> Marco one of the two numbers 5 or 6, but we do not know which. Dino subtracted from the
-> result obtained by Sonia one of the two numbers 5 or 6, but we do not know which.
-> In the end Dino told us the result obtained: 73. What number did Elisa think of?
-> A) it is not possible to know
+> Elisa thought of an integer. Marco multiplied it by 5 or by 6, but we don't know which of the two. Sonia added either 5 or 6 to the result Marco obtained, but we don't know which one. Dino subtracted either 5 or 6 from the result Sonia obtained, but we don't know which one. In the end, Dino told us the result he got: 73. What number did Elisa think of?
+> A) It's impossible to know.
 > B) 11
 > C) 12
 > D) 14 
 > E) 15
-> A
-> B
-> 4
-> 6
-> 6
-> 4
-> 4
-> 5
-> 5
-> 4
-> a
-> b
-> c
-> d
-> Testi_07.qxp  16-04-2007  12:03  Page 14
-> 
-> Pag. 
-> Pag. 15
-> 15
-> Kang 2007
-> Kang 2007
+> A B 4 6 6 4 4 5 5 4 a b c d Testi_07.qxp 16-04-2007 12:03 Page 14
+>
+> Pag. Pag. 15 15 Kang 2007 Kang 2007
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q26|src_kangourou_2007_benjamin_marzo__Q26]]
 
 
 
@@ -1253,13 +1421,22 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number on the face? (closed data) *
+*Number on the face? (adjacent dice)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob27.png]]
 
-> A dice is a cube whose faces have been numbered from 1 to 6. The sum of the numbers on two opposite faces is always 7. Using 4 of these dice, all of them equal to each other, Nicholas composes a parallelepiped as shown in the figure: if two faces match, their two numbers are equal. Figures also show the numbers on some faces. What number shall appear on the face indicated with the question mark? A) 5 B) 6 C) 2 D) 3 E) The data are insufficient
+> A die is a cube whose faces have been numbered from 1 to 6. The sum of the numbers on two opposite faces is always 7. Using 4 such dice, all of which are identical, Nicola assembles a rectangular prism as shown in the figure: if two faces match, their two numbers are equal. The figure also shows the numbers that appear on some faces. Which number must appear on the face marked with a question mark?
+> A) 5 
+> B) 6 
+> C) 2 
+> D) 3 
+> E) The data are insufficient
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q27|src_kangourou_2007_benjamin_marzo__Q27]]
 
 
 
@@ -1293,13 +1470,24 @@ Number on the face? (closed data) *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to draw a parallel triangle at a distance 1*
+*Ways of drawing a triangle parallel at a distance of 1*
 
 ![[src_kangourou_2007_benjamin_marzo__prob28.png]]
 
-> Roberta drew an ABC equilateral triangle with a side of 5 cm as shown in the figure. Her teacher asks her to draw a second triangle, each side parallel to one side of the original triangle and exactly one centimeter away from it. How many different ways can Roberta draw the new triangle she wants? A) 2 B) 3 C) 4 D) 8 E) 10
+> Roberta has drawn an equilateral triangle ABC with side length
+> 5 cm as shown in the figure. Her teacher asks her to draw a second triangle, each of whose sides is parallel to a side of the initial triangle and exactly 1 centimeter away from it. In how many different ways can Roberta draw the new triangle that is required?
+> A) 2 
+> B) 3
+> C) 4 
+> D) 8 
+> E) 10
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q28|src_kangourou_2007_benjamin_marzo__Q28]]
 
 
 
@@ -1330,13 +1518,22 @@ Number on the face? (closed data) *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square ABCD (shaded part 1)*
+*Area of square ABCD (shaded part 1)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob29.png]]
 
-> The two squares ABCD and EFGH shown are equal. The shaded part has area 1. What is the area of the square ABCD? A) 1 B) 2 C) 5/2 D) 3 E) The data are insufficient to answer.
+> The two squares ABCD and EFGH in the figure are congruent. The shaded region has an area of 1. What is the area of square ABCD?
+> A) 1 
+> B) 2 
+> C) 5/2 
+> D) 3 
+> E) The data are insufficient to provide an answer.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q29|src_kangourou_2007_benjamin_marzo__Q29]]
 
 
 
@@ -1388,10 +1585,21 @@ Number on the face? (closed data) *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False proposition on the sum of 4 consecutive odd numbers*
+*False proposition about the sum of 4 consecutive odd numbers*
 
-> Which of the following is false for the sum S of four consecutive odd positive integers, however chosen? A) S is even B) S can be a multiple of 16 C) S is never a perfect square D) S can be a perfect cube E) S is always greater than or equal to 16. (Perfect square means a number that can be expressed as the product of two equal integers, e.g. 4, 9, 25, 64; perfect cube means a number that can be expressed as the product of three equal integers, e.g. 8, 27, 64.) 1 2 4 3 ? 6 A B D C E F H G Texts_07.qxp
-> 
-> 1 Kangourou of Mathematics 2007 Category Benjamin For first or secondary school students of first grade
+> Which of the following statements is false regarding the sum S of four consecutive positive odd integers, whatever the choice may be?
+> A) S is even
+> B) S can be a multiple of 16
+> C) S is never a perfect square
+> D) S can be a perfect cube
+> E) S is always greater than or equal to 16.
+> (A perfect square is a number that can be expressed as the product of two equal integers, for example 4, 9, 25, 64; a perfect cube is a number that can be expressed as the product of three equal integers, for example 8, 27, 64.) 1 2 4 3 ? 6 A B D C E F H G Testi_07.qxp 16-04-2007 12:03 Page 15
+>
+> 1 Kangourou de la Mathématique 2007, Benjamin Category, for first- or second-year students of lower secondary school
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_marzo#q30|src_kangourou_2007_benjamin_marzo__Q30]]

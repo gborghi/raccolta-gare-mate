@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molte coppie con divisibilità reciproca di m,n*
+*Ci sono infinite coppie $(m, n)$ in cui $m$ divide $n^2 + 1$ e $n$ divide $m^2 + 1$?*
 
-> Ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che entrambi $m$ dividono $n^2 + 1$ e $n$ dividono $m^2 + 1$?
+> Esistono infinite coppie di interi positivi $(m, n)$ tali che $m$ divida $n^2 + 1$ e $n$ divida $m^2 + 1$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2013#q01|src_bmo2_2013__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equità d'angolo in triangolo con punto interno e parallelo*
+*Dimostrare che $\angle QAB = \angle CAP$*
 
-> Il punto $P$ si trova all'interno del triangolo $ABC$ in modo tale che $\angle ABP = \angle PCA$. Il punto $Q$ è tale che $PBQC$ sia un parallelo. Prove che $\angle QAB = \angle CAP$.
+> Il punto $P$ sta internamente al triangolo $ABC$ in modo che $\angle ABP = \angle PCA$. Il punto $Q$ è tale che $PBQC$ sia un parallelogramma. Dimostrare che $\angle QAB = \angle CAP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2013#q02|src_bmo2_2013__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi binari con cifre esatte del 2013: la somma più il numero ha più 1s*
+*In binario, $n + s$ ha più uni che zeri*
 
-> Considerate l'insieme di numeri interi positivi che, quando sono scritti in binario, hanno esattamente 2013 cifre e più 0 che 1s. $s$ sia il numero di tali integri e $n$ sia la loro somma. Prova che, quando scritto in binario, $n + s$ ha più 1s che 0s.
+> Si consideri l'insieme degli interi positivi che, scritti in binario, hanno esattamente 2013 cifre e più zeri che uni. Sia $s$ il numero di tali interi e sia $n$ la loro somma. Dimostrare che, scritto in binario, $n + s$ ha più uni che zeri.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2013#q03|src_bmo2_2013__Q03]]
 
 
 
@@ -104,6 +125,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto di circoncircolo quadrato: PA, PB, PC, PD, AB possono essere tutti numeri interi?*
+*Possono essere tutti interi $PA$, $PB$, $PC$, $PD$ e $AB$?*
 
-> Supponiamo che $ABCD$ sia un quadrato e che $P$ sia un punto che si trova sul circolo. Determinare se è possibile che $PA$, $PB$, $PC$, $PD$ e $AB$ siano tutti numeri interi.
+> Si supponga che $ABCD$ sia un quadrato e che $P$ sia un punto sulla circonferenza circoscritta. Determinare se sia possibile o no che $PA$, $PB$, $PC$, $PD$ e $AB$ siano tutti interi.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2013#q04|src_bmo2_2013__Q04]]

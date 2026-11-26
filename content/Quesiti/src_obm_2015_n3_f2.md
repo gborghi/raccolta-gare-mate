@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esmeralda risolve bx=a invece di ax=b; la sua radice è la radice corretta meno 60; trova m+n dalla radice corretta m+sqrt(n)*
+*Esmeralda risolve bx=a invece di ax=b; la sua radice è la radice corretta meno 60; trova m+n a partire dalla radice corretta m+sqrt(n)*
 
-> (Parte A) Il professor Piraldo ha dato a Esmeralda un'equazione della forma $ax = b$, dove $a$ e $b$ sono reali. Esmeralda commette un errore e risolve l'equazione $bx = a$, ottenendo una soluzione pari alla soluzione corretta meno $60$. Se la soluzione corretta è della forma $m + \sqrt{n}$ con $m$ e $n$ integri, qual è il valore di $m + n$?
+> (Parte A) Il professor Piraldo ha dato a Esmeralda un'equazione della forma $ax = b$, dove $a$ e $b$ sono numeri reali. Esmeralda commette un errore e risolve l'equazione $bx = a$, ottenendo una soluzione pari alla soluzione corretta meno $60$. Se la soluzione corretta è della forma $m + \sqrt{n}$, con $m$ e $n$ interi, qual è il valore di $m + n$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f2#q01|src_obm_2015_n3_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi che si intersecano, linee tangenti che definiscono P e Q; dato PB×QB=640 e QB×AB=1000 trovi AB*
+*Due cerchi che si intersecano; le rette tangenti definiscono P e Q; dati PB·QB=640 e QB·AB=1000, si determini AB*
 
-> (Parte A) Due cerchi $C_1$ e $C_2$ si intersecano ai punti $A$ e $B$. La tangente di $C_1$ a $A$ taglia di nuovo $C_2$ al punto $P$, e la tangente di $C_2$ a $A$ taglia di nuovo $C_1$ al punto $Q$. Sapendo che $PB \cdot QB = 640$ e $QB \cdot AB = 1000$, determinare la lunghezza del segmento $AB$.
+> (Parte A) Due cerchi $C_1$ e $C_2$ si intersecano nei punti $A$ e $B$. La tangente a $C_1$ in $A$ interseca nuovamente $C_2$ nel punto $P$, e la tangente a $C_2$ in $A$ interseca nuovamente $C_1$ nel punto $Q$. Sapendo che $PB \cdot QB = 640$ e $QB \cdot AB = 1000$, determina la lunghezza del segmento $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f2#q02|src_obm_2015_n3_f2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo inciso in cerchio con angoli dati; punto interno casuale X, probabilità X è più vicino a B che a A o C; trovare p×q*
+*Triangolo inscritto in una circonferenza con angoli dati; punto interno casuale X; probabilità che X sia più vicino a B che ad A o a C; trovare p*q*
 
-> (Parte A) Tre punti $A$, $B$ e $C$ sono contrassegnati sul confine di un cerchio in modo tale che $m(\widehat{BAC}) = 60^\circ$, $m(\widehat{ABC}) = 80^\circ$ e $m(\widehat{ACB}) = 40^\circ$. Un punto $X$ viene scelto a caso all'interno del cerchio. La probabilità che, tra $A$, $B$ o $C$, il punto $X$ sia più vicino a $B$ è $\frac{p}{q}$, dove $p$ e $q$ sono integri coprimi. Quanto è $p \cdot q$?
+> (Parte A) Tre punti $A$, $B$ e $C$ sono segnati sul bordo di un cerchio in modo tale che $m(\widehat{BAC}) = 60^\circ$, $m(\widehat{ABC}) = 80^\circ$ e $m(\widehat{ACB}) = 40^\circ$. Un punto $X$ viene scelto a caso all'interno del cerchio. La probabilità che, tra $A$, $B$ o $C$, il punto $X$ sia più vicino a $B$ è $\frac{p}{q}$, dove $p$ e $q$ sono interi coprimi. Quanto vale $p \cdot q$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f2#q03|src_obm_2015_n3_f2__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi di 5 elementi di {1,...,20} che, in ordine crescente, hanno differenze consecutive superiori a 1,2,3,4*
+*Conta i sottoinsiemi di 5 elementi di {1,...,20} che, in ordine crescente, presentano differenze consecutive maggiori di 1, 2, 3, 4*
 
-> (Parte A) Un sottogruppo di $5$ elementi dell'insieme $\{1, 2, 3, \ldots, 20\}$ è chiamato $largo$ (grande) se, quando scriviamo i suoi elementi in ordine crescente, hanno la proprietà che la differenza tra il secondo e il primo elemento è maggiore di $1$, la differenza tra il terzo e il secondo è maggiore di $2$, la differenza tra il quarto e il terzo è maggiore di $3$, e la differenza tra il quinto e il quarto è maggiore di $4$. Quanti grandi sottoinsiemi ci sono?
+> (Part A) Un sottoinsieme di elementi di $5$ appartenenti all'insieme $\{1, 2, 3, \ldots, 20\}$ è detto $largo$ (grande) se, scrivendo i suoi elementi in ordine crescente, questi hanno la proprietà che la differenza tra il secondo e il primo elemento è maggiore di $1$, la differenza tra il terzo e il secondo è maggiore di $2$, la differenza tra il quarto e il terzo è maggiore di $3$, e la differenza tra il quinto e il quarto è maggiore di $4$. Quanti sottoinsiemi grandi ci sono?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f2#q04|src_obm_2015_n3_f2__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzioni definite ricorrentemente f,g su enti interi non negativi; contare n in [0,2015] con f(n) = 0*
+*Funzioni f, g definite ricorsivamente sugli interi non negativi; conta i valori di n in [0,2015] tali che f(n)=0*
 
-> (Parte A) Lasciate che $f$ e $g$ siano funzioni dai numeri interi non negativi ai numeri interi non negativi in modo tale che $f(0) = g(0) = 0$, e (equazioni funzionali relative a $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$, e $x$) siano valide per ogni numero intero non negativo $x$. Quanti valori di $n$ con $0 \le n \le 2015$ soddisfano $f(n) = 0$?
+> (Parte A) Siano $f$ e $g$ funzioni dagli interi non negativi agli interi non negativi tali che $f(0) = g(0) = 0$, e (equazioni funzionali che collegano $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$ e $x$) valgano per ogni intero non negativo $x$. Quanti valori di $n$, con $0 \le n \le 2015$, soddisfano $f(n) = 0$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f2#q05|src_obm_2015_n3_f2__Q05]]
 
 
 
@@ -156,7 +191,14 @@ level: OBM Nível 3
 
 *Sistema 1/(ab)=b+2c, 1/(bc)=2c+3a, 1/(ca)=3a+b; (a+b+c)^3=p/q, trovare p+q*
 
-> (Parte A) I numeri reali $a$, $b$ e $c$ soddisfano le equazioni $\frac{1}{ab} = b + 2c$, $\frac{1}{bc} = 2c + 3a$, $\frac{1}{ca} = 3a + b$. Abbiamo $(a + b + c)^3 = \frac{p}{q}$, con $p$ e $q$ integri copri e $q > 0$. Calcolare $p + q$.
+> (Parte A) I numeri reali $a$, $b$ e $c$ soddisfano le equazioni $\frac{1}{ab} = b + 2c$, $\frac{1}{bc} = 2c + 3a$, $\frac{1}{ca} = 3a + b$. Si ha $(a + b + c)^3 = \frac{p}{q}$, con $p$ e $q$ interi coprimi e $q > 0$. Calcolare $p + q$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f2#q06|src_obm_2015_n3_f2__Q06]]
 
 
 
@@ -179,9 +221,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i colori distinti di una scacchiera 2015x37 ottenuti con i pulsanti di inversione delle righe/colonne*
+*Conta le colorazioni distinte di una scacchiera 2015x37 ottenibili tramite i pulsanti di inversione di righe/colonne*
 
-> (Parte B) Considerate una tabella $2015 \times 37$, dipinta come una scacchiera. Ogni riga e colonna hanno un pulsante che inverte il colore di ogni cella della riga o colonna corrispondente, per un totale di pulsanti $2015 + 37 = 2052$. Quanti colori diversi si possono ottenere sulla lavagna?
+> (Parte B) Si consideri una tavola $2015 \times 37$, dipinta come una scacchiera. Ogni riga e ogni colonna ha un pulsante che inverte il colore di ogni cella della riga o della colonna corrispondente; in totale ci sono $2015 + 37 = 2052$ pulsanti. Quante diverse colorazioni della tavola si possono ottenere?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f2#q07|src_obm_2015_n3_f2__Q07]]
 
 
 
@@ -204,9 +253,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parallelogramma ABCD (AB=8, BC=4); cerchio attraverso A,C, punto medio M di BC, tangente ad AD, incontra CD a P; trovare MP*
+*Parallelogramma ABCD (AB=8, BC=4); circonferenza passante per A e C, con centro nel punto medio M di BC, tangente ad AD, che interseca CD nel punto P; determinare MP*
 
-> (Parte B) Che $ABCD$ sia un parallelo con $AB = 8$ e $BC = 4$. Il cerchio $\Gamma$ passa attraverso $A$, $C$ e attraverso il punto medio $M$ di $BC$, e taglia il lato $CD$ al punto $P \ne C$. È noto che $AD$ è tangente a $\Gamma$. Calcolare la misura del segmento $MP$.
+> (Parte B) Sia $ABCD$ un parallelogramma con $AB = 8$ e $BC = 4$. La circonferenza $\Gamma$ passa per $A$, $C$ e per il punto medio $M$ di $BC$, e interseca il lato $CD$ nel punto $P \ne C$. È noto che $AD$ è tangente a $\Gamma$. Calcola la misura del segmento $MP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f2#q08|src_obm_2015_n3_f2__Q08]]
 
 
 
@@ -229,6 +285,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero più piccolo a>1 tale che a^(2^n)-1 è un multiple di 2015 per qualche numero intero positivo n*
+*Il più piccolo intero a>1 tale che a^(2^n)-1 sia un multiplo di 2015 per qualche intero positivo n*
 
-> (Parte B) Qual è il più piccolo intero $a > 1$ per il quale esiste un intero positivo $n$ tale che $a^{2^n} - 1$ sia un multiple di $2015$?
+> (Parte B) Qual è il più piccolo intero $a > 1$ per cui esiste un intero positivo $n$ tale che $a^{2^n} - 1$ sia un multiplo di $2015$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f2#q09|src_obm_2015_n3_f2__Q09]]

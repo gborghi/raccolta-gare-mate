@@ -40,17 +40,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which representation*
+*what representation*
 
 ![[src_kangourou_2015_marzo_cadet__prob1.png]]
 
-> Looking at my umbrella from above, as shown in the figure next to it, you read the word KANGAROO. Which of the following figures may represent my umbrella?
->      
-> A)
->        	
-> B) C) D) E)
+> Looking at my umbrella from above, as shown in the figure beside it, the word KANGAROO can be read. In which of the following figures can my umbrella be represented?
+>
+> A)  	
+>
+>         B)  	 	
+>         C)  	
+>         D)  	
+>        E)
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q01|src_kangourou_2015_marzo_cadet__Q01]]
 
 
 
@@ -86,9 +93,18 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_cadet__prob2.png]]
 
-> Four identical rectangles, joined together as shown in the figure, form a large rectangle. If the smaller side of the large rectangle is 10 cm long, how long is its larger side? A) 10 cm B) 20 cm C) 30 cm D) 40 cm E) 50 cm
+> Four identical rectangles, placed side by side as shown in the figure, form one large rectangle. If the shorter side of the large rectangle is 10 cm long, how long is its longer side?
+> A) 10 cm
+> B) 20 cm
+> C) 30 cm
+> D) 40 cm
+> E) 50 cm
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q02|src_kangourou_2015_marzo_cadet__Q02]]
 
 
 
@@ -117,13 +133,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number closest to 2,015 x 510.2*
+*Number closest to 2.015 x 510.2*
 
-> Which of the following numbers is closest to the product 2.015 x 510.2? A) 0.1 B) 1
-> 	
-> C) 10 D) 100 E) 1000
+> Which of the following numbers is closest to the product 2.015 x 510.2?
+> A) 0,1 	 	
+> B) 1 	
+>
+> C) 10 	 	
+> D) 100 	 	
+> E) 1000
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q03|src_kangourou_2015_marzo_cadet__Q03]]
 
 
 
@@ -179,7 +203,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of opposite faces*
+*some opposite faces*
 
 ![[src_kangourou_2015_marzo_cadet__prob4.png]]
 
@@ -206,9 +230,19 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows the net of a cube with numbered faces. For each pair of opposite faces, Paul added the two numbers that appear on the faces. What are the three sums he got? A) 6, 7, 8 B) 6, 6, 9 C) 5, 6, 10 D) 4, 7, 10 E) 4, 6, 11
+> The figure shows the planar development of a cube with
+> Numbered faces. For each pair of opposite faces, Paolo added the two numbers that appeared on the faces: what are the three sums he obtained?
+> A) 6, 7, 8	
+> B) 6, 6, 9	
+> C) 5, 6, 10	
+> D) 4, 7, 10	
+> E) 4, 6, 11
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q04|src_kangourou_2015_marzo_cadet__Q04]]
 
 
 
@@ -256,20 +290,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the numbers is not an integer*
+*Which of the numbers is not an integer?*
 
-> Which of the following numbers is not an integer? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
-> E) 2011 -------- 1 2012 -------- 2 2013 -------- 3 2014 -------- 4 2015 -------- 5
+> Which of the following numbers is not an integer?
+> A)	
+>
+> B)	
+>
+> C)	
+>
+> D)	
+>
+> E)
+> 2011 -------- 1 2012 -------- 2 2013 -------- 3 2014 -------- 4 2015 -------- 5
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q05|src_kangourou_2015_marzo_cadet__Q05]]
 
 
 
@@ -301,17 +341,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*summer*
 
-> A triangle has sides of length 6, 10 and 11. What is the length of the side of an equilateral triangle with the same perimeter? A) 18
-> 	
-> B) 11
-> 	
-> C) 10 D) 9
-> 	
+> A triangle has sides of lengths 6, 10, and 11. What is the length of a side of an equilateral triangle with the same perimeter?
+> A) 18	
+>
+> B) 11	
+>
+> C) 10 	 	
+> D) 9 	
+>
 > E) 6
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q06|src_kangourou_2015_marzo_cadet__Q06]]
 
 
 
@@ -373,7 +419,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*edge that coincides with UV*
+*Edge coinciding with UV*
 
 ![[src_kangourou_2015_marzo_cadet__prob7.png]]
 
@@ -406,11 +452,20 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> The figure shows the plane net of a triangular-based prism. Which edge coincides with the edge UV when you fold the net to reconstruct the prism? A) WV B) XW C) XY
-> 	
-> D) QR E) RS
+> In the figure, the planar development of a prism with a
+> Triangular base. Which edge coincides with edge UV when the net is folded to reconstruct the prism?
+> A) WV
+> B) XW
+> C) XY
+>
+> D) QR
+> E) RS
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q07|src_kangourou_2015_marzo_cadet__Q07]]
 
 
 
@@ -442,11 +497,21 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max inhabitants*
+*maximum inhabitants*
 
-> Via del Salto is made up of 9 villas lined up in a row. At least one person lives in each of them, and the number of inhabitants of two neighbouring villas does not exceed 6. Then the number of people who can live on the Via del Salto is at most A) 23. B) 25. C) 27. D) 29. E) 31.
+> Via del Salto consists of 9 terraced cottages arranged in a row. At least one person lives in each cottage, and whenever the number of inhabitants of two adjoining cottages is counted, the total does not exceed 6. Therefore, the maximum number of people who can live in Via del Salto is
+> A) 23. 	 	
+> B) 25. 	 	
+> C) 27.	 	
+> D) 29. 	 	
+> E) 31.
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q08|src_kangourou_2015_marzo_cadet__Q08]]
 
 
 
@@ -484,18 +549,18 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2015_marzo_cadet__prob9.png]]
 
-> When the squirrel Ciop comes down to the ground, he never goes more than 5 metres away from the
-> trunk of his tree. Moreover, he always keeps at least 5 metres away from the
-> dog's house. In the following figures the rectangle represents the dog's house
-> and the curved hexagon the tree: in which of them does the shaded region describe in a
-> plausible way the area of the ground in which Ciop can move?
+> When the squirrel Ciop comes down to the ground, he never moves more than 5 meters away from the trunk of his tree. Moreover, he always stays at least 5 meters away from the doghouse. In the following figures, the rectangle represents the doghouse and the curvilinear hexagon represents the tree: in which of them does the shaded region plausibly describe the area of the ground in which Ciop can move?
 >          A)		
 >          B)  	
 >          C)  	
 >          D) 	 	
 >         E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q09|src_kangourou_2015_marzo_cadet__Q09]]
 
 
 
@@ -527,15 +592,23 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*spins in 5 seconds*
+*Enter in 5 seconds*
 
-> A cyclist pedals at a speed of five meters per second. The circumference of each wheel of his bicycle is 250 cm long. In five seconds, how many complete spins does each wheel make? A) 2
->  	
-> B) 5
-> 	
-> (c) 10 D) 20 E) 25 Questions from N. 11 al N. 20 is worth 4 points each.
+> A cyclist pedals at a speed of 5 meters per second. The circumference of each wheel on the cyclist's bike is 250 cm. In 5 seconds, how many complete revolutions does each wheel make?
+> A) 2	
+>
+> B) 5 	
+>
+> C) 10 	 	
+> D) 20 	 	
+> E) 25
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q10|src_kangourou_2015_marzo_cadet__Q10]]
 
 
 
@@ -578,14 +651,23 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*not two born on the same day/month: number of pupils*
+*No two born on the same day/month: number of students*
 
-> In a classroom, there are no two boys born on the same day of the week or two girls born in the same month. If another boy or girl were added to the class, at least one of the two conditions would no longer be true. How many students are in the class? A) 18 B) 19
-> 	
-> C) 20 D) 24 E) 25
+> In a class, there are no two boys born on the same day of the week, nor are there two girls born in the same month. If another boy or another girl were added to the class, at least one of the two conditions would no longer hold. How many pupils are in the class?
+> A) 18 	 	
+> B) 19 	
+>
+> C) 20 	 	
+> D) 24 	 	
+> E) 25
+> P Q R S T U V W X Y
 >
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q11|src_kangourou_2015_marzo_cadet__Q11]]
 
 
 
@@ -621,21 +703,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*grey region area*
+*Area in the grey zone*
 
 ![[src_kangourou_2015_marzo_cadet__prob12.png]]
 
-> The figure represents three squares of side 1 and is symmetrical about the straight line identified by the common side of the two lower squares. What is the grey area? A)
-> 	
-> B)
-> 	
-> C) 1
-> 	
-> D)
-> 	
+> The figure shows three squares with side length 1 and is symmetric with respect to the line determined by the common side of the two lower squares. What is the area of the gray region?
+> A)	
+>
+> B)	
+>
+> C) 1	
+>
+> D)	
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q12|src_kangourou_2015_marzo_cadet__Q12]]
 
 
 
@@ -671,19 +758,25 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min number of +*
+*minimum number of +*
 
-> Each asterisk in the equation 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 = 0 is to be replaced by a + or a – so that the equation is correct. What is the minimum number of asterisks to be replaced by the + sign? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> In the equation 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 = 0, each asterisk is to be replaced with a + or a – so that the equation becomes correct. What is the minimum number of asterisks that must be replaced with the + sign?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q13|src_kangourou_2015_marzo_cadet__Q13]]
 
 
 
@@ -713,13 +806,21 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*by how many cm the pool level rises*
+*By how many cm does the pool level rise?*
 
-> During a storm, 15 litres of water per square meter fell. How many centimetres has the water level of an outdoor pool risen? A) 150 B) 0.15 C) 15
-> 	
-> D) 1.5 E) depends on the size of the pool
+> During a thunderstorm, 15 liters of water per square meter fell. By how many centimeters did the water level in an outdoor pool rise?
+> A) 150 	 	
+> B) 0,15	 	
+> C) 15	
+>
+> D) 1,5	 	
+> E) It depends on the size of the pool
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q14|src_kangourou_2015_marzo_cadet__Q14]]
 
 
 
@@ -751,15 +852,22 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*possible leaves*
+*Possible leaves*
 
-> A bush has 10 branches; on each branch there are 5 leaves or 2 leaves and 1 flower. Which of the following can be the number of leaves in the bush? A) 45
-> 	
-> B) 39
-> 	
-> (C) 37 D) 31 E) None of the numbers in A to D
+> A bush has 10 branches; on each branch, there are either 5 leaves or 2 leaves and 1 flower. Which of the following could be the number of leaves on the bush?
+> A) 45	
+>
+> B) 39	
+>
+> C)  37	 	
+> D) 31	
+> E) none of the numbers from A) to D)
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q15|src_kangourou_2015_marzo_cadet__Q15]]
 
 
 
@@ -793,19 +901,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*failed media*
+*Media rejected*
 
-> The average score of students who passed a math test is 6. Exactly 60 percent of the students passed the test, and their average score is 8. What is the average score of the students who did not pass the test? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> The average score of the students who took a mathematics test is
+> 6. Exactly 60% of the students passed the test, and their average score is
+> 8. What is the average score of the students who did not pass the test?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q16|src_kangourou_2015_marzo_cadet__Q16]]
 
 
 
@@ -882,17 +997,23 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> One of the corners of a square has been folded so as to bring the vertex to the center of the square. The area of the irregular pentagon thus formed (see figure) and that of the square are consecutive integers. What's the area of the square? A) 2
-> 	
-> B) 4
-> 	
-> C) 8
-> 	
-> D) 16
-> 	
+> One of the corners of a square has been folded so as to
+> Bring the vertex to the center of the square. The area of the irregular pentagon thus formed (see figure) and the area of the square are consecutive integers. What is the area of the square?
+> A) 2	
+>
+> B) 4	
+>
+> C) 8	
+>
+> D) 16	
+>
 > E) 32
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q17|src_kangourou_2015_marzo_cadet__Q17]]
 
 
 
@@ -937,18 +1058,24 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *perimeter*
 
-> Rita sums the lengths of three sides of a rectangle and gets 44 cm, Marta sums the lengths of three other sides of the same rectangle and gets 40 cm. How many centimeters does the perimeter of the rectangle measure? A) 42
-> 	
-> B) 56
-> 	
-> C) 64
-> 	
-> D) 84
-> 	
-> E) 112 3---- 4 7---- 8 5---- 4 3---- 2
+> Rita adds up the lengths of three sides of a rectangle and gets 44 cm; Marta adds up the lengths of three other sides of the same rectangle and gets 40 cm. How many centimeters is the perimeter of the rectangle?
+> A) 42	
+>
+> B) 56	
+>
+> C) 64	
+>
+> D) 84	
+>
+> E) 112
+> 3---- 4 7---- 8 5---- 4 3---- 2
 >
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q18|src_kangourou_2015_marzo_cadet__Q18]]
 
 
 
@@ -1031,9 +1158,20 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> The figure shows how some of the unit segments that delimit the triangles of a drawing have been colored. Luigi wants to colour the remaining unit segments in red or green or blue. Each triangle must have a side of each color. How can you color the x-marked segment? A) Only green. B) Only red. C) Only blue. D) Whether red or blue. E) It cannot carry out the project.
+> The figure shows how they were colored.
+> Some of the unit segments that bound the triangles in a drawing. Luigi wants to color the remaining unit segments red, green, or blue. Each triangle must have one side of each color. How can he color the segment marked with x?
+> A) Green only.
+> B) Only in red.
+> C) Only in blue.
+> D) Regardless of whether it is red or blue.
+> E) Cannot carry out the project.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q19|src_kangourou_2015_marzo_cadet__Q19]]
 
 
 
@@ -1071,19 +1209,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many true*
+*How many true ones*
 
-> Irene asked five of her students how many of them had studied yesterday. Aldo answered no one, Bianca answered only one, Clelia answered exactly two, Diana answered exactly three, Henry answered exactly four. Irene knows that students who didn't study lied and those who studied told the truth. How many of these students studied yesterday? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
-> E) 4 Questions from N. 21 to N. 30 are worth 5 points each.
+> Irene asked five of her students how many of the five of them had studied yesterday. Aldo replied that none had; Bianca replied that only one had; Clelia replied that exactly 2 had; Diana replied that exactly 3 had; Enrico replied that exactly 4 had. Irene knows that the students who did not study lied and that those who did study told the truth. How many of these students studied yesterday?
+> A) 0 	
+>
+> B) 1 	
+>
+> C) 2 	
+>
+> D) 3 	
+>
+> E) 4
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q20|src_kangourou_2015_marzo_cadet__Q20]]
 
 
 
@@ -1165,15 +1310,22 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> Rosa wants to write a number in each of the seven bounded regions in the drawing. Let's say two regions are neighbouring if they have a part of the contour in common. In each region the number to be written must be the sum of all the numbers written in the regions adjacent to it. As you can see, Rosa has already entered two numbers. What number should she write in the central region? A) 1
-> 	
-> B) - 2
-> 	
-> C) 6
-> 	
-> D) - 4 E) 0
+> Rosa wants to write a number in each of the seven bounded regions shown in the drawing. Let's say that two regions are adjacent if they share part of their boundary. In each region, the number written must be the sum of all the numbers written in the regions adjacent to it. As can be seen, Rosa has already entered two numbers. What number must she write in the central region?
+> A) 1 	
+>
+> B) - 2	
+>
+>  C) 6 	
+>
+> D) - 4 	 	
+> E) 0
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q21|src_kangourou_2015_marzo_cadet__Q21]]
 
 
 
@@ -1206,13 +1358,22 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*major number*
+*higher number*
 
-> Five positive integers (not necessarily all different) are inscribed on five cards. For each pair of cards, Peter calculates the sum of the numbers written on them. The different totals he gets are only three: 57, 70 and 83. What's the biggest number on the cards? A) 35 B) 42
-> 	
-> C) 48 D) 53 E) 82
+> On five cards, five positive integers are written (not necessarily all different). For each pair of cards, Pietro calculates the sum of the numbers written on them. The distinct totals he obtains are only three: 57, 70, and 83. What is the largest number among those written on the cards?
+> A) 35 	 	
+> B) 42 	
+>
+> C) 48 	 	
+> D) 53 	 	
+> E) 82
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q22|src_kangourou_2015_marzo_cadet__Q22]]
 
 
 
@@ -1255,24 +1416,30 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*longer segment*
+*longest segment*
 
 ![[src_kangourou_2015_marzo_cadet__prob23.png]]
 
-> A square of 30 cm2 is divided in half by a diagonal and then into triangles, as shown in the figure, where the areas of some of the triangles are also marked. Which of the five segments of the diagonal is the longest? A) a
-> 	
-> B) b
-> 	
-> C) c
-> 	
-> D) d
-> 	
+> A square with an area of 30 cm² is divided in half by a
+> Diagonally and then into triangles, as shown in the figure, where the areas of some of the triangles are also marked. Which of the five segments into which the diagonal is divided is the longest?
+> A) a 	
+>
+> B) b 	
+>
+> C) c 	
+>
+> D) d 	
+>
 > E) e
->  
+>
 > −4 2 ?
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q23|src_kangourou_2015_marzo_cadet__Q23]]
 
 
 
@@ -1306,19 +1473,24 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2 light 25%, 3 heavy 60%: how many kangaroos*
+*2 light ones 25%, 3 heavy ones 60%: how many kangaroos?*
 
-> In a group of kangaroos the weight of the two lighter kangaroos accounts for 25% of the total weight of the group. The weight of the three heaviest kangaroos accounts for 60% of the total weight. How many kangaroos are in the group? A) 6
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 15
-> 	
-> E) 20
+> In a group of kangaroos, the combined weight of the two lightest kangaroos is 25% of the group's total weight. The combined weight of the three heaviest kangaroos is 60% of the total weight. How many kangaroos are in the group?
+> A) 6 	
+>
+> B) 7 	
+>
+> C) 8 	
+>
+> D) 15	
+>
+>  E) 20
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q24|src_kangourou_2015_marzo_cadet__Q24]]
 
 
 
@@ -1346,13 +1518,18 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min pieces per cubic lattice*
+*Minimum number of pieces for a cubic trellis*
 
 ![[src_kangourou_2015_marzo_cadet__prob25.png]]
 
-> Charles has seven pieces of iron wire each 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm and 7 cm long. He wants to use some of them to build, without cutting them or overlaying them (not even partially), a cubic lattice with edges of length
+> Carlo has seven pieces of wire, each respectively long
+> 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm, and 7 cm. You want to use some of them to construct, without cutting them or overlapping them (not even partially), a cubic lattice with edges of length
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q25|src_kangourou_2015_marzo_cadet__Q25]]
 
 
 
@@ -1378,9 +1555,14 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *angle PQR*
 
-> 26. In a trapezoid PQRS the sides PQ and SR are parallel and PQ is three times SR; moreover SR ^ and SP are equal and the angle RSP measures 120° (120 degrees). What is the measure of the angle ^ PQR? A) 15° B) 22°30’ C) 25° D) 30° E) 45°
+> 26. In trapezoid PQRS, sides PQ and SR are parallel, and PQ is three times SR; moreover, SR and SP are equal, and angle RSP measures 120° (120 degrees). What is the measure of angle PQR? A) 15° B) 22°30’ C) 25° D) 30° E) 45°
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q26|src_kangourou_2015_marzo_cadet__Q26]]
 
 
 
@@ -1404,11 +1586,16 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*the missing one*
+*the one that's missing*
 
-> 27. Alberto drew five points on a straight line and now, for each pair of points, measures the distance between them. Of the ten different numbers he gets, nine are (listed in ascending order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing one is under 22. What is it? A)10 B) 11 C) 12 D) 13 E) 14
+> 27. Alberto has drawn five points on a straight line and now, for each pair of points, measures the distance between them. Of the ten distinct numbers he obtains, nine are (listed in increasing order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing number is less than 22. What is it? A) 10 B) 11 C) 12 D) 13 E) 14
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q27|src_kangourou_2015_marzo_cadet__Q27]]
 
 
 
@@ -1432,11 +1619,16 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max attempts*
+*Max attempts*
 
-> 28. Yesterday, I wrote down the phone number of my friend Luca. The number I wrote has six digits, but I remember Luca telling me the number is seven digits. I don't know which digit I forgot to write down, or in what position it might be. If I'm going to be able to call Luca, how many attempts do I have to make? (Note: a telephone number may start with any number, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
+> 28. Yesterday I noted down my friend Luca's phone number. The number I wrote has six digits, but I remember that Luca told me the number has seven digits. I don't know which digit I forgot to write down, nor where it could have been in the number. If I want to manage to call Luca, what is the maximum number of attempts I will have to make? (Note: a phone number can start with any digit, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q28|src_kangourou_2015_marzo_cadet__Q28]]
 
 
 
@@ -1460,11 +1652,16 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*greater remainder*
+*Larger remainder*
 
-> 29. Maria divides 2015 subsequently by 1, 2, 3 and so on up to 1000 inclusive. She writes down the remainders of each division. What's the largest remainder she finds? A) 15 B) 215 C) 671 D) 1007 E) None of the above.
+> 29. Maria successively divides 2015 by 1, 2, 3, and so on, up to and including 1000. She writes down the remainders from each division: what is the largest remainder she finds? A) 15 B) 215 C) 671 D) 1007 E) None of the above.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q29|src_kangourou_2015_marzo_cadet__Q29]]
 
 
 
@@ -1488,8 +1685,13 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many ways*
+*How many ways*
 
-> 30. I intend to color each positive integer according to the following three rules: Each number is either red or blue. The sum of two different red numbers is always a red number. The sum of two different blue numbers is always a blue number. In how many different ways can I make these colorings? A) 0 B) 2 C) 4 D) 6
+> 30. I intend to color each positive integer according to the following three rules: Each number is either red or blue. The sum of two distinct red numbers is always a red number. The sum of two distinct blue numbers is always a blue number. In how many different ways can I produce these colorings? A) 0 B) 2 C) 4 D) 6
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_cadet#q30|src_kangourou_2015_marzo_cadet__Q30]]

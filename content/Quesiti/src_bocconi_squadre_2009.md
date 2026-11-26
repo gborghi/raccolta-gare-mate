@@ -30,11 +30,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interest minimum >20 not prime and not divisible by prime <20*
+*Smallest integer >20 that is not prime and is not divisible by any prime <20*
 
-> What is the smallest integer greater than 20 that is not prime but is not even divisible by prime numbers (greater than 1 and) less than 20?
+> What is the smallest integer greater than 20 that is not prime and is not even divisible by the prime numbers greater than 1 and less than 20?
 
-**Answer:** 529
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q01|src_bocconi_squadre_2009__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural numbers with four distinct non-zero digits with a sum of 12 digits*
+*Four-digit natural numbers with distinct non-zero digits and a digit sum of 12*
 
-> How many are the natural numbers of 4 digits (all different from each other and all different from 0) so the sum of their digits is 12?
+> How many 4-digit natural numbers (with all digits different from each other and all non-zero) have a digit sum of 12?
 
-**Answer:** 48
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q02|src_bocconi_squadre_2009__Q02]]
 
 
 
@@ -91,11 +101,21 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 9 digits divisible by 2,3,...,8 with conditions on the substrings*
+*A 9-digit number divisible by 2, 3, ..., 8, with conditions on substrings*
 
-> Find a nine-digit number (all different from each other and different from 0) that is divisible by 9 and such that: - the number formed by its first two digits is divisible by 2; - the number formed by its first three digits is divisible by 3; - \ldots - the number formed by its first seven digits is divisible by 7; - the number formed by its first eight digits is divisible by 8.
+> Find a nine-digit number (with all digits different from one another and different from 0) that is divisible by 9 and such that:
+> - the number formed by its first 2 digits is divisible by 2;
+> - the number formed by its first 3 digits is divisible by 3;
+> - \ldots
+> - the number formed by its first 7 digits is divisible by 7;
+> - the number formed by its first 8 digits is divisible by 8.
 
-**Answer:** 381654729
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2009#q03|src_bocconi_squadre_2009__Q03]]
 
 
 
@@ -119,11 +139,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Age of the mother deduced from figure play with the child
+*Mother's age deduced from a number game with her child*
 
-> A young mother (\ldots is under 70!) says to her son: Our age is expressed in the same two digits and your age today is given by the product of the two digits of age I had when you were born. How old is Mom?
+> A young mother (... she's under 70!) says to her son: "Our ages are expressed using the same two digits, and your age today is the product of the two digits of the age I had when you were born." How old is the mother?
 
-**Answer:** 41
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q04|src_bocconi_squadre_2009__Q04]]
 
 
 
@@ -147,11 +172,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers whose ratio to the sum of the digits is 10*
+*Three-digit numbers whose ratio to the sum of their digits is 10*
 
-> If you divide a three-digit number by the sum of its digits, the result is 10 \ldots with some remainder. What number are you talking about? (At least one of them is easy to find. The problem is finding all of them.)
+> If a three-digit number is divided by the sum of its digits, the result is 10 ... with some remainder. Which number are we talking about? (Maybe some of them are easy to find ... the problem is finding them all ...)
 
-**Answer:** 109, 119, 129, 139, 149, 159, 169, 179, 189, 199
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q05|src_bocconi_squadre_2009__Q05]]
 
 
 
@@ -175,11 +205,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report area triangle of medians and original equilateral triangle*
+*Ratio of the area of the medians triangle to that of the original equilateral triangle*
 
-> Consider the three medians of an equilateral triangle $ABC$. If you build a new triangle, the length of the sides of which is equal to the length of the three previous medians, what is the ratio between the area of the new triangle and that of $ABC$?
+> Consider the three medians of an equilateral triangle $ABC$. If you construct a new triangle whose side lengths are equal to the lengths of the three previous medians, what is the ratio of the area of the new triangle to the area of $ABC$?
 
-**Answer:** $\frac{3}{4}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2009#q06|src_bocconi_squadre_2009__Q06]]
 
 
 
@@ -203,11 +238,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major symmetrical number of 3 digits (different digits, multiple of the sum)*
+*Largest pleasant three-digit number (distinct digits, a multiple of the sum)*
 
-> These are called symmetric numbers composed of numbers which are all different from each other and which are multiples of the sum of their numbers. What's the biggest three-digit number?
+> Numbers that are composed of digits all different from one another and that are multiples of the sum of their digits are called "simpatici" numbers. What is the largest three-digit simpatico number?
 
-**Answer:** 972
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2009#q07|src_bocconi_squadre_2009__Q07]]
 
 
 
@@ -230,11 +270,15 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Men/women ratio in group with mean age of 35, 50, total age of 40*
+*Male/female ratio in a group with average ages of 35 and 50; total 40*
 
-> The average age of a group of people (which includes both men and women) is 40 years. If the average age of men is 35 and that of women is 50, what is the ratio of the number of men and women in the group?
+> The average age of a group of people (including both men and women) is 40 years. If the average age of the men is 35 years and that of the women is 50 years, what is the ratio of the number of men to the number of women in the group?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q08|src_bocconi_squadre_2009__Q08]]
 
 
 
@@ -259,13 +303,17 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ae length of the rectangular base pyramid shaft*
+*Length of edge AE of a pyramid with a rectangular base*
 
-> We measured the spikes of the rectangular-based pyramid you see in the figure (which doesn't match the proportions): $AB = 90\text{ m}$; $AC = 70\text{ m}$; $AD = 20\text{ m}$. Then we got tired. What is the size of the $AE$ beam?
+> We measured the edges of the pyramid with a rectangular base that you see in the figure (which doesn't even respect the proportions): $AB = 90\text{ m}$; $AC = 70\text{ m}$; $AD = 20\text{ m}$. Then we got tired. How long is edge $AE$?
 
 ![[src_bocconi_squadre_2009__q09.png]]
 
-**Answer:** $AE = 60\text{ m}$
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2009#q09|src_bocconi_squadre_2009__Q09]]
 
 
 
@@ -289,11 +337,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the youngest child of Henry given the age products*
+*Age of Henry's youngest child given the products of the ages*
 
-> Henry has five children. The big four are only one year apart. If you multiply their age and their age, they get product 1. How old is the youngest of Henry's children?
+> Enrico has 5 children. The 4 oldest are only one year apart from each other. If you multiply their ages and his age, you get the product 1. What is the age of Enrico's youngest child?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2009#q10|src_bocconi_squadre_2009__Q10]]
 
 
 
@@ -317,11 +370,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to choose ships for the European route*
+*Ways of selecting the ships for the convoy to Europe*
 
-> During the last world war, a convoy of weapons, supplies, and ammunition had to be made ready for Europe at an American port. The convoy's organization envisaged a escort ship leading the convoy, then three cargoes, then another aircraft carrier. At the port, there were 4 escort ships; 7 cargoes and 3 aircraft carriers were also available. How many different ways could the ships that would be part of the European conveyance be chosen?
+> During the Second World War, at an American port, a convoy bound for Europe had to be assembled, carrying weapons, provisions, and ammunition. The convoy's arrangement called for an escort ship at the head of the convoy, followed by 3 cargo ships, and then another aircraft carrier. At the port, 4 escort ships were available; 7 cargo ships and 3 aircraft carriers were also available. In how many different ways could the ships that would be part of the convoy to Europe be chosen?
 
-**Answer:** 420
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2009#q11|src_bocconi_squadre_2009__Q11]]
 
 
 
@@ -345,11 +403,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of nine digits with the last six zeros, remaining 313 divided by 787*
+*A 9-digit number ending with six zeros, with the remainder 313 when divided by 787*
 
-> A nine-digit number (the last six are all zeroes, however), divided by 787, gives the remainder 313. What's this number?
+> A nine-digit number (though its last six digits are all zeros), when divided by 787, leaves a remainder of 313. What is this number?
 
-**Answer:** 712000000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q12|src_bocconi_squadre_2009__Q12]]
 
 
 
@@ -378,9 +441,17 @@ Age of the mother deduced from figure play with the child
 
 *Maximum number of sections of the regional line with length constraints*
 
-> The new regional transport line is under construction. Its construction is quite simple because the route is straight, but local politicians have asked for the following rules: - the length of three consecutive sections must not exceed 16 km; - the length of five consecutive sections must never be less than 27 km. How many sections will the regional line consist of at most?
+> The new regional transport line is under construction. Its construction is fairly simple because the route is straight, but local politicians have requested that the following rules be adopted:
+> - the length of three consecutive sections may not exceed 16 km;
+> - the length of five consecutive sections may never be less than 27 km.
+> At most, how many sections will the regional line consist of?
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q13|src_bocconi_squadre_2009__Q13]]
 
 
 
@@ -404,11 +475,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turn card to verify claim 1↔A by Sergio*
+*Cards to flip to verify Sergio's claim 1↔A*
 
-> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a 1 on one side, it necessarily has a A on the other and vice versa. Sara doesn't believe it and decides to check it out for herself. What cards does Sara have to play to make sure Sergio's statement is true?
+> Each of these cards has a letter written on one side and a digit on the other. Sergio tells his sister Sara that if a card has a "1" on one side, it must have an "A" on the other, and vice versa. Sara doesn't believe it and decides to check for herself. Which cards must Sara definitely turn over to be sure that Sergio's statement is true?
 
-**Answer:** Sara must turn over the cards 1-A-2-Z
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2009#q14|src_bocconi_squadre_2009__Q14]]
 
 
 
@@ -434,13 +510,18 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles are seen in Figure*
+*How many triangles can be seen in the figure?*
 
 > How many triangles do you see in the figure?
 
 ![[src_bocconi_squadre_2009__q15.png]]
 
-**Answer:** 40
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2009#q15|src_bocconi_squadre_2009__Q15]]
 
 
 
@@ -464,11 +545,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 3 distinct non-zero digits corresponding to the average of permutations*
+*Three-digit numbers with distinct non-zero digits that equal the average of the permutations*
 
-> Consider a three-digit number, all different from each other and different from 0. This number  has the mean when it coincides with the arithmetic mean of the 6 numbers obtained with its digits (permutated in all possible ways). What are all the three-digit numbers (different from each other and different from 0) that have the mean?
+> Consider a three-digit number whose digits are all different from one another and different from 0. This number "has the average" when it equals the arithmetic mean of the 6 numbers obtained from its digits (permuted in all possible ways). What are all the three-digit numbers (with digits that are all different from one another and different from 0) that "have the average"?
 
-**Answer:** 481, 518, 592, 629
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2009#q16|src_bocconi_squadre_2009__Q16]]
 
 
 
@@ -493,13 +579,17 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trajectory of the centre of the 4 cm wheel exploring the triangle*
+*Path of the center of the wheel, 4 cm, exploring the triangle*
 
-> The wheel you see in the figure (4 cm in diameter) wants to explore the triangle, which you always see in the figure, by rolling inside it along the sides in the direction indicated until it returns to the starting point. In the end, how far will it have traveled to its center?
+> The wheel shown in the figure (4 cm in diameter) is to explore the triangle also shown in the figure by rolling inside it along the sides in the indicated direction until it returns to the starting point. In the end, what distance will its center have traveled?
 
 ![[src_bocconi_squadre_2009__q17.png]]
 
-**Answer:** 96 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2009#q17|src_bocconi_squadre_2009__Q17]]
 
 
 
@@ -523,11 +613,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of finalists at the International Mathematics Games Championships*
+*Total number of finalists in the International Mathematical Games Championships*
 
-> In a remote Italian final of the International Mathematical Games Championships fewer than 5,000 competitors from 5 regions participated. The parity had not been achieved and among the finalists of Lombardy the boys were twice the girls; the triple among the Sicilians; the boys were four times the girls in the Venetian delegation; five times among the Piedmontese and six times among the Tuscans. Knowing that the competitors (boys and girls) Lombards, Sicilians, Venetians, Piedmontese and Tuscans were present in the same number, how many were the finalists overall? (There may be more than one solution in this case, but all of them must be indicated!)
+> At a distant Italian final of the "International Mathematical Games Championships," fewer than 5,000 contestants from 5 regions took part. Equality had not been achieved, and among the finalists from Lombardy, the number of boys was twice that of the girls; among the Sicilians, it was three times as many; in the Veneto delegation, the number of boys was four times that of the girls; among the Piedmontese, it was five times as many; and among the Tuscans, it was six times as many. Knowing that the Lombard, Sicilian, Veneto, Piedmontese, and Tuscan contestants (boys and girls) were present in equal numbers, how many finalists in total were girls? (Perhaps there is more than one solution ... in that case, all of them must be given!)
 
-**Answer:** 459 o 918
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2009#q18|src_bocconi_squadre_2009__Q18]]
 
 
 
@@ -551,11 +646,16 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of death of Fermat, odd and divisible by 37, early seventeenth century*
+*Year of Fermat's death: an odd number divisible by 37, early 17th century*
 
-> If you don't know, remember that Fermat died in the early 17th century and that the year he died was an odd number, divisible by 37. When did the mathematician Fermat die?
+> If you don't know, remember that Fermat died at the beginning of the 17th century and that the year in which he died was an odd number divisible by 37. When did the mathematician Fermat die?
 
-**Answer:** 1665
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q19|src_bocconi_squadre_2009__Q19]]
 
 
 
@@ -578,8 +678,12 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean speed on a full lap of Formula 1 divided into three parts*
+*Average speed over a full Formula 1 lap, divided into three parts*
 
-> A lap of the new Formula 1 circuit is divided into three parts: a fast part, which represents half the length of the entire lap, where the average speed of the cars is 280 Km/h; a slow part  one third of a lap  where the average speed is 140 Km/h and the last, where the cars reach an average speed of 210 Km/h. What's the average speed on a full lap? (Only one decimal digit is sufficient to indicate the number of Km/h).
+> One lap of the new Formula 1 circuit is divided into three parts: a fast section, which makes up half the length of the entire lap, where the average speed of the cars is 280 km/h; a slow section—one third of a lap—where the average speed is 140 km/h; and the last section, in which the cars reach an average speed of 210 km/h. What is the average speed over a full lap? (When stating the speed in km/h, a single decimal place is sufficient.)
 
-**Answer:** 201,6 Km/h
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2009#q20|src_bocconi_squadre_2009__Q20]]

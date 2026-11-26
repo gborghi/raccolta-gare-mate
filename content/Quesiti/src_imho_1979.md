@@ -34,8 +34,15 @@ level: IMO
 *Divisibilità di una somma che coinvolge frazioni unitarie*
 
 > Siano $p$ e $q$ numeri naturali tali che
-> $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$.
-> Si dimostri che $p$ è divisibile per $1979$.
+> $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$
+> Dimostrare che $p$ è divisibile per $1979$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1979#q01|src_imho_1979__Q01]]
 
 
 
@@ -60,7 +67,14 @@ level: IMO
 
 *Pentagoni bicolori sulle facce superiore e inferiore del prisma*
 
-> Si consideri un prisma avente come facce superiori e inferiori due pentagoni $A_1A_2A_3A_4A_5$ e $B_1B_2B_3B_4B_5$. Ogni vertice dei due pentagoni e ogni segmento $A_iB_i$ relativo a tutti gli $i = 1, \ldots, 5$ è colorato o di rosso o di verde. Si sa che ogni triangolo i cui vertici siano vertici del prisma e i cui lati siano segmenti colorati ha tutti i suoi lati dello stesso colore. Si dimostri che tutti e 10 i lati delle facce superiore e inferiore sono dello stesso colore.
+> È dato un prisma con i pentagoni $A_1A_2A_3A_4A_5$ e $B_1B_2B_3B_4B_5$ come facce superiore e inferiore. Ciascuno dei due pentagoni e ciascuno dei segmenti di retta $A_iB_i$ per tutti gli $i = 1, \ldots, 5$ sono colorati in rosso o in verde. Ogni triangolo i cui vertici sono vertici del prisma e i cui lati sono tutti segmenti colorati ha tutti i lati dello stesso colore. Dimostrare che tutti e 10 i lati delle facce superiore e inferiore sono dello stesso colore.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1979#q02|src_imho_1979__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due circonferenze con tangenti in comune si incontrano nel punto di intersezione*
+*Due cerchi con rette tangenti comuni si incontrano nel punto di intersezione*
 
-> Due circonferenze in un piano si intersecano. Sia $A$ uno dei punti di intersezione. A partire contemporaneamente da $A$, due punti si muovono con velocità costanti, ciascuno lungo la propria circonferenza nello stesso senso. I due punti ritornano simultaneamente in $A$ dopo aver compiuto ciascuno esattamente un giro completo. Si dimostri che esiste un punto fisso $P$ nel piano tale che, in ogni istante, le distanze da $P$ ai due punti in movimento sono uguali.
+> Due cerchi in un piano si intersecano. Sia $A$ uno dei punti di intersezione. Partendo simultaneamente da $A$, due punti si muovono con velocità costanti, ciascun punto percorrendo il proprio cerchio nello stesso verso. I due punti ritornano simultaneamente in $A$ dopo che ciascuno ha compiuto esattamente una rivoluzione completa. Dimostrare che esiste un punto fisso $P$ nel piano tale che, in ogni istante, le distanze da $P$ ai due punti in movimento siano uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1979#q03|src_imho_1979__Q03]]
 
 
 
@@ -110,7 +131,14 @@ level: IMO
 
 *Tutti i numeri reali in pi rendono le distanze uguali a un punto fisso*
 
-> Dato un piano $\pi$, un punto $P$ in questo piano e un punto $Q$ non appartenente a $\pi$. Determinare tutti i punti $R$ nel piano $\pi$ tali che $\frac{QP + PR}{QR}$ sia massimo.
+> Dato un piano $\pi$, un punto $P$ in questo piano e un punto $Q$ non appartenente a $\pi$. Trovare tutti i punti $R$ in $\pi$ tali che $\frac{QP + PR}{QR}$ sia massimo.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1979#q04|src_imho_1979__Q04]]
 
 
 
@@ -135,11 +163,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali non negativi che soddisfano due equazioni simmetriche di somma*
+*Numeri reali non negativi che soddisfano due equazioni di somma simmetrica*
 
-> Determinare tutti i numeri reali $x_1, x_2, x_3, x_4, x_5$ che soddisfano le relazioni
+> Trovare tutti i numeri reali $x_1, x_2, x_3, x_4, x_5$ che soddisfano le relazioni
 > $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3$$
 > per qualche numero reale $a$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1979#q05|src_imho_1979__Q05]]
 
 
 
@@ -171,15 +206,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Froge su ottagono regolare: contare i cammini che terminano nel vertice opposto*
+*Rana sull'ottagono regolare: conta i percorsi che terminano al vertice opposto*
 
-> Siano $A$ e $E$ due vertici opposti di un ottagono regolare. Un rospo parte dal vertice $A$. Da ogni vertice dell'ottagono diverso da $E$, esso può saltare a uno dei due vertici adiacenti. Quando raggiunge il vertice $E$, il rospo si ferma e vi rimane. Sia $a_n$ il numero di percorsi distinti di esattamente $n$ salti che terminano nel vertice $E$. Si dimostri che
-> $$a_{2n-1} = 0, \quad a_{2n} = \frac{1}{\sqrt{2}}\left(x^{n-1} - y^{n-1}\right), \quad n = 1, 2, 3, \ldots,$$,
+> Siano $A$ e $E$ vertici opposti di un ottagono regolare. Una rana inizia a saltare dal vertice $A$. Da qualsiasi vertice dell'ottagono diverso da $E$, può saltare verso uno dei due vertici adiacenti. Quando raggiunge il vertice $E$, la rana si ferma e vi rimane. Sia $a_n$ il numero di percorsi distinti costituiti esattamente da $n$ salti e che terminano in $E$. Dimostrare che
+> $$a_{2n-1} = 0, \quad a_{2n} = \frac{1}{\sqrt{2}}\left(x^{n-1} - y^{n-1}\right), \quad n = 1, 2, 3, \ldots,$$
 > dove $x = 2 + \sqrt{2}$ e $y = 2 - \sqrt{2}$.
-> 
-> \textit{Nota.} Una traccia di $n$ salti è una sequenza di vertici $(P_0, P_1, \ldots, P_n)$ tale che
+>
+> \textit{Note.} Un percorso di $n$ salti è una sequenza di vertici $(P_0, P_1, \ldots, P_n)$ tale che
 > \begin{itemize}
-> \item[(i)] $P_0 = A$, $P_n = E$;
-> \item[(ii)] per ogni $i$, $0 \le i \le n-1$, $P_i$ è diverso da $E$;
-> \item[(iii)] per ogni $i$, $0 \le i \le n-1$, $P_i$ e $P_{i+1}$ sono adiacenti.
+> \item[(i)] $P_0 = A$, $P_n = E$; \item[(ii)] per ogni $i$, $0 \le i \le n-1$, $P_i$ è distinto da $E$; \item[(iii)] per ogni $i$, $0 \le i \le n-1$, $P_i$ e $P_{i+1}$ sono adiacenti.
 > \end{itemize}
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1979#q06|src_imho_1979__Q06]]

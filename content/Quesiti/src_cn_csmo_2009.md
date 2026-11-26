@@ -29,9 +29,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova le soluzioni integrali di un'equazione diofantina quadrata*
+*Trovare le soluzioni intere di un'equazione diofantina quadratica*
 
-> Trovare le soluzioni interi dell'equazione $x^2 - 2xy + 126y^2 = 2009$. (Posato da Zhang Pengcheng)
+> Trovare le soluzioni intere dell'equazione $x^2 - 2xy + 126y^2 = 2009$. (Proposto da Zhang Pengcheng)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2009#q01|src_cn_csmo_2009__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le disuguaglianze che coinvolgono radici quadrate di espressioni nei reali positivi*
+*Dimostrare una disuguaglianza che coinvolge le radici quadrate di espressioni in numeri reali positivi*
 
-> Se $x$, $y$, $z$ sono numeri positivi, e $\sqrt{a} = x(y-z)^2$, $\sqrt{b} = y(z-x)^2$, $\sqrt{c} = z(x-y)^2$. Prove che $a^{\frac{1}{2}} + b^{\frac{1}{2}} + c^{\frac{1}{2}} \ge 2(ab + bc + ca)$. (Posato da Tang Lihua)
+> Siano $x$, $y$, $z$ numeri positivi, e $\sqrt{a} = x(y-z)^2$, $\sqrt{b} = y(z-x)^2$, $\sqrt{c} = z(x-y)^2$. Dimostrare che $a^{\frac{1}{2}} + b^{\frac{1}{2}} + c^{\frac{1}{2}} \ge 2(ab + bc + ca)$. (Proposto da Tang Lihua)
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2009#q03|src_cn_csmo_2009__Q03]]
 
 
 
@@ -80,11 +94,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli minimi che coprono tutti gli accordi tra i 12 punti del cerchio rosso*
+*Triangoli minimi che coprono tutte le corde tra i 12 punti del cerchio rosso*
 
-> Ci sono 12 punti rossi su un cerchio. Trovare il minimo di $n$, in modo che esistano triangoli $n$, le cui vertici sono punti rossi, che soddisfano ogni corda con punti terminali rossi che sono un lato di un triangolo. (Posato da Tao Pingsheng)
+> Sono dati 12 punti rossi su una circonferenza. Si determini il minimo di $n$ tale che esistano $n$ triangoli i cui vertici siano punti rossi, con la proprietà che ogni corda avente estremi rossi sia un lato di uno dei triangoli. (Proposto da Tao Pingsheng)
 
-**Risposta:** 11
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2009#q04|src_cn_csmo_2009__Q04]]
 
 
 
@@ -110,9 +129,14 @@ level: China Southeastern Mathematical Olympiad
 
 *Numero di valori distinti della somma ponderata su tutte le permutazioni da 1 a n*
 
-> Impostare la permutazione $X = (x_1, x_2, \ldots, x_n)$ di $1, 2, \ldots, n$ in $A$. Per $\forall X \in A$, si lascia $f(X) = \sum_{k=1}^{n} k x_k$. Let $M = \{f(X) \mid X \in A\}$. Trova il valore di $|M|$. (Posato da Xiong Bin)
+> Imposta la permutazione $X = (x_1, x_2, \ldots, x_n)$ di $1, 2, \ldots, n$ in $A$. Per $\forall X \in A$, sia $f(X) = \sum_{k=1}^{n} k x_k$. Sia $M = \{f(X) \mid X \in A\}$. Trovare il valore di $|M|$. (Proposto da Xiong Bin)
 
-**Risposta:** \frac{n(n^2-1)}{6}+1
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2009#q05|src_cn_csmo_2009__Q05]]
 
 
 
@@ -137,11 +161,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costruire un triangolo DEF che condivide il circoncentro e l'incentro con un triangolo ABC*
+*Costruisci il triangolo DEF che condivide il circocentro e l'incentro con il triangolo ABC*
 
-> Che $O$, $I$ siano il centro circostante e l'incentro di $\triangle ABC$. Prova che per un punto arbitrario $D$ sul cerchio $O$, si può costruire un triangolo $DEF$, in modo che $O$, $I$ siano il circondario e l'incentro di $\triangle DEF$. (Posato da Tao Pingsheng)
+> Siano $O$ e $I$ il circocentro e l'incentro di $\triangle ABC$. Dimostrare che, per un punto arbitrario $D$ sulla circonferenza $O$, si può costruire un triangolo $DEF$ tale che $O$ e $I$ siano il circocentro e l'incentro di $\triangle DEF$. (Proposto da Tao Pingsheng)
 
 ![[src_cn_csmo_2009__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2009#q06|src_cn_csmo_2009__Q06]]
 
 
 
@@ -165,11 +196,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il massimo e il minimo di una funzione razionale sull'unità simplex*
+*Trovare il massimo e il minimo di una funzione razionale sul simplesso unitario*
 
-> Let $f(x, y, z) = \frac{x(2x - y)}{1 + x + 3y} + \frac{y(2y - z)}{1 - y + 3z} + \frac{z(2z - x)}{1 + z + 3x}$, dove $x, y, z \ge 0$ e $x + y + z = 1$. Trova il valore massimo e il valore minimo di $f(x, y, z)$. (Posato da Liu Shenglong)
+> Sia $f(x, y, z) = \frac{x(2x - y)}{1 + x + 3y} + \frac{y(2y - z)}{1 - y + 3z} + \frac{z(2z - x)}{1 + z + 3x}$, dove $x, y, z \ge 0$ e $x + y + z = 1$. Determinare il valore massimo e il valore minimo di $f(x, y, z)$. (Proposto da Liu Shenglong)
 
-**Risposta:** f_{\min}=0,\; f_{\max}=\frac{1}{2}
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2009#q07|src_cn_csmo_2009__Q07]]
 
 
 
@@ -195,10 +231,15 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di griglie rimosse da carta 8x8 per bloccare tutti i T-pentominoes*
+*Griglie minime rimosse dalla carta 8x8 per bloccare tutti i pentomino T*
 
-> Su un pezzo di carta grafica $8 \times 8$, almeno quante griglie devono essere tolte, e non possiamo tagliare una "T" che ha cinque griglie come mostrato nella figura. 1? (Posato da Sun Wen-Hsien)
+> Su un foglio di carta millimetrata $8 \times 8$, quanti riquadri almeno si dovrebbero rimuovere, e non possiamo ritagliare una 'T' composta da cinque riquadri come mostrato nella Fig. 1? (Posta da Sun Wen-Hsien)
 
 ![[src_cn_csmo_2009__q08.png]]
 
-**Risposta:** 14
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2009#q08|src_cn_csmo_2009__Q08]]

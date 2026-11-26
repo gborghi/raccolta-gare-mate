@@ -31,11 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima del quadrilatero ciclico con angolo lato e centrale dato*
+*Area massima di un quadrilatero ciclico con lato e angolo centrale dati*
 
-> Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Supponiamo che $AB = \sqrt{2 + \sqrt{2}}$ e $AB$ subtendano $135^\circ$ al centro del cerchio. Trova la superficie massima possibile di $ABCD$.
+> Sia $ABCD$ un quadrilatero inscritto in una circonferenza. Si supponga che $AB = \sqrt{2 + \sqrt{2}}$ e $AB$ sottendano $135^\circ$ al centro della circonferenza. Determinare l'area massima possibile di $ABCD$.
 
 ![[src_inmo_2012__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2012#q01|src_inmo_2012__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due serie prime con spazio uguale 8; dimostrare 30 divide la differenza degli elementi più piccoli*
+*Due insiemi primi con stesso intervallo 8; dimostrare che 30 divide la differenza degli elementi minimi*
 
-> Che $\{p_1, p_2, p_3, p_4\}$ sia un sottoinsieme di $\{p_1, p_1+2, p_1+4, p_1+6, p_1+8\}$ e $\{q_1, q_2, q_3, q_4\}$ sia un sottoinsieme di $\{q_1, q_1+2, q_1+4, q_1+6, q_1+8\}$ siano due set di numeri primi come $p_4 - p_1 = 8$ e $q_4 - q_1 = 8$. Supponiamo $p_1 > 5$ e $q_1 > 5$. Provare che $30$ divide $p_1 - q_1$.
+> Siano $\{p_1, p_2, p_3, p_4\}$ un sottoinsieme di $\{p_1, p_1+2, p_1+4, p_1+6, p_1+8\}$ e $\{q_1, q_2, q_3, q_4\}$ un sottoinsieme di $\{q_1, q_1+2, q_1+4, q_1+6, q_1+8\}$ due insiemi di numeri primi tali che $p_4 - p_1 = 8$ e $q_4 - q_1 = 8$. Si supponga che $p_1 > 5$ e $q_1 > 5$. Dimostrare che $30$ divide $p_1 - q_1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2012#q02|src_inmo_2012__Q02]]
 
 
 
@@ -85,9 +99,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di funzioni definite in modo ricorrente; dimostrare che ciascuna è polinomial con coefficienti interi*
+*Successione di funzioni definite ricorsivamente; dimostrare che ciascuna è un polinomio a coefficienti interi*
 
-> Definire una sequenza $\{f_0(x), f_1(x), f_2(x), \ldots\}$ di funzioni da $$f_0(x) = 1, \quad f_1(x) = x, \quad (f_n(x))^2 - 1 = f_{n+1}(x)f_{n-1}(x), \quad \text{for } n \ge 1.$$ Prove che ogni $f_n(x)$ è un polinomio con coefficienti interi.
+> Definisci una successione $\{f_0(x), f_1(x), f_2(x), \ldots\}$ di funzioni mediante
+> $$f_0(x) = 1, \quad f_1(x) = x, \quad (f_n(x))^2 - 1 = f_{n+1}(x)f_{n-1}(x), \quad \text{for } n \ge 1.$$
+> Dimostrare che ciascuna $f_n(x)$ è un polinomio a coefficienti interi.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2012#q03|src_inmo_2012__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i punti interni "buoni" del triangolo che producono 27 subtriangoli di superficie uguale*
+*Conta i punti interni "buoni" del triangolo che danno origine a 27 sottotriangoli di area uguale*
 
-> Lasciate che $ABC$ sia un triangolo. Si dice che un punto interno $P$ di $ABC$ sia **buono** se si possono trovare esattamente 27 raggi che emanano da $P$ che intersecano i lati del triangolo $ABC$ in modo tale che il triangolo sia diviso da questi raggi in 27 triangoli più piccoli di superficie uguale. Determinare il numero di punti **good** per un determinato triangolo $ABC$.
+> Sia $ABC$ un triangolo. Un punto interno $P$ di $ABC$ si dice **buono** se si possono trovare esattamente 27 raggi uscenti da $P$ che intersecano i lati del triangolo $ABC$, in modo che il triangolo venga diviso da questi raggi in 27 triangoli più piccoli di area uguale. Determinare il numero di punti **buoni** per un dato triangolo $ABC$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_inmo_2012#q04|src_inmo_2012__Q04]]
 
 
 
@@ -137,11 +167,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo con ceviani che soddisfano le condizioni dell'angolo di pedala deve essere equilaterale*
+*Un triangolo le cui ceviane soddisfano le condizioni sugli angoli pedali deve essere equilatero*
 
-> Che $ABC$ sia un triangolo a angolo acuto, e che $D$, $E$, $F$ siano punti rispettivamente su $BC$, $CA$, $AB$ in modo tale che $AD$ sia la media, $BE$ sia il bisettore dell'angolo interno e $CF$ sia l'altitudine. Supponiamo $\angle FDE = \angle C$, $\angle DEF = \angle A$ e $\angle EFD = \angle B$. Prove che $ABC$ è equilaterale.
+> Sia $ABC$ un triangolo acutangolo, e siano $D$, $E$, $F$ punti rispettivamente su $BC$, $CA$, $AB$ tali che $AD$ sia la mediana, $BE$ sia la bisettrice interna e $CF$ sia l'altezza. Si supponga che valgano $\angle FDE = \angle C$, $\angle DEF = \angle A$ e $\angle EFD = \angle B$. Dimostrare che $ABC$ è equilatero.
 
 ![[src_inmo_2012__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2012#q05|src_inmo_2012__Q05]]
 
 
 
@@ -173,6 +210,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sui numeri interi: trovare tutti i valori di f e impostare dove f(n) ≠0*
+*Equazione funzionale sugli interi: trovare tutti i valori di f e l'insieme in cui f(n)≠0*
 
-> Che $f : \mathbb{Z} \to \mathbb{Z}$ sia una funzione che soddisfi $f(0) \neq 0$, $f(1) = 0$ e \begin{itemize} \item[(i)] $f(xy) + f(x)f(y) = f(x) + f(y)$; \item[(ii) $(f(x-y) - f(0))f(x)f(y) = 0$, \end{itemize} per tutti $x, y \in \mathbb{Z}$, contemporaneamente. \begin{enumerate} \item[(a)] Trova l'insieme di tutti i valori possibili della funzione $f$. \item[(b) Se $f(0) \neq 0$ e $f(2) = 0$, trovare l'insieme di tutti gli integri $n$ tale da $f(n) \neq 0$. \end{enumere}
+> Sia $f : \mathbb{Z} \to \mathbb{Z}$ una funzione che soddisfa $f(0) \neq 0$, $f(1) = 0$ e
+> \begin{itemize}
+> \item[(i)] $f(xy) + f(x)f(y) = f(x) + f(y)$; \item[(ii)] $(f(x-y) - f(0))f(x)f(y) = 0$,
+> \end{itemize}
+> per tutti gli $x, y \in \mathbb{Z}$, simultaneamente.
+> \begin{enumerate}
+> \item[(a)] Determina l'insieme di tutti i valori possibili della funzione $f$. \item[(b)] Se $f(0) \neq 0$ e $f(2) = 0$, determina l'insieme di tutti gli interi $n$ tali che $f(n) \neq 0$.
+> \end{enumerate}
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2012#q06|src_inmo_2012__Q06]]

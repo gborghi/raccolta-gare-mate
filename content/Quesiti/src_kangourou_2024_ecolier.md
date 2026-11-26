@@ -39,19 +39,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What is the cost of the most expensive item (3 whole prices, total 7)
+*How much does the most expensive item cost? (3 whole prices, total 7)*
 
-> Rita pays 7 euros to buy three stationery items, all at different prices. The price in euro for each item is an integer. How much is the most expensive? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Rita pays 7 euros to buy three stationery items, all with different prices. The price of each item in euros is an integer. How many euros does the most expensive one cost?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q01|src_kangourou_2024_ecolier__Q01]]
 
 
 
@@ -85,25 +90,25 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of squares divided into two non-overlapping shapes*
+*How many squares are decomposed into two non-superimposable shapes?*
 
 ![[src_kangourou_2024_ecolier__prob2.png]]
 
-> How many of these squares are broken down by the line drawn within them into two non-overlapping shapes?
->  	
->  	
-> 	
->  	
->  
-> A) No one. B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> How many of these squares are divided by the line drawn inside them into two non-superimposable shapes?
+> A) None.
+>  B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q02|src_kangourou_2024_ecolier__Q02]]
 
 
 
@@ -135,13 +140,21 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of steps to reach the fire*
+*Minimum number of ladders to reach the fire*
 
 ![[src_kangourou_2024_ecolier__prob3.png]]
 
-> Look at the figure. The fire broke out on a very high level: the firefighter reached four floors below, at the point indicated, but could not make any jump. What's the minimum number of ladders he will use to reach the fire? A) 4 B) 5	               C) 6 D) 7 E) 8
+> Observe the figure. The fire broke out on a very high floor: the firefighter arrived four floors below, at the indicated point, but cannot make any kind of jump. What is the minimum number of flights of stairs the firefighter will use to reach the fire?
+> A) 4 	
+>      B) 5	               C) 6	
+>           D) 7	
+>     E) 8
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q03|src_kangourou_2024_ecolier__Q03]]
 
 
 
@@ -172,13 +185,21 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 <div class="qlang-split" data-lang="en"></div>
 
 
-What the building might have looked like before the accident
+*What might the structure have looked like before the incident?*
 
 ![[src_kangourou_2024_ecolier__prob4.png]]
 
-> Look at the picture: a cat dropped a small cube of Felice's building. Before this incident, which of the following aspects could the construction of Felice have had? A) B) C) D)
+> Look at the picture: a cat has knocked down one of Felice's building blocks. Before this accident, which of the following characteristics could Felice's construction have had?
+> A)  	
+>               B)  	
+>              C) 	
+>           D)
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q04|src_kangourou_2024_ecolier__Q04]]
 
 
 
@@ -217,18 +238,24 @@ What the building might have looked like before the accident
 
 *Missing digits in 3 consecutive 4-digit numbers*
 
-> Michele had written three consecutive four-digit numbers on the same line. Now that his sister has deleted some digits, this is what you see: _ _ 7, _ 898, 48 _ What are the missing digits, from left to right? Note: an example of 3 consecutive 4-digit numbers is given from 2023, 2024, 2025. A) 389, 3, 99
-> 	
-> B) 489, 3, 96
-> 	
-> C) 489, 4, 98
-> 	
-> D) 489, 4, 99
-> 	
+> Michele had written 3 consecutive 4-digit numbers on the same line. Now that his sister has erased some digits, this is what can be seen: _ _ _ 7, _ 898, 48 _ _. What are the missing digits, from left to right? Note: an example of 3 consecutive 4-digit numbers is 2023, 2024, 2025.
+> A) 389, 3, 99	
+>
+> B) 489, 3, 96	
+>
+> C) 489, 4, 98	
+>
+> D) 489, 4, 99	
+>
 > E) 488, 4, 99
+> E)
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q05|src_kangourou_2024_ecolier__Q05]]
 
 
 
@@ -265,13 +292,23 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the last player to throw the ball (circle)*
+*Number of the last player who throws the ball (circle)*
 
 ![[src_kangourou_2024_ecolier__prob6.png]]
 
-> Players on a football team are arranged in a circle to respect the order of their jerseys, as the figure suggests. Each player, starting with number 1, throws the ball to the third player to his left. This series of throws ends when the receiving player should throw the ball a second time. What is the number of the last player to throw the ball? A) 7 B) 8 C) 9 D) 10 E) 11
+> The players of a football team are arranged in a circle so as to follow the order of their jersey numbers, as suggested by the figure. Starting with player number 1, each player throws the ball to the third player to their left. This series of throws ends at the moment when the player who receives the ball would be due to throw it a second time. What is the number of the last player to have thrown the ball?
+> A) 7	
+> B) 8	
+> C) 9	
+> D) 10	
+> E) 11
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q06|src_kangourou_2024_ecolier__Q06]]
 
 
 
@@ -307,17 +344,25 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many gray tiles does the poster hide*
+*How many grey tiles does the poster hide?*
 
 ![[src_kangourou_2024_ecolier__prob7.png]]
 
-> Alex's kitchen wall is lined with white and gray chessboard tiles. Now Alex has hung the poster you see in the picture on the wall. How many gray tiles are hidden by the poster? A) 15
-> 	
-> B) 21
-> 	
-> C) 25 D) 30 E) 35
+> The kitchen wall in Alex's kitchen is tiled with white and grey checkerboard tiles. Now Alex has hung on the wall the poster you see in the figure. How many grey tiles are hidden by the poster?
+> A) 15	
+>
+> B) 21 	
+>
+> C) 25 	
+> D) 30 	 	
+> E) 35
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q07|src_kangourou_2024_ecolier__Q07]]
 
 
 
@@ -358,29 +403,31 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which fruit does Bianca take*
+*Which fruit does Bianca take?*
 
-> Mum brings five different fruits to the table: an apple, a pear, an orange,
-> a kiwi and a banana. Each of the five children takes a fruit that they like.
-> 	
+> Mom brings five different fruits to the table: an apple, a pear, an orange, a kiwi, and a banana. Each of the five children takes a fruit they like.
+>
 > Anna likes oranges.
-> 	
+>
 > Bianca likes all these fruits.
-> 	
-> Carlo likes oranges, kiwis and bananas.
-> 	
+>
+> Carlo likes oranges, kiwis, and bananas.
+>
 > Daniele likes oranges and bananas.
-> 	
-> Emma likes pears and kiwis.
-> Which fruit does Bianca take?
-> A) Orange.	
->  B) Banana. 	
-> C) Apple.	
-> D) Kiwi.	
+>
+> Emma likes pears and kiwis. Which fruit does Bianca take?
+> A) Orange.
+> B) Banana.
+> C) Mela.
+> D) Kiwi.
 > E) Pear.
-> Questions from No. 9 to No. 16 are worth 4 points each
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q08|src_kangourou_2024_ecolier__Q08]]
 
 
 
@@ -436,7 +483,7 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be entered in E with three sums equal to 11*
+*Number to be entered in E, with three sums equal to 11*
 
 ![[src_kangourou_2024_ecolier__prob9.png]]
 
@@ -457,17 +504,22 @@ What the building might have looked like before the accident
 \end{document}
 ```
 
-> Lisa wants to replace each of the five letters in the figure one of the numbers 1, 2, 4, 5, and 6, without repeating them. She also wants all three sums to be equal to 11: the sum of the numbers substituted for A, E, and C, that of the numbers substituted for B, E, and D, and that of the numbers substituted for C and D. What number should Lisa enter in box E? A) 1
-> 	
-> B) 2
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Lisa wants to replace each of the five letters in the figure with one of the numbers 1, 2, 4, 5, and 6, without repeating any of them. She also wants all three of the following sums to equal 11: the sum of the numbers substituted for A, E, and C; the sum of the numbers substituted for B, E, and D; and the sum of the numbers substituted for C and D. Which number will Lisa have to put in the E box?
+> A) 1 	
+>
+> B) 2 	
+>
+> C) 4 	
+>
+> D) 5 	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q09|src_kangourou_2024_ecolier__Q09]]
 
 
 
@@ -516,36 +568,27 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times did tails come up (board game)*
+*How many times has the tail come out (board game)?*
 
-> On the courtyard floor of the
-> school a path is drawn with
-> 12 squares. Antonia and Lucio are in
-> front of square 1 and play like this: in
-> turn each one tosses the kangaroo
-> coin: if the coin shows the
-> face "heads" the one who tossed it moves
-> A
-> B
-> E
-> C
-> D
-> 
-> forward 3 squares; if the coin shows the face "tails" the one who tossed it goes back
-> 1 square or stays still, if there are no squares behind them. Both toss the
-> coin 4 times: Antonia arrives on number 4, Lucio on number 8. How many times in all
-> did the face "tails" come up?
+> On the ground of the school courtyard, a path with 12 squares is drawn. Antonia and Lucio are in front of square 1 and play as follows: taking turns, each of them tosses the kangaroo coin: if the coin lands on "heads", the person who tossed it moves forward A B E C D
+>
+> over 3 spaces; if the coin shows the "tail" side, the person who tossed it moves back 1 space or stays put if there are no spaces behind them. Both toss the coin 4 times: Antonia lands on number 4, and Lucio on number 8. How many times in total did the "tail" side come up?
 > A) 1	
-	
- B) 2	
-	
- C) 3	
-	
- D) 4	
-	
- E) 5
+>
+>  B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
+> E) 5
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q10|src_kangourou_2024_ecolier__Q10]]
 
 
 
@@ -582,19 +625,25 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which vessel is to be filled first (discharge tubes)*
+*Which vessel will fill first (drain pipes)*
 
 ![[src_kangourou_2024_ecolier__prob11.png]]
 
-> The faucet in the figure is losing water. Below it you can see a number of vessels, all of the same size: three of them have exhaust pipes. Look closely at the figure: which vessel will be filled first? A) 3
-> 	
-> B) 4
-> 	
-> C )  5 D) 6
-> 	
+> The tap in the figure is leaking water. Below it, you can see several numbered containers, all of the same size: three of them have drain pipes. Look carefully at the figure: which container will fill up first?
+> A) 3	
+>
+> B) 4	
+>
+> C ) 5
+> D) 6	
+>
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q11|src_kangourou_2024_ecolier__Q11]]
 
 
 
@@ -629,19 +678,24 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fish eaten by the other chick (26 to one)*
+*Fish eaten by the other chick (26 to 1)*
 
-> Gino the penguin goes fishing every day and every day brings home 9 fish for his two chicks: 5 fish to the first chick he sees, 4 fish per second; they eat all the fish. In the last few days, a chick has eaten 26 fish. How many fish did the other chick eat in the same days? A) 19
-> 	
-> B) 22
-> 	
-> C) 25
-> 	
-> D) 28
-> 	
+> Gino the penguin goes fishing every day and every day brings home 9 fish for his two chicks: he gives 5 fish to the first chick he sees, and 4 fish to the second; they eat all the fish. In recent days, one chick has eaten 26 fish. How many fish has the other chick eaten in the same days?
+> A) 19	
+>
+>  B) 22	
+>
+> C) 25	
+>
+> D) 28	
+>
 > E) 31
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q12|src_kangourou_2024_ecolier__Q12]]
 
 
 
@@ -681,21 +735,27 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the question mark paper (4 rings, sum of 10)*
+*Number on the card with the question mark (4 rings, total 10)*
 
 ![[src_kangourou_2024_ecolier__prob13.png]]
 
-> I wrote all the numbers from 1 to 7, each on a different piece of paper. Then, as the figure suggests, I placed the seven cards inside four partially overlapping rings. For each ring, the sum of the numbers on the cards in it is 10. What is the number on the paper with the question mark? A) 1
-> 	
-> B) 2
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> I wrote all the numbers from 1 to 7, each on a different card. Then, as the figure suggests, I placed the seven cards inside four rings that partly overlap. For each ring, the sum of the numbers on the cards contained within it is 10. Which number is on the card marked with a question mark?
+> A) 1	
+>
+>  B) 2	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 7
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q13|src_kangourou_2024_ecolier__Q13]]
 
 
 
@@ -733,22 +793,27 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways can the centipede be built (head, tail, pieces)*
+*In how many ways can you build the caterpillar (head, tail, pieces)?*
 
 ![[src_kangourou_2024_ecolier__prob14.png]]
 
-> Luca wants to build a centipede that has the head, the tail and 1 or 2 or 3 pieces with double interlocking between the head and the tail. The pieces must interlock well, without holes or overlaps. In how many ways can he do it?
+> Luca wants to build a caterpillar that has a head, a tail, and 1 or 2 or 3 interlocking pieces between the head and the tail. The pieces must fit together properly, with no gaps or overlaps. In how many ways can he do it?
 > A) 3	
-	
- B) 4	
-	
-C) 5	
-	
-D) 6	
-	
-E) 7
+>
+>  B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
+> E) 7
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q14|src_kangourou_2024_ecolier__Q14]]
 
 
 
@@ -807,22 +872,28 @@ E) 7
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers instead of question marks (box)*
+*Sum of the numbers in place of the question marks (card)*
 
 ![[src_kangourou_2024_ecolier__prob15.png]]
 
-> John has a card with a dark side and a light side. He writes the numbers from 1 to 4 on the cardboard's dark side; then he flips it over and on the back he writes the numbers from 5 to 8, in the order indicated by the first figure. Finally, cut the cardboard into 4 rectangular cards and line them up as shown in the second figure. What is the sum of the numbers that should be written instead of the question marks? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
-> E) 7 3 2 4 5 6 7 1 6 ? 3 1 2 4 3 6 7 8 5 ? 5 ? 6
+> Giovanni has a small card with one dark side and one light side. He writes the numbers from 1 to 4 on the dark side of the card; then he flips it over and, on the back, writes the numbers from 5 to 8 in the order indicated by the first figure. Finally, he cuts the card into 4 rectangular cards and arranges them in a row as suggested by the second figure. What is the sum of the numbers that should be written in place of the question marks?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
+> E) 7
+> 3 2 4 5 6 7 1 6 ? 3 1 2 4 3 6 7 8 5 ? 5 ? 6
 >
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q15|src_kangourou_2024_ecolier__Q15]]
 
 
 
@@ -861,21 +932,27 @@ E) 7
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of square tile known rectangle dimensions*
+*Side of the square tile; known dimensions of the rectangle*
 
 ![[src_kangourou_2024_ecolier__prob16.png]]
 
-> The figure on the side shows a part of a floor. It is made with two types of tiles: gray rectangles and black squares . The rectangular tile has sides 23 cm long and 11 cm wide. How many centimeters is the length of the side of the square tile? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
-> E) 7 Questions from N. 17 to N. 24 are worth five points each.
+> The figure on the side shows part of a floor. The floor is made using two types of tiles: grey rectangles and black squares. The rectangular tile has sides measuring 23 cm and 11 cm. How many centimetres long is the side of the square tile?
+> A) 3	
+>
+>  B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
+> E) 7
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q16|src_kangourou_2024_ecolier__Q16]]
 
 
 
@@ -919,29 +996,34 @@ E) 7
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which tower Ada sees after removing disks
+*Which tower does Ada see after removing the disks?*
 
 ![[src_kangourou_2024_ecolier__prob17.png]]
 
-> As the figure suggests, Ada built a tower with 8 disks of the same size.
-> 	
-> Then she removed the second disc from the bottom of this tower.
-> 	
-> Then she removed the third disc from the bottom of the tower so obtained.
-> 	
-> Then she removed the fourth disc from the bottom of the new tower.
-> 	
-> Finally, she removed the fifth disc from the bottom of the last tower she got. Which of the following is the tower Ada sees at the end? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> As the figure suggests, Ada has built a tower using 8 disks of the same size.
+>
+> Then he removed the second disc from the bottom of this tower.
+>
+> Then he removed the third disc from the bottom of the tower thus obtained.
+>
+> Then he removed the fourth disc from the bottom of the new tower.
+>
+> Finally, she removed the fifth disc from the bottom of the last tower obtained. Which of the following is the tower that Ada sees at the end?
+> A) 	
+>
+>  B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q17|src_kangourou_2024_ecolier__Q17]]
 
 
 
@@ -979,21 +1061,27 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three missing digits (sum of three numbers = 782)*
+*Sum of the three missing digits (sum of three numbers = 782)*
 
 ![[src_kangourou_2024_ecolier__prob18.png]]
 
-> The sum of three numbers, each of three digits, is 782. As you can see in the figure, one digit has been removed from each number. What is the sum of the three missing digits? A) 8
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 11
-> 	
+> The sum of three three-digit numbers is 782. As you can see in the figure, one digit has been removed from each number. What is the sum of the three missing digits?
+> A) 8	
+>
+>  B) 9	
+>
+> C) 10	
+>
+> D) 11	
+>
 > E) 12
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q18|src_kangourou_2024_ecolier__Q18]]
 
 
 
@@ -1026,15 +1114,23 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the cylinder (weighted in pairs)*
+*How much does the cylinder weigh? (Weigh them in pairs.)*
 
 ![[src_kangourou_2024_ecolier__prob19.png]]
 
-> Lucia has a cylinder, a cone and a ball. Weigh these objects in pairs: below you can see the result of the weights. How much does the cylinder weigh? A) 90
-> 	
-> B) 100 C) 120 D) 150 E) 170
+> Lucia has a cylinder, a cone, and a ball. She weighs these objects in pairs: below, you can see the results of the weighings. How much does the cylinder weigh?
+> A) 90	
+>
+> B) 100	 	
+> C) 120	 	
+> D) 150	 	
+> E) 170
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q19|src_kangourou_2024_ecolier__Q19]]
 
 
 
@@ -1088,22 +1184,29 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the expression with figures*
+*Value of the expression with digit figures*
 
 ![[src_kangourou_2024_ecolier__prob20.png]]
 
-> In the operations shown here on the right, equal figures represent equal numbers and different figures represent different numbers: How much is it worth? A) 0
-> 	
-> B) 15
-> 	
-> C) 18
-> 	
-> D) 28
-> 	
+> In the operations illustrated here on the right, identical figures represent identical digits, and different figures represent different digits: What is its value?
+> A) 0	
+>
+>  B) 15	
+>
+> C) 18	
+>
+> D) 28	
+>
 > E) 30
+> 2 3 1 4 4 1 200g 100g 240g ? + = + = × ×
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q20|src_kangourou_2024_ecolier__Q20]]
 
 
 
@@ -1143,21 +1246,27 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways two frogs jump by keeping two per row/column*
+*In how many ways can two frogs jump while keeping two per row/column?*
 
 ![[src_kangourou_2024_ecolier__prob21.png]]
 
-> Look at the figure: there are exactly two frogs in each row and in each column. Two frogs jump at the same time and each lands in an empty cell near the one from which it jumped, a cell that has a side in common with it. After that, there are two frogs in each row and column. In how many ways can this happen? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> Look at the figure: there are exactly two frogs in each row and in each column. Two frogs jump at the same instant, and each lands in an empty cell adjacent to the one from which it jumped—that is, a cell that shares a side with it. After that, there are still two frogs in each row and in each column. In how many ways can this happen?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q21|src_kangourou_2024_ecolier__Q21]]
 
 
 
@@ -1195,21 +1304,26 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cells in the 9-cell hive contain honey*
+*How many cells in a 9-cell honeycomb contain honey?*
 
 ![[src_kangourou_2024_ecolier__prob22.png]]
 
-> The figure represents a nine-cell hive. Let's say two cells are adjacent if they have a side in common. In some cells there is honey: the number in each cell indicates how many adjacent cells contain honey. How many cells contain honey? A) 4
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
+> The figure shows a honeycomb with 9 cells. Let's say two cells are adjacent if they share a side. Some cells contain honey: the number in each cell indicates how many adjacent cells contain honey. How many cells contain honey?
+> A) 4	
+>
+>  B) 5	
+>
+> C) 6	
+>
+> D) 7	
+>
 > E) 8
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q22|src_kangourou_2024_ecolier__Q22]]
 
 
 
@@ -1256,22 +1370,29 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-What set of candy was taken by a girl?
+*Which assortment of little sweets was taken by a girl?*
 
 ![[src_kangourou_2024_ecolier__prob23.png]]
 
-> Three girls came one after another to the tray you see in the picture to get candy. We don't know in what order they arrived at the tray, but we do know that • one of the girls took all the hearts she found on the tray and nothing else; • another took all the white candy she found on the tray and nothing else; • another took all the big candy she found on the tray and nothing else. The end result is that one girl took 3 candy, one took 6 and one took 7. Which of the following sets of candy was taken by one of the girls? A)
-> 	
-> 	
-> B)
-> 	
-> 	
-> C) D)
-> 	
-> 	
+> Three girls approached, one after another, the tray you see in the figure to take some treats. We don't know in what order they reached the tray, but we know that • one of the girls took all the heart-shaped treats she found on the tray and nothing else; • another took all the white treats she found on the tray and nothing else; • another took all the large treats she found on the tray and nothing else. The final result is that one girl took 3 treats, one took 6, and one took 7. Which of the following sets of treats was taken by one of the girls?
+> A) 	
+>
+>
+> B)  	
+>
+>
+> C)
+> D) 	
+>
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q23|src_kangourou_2024_ecolier__Q23]]
 
 
 
@@ -1319,18 +1440,26 @@ What set of candy was taken by a girl?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of white blocks to make the cube*
+*Minimum number of white blocks needed to assemble the cube*
 
 ![[src_kangourou_2024_ecolier__prob24.png]]
 
-> There are two types of blocks: white and gray . A small cube can be composed by joining 4 white blocks or 1 white and 1 grey block. The large cube in the figure is made of small cubes. What's the smallest number of white blocks that make up the big cube? A) 811 B) 11
-> 	
-> C) 13
-> 	
-> D) 14
-> 	
-> E) 23 1 1 3 4 3 2 3 4 2
-> 
+> There are 2 types of blocks: white and grey. A small cube can be assembled by placing 4 white blocks side by side, or by placing 1 white block and 1 grey block side by side. The large cube in the figure is made of small cubes. What is the smallest number of white blocks that makes it possible to assemble the large cube?
+> A) 811	 	
+> B) 11	
+>
+> C) 13	
+>
+> D) 14	
+>
+> E) 23
+> 1 1 3 4 3 2 3 4 2
+>
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_ecolier#q24|src_kangourou_2024_ecolier__Q24]]

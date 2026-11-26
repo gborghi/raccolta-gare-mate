@@ -30,9 +30,17 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un'espressione aritmetica con prodotti*
+*Il valore di 877×879 − 121×123*
 
-> Calcolare la seguente espressione: $$877 \times 879 - 121 \times 123.$$
+> Calcolare l'espressione seguente:
+> $$877 \times 879 - 121 \times 123.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jjmo6q#q01|src_jjmo6q__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max × 1004 ×1005 ×... ×2008 è divisibile per 2*
+*Il prodotto 1004×1005×…×2008 è divisibile per 2 al massimo tante volte*
 
-> Quante volte $2$ divide $1004 \times 1005 \times 1006 \times \cdots \times 2008$? (cioè trovare il più grande intero $k$ tale che $2^k$ divida $1004 \times 1005 \times \cdots \times 2008$.)
+> Quante volte $2$ divide $1004 \times 1005 \times 1006 \times \cdots \times 2008$? (Cioè, trova il più grande intero $k$ tale che $2^k$ divida $1004 \times 1005 \times \cdots \times 2008$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo6q#q02|src_jjmo6q__Q02]]
 
 
 
@@ -82,11 +97,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'angolo BFD su un cerchio con sei archi uguali e angolo ACE=68°*
+*Trovare l'angolo BFD sulla circonferenza con sei archi uguali e angolo ACE=68°*
 
-> Sei punti $A, B, C, D, E, F$ si trovano su un cerchio in questo ordine in modo che l'arco $AB$, l'arco $BC$, l'arco $CD$, l'arco $DE$, l'arco $EF$ e l'arco $FA$ siano tutti uguali di lunghezza. Dato che $\angle ACE = 68^\circ$, trovare $\angle BFD$.
+> Sei punti $A, B, C, D, E, F$ giacciono su una circonferenza in questo ordine, in modo che l'arco $AB$, l'arco $BC$, l'arco $CD$, l'arco $DE$, l'arco $EF$ e l'arco $FA$ abbiano tutti la stessa lunghezza. Dato che $\angle ACE = 68^\circ$, determina $\angle BFD$.
 
 ![[src_jjmo6q__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo6q#q03|src_jjmo6q__Q03]]
 
 
 
@@ -111,11 +133,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prezzi da pagare con monete di 1000, 100, 10, 1 yen minimizzando la variazione*
+*Calcola i prezzi pagabili con monete da 1000, 100, 10 e 1 yen, minimizzando il resto*
 
-> Taro ha una banconota di 1000 yen, una moneta di 100 yen, una moneta di 10 yen e una moneta di 1 yen, e le usa tutte e quattro per acquistare un oggetto. Quanti prezzi possibili può avere l'oggetto?
-> 
-> La condizione è che il pagamento di Taro non abbia alcun importo in comune (come monete/monete) con il cambio che riceve; tra tutti i metodi di pagamento che soddisfano questa condizione, sceglie uno che riduca al minimo il numero di monete/monete che detiene dopo la transazione (cioè riduce al minimo il numero totale delle sue monete/monete rimanenti dopo aver ricevuto il cambio). Inoltre, il cambio viene sempre dato con il numero minimo di monete/monete, ed è anche possibile che il cambio sia di 0 yen.
+> Taro ha una banconota da 1000 yen, una moneta da 100 yen, una moneta da 10 yen e una moneta da 1 yen, e usa tutte e quattro per comprare un articolo. Quanti prezzi possibili può avere l'articolo?
+>
+> La condizione è che il pagamento di Taro non abbia alcun importo in comune (in termini di monete/banconote) con il resto che riceve; tra tutti i metodi di pagamento che soddisfano questa condizione, egli sceglie quello che minimizza il numero di monete/banconote che ha in mano dopo la transazione (ossia minimizza il numero totale delle banconote/monete che gli restano dopo aver ricevuto il resto). Inoltre, il resto viene sempre dato con il minor numero possibile di monete/banconote, ed è anche possibile che il resto sia di 0 yen.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo6q#q04|src_jjmo6q__Q04]]
 
 
 
@@ -140,11 +169,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del triangolo CBE in quadrato unitario con un cerchio inciso tangente a CE*
+*Area del triangolo CBE nel quadrato unitario con cerchio inscritto tangente a CE*
 
-> Il $ABCD$ deve essere un quadrato unitario (lenghezza laterale $1$). Il $O$ deve essere il centro del cerchio con diametro $AD$ e il $E$ deve essere un punto laterale $AB$. La linea $CE$ è tangente al cerchio con il centro $O$. Trova l'area del triangolo $CBE$.
+> Sia $ABCD$ un quadrato unitario (lato di lunghezza $1$). Sia $O$ il centro della circonferenza di diametro $AD$, e sia $E$ un punto sul lato $AB$. La retta $CE$ è tangente alla circonferenza di centro $O$. Determinare l'area del triangolo $CBE$.
 
 ![[src_jjmo6q__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo6q#q05|src_jjmo6q__Q05]]
 
 
 
@@ -169,11 +205,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i record di vittorie/perdite in tornei di 6 giocatori in cui tutti i totali di vittorie differiscono*
+*Conta i record di vittorie/sconfitte in un torneo a 6 giocatori in cui i totali delle vittorie di tutti sono diversi*
 
-> Un torneo di kendo ha partecipanti $6$. Ogni persona ha combattuto esattamente una volta contro ciascuno degli altri partecipanti $5$, e esattamente $1$ match per round è stato tenuto. Inoltre, il numero di vittorie di ciascuna persona era diverso. Quanti record di vittorie/perdite possibili (sequenze di risultati) ci sono per il torneo?
-> 
-> (Le gare non si verificano; i disegni non sono possibili.)
+> Un torneo di kendo ha $6$ partecipanti. Ogni persona ha combattuto esattamente una volta contro ciascuno degli altri $5$ partecipanti, e sono state disputate esattamente $1$ partite per turno. Inoltre, il numero di vittorie di ciascuna persona è stato diverso. Quante possibili serie di risultati (sequenze di esiti) sono possibili per il torneo?
+>
+> (I pareggi non si verificano; i pareggi non sono possibili.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo6q#q06|src_jjmo6q__Q06]]
 
 
 
@@ -196,9 +239,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare triples (a,b,c) di numeri interi positivi con lcm 720, tutti diversi*
+*Conta le triple (a,b,c) di interi positivi con mcm uguale a 720, tutte distinte*
 
-> Quanti triples ordinati di integri positivi $(a, b, c)$ esistono in modo tale che il più piccolo multiplo comune di $a$, $b$ e $c$ sia $720$, e i tre numeri $a$, $b$, $c$ siano parimenti distinti (nessuno di due è uguale)? (I triples che differiscono solo nell'ordine sono contati separatamente.)
+> Quante terne ordinate di interi positivi $(a, b, c)$ ci sono tali che il minimo comune multiplo di $a$, $b$ e $c$ sia $720$, e i tre numeri $a$, $b$, $c$ siano tutti distinti a due a due (nessun paio è uguale)? (Le terne che differiscono solo nell'ordine vengono conteggiate separatamente.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo6q#q07|src_jjmo6q__Q07]]
 
 
 
@@ -223,11 +273,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca le dimensioni delle classi date le restrizioni e i numeri di coltivazione di tulipani 52, 64*
+*Determinare le dimensioni delle classi date le vincoli e i conteggi per la piantagione dei tulipani: 52, 64*
 
-> Una scuola media decise di far piantare i tulipani agli studenti. Ogni studente pianta almeno una lampadina. Gli studenti della stessa classe piantano lo stesso numero di lampadine, e ogni studente pianta lo stesso numero di lampadine come gli studenti di altre classi. Il numero totale di lampadine che possono essere piantate è massimo $100$; il numero di lampadine il cui totale è inferiore a $100$ è $6$, e i due numeri più piccoli sono $52$ e $64$.
-> 
-> Trovare tutte le possibili combinazioni del numero di studenti in ciascuno dei gradi 1, 2 e 3 (cioè anni di scuola media 1, 2, 3).
+> Una scuola media ha deciso di far piantare ai propri studenti dei bulbi di tulipano. Ogni studente ne pianta almeno uno. Gli studenti della stessa classe ne piantano lo stesso numero, e ogni studente ne pianta lo stesso numero degli studenti delle altre classi. Il numero totale di bulbi che si possono piantare è al massimo $100$; il numero di bulbi il cui totale è inferiore a $100$ è $6$, e i due numeri più piccoli di questo tipo sono $52$ e $64$.
+>
+> Trova tutte le possibili combinazioni del numero di studenti in ciascuna delle classi 1, 2 e 3 (ossia degli anni scolastici 1, 2 e 3 della scuola media).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo6q#q08|src_jjmo6q__Q08]]
 
 
 
@@ -254,13 +311,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rondate min per la riunione di scambio di regali per ragazzi e ragazze del 2008*
+*Round minimi per l'incontro di scambio di regali dei ragazzi e delle ragazze del 2008*
 
-> I ragazzi e le ragazze si riuniscono e si scambiano regali. Ogni ragazzo intende dare un fiore a una ragazza, e ogni ragazza intende dare un cioccolato a un ragazzo. Ognuno siede in un cerchio rivolto verso l'interno; in ogni giro, ognuno trasmette contemporaneamente il suo dono alla persona sulla sua destra. Un ragazzo riceve un cioccolato (da una ragazza) e una ragazza riceve un fiore (da un ragazzo) nel momento in cui il regalo li raggiunge.
-> 
-> Qual è il numero massimo di colpi necessari prima che ognuno abbia dato e ricevuto il suo dono?
-> 
-> (Questo è un problema di prova; anche se la risposta è dichiarata, deve essere dimostrata corretta.)
+> $2008$ ragazzi e $2008$ ragazze si riuniscono e si scambiano i regali. Ogni ragazzo intende regalare un fiore a una ragazza, e ogni ragazza intende regalare un cioccolatino a un ragazzo. Tutti siedono in cerchio rivolti verso l'interno; in ogni round, tutti contemporaneamente passano il proprio regalo alla persona alla propria destra. Un ragazzo riceve un cioccolatino (da una ragazza) e una ragazza riceve un fiore (da un ragazzo) nel momento in cui il regalo arriva a loro.
+>
+> Qual è il numero massimo di round necessari affinché tutti abbiano dato e ricevuto il proprio regalo?
+>
+> (Questo è un problema di dimostrazione; anche se la risposta viene indicata, bisogna dimostrare che è corretta.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo6q#q09|src_jjmo6q__Q09]]
 
 
 
@@ -287,11 +351,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove X<Y per le aree condivise tra quadrati che si sovrappongono sulla griglia 3×3*
+*Dimostrare che X<Y per le aree condivise tra i quadrati sovrapposti su una griglia 3×3*
 
-> Considera una griglia $3 \times 3$ di quadrati unitari. Ogni cella è numerata come indicato di seguito: $$\begin{array}{|c|c|c|}\hline \textcircled{1} & \textcircled{2} & \textcircled{3} \\ \hline \textcircled{8} & & \textcircled{4} \\ \hline \textcircled{7} & \textcircled{6} & \textcircled{5} \\ \hline \end{array}$$ $A$, $B$, $C$, $D$ sono punti interni (non sul confine) delle unità quadrate $\textcircled{1}$, $\textcircled{3}$, $\textcircled{5}$ e $\textcircled{7}$ rispettivamente. $X$ è la somma delle superfici delle intersezioni di quadrato $ABCD$ con ciascuno dei quadrati $\textcircled{1}$, $\textcircled{3}$, $\textcircled{5}$, $\textcircled{7}$, e $Y$ è la somma delle superfici delle intersezioni di quadrato $ABCD$ con ciascuno dei quadrati $\textcircled{2}$, $\textcircled{4}$, $\textcircled{6}$, $\textcircled{8}$. Prova che $X < Y$.
-> 
-> (Questo è un problema di prova.)
+> Si consideri una griglia $3 \times 3$ di quadrati unitari. Ogni cella è numerata come mostrato di seguito:
+> $$\begin{array}{|c|c|c|}\hline \textcircled{1} & \textcircled{2} & \textcircled{3} \\ \hline \textcircled{8} & & \textcircled{4} \\ \hline \textcircled{7} & \textcircled{6} & \textcircled{5} \\ \hline \end{array}$$
+> $A$, $B$, $C$, $D$ sono punti interni (non appartenenti al bordo) dei quadrati unitari $\textcircled{1}$, $\textcircled{3}$, $\textcircled{5}$, $\textcircled{7}$ rispettivamente. Sia $X$ la somma delle aree delle intersezioni del quadrato $ABCD$ con ciascuno dei quadrati $\textcircled{1}$, $\textcircled{3}$, $\textcircled{5}$, $\textcircled{7}$, e sia $Y$ la somma delle aree delle intersezioni del quadrato $ABCD$ con ciascuno dei quadrati $\textcircled{2}$, $\textcircled{4}$, $\textcircled{6}$, $\textcircled{8}$. Dimostrare che $X < Y$.
+>
+> (Questo è un problema di dimostrazione.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo6q#q10|src_jjmo6q__Q10]]
 
 
 
@@ -328,18 +401,27 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore m×n griglia rosso/blu/nero in modo che ogni colore sia vicino agli altri; trovare valido (m,n)*
+*Colora una griglia m×n di rosso/blu/nero in modo che ciascun colore sia adiacente agli altri due; trova le coppie (m,n) valide*
 
-> Lasciate che $m, n$ siano numeri interi positivi. Vogliamo colorare ogni cella di una griglia $m \times n$ rosso, blu o nero in modo che tutte le seguenti condizioni si applichino:
-> 
-> - Ogni cellula rossa è adiacente ad almeno una cellula blu e ad almeno una cellula nera. - Ogni cellula blu è adiacente ad almeno una cellula nera e ad almeno una cellula rossa. - Ogni cellula nera è adiacente ad almeno una cellula rossa e ad almeno una cellula blu.
-> 
-> (Due cellule distinte sono chiamate **adiacenti** se condividono un lato.)
-> 
+> Siano $m, n$ interi positivi. Vogliamo colorare di rosso, blu o nero ogni cella di una griglia $m \times n$ in modo che tutte le seguenti condizioni siano soddisfatte:
+>
+> - Ogni cella rossa è adiacente ad almeno una cella blu e ad almeno una cella nera.
+> - Ogni cella blu è adiacente ad almeno una cella nera e ad almeno una cella rossa.
+> - Ogni cella nera è adiacente ad almeno una cella rossa e ad almeno una cella blu.
+>
+> (Due celle distinte si dicono **adiacenti** se condividono un lato.)
+>
 > Rispondi alle seguenti domande:
-> 
-> (1) Nel caso $m = 3$, $n = 4$: trovare un colore valido che soddisfi tutte le condizioni di cui sopra. **(Una risposta/esempio è sufficiente; non è necessaria alcuna prova.)**
-> 
-> (2) Trova tutte le coppie $(m, n)$ per le quali esiste un colore valido.
-> 
-> (Questo è un problema di prova per la parte (2).)
+>
+> (1) Nel caso $m = 3$, $n = 4$: trova una colorazione valida che soddisfi tutte le condizioni sopra indicate. **(Basta una risposta/un esempio; non è necessaria alcuna dimostrazione.)**
+>
+> (2) Trova tutte le coppie $(m, n)$ per cui esiste una colorazione valida.
+>
+> (Questo è un problema di dimostrazione per la parte (2).)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo6q#q11|src_jjmo6q__Q11]]

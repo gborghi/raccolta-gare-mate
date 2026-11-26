@@ -12,47 +12,46 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,method_induzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Recursively defined sequence u_{n+1}=1/(n+1)+sqrt(u_n): positivity, monotonicity, convergence and asymptotics*
+*Suite $u_{n+1}=\frac{1}{n+1}+\sqrt{u_n}$ : positivité, monotonie, convergence et asymptotique*
 
-> Problem 1: Study of a sequence.
-> 
-> For every real $a \ge 0$, one calls $u_a$ the sequence associated with $a$, defined by $u_0 = a$ and
-> $$u_{n+1} = \frac{1}{n+1} + \sqrt{u_n} \quad \text{for every integer } n \ge 0.$$
-> 
-> Part 1: Generalities.
-> 
-> 1. Let $a$ be a strictly positive real. Show that the sequence $(u_a)$ associated with $a$ verifies $u_n \ge 0$ for every integer $n \ge 0$.
-> 
-> 2. Let $a$ and $b$ be two strictly positive reals such that $a \le b$. Denote by $(u_n)$ the sequence $u_a$ associated with $a$ and by $(v_n)$ the sequence $u_b$ associated with $b$. Show that $u_n \le v_n$ for every integer $n \ge 0$.
-> 
-> 3. One notes $(w_a)$ the sequence associated with $0$. Show that $w_n \ge 1$ for every integer $n \ge 1$.
-> 
-> 4. Let $a$ and $b$ be two strictly positive reals. Show that the sequence $(u_a)$ associated with $a$ and the sequence $(u_b)$ associated with $b$ converge towards one same real $\ell$. Determine the value of $\ell$.
-> 
-> 5. Let $a$ be a real such that $a = \dfrac{1 + \sqrt{5}}{2}$. Justify that the sequence $u_a$ is strictly decreasing. (It will not be required to give a demonstration that it is strictly decreasing.)
-> 
-> Part 2: A particular case.
-> 
-> In all this part, one defines the sequence $(t_n)$ by
-> $$t_n = n(t_n - 1) \quad \text{for every integer } n \ge 0$$
-> (as transcribed from the source).
-> 
-> 6. Show that for every integer $n \ge 1$, the framing
+> **Problème 1 : étude d’une suite**
+>
+> Pour tout réel $\alpha \ge 0$, on appelle suite associée à $\alpha$ la suite $(u_n)$ définie par $u_0 = \alpha$ et
+> $$u_{n+1} = \frac{1}{n+1} + \sqrt{u_n}$$
+> pour tout entier $n \ge 0$.
+>
+> **Partie 1 : Généralités**
+>
+> 1. Soit $\alpha$ un réel positif. Démontrer que la suite $(u_n)$ associée à $\alpha$ vérifie $u_n \ge 0$ pour tout entier $n \ge 0$.
+>
+> 2. Soient $\alpha$ et $\beta$ deux réels tels que $0 \le \alpha \le \beta$. On note $(u_n)$ la suite associée à $\alpha$ et $(v_n)$ la suite associée à $\beta$. Démontrer que $u_n \le v_n$ pour tout entier $n \ge 0$.
+>
+> 3. On note $(w_n)$ la suite associée à $0$. Démontrer que $w_n \ge 1$ pour tout entier $n \ge 1$.
+>
+> 4. Soit $\alpha$ un réel positif ou nul. On suppose que la suite $(u_n)$ associée à $\alpha$ converge vers un réel $\ell$. Déterminer la valeur de $\ell$.
+>
+> 5. Soit $\alpha$ un réel tel que $\alpha > \dfrac{3+\sqrt{5}}{2}$. Justifier que la suite associée à $\alpha$ est strictement décroissante. Que peut-on en déduire en termes de convergence ?
+>
+> **Partie 2 : Un cas particulier**
+>
+> Dans toute cette partie, on note $(t_n)$ la suite associée à $4$ et on définit la suite $(s_n)$ par $s_n = n(t_n - 1)$ pour tout entier $n \ge 0$.
+>
+> 6. Démontrer, pour tout entier $n \ge 1$, l’encadrement
 > $$1 + \frac{2}{n} \le t_n \le 1 + \frac{3}{n}.$$
-> 
-> 7. Show that for every integer $n \ge 1$, the framing
+>
+> 7. Démontrer, pour tout entier $n \ge 1$, l’encadrement
 > $$2 \le s_n \le 2 + \frac{6}{n}.$$
-> 
-> 8. Determine the limit of $\dfrac{t_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ when $n$ tends to $+\infty$.
-> 
-> Part 3: Return to the general case.
-> 
-> 9. Let $a$ be a real positive or null. Is the sequence $(u_a)$ associated with $a$ convergent?
-> 
-> 10. Determine the limit of $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ when $n$ tends to $+\infty$.
+>
+> 8. Déterminer la limite de $\dfrac{t_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quand $n$ tend vers $+\infty$.
+>
+> **Partie 3 : Retour au cas général**
+>
+> 9. Soit $\alpha$ un réel positif ou nul. La suite $(u_n)$ associée à $\alpha$ est-elle convergente ?
+>
+> 10. Déterminer la limite de $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quand $n$ tend vers $+\infty$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
@@ -60,45 +59,101 @@ level: Concours Général
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1cSoVwqMLgL0IF4BNA5JRS_DbCgZRxy/view)
 
-> [!warning] Estratto/tradotto da verificare con la fonte.
-
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza ricorrentemente definita u_{n+1}=1/(n+1)+sqrt(u_n): positività, monotonicità, convergenza e assimptotica*
+*Successione $u_{n+1}=\frac{1}{n+1}+\sqrt{u_n}$: positività, monotonia, convergenza e asintotica*
 
-> Problema 1: studio di una sequenza.
-> 
-> Per ogni $a \ge 0$ reale, si chiama $u_a$ la sequenza associata a $a$, definita da $u_0 = a$ e $$u_{n+1} = \frac{1}{n+1} + \sqrt{u_n} \quad \text{for every integer } n \ge 0.$$
-> 
-> Parte 1: Generalità.
-> 
-> 1. Che il $a$ sia un reale rigorosamente positivo. Indicare che la sequenza $(u_a)$ associata a $a$ verifica $u_n \ge 0$ per ogni numero intero $n \ge 0$.
-> 
-> 2. Che $a$ e $b$ siano due valori reali strettamente positivi, tali da $a \le b$. Nota con $(u_n)$ la sequenza $u_a$ associata a $a$ e con $(v_n)$ la sequenza $u_b$ associata a $b$. Indicare che $u_n \le v_n$ per ogni numero intero $n \ge 0$.
-> 
-> 3. Una nota $(w_a)$ la sequenza associata a $0$. Indicare che $w_n \ge 1$ per ogni numero intero $n \ge 1$.
-> 
-> 4. Lasciate che $a$ e $b$ siano due valori rigorosamente positivi. Indicare che la sequenza $(u_a)$ associata a $a$ e la sequenza $(u_b)$ associata a $b$ convergono verso uno stesso $\ell$ reale. Determinare il valore di $\ell$.
-> 
-> 5. Che il $a$ sia un reale tale che $a = \dfrac{1 + \sqrt{5}}{2}$. giustificare che la sequenza $u_a$ è strettamente in diminuzione. (Non sarà necessario dimostrare che si sta riducendo strettamente.)
-> 
-> Parte 2: Un caso particolare.
-> 
-> In tutta questa parte, si definisce la sequenza $(t_n)$ da $$t_n = n(t_n - 1) \quad \text{for every integer } n \ge 0$$ (come trascritto dalla fonte).
-> 
-> 6. Mostra che per ogni numero intero $n \ge 1$, l'incadramento $$1 + \frac{2}{n} \le t_n \le 1 + \frac{3}{n}.$$
-> 
-> 7. Mostra che per ogni numero intero $n \ge 1$, l'incadramento $$2 \le s_n \le 2 + \frac{6}{n}.$$
-> 
+> **Problema 1: studio di una successione**
+>
+> Per ogni reale $\alpha \ge 0$, si chiama successione associata a $\alpha$ la successione $(u_n)$ definita da $u_0 = \alpha$ e
+> $$u_{n+1} = \frac{1}{n+1} + \sqrt{u_n}$$
+> per ogni intero $n \ge 0$.
+>
+> **Parte 1: Generalità**
+>
+> 1. Sia $\alpha$ un reale positivo. Dimostrare che la successione $(u_n)$ associata a $\alpha$ verifica $u_n \ge 0$ per ogni intero $n \ge 0$.
+>
+> 2. Siano $\alpha$ e $\beta$ reali tali che $0 \le \alpha \le \beta$. Si indichi con $(u_n)$ la successione associata a $\alpha$ e con $(v_n)$ quella associata a $\beta$. Dimostrare che $u_n \le v_n$ per ogni intero $n \ge 0$.
+>
+> 3. Si indichi con $(w_n)$ la successione associata a $0$. Dimostrare che $w_n \ge 1$ per ogni intero $n \ge 1$.
+>
+> 4. Sia $\alpha$ un reale non negativo. Si supponga che la successione $(u_n)$ associata a $\alpha$ converga a un reale $\ell$. Determinare $\ell$.
+>
+> 5. Sia $\alpha$ un reale tale che $\alpha > \dfrac{3+\sqrt{5}}{2}$. Giustificare che la successione associata a $\alpha$ è strettamente decrescente. Che cosa se ne deduce sulla convergenza?
+>
+> **Parte 2: Un caso particolare**
+>
+> In questa parte $(t_n)$ è la successione associata a $4$, e $s_n = n(t_n - 1)$ per ogni intero $n \ge 0$.
+>
+> 6. Dimostrare che, per ogni intero $n \ge 1$,
+> $$1 + \frac{2}{n} \le t_n \le 1 + \frac{3}{n}.$$
+>
+> 7. Dimostrare che, per ogni intero $n \ge 1$,
+> $$2 \le s_n \le 2 + \frac{6}{n}.$$
+>
 > 8. Determinare il limite di $\dfrac{t_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quando $n$ tende a $+\infty$.
-> 
-> Parte 3: Ritorno al caso generale.
-> 
-> 9. Lasciate che $a$ sia un vero positivo o nullo. La sequenza $(u_a)$ è associata a $a$ convergente?
-> 
+>
+> **Parte 3: Ritorno al caso generale**
+>
+> 9. Sia $\alpha$ un reale non negativo. La successione $(u_n)$ associata a $\alpha$ è convergente?
+>
 > 10. Determinare il limite di $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quando $n$ tende a $+\infty$.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_cgen_2024#q01|src_cgen_2024__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence $u_{n+1}=\frac{1}{n+1}+\sqrt{u_n}$: positivity, monotonicity, convergence and asymptotics*
+
+> **Problem 1: study of a sequence**
+>
+> For every real number $\alpha \ge 0$, the sequence associated with $\alpha$ is the sequence $(u_n)$ defined by $u_0 = \alpha$ and
+> $$u_{n+1} = \frac{1}{n+1} + \sqrt{u_n}$$
+> for every integer $n \ge 0$.
+>
+> **Part 1: Generalities**
+>
+> 1. Let $\alpha$ be a positive real number. Prove that the sequence $(u_n)$ associated with $\alpha$ satisfies $u_n \ge 0$ for every integer $n \ge 0$.
+>
+> 2. Let $\alpha$ and $\beta$ be real numbers such that $0 \le \alpha \le \beta$. Denote by $(u_n)$ the sequence associated with $\alpha$ and by $(v_n)$ the sequence associated with $\beta$. Prove that $u_n \le v_n$ for every integer $n \ge 0$.
+>
+> 3. Denote by $(w_n)$ the sequence associated with $0$. Prove that $w_n \ge 1$ for every integer $n \ge 1$.
+>
+> 4. Let $\alpha$ be a nonnegative real number. Suppose that the sequence $(u_n)$ associated with $\alpha$ converges to a real number $\ell$. Determine $\ell$.
+>
+> 5. Let $\alpha$ be a real number such that $\alpha > \dfrac{3+\sqrt{5}}{2}$. Justify that the sequence associated with $\alpha$ is strictly decreasing. What can be deduced about convergence?
+>
+> **Part 2: A particular case**
+>
+> In this part, $(t_n)$ is the sequence associated with $4$, and $s_n = n(t_n - 1)$ for every integer $n \ge 0$.
+>
+> 6. Prove that, for every integer $n \ge 1$,
+> $$1 + \frac{2}{n} \le t_n \le 1 + \frac{3}{n}.$$
+>
+> 7. Prove that, for every integer $n \ge 1$,
+> $$2 \le s_n \le 2 + \frac{6}{n}.$$
+>
+> 8. Determine the limit of $\dfrac{t_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ as $n$ tends to $+\infty$.
+>
+> **Part 3: Back to the general case**
+>
+> 9. Let $\alpha$ be a nonnegative real number. Does the sequence $(u_n)$ associated with $\alpha$ converge?
+>
+> 10. Determine the limit of $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ as $n$ tends to $+\infty$.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_induzione|Induction]], [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading]], [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_cgen_2024#q01|src_cgen_2024__Q01]]
 
 
 
@@ -224,6 +279,8 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > Evariste, un'amica di Sophie e Germain, decide di dare loro un pacchetto di caramelle se giocano un'ultima partita (sempre alle stesse condizioni) e se, alla fine di questa partita, Sophie trova la scatola giusta. Germain ha l'obbligo di mettere il pacchetto in una scatola a caso, senza avere il diritto di comunicare a Sophie la scatola in cui ha messo il pacchetto. Prima di iniziare questo gioco finale, Sophie e Germain possono concordare una strategia comune?
 > 
 > 9. Per quali valori di $n \ge 3$ possono Sophie e Germain ideare una strategia comune che assicuri che Sophie trovi la scatola con il pacchetto?
+
+[[Quesiti/src_cgen_2024#q02|src_cgen_2024__Q02]]
 
 
 
@@ -420,3 +477,5 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 20. Dimostrare che la proprietà $\mathbf{P}_\cup$ è soddisfatta se e solo se $\max\{\alpha\,;\beta\} = 1$, o $\alpha$ e $\beta$ sono due numeri irrazionali strettamente inferiori a $1$ per i quali esistono due integri $u \ge 1$ e $v \ge 1$ tali da $u(1-\alpha) + v(1-\beta) = 1$.
 > 
 > 21. Esistono tre valori rigorosamente positivi $\alpha$, $\beta$ e $\gamma$ per i quali gli insiemi $\mathcal{E}(\alpha)$, $\mathcal{E}(\beta)$ e $\mathcal{E}(\gamma)$ sono disconnessi in coppia?
+
+[[Quesiti/src_cgen_2024#q03|src_cgen_2024__Q03]]

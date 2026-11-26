@@ -31,9 +31,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pigeonhole sulle vendite di biglietti per molte destinazioni*
+*Inquadramento delle vendite dei biglietti per molte destinazioni*
 
-> Un ufficio di prenotazione di una stazione ferroviaria vende biglietti per 200 destinazioni. Un giorno furono rilasciati biglietti a 3.800 passeggeri. Indicare che i) ci sono (almeno) 6 destinazioni in cui i numeri di arrivo dei passeggeri sono gli stessi; ii) la dichiarazione diventa falsa se "6" viene sostituito da "7".
+> Una biglietteria presso una stazione ferroviaria vende biglietti per 200 destinazioni. Un giorno sono stati emessi biglietti per 3800 passeggeri. Dimostrare che (i) esistono (almeno) 6 destinazioni in cui il numero di passeggeri arrivati è lo stesso; (ii) l'affermazione diventa falsa se '6' viene sostituito con '7'.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1997-98_round2#q01|src_bmo_1997-98_round2__Q01]]
 
 
 
@@ -58,11 +65,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due circoncircoli di un tocco di configurazione*
+*Due circonferenze circoscritte a una configurazione sono tangenti*
 
-> Un triangolo $ABC$ ha $\angle BAC > \angle BCA$. Una linea $AP$ è disegnata in modo che $\angle PAC = \angle BCA$, dove $P$ è all'interno del triangolo. Un punto $Q$ al di fuori del triangolo è costruito in modo che $PQ$ sia parallelo a $AB$ e $BQ$ sia parallelo a $AC$. $R$ è il punto su $BC$ (separato da $Q$ dalla riga $AP$) tale che $\angle PRQ = \angle BCA$.
-> 
-> Dimostrare che il circoncircolo di $ABC$ tocca il circoncircolo di $PQR$.
+> Un triangolo $ABC$ ha $\angle BAC > \angle BCA$. Si traccia una retta $AP$ in modo che $\angle PAC = \angle BCA$, dove $P$ è all'interno del triangolo. Si costruisce un punto $Q$ esterno al triangolo in modo che $PQ$ sia parallelo a $AB$, e $BQ$ sia parallelo a $AC$. $R$ è il punto su $BC$ (separato da $Q$ dalla retta $AP$) tale che $\angle PRQ = \angle BCA$.
+>
+> Dimostrare che la circonferenza circoscritta a $ABC$ è tangente alla circonferenza circoscritta a $PQR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1997-98_round2#q02|src_bmo_1997-98_round2__Q02]]
 
 
 
@@ -93,11 +107,20 @@ level: BMO Round 2
 
 *Equazione reciproca: hxyz e h(y-x) sono quadrati perfetti*
 
-> Supponiamo che $x, y, z$ siano integri positivi che soddisfano l'equazione $$\frac{1}{x} - \frac{1}{y} = \frac{1}{z},$$ e che $h$ sia il fattore comune più alto di $x, y, z$.
-> 
-> Prova che $hxyz$ è un quadrato perfetto.
-> 
-> Prova anche che $h(y - x)$ è un quadrato perfetto.
+> Siano $x, y, z$ numeri interi positivi che soddisfano l'equazione
+> $$\frac{1}{x} - \frac{1}{y} = \frac{1}{z},$$
+> e sia $h$ il massimo comune divisore di $x, y, z$.
+>
+> Dimostrare che $hxyz$ è un quadrato perfetto.
+>
+> Dimostrare inoltre che $h(y - x)$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1997-98_round2#q03|src_bmo_1997-98_round2__Q03]]
 
 
 
@@ -125,8 +148,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema simmetrico: trovare soluzione positiva unica*
+*Sistema simmetrico: trovare la soluzione positiva unica*
 
-> Trova una soluzione delle equazioni simultanee $$xy + yz + zx = 12$$ $$xyz = 2 + x + y + z$$ in cui tutte le $x, y, z$ sono positive e prova che è l'unica tale soluzione.
-> 
-> Mostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinte.
+> Trovare una soluzione del sistema di equazioni simultanee
+> $$xy + yz + zx = 12$$
+> $$xyz = 2 + x + y + z$$
+> in cui tutti gli $x, y, z$ sono positivi, e dimostrare che essa è l'unica soluzione di questo tipo.
+>
+> Mostra che esiste una soluzione in cui gli $x, y, z$ sono reali e distinti.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1997-98_round2#q04|src_bmo_1997-98_round2__Q04]]

@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum somma di quadrati sotto restrizione simmetrica cubica*
+*Somma dei quadrati minima sotto vincolo simmetrico cubico*
 
-> Trova il valore minimo di $x^2 + y^2 + z^2$ dove $x, y, z$ sono numeri reali come $x^3 + y^3 + z^3 - 3xyz = 1$.
+> Trovare il valore minimo di $x^2 + y^2 + z^2$, dove $x, y, z$ sono numeri reali tali che $x^3 + y^3 + z^3 - 3xyz = 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2007-08_round2#q01|src_bmo_2007-08_round2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare il rapporto laterale del triangolo dagli angoli incentro-circumcentro*
+*Trovare il rapporto dei lati di un triangolo a partire dagli angoli tra il centro del incentro e il centro della circonferenza circoscritta*
 
-> Il triangolo $ABC$ deve avere il centro $I$ e il circoncentro $O$. Supponiamo che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trova il rapporto $AB : BC : CA$.
+> Sia il triangolo $ABC$ avere incentro $I$ e circocentro $O$. Si supponga che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Determinare il rapporto $AB : BC : CA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2007-08_round2#q02|src_bmo_2007-08_round2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ridurre il cerchio di raggio intero in un massimo di sessanta interrogazioni sul punto interno*
+*Deduci un cerchio a raggio intero in non più di sessanta interrogazioni sui punti interni*
 
-> Adrian ha disegnato un cerchio nel piano $xy$ il cui raggio è un intero positivo. L'origine si trova da qualche parte dentro il cerchio. È consentito fargli domande del tipo "Il punto $(x, y)$ è all'interno del suo cerchio?" Dopo ogni domanda egli risponderà con verità "sì" o "no". Mostrare che è sempre possibile dedurre il raggio del cerchio dopo almeno sessanta domande. [Nota: ogni punto che si trova esattamente sul cerchio può essere considerato situato all'interno del cerchio.]
+> Adrian ha disegnato un cerchio nel piano $xy$, il cui raggio è un numero intero positivo. L'origine si trova da qualche parte all'interno del cerchio. Ti è consentito porgli domande della forma: "Il punto $(x, y)$ si trova all'interno del tuo cerchio?". Dopo ciascuna domanda, egli risponderà in modo veritiero con "sì" o "no". Mostra che è sempre possibile dedurre il raggio del cerchio dopo al massimo sessanta domande. [Nota: Qualsiasi punto che si trovi esattamente sul cerchio può essere considerato come se si trovasse all'interno del cerchio.]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_bmo_2007-08_round2#q03|src_bmo_2007-08_round2__Q03]]
 
 
 
@@ -104,6 +125,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molte diverse coppie di numeri interi con una relazione di divisibilità*
+*Infiniti coppie distinte di interi legate da una relazione di divisibilità*
 
-> Prove che ci sono infinite coppie di integri positivi distinti $x, y$ in modo tale che $x^2 + y^2$ sia divisibile da $x^3 + y^2$.
+> Dimostrare che esistono infiniti coppie di interi positivi distinti $x, y$ tali che $x^2 + y^2$ è divisibile per $x^3 + y^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2007-08_round2#q04|src_bmo_2007-08_round2__Q04]]

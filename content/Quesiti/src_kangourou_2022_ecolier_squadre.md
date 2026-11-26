@@ -31,11 +31,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 4-digit ABAB numbers with A≠B*
+*How many four-digit numbers are of the form ABAB, with digit A different from digit B?*
 
-> ABAB Numbers How many four-digit numbers are ABAB-shaped, with the digit A different from the digit B?
+> The numbers ABAB
+>
+> How many four-digit numbers are of the form ABAB, with digit A different from digit B?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0081
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q01|src_kangourou_2022_ecolier_squadre__Q01]]
 
 
 
@@ -60,13 +67,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of 2022 times the number made of 1011 ones*
+*What is the sum of the digits of the result?*
 
-> 1011 times the digit 1 
-> The number 2022 is multiplied by the number consisting of 1011 times the digit 1. What is the sum 
-> of the digits of the result?
+> 1011 times the digit 1
+>
+> The number 2022 is multiplied by the number made up of the digit 1 repeated 1011 times. What is the sum of the digits of the result?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 6066
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q02|src_kangourou_2022_ecolier_squadre__Q02]]
 
 
 
@@ -93,11 +104,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Time of three brothers, Bruno how many minutes
+*How many minutes did Bruno take from home to grandmother's?*
 
-> Three brothers, Antonio, Bruno, and Carlo, left home together to visit their grandmother. Carlo walked there and spent twice as much time as Bruno, who ran; Bruno spent twice as much time as Antonio, who rode his bicycle. Antonio arrived an hour ahead of Carlo. How many minutes did it take Bruno to be at his grandmother's?
+> To grandmother's
+>
+> Three brothers, Antonio, Bruno and Carlo, set off together from home to go to their grandmother's. Carlo went on foot and took twice as long as Bruno, who went running; Bruno took twice as long as Antonio, who went by bicycle. Antonio arrived one hour before Carlo. How many minutes did Bruno take from home to grandmother's?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0040
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q03|src_kangourou_2022_ecolier_squadre__Q03]]
 
 
 
@@ -126,11 +143,18 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 4 digits moving the first digit to the end*
+*What number had she written at the start?*
 
-> The first digit goes to the end Simona writes an integer number of four digits, then removes its first digit and moves it to the end of the number (for example, if the number written was 1023 it would get 0231). Now Simona sums up the two numbers so obtained and realizes that the number she had written at the beginning is the largest that allows her to have as sum of the two still a four-digit number. What number had she written at the beginning?
+> The first digit goes to the end
+>
+> Simona writes a four-digit integer, then takes its first digit and moves it to the end of the number (for example, if the number written were 1023 she would obtain 0231). Now Simona adds the two numbers thus obtained and realises that the number she had written at the start is the largest that lets her have, as the sum of the two, still a four-digit number. What number had she written at the start?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9090
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q04|src_kangourou_2022_ecolier_squadre__Q04]]
 
 
 
@@ -156,11 +180,18 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of three-digit numbers with numerical conditions*
+*What is the sum of all the numbers Sandro wrote?*
 
-> Sandro wrote all the three-digit numbers such that the number of tens is twice that of the units and the sum of the three digits is divisible by 6. What is the sum of all the numbers Sandro wrote?
+> Sandro's numbers
+>
+> Sandro wrote all the three-digit numbers such that the tens digit is twice the units digit and the sum of the three digits is divisible by 6. What is the sum of all the numbers Sandro wrote?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4494
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q05|src_kangourou_2022_ecolier_squadre__Q05]]
 
 
 
@@ -188,13 +219,19 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many equivalent varnishable squares*
+*How many complete little squares could he have painted?*
 
 ![[src_kangourou_2022_ecolier_squadre__prob6.png]]
 
-> Sergio the painter Sergio has painted the part of the square you see in the figure in gray, which is divided into 36 squares. With the same amount of paint, how many complete squares could he have painted?
+> Sergio the painter
+>
+> Sergio painted grey the part of the square you see in the picture, which is divided into 36 little squares. With the same amount of paint, how many complete little squares could he have painted?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0018
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q06|src_kangourou_2022_ecolier_squadre__Q06]]
 
 
 
@@ -226,13 +263,18 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time interval with the same digits >9*
+*How many minutes long is the smallest possible time interval, in absolute terms, that is greater than 9?*
 
-> A digital clock displays the time in an AB:CD format, from 00:00 to 23:59. If 10:01 is just struck, wait 9 minutes before the time shown is composed of the same digits, in a different order, and 9 minutes is absolutely the minimum time interval possible for this to happen (e.g. between 10:05 and the next time composed of the same digits, i.e. 10:50, the interval is 45 minutes, between 00:10 and 01:00 is 50 minutes). How many minutes is the smallest possible time interval ever greater than 9?
-> 
-> 2
+> The clock
+>
+> A digital clock shows the time in a format of the type AB:CD, from 00:00 to 23:59. If 10:01 has just struck, one must wait 9 minutes before the time shown is made up of the same digits, in a different order, and 9 minutes is absolutely the smallest possible time interval for this to happen (for example, between 10:05 and the first later time made up of the same digits, namely 10:50, the interval is 45 minutes; between 00:10 and 01:00 it is 50 minutes). How many minutes long is the smallest possible time interval, in absolute terms, that is greater than 9?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0014
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q07|src_kangourou_2022_ecolier_squadre__Q07]]
 
 
 
@@ -277,28 +319,19 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total points when internal are 36*
+*How many dots will there be in all?*
 
 ![[src_kangourou_2022_ecolier_squadre__prob8.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \foreach \x/\y in {
-    0/0,
-    -0.5/1, 0.5/1,
-    -1/2, 0/2, 1/2,
-    -1.5/3, -0.5/3, 0.5/3, 1.5/3
-  } {
-    \fill (\x,\y) circle (4pt);
-  }
-\end{tikzpicture}
-\end{document}
-```
+> The dots
+>
+> In the picture you see 10 dots arranged like this: 1 in the first row, 2 in the second, 3 in the third and 4 in the fourth. Only one dot is inside; the other 9 are on the border. Increasing the rows of the figure and following the same rule (each next row one more dot), when the dots inside are 36, how many dots will there be in all?
 
-> In the figure you see 10 dots arranged like this: 1 in the first row, 2 in the second, 3 in the third and 4 in the fourth. Only one dot is inside, the other nine are on the edge. By increasing the rows in the figure and following the same criterion (each next row one more dot), when the dots inside will be 36, how many dots will be in total?
-
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0066
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q08|src_kangourou_2022_ecolier_squadre__Q08]]
 
 
 
@@ -324,11 +357,17 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference in number on mirror and wall*
+*What result do you get?*
 
-> The mirror On a wall the number  appears and in front of the wall there is a mirror. By reading the number visible in the mirror and calculating the difference with the number visible on the wall, what is the result?
+> The mirror
+>
+> On a wall appears the number, and opposite the wall there is a mirror. Reading the number visible in the mirror and calculating the difference from the one visible on the wall, what result do you get?
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3483
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q09|src_kangourou_2022_ecolier_squadre__Q09]]
 
 
 
@@ -354,11 +393,17 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digits swapped in the dividend, minimum number*
+*What is the smallest four-digit number that can be written using both of the digits that were swapped, and only them?*
 
-> The 5-digit quotient The quotient of division of 952,164 by 18 is a 5-digit Q number. You just have to swap two digits of the dividend so that the quotient in division by 18 decreases by 1,500. What is the smallest four-digit number that you can write using both the digits that have been swapped and only them?
+> The 5-digit quotient
+>
+> The quotient of the division of 952.164 by 18 is a 5-digit number Q. It is enough to swap two digits of the dividend for the quotient in the division by 18 to decrease by 1.500. What is the smallest four-digit number that can be written using both of the digits that were swapped, and only them?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2225
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q10|src_kangourou_2022_ecolier_squadre__Q10]]
 
 
 
@@ -389,15 +434,24 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cryptarithmetic subtraction, sum of digits of letters*
+*What is the sum of all the digits that letters stand for in the operation?*
 
-> The subtraction In this subtraction, different letters represent different digits:
->  
-> 7 Q 2 S T – P 3 R 9 6 = 2 2  2 2 2
->  
-> What is the sum of all the digits that are replaced by letters in the operation?
+> The subtraction
+>
+> In this subtraction different letters stand for different digits:
+>
+> 7 Q 2 S T –
+> P 3 R 9 6 =
+> 2 2  2 2 2
+>
+> What is the sum of all the digits that letters stand for in the operation?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0029
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q11|src_kangourou_2022_ecolier_squadre__Q11]]
 
 
 
@@ -425,11 +479,18 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignments of 1..9 with order constraints*
+*In how many ways can we do it?*
 
-> The alignments We want to align all the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 so that they don't all appear in this order, but that anyway 1 precedes 2, 2 precedes 3, 3 precedes 4, 4 precedes 5, 5 precedes 6 and 6 precedes 7. How many ways can we do this? Attention: 1 must be before 2 but there could be other numbers between the two; the same for 2 and 3 and so on.
+> The line-ups
+>
+> We want to line up all the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 so that they do not all appear in that order, but so that nevertheless 1 precedes 2, 2 precedes 3, 3 precedes 4, 4 precedes 5, 5 precedes 6 and 6 precedes 7. In how many ways can we do it? Note: 1 must come before 2, but there may be other numbers between the two; the same for 2 and 3, and so on.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0071
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q12|src_kangourou_2022_ecolier_squadre__Q12]]
 
 
 
@@ -455,14 +516,17 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Antonio's euros after transfers to Cristina*
+*How many euros does Antonio have at the moment?*
 
-> Antonio, Biagio and Cristina 
-> Right now Antonio and Cristina have the same number of euros, Biagio has 2,022. If Antonio 
-> and Biagio each gave Cristina half of their own euros, Cristina would triple the number of euros 
-> she has right now. How many euros does Antonio have right now?
+> Antonio, Biagio and Cristina
+>
+> At the moment Antonio and Cristina have the same number of euros, and Biagio has 2.022. If Antonio and Biagio each gave Cristina half of their euros, Cristina would triple the number of euros she has at the moment. How many euros does Antonio have at the moment?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0674
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q13|src_kangourou_2022_ecolier_squadre__Q13]]
 
 
 
@@ -489,11 +553,18 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum coin in the third of 6 bags*
+*How many coins can there be, at most, in the third bag?*
 
-> 1,000 coins for 6 bags 1,000 coins are distributed in 6 bags. Each bag contains at least one coin. The first contains three times the coins of the second which in turn contains twice the coins of the third. How many coins can there be in the third bag at most?
+> 1.000 coins for 6 bags
+>
+> 1.000 coins are distributed in 6 bags. Each bag contains at least one coin. The first contains three times the coins of the second, which in turn contains twice the coins of the third. How many coins can there be, at most, in the third bag?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0110
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q14|src_kangourou_2022_ecolier_squadre__Q14]]
 
 
 
@@ -526,14 +597,15 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of writing 40 as two odd and an even*
+*In how many different ways can the number 40 be written as a sum of two odd integers and one even integer?*
 
-> The sums that give 40 How many different ways can the number 40 be written as the sum of two odd integers and one even? (Note: the number 0 should not be considered as an addend and two sums in which the addends are the same but in different order, should be considered as a single way.)
->  
-> 
-> 3
->  
->  
-> Questions and solutions
+> The sums that give 40
+>
+> In how many different ways can the number 40 be written as a sum of two odd integers and one even integer? (Note: the number 0 is not to be considered as an addend, and two sums whose addends are the same, but in a different order, are to be counted as one way only.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0100
+[[Quesiti/src_kangourou_2022_ecolier_squadre#q15|src_kangourou_2022_ecolier_squadre__Q15]]

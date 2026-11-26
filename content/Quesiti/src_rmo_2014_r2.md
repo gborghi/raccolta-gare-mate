@@ -28,9 +28,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I bisettieri perpendicolari dei lati si incontrano al centro del triangolo BXY*
+*Le mediatrici dei lati si incontrano nel centro incircoscritto del triangolo BXY*
 
-> In un triangolo a angolo acuto $ABC$, $\angle ABC$ è l'angolo più grande. I bisettori perpendicolari di $BC$ e $BA$ si incrociano rispettivamente a $X$ e $Y$. Prova che il circoncentro del triangolo $ABC$ è il centro del triangolo $BXY$.
+> In un triangolo acutangolo $ABC$, $\angle ABC$ è l'angolo più grande. Le mediatrici di $BC$ e $BA$ intersecano $AC$ rispettivamente in $X$ e in $Y$. Dimostrare che il circocentro del triangolo $ABC$ è l'incentro del triangolo $BXY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r2#q01|src_rmo_2014_r2__Q01]]
 
 
 
@@ -54,9 +60,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei valori reali positivi x, y, z*
+*Dimostrare la disuguaglianza per numeri reali positivi x, y, z*
 
-> Lasciate che $x, y, z$ siano numeri reali positivi. Provare che $$\frac{y^2 + z^2}{x} + \frac{z^2 + x^2}{y} + \frac{x^2 + y^2}{z} \ge 2(x + y + z).$$
+> Siano $x, y, z$ numeri reali positivi. Dimostrare che
+> $$\frac{y^2 + z^2}{x} + \frac{z^2 + x^2}{y} + \frac{x^2 + y^2}{z} \ge 2(x + y + z).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r2#q02|src_rmo_2014_r2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie (x,y) di numeri interi positivi con 2x+7y dividendo 7x+2y*
+*Trovare tutte le coppie (x,y) di interi positivi tali che 2x+7y divida 7x+2y*
 
-> Trova tutte le coppie $(x, y)$ di integri positivi in modo tale che $2x + 7y$ divida $7x + 2y$.
+> Trovare tutte le coppie $(x, y)$ di interi positivi tali che $2x + 7y$ divida $7x + 2y$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r2#q03|src_rmo_2014_r2__Q03]]
 
 
 
@@ -106,9 +127,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa provata delle reciprocità di coppie prime consecutive uguali (n-1)/(2n+2)*
+*Dimostrare che la somma dei reciproci delle coppie di numeri primi consecutivi è uguale a (n-1)/(2n+2)*
 
-> Per qualsiasi numero intero positivo $n > 1$, $P(n)$ indica il primo più grande non superiore a $n$. $N(n)$ indichi il primo successivo più grande di $P(n)$. (ad esempio $P(10) = 7$ e $N(10) = 11$, mentre $P(11) = 11$ e $N(11) = 13$.) Se $n + 1$ è un numero primo, dimostrare che il valore della somma $$\frac{1}{P(2)N(2)} + \frac{1}{P(3)N(3)} + \frac{1}{P(4)N(4)} + \cdots + \frac{1}{P(n)N(n)}$$ è uguale a $\dfrac{n-1}{2(n+2)}$.
+> Per ogni intero positivo $n > 1$, si indichi con $P(n)$ il più grande numero primo non superiore a $n$. Si indichi con $N(n)$ il successivo numero primo maggiore di $P(n)$. (Ad esempio, $P(10) = 7$ e $N(10) = 11$, mentre $P(11) = 11$ e $N(11) = 13$.) Se $n + 1$ è un numero primo, dimostrare che il valore della somma
+> $$\frac{1}{P(2)N(2)} + \frac{1}{P(3)N(3)} + \frac{1}{P(4)N(4)} + \cdots + \frac{1}{P(n)N(n)}$$
+> uguale a $\dfrac{n-1}{2(n+2)}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r2#q04|src_rmo_2014_r2__Q04]]
 
 
 
@@ -132,11 +162,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con AB>AC: punto sulla linea AB oltre A, prova BQ=2AP*
+*Triangolo con AB>AC: punto sulla retta AB oltre A, dimostrare che BQ=2AP*
 
-> Che $ABC$ sia un triangolo con $AB > AC$. Il $P$ deve essere un punto della linea $AB$ al di là di $A$ in modo tale che $AP + PC = AB$. Il $M$ deve essere il punto medio di $BC$ e il $Q$ deve essere il punto sul lato $AB$ in modo tale che $CM \perp QM$. Prova che $BQ = 2AP$.
+> Sia $ABC$ un triangolo con $AB > AC$. Sia $P$ un punto sulla retta $AB$, al di là di $A$, tale che $AP + PC = AB$. Sia $M$ il punto medio di $BC$ e sia $Q$ il punto sul lato $AB$ tale che $CM \perp QM$. Dimostrare che $BQ = 2AP$.
 
 ![[src_rmo_2014_r2__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r2#q05|src_rmo_2014_r2__Q05]]
 
 
 
@@ -160,6 +196,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Odd n: la somma dei prodotti delle righe e dei prodotti delle colonne nella griglia n×n non è zero*
+*n dispari: la somma dei prodotti delle righe e dei prodotti delle colonne in una griglia n×n è diversa da zero*
 
-> Supponiamo che $n$ sia pari e ogni quadrato di una griglia $n \times n$ sia arbitrariamente riempito con $1$ o $-1$. $r_j$ e $c_k$ indichino il prodotto di tutti i numeri rispettivamente nella riga $j$ e nella colonna $k$, $1 \le j, k \le n$. Provare che $$\sum_{j=1}^{n} r_j + \sum_{k=1}^{n} c_k \ne 0.$$
+> Supponiamo che $n$ sia dispari e che ogni casella di una griglia $n \times n$ sia riempita arbitrariamente con $1$ o $-1$. Siano $r_j$ e $c_k$ il prodotto di tutti i numeri presenti rispettivamente nella riga $j$ e nella colonna $k$, $1 \le j, k \le n$. Dimostrare che
+> $$\sum_{j=1}^{n} r_j + \sum_{k=1}^{n} c_k \ne 0.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r2#q06|src_rmo_2014_r2__Q06]]

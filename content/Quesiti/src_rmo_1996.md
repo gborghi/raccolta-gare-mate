@@ -29,9 +29,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati integri consecutivi e raggio 4; ritrovare il raggio circundato*
+*Triangolo di lati tre interi consecutivi e raggio inscritto 4: raggio circoscritto*
 
-> I lati di un triangolo sono tre numeri interi consecutivi e il suo raggio è di quattro unità. Determina il circondario.
+> I lati di un triangolo sono tre interi consecutivi e il raggio della circonferenza inscritta è 4. Determinare il raggio della circonferenza circoscritta.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1996#q01|src_rmo_1996__Q01]]
 
 
 
@@ -55,9 +61,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli numeri interi positivi (a,b,c) che soddisfano un'equazione prodotto dalle frazioni*
+*Terne di interi positivi con (1 + 1/a)(1 + 1/b)(1 + 1/c) = 3*
 
-> Trovare tutti i triples $(a, b, c)$ di numeri interi positivi in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 3.$$
+> Trovare tutte le terne $(a, b, c)$ di interi positivi tali che
+>
+> $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 3.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_1996#q02|src_rmo_1996__Q02]]
 
 
 
@@ -82,9 +96,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un sistema di due equazioni polinomiche in x e y reali*
+*Sistema di due equazioni nei reali x e y*
 
-> Risolvere per i numeri reali $x$ e $y$: $$xy^2 = 15x^2 + 17xy + 15y^2$$ $$x^2 y = 20x^2 + 3y^2.$$
+> Risolvere nelle incognite reali $x$ e $y$:
+>
+> $$xy^2 = 15x^2 + 17xy + 15y^2$$
+>
+> $$x^2 y = 20x^2 + 3y^2.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1996#q03|src_rmo_1996__Q03]]
 
 
 
@@ -111,11 +135,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numero a cifre n con cifre distinte e ogni 3 cifre consecutive divisibili per 5*
+*Intero di n cifre distinte, somma di tre consecutive divisibile per 5: n è al più 6, e di sei cifre se ne trovano partendo da qualunque cifra*
 
-> Supponiamo che $N$ sia un numero intero positivo di $n$ cifre tale che (a) tutti i cifre $n$ siano distinti; e (b) la somma di qualsiasi tre cifre consecutive sia divisibile per 5.
-> 
-> Provare che $n$ è massimo di 6. Inoltre, mostrare che a partire da qualsiasi cifra si può trovare un numero a sei cifre con queste proprietà.
+> Si supponga che $N$ sia un intero positivo di $n$ cifre tale che (a) tutte le $n$ cifre siano distinte, e (b) la somma di tre cifre consecutive qualsiasi sia divisibile per 5. Dimostrare che $n$ è al più 6. Inoltre, dimostrare che, partendo da una cifra qualsiasi, si può trovare un numero di sei cifre con queste proprietà.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_1996#q04|src_rmo_1996__Q04]]
 
 
 
@@ -140,9 +168,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In triangolo ABC prova $(b+c)^2 \ge a^2 + 4h_a^2$*
+*In un triangolo, (b + c)² ≥ a² + 4 h_a²*
 
-> Che $ABC$ sia un triangolo e $h_a$ l'altitudine attraverso $A$. Prove che $$(b + c)^2 \ge a^2 + 4h_a^2.$$ (Come al solito $a$, $b$, $c$ indicano rispettivamente i lati $BC$, $CA$ e $AB$.)
+> Sia $ABC$ un triangolo e $h_a$ l'altezza per $A$. Dimostrare che
+>
+> $$(b + c)^2 \ge a^2 + 4h_a^2.$$
+>
+> Come di consueto, $a$, $b$, $c$ indicano i lati $BC$, $CA$, $AB$ rispettivamente.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1996#q05|src_rmo_1996__Q05]]
 
 
 
@@ -165,9 +203,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per qualsiasi numero intero positivo n, costruire due razionali non integrali le cui differenze di potenza sono interi*
+*Per ogni n positivo esistono razionali positivi non interi, distinti, tali che a^k − b^k è intero per k da 1 a n*
 
-> Dato qualsiasi numero intero positivo $n$ mostrano che ci sono due numeri razionali positivi $a$ e $b$, $a \ne b$, che non sono interi e che sono tali che $a - b$, $a^2 - b^2$, $\ldots$, $a^n - b^n$ sono tutti interi.
+> Dato un intero positivo qualsiasi $n$, dimostrare che esistono due numeri razionali positivi $a$ e $b$, $a \ne b$, che non sono interi e tali che $a - b$, $a^2 - b^2$, $\ldots$, $a^n - b^n$ sono tutti interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1996#q06|src_rmo_1996__Q06]]
 
 
 
@@ -190,6 +234,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un sottogruppo di 50 elementi di {1,...,100} senza due elementi che sommano a 100 contiene un quadrato*
+*Sottoinsieme di 50 elementi di {1, …, 100} in cui due numeri non sommano a 100: contiene un quadrato*
 
-> Se $A$ è un sottoinsieme di cinquanta elementi del set $\{1, 2, 3, \ldots, 100\}$ in modo tale che non ci siano due numeri da $A$ sommati fino a 100, indicare che $A$ contiene un quadrato.
+> Se $A$ è un sottoinsieme di cinquanta elementi dell'insieme $\{1, 2, 3, \ldots, 100\}$ tale che due numeri di $A$ non sommano mai a 100, dimostrare che $A$ contiene un quadrato.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1996#q07|src_rmo_1996__Q07]]

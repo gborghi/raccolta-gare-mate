@@ -27,9 +27,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 1000p with at least one shot in 3 attempts*
+*Probability 1000p with at least one hit in three attempts*
 
-> Ludovico is a good shooter and, with every attempt, has a certain chance of hitting the target. Determine the value of $1000p$, knowing that, in three attempts, the probability that Ludovico hits the target at least once is $0{,}992$.
+> Ludovico is a good shooter and, on each attempt, has a certain probability $p$ of hitting the target. Determine the value of $1000p$, knowing that, in three attempts, the probability that Ludovico hits the target at least once is $0{,}992$.
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q01|src_archimede_2026_squadre_gara_cd_rd__Q01]]
 
 
 
@@ -52,9 +56,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of coefficients of degree equal to (3-2x-3x^2)^21*
+*Sum of the coefficients of even-degree terms of (3-2x-3x^2)^21*
 
-> Given the positive integer $n$, we call $P_n(x) = (3 - 2x - 3x^2)^n$ the polynomial and with $G_n$ the sum of all the coefficients of the degree terms equal to $P_n(x)$, including the known term. For example, $P_2(x) = (3 - 2x - 3x^2)^2 = 9 - 12x - 14x^2 + 12x^3 + 9x^4$ and $G_2 = 9 - 14 + 9 = 4$. Determine the value of $G_{21}$.
+> Given a positive integer $n$, call $P_n(x) = (3 - 2x - 3x^2)^n$ the polynomial and $G_n$ the sum of all the coefficients of the even-degree terms of $P_n(x)$, including the constant term. For example, $P_2(x) = (3 - 2x - 3x^2)^2 = 9 - 12x - 14x^2 + 12x^3 + 9x^4$ and $G_2 = 9 - 14 + 9 = 4$. Determine the value of $G_{21}$.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q02|src_archimede_2026_squadre_gara_cd_rd__Q02]]
 
 
 
@@ -76,9 +86,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Around area excluding four inner tangent circles*
+*Area of circle excluding four internally tangent circles*
 
-> A $C$ circle of centre $O$ and diameter $AB = 6\text{ cm}$ shall be considered, and the two circles of diameter $AO$ and $OB$ shall be $C_1$ and $C_2$. In addition, $C_3$ and $C_4$ are the two tangent circles to all three of the circles $C$, $C_1$ and $C_2$. Calculate the area of the part of $C$, in $\text{mm}^2$, which does not belong to any of the circles $C_1$, $C_2$, $C_3$, $C_4$.
+> Consider a circle $C$ with centre $O$ and diameter $AB = 6\text{ cm}$, and let $C_1$ and $C_2$ be the two circles with diameters $AO$ and $OB$. Let $C_3$ and $C_4$ be the two circles tangent to all three circles $C$, $C_1$ and $C_2$. Calculate the area of the part of $C$, in $\text{mm}^2$, that does not belong to any of the circles $C_1$, $C_2$, $C_3$, $C_4$.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q03|src_archimede_2026_squadre_gara_cd_rd__Q03]]
 
 
 
@@ -102,7 +117,12 @@ level: squadre
 
 *Minimum value of (x+y)^2 with xy=5*
 
-> They are $x$ and $y$ positive real numbers with $xy = 5$. What is the minimum value that $(x + y)^2$ can take?
+> Let $x$ and $y$ be positive real numbers with $xy = 5$. What is the minimum value that $(x + y)^2$ can take?
+
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q04|src_archimede_2026_squadre_gara_cd_rd__Q04]]
 
 
 
@@ -124,9 +144,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PCQ angle magnification with inscribed circle projection*
+*Angle PCQ with projection of inscribed circle*
 
-> Consider a rectangular triangle $ABC$ and be $PQ$ the projection, on the hypotenuse $AB$, of the circle inscribed in the triangle. Determine the angle width $P\hat{C}Q$.
+> Consider a right triangle $ABC$ and let $PQ$ be the projection, onto the hypotenuse $AB$, of the circle inscribed in the triangle. Determine the measure of the angle $P\hat{C}Q$.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q05|src_archimede_2026_squadre_gara_cd_rd__Q05]]
 
 
 
@@ -149,9 +174,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequences 1,1,2,2,3,3,4,4 with equal pairs of bonds*
+*Sequences 1,1,2,2,3,3,4,4 with the equal-pair constraint*
 
-> How many sequences can all eight digits $1, 1, 2, 2, 3, 3, 4, 4$ be arranged so that, in the middle of each pair of equal digits, no lower value figure appears than those two digits? For example, two of the allowed sequences are $3\;3\;4\;4\;1\;2\;2\;1$ and $1\;2\;4\;4\;2\;1\;3\;3$.
+> How many sequences can all eight digits $1, 1, 2, 2, 3, 3, 4, 4$ be arranged in so that, between each pair of equal digits, no digit of a value smaller than those two digits appears? For example, two of the allowed sequences are $3\;3\;4\;4\;1\;2\;2\;1$ and $1\;2\;4\;4\;2\;1\;3\;3$.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q06|src_archimede_2026_squadre_gara_cd_rd__Q06]]
 
 
 
@@ -173,9 +204,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum n in 1400-1500 with n+2 div 6 and n-5 div 7*
+*Sum of n in 1400-1500 with n+2 divisible by 6 and n-5 divisible by 7*
 
-> Determine the sum of all $n$ numbers between $1400$ and $1500$ such that $n + 2$ is divisible by $6$ and $n - 5$ is divisible by $7$.
+> Determine the sum of all numbers $n$ between $1400$ and $1500$ such that $n + 2$ is divisible by $6$ and $n - 5$ is divisible by $7$.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q07|src_archimede_2026_squadre_gara_cd_rd__Q07]]
 
 
 
@@ -197,9 +233,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of distances between 5 points per segment length 3*
+*Maximum sum of distances between 5 points on a segment of length 3*
 
-> If $5$ points are chosen (not necessarily distinct) over a segment of length $3$, what is the maximum value of the sum of the distances between all possible pairs of points taken between these $5$?
+> If we choose $5$ points (not necessarily distinct) on a segment of length $3$, what can be the maximum value of the sum of the distances between all possible pairs of points taken from these $5$?
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q08|src_archimede_2026_squadre_gara_cd_rd__Q08]]
 
 
 
@@ -222,6 +263,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum x^2 equilateral triangle containing square by rotating*
+*Minimum x^2 equilateral triangle containing rotating square*
 
-> The bearing centre of an equilateral triangle on the side $x$ is impregnated in the centre of a square on the side $1$. Determine the minimum value of $x^2$ so that, by rotating the triangle of $360°$ around the centre, the square always remains entirely contained in the triangle.
+> The centroid of an equilateral triangle of side $x$ is pinned at the center of a square of side $1$. Determine the minimum value of $x^2$ such that, rotating the triangle by $360°$ about the center, the square remains entirely contained in the triangle.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q09|src_archimede_2026_squadre_gara_cd_rd__Q09]]

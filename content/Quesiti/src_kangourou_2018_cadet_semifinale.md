@@ -41,18 +41,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which N value is not possible for chocolates*
+*Which value of N is not possible for the chocolates?*
 
-> (Points 2) A certain N number of chocolates was divided among seven boys so that five of them all had the same number greater than 0, and, of the remaining two, one had twice the other. So N A) can't be 19.
-> 	
+> (Point 2) A certain number N of chocolates was divided among 7 boys so that five of them all received the same number greater than 0, and of the remaining two, one received twice as many as the other. Then N
+> A) cannot be 19.
+>
 > B) cannot be 20.
-> 	
-> 	
-> (c) it cannot be 21. D) it cannot be 22.
-> 	
-> E) can be any of the previous numbers.
+>
+>
+> C) cannot be 21.
+> D) cannot be 22.
+>
+> E) can be any of the preceding numbers.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q01|src_kangourou_2018_cadet_semifinale__Q01]]
 
 
 
@@ -88,17 +95,23 @@ level: kangourou
 
 *First digit of the smallest modern number*
 
-> (Points 3) A positive integer is said to be modern if the sum of its digits is 2018. What is the first digit of the smallest modern number? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> (Point 3) A positive integer is called modern if the sum of its digits is 2018. What is the first digit of the smallest modern number?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 9
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q02|src_kangourou_2018_cadet_semifinale__Q02]]
 
 
 
@@ -140,21 +153,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum amount with four coupons*
+*Minimum amount with the four vouchers*
 
-> (Points 3) A shop delivers four coupons to each customer who enters: the customer can use some or all of them, at his choice, in succession and in the order he prefers to buy an item. On the first coupon it says: Pay the square root of the price if the price in euro is a perfect square. On the second it says: You have a discount of 2 euros. On the third it says: Pay 1 euro more than the price. On the fourth it reads: Pay half the price if this is an entire euro. You come in to buy an item that costs 15 euros. What's the lowest amount you can get by paying? A) two euros.
-> 	
-> 	
-> 	
-> B) Less than 2 but more than 1 euro.
-> 	
+> (Point 3) A store gives 4 coupons to each customer who enters: the customer may use some or all of them, at their discretion, in succession and in whatever order they prefer, to buy an item. The first coupon reads: "Pay the square root of the price if the price in euros is a perfect square." The second reads: "You get a discount of 2 euros." The third reads: "Pay 1 euro more than the price." The fourth reads: "Pay half the price if the price is a whole number of euros." You come in to buy an item that costs 15 euros. You come in to buy an item that costs 15 euros. What is the lowest amount you can pay to get it?
+> A) 2 euros.
+>
+>
+>
+> B) Less than 2 euros, but more than 1 euro.
+>
 > C) 1 euro.
-> 	
-> 	
-> 	
-> D) 0 euro (you can have it for free). E) Less than 1 euro but not 0.
+>
+>
+>
+> D) 0 euros (you can have it for free).
+> E) Less than 1 euro, but not 0.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q03|src_kangourou_2018_cadet_semifinale__Q03]]
 
 
 
@@ -186,13 +206,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White fraction in the triangle figure*
+*Fraction that remained white in the figure of triangles*
 
 ![[src_kangourou_2018_cadet_semifinale__prob4.png]]
 
-> The segment shown in the figure is divided into 6 segments of equal length. All the triangles that appear in the figure are equilateral. What fraction of the whole figure (including the white part inside) remained white? A) 1/3 B) 2/9 C) 5/21 D) 6/25 E) 7/27
+> (Point 4) The segment shown in the figure is divided into 6 segments of equal length. All the triangles shown in the figure are equilateral. What fraction of the entire figure (including the internal white part) remains white?
+> A) 1/3	
+> B) 2/9		
+> C) 5/21	
+> D) 6/25	
+> E) 7/27
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q04|src_kangourou_2018_cadet_semifinale__Q04]]
 
 
 
@@ -222,13 +251,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between Aldo and Bruno at the finish*
+*Distance between Aldo and Bruno at the finish line*
 
-> Aldo and Bruno compete on a 1000-meter course (starting at the same moment and point) and each runs at a constant speed. When Aldo is 100 metres from the finish, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in metres) that separates Aldo from Bruno when Aldo crosses the finish line? A) 111            B) 114           C) 115
-> 	
-> D) 120 E) 122
+> (Point 4) Aldo and Bruno are racing on a 1000-metre course (starting at the same instant and from the same point), and each runs at a constant speed. When Aldo is 100 metres from the finish line, Bruno is 200 metres from it. Which of the following numbers is closest to the distance (in metres) between Aldo and Bruno when Aldo crosses the finish line?
+> A) 111            B) 114           C) 115	
+>
+> D) 120		
+> E) 122
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q05|src_kangourou_2018_cadet_semifinale__Q05]]
 
 
 
@@ -276,7 +311,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area common region in rectangle and circle*
+*Area common to a rectangle and a circle*
 
 ![[src_kangourou_2018_cadet_semifinale__prob6.png]]
 
@@ -293,11 +328,20 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 4) In the figure you see a rectangle 6 × 12 and a circle. The centre is the same for both figures and the short sides of the rectangle are tangent to the circle. What is the area of the region shared by both, which is shaded in the figure? A) 24π - 3√3 B) 24π + 18√3
-> 	
-> C) 12π + 18√3 D) 18π - 8√3 E) 18π + 12√3
+> (Points 4) In the figure, you see a 6 × 12 rectangle and a circle. The two figures share the same center, and the short sides of the rectangle are tangent to the circle. What is the area of the region common to both, which is shaded in the figure?
+> A) 24π - 3√3       	
+> B) 24π + 18√3 	
+>
+> C) 12π + 18√3   
+> D) 18π - 8√3 		
+> E) 18π + 12√3
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q06|src_kangourou_2018_cadet_semifinale__Q06]]
 
 
 
@@ -326,11 +370,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number as sum of three and of four consecutive*
+*The sum of three and four consecutive numbers*
 
-> (Points 5) Which of the following numbers is both the sum of three consecutive integers and the sum of four consecutive integers? A) 20182018 B) 20192019 C) 20202020 D) 20212021	          E) 20222022
+> (Question 5) Which of the following numbers is both the sum of three consecutive integers and the sum of four consecutive integers?
+> A) 20182018	 	
+> B) 20192019	 	
+> C) 20202020	 	
+> D) 20212021	          E) 20222022
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q07|src_kangourou_2018_cadet_semifinale__Q07]]
 
 
 
@@ -355,11 +408,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is a multiple of 11*
+*Which number is a multiple of 11?*
 
-> (Points 5) Which of the following numbers is a multiple of 11? A) 102018 + 11           B) 102018 + 111     C) 102018 + 1111           D) 102018 + 2111      E) 102018 + 3111
+> (Point 5) Which of the following numbers is a multiple of 11?
+> A) 102018 + 11           B) 102018 + 111     C) 102018 + 1111           D) 102018 + 2111      E) 102018 + 3111
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q08|src_kangourou_2018_cadet_semifinale__Q08]]
 
 
 
@@ -400,25 +459,31 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side image of the cylinder monument*
+*Side view of the cylinder monument*
 
 ![[src_kangourou_2018_cadet_semifinale__prob9.png]]
 
-> (Points 6) A monument is obtained by overlapping 4 straight circular cylinders of the same height. The volume of each cylinder (except the base) is half the volume of the cylinder on which it rests. Which of the following can be a lateral image of the monument? A)
-> 	
-> 	
-> B)
->  	
-> 	
-> C)
-> 	
-> 	
-> D)
-> 	
-> 	
-> (e) Open-ended questions
+> (Point 6) A monument is formed by stacking 4 right circular cylinders of the same height. The volume of each cylinder (except the base one) is half the volume of the cylinder it rests on. Which of the following could be a side view of the monument?
+> A) 	
+>
+>
+> B) 	
+>
+>
+> C) 	
+>
+>
+> D)	
+>
+>
+> E) 
+> Open-ended questions
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q09|src_kangourou_2018_cadet_semifinale__Q09]]
 
 
 
@@ -446,9 +511,14 @@ level: kangourou
 
 *Last 4 digits of the maximum sum with product 10^10*
 
-> (Points 4) The product of 10 positive integers (not necessarily different from each other) is 10^10. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
+> (Point 4) The product of 10 positive integers (not necessarily distinct) is 1010. Let M be the maximum possible value of the sum of these 10 numbers; what are the last 4 digits of M?
 
-**Answer:** 0009
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q10|src_kangourou_2018_cadet_semifinale__Q10]]
 
 
 
@@ -498,7 +568,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lengths of the sixth stick for an equilateral triangle*
+*Lengths of the sixth strip for an equilateral triangle*
 
 ![[src_kangourou_2018_cadet_semifinale__prob11.png]]
 
@@ -522,9 +592,14 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 5) Cinzia has 5 sticks 2, 3, 4, 5 and 6 centimeters long and can choose the length of a sixth stick so as to form, using all six, an equilateral triangle. How many different lengths can the sixth stick have? (The figure shows you how you can build the triangle with a sixth stick 4 cm long, and this is one of the possible lengths.)
+> (Points 5) Cinzia has 5 sticks with lengths 2, 3, 4, 5, and 6 centimeters, and she can choose the length of a sixth stick so that, by using all six sticks, she can form an equilateral triangle. How many different lengths can the sixth stick have? (The figure shows how the triangle can be constructed with a sixth stick 4 cm long, and this is one of the possible lengths.)
 
-**Answer:** 0004
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q11|src_kangourou_2018_cadet_semifinale__Q11]]
 
 
 
@@ -552,11 +627,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum apples for equal baskets after bartering*
+*Minimum honey for equal baskets after swaps*
 
-> At the market, fruit can be bartered according to the following rule: 4 apples are worth 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows her to carry out her plan?
+> (Point 5) At the market, fruits can be bartered according to the following rule: 4 apples are equivalent in value to 3 oranges or 2 bananas. Naturally, fruits cannot be split. Anna has only apples and wants to give each of her 5 friends the same gift: a basket containing the same number of apples, oranges, and bananas (at least one fruit of each type). What is the minimum number of apples that, after appropriate exchanges at the market, will enable her to carry out her plan?
 
-**Answer:** 0023
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q12|src_kangourou_2018_cadet_semifinale__Q12]]
 
 
 
@@ -582,11 +662,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of products of digits from 1 to 99*
+*Sum of the products of the digits from 1 to 99*
 
-> (Points 6) For every natural number between 1 and 99 included, the product of its digits (which coincides with the number itself if the number is a single digit) is calculated. All the products thus obtained are then added. What is the result?
+> (Points 6) For each natural number between 1 and 99 inclusive, the product of its digits is calculated (this product is equal to the number itself if the number has only one digit). All the products thus obtained are then added together. What is the result?
 
-**Answer:** 2070
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q13|src_kangourou_2018_cadet_semifinale__Q13]]
 
 
 
@@ -612,14 +697,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of N from the chairlift seats*
+*N value from the chairlift seats*
 
-> (6 points) The seats of a chairlift are attached to the cable in such a way that the distance between two
-> consecutive seats is always the same. They are numbered 1, 2, 3, …, N and after seat number
-> N the number 1 reappears: Stefania is sitting on seat number 42. When Stefania is exactly
-> halfway through the trip, she meets seat number 120 (which is going in the opposite direction). What is the value of N ?
+> (Point 6) The chairs on a chairlift are attached to the cable in such a way that the distance between two consecutive chairs is always the same. They are numbered 1, 2, 3, …, N, and after chair number N, number 1 reappears: Stefania is sitting in chair number 42. When Stefania is exactly halfway through the ride, she meets chair number 120 (which is going in the opposite direction). What is the value of N?
 
-**Answer:** 0156
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q14|src_kangourou_2018_cadet_semifinale__Q14]]
 
 
 
@@ -645,11 +731,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers such as sum A (4 digits) and B (2 digits)*
+*How many numbers are there as the sum of A (4 digits) and B (2 digits)?*
 
-> (Points 6) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be seen as the sum of a number A and a number B with these properties?
+> (Point 6) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be regarded as the sum of a number A and a number B with these properties?
 
-**Answer:** 0007
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q15|src_kangourou_2018_cadet_semifinale__Q15]]
 
 
 
@@ -674,11 +765,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External angle between tangents to two circumferences*
+*External angle between tangents to two circles*
 
-> (Points 7) Two planar circles of the same radius pass each through the centre of the other: call P one of the two intersection points. How many degrees does the outer angle between the circles formed by the two tangent lines in P on the two circumferences measure?
+> (Point 7) Two coplanar circles with the same radius each pass through the center of the other; let P be one of the two points at which they intersect. How many degrees is the exterior angle to both circles formed by the two lines tangent to the two circles at P?
 
-**Answer:** 0120
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q16|src_kangourou_2018_cadet_semifinale__Q16]]
 
 
 
@@ -703,11 +798,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of a+b in unknown-digit equality*
+*Sum a + b in the equation with unknown digits*
 
-> (Points 7) If the equality 29a031 × 342 = 100900b02 is true where a, b are two (different) digits, what is the sum of a + b?
+> (Point 7) If the equality 29a031 × 342 = 100900b02 holds, where a and b represent two (different) digits, what is the value of a + b?
 
-**Answer:** 0011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q17|src_kangourou_2018_cadet_semifinale__Q17]]
 
 
 
@@ -751,10 +851,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most difference in score between two competitors*
+*Maximum score difference between two competitors*
 
-> (Points 8) In the competition you are running, there are 36 points for multiple-choice questions and corresponding penalties for incorrect answers (see page 4). Assume that two competitors, A and B, answer all nine questions, that A does not answer all of them correctly and B does not answer all of them wrongly. How many points can the difference between A's score and B's score in multiple-choice questions be worth at most? 2 4 4 6 3 5
-> 
+> (Point 8) In the test you are taking, for the multiple-choice questions, 36 points are up for grabs, along with corresponding penalties for incorrect answers (see page four). Suppose two candidates, A and B, answer all 9 questions, that A does not answer all of them correctly and B does not answer all of them incorrectly. What is the maximum possible value of the difference between the score A obtains and the score B obtains on the multiple-choice questions? 2 cm 4 cm 4 cm 6 cm 3 cm 5 cm
+>
 > 0009 0004 0023 2070 0156 0007 0120 0011 0040
 
-**Answer:** 0040
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_semifinale#q18|src_kangourou_2018_cadet_semifinale__Q18]]

@@ -32,12 +32,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare la disuguaglianza per numeri reali arbitrari, vera per n=3,5 e falsa in caso contrario*
+*Dimostrare la disuguaglianza per numeri reali arbitrari: è vera per n=3,5, falsa altrimenti*
 
-> Si dimostri che l'affermazione seguente è vera per $n = 3$ e $n = 5$, e falsa per ogni altro $n > 2$.
-> 
+> Dimostrare che la seguente asserzione è vera per $n = 3$ e $n = 5$, e che è falsa per ogni altro $n > 2$.
+>
 > Se $a_1, a_2, \ldots, a_n$ sono numeri reali arbitrari, allora
 > $$(a_1 - a_2)(a_1 - a_3) \cdots (a_1 - a_n) + (a_2 - a_1)(a_2 - a_3) \cdots (a_2 - a_n) + \cdots + (a_n - a_1)(a_n - a_2) \cdots (a_n - a_{n-1}) \ge 0$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1971#q01|src_imho_1971__Q01]]
 
 
 
@@ -60,9 +67,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poliedri convessi con nove vertici che condividono un punto comune*
+*Poliedri convessi a nove vertici che condividono un punto comune*
 
-> Sia $P_1$ un poliedro convesso con nove vertici $A_1, A_2, \ldots, A_9$; sia $P_i$ il poliedro ottenuto da $P_1$ mediante una traslazione che porta il vertice $A_1$ in $A_i$ $(i = 2, 3, \ldots, 9)$. Si dimostri che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno un punto interno in comune.
+> Si consideri un poliedro convesso $P_1$ con nove vertici $A_1, A_2, \ldots, A_9$; si ponga $P_i$ il poliedro ottenuto da $P_1$ mediante una traslazione che sposta il vertice $A_1$ in $A_i$ $(i = 2, 3, \ldots, 9)$. Dimostrare che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno un punto interno in comune.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1971#q02|src_imho_1971__Q02]]
 
 
 
@@ -85,9 +99,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli interi della forma 2^{3k}-2 contengono un sottoinsieme infinito con elementi a due a due coprimi*
+*Gli interi della forma 2^3k-2 contengono un sottoinsieme infinito i cui elementi sono a due a due coprimi*
 
-> Si dimostri che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni due elementi sono tra loro primi.
+> Dimostrare che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni coppia di elementi è coprima.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1971#q03|src_imho_1971__Q03]]
 
 
 
@@ -116,11 +137,18 @@ level: IMO
 
 *Triangoli acutangoli e geodetica minima sul tetraedro ABCD*
 
-> Tutte le facce del tetraedro $ABCD$ sono triangoli acutangoli. Consideriamo tutte le spezzate chiuse del tipo $XYZТX$ definite nel modo seguente: $X$ è un punto sullo spigolo $AB$ diverso da $A$ e $B$; analogamente, $Y$, $Z$, $T$ sono punti interni agli spigoli $BC$, $CD$, $DA$, rispettivamente. Si dimostri che
-> 
-> (a) Se $\angle DAB + \angle BCD \ne \angle ABC + \angle CDA$, allora tra i percorsi poligonali non esiste alcuno di lunghezza minima.
-> 
-> (b) Se $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, allora esistono infiniti percorsi poligonali minimi, la loro lunghezza comune essendo $2AC \sin(\alpha/2)$, dove $\alpha = \angle BAC + \angle CAD + \angle DAB$.
+> Tutte le facce del tetraedro $ABCD$ sono triangoli acutangoli. Consideriamo tutti i cammini poligonali chiusi della forma $XYZТX$ definiti come segue: $X$ è un punto sul lato $AB$, diverso da $A$ e da $B$; analogamente, $Y$, $Z$, $T$ sono punti interni ai lati $BC$, $CD$, $DA$, rispettivamente. Dimostrare:
+>
+> (a) Se $\angle DAB + \angle BCD \ne \angle ABC + \angle CDA$, allora tra i cammini poligonali non ce n'è alcuno di lunghezza minima.
+>
+> (b) Se $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, allora esistono infiniti cammini poligonali di lunghezza minima, la cui lunghezza comune è $2AC \sin(\alpha/2)$, dove $\alpha = \angle BAC + \angle CAD + \angle DAB$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1971#q04|src_imho_1971__Q04]]
 
 
 
@@ -143,9 +171,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insinsieme finito S nel piano con esattamente n punti ad distanza unitaria da ciascun punto*
+*Insieme finito S nel piano, con esattamente n punti posti a distanza unitaria da ciascun punto*
 
-> Si dimostri che per ogni numero naturale $m$, esiste un insieme finito $S$ di punti nel piano con la seguente proprietà: per ogni punto $A$ in $S$, esattamente $m$ punti in $S$ si trovano a distanza unitaria da $A$.
+> Dimostrare che, per ogni numero naturale $m$, esiste un insieme finito $S$ di punti in un piano con la seguente proprietà: per ogni punto $A$ appartenente a $S$, esistono esattamente $m$ punti in $S$ che distano unità da $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_1971#q05|src_imho_1971__Q05]]
 
 
 
@@ -168,6 +203,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrice quadrata con somma di righe e colonne >= n implica che la somma di tutti gli elementi sia >= n^2/2*
+*Una matrice quadrata con somme delle righe/colonne >= n implica che la somma di tutti gli elementi sia >= n^2/2*
 
-> Sia $A = (a_{ij})$ $(i, j = 1, 2, \ldots, n)$ una matrice quadrata i cui elementi sono interi non negativi. Si supponga che, ogni volta che un elemento $a_{ij} = 0$ è uguale a zero, la somma degli elementi della riga $i$ e della colonna $j$ sia uguale a $\ge n$. Si dimostri che la somma di tutti gli elementi della matrice è $\ge n^2/2$.
+> Sia $A = (a_{ij})$ $(i, j = 1, 2, \ldots, n)$ una matrice quadrata i cui elementi sono interi non negativi. Supponiamo che, ogni volta che un elemento è $a_{ij} = 0$, la somma degli elementi nella $i$-esima riga e nella $j$-esima colonna sia $\ge n$. Dimostrare che la somma di tutti gli elementi della matrice è $\ge n^2/2$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1971#q06|src_imho_1971__Q06]]

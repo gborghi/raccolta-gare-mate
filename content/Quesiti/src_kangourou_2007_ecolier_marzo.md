@@ -37,13 +37,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What kind of number tags can be marked from home to school*
+*Which triples of numbers can be recorded from home at school?*
 
 ![[src_kangourou_2007_ecolier_marzo__prob1.png]]
 
-> Look at the figure. Zoe follows one of the paths from home to school and never returns. When she passes over a number, she notes it. Which triples of numbers, among those proposed, could she have noted when she arrived at school? A) 1, 2 and 4 B) 2, 3 and 4 C) 2, 3 and 5 D) 1, 5 and 6 E) 1, 2 and 5
+> Observe the figure. Zoe follows one of the routes from home to school without ever turning back. When she passes over a number, she writes it down. Which triples of numbers, from those proposed, could she have written down when she arrives at school?
+> A) 1, 2 e 4  
+> B) 2, 3 e 4 
+> C) 2, 3 e 5 
+> D) 1, 5 e 6 
+> E) 1, 2 e 5
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q01|src_kangourou_2007_ecolier_marzo__Q01]]
 
 
 
@@ -71,11 +80,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Common letters to KANGOUROU and PROBLEMA
+*Letters common to KANGOUROU and PROBLEMA*
 
-> How many letters do the words KANGOUROU and PROBLEMA have in common? A) 1 B) 2 C) 3 D) 4 E) 5
+> How many letters do the words KANGOUROU and PROBLEMA have in common?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q02|src_kangourou_2007_ecolier_marzo__Q02]]
 
 
 
@@ -104,9 +122,17 @@ Common letters to KANGOUROU and PROBLEMA
 
 *Plausible weight of the bicycle*
 
-> I weighed my bike. Which of the following results may I have found? A) 8 kg B) 1 kg C) 800 g D) 80 kg        E) 800 kg
+> I weighed my bicycle. Which of the following results could I have found?
+> A) 8 kg
+> B) 1 kg
+> C) 800 g 
+> D) 80 kg        E) 800 kg
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q03|src_kangourou_2007_ecolier_marzo__Q03]]
 
 
 
@@ -132,13 +158,17 @@ Common letters to KANGOUROU and PROBLEMA
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure remains after cutting*
+*What shape remains after cropping?*
 
 ![[src_kangourou_2007_ecolier_marzo__prob4.png]]
 
-> From a rectangle constructed with a square sheet of paper I cut out the figure shown beside it. One of the following figures remained: which one?
+> From a rectangle made from a sheet of graph paper, I cut out the shape next to it. One of the following shapes was left over—which one?
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q04|src_kangourou_2007_ecolier_marzo__Q04]]
 
 
 
@@ -185,11 +215,29 @@ Common letters to KANGOUROU and PROBLEMA
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time is it (6 hours and a half to 4 hours)*
+*What time is it? (Six and a half hours until 4 o'clock)*
 
-> In six and a half hours it will be exactly four in the morning. What time is it? A) 21: 30 B) 04: 00 C) 20: 00 D) 02: 30 E) 10: 30 1 2 3 4 5 6 school house A) B) C) D) E) Text_07.qxp 16-04-2007 12:02 Page 5
+> In six and a half hours, it will be exactly four in the morning. What time is it?
+> A) 21 : 30 
+> B) 04 : 00 
+> C) 20 : 00 
+> D) 02 : 30 
+> E) 10 : 30
+> 1 2 3 4 5 6 house school
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_07.qxp 16-04-2007 12:02 Page 5
+>
+> Pag. Pag. 6 Kang 2007 Kang 2007
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q05|src_kangourou_2007_ecolier_marzo__Q05]]
 
 
 
@@ -218,11 +266,21 @@ Common letters to KANGOUROU and PROBLEMA
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with 0 and 7*
+*3-digit numbers containing 0 and 7*
 
-> You only have the digits 0 and 7. How many different three-digit numbers can you write? A) 8 B) 3 C) 7 D) 6 E) 4
+> You only have the digits 0 and 7 available. How many different three-digit (significant) numbers can you write?
+> A) 8
+> B) 3
+> C) 7
+> D) 6
+> E) 4
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q06|src_kangourou_2007_ecolier_marzo__Q06]]
 
 
 
@@ -248,13 +306,17 @@ Common letters to KANGOUROU and PROBLEMA
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the cloud (reverse operation)*
+*Number in the speech bubble (reverse operation)*
 
 ![[src_kangourou_2007_ecolier_marzo__prob7.png]]
 
-> What number must be inserted into the gray cloud for the calculation to be correct?
+> Which number should be entered in the gray speech bubble so that the calculation is exact?
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q07|src_kangourou_2007_ecolier_marzo__Q07]]
 
 
 
@@ -286,11 +348,22 @@ Common letters to KANGOUROU and PROBLEMA
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to exchange gifts (3 friends)
+*Ways of exchanging gifts (3 friends)*
 
-> For Christmas, three friends intend to exchange gifts in this way: each makes only one gift (not to herself, of course) and receives one. How many ways can the project be implemented? A) 1 B) 2 C) 3 D) 4 E) 5 Questions from N. 9 to N. 16 are worth 4 points each.
+> For Christmas, three friends intend to exchange gifts in this way: each gives exactly one gift (obviously not to themselves) and receives one. In how many ways can the plan be carried out?
+> A) 1 
+> B) 2 
+> C) 3   
+> D) 4 
+> E) 5
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q08|src_kangourou_2007_ecolier_marzo__Q08]]
 
 
 
@@ -322,21 +395,21 @@ How to exchange gifts (3 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third doll by size (matryoshka)*
+*Third doll in size (matryoshka)*
 
-> A matryoshka is made up of 5 dolls of
-> different colors, one contained inside the other. The
-> blue one is smaller than the green one, but not than the yellow one. The blue one is larger than both the
-> blue and the
-> green one, but smaller than the red one. What
-> color is the third doll in order of size?
-> A) green   
+> A matryoshka consists of 5 little dolls made of
+> Different colors, one contained within another. The light-blue one is smaller than the green one, but not smaller than the yellow one. The blue one is larger than both the light-blue one and the green one, but smaller than the red one. What color is the third doll in order of size?
+> A) green
 > B) red
-> C) blue 
-> D) blue 
+> C) blue
+> D) azure
 > E) yellow
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q09|src_kangourou_2007_ecolier_marzo__Q09]]
 
 
 
@@ -367,15 +440,18 @@ How to exchange gifts (3 friends)
 
 *Matteo's date of birth*
 
-> Elisa, who is one year and one day younger than her brother Matteo, was
-> born on January 1, 2002. What is Matteo's date of birth?
-> A) January 2, 2003  
-> B) January 2, 2001    
-> C) December 31, 2000
-> D) December 31, 2001
-> E) December 30, 2000
+> Elisa, who is one year and one day younger than her brother Matteo, was born on January 1, 2002. What is Matteo's date of birth?
+> A) 2 January 2003
+> B) 2 January 2001
+> C) 31 December 2000
+> D) 31 December 2001
+> E) 30 December 2000
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q10|src_kangourou_2007_ecolier_marzo__Q10]]
 
 
 
@@ -449,31 +525,31 @@ How to exchange gifts (3 friends)
 \end{document}
 ```
 
-> What is the total number of rectangles that can be seen in the figure?
+> What is the total number of rectangles visible in the figure?
 > A) 5 
 > B) 12 
 > C) 7 
 > D) 10 
-> E) none of the preceding
+> E) none of the above
 > - 2
 > : 3
 > + 4
-> 5
-> ?
+> 5 ?
 > A) 1 
 > B) 3    
 > C) 7  
 > D) 9   
-> E) a number different from the
-> preceding ones
-> Testi_07.qxp  16-04-2007  12:02  Page 6
-> 
-> Pag. 
-> Pag. 7
-> Kang 2007
-> Kang 2007
+> E) a number different from
+> precedenti Testi_07.qxp 16-04-2007 12:02 Page 6
+>
+> Page Page 7 Kang 2007 Kang 2007
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q11|src_kangourou_2007_ecolier_marzo__Q11]]
 
 
 
@@ -507,13 +583,24 @@ How to exchange gifts (3 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequence of machines to obtain the result*
+*Sequence of machines to achieve the result*
 
 ![[src_kangourou_2007_ecolier_marzo__prob12.png]]
 
-> The carpenter's laboratory has two machines A and B, the operation of which is shown in the figure. What is the correct sequence in the use of machines to obtain ? (a) BBA B) ABB C) BAB D) BA E) BABBB
+> The carpenter's workshop has two
+> Machines A and B, whose operation is illustrated in the figure. What is the correct sequence for using the machines to obtain?
+> A) BBA
+> B) ABB
+> C) CHAPTER
+> D) BA
+> E) BABBB
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q12|src_kangourou_2007_ecolier_marzo__Q12]]
 
 
 
@@ -544,11 +631,21 @@ How to exchange gifts (3 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many seats can Arrigo sit in?
+*In how many places can Arrigo sit (hats)?*
 
-> Fifteen boys are sitting in a circle. Each one wears a hat: the first is red, the second white, the third blue, the fourth red again, the fifth white, the sixth blue, and so on. Arrigo, who wears an orange hat, wants to enter the circle so that he has a red hat nearby, but not a blue hat. How many seats can he sit in? A) 4 B) 5 C) 10 D) 15 E) 1
+> Fifteen boys are sitting in a circle. Each one is wearing a hat: the first has a red hat, the second a white one, the third a blue one, the fourth again a red one, the fifth a white one, the sixth a blue one, and so on. Arrigo, who is wearing an orange hat, wants to join the circle so that he has a red hat nearby but not a blue one. In how many seats can he sit?
+> A) 4 
+> B) 5 
+> C) 10 
+> D) 15 
+> E) 1
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q13|src_kangourou_2007_ecolier_marzo__Q13]]
 
 
 
@@ -578,11 +675,20 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement can be true (sport)*
+*Which statement can be true (sport)?*
 
-> Anna, Bianca, Cecilia, and Diana each practice one of the following sports: karate, soccer, volleyball, and judo. Anna does not practice sports that use a ball, Bianca, the judoka, often goes to the stadium to attend football matches. Which of the following statements can be true? A) Anna plays volleyball B) Bianca plays soccer C) Cecilia plays volleyball D) Diana plays karate E) Anna plays judo
+> Anna, Bianca, Cecilia, and Diana each practice exactly one of the following sports: karate, football, volleyball, and judo. Anna does not practice any sport that involves a ball; Bianca, who does judo, often goes to the stadium to watch football matches. Which of the following statements can be true?
+> A) Anna plays volleyball.
+> B) Bianca plays football
+> C) Cecilia plays volleyball.
+> D) Diana does karate
+> E) Anna does judo
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q14|src_kangourou_2007_ecolier_marzo__Q14]]
 
 
 
@@ -613,19 +719,20 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many seats in the carousel*
+*How many seats are there on the carousel?*
 
-> The seats of a carousel are equally spaced (that is, the distance from one seat to
-> the one that follows it is always the same) and numbered in order 1, 2, 3, … . In this carousel Pietro is sitting on seat number 11, exactly on the other side
-> from Maria, who occupies seat number 4. How many seats are there in that
-> carousel?  
+> The seats on a carousel are equally spaced (that is, the distance from one seat to the next is always the same) and are numbered in order: 1, 2, 3, …. On this carousel, Pietro is sitting in seat number 11, exactly opposite Maria, who occupies seat number 4. How many seats are there on that carousel?
 > A) 13
 > B) 14 
 > C) 16 
 > D) 17 
 > E) 22
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q15|src_kangourou_2007_ecolier_marzo__Q15]]
 
 
 
@@ -668,28 +775,25 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible number in the cell? (Latin 3×3)*
+*Possible number in the cell? (Latin 3x3)*
 
-> The numbers 1, 2, and 3 must be written in the cells of the table shown so that each of the numbers 1, 2, and 3 appears in each row and each column. Isabella has already started filling in some numbers in the table: which number can be written in the cell marked with a question mark?
->
+> The numbers 1, 2, and 3 must be written in the boxes of the
+> In the table in the figure, arrange it so that each of the numbers 1, 2, and 3 appears in every row and every column. Isabella has started entering some numbers into the table: which number can she write in the cell marked with a question mark?
 > A) only 1
 > B) only 2
 > C) only 3
-> D) 2 or 3
-> E) 1, 2, or 3
+> D) 2 o 3 
+> E) 1, 2 or 3
+> A B Machine B rotates the object 45° clockwise 1 ? 2 1 Testi_07.qxp 16-04-2007 12:02 Page 7
 >
-> A
-> B
->
-> Machine B rotates the object by 45° clockwise
-> 1
-> ?
-> 2
-> 1
-> 
-> Questions 17 to 24 are worth 5 points each.
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q16|src_kangourou_2007_ecolier_marzo__Q16]]
 
 
 
@@ -719,11 +823,21 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits to write from 1 to 100*
+*How many digits are written when writing the numbers from 1 to 100?*
 
-> Imagine you're writing one after another all the numbers from 1 to 100 inclusive: how many digits have you written? A) 100 B) 150 C) 190 D) 192 E) 200
+> Imagine writing all the numbers from 1 to 100 inclusive, one after another: how many digits have you written?
+> A) 100 
+> B) 150 
+> C) 190 
+> D) 192 
+> E) 200
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q17|src_kangourou_2007_ecolier_marzo__Q17]]
 
 
 
@@ -754,11 +868,20 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who waits for who and for how long (watches)*
+*Who waits for whom and for how long (watches)*
 
-> Chiara and Donatella have an appointment at 7:05. When she arrives, Donatella thinks she's 15 minutes early, but her watch is 7 minutes behind; Chiara thinks she's 10 minutes late, but her watch is 7 minutes ahead. Which of the two friends has to wait for the other and for how long? A) Donatella waits for 5 minutes B) Donatella waits for 14 minutes C) Donatella waits for 11 minutes D) Chiara waits for Donatella for 5 minutes E) Chiara waits for Donatella for 11 minutes
+> Chiara and Donatella have a meeting at 7:05. When she arrives, Donatella thinks she is 15 minutes early, but her watch is 7 minutes behind; Chiara, on the other hand, thinks she is 10 minutes late, but her watch is 7 minutes ahead. Which of the two friends has to wait for the other, and for how long?
+> A) Donatella waits for Chiara for 5 minutes
+> B) Donatella waits for Chiara for 14 minutes.
+> C) Donatella waits for Chiara for 11 minutes.
+> D) Chiara waits for Donatella for 5 minutes.
+> E) Chiara waits for Donatella for 11 minutes.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q18|src_kangourou_2007_ecolier_marzo__Q18]]
 
 
 
@@ -789,11 +912,21 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of invisible points of 7 stacked dice*
+*Sum of the invisible points of 7 stacked dice*
 
-> A die is a cube whose faces are numbered from 1 to 6. The sum of the numbers on two opposite faces is always 7. Seven dice are stacked as shown in the figure. Imagine that you can observe the piles from every angle. What is the sum of the points that are still invisible, hidden between the dice or under the piles? A) 49 B) 47 C) 46 D) 42 E) 35
+> A die is a cube whose faces are numbered from 1 to 6. The
+> The sum of the numbers on two opposite faces is always 7. Seven dice are stacked as shown in the figure. Imagine that you can observe the stacks from every angle: what is the sum of the dots that are nevertheless invisible—that is, hidden between the dice or beneath the stacks?
+> A) 49 
+> B) 47 
+> C) 46 
+> D) 42 
+> E) 35
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q19|src_kangourou_2007_ecolier_marzo__Q19]]
 
 
 
@@ -836,24 +969,22 @@ How many seats can Arrigo sit in?
 
 *Which shape cannot be obtained by folding and cutting?*
 
-> A square piece of paper is folded twice in such a way that the result is still a square. Then, one corner of this square is cut off. Which of the following figures cannot be obtained by this procedure?
+> A sheet of paper in the shape of a square is
+> Folded twice so that the result is still a square. A corner is cut off this square. Which of the figures below cannot be obtained by this procedure?
 > A)
 > B)
 > C)
 > D)
 > E) none
+> Page Page 8 2007 2007 Testi_07.qxp 16-04-2007 12:02 Page 8
 >
-> Page 8
-> Kang 2007
-> Kang 2007
-> Testi_07.qxp 16-04-2007 12:02 Page 8
-> 
-> Page
-> Page 9
-> Kang 2007
-> Kang 2007
+> Page Page 9 Kang 2007 Kang 2007
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q20|src_kangourou_2007_ecolier_marzo__Q20]]
 
 
 
@@ -884,11 +1015,21 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White cells in the next square*
+*White squares in the next square*
 
-> The figure shows a sequence of three "squared" squares with some blackened cells. How many white cells will the next square have if we build it on the same principle? A) 50 B) 60 C) 65 D) 70 E) 75
+> The figure shows a sequence of three "gridded" squares, some of whose small squares are blacked in. How many white cells will the next square have if we construct it using the same principle?
+> A) 50 
+> B) 60 
+> C) 65 
+> D) 70 
+> E) 75
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q21|src_kangourou_2007_ecolier_marzo__Q21]]
 
 
 
@@ -925,7 +1066,11 @@ How many seats can Arrigo sit in?
 > D) 202007 
 > E) 20075
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q22|src_kangourou_2007_ecolier_marzo__Q22]]
 
 
 
@@ -955,11 +1100,20 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cards for larger closed circuit*
+*Minimum cards for the largest closed circuit*
 
-> Anna has a large number of square cards like the one next to her. Placing four of these cards appropriately can build a closed circuit (in white in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that allows her to implement her project? A) 8 B) 10 C) 9 D) 16 E) 12
+> Anna has a large number of square cards like the one beside. By arranging four of these cards appropriately, she can form a closed circuit (left blank in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that will allow her to carry out her plan?
+> A) 8 
+> B) 10 
+> C) 9 
+> D) 16 
+> E) 12
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q23|src_kangourou_2007_ecolier_marzo__Q23]]
 
 
 
@@ -1002,10 +1156,20 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years of Fabio today (age of friends)*
+*Fabio's age today (friends' age)*
 
-> Fabio, Luca and Mauro have their birthday today. The sum of their ages today is 22 years; when Fabio will have the age that Luca has today that sum will be 28 years; when Fabio will have the age that Mauro has today that sum will be 37 years. How old is Fabio today? A) 4 B) 5 C) 6 D) 7 E) 8 8 white boxes 21 white boxes 40 white boxes Text_07.qxp 16-04-2007 12:02 Page 9
-> 
-> 1 Kangourou of Mathematics 2007 Category Écolier For fourth or fifth graders of primary school
+> Today, Fabio, Luca, and Mauro are having their birthdays. Today, the sum of their ages is 22 years; when Fabio is the age Luca is today, that sum will be 28 years; when Fabio is the age Mauro is today, that sum will be 37 years. How old is Fabio today?
+> A) 4 
+> B) 5 
+> C) 6
+> D) 7 
+> E) 8
+> 8 white boxes 21 white boxes 40 white boxes Testi_07.qxp 16-04-2007 12:02 Page 9
+>
+> 1 Kangourou de Mathématiques 2007, Écolier Category, for fourth- or fifth-grade primary school students
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_ecolier_marzo#q24|src_kangourou_2007_ecolier_marzo__Q24]]

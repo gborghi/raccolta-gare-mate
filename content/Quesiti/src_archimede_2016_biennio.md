@@ -37,7 +37,8 @@ level: biennio
 
 *Number of digits of 1000^1000*
 
-> Camilla is very patient and is writing, by extension, the entire number 10001000. How many digits does he have to write in all?
+> Camilla is very patient and is writing out in full the entire number 10001000.
+> How many digits does she have to write in total?
 >
 > - **(A)** 1000
 > - **(B)** 3001
@@ -45,7 +46,9 @@ level: biennio
 > - **(D)** 1001
 > - **(E)** 1004
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2016_biennio#q01|src_archimede_2016_biennio__Q01]]
 
 
 
@@ -78,9 +81,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate numbers after halving even numbers up to 1000*
+*Distinct numbers after halving the even ones up to 1000*
 
-> Charles wrote in his notebook the list of all positive integers from 1 to 1000 (included). Joan deletes even numbers from the list and replaces each with her half. How many different numbers will be written in Charles' notebook after Joan's intervention?
+> Carlo wrote in his notebook the list of all positive integers from 1 to 1000 (inclusive). Giovanna erases the even numbers from the list and replaces each of them with its half. How many different numbers will be written in Carlo's notebook after Giovanna's intervention?
 >
 > - **(A)** 650
 > - **(B)** 900
@@ -88,7 +91,11 @@ level: biennio
 > - **(D)** 600
 > - **(E)** 750
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2016_biennio#q02|src_archimede_2016_biennio__Q02]]
 
 
 
@@ -119,17 +126,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of thieves*
+*Number of knaves at the party*
 
-> There are two kinds of people living on an island: knights who always tell the truth and cunning people who always lie. During a birthday party, attended by 450 people, each of the attendees states: All those who are at the party, besides me, are thieves. How many crooks are at the party?
+> On an island there live two kinds of people: knights, who always tell the truth, and knaves, who always lie. At a birthday party attended by 450 people, each person present states: “everyone who, besides me, is at the party is a knave”. How many knaves are at the party?
 >
-> - **(A)** No one
+> - **(A)** none
 > - **(B)** 450
 > - **(C)** 449
 > - **(D)** 224
 > - **(E)** 225
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2016_biennio#q03|src_archimede_2016_biennio__Q03]]
 
 
 
@@ -161,9 +171,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Disambiguations of 4 keypads*
+*Derangements of 4 keyrings*
 
-> Four friends have grown tired of their keys and decide to redistribute them, so that each of them has one different from the one he had before. How many different ways can keys be exchanged?
+> Four friends have grown tired of their keyrings and decide to redistribute them so that each of them has a different one from the one they had before. In how many different ways can they exchange the keyrings?
 >
 > - **(A)** 6
 > - **(B)** 9
@@ -171,7 +181,11 @@ level: biennio
 > - **(D)** 8
 > - **(E)** 10
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2016_biennio#q04|src_archimede_2016_biennio__Q04]]
 
 
 
@@ -204,9 +218,12 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Purchase of two different types of garments*
+*Buying two items of different types*
 
-> Laura's trying on clothes in a store. She's undecided between eight shirts, five sweaters, six pants. To save money, you will only buy two different hats (not two shirts or two sweaters or two pants). How many ways will Laura be able to make her purchases?
+> Laura is trying on clothes in a shop. She is undecided between 8 blouses, 5 sweaters,
+> 6 trousers. To save money she will buy only two items, of different types (that is, not two
+> blouses or two sweaters or two trousers). In how many ways can Laura make her
+> purchases?
 >
 > - **(A)** 114
 > - **(B)** 128
@@ -214,7 +231,11 @@ level: biennio
 > - **(D)** 171
 > - **(E)** 118
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2016_biennio#q05|src_archimede_2016_biennio__Q05]]
 
 
 
@@ -253,9 +274,16 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*network points marked/submitted*
+*points from goals scored/conceded*
 
-> A football tournament involves only 4 teams, called A, B, C, D. Each team plays a match each day, and during the tournament, each team meets each other precisely once. After the first two days, team A scored 4 goals without scoring, team B scored 7 goals without scoring, team C scored 3 and scored 1, team D scored 1 goal without scoring. Taking into account that each team earns 3 points for each win, 1 point for each draw and no points in the event of defeat, indicate how many points, respectively, the teams A, B, C, D (in this order) have scored in the first two days.
+> In a football tournament only 4 teams participate, called A, B, C, D.
+> Each day, each team plays a match and, during the tournament, each
+> team meets every other exactly once. After the first two days,
+> team A has scored 4 goals without conceding any, team B has conceded 7 without
+> scoring any, team C has scored 3 and conceded 1, team D has scored 1
+> without conceding any. Taking into account that each team earns 3 points for each win,
+> 1 point for each draw and no points in case of defeat, indicate how many points
+> teams A, B, C, D have achieved, respectively, in the first two days.
 >
 > - **(A)** 4, 0, 3, 4
 > - **(B)** 4, 0, 4, 2
@@ -263,7 +291,11 @@ level: biennio
 > - **(D)** 4, 1, 3, 2
 > - **(E)** 3, 1, 4, 2
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2016_biennio#q06|src_archimede_2016_biennio__Q06]]
 
 
 
@@ -296,9 +328,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three pairs of different coloured knitted or crocheted fabrics*
+*Three pairs with differently coloured shirts*
 
-> Six people (two in a green shirt, two in a pink shirt, two in a gray shirt) want to play briscola, dividing themselves into three teams of two people each. In how many ways can they divide, so that the two in each team have different colored jerseys?
+> Six people (two wearing a green shirt, two wearing a pink shirt, two wearing a grey shirt), to play briscola, want to divide themselves into three teams of two people each. In how many ways can they make the division, ensuring that the two in each team have shirts of different colours?
 >
 > - **(A)** 4
 > - **(B)** 11
@@ -306,7 +338,11 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 15
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2016_biennio#q07|src_archimede_2016_biennio__Q07]]
 
 
 
@@ -336,9 +372,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum two-digit MCD with product 14000*
+*The greatest common divisor of two numbers with product 14000*
 
-> The product of two natural numbers is 14000. What can be their maximum common divider?
+> The product of two natural numbers is 14000. What can be, at most, their greatest common divisor?
 >
 > - **(A)** 10
 > - **(B)** 20
@@ -346,7 +382,10 @@ level: biennio
 > - **(D)** 70
 > - **(E)** 140
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2016_biennio#q08|src_archimede_2016_biennio__Q08]]
 
 
 
@@ -374,11 +413,15 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes on the pitch for each player*
+*Minutes played per player*
 
-> An eight-person team participates in a sports tournament. The rules stipulate that there are always 5 players per team on the pitch and that, during each match (during 60 minutes), the 8 members of each team must all play the same number of minutes. How many minutes will each player be on the field during the game? (A) less than 30 (B) between 30 and 33 (C) between 33 and 36 (D) between 36 and 39 (E) more than 39
+> A team of 8 people takes part in a sports tournament. The rules provide that 5 players per team are always on the field and that, during each match (which lasts 60 minutes), all 8 members of each team must play the same number of minutes. For how many minutes will each player be on the field during the match?
+> (A) less than 30 (B) between 30 and 33 (C) between 33 and 36 (D) between 36 and 39 (E) more than 39
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2016_biennio#q09|src_archimede_2016_biennio__Q09]]
 
 
 
@@ -412,9 +455,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Common days off of Juliet and Romeo
+*Common free days of Giulietta and Romeo*
 
-> Giulietta is off work every Sunday (and no other day). Romeo works on a cruise ship: he stays at sea for 9 days, then has one day off before boarding again for another 9 days, and so on. Today, Wednesday, November 23, 2016, Romeo is ashore and will disembark tomorrow. How many days will Juliet and Romeo be able to spend together until November 23, 2017?
+> Giulietta is free from work every Sunday (and no other day). Romeo
+> works on a cruise ship: he stays at sea for 9 days, then has a free day before boarding again for another 9 days, and so on. Today, Wednesday 23
+> November 2016, Romeo is ashore and will board tomorrow. How many days can Giulietta and Romeo spend together until 23 November 2017?
 >
 > - **(A)** 8
 > - **(B)** 5
@@ -422,7 +467,11 @@ Common days off of Juliet and Romeo
 > - **(D)** 6
 > - **(E)** 4
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2016_biennio#q10|src_archimede_2016_biennio__Q10]]
 
 
 
@@ -485,36 +534,11 @@ Common days off of Juliet and Romeo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AOC angle width with OD=DP and outer angle*
+*Size of angle AOC given OD = DP and angle APC = 18 degrees*
 
 ![[src_archimede_2016_biennio__prob11.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.35]
-  \coordinate (O) at (0,0);
-  \coordinate (A) at (-8,0);
-  \coordinate (B) at (8,0);
-  \coordinate (P) at (15.22,0);
-  \coordinate (C) at (-4.70,6.47);
-  \coordinate (D) at (7.61,2.47);
-  \draw (O) circle (8);
-  \draw (A) -- (P);
-  \draw (C) -- (P);
-  \draw (O) -- (C);
-  \draw (O) -- (D);
-  \foreach \p in {O,C,D} \fill (\p) circle (4pt);
-  \node[above left] at (C) {$C$};
-  \node[above right] at (D) {$D$};
-  \node[below] at (O) {$O$};
-  \node[below left] at (A) {$A$};
-  \node[below] at (B) {$B$};
-  \node[below right] at (P) {$P$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Given a circumference γ having an O centre and a diameter AB of 16 cm, either P is a point on the AB extension from part B and r is a straight line passing through P, intersecting γ at points C and D (with D between C and P). Furthermore, let's say that we have OD = DP and $\widehat{APC}$ = 18°. What is the width of the angle $\widehat{AOC}$?
+> Given a circle γ with centre O and diameter AB of length 16 cm, let P be a point on the extension of AB beyond B, and let r be a line through P meeting γ at the points C and D (with D between C and P). Suppose moreover that OD = DP and $\widehat{APC}$ = 18°. What is the size of the angle $\widehat{AOC}$?
 >
 > - **(A)** 48°
 > - **(B)** 54°
@@ -522,7 +546,12 @@ Common days off of Juliet and Romeo
 > - **(D)** 45°
 > - **(E)** 72° O A B C D P
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2016_biennio#q11|src_archimede_2016_biennio__Q11]]
 
 
 
@@ -555,17 +584,21 @@ Common days off of Juliet and Romeo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A quadrilateral area ABCD double of BEDF*
+*Area of ABCD when BEDF has area 24 cm²*
 
-> For the convex quadrilateral ABCD, the dimensions of the sides AB, BC, CD and DA are known, which are 5, 8, 7 and 12 cm in order. If the median points of the sides AB and CD are indicated by E and F, the area of the BEDF quadrilateral is also known to be 24 cm2. How many cm2 is the area of the quadrilateral ABCD?
+> Of the convex quadrilateral ABCD, the lengths of the sides AB, BC, CD and DA are known; they are, in order, 5, 8, 7 and 12 cm. Letting E and F denote the midpoints of the sides AB and CD, it is also known that the area of the quadrilateral BEDF is 24 cm². How many cm² is the area of the quadrilateral ABCD?
 >
 > - **(A)** 32
 > - **(B)** 36
 > - **(C)** 48
 > - **(D)** a value between 50 and 60
-> - **(E)** More than 60
+> - **(E)** more than 60
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_biennio#q12|src_archimede_2016_biennio__Q12]]
 
 
 
@@ -600,17 +633,21 @@ Common days off of Juliet and Romeo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*reconnection at a summit*
+*Hours until the scooter and the bicycle meet again at a vertex*
 
-> A motorcycle and a bicycle run a large square-shaped route, starting at the same time from one of the peaks and proceeding both clockwise. The side of the trail measures 90 km. The motorcycle travels at a constant speed of 65 km/h, the bicycle at 30 km/h. How many hours later will the two meet again at one of the four vertices of the trail?
+> A scooter and a bicycle travel a large square-shaped track, starting at the same instant from one of the vertices and both proceeding clockwise. The side of the track measures 90 km. The scooter travels at a constant speed of 65 km per hour, the bicycle at 30 km per hour. After how many hours will the two meet again at one of the four vertices of the track?
 >
 > - **(A)** 7
 > - **(B)** 72/7
 > - **(C)** 30/7
 > - **(D)** 72
-> - **(E)** It will never happen again.
+> - **(E)** it will never happen again
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2016_biennio#q13|src_archimede_2016_biennio__Q13]]
 
 
 
@@ -643,11 +680,9 @@ Common days off of Juliet and Romeo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region consisting of 4 arcs radius 2*
+*Area of the region formed by 4 arcs of radius 2*
 
-![[src_archimede_2016_biennio__prob14.png]]
-
-> The figure here on the side is made up of 4 arcs between them congruent in circumference with radius 2. What is the area of the shaded region?
+> The figure on the right is made up of 4 congruent arcs of circles with radius 2. What is the area of the shaded region?
 >
 > - **(A)** 8 + π
 > - **(B)** 8 + π/2
@@ -655,7 +690,10 @@ Common days off of Juliet and Romeo
 > - **(D)** 16 −2π
 > - **(E)** 4 + 2π
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_biennio#q14|src_archimede_2016_biennio__Q14]]
 
 
 
@@ -686,9 +724,9 @@ Common days off of Juliet and Romeo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing years of 2016 multiplied by 1,2,3,4*
+*Years smaller than 2016 that are multiples of 1, 2, 3, 4*
 
-> Observing the calendar, Chiara realized that the current year 2016 has a peculiarity: place x = 2016 the number of the year, then x + 1 is multiple of 1, x + 2 is multiple of 2, x + 3 is multiple of 3 and x + 4 is multiple of 4. How many other positive integers, smaller than 2016, have the same peculiarity?
+> Looking at the calendar, Chiara noticed that the current year 2016 has a particular feature: setting $x = 2016$ as the year number, then $x + 1$ is a multiple of 1, $x + 2$ is a multiple of 2, $x + 3$ is a multiple of 3 and $x + 4$ is a multiple of 4. How many other positive integers, smaller than 2016, have the same feature?
 >
 > - **(A)** 154
 > - **(B)** 83
@@ -696,7 +734,10 @@ Common days off of Juliet and Romeo
 > - **(D)** 24
 > - **(E)** 162
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2016_biennio#q15|src_archimede_2016_biennio__Q15]]
 
 
 
@@ -733,14 +774,22 @@ Common days off of Juliet and Romeo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trails of the flea from origin to (0,2016)*
+*Paths of the flea from the origin to (0, 2016)*
 
-> A flea is initially found in the origin of the Cartesian plane and can move on points of full coordinates by choosing one of these three movements at a time: • from the point (x, y) jump to the point (x + 2, y + 4); • from the point (x, y) jump to the point (x, y + 5); • from the point (x, y) jump to the point (x −2, y −9). How many paths can the flea take with its movements, leading it from the source (0, 0) to the point (0, 2016)?
+> A flea starts at the origin of the Cartesian plane and can move on points with integer coordinates, each time choosing one of these three moves:
+> • from the point (x, y) it jumps to the point (x + 2, y + 4);
+> • from the point (x, y) it jumps to the point (x, y + 5);
+> • from the point (x, y) it jumps to the point (x −2, y −9).
+> How many paths, which the flea can carry out with its moves, take it from the origin (0, 0) to the point (0, 2016)?
 >
-> - **(A)** No one
-> - **(B)** In particular 1
+> - **(A)** none
+> - **(B)** exactly 1
 > - **(C)** a number between 10 and 30
 > - **(D)** a number between 30 and 60
-> - **(E)** T2 Italian Mathematical Union Olympic Mathematics Project Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Race Biennio 23 November 2016 • The test consists of 16 problems. Each question shall be followed by five replies indicated by the letters (A), (B), (C), (D) and (E): one of these answers is correct and the other four are incorrect. • Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+> - **(E)** infinitely many
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2016_biennio#q16|src_archimede_2016_biennio__Q16]]

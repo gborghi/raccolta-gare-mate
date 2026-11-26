@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I cerchi di quattro triangoli in quadrilaterali convexi condividono un punto di rombo*
+*Gli incircoli di quattro triangoli in un quadrilatero convesso hanno un punto in comune se e solo se il quadrilatero è un rombo*
 
-> Che $ABCD$ sia un quadrilaterale convex. Prova che gli incircoli dei triangoli $ABC$, $BCD$, $CDA$ e $DAB$ hanno un punto comune se e solo se $ABCD$ è un rombo.
+> Sia $ABCD$ un quadrilatero convesso. Dimostrare che le cerchiature inscritte nei triangoli $ABC$, $BCD$, $CDA$ e $DAB$ hanno un punto comune se e solo se $ABCD$ è un rombo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f3#q01|src_obm_2004_n3_f3__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le n per le quali un triangolo può essere diviso in n triangoli con uguale grado di vertice*
+*Trovare tutti gli n per cui un triangolo può essere suddiviso in n triangoli con uguale grado dei vertici*
 
-> Determinare tutti i valori di $n$ per i quali è possibile dividere un triangolo in triangoli $n$ in modo tale che non ci siano tre vertici collineari e che ogni vertice incida sullo stesso numero di segmenti.
-> 
-> Mostriamo una tale divisione per $n = 7$: osserviamo che in ciascuno dei sei vertici ci sono esattamente quattro segmenti incidenti.
+> Determinare tutti i valori di $n$ per cui è possibile dividere un triangolo in $n$ triangoli in modo che nessun insieme di tre vertici sia allineato e ogni vertice sia incidente allo stesso numero di segmenti.
+>
+> Presentiamo una tale suddivisione per $n = 7$: si osservi che in ciascuno dei sei vertici concorrono esattamente quattro segmenti.
 
 ![[src_obm_2004_n3_f3__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f3#q02|src_obm_2004_n3_f3__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi con ricorrenza cubica: più della metà dei termini può essere negativa?*
+*Successione di interi con ricorrenza cubica: è possibile che più della metà dei termini siano negativi?*
 
-> $x_1, x_2, \ldots, x_{2004}$ sia una sequenza di integri che soddisfi $x_{k+3} = x_{k+2} + x_{k+1} x_k$ per $1 \le k \le 2001$.
-> 
+> Sia $x_1, x_2, \ldots, x_{2004}$ una successione di interi che soddisfa $x_{k+3} = x_{k+2} + x_{k+1} x_k$ per $1 \le k \le 2001$.
+>
 > È possibile che più della metà dei suoi termini siano negativi?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f3#q03|src_obm_2004_n3_f3__Q03]]
 
 
 
@@ -118,11 +139,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*10x10 tabella con cifre 09 ogni 10 volte; più grande n garantendo una riga/colonna con ≥n cifre distinte*
+*Tabella 10x10 con le cifre da 0 a 9, ciascuna ripetuta 10 volte; il più grande n tale che esista una riga/colonna con ≥n cifre distinte*
 
-> Considerate tutti i modi di inserire le cifre $0, 1, 2, \ldots, 9$ nelle celle di una tabella $10 \times 10$ in modo che ciascuna cifra appaia esattamente dieci volte.
-> 
-> Trovare il più grande intero $n$ con la proprietà che, in ogni posizionamento, una riga o una colonna contiene almeno $n$ cifre distinte.
+> Si considerino tutti i modi di collocare le cifre $0, 1, 2, \ldots, 9$ nelle celle di una tabella $10 \times 10$ in modo che ciascuna cifra compaia esattamente dieci volte.
+>
+> Trovare il più grande intero $n$ con la proprietà che, in ogni tale disposizione, qualche riga o qualche colonna contenga almeno $n$ cifre distinte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f3#q04|src_obm_2004_n3_f3__Q04]]
 
 
 
@@ -147,9 +175,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_n·a_{n+4}=a_{n+1}a_{n+3}+a_{n+2}^2 e 1s iniziali; mostrare tutti i termini sono interi*
+*Successione con a_n·a_{n+4}=a_{n+1}a_{n+3}+a_{n+2}^2 e valori iniziali uguali a 1; dimostrare che tutti i termini sono interi*
 
-> Considerate la sequenza $(a_n)_{n \ge 0}$ con $a_0 = a_1 = a_2 = a_3 = 1$ e $$a_n a_{n+4} = a_{n+1} a_{n+3} + a_{n+2}^2.$$ Mostra che tutti i termini di questa sequenza sono numeri interi.
+> Si consideri la successione $(a_n)_{n \ge 0}$ con $a_0 = a_1 = a_2 = a_3 = 1$ e
+> $$a_n a_{n+4} = a_{n+1} a_{n+3} + a_{n+2}^2.$$
+> Dimostrare che tutti i termini di questa successione sono interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f3#q05|src_obm_2004_n3_f3__Q05]]
 
 
 
@@ -180,10 +217,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti periodici di una mappa piana; dimostrare che A_b ha un minimo e trovarlo*
+*Punti periodici di una mappa piana; dimostrare che A_b ha un minimo e determinalo*
 
-> Lasciate che $a$ e $b$ siano numeri reali. Considerare la funzione $f_{a,b} : \mathbb{R}^2 \to \mathbb{R}^2$ definita da $$f_{a,b}(x, y) = (a - by - x^2,\; x).$$ Per $P = (x, y) \in \mathbb{R}^2$, definire $f_{a,b}^0(P) = P$ e $f_{a,b}^{k+1}(P) = f_{a,b}\!\left(f_{a,b}^k(P)\right)$ per ogni intero non negativo $k$.
-> 
-> L'insieme $\operatorname{per}(a, b)$ dei punti periodici **** di $f_{a,b}$ è l'insieme di tutti i punti $P \in \mathbb{R}^2$ per i quali esiste un intero positivo $n$ tale che $f_{a,b}^n(P) = P$.
-> 
-> Fissare un numero reale $b$. Provare che l'insieme $$A_b = \{\, a \in \mathbb{R} \mid \operatorname{per}(a, b) \neq \varnothing \,\}$$ ha un elemento minimo. Calcola questo elemento minimo.
+> Siano $a$ e $b$ numeri reali. Si consideri la funzione $f_{a,b} : \mathbb{R}^2 \to \mathbb{R}^2$ definita da
+> $$f_{a,b}(x, y) = (a - by - x^2,\; x).$$
+> Per $P = (x, y) \in \mathbb{R}^2$, definisci $f_{a,b}^0(P) = P$ e $f_{a,b}^{k+1}(P) = f_{a,b}\!\left(f_{a,b}^k(P)\right)$ per ogni intero non negativo $k$.
+>
+> L'insieme $\operatorname{per}(a, b)$ dei **punti periodici** di $f_{a,b}$ è l'insieme di tutti i punti $P \in \mathbb{R}^2$ per i quali esiste un intero positivo $n$ tale che $f_{a,b}^n(P) = P$.
+>
+> Fissa un numero reale $b$. Dimostrare che l'insieme
+> $$A_b = \{\, a \in \mathbb{R} \mid \operatorname{per}(a, b) \neq \varnothing \,\}$$
+> Ha un elemento minimo. Calcola questo elemento minimo.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f3#q06|src_obm_2004_n3_f3__Q06]]

@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le funzioni su un insieme di n elementi la cui (n-1) -th iterate è costante ma (n-2) -th iterate non è.*
+*Conta le funzioni su un insieme di n elementi tali che la (n-1)-esima iterata è costante, ma la (n-2)-esima iterata non lo è.*
 
-> Trova il numero di tutte le funzioni reali $f$ che mappano la somma degli elementi $n$ nella somma delle loro immagini, in modo che $f^{n-1}$ sia una funzione costante e $f^{n-2}$ non lo sia. Qui $f^0(x)=x$ e $f^k=f\circ f^{k-1}$ per $k\ge 1$.
+> Trovare il numero di tutte le funzioni reali $f$ che associano alla somma di $n$ elementi la somma delle loro immagini, in modo che $f^{n-1}$ sia una funzione costante e $f^{n-2}$ non lo sia. Qui $f^0(x)=x$ e $f^k=f\circ f^{k-1}$ per $k\ge 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1984_r3#q01|src_pol_1984_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove un limite inferiore di n/2 per una somma di somme parziali assolute sotto qualsiasi permutazione di una matrice speciale.*
+*Dimostrare un limite inferiore di n/2 per una somma di somme parziali assolute sotto qualsiasi permutazione di una matrice speciale.*
 
-> $n$ sia un numero intero positivo. Per tutti i $i,j\in\{1,2,\ldots,n\}$ definire $a_{j,i}=1$ se $j=i$ e $a_{j,i}=0$ altrimenti. Inoltre, per $i=n+1,\ldots,2n$ definire $a_{j,i}=-\frac{1}{n}$. Prove che per qualsiasi permutazione $p$ del set $\{1,2,\ldots,2n\}$ si verifica la seguente disuguaglianza: $$\sum_{j=1}^{n}\left|\sum_{k=1}^{n}a_{j,p(k)}\right|\ge\frac{n}{2}.$$
+> Let $n$ be a positive integer. For all $i,j\in\{1,2,\ldots,n\}$ define $a_{j,i}=1$ if $j=i$ and $a_{j,i}=0$ otherwise. Also, for $i=n+1,\ldots,2n$ define $a_{j,i}=-\frac{1}{n}$. Prove that for any permutation $p$ of the set $\{1,2,\ldots,2n\}$ the following inequality holds: $$\sum_{j=1}^{n}\left|\sum_{k=1}^{n}a_{j,p(k)}\right|\ge\frac{n}{2}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1984_r3#q02|src_pol_1984_r3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi concentrici inseriti e circoscritti intorno alla sezione di un ottaedro regolare da un piano attraverso il suo centro; dimostrare un rapporto legato.*
+*Due cerchi concentrici, uno inscritto e l'altro circoscritto alla sezione di un ottaedro regolare ottenuta con un piano passante per il suo centro; dimostrare una limitazione del rapporto.*
 
-> Che il $W$ sia un ottaedro regolare e il $O$ sia il suo centro. In un piano $P$ contenente $O$ si scelgono i cerchi $k_1(O,r_1)$ e $k_2(O,r_2)$ in modo tale che $k_1\subset P\cap W\subset k_2$. Dimostra che $\frac{r_1}{r_2}\le\frac{\sqrt{3}}{2}$.
+> Sia $W$ un ottaedro regolare e $O$ il suo centro. In un piano $P$ contenente $O$, si scelgono i cerchi $k_1(O,r_1)$ e $k_2(O,r_2)$ in modo che $k_1\subset P\cap W\subset k_2$. Dimostrare che $\frac{r_1}{r_2}\le\frac{\sqrt{3}}{2}$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1984_r3#q03|src_pol_1984_r3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una moneta lanciata n volte; somme parziali con valori di lancio 1 o 2; esprimere la probabilità che le somme parziali colpiscano n in modo ricorrente.*
+*Una moneta lanciata n volte; somme parziali con valori del lancio pari a 1 o 2; esprimi ricorsivamente la probabilità che le somme parziali raggiungano n.*
 
-> Una moneta viene lanciata $n$ volte, e il risultato è scritto nella forma $(a_1,a_2,\ldots,a_n)$, dove $a_i=1$ o $2$ a seconda che il risultato del tiro $i$-th sia la testa o la coda, rispettivamente. Impostare $b_j=a_1+a_2+\cdots+a_j$ per $j=1,2,\ldots,n$, e lasciare $p(n)$ la probabilità che la sequenza $b_1,b_2,\ldots,b_n$ contiene il numero $n$. Esprimere $p(n)$ in termini di $p(n-1)$ e $p(n-2)$.
+> Una moneta viene lanciata $n$ volte e il risultato viene scritto nella forma $(a_1,a_2,\ldots,a_n)$, dove $a_i=1$ oppure $2$ a seconda che il risultato del lancio $i$-esimo sia testa o croce, rispettivamente. Si ponga $b_j=a_1+a_2+\cdots+a_j$ per $j=1,2,\ldots,n$, e si faccia in modo che $p(n)$ sia la probabilità che la sequenza $b_1,b_2,\ldots,b_n$ contenga il numero $n$. Si esprima $p(n)$ in funzione di $p(n-1)$ e $p(n-2)$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1984_r3#q04|src_pol_1984_r3__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un esagono regolare del lato 1 è coperto da sei dischi unitari; dimostrare che nessun vertice è coperto da due o più dischi.*
+*Un esagono regolare di lato 1 è ricoperto da sei dischi unitari; dimostrare che nessun vertice è coperto da due o più dischi.*
 
-> Un esagono regolare di lato $1$ è coperto da sei dischi unitari. Prova che nessuno dei vertici dell'esagono è coperto da due (o più) dischi.
+> Un esagono regolare di lato $1$ è coperto da sei dischi unitari. Dimostrare che nessuno dei vertici dell'esagono è coperto da due o più dischi.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1984_r3#q05|src_pol_1984_r3__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*1025 città collegate in coppia da 10 compagnie aeree; dimostrare che alcune compagnie aeree hanno un viaggio di andata e ritorno di lunghezza strana.*
+*1025 città collegate a coppie da 10 compagnie aeree; dimostrare che una qualche compagnia aerea ha un viaggio di andata e ritorno di lunghezza dispari.*
 
-> Le città $P_1,\ldots,P_{1025}$ sono collegate tra loro da compagnie aeree $A_1,\ldots,A_{10}$ in modo che per due città distinte $P_k$ e $P_m$ esiste una compagnia aerea che offre un volo diretto tra di esse. Prova che una delle compagnie aeree può offrire un viaggio di andata e ritorno con un numero imparato di voli.
+> Le città $P_1,\ldots,P_{1025}$ sono collegate tra loro da compagnie aeree $A_1,\ldots,A_{10}$, in modo che per ogni coppia di città distinte $P_k$ e $P_m$ esista una compagnia aerea che offra un volo diretto tra di esse. Dimostrare che una delle compagnie aeree può offrire un viaggio di andata e ritorno con un numero dispari di voli.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1984_r3#q06|src_pol_1984_r3__Q06]]

@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimprovare la disuguaglianza di quattro reali positivi distinti con condizione di interlascio*
+*Quando vale $(*)$, e quando i quattro numeri si possono scegliere in modo che sia falsa*
 
-> $a$, $b$, $c$, $d$ sono diversi numeri reali positivi. Prove che se almeno uno dei numeri $a$ e $b$ si trova tra i numeri $c$ e $d$, o almeno uno dei numeri $c$ e $d$ si trova tra i numeri $a$ e $b$, allora $$(*) \quad \sqrt{(a+b)(c+d)} > \sqrt{ac} + \sqrt{bd}.$$ dimostra altrimenti che i quattro numeri possono essere scelti in modo tale che $(*)$ sia falso.
+> $a$, $b$, $c$, $d$ sono numeri reali positivi diversi. Dimostrare che se almeno uno dei numeri $a$ e $b$ sta fra i numeri $c$ e $d$, oppure almeno uno dei numeri $c$ e $d$ sta fra i numeri $a$ e $b$, allora
+> $$(*) \quad \sqrt{(a+b)(c+d)} > \sqrt{ac} + \sqrt{bd}.$$
+> Altrimenti mostrare che i quattro numeri si possono scegliere in modo che $(*)$ sia falsa.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1978-79_round2#q01|src_bmo_1978-79_round2__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli equilaterali con vertice comune; dimostrare due triangoli simili*
+*I triangoli $CB'O$ e $CA'M$ sono simili*
 
-> Due triangoli equilaterali hanno un vertice comune $C$. Attorno a ciascun triangolo in direzione contraria al senso orario, i vertici sono scritti $C$, $A$, $B$ e $C$, $A'$, $B'$. $O$ è il centro del triangolo $CAB$ e né $A'$ né $B'$ coincidono con $O$. $M$ è il punto medio di $AB'$. Prove che i triangoli $CB'O$ e $CA'M$ sono simili.
+> Due triangoli equilateri hanno un vertice comune $C$. Percorrendo ciascun triangolo in senso antiorario i vertici sono etichettati $C$, $A$, $B$ e $C$, $A'$, $B'$. $O$ è il centro del triangolo $CAB$ e né $A'$ né $B'$ coincidono con $O$. $M$ è il punto medio di $AB'$. Dimostrare che i triangoli $CB'O$ e $CA'M$ sono simili.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1978-79_round2#q02|src_bmo_1978-79_round2__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita in base alla media di tutti i termini precedenti; trovare $a_{1979}$*
+*Determinare $a_{1979}$*
 
-> Considera la sequenza $a_n$ ($n \ge 1$) definita da $$a_1 = 1979, \quad a_{n+1} = \left[\tfrac{1}{2}(a_1 + a_2 + \cdots + a_n)\right] \quad (n \ge 1),$$ dove $[x]$ indica il numero intero più grande non superiore a $x$. (ad esempio $[3] = 3$ e $[5] = 5$.) Determinare $a_{1979}$.
+> Si consideri la successione $a_n$ ($n \ge 1$) definita da
+> $$a_1 = 1979, \quad a_{n+1} = \left[\tfrac{1}{2}(a_1 + a_2 + \cdots + a_n)\right] \quad (n \ge 1),$$
+> dove $[x]$ indica il massimo intero non maggiore di $x$. (Per esempio $[3] = 3$ e $[5] = 5$.) Determinare $a_{1979}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1978-79_round2#q03|src_bmo_1978-79_round2__Q03]]
 
 
 
@@ -109,6 +134,14 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che la somma alternata di espansione binaria è uguale $(-1)^n n!$*
+*Quella somma alternata vale $(-1)^n (n!)$*
 
-> $b(k)$ indichi il numero di $1$ nell'espansione binaria del numero intero non negativo $k$. Ad esempio $b(13) = 3$ poiché $13$ è $1101$ in notazione binaria. Prova che per tutti gli integri positivi $n$, $$\sum_{k=0}^{2^n - 1} (-1)^{b(k)} k^n = (-1)^n (n!).$$
+> Sia $b(k)$ il numero di $1$ nella scrittura binaria dell'intero non negativo $k$. Per esempio $b(13) = 3$ poiché $13$ è $1101$ in notazione binaria. Dimostrare che per tutti gli interi positivi $n$,
+> $$\sum_{k=0}^{2^n - 1} (-1)^{b(k)} k^n = (-1)^n (n!).$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1978-79_round2#q04|src_bmo_1978-79_round2__Q04]]

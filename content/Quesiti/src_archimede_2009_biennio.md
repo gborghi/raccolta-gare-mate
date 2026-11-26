@@ -36,9 +36,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diverter of 3^5·4^4·5^3 between options given*
+*A divisor of 3^5*4^4*5^3 among the given options*
 
-> Which of the following numbers is a divisor of 35 · 44 · 53?
+> Which of the following numbers is a divisor of 3^5 · 4^4 · 5^3?
 >
 > - **(A)** 42,
 > - **(B)** 45,
@@ -46,7 +46,10 @@ level: biennio
 > - **(D)** 85,
 > - **(E)** 105.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2009_biennio#q01|src_archimede_2009_biennio__Q01]]
 
 
 
@@ -80,9 +83,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rear wheel gears given front wheel and beams*
+*Rear wheel rotations given front wheel and radii*
 
-> The front wheel of Chiara's bicycle has a radius of 28 cm, while the rear wheel has a radius of 16 cm. At the end of a bicycle ride, the front wheel has made 10,000 laps; how many have the rear wheel made in the same ride?
+> Chiara's front bicycle wheel has radius 28 cm, while the rear wheel has radius 16 cm.
+> At the end of a bike trip the front wheel has made 10000 rotations; how many has the rear wheel made in the same trip?
 >
 > - **(A)** 12000,
 > - **(B)** 14500,
@@ -90,7 +94,10 @@ level: biennio
 > - **(D)** 19000,
 > - **(E)** 21000.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2009_biennio#q02|src_archimede_2009_biennio__Q02]]
 
 
 
@@ -124,9 +131,13 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Caramels given to Delia for equal distribution*
+*Candy given to Delia by equal distribution*
 
-> Grandma has a bag of candy she wants to give to her grandchildren, Ada, Bice, Clelia and Delia. Ada takes seven candies and the same goes for Bice and Clelia; at this point in the bag, some candies remain, which are taken from Delia, but they are less than seven. Then Ada, Bice, and Clelia give some of their candy to Delia (each the same number) so that all four have the same number of candy. How many candies does Delia get from each of the other three?
+> Grandma has a bag of candies that she wants to give to her nieces: Ada, Bice,
+> Clelia and Delia. Ada takes seven candies and the same do Bice and Clelia; at this
+> point in the bag remain some candies, which are taken by Delia, but they are
+> fewer than seven. Then Ada, Bice and Clelia give some of their candies to Delia
+> (each the same number) so that all four have the same number of candies. How many candies does Delia receive from each of the other three?
 >
 > - **(A)** 1,
 > - **(B)** 2,
@@ -134,7 +145,10 @@ level: biennio
 > - **(D)** 4,
 > - **(E)** 5.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2009_biennio#q03|src_archimede_2009_biennio__Q03]]
 
 
 
@@ -169,9 +183,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Select n because the fly returns to 12 after 12 jumps
+*Choices of n for the flea to return to 12 after 12 jumps*
 
-> A flea is on the number 12 of a watch's dial. Choose a natural number n between 1 and 12, extremes included, and start to make jumps of n numbers on the dial, in the clockwise direction (if for example n = 3, after the first jump is on 3, after the second is on 6 and so on). After 12 jumps, he finds himself on the number 12 of the dial for the first time. How many different ways can you have chosen n?
+> A flea is on the number 12 on a clock face. It chooses a natural number n between 1 and 12, inclusive, and begins making jumps of n numbers on the face, clockwise (for example, if n = 3, after the first jump it is on 3, after the second on 6, and so on). After 12 jumps, for the first time it finds itself on the number 12 on the face. In how many distinct ways can it have chosen n?
 >
 > - **(A)** 1,
 > - **(B)** 2,
@@ -179,7 +193,11 @@ Select n because the fly returns to 12 after 12 jumps
 > - **(D)** 6,
 > - **(E)** 12.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2009_biennio#q04|src_archimede_2009_biennio__Q04]]
 
 
 
@@ -209,9 +227,9 @@ Select n because the fly returns to 12 after 12 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of equilateral triangle and hexagonal areas inscribed*
+*Ratio of the areas of an equilateral triangle and a regular hexagon inscribed in the same circle*
 
-> I draw an equilateral triangle and a regular hexagon inscribed in the same circumference. What is the relationship between the area of the triangle and that of the hexagon?
+> I draw an equilateral triangle and a regular hexagon inscribed in the same circle. What is the ratio of the area of the triangle to that of the hexagon?
 >
 > - **(A)** 1 2,
 > - **(B)** 1 3,
@@ -219,7 +237,10 @@ Select n because the fly returns to 12 after 12 jumps
 > - **(D)** √ 3 3 ,
 > - **(E)** 1
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_biennio#q05|src_archimede_2009_biennio__Q05]]
 
 
 
@@ -254,11 +275,12 @@ Select n because the fly returns to 12 after 12 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value x in the grid with equal sums*
+*Value of x in a grid with equal sums*
 
-![[src_archimede_2009_biennio__prob6.png]]
-
-> 6) In the grid next to x is a number to be determined. You know you can write a number in every empty cell on the grid so that the sum of the three numbers on any line, column or diagonal is always the same. So x is:
+> 6)
+> In the grid alongside, x is a number to be determined. It is known that
+> it is possible to write a number in every empty cell of the grid
+> so that the sum of the three numbers on any row, column or diagonal is always the same. Then x equals:
 >
 > - **(A)** 0,
 > - **(B)** 1,
@@ -266,7 +288,10 @@ Select n because the fly returns to 12 after 12 jumps
 > - **(D)** 6,
 > - **(E)** 9. 6 x 4 5
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_biennio#q06|src_archimede_2009_biennio__Q06]]
 
 
 
@@ -299,9 +324,9 @@ Select n because the fly returns to 12 after 12 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-Last year's report on tobacco-farm relations
+*Last year, dairy shops from tobacco-shop/dairy-shop ratios*
 
-> In the town of Nonfum, the only shops are tobacco shops and lumber shops. Last year tobacco factories accounted for two thirds of the market; this year two tobacco factories have become factories, so that now only 9/16 of the factories are tobacco factories (from last year to this year the total number of Nonfum shops has remained the same). How many lasts were there last year in Nonfum?
+> In the city of Nonfumo the only shops are tobacco shops and dairy shops. Last year the tobacco shops were 2/3 of the dairy shops; this year two tobacco shops became dairy shops so that now the tobacco shops are only 9/16 of the dairy shops (from last year to this year the total number of shops in Nonfumo remained the same). How many dairy shops were there last year in Nonfumo?
 >
 > - **(A)** 12,
 > - **(B)** 16,
@@ -309,7 +334,10 @@ Last year's report on tobacco-farm relations
 > - **(D)** 30,
 > - **(E)** 60.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2009_biennio#q07|src_archimede_2009_biennio__Q07]]
 
 
 
@@ -342,17 +370,21 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertical pentagon colours without axis of symmetry*
+*Vertex colorings of a pentagon with no axis of symmetry*
 
-> Cyrus has a sheet of paper in front of him with a regular ABCDE pentagon and two different-colored pencils. He wants to color all the vertices of the pentagon using only the two pincers he has, so that the final coloring has no axis of symmetry. How many different ways can you do that?
+> Ciro has in front of him a sheet of paper with a regular pentagon ABCDE drawn on it, and two markers of different colors. He wants to color all the vertices of the pentagon using only the two markers he has, so that the final coloring has no axis of symmetry. In how many distinct ways can he do it?
 >
-> - **(A)** One of them.
+> - **(A)** one,
 > - **(B)** two,
 > - **(C)** four,
 > - **(D)** five,
-> - **(E)** I don't know.
+> - **(E)** none.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_biennio#q08|src_archimede_2009_biennio__Q08]]
 
 
 
@@ -385,9 +417,9 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AAC angle in an isosceles triangle with a beam*
+*Angle ADC in an isosceles triangle with a bisector*
 
-> ABC is an isosceles triangle with AB = AC. D is a point on the AB side such that CD is the angle of the ACB angle. Knowing that CB = CD, what is the angle of ADC?
+> ABC is an isosceles triangle with AB = AC. D is a point on side AB such that CD is the bisector of angle ACB. Given that CB = CD, how many degrees does angle ADC measure?
 >
 > - **(A)** 90°,
 > - **(B)** 108°,
@@ -395,7 +427,10 @@ Last year's report on tobacco-farm relations
 > - **(D)** 144°,
 > - **(E)** 155°.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_biennio#q09|src_archimede_2009_biennio__Q09]]
 
 
 
@@ -427,9 +462,10 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares dividing 1600*
+*Perfect squares that divide 1600*
 
-> How many perfect squares divide 1600? [A perfect square is a number of the type n2, with n as a natural number. 1, 4, 9, 16, are examples of perfect squares.]
+> How many perfect squares divide 1600? [A perfect square is a number of the
+> form n2, with n a natural number. 1, 4, 9, 16, are examples of perfect squares.]
 >
 > - **(A)** 2,
 > - **(B)** 4,
@@ -437,7 +473,11 @@ Last year's report on tobacco-farm relations
 > - **(D)** 10,
 > - **(E)** 12.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2009_biennio#q10|src_archimede_2009_biennio__Q10]]
 
 
 
@@ -472,9 +512,9 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numerical differences for numbers from 10 to 99*
+*Sum of digit differences for numbers from 10 to 99*
 
-> Little Rita plays this game: for every whole number between 10 and 99, including extremes, she subtracts the number of units from the number of tens and writes the result on a sheet (for example, for 21 she writes 1, i.e. 2 −1, while for 37 she writes −4, i.e. 3 −7). In the end, he adds up all the numbers he wrote on the paper; what does he find?
+> Little Rita plays this game: for every integer between 10 and 99, inclusive, she subtracts the units digit from the tens digit and writes the result on a sheet (for example, for 21 she writes 1, that is 2 −1, while for 37 she writes −4, that is 3 −7). At the end she adds up all the numbers she wrote on the sheet; what result does she find?
 >
 > - **(A)** 0,
 > - **(B)** −30,
@@ -482,7 +522,11 @@ Last year's report on tobacco-farm relations
 > - **(D)** −50,
 > - **(E)** 100.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2009_biennio#q11|src_archimede_2009_biennio__Q11]]
 
 
 
@@ -517,11 +561,12 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of drawing three triangles from P without removing a pen*
+*Ways of drawing three triangles from P without lifting the pen*
 
-![[src_archimede_2009_biennio__prob12.png]]
-
-> How many distinct ways can I draw the figure side by side starting from P, without ever pulling the pen off the sheet and without passing more than once from any point except the common triangle vertex?
+> In how many distinct ways can I draw the figure alongside
+> starting from P, never lifting the pen from the sheet and
+> never passing more than once through any point except the
+> common vertex of the three triangles?
 >
 > - **(A)** 24 3,
 > - **(B)** 23 3,
@@ -529,7 +574,11 @@ Last year's report on tobacco-farm relations
 > - **(D)** 22 33,
 > - **(E)** 33. P
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2009_biennio#q12|src_archimede_2009_biennio__Q12]]
 
 
 
@@ -581,28 +630,11 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area covered by 60 degree rotated rubber*
+*Area swept by a rhombus of equilateral triangles rotated through 60 degrees*
 
 ![[src_archimede_2009_biennio__prob13.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (C) at (0,2);
-  \coordinate (D) at (-1.732,1);
-  \coordinate (B) at (1.732,1);
-  \draw (D)--(C)--(B)--(A)--cycle;
-  \draw (A)--(C);
-  \node[below] at (A) {$A$};
-  \node[above] at (C) {$C$};
-  \node[left] at (D) {$D$};
-  \node[right] at (B) {$B$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the figure, the triangles ABC and ACD are equilateral and have sides 1 m long. If we rotate the wheel of 60° with respect to vertex A, what is the area of the surface covered by the wheel in rotation?
+> In the rhombus in the figure, triangles ABC and ACD are equilateral and have side of length 1 m. If the rhombus is rotated through 60° about the vertex A, what is the area of the region covered by the rhombus during the rotation?
 >
 > - **(A)** π 2 m2,
 > - **(B)** 1 m2,
@@ -610,7 +642,11 @@ Last year's report on tobacco-farm relations
 > - **(D)** π 3 m2,
 > - **(E)** 2 m2.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2009_biennio#q13|src_archimede_2009_biennio__Q13]]
 
 
 
@@ -643,17 +679,20 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rope routes spent with prices at power of two*
+*Number of broken strings given prices in powers of two*
 
-> Ziggy broke some of the nine strings on his Martian guitar. The strings are numbered from 1 to 9; the first one costs a Martian pound, and each one costs twice as much as the previous one. After a quick count, Ziggy calculates that he will have to spend 158 Martian pounds to buy the new ropes. How many strings are broken?
+> Ziggy has broken some of the nine strings of his Martian guitar. The strings are numbered from 1 to 9; the first costs one Martian pound and each of the others costs twice as much as the one with the previous number. After a quick calculation, Ziggy works out that he will have to spend 158 Martian pounds to buy the new strings. How many strings are broken?
 >
-> - **(A)** One of them.
+> - **(A)** one,
 > - **(B)** three,
 > - **(C)** four,
 > - **(D)** five,
-> - **(E)** Seven of them.
+> - **(E)** seven.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_biennio#q14|src_archimede_2009_biennio__Q14]]
 
 
 
@@ -686,17 +725,21 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students with n first and n^3+3 first*
+*Students whose register number n is prime and so is n^3+3*
 
-> The Italian teacher enters a class of 24 students, all present, for one hour of questioning. He decides to question the students to whom he corresponds on the register a number n that is prime and such that n3 + 3 is also prime. How many students are you interviewing?
+> The teacher of Italian enters a class of 24 students, all present, for an hour of oral questioning. She decides to question the students who correspond, in the register, to a number n that is prime and such that n3 + 3 is also prime. How many students does she question?
 >
-> - **(A)** One of them.
+> - **(A)** one,
 > - **(B)** three,
 > - **(C)** four,
 > - **(D)** seven,
-> - **(E)** I'll give you nine.
+> - **(E)** nine.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2009_biennio#q15|src_archimede_2009_biennio__Q15]]
 
 
 
@@ -728,9 +771,9 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of tangent gold and silver coins*
+*Ratio of the radius of the gold coin to the radius of the silver coins that are tangent*
 
-> A gold coin is surrounded by four equal silver coins. Each silver coin is equivalent to the gold coin and to two silver coins. Find the ratio of the gold coin radius to that of the silver coins.
+> A gold coin is surrounded by four equal silver coins. Each silver coin is tangent to the gold coin and to two silver coins. Find the ratio between the radius of the gold coin and that of the silver coins.
 >
 > - **(A)** 1 4,
 > - **(B)** √ 2 −1,
@@ -738,7 +781,10 @@ Last year's report on tobacco-farm relations
 > - **(D)** √ 2 2 ,
 > - **(E)** 1.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_biennio#q16|src_archimede_2009_biennio__Q16]]
 
 
 
@@ -770,9 +816,10 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orders between a, b and 1 given cubic inequality*
+*Order of a, b and 1 given a cubic inequality*
 
-> a and b are two numbers greater than or equal to zero. We know that: a3 + a < b − b3. What is the correct order between the three numbers a, b and 1?
+> a and b are two numbers greater than or equal to zero. We know that: a3 + a < b −b3.
+> What is the correct order among the three numbers a, b and 1?
 >
 > - **(A)** b < a < 1,
 > - **(B)** a = b = 1,
@@ -780,7 +827,11 @@ Last year's report on tobacco-farm relations
 > - **(D)** a < b < 1,
 > - **(E)** 1 < a < b.
 
-**Answer:** D
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2009_biennio#q17|src_archimede_2009_biennio__Q17]]
 
 
 
@@ -814,9 +865,9 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Password counting with capital and diminutive vowels*
+*Counting passwords with upper- and lower-case vowels*
 
-> Carla forgot the power password of her new computer! However, it should be remembered that it is a sequence of 4 vowels, not necessarily distinct, of which two are capital letters and two are diminutive. How many different passwords does Carla have to test, at most, to turn on the computer?
+> Carla has forgotten the password for turning on her brand-new computer! She remembers, however, that it is a sequence of 4 vowels, not necessarily distinct, of which two are upper-case and two are lower-case. At most, how many different passwords must Carla try to turn on the computer?
 >
 > - **(A)** 3 · 54,
 > - **(B)** 55,
@@ -824,7 +875,11 @@ Last year's report on tobacco-farm relations
 > - **(D)** 56,
 > - **(E)** 3 · 56.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2009_biennio#q18|src_archimede_2009_biennio__Q18]]
 
 
 
@@ -859,11 +914,9 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded area with rectangle, circle and semicircular*
+*Shaded area with rectangle, circle and semicircles*
 
-![[src_archimede_2009_biennio__prob19.png]]
-
-> We draw a rectangle with sides of 5 cm and 12 cm, the circumference in which it is inscribed and the semicirculars having the sides of the rectangle in diameter and are external to it, as shown in the figure next to it. What is the area of the shaded part?
+> We draw a rectangle with sides 5 cm and 12 cm, the circle in which it is inscribed, and the semicircles having the sides of the rectangle as diameters and lying outside it, as indicated in the figure alongside. What is the area of the shaded part?
 >
 > - **(A)** 45 cm2,
 > - **(B)** 13π cm2,
@@ -871,7 +924,10 @@ Last year's report on tobacco-farm relations
 > - **(D)** 60 cm2,
 > - **(E)** 20π cm2.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_biennio#q19|src_archimede_2009_biennio__Q19]]
 
 
 
@@ -908,14 +964,18 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who lies between four poker players
+*The liar among four poker players*
 
-> Four friends, Anna, Bea, Caius, and Dino, play poker with 20 cards of the same deck: the four kings, the four queens, the four fanciers, the four axes, and the four ten. Five cards are dealt each. Anna says, "I have a poker! Bea says, "I've got all five of the cards". Caius says, "I have five red cards". Finally, Dino says: I have three cards of the same value and the other two are also of the same value. We know that all of these statements are false; who is lying?
+> Four friends, Anna, Bea, Caio and Dino, play poker with 20 cards from the same deck: the four kings, the four queens, the four jacks, the four aces and the four tens. Five cards are dealt to each of them. Anna says: "I have a four of a kind!" (four cards of the same rank). Bea says: "I have all five heart cards". Caio says: "I have five red cards". Finally Dino says: "I have three cards of the same rank and the other two also have the same rank as each other". We know that one and only one of the statements is false; who is lying?
 >
-> - **(A)** Anna, what are you doing?
-> - **(B)** Bea, what are you doing?
-> - **(C)** Caius,
-> - **(D)** Dino, what are you doing?
-> - **(E)** There's no way to tell.
+> - **(A)** Anna,
+> - **(B)** Bea,
+> - **(C)** Caio,
+> - **(D)** Dino,
+> - **(E)** it cannot be determined.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_biennio#q20|src_archimede_2009_biennio__Q20]]

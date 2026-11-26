@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria del cerchio: dimostrare che due accordi a punto medio dell'arco sono uguali*
+*Due corde uguali a partire dal punto medio di due archi*
 
-> Lasciate che $O$ sia un cerchio, e lasciate che cinque punti $A, M, B, C, D$ si trovino su $O$ in questo ordine. Supponiamo che l'arco $MA$ e l'arco $MB$ siano divisi (cioè si prendono i loro punti medi). Il $P$ e il $Q$ siano rispettivamente le intersezioni della linea $AC$ con la linea $MD$ e della linea $BD$ con la linea $MC$, e il $X$ e il $Y$ siano i due punti di intersezione della linea $PQ$ con il cerchio $O$. Prove che $MX = MY$.
+> Sia $O$ una circonferenza, e siano $A, M, B, C, D$ cinque punti di $O$, in quest'ordine. Si supponga che l'arco $MA$ e l'arco $MB$ siano bisecati (se ne prendono i punti medi). Siano $P$ e $Q$ rispettivamente l'intersezione della retta $AC$ con la retta $MD$ e della retta $BD$ con la retta $MC$, e siano $X$ e $Y$ i due punti in cui la retta $PQ$ incontra la circonferenza $O$. Dimostrare che $MX = MY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo16mq_honsen#q01|src_jmo16mq_honsen__Q01]]
 
 
 
@@ -55,9 +60,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i numeri interi k con infinite soluzioni di numeri interi all'equazione*
+*Interi k per cui l'equazione ha infinite soluzioni intere*
 
-> Trova tutti gli integri $k$ per i quali esistono infiniti triples di integri $(a, b, c)$ soddisfacendo $$(a^2 - k)(b^2 - k) = c^2 - k.$$
+> Determinare tutti gli interi $k$ per i quali esistono infinite terne di interi $(a, b, c)$ che soddisfano
+>
+> $$(a^2 - k)(b^2 - k) = c^2 - k.$$
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo16mq_honsen#q02|src_jmo16mq_honsen__Q02]]
 
 
 
@@ -81,9 +93,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
+*Funzioni reali che soddisfano un'equazione funzionale*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite sui numeri reali in modo tale che per tutti i numeri reali $x, y$, $$f(x)^2 + 2y\,f(x) + f(y) = f\bigl(y + f(x)\bigr).$$
+> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite sui reali tali che, per tutti i numeri reali $x, y$,
+>
+> $$f(x)^2 + 2y\,f(x) + f(y) = f\bigl(y + f(x)\bigr).$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo16mq_honsen#q03|src_jmo16mq_honsen__Q03]]
 
 
 
@@ -106,9 +125,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le configurazioni di incrocio del percorso della rete; trovare tutti i tupli validi*
+*Tuple di interi positivi per una condizione sui cammini in una griglia di strade*
 
-> Lasciate che gli integri $m, n$ soddisfino $2 \le m \le n$. Considerate una griglia di strade $m \times n$: ci sono $m$ strade orizzontali che vanno da est a ovest e $n$ strade verticali che vanno da nord a sud. Un sentiero è un percorso che percorre solo l'est lungo strade orizzontali. La griglia ha una regione rettangolare. Diciamo che una coppia $(a, a')$ con $a \neq a'$ e una coppia $(b, b')$ con $b \neq b'$ soddisfano la condizione se: a partire dall'estremità occidentale della strada orizzontale $a$ (resp.\ $a'$), tra tutte le intersezioni nord/sud, i punti di attraversamento del percorso da strada $a$ e dal percorso da strada $a'$ con strade nord/sud $b$ e $b'$ (respectivamente) sono tali che, contando dall'inizio (compreso l'inizio) alla fine, ogni punto di attraversamento viene visitato esattamente una volta. Trova tutti i tuppi $(m, n, a, b, a', b')$ di numeri interi positivi che soddisfano questa condizione.
+> Siano $m, n$ interi che soddisfano $2 \le m \le n$. Si consideri una griglia di strade $m \times n$: ci sono $m$ strade orizzontali in direzione est-ovest e $n$ strade verticali in direzione nord-sud. Un cammino è un percorso che procede solo verso est lungo le strade orizzontali. C'è una regione rettangolare della griglia. Diciamo che una coppia $(a, a')$ con $a \neq a'$ e una coppia $(b, b')$ con $b \neq b'$ soddisfano la condizione se: partendo dall'estremo ovest della strada orizzontale $a$ (risp. $a'$), tra tutte le intersezioni nord-sud, i punti di incrocio del cammino dalla strada $a$ e del cammino dalla strada $a'$ con le strade nord-sud $b$ e $b'$ (rispettivamente) sono tali che, contando dall'inizio (inizio compreso) fino alla fine, ogni punto di incrocio è visitato esattamente una volta. Trovare tutte le tuple $(m, n, a, b, a', b')$ di interi positivi che soddisfano questa condizione.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo16mq_honsen#q04|src_jmo16mq_honsen__Q04]]
 
 
 
@@ -133,6 +157,15 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il massimo di A in una disuguaglianza simmetrica per i reali positivi*
+*Massima costante in una disuguaglianza per reali positivi, e casi di uguaglianza*
 
-> Per i numeri reali positivi $x_1, x_2, x_3, y_1, y_2, y_3, z_1, z_2, z_3$, trovare il valore massimo della costante $A$ in modo tale che l'ineguaglianza $$(x_1^2 + x_2^2 + x_3^2)(y_1^2 + y_2^2 + y_3^2)(z_1^2 + z_2^2 + z_3^2) \ge A(x_1 + y_1 + z_1)(x_2 + y_2 + z_2)(x_3 + y_3 + z_3)$$ sia valida per tutti tali numeri reali positivi. Trova anche tutte le condizioni in cui l'uguaglianza si verifica.
+> Per numeri reali positivi $x_1, x_2, x_3, y_1, y_2, y_3, z_1, z_2, z_3$, determinare il massimo valore della costante $A$ tale che la disuguaglianza
+>
+> $$(x_1^2 + x_2^2 + x_3^2)(y_1^2 + y_2^2 + y_3^2)(z_1^2 + z_2^2 + z_3^2) \ge A(x_1 + y_1 + z_1)(x_2 + y_2 + z_2)(x_3 + y_3 + z_3)$$
+>
+> valga per tutti questi reali positivi. Determinare anche tutte le condizioni in cui vale l'uguaglianza.
+
+**Argomento:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo16mq_honsen#q05|src_jmo16mq_honsen__Q05]]

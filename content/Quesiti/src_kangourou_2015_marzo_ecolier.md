@@ -45,19 +45,22 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_ecolier__prob1.png]]
 
-> Carry out in order the operations indicated above each arrow. What number should be written 
-> in the last little cloud? 
+> Perform the operations indicated above each arrow in order. What number should be written in the last speech bubble?
 > A) 6	
-> 	
+>
 > B) 7	
-> 	
+>
 > C) 8	
-> 	
+>
 > D) 10	
-> 	
+>
 > E) 15
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q01|src_kangourou_2015_marzo_ecolier__Q01]]
 
 
 
@@ -91,9 +94,14 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_ecolier__prob2.png]]
 
-> Henry has the 10 bars of metal all the same as you see in the figure. With screws, it joins them in pairs to form the 5 longest bars that are shown in the figures that make up the answers. Which one is the longest?
+> Enrico has 10 metal bars, all of them identical.
+> which you see in the figure. With screws, you join them in pairs to form the 5 longer bars shown in the figures that constitute the answers. Which one is the longest of all?
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q02|src_kangourou_2015_marzo_ecolier__Q02]]
 
 
 
@@ -130,21 +138,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number on the square*
+*Number on the square*
 
 ![[src_kangourou_2015_marzo_ecolier__prob3.png]]
 
-> The figure shows two additions, but two of the four addends are each covered by a triangle and a third addend is covered by a square. The two numbers covered by the two triangles are equal to each other. What's the number covered by the square? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> The figure shows two additions, but two of the four addends
+> Each of them is covered by a triangle, and a third addend is covered by a square. The two numbers covered by the two triangles are equal to each other. What is the number covered by the square?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q03|src_kangourou_2015_marzo_ecolier__Q03]]
 
 
 
@@ -185,14 +199,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min to be removed*
+*Minimum to take*
 
 ![[src_kangourou_2015_marzo_ecolier__prob4.png]]
 
-> There's a couple of sheets on the table. Some are circular, some are square, some are triangular, as shown in the figure. If you want to leave only the same-shaped sheets on the table, what is the smallest number of sheets you need to remove? A) 4            B) 9             C) 6             D) 8             E) 10 2 0 + 1 5 x − ? 4 7 9
+> On the table there are several small sheets of paper. Some are a for-
+> Some are circular, others square, and still others triangular, as shown in the figure. If you want only slips of paper all having the same shape to remain on the table, what is the smallest number of slips you need to remove?
+> A) 4            B) 9             C) 6             D) 8             E) 10
+> 2 0
+> + 1
+> 5 x − ? 4 7 9
 >
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q04|src_kangourou_2015_marzo_ecolier__Q04]]
 
 
 
@@ -229,17 +252,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Money in the purse after spending €7*
+*Money in the wallet after spending 7 euros*
 
 ![[src_kangourou_2015_marzo_ecolier__prob5.png]]
 
-> The figure shows the money that Lucia had in her wallet before entering a shop, where she spent 7 euros: a 10 euro note, two 2 euro coins and a 1 euro coin. Which of the following figures can show the money Lucia has in her purse now that she has just left the store?
-> 	
-> 	
->     	
-> A) B) C) D) E)
+> The figure shows the money Lucia had in her purse.
+> Lino, before entering a shop, where she spent 7 euros: one 10-euro note, two 2-euro coins, and one 1-euro coin. Which of the following figures could represent the money Lucia has in her purse now that she has just left the shop?
+>
+>
+>
+>            A)	
+>           B) 	
+>         C) 		
+>         D)	 	
+>         E)
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q05|src_kangourou_2015_marzo_ecolier__Q05]]
 
 
 
@@ -281,22 +313,19 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_ecolier__prob6.png]]
 
-> On a circle, 9 points are marked and numbered. Starting
-> from point 1, Giacomo drew the segment joining it
-> to point 3, then he drew the segment joining point 3
-> to point 5: the figure shows you what Giacomo has done up to
-> now.  Now Giacomo intends to continue in this way in
-> drawing the segments, skipping one point each time, and stopping
-> when he has returned again to point 1. Among the following paths, which is the one that
-> Giacomo will have to draw?
->      
+> On a circle, 9 points are marked and numbered. Starting from point 1, Giacomo drew the line segment connecting it to point 3, and then drew the line segment connecting point 3 to point 5: the figure shows what Giacomo has done so far. Now Giacomo intends to continue drawing the line segments in this way, skipping one point each time, and to stop when he has returned to point 1 again. Among the following paths, which one will Giacomo have to draw?
+>
 >          A)		
 >           B)		
 >          C)		
 >         D)	 	
 >        E)
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q06|src_kangourou_2015_marzo_ecolier__Q06]]
 
 
 
@@ -323,13 +352,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many are on the island*
+*How many are on the island?*
 
 ![[src_kangourou_2015_marzo_ecolier__prob7.png]]
 
-> The figure shows a very fractured island and 10 frogs. Some frogs are in the water. How many are on the island? A) 5              B) 6              C) 7              D) 8                 E) 9
+> The figure shows a very jagged island and 10 frogs. Some frogs are in the water: how many are on the island?
+> A) 5              B) 6              C) 7              D) 8                 E) 9
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q07|src_kangourou_2015_marzo_ecolier__Q07]]
 
 
 
@@ -371,15 +405,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which representation*
+*what representation*
 
 ![[src_kangourou_2015_marzo_ecolier__prob8.png]]
 
-> Looking at my umbrella from above, as shown in the figure next to it, you read the word KANGAROO (Kangaroo). Which of the following figures might represent my umbrella? A) B) C) D) E) R A G N A K O O
-> 
-> The questions from N. 9 to N. 16 are worth 4 points each.
+> Looking at my umbrella from above, as shown in the figure beside it, the word KANGAROO (kangaroo in English) can be read. Which of the following figures could represent my umbrella?
+> A)	
+> B)	
+> C)	
+> D)	
+> E)
+> R A G N A K O O
+>
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q08|src_kangourou_2015_marzo_ecolier__Q08]]
 
 
 
@@ -411,9 +455,14 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_ecolier__prob9.png]]
 
-> Bruno wants to break down the region determined by the dark contour in Figure 1 into triangles all equal to the one shown in Figure 2. How many triangles will he get? A) 8               B) 12                 C) 14                  D) 15                  E) 16
+> Bruno wants to divide the region bounded by the dark outline in Figure 1 into triangles, all of which are identical to the one shown in Figure 2. How many triangles will he get?
+> A) 8               B) 12                 C) 14                  D) 15                  E) 16
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q09|src_kangourou_2015_marzo_ecolier__Q09]]
 
 
 
@@ -447,19 +496,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many bananas are given*
+*How many bananas do you give?*
 
-> Carlo had seven apples and two bananas. He gave Gianni two apples, and in exchange he gave him some bananas. Now the number of apples and the number of bananas that Carlo has are the same. How many bananas did Gianni give Carlo? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Carlo had 7 apples and 2 bananas. He gave 2 apples to Gianni, who in return gave him some bananas. Now the number of apples and the number of bananas Carlo has are equal. How many bananas did Gianni give to Carlo?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q10|src_kangourou_2015_marzo_ecolier__Q10]]
 
 
 
@@ -493,9 +547,15 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_ecolier__prob11.png]]
 
-> Sarah had many grey cubes and many white cubes. She built the large cube you see in the figure so that two cubes of the same color never had any faces in common. How many white cubes did she use? A) 10           B) 12            C) 13            D) 14            E) 15
+> Sara had many grey cubes and many white cubes. By arranging 27 of them so that two cubes of the same colour never shared any face at all, she built the large cube you see in the figure. How many white cubes did she use?
+> A) 10           B) 12            C) 13            D) 14            E) 15
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q11|src_kangourou_2015_marzo_ecolier__Q11]]
 
 
 
@@ -526,14 +586,18 @@ level: kangourou
 
 *position*
 
-> In a competition in which 30 contestants took part, Gennaro beat 3 contestants more than the number who beat him. What was Gennaro's ranking?
-> A) 14th	
-> B) 13th	
-> C) 11th	
-> D) 12th	
-> E) 7th
+> In a race in which 30 competitors took part, Gennaro overtook 3 more competitors than were overtaken by him. What position did Gennaro finish in?
+> A) 14-mo
+> B) 13-mo
+> C) 11-mo
+> D) 12-mo
+> E) 7th month
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q12|src_kangourou_2015_marzo_ecolier__Q12]]
 
 
 
@@ -568,19 +632,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many ways*
+*How many ways*
 
-> Stefano has four models: a truck, a car, a ship and a train. He wants to line them up so that both the ship and the train come after the car. In how many different ways can he line up his toys? A) 4
-> 	
-> B) 8
-> 	
-> C) 10
-> 	
-> D) 6
-> 	
+> Stefano has 4 model toys: a truck, a car, a ship, and a train. He wants to line them up so that both the ship and the train come after the car. In how many different ways can he arrange his toys in a row?
+> A) 4	
+>
+> B) 8	
+>
+> C) 10	
+>
+> D) 6	
+>
 > E) 2
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q13|src_kangourou_2015_marzo_ecolier__Q13]]
 
 
 
@@ -631,39 +701,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*point never touched*
+*Point never touched*
 
 ![[src_kangourou_2015_marzo_ecolier__prob14.png]]
 
-> In the park there is a cycle path like the one shown
-> in the figure, 6 points of which are indicated by as many
-> letters. Pietro starts from point S moving in the
-> direction indicated by the arrow: at the first intersection he
-> finds he turns right, at the second he turns left, at the third
-> right, at the fourth left, and so on, alternating the choice
-> of right with the choice of left. Although he passes again many
-> times through point S, there is one point (and only one) through which,
-> doing so, Pietro never passes: which one is it?
+> In the park, there is a cycle path like the one shown in the figure; 6 points on it are marked by as many letters. Pietro starts at point S and moves in the direction indicated by the arrow: at the first intersection he comes to, he turns right; at the second, he turns left; at the third, right; at the fourth, left; and so on, alternating right turns with left turns. Although he passes through point S many times, there is one point (and only one) that Pietro never passes through when he does this: which one is it?
 > A) A	
-> 	
+>
 > B) B	
-> 	
+>
 > C) C	
-> 	
+>
 > D) D	
-> 	
+>
 > E) E
-> Figure 1
-> Figure 2
-> B
-> E
-> C
-> D
-> A
-> S
+> Figure 1 Figure 2 B E C D A S
 >
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q14|src_kangourou_2015_marzo_ecolier__Q14]]
 
 
 
@@ -704,33 +763,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*total messages*
+*Total messages*
 
 ![[src_kangourou_2015_marzo_ecolier__prob15.png]]
 
-> The figure shows you five ladybugs: each
-> of them has some black spots on its back. Two
-> ladybugs are friends if and only if the numbers
-> of their black spots differ by one. Today
-> is the ladybugs' party: each one sends a
-> greeting message to each of its friends.
-> How many messages in total were sent
-> today by the ladybugs?
+> The figure shows you five ladybugs: each of them has some black spots on its back. Two ladybugs are friends if and only if the numbers of their black spots differ by one. Today is Ladybug Day: each ladybug sends a greeting message to each of its friends. How many messages have the ladybugs sent in total today?
 > A) 2	
-	
-> 	
+>
 > B) 4	
-	
-> 	
+>
 > C) 6	
-	
-> 	
+>
 > D) 8	
-	
-> 	
+>
 > E) 9
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q15|src_kangourou_2015_marzo_ecolier__Q15]]
 
 
 
@@ -766,15 +818,17 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_ecolier__prob16.png]]
 
-> The figure you see is obtained by placing next to each other some 
-> small squares that are all identical. Maria managed to break it into three pieces, all equal to each other, possibly after having flipped some of them. Which of the 
-> following are the three pieces equal to?
+> The figure you see is made by joining together some identical small squares. Maria managed to break it into three pieces, all of which are identical to one another—possibly after flipping some of them over. Which of the following is equal to the three pieces?
 >                A)	
 >             B)                    C)     	
 >           D)             	        E) 
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q16|src_kangourou_2015_marzo_ecolier__Q16]]
 
 
 
@@ -830,7 +884,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which number to delete*
+*Which number to eliminate?*
 
 ![[src_kangourou_2015_marzo_ecolier__prob17.png]]
 
@@ -849,17 +903,22 @@ level: kangourou
 \end{document}
 ```
 
-> I want to cover a cube-shaped box with paper without overlapping. So I drew on a piece of paper and cut out the figure you see right next to it (composed of squares all equal to each other and equal to the faces of the box), which I'll then fold along each side common to two squares. But by mistake, I drew 7 squares instead of 6. So I have to eliminate one of them, but I want the paper not to break in two and in particular there is no square connected only by one vertex to another. What's the number of the square that you want to eliminate? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 6
-> 	
+> I want to cover a cube-shaped box with paper with no overlaps. To this end, I drew on a sheet of paper and cut out the figure you see here beside me (composed of squares that are all the same and equal to the faces of the box), which I will then fold along each side common to two squares. By mistake, however, I drew 7 squares instead of 6. I must therefore remove one of them, but I want the sheet of paper not to split in two and, in particular, I want there to be no square that is joined to another square by only a single vertex. What is the number of the square that must be removed?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q17|src_kangourou_2015_marzo_ecolier__Q17]]
 
 
 
@@ -898,14 +957,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max black squares*
+*max small black squares*
 
 ![[src_kangourou_2015_marzo_ecolier__prob18.png]]
 
-> In the figure you can see three transparent square sheets, each divided into 9 squares and on each one some of the squares are blackened. The three sheets must be superimposed so that they appear as a single square: they can be rotated as desired, but not reversed. You want as many squares that look black as possible when they're overlapped. What's this number? A) 5            B) 6           C) 7             D) 8              E) 9 1 2 3 4 5 6 7
+> In the figure, you see three transparent square sheets: each of them is divided into 9 small squares, and on each sheet some of the small squares are blackened. The three sheets are to be superimposed so that a single square appears: they can be rotated as desired, but not flipped. The aim is that, once superimposed, the small squares that appear black should be as many as possible. What is this number?
+> A) 5            B) 6           C) 7             D) 8              E) 9
+> 1 2 3 4 5 6 7
 >
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q18|src_kangourou_2015_marzo_ecolier__Q18]]
 
 
 
@@ -989,13 +1054,21 @@ level: kangourou
 \end{document}
 ```
 
-> Each of the nine segments in the figure must be coloured choosing among the colours red, green and blue, so that in each triangle the three sides are given different colours. As you can see, three segments have already been assigned colours in the figure. What color can the segment marked with x be? A) Only blue.
-> 	
-> B) Only green.
-> 	
-> C) Only red. D) Any color is fine. E) No color is right.
+> Each of the 9 segments in the figure must be colored using the colors red, green, and blue, with the condition that, in each triangle, the 3 sides have different colors. As you can see, colors have already been assigned to three segments in the figure. What color can the segment marked x be?
+> A) Solo blue.
+>
+> B) Green solo.
+>
+> C) Single red.
+> D) Any color will do.
+> E) No color will do.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q19|src_kangourou_2015_marzo_ecolier__Q19]]
 
 
 
@@ -1035,21 +1108,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The sum of John's sum
+*Sum of Giovanni*
 
 ![[src_kangourou_2015_marzo_ecolier__prob20.png]]
 
-> Aldo has ten disks numbered 0 to 9, like the ones in the figure. He gives three to John, four to Luke, three to Anna and asks each of them to multiply the numbers on the disks he has received: the result is 0 for John, 72 for Luke and 90 for Anna. What is the sum of the numbers on the disks that John received ? A) 11
-> 	
-> B) 12
-> 	
-> C) 13
-> 	
-> D) 14
-> 	
+> Aldo has ten numbered discs, from 0 to 9, like those in the figure. He gives three to Giovanni, four to Luca, and three to Anna, and asks each of them to multiply the numbers on the discs they have received: the result is 0 for Giovanni, 72 for Luca, and 90 for Anna. What is the sum of the numbers on the discs Giovanni received?
+> A) 11	
+>
+> B) 12	
+>
+> C) 13	
+>
+> D) 14	
+>
 > E) 15
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q20|src_kangourou_2015_marzo_ecolier__Q20]]
 
 
 
@@ -1084,15 +1163,23 @@ The sum of John's sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*what is broken under the cut*
+*what scraps beneath the cut*
 
 ![[src_kangourou_2015_marzo_ecolier__prob21.png]]
 
-> A ring of rope was thrown on a table and the rope rolled in some places. The rope, as it lay on the table, was then cut horizontally: over the cut the three pieces of rope that you see in the figure remain. Of the answers, what are the three pieces left under the cut?
->  
-> A) B) C) D) E)
+> A loop of rope was placed on a table, and in some places the rope crossed over itself. The rope, as it lay on the table, was then cut horizontally: above the cut, the three pieces of rope you see in the figure remained. Of those indicated in the answers, which can be the three pieces that remained below the cut?
+>
+>           A)		
+>           B)		
+>        C)	 	
+>          D)		
+>       E)
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q21|src_kangourou_2015_marzo_ecolier__Q21]]
 
 
 
@@ -1154,9 +1241,18 @@ The sum of John's sum
 \end{document}
 ```
 
-> The points you see marked in the figure are the 16 vertices of nine squares that, placed side by side, form a square. Choosing 4 of these 16 points each time, you can form different squares, even of different areas. What's the maximum number of squares you can get, that have all different areas? A) 2 B) 3 C) 4	               D) 5 E) 6
+> The points marked in the figure are the 16 vertices of nine small squares which, when placed side by side, in turn form a square. By choosing 4 of these 16 points each time, various squares can be formed, including squares with different areas. What is the maximum number of squares that can be obtained, all of which have mutually different areas?
+> A) 2	
+>         B) 3	
+>       C) 4	               D) 5	
+>      E) 6
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q22|src_kangourou_2015_marzo_ecolier__Q22]]
 
 
 
@@ -1187,17 +1283,23 @@ The sum of John's sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits*
+*sum of the digits*
 
-> The product of the digits of an integer is 15. What's their sum? A) 2
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> D) 8 E) The information is not sufficient to answer
+> The product of the digits of an integer is 15. What is their sum?
+> A) 2	
+>
+> B) 4	
+>
+> C) 6	
+>
+> D) 8             
+> E) The information is insufficient to respond
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q23|src_kangourou_2015_marzo_ecolier__Q23]]
 
 
 
@@ -1236,23 +1338,21 @@ The sum of John's sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who more on Saturday*
+*Who more on Saturday*
 
-> During the weekend, Saturday and Sunday, five friends baked some
-> cookies: Anna baked 24, Bruno 25, Cesare 26, Davide 27 and Elisa 28. By
-> Sunday evening, one of them had in total twice as many cookies as he or she had
-> baked by Saturday evening, another three times as many, another four times as many, another five times
-> as many and another six times as many. Who had baked the most by Saturday evening?  
-> A) Anna		
-> B) Bruno	
-> C) Cesare	
-> D) Davide	
+> Over the weekend, on Saturday and Sunday, five friends baked cookies: Anna baked 24, Bruno 25, Cesare 26, Davide 27, and Elisa 28. By Sunday evening, one of them had twice as many cookies in total as the number he had baked on Saturday evening; another had three times that number; another four times; another five times; and another six times. Who had baked the most by Saturday evening?
+> A) Anna
+> B) Bruno
+> C) Cesare
+> D) Davide
 > E) Elisa
-> red
-> red
-> blue
-> x
-> 
+> red red blue x
+>
 > ECOLIER STRING 2015
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_ecolier#q24|src_kangourou_2015_marzo_ecolier__Q24]]

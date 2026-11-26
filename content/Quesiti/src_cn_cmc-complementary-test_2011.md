@@ -31,11 +31,18 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi di diagonali di quadrilaterali ciclici, condizione di angolo uguale*
+*Punti medi delle diagonali di un quadrilatero ciclico, condizione di uguaglianza degli angoli*
 
-> 40 punti) Come illustrato nella figura. 1.1, i punti $P$, $Q$ sono, rispettivamente, i punti medi di $AC$, $BD$  le due diagonali del quadrilaterale ciclico $ABCD$. Let $\angle BPA = \angle DPA$. Provare $\angle AQB = \angle CQD$.
+> (40 punti) Come si vede nella Fig. 1.1, i punti $P$, $Q$ sono rispettivamente i punti medi di $AC$, $BD$ — le due diagonali del quadrilatero ciclico $ABCD$. Sia $\angle BPA = \angle DPA$. Dimostrare $\angle AQB = \angle CQD$.
 
 ![[src_cn_cmc-complementary-test_b11_w69__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2011#q01|src_cn_cmc-complementary-test_2011__Q01]]
 
 
 
@@ -65,11 +72,21 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di polinomi di grado n con proprietà moltiplicative speciali*
+*Esistenza di un polinomio di grado n con una proprietà moltiplicativa speciale*
 
-> (60 marchi) Prova per qualsiasi intero $n > 1$, esiste un polinomio di grado $n$, $$f(x) = x^n + a_{n-1}x^{n-1} + \cdots + a_1 x + a_0,$$ con le seguenti proprietà: (1) $a_0, a_1, \ldots, a_{n-1}$ sono tutti interi positivi; (2) Per qualsiasi intero positivo $a$ e arbitrario $b$ ($b \ge 2$) interi positivi $r_1, r_2, \ldots, r_b$ che sono diversi tra loro, abbiamo $$f(a) \ne f(r_1)f(r_2)\cdots f(r_b).$$
+> (60 punti) Dimostrare che, per ogni intero $n > 1$, esiste un polinomio di grado $n$,
+> $$f(x) = x^n + a_{n-1}x^{n-1} + \cdots + a_1 x + a_0,$$
+> con le seguenti proprietà: (1) $a_0, a_1, \ldots, a_{n-1}$ sono tutti numeri interi positivi; (2) Per qualsiasi numero intero positivo $a$ e per arbitrari $b$ ($b \ge 2$) numeri interi positivi $r_1, r_2, \ldots, r_b$ tutti diversi tra loro, si ha
+> $$f(a) \ne f(r_1)f(r_2)\cdots f(r_b).$$
 
 ![[src_cn_cmc-complementary-test_b11_w69__q02.png]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2011#q02|src_cn_cmc-complementary-test_2011__Q02]]
 
 
 
@@ -99,13 +116,23 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'esistenza di un polinomio di grado n con due proprietà interi/non uguali*
+*Dimostrare l'esistenza di un polinomio di grado n con due proprietà relative agli interi/alla disuguaglianza*
 
-> (60 marchi) Prova che per qualsiasi numero intero $n \geq 4$ esiste un polinomio di grado $n$, $$f(x) = x^n + a_{n-1}x^{n-1} + \cdots + a_1 x + a_0,$$ con le seguenti proprietà.
-> 
+> (60 punti) Dimostrare che per ogni numero intero $n \geq 4$ esiste un polinomio di grado $n$,
+> $$f(x) = x^n + a_{n-1}x^{n-1} + \cdots + a_1 x + a_0,$$
+> con le seguenti proprietà.
+>
 > (1) $a_1, a_2, \ldots, a_{n-1}$ sono tutti numeri interi positivi;
-> 
-> (2) Per qualsiasi intero positivo $a$ e arbitrario $b$ ($b \geq 2$) interi positivi $r_1, r_2, \ldots, r_b$ che sono diversi tra loro, abbiamo $$f(a) \neq f(r_1)f(r_2)\cdots f(r_b) + 2.$$
+>
+> (2) Per ogni numero intero positivo $a$ e per arbitrari $b$ ($b \geq 2$) numeri interi positivi $r_1, r_2, \ldots, r_b$ tutti distinti tra loro, si ha
+> $$f(a) \neq f(r_1)f(r_2)\cdots f(r_b) + 2.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2011#q03|src_cn_cmc-complementary-test_2011__Q03]]
 
 
 
@@ -129,8 +156,13 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero massimo di celle cattive in un array di 3×9*
+*Trovare il numero massimo di celle difettose in una matrice 3×9*
 
-> (20 punti) Dato un array $3 \times 9$ $A$ con ogni cella contenente un intero positivo, diciamo che un $m \times n$ ($1 \leq m \leq 3$, $1 \leq n \leq 9$) subarray di $A$ è un "buono rettangolo" se ogni numero nelle sue celle è un multiple di $10$. Una cellula di $A$ è "cattiva" se non è contenuta in alcun "buono rettangolo". Trova il numero massimo di "celle cattive" in $A$.
+> (20 punti) Dato un array $3 \times 9$ $A$ in cui ogni cella contiene un numero intero positivo, diciamo che un sottodarray $m \times n$ ($1 \leq m \leq 3$, $1 \leq n \leq 9$) di $A$ è un "rettangolo buono" se ogni numero contenuto nelle sue celle è un multiplo di $10$. Una cella di $A$ è "cattiva" se non è contenuta in alcun "rettangolo buono". Determinare il numero massimo di "celle cattive" in $A$.
 
-**Risposta:** 25
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2011#q05|src_cn_cmc-complementary-test_2011__Q05]]

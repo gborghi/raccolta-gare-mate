@@ -31,11 +31,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is Jacob's birthday.
+*Jacob's birthday*
 
-> Next January Jacob will be able to say, "The day after tomorrow will be exactly one week after my birthday". On what day does Jacob turn 10?
+> On the upcoming 1st January, Jacob will be able to say, "The day after the day after tomorrow will be exactly one week after my birthday." On which day is Jacob's birthday?
 
-**Answer:** 28 December
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q01|src_bocconi_autunno_2007__Q01]]
 
 
 
@@ -62,13 +67,19 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden number by stains in multiplication*
+*Digit hidden by the spots in the multiplication*
 
-> Sara, who still can't use her new stylography well, unfortunately stained the arithmetic book. But the spots are strange: although they are different in shape, they always hide the same figure. What kind? $$(\blacksquare \times 3) + (\blacksquare \times \bullet) = \blacksquare\blacksquare$$
+> Sara, who still can't use her new fountain pen very well, has unfortunately stained her arithmetic workbook. The stains are strange, though: even though they're different shapes, they always hide the same digit. Which one?
+> $$(\blacksquare \times 3) + (\blacksquare \times \bullet) = \blacksquare\blacksquare$$
 
 ![[src_bocconi_autunno_2007__q02.png]]
 
-**Answer:** 8
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q02|src_bocconi_autunno_2007__Q02]]
 
 
 
@@ -94,13 +105,18 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubets to build the empty pyramid of the design*
+*Cubes for building the empty pyramid in the drawing*
 
-> How many cubes did it take to build the drawing pyramid? Keep in mind that each plane of the pyramid is a square and that, in each plane, the cubes are arranged only along the edges (in the middle there is a buck).
+> How many small cubes were needed to build the pyramid in the drawing? Keep in mind that each level of the pyramid is a square and that, on each level, the small cubes are arranged only along the edges (there is a "hole" in the middle).
 
 ![[src_bocconi_autunno_2007__q03.png]]
 
-**Answer:** 41
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q03|src_bocconi_autunno_2007__Q03]]
 
 
 
@@ -126,13 +142,18 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Around the two overlapping parts of the decoupage*
+*Outline of the two overlapping découpage pieces*
 
-> This puzzle is made up of only two pieces that can be overlaid. Draw the outline of these two pieces, knowing that one may have been overturned. (To help you, a first line of the boundary between the two pieces has already been drawn.)
+> This puzzle consists of only two pieces that can be superimposed. Draw the outline of these two pieces, knowing that one of them may have been flipped. (To help you, the first part of the separation outline between the two pieces has already been drawn.)
 
 ![[src_bocconi_autunno_2007__q04.png]]
 
-**Answer:** The line highlighted in the solution shows how the figure must be divided
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q04|src_bocconi_autunno_2007__Q04]]
 
 
 
@@ -157,11 +178,16 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now that the bell rings at Luke's school*
+*The time when Luca's school bell rings*
 
-> Every morning, Luke wakes up at 6:48 a.m. and wakes up five minutes later. They then take a quarter of an hour to eat breakfast, 18 minutes to wash and dress, and 6 minutes to carefully check the contents of the folder. Then take one minute to greet your mother with affection and three minutes to get to the bus stop. Wait for him for two minutes. The bus leaves him outside the school a quarter of an hour later. At this point, he still has five minutes left to chat with his companions before the bell rings. What time exactly is the bell ringing at Luke's school?
+> Every morning, Luca sets his alarm for exactly 6:48 and gets up five minutes later. He then needs a quarter of an hour to have breakfast, 18 minutes to wash and get dressed, and 6 minutes to carefully check the contents of his schoolbag. He then spends a minute affectionately saying goodbye to his mum and three minutes getting to the bus stop. He waits for 2 minutes. A quarter of an hour later, the bus drops him off in front of the school. At this point, he still has 5 minutes to chat with his classmates before the bell rings. What exact time does the bell at Luca's school ring?
 
-**Answer:** 7,58
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q05|src_bocconi_autunno_2007__Q05]]
 
 
 
@@ -187,13 +213,18 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number in the square of arrow operations*
+*Initial number in the operation square with arrows*
 
-> What number do you have to write in the box at the top left so that the four operations indicated (executed in order, starting from the horizontal arrow at the top) are correct?
+> What number must you write in the top-left box so that the four indicated operations (performed in order, starting from the horizontal arrow at the top) are correct?
 
 ![[src_bocconi_autunno_2007__q06.png]]
 
-**Answer:** 441
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2007#q06|src_bocconi_autunno_2007__Q06]]
 
 
 
@@ -219,13 +250,18 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triangles contained in Figure*
+*Number of triangles contained in the figure*
 
-> How many triangles does the figure contain?
+> How many triangles are there in the figure?
 
 ![[src_bocconi_autunno_2007__q07.png]]
 
-**Answer:** 12
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q07|src_bocconi_autunno_2007__Q07]]
 
 
 
@@ -250,11 +286,16 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deduction on glasses, hat and handles*
+*Logical deduction about glasses, caps, and left-handed people*
 
-> Our four friends are Carla, Desiderio, Luca and Milena. Two of them wear glasses, two have a hat, and two are left-handed. The two friends, who use their right hand to write, have glasses and do not wear a hat. The leftists are a boy and a girl. Desire is left. What about Luke? Is that left? (Yes or no?) Does he wear the hat? Do you have glasses? (Yes or no?) Look for the right answers.
+> Our four friends are called Carla, Desiderio, Luca, and Milena. Two of them wear glasses, two wear a cap, and two are left-handed. The two friends who write with their right hand wear glasses and do not wear a cap. The left-handed friends are one boy and one girl. Desiderio is left-handed. What can be said about Luca? Is he left-handed? (yes or no?) Does he wear a cap? (yes or no?) Does he wear glasses? (yes or no?) Circle the correct answers.
 
-**Answer:** Luca is not left-handed, he has the cap, he has the glasses
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_casework|Case analysis]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2007#q08|src_bocconi_autunno_2007__Q08]]
 
 
 
@@ -279,11 +320,16 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figures owned by Nando on Monday before the first 3*
+*Figurines owned by Nando on Monday before the first 3*
 
-> Nando loves playing with his friends. He won three on Monday. He won another MSK on Tuesday. On Wednesday, he won another$3 \times 3 \times 3$. And so on and so forth: every day of the week he wins more, three times as many as he had won the day before. So, on Saturday, he still wins $3 \times 3 \times 3 \times 3 \times 3$, coming up to 2008 figures. How many figures did he have on Monday before he won his first three figures?
+> Nando loves playing with trading cards with his friends. On Monday, he won 3. On Tuesday, he won another $3 \times 3$. On Wednesday, he won another $3 \times 3 \times 3$. And so on: each day of the week, he wins more—three times as many as he had won the previous day. So, on Saturday, he wins another $3 \times 3 \times 3 \times 3 \times 3$, reaching 2008 trading cards in total. How many trading cards did he have on Monday, before winning his first 3 trading cards?
 
-**Answer:** 916
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2007#q09|src_bocconi_autunno_2007__Q09]]
 
 
 
@@ -313,11 +359,22 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sentences in the box are simultaneously true*
+*How many sentences in the box are true at the same time?*
 
-> How many simultaneously true sentences are in the box? 1. The number of true sentences in this box is greater than 12. The number of true sentences contained in this box is greater than 2 3. The number of true sentences in this box is greater than 3 4. The number of true sentences in this box is greater than 4.5. The number of false sentences contained in this box is greater than 16. The number of false sentences contained in this box is greater than 0
+> How many sentences are simultaneously true in the box?
+> 1. The number of true sentences contained in this box is greater than 1.
+> 2. The number of true sentences contained in this box is greater than 2.
+> 3. The number of true sentences contained in this box is greater than 3.
+> 4. The number of true sentences contained in this box is greater than 4.
+> 5. The number of false sentences contained in this box is greater than 1.
+> 6. The number of false sentences contained in this box is greater than 0.
 
-**Answer:** 5
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q10|src_bocconi_autunno_2007__Q10]]
 
 
 
@@ -345,11 +402,16 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit number with square, sum and product squared*
+*A three-digit number with its square, the sum, and the product squared*
 
-> Quebec was founded in 1608 (in 2008 it will be exactly four hundred years). The square of 1608 is $2.585.664$. This number has considerable properties: it is a square; the sum of its digits is a square (36) and also the product of its digits is a square (5.760). Write a three-digit number greater than 200, with the same properties: • the square of an integer; • the sum of its digits is the square of an integer; • also the product of its digits is the square of a positive integer.
+> Quebec was founded in 1608 (in 2008, it will have been exactly four hundred years). The square of 1608 is $2.585.664$. This number has remarkable properties: it is a perfect square; the sum of its digits is a perfect square (36), and the product of its digits is also a perfect square (5,760). Write a three-digit number greater than 200 that has the same properties: • it is the square of an integer; • the sum of its digits is the square of an integer; • the product of its digits is also the square of a positive integer.
 
-**Answer:** any one of 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2007#q11|src_bocconi_autunno_2007__Q11]]
 
 
 
@@ -376,11 +438,19 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*200th and 201st digits of the sum of a number and its inverse*
+*The 200th and 201st digits of the sum of a number and its reciprocal*
 
-> We wrote the number formed by the alignment of all integers from 1 to 2008. In the line below, we've returned the number that we've got so, but we're writing the numbers in the reverse order. We then calculated the sum of these two numbers. $$1\,2\,3\,4\,5\,6\,7\,8\,9\,1\,0\,1\,1\,1\,2\,1\,3\,\ldots$$ $$8\,0\,0\,2\,7\,0\,0\,2\,6\,0\,0\,2\,5\,0\,0\,2\,4\,\ldots$$ What is the 200th digit and the 201th digit (left) of the sum?
+> We have written the number formed by concatenating all the integers from 1 to 2008. On the line below, we have written the number thus obtained, but with its digits in reverse order. We have then calculated the sum of these two numbers.
+> $$1\,2\,3\,4\,5\,6\,7\,8\,9\,1\,0\,1\,1\,1\,2\,1\,3\,\ldots$$
+> $$8\,0\,0\,2\,7\,0\,0\,2\,6\,0\,0\,2\,5\,0\,0\,2\,4\,\ldots$$
+> What are the 200th and 201st digits (from the left) of the sum?
 
-**Answer:** 2 e 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q12|src_bocconi_autunno_2007__Q12]]
 
 
 
@@ -406,13 +476,18 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triangles in figure (bis)*
+*Number of triangles contained in the figure (bis)*
 
-> How many triangles does the figure contain?
+> How many triangles are there in the figure?
 
 ![[src_bocconi_autunno_2007__q13.png]]
 
-**Answer:** 20
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2007#q13|src_bocconi_autunno_2007__Q13]]
 
 
 
@@ -439,13 +514,18 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of boxes touched by the horse on the chessboard*
+*Sum of the squares visited by the knight on the chessboard*
 
-> We play on a chessboard in whose boxes (see figure) the product of multiplication is written: in the first row and first column the numbers from 1 to 9, and in the generic box the product $(r \times c)$ between its row number and that of the column. It starts at $1$ ($1 \times 1$) and moves like a horse on a chessboard, alternating the two directions. What number corresponds to the 49th box visited by the horse?
+> We play on a chessboard in which the products of multiplications are written in the squares (see figure): in the first row and the first column are the numbers from 1 to 9, and in a generic square is the product $(r \times c)$ of its row number and its column number. We start at $1$ ($1 \times 1$) and move like a knight on the chessboard, alternating between the two directions. Which number corresponds to the 49th square visited by the knight?
 
 ![[src_bocconi_autunno_2007__q14.png]]
 
-**Answer:** 7748
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2007#q14|src_bocconi_autunno_2007__Q14]]
 
 
 
@@ -470,11 +550,16 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next three consecutive years squared*
+*The next three consecutive years are square-divisible*
 
-> The years 2007, 2008 and 2009 are three consecutive years squareddivisible: each of the three numbers is divisible by the square of an integer greater than 1 (2007 is divisible by 9, 2008 by 4 and 2009 by 49). What will be the next three consecutive years squared?
+> The years 2007, 2008, and 2009 are three consecutive "square-divisible" years: each of the three numbers is divisible by the square of an integer greater than 1 (2007 is divisible by 9, 2008 by 4, and 2009 by 49). What will be the next three consecutive "square-divisible" years?
 
-**Answer:** 2023, 2024, 2025
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2007#q15|src_bocconi_autunno_2007__Q15]]
 
 
 
@@ -501,13 +586,18 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter of path before reaching the rising sea*
+*Meters traveled before reaching the rising sea*
 
-> I'm on a beach, at $2.269$ meters from the sea and $5$ meters above sea level. The beach slopes down to the sea with a steady slope. I'm advancing towards the sea at $3,6$ km/h while the vertical sea level rises by 1 cm/s. How many meters will I have walked when I reach the sea? (If possible, round up to the nearest subway).
+> I am on a beach, $2.269$ meters from the sea and $5$ meters above sea level. The beach slopes downward toward the sea at a constant gradient. I am moving toward the sea at a speed of $3,6$ km per hour, while the vertical level of the sea is rising by 1 cm per second. How many meters will I have traveled when I reach the sea? (If necessary, round to the nearest meter.)
 
 ![[src_bocconi_autunno_2007__q16.png]]
 
-**Answer:** about 2015 meters
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2007#q16|src_bocconi_autunno_2007__Q16]]
 
 
 
@@ -532,11 +622,16 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of three digits to be guessed on the square conditions*
+*A three-digit number to be guessed, with conditions on the square*
 
-> Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for hundreds, $d$ for tens and $u$ for units; the number of hundreds is nothing). Let's square this number and then divide it by 2. So we get a five-digit number that's written as$cdduc$. What was the starting number?
+> Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for the hundreds place, $d$ for the tens place, and $u$ for the units place; the hundreds digit is not zero). Let us square this number and then divide it by 2. We thus obtain a five-digit number written as $cdduc$. What was the initial number?
 
-**Answer:** 1552
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2007#q17|src_bocconi_autunno_2007__Q17]]
 
 
 
@@ -564,10 +659,15 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between the two headlamps (area of the isosceles triangle of the cage)*
+*Distance between the two headlights (area of the seagull's isosceles triangle)*
 
-> Between two lighthouses on the coast, the shore is straight. A crab is 340 metres from the shore. Suddenly, it moves 100 meters perpendicular to the shore, then moves another 100 meters toward the first lighthouse and finally 100 meters toward the second. This is exactly where we start. The figure doesn't match the proportions. The isosceles triangle $C_1F_1C_2$, whose equal angles measure $30^\circ$, is equilateral and the distance of C from the shore is $50+340-390$ m. How far apart are the two lighthouses?
+> Between two lighthouses located on the coast, the shoreline is straight. A seagull is 340 metres from the shore. Suddenly, it moves 100 metres away perpendicular to the coast, then travels another 100 metres toward the first lighthouse and finally 100 metres toward the second. Thus, it ends up exactly at the starting point. The figure is not to scale. The isosceles triangle $C_1F_1C_2$, whose equal angles measure $30^\circ$, is equilateral, and the distance from C to the shore is $50+340-390$ m. What is the distance between the two lighthouses?
 
 ![[src_bocconi_autunno_2007__q18.png]]
 
-**Answer:** $390\sqrt{3}\times 2 \approx 1351$ m
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2007#q18|src_bocconi_autunno_2007__Q18]]

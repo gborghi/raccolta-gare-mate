@@ -32,9 +32,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers <40 whose sum of squares of digits is a perfect square*
+*How many integers less than 40 have a sum of the squares of their digits that is a perfect square?*
 
-> (Points 2) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14
+> (Point 2) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (In any case, the numbers should be regarded as two-digit numbers; for example, 4 should be thought of as written as 04.)
+> A) 1             B) 9               C) 12            D) 13              E) 14
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q01|src_kangourou_2023_student_semifinale__Q01]]
 
 
 
@@ -61,9 +69,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum attempts given the constraints*
+*Maximum attempts, given the constraints*
 
-> (Points 3) The code of a safe deposit box is a four-digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With this information alone, how many attempts will be needed, at most, to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
+> (Point 3) The code for a safe deposit box is a four-digit number. The sum of the last two digits is a two-digit prime number whose digits, read in order, are the first two digits of the code. With only this information available, what is the maximum number of attempts needed to open the box?
+> A) 4           B) 8            C) 12           D) 16           E) 20
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q02|src_kangourou_2023_student_semifinale__Q02]]
 
 
 
@@ -88,9 +104,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the digits of the product of 9 numbers with digits 2 or 3 between 600 and 1200*
+*Sum of the values of the product of 9 numbers with 2 or 3 digits, each between 600 and 1200*
 
-> The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the digits of this product? A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility
+> (Point 3) The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the digits of this product?
+> A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q03|src_kangourou_2023_student_semifinale__Q03]]
 
 
 
@@ -116,9 +140,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value of CAD with TAP+BAT=CAD, distinct digits*
+*Maximum CAD value with TAP+BAT=CAD, distinct digits*
 
-> (Points 4) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a digit, different letters are different digits. It is known that TAP + BAT = CAD. What is the largest possible value for the CAD number? A) 782           B) 892           C) 893          D) 908           E) 987
+> (Points 4) Three three-digit integers are given (that is, the first digit of each cannot be 0), denoted by TAP, BAT, and CAD, where each letter represents a digit and different letters represent different digits. It is known that TAP + BAT = CAD. What is the greatest possible value of the number CAD?
+> A) 782           B) 892           C) 893          D) 908           E) 987
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q04|src_kangourou_2023_student_semifinale__Q04]]
 
 
 
@@ -144,9 +176,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of parts by cutting three spheres with two planes*
+*Maximum number of pieces when cutting three spheres with two planes*
 
-> (Points 4) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle of side 3. What is the greatest number of parts into which the three spheres complex can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            E) 12
+> (Point 4) Three spheres of radius 1 are arranged in space such that their centers form an equilateral triangle with side length 3. What is the greatest number of regions into which the assembly of the three spheres can be divided by cutting the spheres with two planes?
+> A) 8            B) 9             C) 10             D) 11            12) 12
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q05|src_kangourou_2023_student_semifinale__Q05]]
 
 
 
@@ -171,9 +211,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sign of m and n for an expression to be whole*
+*A minus sign so that an expression is whole*
 
-> (Points 4) It is known that the three numbers m, n and (8m × 102m) / (5 – m – n × 203m) are all integers and not equal to zero. Which of the following statements is true? A) m < 0, n > 0       B) m > 0, n > 0          C) m > 0, n < 0          D) m < 0, n < 0         E) m + n ≥ 0
+> (Point 4) It is known that the three numbers m, n, and (8m × 102m) / (5 – m – n × 203m) are all integers and non-zero. Which of the following statements is true?
+> A) m < 0, n > 0       B) m > 0, n > 0          C) m > 0, n < 0          D) m < 0, n < 0         E) m + n ≥ 0
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q06|src_kangourou_2023_student_semifinale__Q06]]
 
 
 
@@ -200,9 +248,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False (X,n) pairs in a periodic alignment of letters*
+*False pairs (X,n) in a periodic alignment of letters*
 
-> (Points 5) Imagine repeating the ABBCCCDDE letter alignment indefinitely, thus obtaining the periodic ABBCCCDDEABBCCCDDEABBC... For how many of the following pairs (X, n) is the following statement false: The n-th letter of the periodic alignment is X? i) (A, 20 × 23) ii) (A, 2023) iii) (C, 2023) iv) (E, 3202) A) 0 (all are true) B) 1 C) 2 D) 3 E) 4 (all are false)
+> (Point 5) Imagine repeating the sequence of letters ABBCCCDDE indefinitely, thus obtaining the periodic sequence ABBCCCDDEABBCCCDDEABBC…. For how many of the following pairs (X, n) is the following statement false: “The n-th letter of the periodic sequence is X”? i) (A, 20 × 23) ii) (A, 2023) iii) (C, 2023) iv) (E, 3202)
+> A) 0 (they are all true) B) 1 C) 2 D) 3 E) 4 (they are all false)
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q07|src_kangourou_2023_student_semifinale__Q07]]
 
 
 
@@ -240,9 +296,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where lies live.
+*in which ones liars live*
 
-> (Points 5) A village has 5 houses, each inhabitant lives in one of these 5 houses and in each one lives someone. All the inhabitants living in four of them always tell the truth, all the inhabitants living in the remaining house always lie. The following information was collected from house to house: House A: "In this house live 3 people", "In this village live more than 17 people". House B: "In this house live 4 people", "In this village live more than 21 people". House C: "In this house live 5 people", "The number of people living in this village is NOT 25". House D: "In this house there are 6 people", "In this village there are less than 29 people". House E: "In this house live 7 people", "In this village live less than 33 people". What house do liars live in? A) In house A. B) In house B. C) In house C. D) In house D. E) In house E.
+> (Question 5) A village has 5 houses; each inhabitant lives in one of these 5 houses, and someone lives in each house. All the inhabitants who live in 4 of them always tell the truth; all the inhabitants who live in the remaining house always lie. As one went from house to house, the following statements were collected: House A: "3 people live in this house," "More than 17 people live in this village." House B: "4 people live in this house," "More than 21 people live in this village." House C: "5 people live in this house," "The number of people living in this village is NOT 25." House D: "6 people live in this house," "Fewer than 29 people live in this village." House E: "7 people live in this house," "Fewer than 33 people live in this village." Which house do the liars live in?
+> A) In house A.
+> B) In house B.
+> C) In house C.
+> D) In house D.
+> E) In house E.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q08|src_kangourou_2023_student_semifinale__Q08]]
 
 
 
@@ -273,17 +341,18 @@ Where lies live.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circumference/radius ratio in taxicab distance*
+*Circumference-to-radius ratio in taxicab distance*
 
-> (Points 6) Suppose that in the plane, equipped with an orthogonal monometric Cartesian system,
-> given any two points, one can go from one to the other only by moving parallel
-> to the axes; in that case the length of the segment with endpoints (x, y) and (a, b), that is, the distance of the point
-> (x, y) from the point (a, b), is |x – a| + |y – b|. If the terms “radius” and “circumference” with assigned center
-> are defined in the usual way, but with respect to this new notion of distance and not to the
-> Euclidean distance, what is the value, in this new notion of distance, of the ratio between the length of the
-> circumference and the relative radius?
+> (Point 6) Suppose that, in the plane equipped with a monometric orthogonal Cartesian coordinate system, for any two points considered, one can move from one to the other only by moving parallel to the axes; in that case, the length of the line segment with endpoints (x, y) and (a, b)—that is, the distance from the point (x, y) to the point (a, b)—is |x – a| + |y – b|. If the terms “radius” and “circle” with a given center are defined in the usual way, but with respect to this new notion of distance rather than to Euclidean distance, what is the value, under this new notion of distance, of the ratio of the circumference length to the corresponding radius?
 > A) 2              B) 2π             C) 4              D) 4√2              E) 8
-> Open-answer questions
+> Open-ended questions
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q09|src_kangourou_2023_student_semifinale__Q09]]
 
 
 
@@ -308,9 +377,16 @@ Where lies live.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find n after random operations with result 78*
+*Find n after random operations yielding 78*
 
-> (Points 4) Gianna plays like this. She writes an integer n, then randomly multiplies it by either 5 or 6. To the product she randomly adds either 5 or 6. From the sum she randomly subtracts either 5 or 6. If the end result is 78, what number is n?
+> (Point 4) Gianna plays like this. She writes an integer n, then multiplies it at random by either 5 or 6. To the product, she adds either 5 or 6 at random. From the sum, she subtracts either 5 or 6 at random. If the final result is 78, what number is n?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q10|src_kangourou_2023_student_semifinale__Q10]]
 
 
 
@@ -334,10 +410,16 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest prime p>2 with p^3+7p^2 a perfect square*
+*Smallest prime p>2 such that p^3+7p^2 is a perfect square*
 
-> (5 points) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a perfect
-> square?
+> (Point 5) What is the smallest prime integer p > 2 such that the number p³ + 7p² is a perfect square?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q11|src_kangourou_2023_student_semifinale__Q11]]
 
 
 
@@ -364,9 +446,14 @@ Find n after random operations with result 78*
 
 *Value of A-B with sums of squares and consecutive products*
 
-> (5 points) Let A be the sum of the squares of all positive integers from 1 to 2,023 inclusive and let 
-> B = (1 × 3) + (2 × 4) + (3 × 5) + … + (2,022 × 2,024).
-> What is the value of A – B?
+> (Point 5) Let A be the sum of the squares of all positive integers from 1 to 2,023 inclusive, and let B = (1 × 3) + (2 × 4) + (3 × 5) + … + (2,022 × 2,024). What is the value of A – B?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q12|src_kangourou_2023_student_semifinale__Q12]]
 
 
 
@@ -391,11 +478,16 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k with (x^2+y^2+z^2)^2 <= k(x^4+y^4+z^4)*
+*Minimum k such that (x^2+y^2+z^2)^2 <= k(x^4+y^4+z^4)*
 
-> (Points 6) What is the smallest real number k such that the inequality 
-> (x2 + y2 + z2)2 ≤ k (x4 + y4 + z4)
-> holds for every triple {x, y, z} of real numbers?
+> (Point 6) What is the smallest real number k such that the inequality (x² + y² + z²)² ≤ k (x⁴ + y⁴ + z⁴) holds for every triple {x, y, z} of real numbers?
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q13|src_kangourou_2023_student_semifinale__Q13]]
 
 
 
@@ -420,11 +512,16 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of two numbers removed from 1..17 equal to the sum of the remaining ones*
+*The product of two numbers taken from 1..17 equals the sum of the remaining numbers*
 
-> (6 points) From the set of integers between 1 and 17, these included, one can remove two numbers
-> so that their product coincides with the sum of the remaining ones and there is only one way to do it.
-> What is the value of that product?
+> (Points 6) From the set of integers between 1 and 17, inclusive, two numbers can be removed so that their product equals the sum of the remaining numbers, and there is only one way to do this. What is the value of this product?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q14|src_kangourou_2023_student_semifinale__Q14]]
 
 
 
@@ -450,12 +547,16 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value at which f vanishes from the chain of inequalities*
+*The value at which f vanishes in the chain of inequalities*
 
-> (6 points) Let f denote a function defined on the whole real line and with real values; suppose
-> that f satisfies, for every real value of x, the chain of inequalities
-> f(x – 5) + 2 ≤ x – 2023 ≤ f(x + 4) – 7.
-> The function f vanishes for only one value of x: which one?
+> (Point 6) Let f denote a function defined on the entire real line and taking real values; suppose that, for every real value of x, f satisfies the chain of inequalities f(x – 5) + 2 ≤ x – 2023 ≤ f(x + 4) – 7. The function f is zero for exactly one value of x: which one?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q15|src_kangourou_2023_student_semifinale__Q15]]
 
 
 
@@ -492,7 +593,7 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer closest to p, ratio of perimeters of a chamfered square*
+*Nearest integer to p, ratio of perimeters of the rounded square*
 
 ![[src_kangourou_2023_student_semifinale__prob16.png]]
 
@@ -505,11 +606,13 @@ Find n after random operations with result 78*
 \end{document}
 ```
 
-> (7 points) The corners of a square are chamfered with circular arcs,
-> all of the same radius, as shown in the figure; the straight part of the edge
-> of the new region is as long as the curved part. The ratio between the peri­
-> meter of the new figure and the perimeter of the original square is the number
-> p/100. What is the integer closest to p?
+> (Point 7) The corners of a square are rounded off with circular arcs, all having the same radius, as shown in the figure; the straight portion of the boundary of the new region is as long as the curved portion. The ratio of the perimeter of the new figure to the perimeter of the original square is the number π/100. What is the integer closest to π?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q16|src_kangourou_2023_student_semifinale__Q16]]
 
 
 
@@ -534,10 +637,16 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum length of a segment parallel to a side in the triangle*
+*Maximum length of a segment parallel to a side in a triangle*
 
-> (7 points) Consider a triangle with perimeter 64 and the circle inscribed in it. Among the lines tangent to this circle, consider one that is parallel to one of the sides of the triangle.
-> How long could a segment of such a line contained in the triangle be at most?
+> (Point 7) Consider a triangle with perimeter 64 and the circle inscribed in it. Among the lines tangent to this circle, consider one that is parallel to one of the sides of the triangle. What could be the maximum length of a line segment of this line that lies within the triangle?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q17|src_kangourou_2023_student_semifinale__Q17]]
 
 
 
@@ -563,9 +672,13 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n of people without mutual antipathy among the 2023*
+*Maximum number of people with no mutual antipathy among the 2023*
 
-> (8 points) In a group of 2023 people, each has antipathy toward exactly one other person,
-> but the relation is not necessarily symmetric. Without knowing the actual situation, one wants to be
-> certain a priori of being able to select n people among the 2023 so that none of them has antipathy
-> toward any of the remaining n – 1 selected. What is the largest value of n?
+> (Point 8) In a group of 2023 people, each person dislikes exactly one other person, but the relationship is not necessarily symmetric. Without knowing the actual situation, one wants to be certain in advance that one can select n people from among the 2023 such that none of them dislikes any of the remaining n – 1 selected people. What is the largest possible value of n?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student_semifinale#q18|src_kangourou_2023_student_semifinale__Q18]]

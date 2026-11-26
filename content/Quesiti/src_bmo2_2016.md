@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre cerchi reciprocamente tangenti e tangente comune, dimostrano la disuguaglianza del perimetro*
+*Dimostrare che $16(r_1 + r_2 + r_3) \ge 9(AB + BC + CA)$*
 
-> Circoli di raggio $r_1$, $r_2$ e $r_3$ si toccano a livello esterno e toccano una linea tangente comune rispettivamente nei punti $A$, $B$ e $C$, dove $B$ si trova tra $A$ e $C$. Prove che $16(r_1 + r_2 + r_3) \ge 9(AB + BC + CA)$.
+> Circonferenze di raggi $r_1$, $r_2$ e $r_3$ sono tangenti esternamente fra loro, e toccano una tangente comune rispettivamente nei punti $A$, $B$ e $C$, dove $B$ sta fra $A$ e $C$. Dimostrare che $16(r_1 + r_2 + r_3) \ge 9(AB + BC + CA)$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2016#q01|src_bmo2_2016__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande N*
+*Il massimo $N$ per cui Benjamin può ordinare i gettoni di Alison*
 
-> Alison ha i token di fortuna $N$, etichettati $1$ a $N$. Lei pensa che siano buone, ma rifiuta di condividerle. Benjamin può menzionare una squadra di tre segni per lei; lei sceglierà quindi di dirgli quale pensa sia il segno più debole dei tre, o quale pensa sia il segno più forte dei tre. Benjamin usa queste informazioni quante volte vuole. Determinare il più grande $N$ in modo che Benjamin possa garantire di essere in grado di trovare una sequenza $T_1, T_2, \ldots, T_N$ di token con la proprietà che sa che Alison pensa che $T_i$ è migliore di $T_{i+1}$ per ogni $1 \le i < N$.
+> Alison ha $N$ gettoni fortunati, etichettati da $1$ a $N$. Li ritiene buoni, ma si rifiuta di condividerli. Benjamin può indicarle una squadra di tre gettoni; lei sceglierà allora di dirgli quale ritiene il più debole dei tre, oppure quale ritiene il più forte dei tre. Benjamin usa questa informazione quante volte vuole. Determinare il massimo $N$ tale che Benjamin possa garantirsi di trovare una successione $T_1, T_2, \ldots, T_N$ di gettoni con la proprietà di sapere che Alison ritiene $T_i$ migliore di $T_{i+1}$ per ogni $1 \le i < N$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2016#q02|src_bmo2_2016__Q02]]
 
 
 
@@ -79,9 +93,16 @@ Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico, perpendicularità di PQ e AB implica PE perpendicolare a BC*
+*Se $AB$ è perpendicolare a $PQ$, allora $PE$ è perpendicolare a $BC$*
 
-> Che il $ABCD$ sia un quadrilaterale ciclico. Le diagonali $AC$ e $BD$ si incontrano a $Q$, e le $DA$ e $CB$ prodotte si incontrano a $P$. Il punto medio di $AB$ è $E$. Se $AB$ è perpendicolare a $PQ$, dimostrare che $PE$ è perpendicolare a $BC$.
+> Sia $ABCD$ un quadrilatero ciclico. Le diagonali $AC$ e $BD$ si incontrano in $Q$, e i prolungamenti di $DA$ e $CB$ si incontrano in $P$. Il punto medio di $AB$ è $E$. Se $AB$ è perpendicolare a $PQ$, dimostrare che $PE$ è perpendicolare a $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2016#q03|src_bmo2_2016__Q03]]
 
 
 
@@ -104,6 +125,13 @@ Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prima p e interi a,b con media p^2 di a^2 e b^2, dimostrare che 2p-a-b è quadrato o quadrato doppio*
+*$2p - a - b$ è un quadrato perfetto o il doppio di un quadrato perfetto*
 
-> Supponiamo che $p$ sia un primo e che $a$ e $b$ siano integri positivi in modo tale che $p^2$ sia la media di $a^2$ e $b^2$. Prova che $2p - a - b$ è un quadrato perfetto o due volte un quadrato perfetto.
+> Si supponga che $p$ sia un primo e che $a$ e $b$ siano interi positivi tali che $p^2$ sia la media di $a^2$ e $b^2$. Dimostrare che $2p - a - b$ è un quadrato perfetto o il doppio di un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2016#q04|src_bmo2_2016__Q04]]

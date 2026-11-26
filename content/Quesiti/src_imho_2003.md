@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi disgiunti ottenuti per traslazione da un sottoinsieme di 101 elementi di S*
+*Sottoinsiemi tradotti disgiunti da un sottoinsieme di S di 101 elementi*
 
-> Sia $S$ l'insieme $\{1, 2, 3, \ldots, 1000000\}$. Si dimostri che per ogni sottoinsieme $A$ di $S$ con $101$ elementi esistono $100$ elementi distinti $x_i$ di $S$ tali che gli insiemi $\{a + x_i \mid a \in A\}$ siano a due a due disgiunti.
+> $S$ è l'insieme $\{1, 2, 3, \ldots, 1000000\}$. Dimostrare che, per ogni sottoinsieme $A$ di $S$ con $101$ elementi, possiamo trovare $100$ elementi distinti $x_i$ di $S$ tali che gli insiemi $\{a + x_i \mid a \in A\}$ siano tutti a due a due disgiunti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2003#q01|src_imho_2003__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie (m,n) tali che una frazione sia un intero positivo*
+*Coppie di interi positivi per cui m²/(2mn² − n³ + 1) è un intero positivo*
 
-> Determinare tutte le coppie $(m, n)$ di interi positivi tali che $\dfrac{m^2}{2mn^2 - n^3 + 1}$ sia un numero intero positivo.
+> Trovare tutte le coppie $(m, n)$ di interi positivi tali che $\dfrac{m^2}{2mn^2 - n^3 + 1}$ sia un intero positivo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imho_2003#q02|src_imho_2003__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono convesso con condizione sulla distanza dei punti medi ha angoli uguali*
+*L'esagono convesso con la condizione della distanza dal punto medio ha angoli uguali*
 
-> Un esagono convesso ha la proprietà che per ogni coppia di lati opposti, la distanza tra i punti medi è uguale a $\dfrac{\sqrt{3}}{2}$ volte la somma delle loro lunghezze. Si dimostri che tutti gli angoli dell'esagono sono uguali.
+> Un esagono convesso ha la proprietà che, per ogni coppia di lati opposti, la distanza tra i loro punti medi è $\dfrac{\sqrt{3}}{2}$ volte la somma delle loro lunghezze. Dimostrare che tutti gli angoli dell'esagono sono uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2003#q03|src_imho_2003__Q03]]
 
 
 
@@ -106,7 +127,14 @@ level: IMO
 
 *Quadrilatero ciclico: le bisettrici degli angoli si incontrano su AC se e solo se RP=RQ*
 
-> Il quadrilatero $ABCD$ è ciclico. I piedi delle perpendicolari da $D$ alle rette $AB$, $BC$, $CA$ sono rispettivamente $P$, $Q$, $R$. Si dimostri che le bisettrici degli angoli $\angle ABC$ e $\angle CDA$ si incontrano sulla retta $AC$ se e solo se $RP = RQ$.
+> $ABCD$ è ciclico. I piedi della perpendicolare condotta da $D$ alle rette $AB$, $BC$, $CA$ sono rispettivamente $P$, $Q$, $R$. Dimostrare che le bisettrici degli angoli di $\angle ABC$ e $\angle CDA$ si incontrano sulla retta $AC$ se e solo se $RP = RQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2003#q04|src_imho_2003__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza per reali ordinati con uguaglianza se e solo se progressione aritmetica*
+*Disuguaglianza per numeri reali ordinati, con uguaglianza se e solo se si tratta di una progressione aritmetica*
 
-> Dati $n > 2$ e numeri reali $x_1 \le x_2 \le \cdots \le x_n$, si dimostri che $$\left(\sum_{i,j} |x_i - x_j|\right)^2 \le \frac{2}{3}(n^2 - 1) \sum_{i,j} (x_i - x_j)^2.$$. Si dimostri inoltre che vale l'uguaglianza se e solo se la successione è una progressione aritmetica.
+> Dati $n > 2$ e i numeri reali $x_1 \le x_2 \le \cdots \le x_n$, mostra che $$\left(\sum_{i,j} |x_i - x_j|\right)^2 \le \frac{2}{3}(n^2 - 1) \sum_{i,j} (x_i - x_j)^2.$$ Mostra che si ha l'uguaglianza se e solo se la successione è una progressione aritmetica.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2003#q05|src_imho_2003__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni primo p, determinare un primo q tale che p^n - p non sia divisibile per q*
+*Per ogni primo p esiste un primo q che non divide alcun n^p − p*
 
-> Si dimostri che per ogni primo $p$ esiste un primo $q$ tale che $n^p - p$ non è divisibile per $q$ per nessun intero positivo $n$.
+> Dimostrare che per ogni primo $p$ esiste un primo $q$ tale che $n^p - p$ non è divisibile per $q$, per alcun intero positivo $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_2003#q06|src_imho_2003__Q06]]

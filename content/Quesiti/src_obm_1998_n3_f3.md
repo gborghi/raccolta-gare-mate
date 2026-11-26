@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*15 integri copri­mi in copri­mi in (1,1998); mostrare uno è primo*
+*15 interi coprimi a coppie in (1,1998); mostrare che uno di essi è primo*
 
-> Sono dati quindici numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano relativamente primi. Mostrare che almeno uno di questi quindici numeri è primo.
+> Sono dati quindici numeri naturali maggiori di $1$ e minori di $1998$ tali che ogni coppia di essi sia coprima. Dimostrare che almeno uno di questi quindici numeri è primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f3#q01|src_obm_1998_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con D punto medio di AB, E su BC con BE=2EC, angoli uguali; trovare angolo BAC*
+*Triangolo in cui D è il punto medio di AB, E è su BC con BE=2EC, angoli uguali; trovare l'angolo BAC*
 
-> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $\widehat{ADC}$ e $\widehat{BAE}$ sono uguali, trovare l'angolo $\widehat{BAC}$.
+> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto sul lato $BC$ tale che $BE = 2 \cdot EC$. Sapendo che gli angoli $\widehat{ADC}$ e $\widehat{BAE}$ sono uguali, determina l'angolo $\widehat{BAC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n3_f3#q02|src_obm_1998_n3_f3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco numero per due giocatori con n round e incremento t; punteggio gcd; determina il vincitore*
+*Gioco numerico a due giocatori con n turni e incremento t; punteggio basato sul mcd; determina il vincitore*
 
-> Due persone giocano a un gioco descritto come segue. Inizialmente scelgono due numeri naturali $n \ge 2$ (numero di round) e $t \ge 1$ (incremento massimo). Nel primo round, il giocatore $A$ sceglie un numero naturale $m_1 > 0$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_1$ con $0 < n_1 < m_1$. Nel round $k$, per $2 \le k \le n$, il giocatore $A$ sceglie un numero naturale $m_k$ con $n_{k-1} < m_k \le n_{k-1} + t$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_k$ con $m_k < n_k \le m_k + t$. Dopo queste scelte, nel round $k$, il giocatore $A$ guadagna $\mathrm{mdc}(m_k, n_{k-1})$ punti e il giocatore $B$ guadagna $\mathrm{mdc}(m_k, n_k)$ punti. Il giocatore che guadagna il maggior numero totale di punti alla fine dei round $n$ è considerato vincitore. In caso di punteggi totali uguali, il giocatore $A$ è considerato vincitore. Per ciascuna scelta di $n$ e $t$, determinare quale dei due giocatori ha una strategia vincente.
+> Due persone giocano a un gioco descritto come segue. Inizialmente scelgono due numeri naturali $n \ge 2$ (il numero di round) e $t \ge 1$ (l'incremento massimo). Nel primo round, il giocatore $A$ sceglie un numero naturale $m_1 > 0$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_1$ con $0 < n_1 < m_1$. Nel round $k$, per $2 \le k \le n$, il giocatore $A$ sceglie un numero naturale $m_k$ con $n_{k-1} < m_k \le n_{k-1} + t$ e, successivamente, il giocatore $B$ sceglie un numero naturale $n_k$ con $m_k < n_k \le m_k + t$. Dopo queste scelte, nel round $k$, il giocatore $A$ ottiene $\mathrm{mdc}(m_k, n_{k-1})$ punti e il giocatore $B$ ottiene $\mathrm{mdc}(m_k, n_k)$ punti. Il giocatore che alla fine dei $n$ round ottiene il punteggio totale più alto è considerato il vincitore. In caso di punteggi totali uguali, il giocatore $A$ è considerato il vincitore. Per ogni scelta di $n$ e $t$, determina quale dei due giocatori possiede una strategia vincente.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f3#q03|src_obm_1998_n3_f3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco quadratico-coefficiente per due giocatori utilizzando due enti e 1998; il primo giocatore forza due radici razionali distinte*
+*Gioco a due giocatori con coefficiente quadratico, che utilizza due interi e 1998; il primo giocatore impone due radici razionali distinte*
 
-> Due ragazzi giocano il seguente gioco. Il primo sceglie due diversi enti non zeri e il secondo scrive un'equazione di secondo grado utilizzando come coefficienti i due numeri scelti dal primo giocatore insieme a $1998$, in qualsiasi ordine desideri (ad esempio, con $a$ e $b$ può scrivere l'equazione $1998x^2 + ax + b = 0$, o $bx^2 + 1998x + a = 0$, ecc.). Il primo giocatore è considerato vincitore se l'equazione ha due radici razionali distinte. Dimostra che il primo giocatore può sempre vincere.
+> Due ragazzi giocano al seguente gioco. Il primo sceglie due interi distinti e non nulli, e il secondo scrive un'equazione di secondo grado utilizzando come coefficienti i due numeri scelti dal primo giocatore insieme a $1998$, nell'ordine che preferisce (ad esempio, con $a$ e $b$ può scrivere l'equazione $1998x^2 + ax + b = 0$, oppure $bx^2 + 1998x + a = 0$, ecc.). Il primo giocatore è considerato vincitore se l'equazione ha due radici razionali distinte. Dimostrare che il primo giocatore può sempre vincere.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f3#q04|src_obm_1998_n3_f3__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le f: N->N con f(2f(x)) = x + 1998*
+*Trovare tutte le funzioni f: N→N tali che f(2f(x)) = x + 1998*
 
 > Determinare tutte le funzioni $f : \mathbb{N} \to \mathbb{N}$ che soddisfano $f(2f(x)) = x + 1998$ per ogni $x \in \mathbb{N} = \{0, 1, 2, \ldots\}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f3#q05|src_obm_1998_n3_f3__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La lunghezza di percorso peggiore per raggiungere un angolo di Berlino con lato sconosciuto e distanza sconosciuta*
+*Lunghezza del percorso nel peggiore dei casi per raggiungere un angolo di Berlino con lato sconosciuto e distanza sconosciuta*
 
-> Due matematici, persi a Berlino, arrivano all'angolo di Barbarossa Street e Martin Luther Street, e devono raggiungere l'angolo di Meininger Street e Martin Luther Street. Purtroppo non sanno su quale lato di Martin Luther Street si trova l'angolo con Meininger Street, né a quale distanza si trova; cioè non sanno se sono obbligati a girare a destra o a sinistra e quanto a piedi lungo Martin Luther Street finché non raggiungono l'angolo desiderato. Qual è il minimo valore positivo $X$ tale da poter essere certo di raggiungere l'angolo di Barbarossa Street e Meininger Street percorrendo al massimo $X$ blocchi (quarti)?
+> Due matematici, smarriti a Berlino, giungono all'angolo tra via Barbarossa e via Martin Luther e devono raggiungere l'angolo tra via Meininger e via Martin Luther. Purtroppo non sanno da quale lato di via Martin Luther si trovi l'angolo con via Meininger, né a quale distanza esso sia; vale a dire, non sanno se siano obbligati a svoltare a destra o a sinistra e quanto debbano camminare lungo via Martin Luther per arrivare all'angolo desiderato. Qual è il più piccolo valore positivo $X$ tale che possano essere certi di raggiungere l'angolo tra via Barbarossa e via Meininger percorrendo al massimo $X$ isolati (quartieri)?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n3_f3#q06|src_obm_1998_n3_f3__Q06]]

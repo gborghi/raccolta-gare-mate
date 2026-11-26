@@ -30,13 +30,15 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of middle-aged men/women at a party*
+*Ratio of men to women given average ages at a party*
 
-> At a party, the average age is 31, the average age of men is 35, and the average age of women is 25. What is the relationship between the number of men and the number of women?
+> At a party the average age is 31 years, the average age of the men is 35 years and the average age of the women is 25 years. What is the ratio between the number of men and the number of women?
 > 
 > (A) $\dfrac{5}{7}$ \quad (B) $\dfrac{7}{5}$ \quad (C) $\dfrac{4}{3}$ \quad (D) $\dfrac{3}{2}$ \quad (E) $2$.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_1998_2livello#q01|src_archimede_1998_2livello__Q01]]
 
 
 
@@ -71,23 +73,24 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form of domain defined as sum of absolute values*
+*Shape of the domain defined by a sum of absolute values*
 
-![[src_archimede_1998_2livello__prob2.png]]
-
-> $D$ is the Cartesian plane domain consisting of $(x,\, y)$ points which:
+> $D$ is the domain of the Cartesian plane consisting of the points $(x,\, y)$ such that
 >
 > $$|x| + |y| + |x+y| + |x-y| \leq 3.$$
 >
-> The shape of the domain $D$ is (see figure).
+> The shape of the domain $D$ is (see the figure).
 >
-> - **(A)** A square with sides parallel to the axes
-> - **(B)** A rotating square of 45° (rump)
-> - **(C)** A regular octagon
-> - **(D)** A quadrilateral with oblique sides
-> - **(E)** None of the previous ones.
+> - **(A)** a square with sides parallel to the axes
+> - **(B)** a square rotated by 45° (a rhombus)
+> - **(C)** a regular octagon
+> - **(D)** a quadrilateral with oblique sides
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+[[Quesiti/src_archimede_1998_2livello#q02|src_archimede_1998_2livello__Q02]]
 
 
 
@@ -116,17 +119,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time for the tape beam to double again*
+*Further time for the tape's outer radius to double again*
 
-> The ribbon part of a recorder wrapped in a coil forms a circular crown. Knowing that after 20 minutes of operation the radius of the circular crown has doubled, how long will the recorder have to continue to operate for the radius to double again? The tape is flowing at a constant speed.
+> The part of a tape recorder's tape wound on a reel forms an annulus. Given that after twenty minutes of running the outer radius of the annulus has doubled, how much longer must the recorder run for the outer radius to double again? The tape runs at constant speed.
 >
-> - **(A)** 20 minutes .
-> - **(B)** 40 minutes
-> - **(C)** an hour
-> - **(D)** One hour and twenty minutes
-> - **(E)** depends on the inner radius of the circular crown.
+> - **(A)** twenty minutes
+> - **(B)** forty minutes
+> - **(C)** one hour
+> - **(D)** one hour and twenty minutes
+> - **(E)** it depends on the inner radius of the annulus.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1998_2livello#q03|src_archimede_1998_2livello__Q03]]
 
 
 
@@ -156,17 +162,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of liquor in conical glass with cherry*
+*Amount of liqueur in a conical glass with a cherry*
 
-![[src_archimede_1998_2livello__prob4.png]]
-
-> In a cone-shaped cocktail glass there is a spherical cherry and the liquor that exactly covers the cherry, as in the figure. Knowing that the radius of the cherry is 1 cm and the height of the liqueur is 6 cm, calculate the amount of liquor.
+> In a conical cocktail glass there is a spherical cherry and the liqueur that exactly covers the cherry, as in the figure. Knowing that the radius of the cherry is 1 cm and that the height of the liqueur is 6 cm, calculate the amount of liqueur.
 > 
-> (A) $\dfrac{2}{3}\pi$ cm$^3$ \quad (B) $\pi$ cm$^3$ \quad (C) $\dfrac{5}{3}\pi$ cm$^3$ \quad (D) $2\pi$ cm$^3$ (E) The data are insufficient.
+> (A) $\dfrac{2}{3}\pi$ cm$^3$ \quad (B) $\pi$ cm$^3$ \quad (C) $\dfrac{5}{3}\pi$ cm$^3$ \quad (D) $2\pi$ cm$^3$
+> (E) the data are insufficient.
 > 
 > (see figure)
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_2livello#q04|src_archimede_1998_2livello__Q04]]
 
 
 
@@ -191,13 +199,16 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-What time does Maximo realize he forgot his wallet?
+*At what time does Massimo realise he has forgotten his wallet?*
 
-> Maximo knows that walking takes 24 minutes to get from his home to the train station, while running takes 12. Taking a train at 12:30, leaving home on time at 12:00 on foot. But on the way, you realize you've forgotten your wallet. He immediately runs home, and then runs to the station, where he arrives on time at 12:30. What time did you realize you forgot your wallet?
+> Massimo knows that walking takes him 24 minutes to go from his home to the station, while running takes him 12. Having to catch a train at 12:30, he leaves home early at 12:00 walking. During the journey, however, he realises he has forgotten his wallet. Immediately he returns home running, and then runs to the station, where he arrives on time at 12:30. At what time did he realise he had forgotten his wallet?
 > 
 > (A) 12:06 \quad (B) 12:09 \quad (C) 12:12 \quad (D) 12:15 \quad (E) the data are insufficient.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1998_2livello#q05|src_archimede_1998_2livello__Q05]]
 
 
 
@@ -225,17 +236,19 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-deductible claim on polynomial with integer values*
+*Statement that cannot be deduced about an integer-valued polynomial*
 
-> The $ax^2 + bx + c$ polynomial assumes integer values for each integer value of the variable $x$. Which of the following cannot be deduced?
+> The polynomial $ax^2 + bx + c$ takes integer values for every integer value of the variable $x$. Which of the following statements cannot be deduced?
 >
-> - **(A)** $c$ is whole
-> - **(B)** $a + b + c$ is whole
+> - **(A)** $c$ is an integer
+> - **(B)** $a + b + c$ is an integer
 > - **(C)** $a$, $b$, $c$ are integers
-> - **(D)** If $a$ is integer $b$ is also integer
-> - **(E)** $2a$ is whole.
+> - **(D)** if $a$ is an integer, then $b$ is an integer too
+> - **(E)** $2a$ is an integer.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_1998_2livello#q06|src_archimede_1998_2livello__Q06]]
 
 
 
@@ -260,13 +273,16 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of three friends totaling the same score in six races*
+*Probability that three friends total the same score in six races*
 
-> Three friends compete in six races; whoever wins the first wins a point, whoever wins the second wins two, and so on. Knowing that each of the three has won two races, what is the probability that they all have the same score?
+> Three friends take part in six races; whoever wins the first gains one point, whoever wins the second gains two, and so on. Given that each of the three has won two races, what is the probability that they all obtained the same score?
 > 
 > (A) $\dfrac{1}{3}$ \quad (B) $\dfrac{1}{6}$ \quad (C) $\dfrac{1}{9}$ \quad (D) $\dfrac{1}{12}$ \quad (E) $\dfrac{1}{15}$.
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_1998_2livello#q07|src_archimede_1998_2livello__Q07]]
 
 
 
@@ -292,13 +308,17 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for which k has three solutions of k = k*
+*Values of k for which ||x|-1| = k has three solutions*
 
 > For which values of $\lambda$ does the equation $|x| - 1 = \lambda$ have exactly three solutions?
 > 
-> (A) For each $\lambda \geq 0$ \quad (B) only for $\lambda = 0$ \quad (C) for each $\lambda$ such that $0 \leq \lambda \leq 1$ (D) only for $\lambda = 1$ \quad (E) for no value of $\lambda$.
+> (A) For every $\lambda \geq 0$ \quad (B) only for $\lambda = 0$ \quad (C) for every $\lambda$ such that $0 \leq \lambda \leq 1$
+> (D) only for $\lambda = 1$ \quad (E) for no value of $\lambda$.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_1998_2livello#q08|src_archimede_1998_2livello__Q08]]
 
 
 
@@ -326,11 +346,15 @@ What time does Maximo realize he forgot his wallet?
 
 *Triangles with vertices on the cube not on any face*
 
-> Given a cube $C$, how many triangles have three vertices of $C$ for vertices and do not lie on any of the faces of $C$?
+> Given a cube $C$, how many triangles have as vertices three vertices of $C$ and do not lie on any face of $C$?
 > 
-> (A) 12 \quad (B) 24 \quad (C) 32 \quad (D) 56 \quad (E) 112
+> (A) 12 \quad (B) 24 \quad (C) 32 \quad (D) 56 \quad (E) 112.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_2livello#q09|src_archimede_1998_2livello__Q09]]
 
 
 
@@ -360,9 +384,9 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the triangle of the symmetries with respect to the area of ABC*
+*Area of the triangle of the reflections, compared with ABC*
 
-> Given a $ABC$ triangle, be $A'$ the symmetric of $A$ with respect to $BC$, $B'$ the symmetric of $B$ with respect to $CA$, $C'$ the symmetric of $C$ with respect to $AB$. What is the area of $A'B'C'$?
+> Given a triangle $ABC$, let $A'$ be the reflection of $A$ across $BC$, $B'$ the reflection of $B$ across $CA$, and $C'$ the reflection of $C$ across $AB$. What is the area of $A'B'C'$?
 >
 > - **(A)** 3 times the area of $ABC$
 > - **(B)** 4 times the area of $ABC$
@@ -370,7 +394,11 @@ What time does Maximo realize he forgot his wallet?
 > - **(D)** 6 times the area of $ABC$
 > - **(E)** 7 times the area of $ABC$.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_2livello#q10|src_archimede_1998_2livello__Q10]]
 
 
 
@@ -395,13 +423,16 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For integers x the product of two trinomials is prime*
+*For how many integers x is the product of two trinomials prime*
 
-> For how many relative integers of $x$ is the number $|x^2 + x - 1| \cdot |x^2 - 7x + 11|$ prime?
+> For how many integer values of $x$ is the number $|x^2 + x - 1| \cdot |x^2 - 7x + 11|$ prime?
 > 
 > (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 8 \quad (E) more than 8.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_1998_2livello#q11|src_archimede_1998_2livello__Q11]]
 
 
 
@@ -429,17 +460,19 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Any single statement about age and strength is false*
+*The one false statement about age and strength*
 
-> One, and only one, of the following statements is false. What kind?
+> Exactly one of the following statements is false. Which one?
 >
-> - **(A)** Andrea is younger than Bruno, who is stronger than Carlo.
-> - **(B)** Andrea is stronger than Bruno, who is younger than Carlo.
-> - **(C)** Bruno is older than Andrea.
-> - **(D)** Bruno is weaker than Andrea .
+> - **(A)** Andrea is younger than Bruno, who is stronger than Carlo
+> - **(B)** Andrea is stronger than Bruno, who is younger than Carlo
+> - **(C)** Bruno is older than Andrea
+> - **(D)** Bruno is weaker than Andrea
 > - **(E)** Bruno is older and weaker than Carlo.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+[[Quesiti/src_archimede_1998_2livello#q12|src_archimede_1998_2livello__Q12]]
 
 
 
@@ -464,13 +497,16 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the section of a hexagonal prism*
+*Area of the section of a prism with a hexagonal base*
 
-> A straight prism with a height of $l$ and a regular side hexagon $l$ at the base is cut with a passing plane for two parallel beams each belonging to one of the two bases but not belonging to the same side face. The area of the resulting section is:
+> A right prism of height $l$ and having a regular hexagon of side $l$ as its base is cut by a plane passing through two parallel edges belonging each to one of the two bases, but not belonging to the same lateral face. The area of the resulting section is:
 > 
 > (A) $l^2$ \quad (B) $\dfrac{\sqrt{3}}{2}l^2$ \quad (C) $2l^2$ \quad (D) $\sqrt{3}\,l^2$ \quad (E) $2\sqrt{3}\,l^2$.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_2livello#q13|src_archimede_1998_2livello__Q13]]
 
 
 
@@ -500,17 +536,19 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*X radius of the tangent mean circumference with two common tangents*
+*Radius x of the middle circle tangent with two common tangents*
 
-![[src_archimede_1998_2livello__prob14.png]]
-
-> Three radii $C_R$, $C_x$, $C_r$, $R$, $x$ and $r$, respectively, have the centers aligned. It is known that $C_R$ and $C_r$ are external tangents to $C_x$ and that the three circumferences have two external tangents in common as shown in Figure 1. Note $r$, $R$, how much is $x$?
+> Three circles $C_R$, $C_x$, $C_r$ of radius respectively equal to $R$, $x$, $r$ have their centres collinear. It is known that $C_R$ and $C_r$ are externally tangent to $C_x$ and that the three circles have two common external tangents as in the figure. Given $r$, $R$, what is $x$?
 > 
 > (A) $\dfrac{R+r}{2}$ \quad (B) $\sqrt{Rr}$ \quad (C) $\sqrt{R^2 - r^2}$ \quad (D) $\dfrac{1}{1/r + 1/R}$ \quad (E) none of the above.
 > 
 > (see figure)
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_2livello#q14|src_archimede_1998_2livello__Q14]]
 
 
 
@@ -535,13 +573,16 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum a+b with 21ab2 and 15ab perfect squares*
+*Minimum a+b with 21ab² and 15ab both perfect squares*
 
-> The numbers $a$, $b$ are positive integers. What is the minimum positive value of $a + b$ so that $21a b^2$ and $15a b$ are both perfect squares?
+> The numbers $a$, $b$ are positive integers. What is the minimum positive value of $a + b$ such that $21a b^2$ and $15a b$ are both perfect squares?
 > 
-> (A) 16 \quad (B) 26 \quad (C) 36 \quad (D) 46 \quad
+> (A) 16 \quad (B) 26 \quad (C) 36 \quad (D) 46 \quad (E) 56.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_1998_2livello#q15|src_archimede_1998_2livello__Q15]]
 
 
 
@@ -566,11 +607,17 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Show that the radius of the enclosure at ABC is HM*
+*Prove that the radius of the circumscribed circle of ABC is HM*
 
-> This is the first step towards the development of a new approach.
-> 
-> Given the $ABC$ triangle with $\widehat{CAB} = \widehat{ABC} = 90°$  or with $C\hat{A}B - A\hat{B}C = 90°$  said $M$ the mean point of $AB$ and $H$ the foot of the height relative to $AB$, prove that the radius of circumference surrounded by $ABC$ is equal to $HM$.
+> **Proof exercise.**
+>
+> Given triangle $ABC$ with $\widehat{CAB} = \widehat{ABC} = 90°$ — that is, with $C\hat{A}B - A\hat{B}C = 90°$ — let $M$ be the midpoint of $AB$ and $H$ the foot of the altitude relative to $AB$; prove that the radius of the circle circumscribed about $ABC$ is equal to $HM$.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_2livello#q16|src_archimede_1998_2livello__Q16]]
 
 
 
@@ -600,12 +647,18 @@ Show that the radius of the enclosure at ABC is HM*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Determining together X with f(M)=M and convergence of succession*
+*Determine the set X with f(M)=M and the convergence of the sequence*
 
-> This is the first step towards the development of a new approach.
-> 
-> Given a positive integer $M$ whose decimal writing is $a_n a_{n-1} \ldots a_0$ (i.e. $M$ is equal to $10^n a_n + \cdots + 10 a_1 + a_0$) with $0 \leq a_0, \ldots, a_n \leq 9$, it is $$f(M) = a_n + 2a_{n-1} + 2^2 a_{n-2} + \cdots + 2^n a_0$$ (meaning that if $M = a_0$, then $f(M) = a_0$).
-> 
-> 1. The sum $X$ of all positive integers for which $f(M) = M$ is determined. 2. It is shown that for every positive integer $M$, the succession $M,\, f(M),\, f(f(M)),\, f(f(f(M))),\, \ldots$ contains an element of $X$.
+> **Demonstration exercise.**
+>
+> Given a positive integer $M$ whose decimal notation is $a_n a_{n-1} \ldots a_0$ (that is, $M$ equals $10^n a_n + \cdots + 10 a_1 + a_0$) with $0 \leq a_0, \ldots, a_n \leq 9$, let
+> $$f(M) = a_n + 2a_{n-1} + 2^2 a_{n-2} + \cdots + 2^n a_0$$
+> (it is understood that if $M = a_0$, then $f(M) = a_0$).
+>
+> 1. Determine the set $X$ of all positive integers for which $f(M) = M$.
+> 2. Prove that, for every positive integer $M$, the sequence $M,\, f(M),\, f(f(M)),\, f(f(f(M))),\, \ldots$ contains an element of $X$.
 
-**Answer:** X={1..9,19}
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+[[Quesiti/src_archimede_1998_2livello#q17|src_archimede_1998_2livello__Q17]]

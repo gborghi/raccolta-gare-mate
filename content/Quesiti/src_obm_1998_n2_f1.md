@@ -36,13 +36,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi interi che soddisfano una doppia disuguaglianza con radice quadrata*
+*Conta gli interi che soddisfano una doppia disuguaglianza con radice quadrata*
 
-> Quanti integri $x$ soddisfano la disuguaglianza $3 < \sqrt{x} < 7$?
-> 
-> A) 13 B) 20 C) 38 D) 39 E) 40
+> Quanti interi $x$ soddisfano la disuguaglianza $3 < \sqrt{x} < 7$?
+>
+> A) 13
+> B) 20
+> C) 38
+> D) 39
+> E) 40
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q01|src_obm_1998_n2_f1__Q01]]
 
 
 
@@ -72,13 +81,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Giorno della settimana 99 giorni dopo sabato*
+*Giorno della settimana 99 giorni dopo un sabato*
 
-> Oggi è sabato. Quale giorno della settimana sarà tra 99 giorni?
-> 
-> A) lunedì B) sabato C) domenica D) giovedì E) mercoledì
+> Oggi è sabato. Che giorno della settimana sarà tra 99 giorni?
+>
+> A) Lunedì
+> B) Sabato
+> C) Domenica
+> D) Giovedì
+> E) Mercoledì
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q02|src_obm_1998_n2_f1__Q02]]
 
 
 
@@ -102,7 +120,13 @@ level: OBM Nível 2
 
 *Problema annullato*
 
-> (Annullato / Annullato  Annulada.)
+> (Annullata / Resa nulla — Annullata.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q03|src_obm_1998_n2_f1__Q03]]
 
 
 
@@ -131,13 +155,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*età in cui l'età del padre è triplice dell'età del figlio*
+*Età in cui l'età del padre è il triplo di quella del figlio*
 
-> Un padre ha 33 anni e suo figlio ha 7 anni. In quanti anni l'età del padre sarà triplicata dell'età del figlio?
-> 
-> A) 3 B) 7 C) 6 D) 9 E) 13
+> Un padre ha 33 anni e suo figlio ne ha 7. Tra quanti anni l'età del padre sarà il triplo di quella del figlio?
+>
+> A) 3
+> B) 7
+> C) 6
+> D) 9
+> E) 13
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n2_f1#q04|src_obm_1998_n2_f1__Q04]]
 
 
 
@@ -168,15 +200,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di triangolo con vertici nei punti di mezzo dei lati quadrati*
+*Area del triangolo i cui vertici sono i punti medi dei lati del quadrato*
 
-> Il quadrilaterale $ABCD$ è un quadrato di superficie $4\,\mathrm{m}^2$. I punti $M$ e $N$ sono rispettivamente i punti medi dei lati $DC$ e $BC$. Qual è l'area, in $\mathrm{m}^2$, del triangolo ombrato (il triangolo con vertici a $A$, $M$ e $N$)?
-> 
-> A) 2 B) 1.5 C) 2.5 D) 3 E) 3.5
+> Il quadrilatero $ABCD$ è un quadrato di area $4\,\mathrm{m}^2$. I punti $M$ e $N$ sono rispettivamente i punti medi dei lati $DC$ e $BC$. Qual è l'area, in $\mathrm{m}^2$, del triangolo ombreggiato (il triangolo con vertici in $A$, $M$ e $N$)?
+>
+> A) 2
+> B) 1.5
+> C) 2.5
+> D) 3
+> E) 3.5
 
 ![[src_obm_1998_n2_f1__q05.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n2_f1#q05|src_obm_1998_n2_f1__Q05]]
 
 
 
@@ -206,13 +246,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'unità di 3 aumentata alla potenza 1998*
+*Cifra delle unità di 3 elevato alla 1998ª potenza*
 
-> Qual è la cifra di unità di $3^{1998}$?
-> 
-> A) 1 B) 3 C) 5 D) 7 E) 9
+> Qual è la cifra delle unità di $3^{1998}$?
+>
+> A) 1
+> B) 3
+> C) 5
+> D) 7
+> E) 9
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q06|src_obm_1998_n2_f1__Q06]]
 
 
 
@@ -242,13 +291,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Codice segreto: trovare a+b+c+d dalle equazioni digitali*
+*Codice segreto: trova a+b+c+d a partire dalle equazioni con le cifre*
 
-> In un codice segreto, le prime 10 lettere dell'alfabeto rappresentano i numeri da 0 a 9, con ogni lettera corrispondente esattamente a una cifra e viceversa. È noto che $d + d = f$, $d \cdot d = f$, $c + c = d$, $c + d = a$ e $a - a = b$. Possiamo concludere che $a + b + c + d$ è uguale a:
-> 
-> A) 0 B) 2 C) 4 D) 6 E) 8
+> In un codice segreto, le prime 10 lettere dell'alfabeto rappresentano le cifre da 0 a 9, con ogni lettera che corrisponde esattamente a una cifra e viceversa. Si sa che $d + d = f$, $d \cdot d = f$, $c + c = d$, $c + d = a$ e $a - a = b$. Possiamo concludere che $a + b + c + d$ è uguale a:
+>
+> A) 0
+> B) 2
+> C) 4
+> D) 6
+> E) 8
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n2_f1#q07|src_obm_1998_n2_f1__Q07]]
 
 
 
@@ -278,13 +336,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la cifra a in modo che 1234a6 sia divisibile per 7*
+*Trovare la cifra a tale che 1234a6 sia divisibile per 7*
 
 > Il numero $1234a6$ è divisibile per 7. La cifra $a$ è:
-> 
-> A) 0 B) 2 C) 5 D) 6 E) 8
+>
+> A) 0
+> B) 2
+> C) 5
+> D) 6
+> E) 8
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q08|src_obm_1998_n2_f1__Q08]]
 
 
 
@@ -316,15 +383,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la lunghezza AB nel trapezoide con angoli e lati dati*
+*Trovare la lunghezza AB in un trapezio con angoli e lati dati*
 
-> Nel trapezoide di seguito, $AB$ è parallelo a $CD$, $AD = 10\,\mathrm{cm}$ e $CD = 15\,\mathrm{cm}$. L'angolo $C$ misura $75^\circ$ e l'angolo $D$ misura $30^\circ$. Qual è la lunghezza del lato $AB$, in centimetri?
-> 
-> A) 5 B) 7.5 C) 10 D) 12.5 E) $5\sqrt{3}$
+> Nel trapezio sottostante, $AB$ è parallelo a $CD$, $AD = 10\,\mathrm{cm}$ e $CD = 15\,\mathrm{cm}$. L'angolo $C$ misura $75^\circ$ e l'angolo $D$ misura $30^\circ$. Qual è la lunghezza del lato $AB$, in centimetri?
+>
+> A) 5
+> B) 7.5
+> C) 10
+> D) 12.5
+> E) $5\sqrt{3}$
 
 ![[src_obm_1998_n2_f1__q09.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n2_f1#q09|src_obm_1998_n2_f1__Q09]]
 
 
 
@@ -356,15 +432,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il numero mancante X in un quadrato magico*
+*Trovare il numero mancante X in un quadrato magico*
 
-> Nel quadrato magico qui sotto, la somma dei numeri in ogni riga, colonna e diagonale è sempre la stessa. Pertanto, il numero che dovrebbe sostituire $X$ è:
-> 
+> Nel quadrato magico qui sotto, la somma dei numeri in ogni riga, in ogni colonna e in ogni diagonale è sempre la stessa. Pertanto, il numero che dovrebbe sostituire $X$ è:
+>
 > $$\begin{array}{|c|c|c|}\hline 15 & & 35 \\ \hline 50 & & \\ \hline 25 & X & \\ \hline \end{array}$$
-> 
-> A) 30 B) 20 C) 35 D) 45 E) 40
+>
+> A) 30
+> B) 20
+> C) 35
+> D) 45
+> E) 40
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q10|src_obm_1998_n2_f1__Q10]]
 
 
 
@@ -394,13 +479,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sparrows on branches: count given landing rules*
+*Passeri sui rami: conta secondo le regole di atterraggio date*
 
-> I passeri giocano intorno a un vecchio albero. Se due passeri atterrano su ogni ramo, un passero volando. Se tutti i passeri sbarcano sul medesimo ramo (tre su ciascuno), un ramo rimane vuoto. Quanti passeri ci sono?
-> 
-> A) 6 B) 9 C) 10 D) 12 E) 15
+> I passeri giocano intorno a un albero vecchio. Se due passeri si posano su ciascun ramo, un passero resta in volo. Se tutti i passeri si posano sullo stesso ramo (tre per ramo), un ramo resta vuoto. Quanti passeri ci sono?
+>
+> A) 6
+> B) 9
+> C) 10
+> D) 12
+> E) 15
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q11|src_obm_1998_n2_f1__Q11]]
 
 
 
@@ -431,15 +525,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza minima della corda per legare 15 confezioni*
+*Lunghezza minima della corda per legare 15 pacchi*
 
-> Qual è il numero minimo di metri di corda necessari per legare 15 imballaggi, dato che ogni imballaggio misura $10\,\mathrm{cm} \times 20\,\mathrm{cm} \times 40\,\mathrm{cm}$ e 20 cm di corda sono riservati per l'arco?
-> 
-> A) 39 B) 36 C) 48 D) 56 E) 42
+> Qual è il numero minimo di metri di spago necessari per legare 15 pacchi, sapendo che ogni pacco misura $10\,\mathrm{cm} \times 20\,\mathrm{cm} \times 40\,\mathrm{cm}$ e che 20 cm di spago sono riservati al fiocco?
+>
+> A) 39
+> B) 36
+> C) 48
+> D) 56
+> E) 42
 
 ![[src_obm_1998_n2_f1__q12.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q12|src_obm_1998_n2_f1__Q12]]
 
 
 
@@ -468,13 +570,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find il prezzo del biglietto per studente dato il totale e le assenze*
+*Trovare il prezzo del biglietto per studente, dati il totale e le assenze*
 
-> Per partecipare al film \textit{Central do Brasil}, ciascuno degli studenti di una classe deve pagare $y$ reais per la tariffa dell'autobus. Poiché 3 studenti erano assenti, ciascuno degli studenti presenti dovette pagare 2 reais in più per coprire il costo totale. Qual era il prezzo per persona?
-> 
-> A) $(x+3)(y-2)$ B) $(x-3)y + 2$ C) $x(y-2) - 3$ D) $xy - 6$ E) $(x-3)(y+2)$
+> Per assistere alla proiezione del film \textit{Central do Brasil}, ciascuno dei $x$ studenti di una classe avrebbe dovuto pagare $y$ reais per la corsa in autobus. Poiché 3 studenti erano assenti, ciascuno degli studenti presenti ha dovuto pagare 2 reais in più per coprire il costo totale. Qual era il prezzo a persona?
+>
+> A) $(x+3)(y-2)$
+> B) $(x-3)y + 2$
+> C) $x(y-2) - 3$
+> D) $xy - 6$
+> E) $(x-3)(y+2)$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n2_f1#q13|src_obm_1998_n2_f1__Q13]]
 
 
 
@@ -503,13 +613,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sconto reale rispetto allo sconto apparente in una vendita*
+*Sconto reale versus sconto apparente in una vendita*
 
-> Horacio ha deciso di aumentare le vendite di CD nel suo negozio e ha annunciato una vendita di liquidazione con un 30% di sconto sul prezzo dell'etichetta. Succede che il giorno prima della vendita, Horacio aveva aumentato il prezzo segnalato sulle etichette. Di conseguenza, il vero sconto è stato solo del 9%. Quanto ha aumentato Horacio il prezzo?
-> 
-> A) 30% B) 39% C) 21% D) 40% E) 31%
+> Horacio decise di aumentare le vendite di CD nel suo negozio e annunciò una svendita con uno sconto del 30% sul prezzo indicato sull'etichetta. Casualmente, il giorno prima della svendita, Horacio aveva aumentato il prezzo segnato sulle etichette. Di conseguenza, lo sconto reale era solo del 9%. Di quanto Horacio aveva aumentato il prezzo?
+>
+> A) 30%
+> B) 39%
+> C) 21%
+> D) 40%
+> E) 31%
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n2_f1#q14|src_obm_1998_n2_f1__Q14]]
 
 
 
@@ -539,13 +657,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadro di conteggio utilizzato per due tipi con quantità fisse*
+*Conta le casse utilizzate, dati due tipi con quantità fisse*
 
-> Un produttore di giocattoli imballa le palle di ping-pong in due tipi di scatole: una ha 10 palle e l'altra 24 palle. Un certo giorno ha messo 198 palle con non più di 10 scatole. Quante scatole sono state usate quel giorno?
-> 
-> A) 14 B) 16 C) 15 D) 17 E) 11
+> Un produttore di giocattoli confeziona palline da ping-pong in due tipi di scatole: un tipo contiene 10 palline e l'altro ne contiene 24. Un certo giorno, ha confezionato 198 palline utilizzando non più di 10 scatole. Quante scatole sono state usate quel giorno?
+>
+> A) 14
+> B) 16
+> C) 15
+> D) 17
+> E) 11
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n2_f1#q15|src_obm_1998_n2_f1__Q15]]
 
 
 
@@ -579,17 +706,26 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Remplire la griglia con le cifre 1-5; trovare la cifra più ripetuta*
+*Riempi la griglia con le cifre da 1 a 5; trova la cifra che compare più spesso*
 
-> Metti i numeri 1, 2, 3, 4 o 5 in ogni piccola cella della griglia mostrata, in modo che ogni cifra appaia almeno una volta e il numero più grande possibile formato sia un multiple di 9.
-> 
-> (La griglia ha 9 celle consecutive.)
-> 
-> Quale cifra appare più spesso nel numero che hai costruito?
-> 
-> A) 6 volte B) 5 volte C) 4 volte D) 3 volte E) 2 volte
+> Inserisci le cifre 1, 2, 3, 4 o 5 in ciascuna piccola cella della griglia mostrata, in modo che ogni cifra compaia almeno una volta e il numero più grande possibile che si ottiene sia un multiplo di 9.
+>
+> (La griglia ha 9 celle in una riga.)
+>
+> Quale cifra è comparsa più spesso nel numero che hai costruito?
+>
+> A) 6 volte
+> B) 5 volte
+> C) 4 volte
+> D) 3 volte
+> E) 2 volte
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n2_f1#q16|src_obm_1998_n2_f1__Q16]]
 
 
 
@@ -625,13 +761,28 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Generalizzare il modello triplo di Pitagora per trovare x+y*
+*Generalizza il modello delle terne pitagoriche per trovare x+y*
 
-> Osservare le seguenti identità: $$3^2 + 4^2 = 5^2$$ $$5^2 + 12^2 = 13^2$$ $$7^2 + 24^2 = 25^2$$ $$9^2 + 40^2 = 41^2$$ $$\vdots$$ Usando questi esempi come guida, considera l'identità $17^2 + x^2 = y^2$, dove $x$ e $y$ sono numeri naturali. Determinare il valore di $x + y$.
-> 
-> A) 289 B) 121 C) 81 D) 144 E) 196
+> Osserva le seguenti identità:
+> $$3^2 + 4^2 = 5^2$$
+> $$5^2 + 12^2 = 13^2$$
+> $$7^2 + 24^2 = 25^2$$
+> $$9^2 + 40^2 = 41^2$$
+> $$\vdots$$
+> Usando questi esempi come guida, si consideri l'identità $17^2 + x^2 = y^2$, dove $x$ e $y$ sono numeri naturali. Determinare il valore di $x + y$.
+>
+> A) 289
+> B) 121
+> C) 81
+> D) 144
+> E) 196
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n2_f1#q17|src_obm_1998_n2_f1__Q17]]
 
 
 
@@ -665,17 +816,26 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i modi per dipingere la bandiera con 4 colori, due non possono essere adiacenti*
+*Conta i modi per dipingere una bandiera con 4 colori, a due dei quali non è permesso essere adiacenti*
 
-> Verrai dipinto la bandiera sotto utilizzando 4 colori: blu, verde, giallo e rosso, un colore per regione.
-> 
-> Se il rosso e il giallo non possono essere vicini, in quanti modi si può dipingere la bandiera?
-> 
-> A) 12 B) 4 C) 18 D) 20 E) 16
+> Stai per dipingere la bandiera qui sotto usando 4 colori: blu, verde, giallo e rosso, un colore per regione.
+>
+> Se il rosso e il giallo non possono essere adiacenti, in quanti modi si può dipingere la bandiera?
+>
+> A) 12
+> B) 4
+> C) 18
+> D) 20
+> E) 16
 
 ![[src_obm_1998_n2_f1__q18.png]]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n2_f1#q18|src_obm_1998_n2_f1__Q18]]
 
 
 
@@ -711,15 +871,28 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un puzzle logico: uno dei quattro sospettati dice la verità
+*Puzzle logico: un bugiardo veritiero tra quattro sospetti*
 
-> Un crimine è commesso da una sola persona e ci sono quattro sospetti: André, Eduardo, Rafael e João. Quando vengono interrogati, fanno le seguenti dichiarazioni: - André: Eduardo è colpevole. - João è colpevole. - Non sono colpevole. Eduardo mente quando dice che sono colpevole.
-> 
+> Un crimine è stato commesso da una sola persona, e ci sono quattro sospettati: André, Eduardo, Rafael e João. Interrogati, fanno le seguenti dichiarazioni:
+> - André: Eduardo è colpevole.
+> - Eduardo: João è colpevole.
+> - Rafael: Non sono colpevole.
+> - João: Eduardo mente quando dice che sono colpevole.
+>
 > Sapendo che esattamente uno dei quattro ha detto la verità, chi è colpevole?
-> 
-> A) André. B) Eduardo. C) Rafael. D) João. E) Non può essere determinato.
+>
+> A) André.
+> B) Eduardo.
+> C) Rafael.
+> D) João.
+> E) Non è possibile determinarlo.
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n2_f1#q19|src_obm_1998_n2_f1__Q19]]
 
 
 
@@ -743,4 +916,10 @@ Un puzzle logico: uno dei quattro sospettati dice la verità
 
 *Problema annullato*
 
-> (Annullato / Annullato  Annulada.)
+> (Annullata / Resa nulla — Annullata.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f1#q20|src_obm_1998_n2_f1__Q20]]

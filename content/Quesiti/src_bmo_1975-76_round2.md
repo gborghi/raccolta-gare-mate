@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che la somma del rapporto è costante per il punto nel triangolo*
+*Quella somma di rapporti è costante, indipendente da $P$*
 
-> Attraverso un punto $P$ all'interno di un triangolo fisso $ABC$ le linee $PL$, $PM$, $PN$ sono disegnate parallele alle medie rispettivamente attraverso $A$, $B$, $C$ per raggiungere $BC$, $CA$, $AB$ rispettivamente a $L$, $M$ e $N$. Provare che $$\frac{BL}{BC} + \frac{CM}{CA} + \frac{AN}{AB}$$ è costante (indipendente da $P$).
+> Per un punto $P$ interno a un triangolo fissato $ABC$ si tracciano le rette $PL$, $PM$, $PN$ parallele alle mediane rispettivamente per $A$, $B$, $C$, che incontrano $BC$, $CA$, $AB$ rispettivamente in $L$, $M$, $N$. Dimostrare che
+> $$\frac{BL}{BC} + \frac{CM}{CA} + \frac{AN}{AB}$$
+> è costante (indipendente da $P$).
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1975-76_round2#q01|src_bmo_1975-76_round2__Q01]]
 
 
 
@@ -61,11 +70,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La radice dell'equazione reale si trova in un intervallo dato*
+*Una radice reale $t$ sta fra $-(1 + \sqrt{5})$ e $\frac{1}{2}(1 + \sqrt{5})$*
 
-> Il numero reale $t$ è una radice dell'equazione $$x^n + a_1 x^{n-1} + \cdots + a_{n-1} x + a_n = 0, \quad (n \geq 2),$$ dove i coefficienti sono reali e soddisfano $-1 \leq a_k \leq 1$, $(2 \leq k \leq n)$.
-> 
-> Provare che $$-(1 + \sqrt{5}) \leq t \leq \frac{1}{2}(1 + \sqrt{5}).$$
+> Il numero reale $t$ è una radice dell'equazione
+> $$x^n + a_1 x^{n-1} + \cdots + a_{n-1} x + a_n = 0, \quad (n \geq 2),$$
+> dove i coefficienti sono reali e soddisfano $-1 \leq a_k \leq 1$, $(2 \leq k \leq n)$.
+>
+> Dimostrare che
+> $$-(1 + \sqrt{5}) \leq t \leq \frac{1}{2}(1 + \sqrt{5}).$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1975-76_round2#q02|src_bmo_1975-76_round2__Q02]]
 
 
 
@@ -90,11 +109,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La forma quadrata ha solo una soluzione di numeri interi triviali; il cubo ha infiniti*
+*Nessuna soluzione intera non banale, e infinite soluzioni positive con rapporti distinti*
 
-> Prova che l'equazione $x^2 - 3y^2 - 3z^2 + 7t^2 = 0$ non ha soluzioni in numeri interi diversi da $x = y = z = t = 0$.
-> 
-> Prove che $x^3 - 3y^3 - 3z^3 + 7t^3 = 0$ ha infinite soluzioni in numeri interi positivi $x_0, y_0, z_0, t_0$ in nessuno dei quali il rapporto $x:y:z:t$ sia lo stesso.
+> Dimostrare che l'equazione $x^2 - 3y^2 - 3z^2 + 7t^2 = 0$ non ha soluzioni intere oltre a $x = y = z = t = 0$.
+>
+> Dimostrare che $x^3 - 3y^3 - 3z^3 + 7t^3 = 0$ ha infinite soluzioni in interi positivi $x_0, y_0, z_0, t_0$ in nessuna coppia delle quali il rapporto $x:y:z:t$ sia lo stesso.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1975-76_round2#q03|src_bmo_1975-76_round2__Q03]]
 
 
 
@@ -118,9 +144,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessun intero positivo p,q con |sqrt(2)-p/q| ≤ 1/(4q²)*
+*Non esistono interi positivi $p$, $q$ con $\left|\sqrt{2} - \frac{p}{q}\right| \leq \frac{1}{4q^2}$*
 
-> Prove che non è possibile trovare integri positivi $p$ e $q$ con la proprietà che $$\left|\sqrt{2} - \frac{p}{q}\right| \leq \frac{1}{4q^2}.$$
+> Dimostrare che non è possibile trovare interi positivi $p$ e $q$ con la proprietà che
+> $$\left|\sqrt{2} - \frac{p}{q}\right| \leq \frac{1}{4q^2}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1975-76_round2#q04|src_bmo_1975-76_round2__Q04]]
 
 
 
@@ -149,12 +183,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura di otto curve con due proprietà esagoniche*
+*Due esagoni congruenti distinti sulla curva a otto $S$, non ricavabili l'uno dall'altro con una sola isometria*
 
-> Una curva di "figure di otto", $S$, è costituita da due cerchi che si toccano di uguali radii. Mostrare che esiste una coppia di due esagoni congruenti distinti (non necessariamente convexi) con le seguenti proprietà:
-> 
-> (a) Tutti i vertici degli esagoni si trovano su $S$.
-> 
-> b) Ogni esagono ha tutti i suoi vertici su un cerchio.
-> 
-> (c) Nessun esagono può essere ottenuto dall'altro con una singola traduzione, una singola rotazione o un singolo riflesso.
+> Una curva «a otto», $S$, è formata da due circonferenze tangenti di raggi uguali. Dimostrare che esiste una coppia di due esagoni congruenti distinti (non necessariamente convessi) con le proprietà seguenti:
+>
+> (a) tutti i vertici degli esagoni stanno su $S$;
+>
+> (b) ciascun esagono ha tutti i vertici su una circonferenza;
+>
+> (c) nessuno dei due esagoni si può ottenere dall'altro con una sola traslazione, una sola rotazione o una sola riflessione.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1975-76_round2#q05|src_bmo_1975-76_round2__Q05]]

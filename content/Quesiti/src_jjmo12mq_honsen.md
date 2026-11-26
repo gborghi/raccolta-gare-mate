@@ -31,11 +31,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli enti n ≥2 i cui piccoli divisori soddisfano d2 n*
+*Trovare tutti gli interi n≥2 tali che i loro divisori piccoli soddisfino d² | n*
 
-> Trova tutti gli enti $n \geq 2$ che soddisfano la seguente condizione.
-> 
-> \textit{Condition:} Per ogni divisore positivo $d$ di $n$ con $d \leq \sqrt{n}$, $d^2$ divide $n$.
+> Trovare tutti gli interi $n \geq 2$ che soddisfano la seguente condizione.
+>
+> \textit{Condizione:} Per ogni divisore positivo $d$ di $n$ con $d \leq \sqrt{n}$, $d^2$ divide $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo12mq_honsen#q01|src_jjmo12mq_honsen__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove A≤B per i rapporti minimi consecutivi di 2n razionali positivi*
+*Dimostrare A≤B per i rapporti consecutivi minimi di 2n numeri razionali positivi*
 
-> $n$ sia un numero intero positivo. $a_1, a_2, \ldots, a_{2n}$ siano $2n$ numeri razionali positivi. Riordinarli in ordine non diminuente dà $b_1 \leq b_2 \leq \cdots \leq b_{2n}$. Definire $A$ come valore minimo tra $\dfrac{a_2}{a_1}, \dfrac{a_3}{a_2}, \ldots, \dfrac{a_{2n}}{a_{2n-1}}$ e $B$ come valore minimo tra $\dfrac{b_2}{b_1}, \dfrac{b_3}{b_2}, \ldots, \dfrac{b_{2n}}{b_{2n-1}}$. Prove che $A \leq B$.
+> Sia $n$ un numero intero positivo. Siano $a_1, a_2, \ldots, a_{2n}$ dei numeri razionali positivi $2n$. Riordinandoli in modo non decrescente si ottiene $b_1 \leq b_2 \leq \cdots \leq b_{2n}$. Si definisca $A$ come il valore minimo tra $\dfrac{a_2}{a_1}, \dfrac{a_3}{a_2}, \ldots, \dfrac{a_{2n}}{a_{2n-1}}$, e si definisca $B$ come il valore minimo tra $\dfrac{b_2}{b_1}, \dfrac{b_3}{b_2}, \ldots, \dfrac{b_{2n}}{b_{2n-1}}$. Dimostrare che $A \leq B$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo12mq_honsen#q02|src_jjmo12mq_honsen__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo con BAC=60°, la riflessione di A su PQ si trova su BC*
+*In un triangolo in cui ∠BAC=60°, il riflesso di A rispetto a PQ giace su BC*
 
-> Che $ABC$ sia un triangolo con $\angle BAC = 60^\circ$. Il $P$ è l'intersezione del bisettore angolare di $\angle ABC$ con il lato $AC$ e il $Q$ è l'intersezione del bisettore angolare di $\angle ACB$ con il lato $AB$. Prova che il riflesso di $A$ sulla linea $PQ$ si trova sulla linea $BC$.
+> Sia $ABC$ un triangolo con $\angle BAC = 60^\circ$. Sia $P$ l'intersezione della bisettrice dell'angolo $\angle ABC$ con il lato $AC$, e sia $Q$ l'intersezione della bisettrice dell'angolo $\angle ACB$ con il lato $AB$. Dimostrare che il riflesso di $A$ rispetto alla retta $PQ$ giace sulla retta $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo12mq_honsen#q03|src_jjmo12mq_honsen__Q03]]
 
 
 
@@ -112,13 +133,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafico ponte-isola: assegnazione di rifugi con condizioni di parità*
+*Grafo ponte-isola: assegnazione dei rifugi con condizioni di parità*
 
-> $n \geq 2$ sia un numero intero. Ci sono $n$ isole disposte in un grande lago, collegate da alcuni ponti; ogni ponte collega direttamente due isole. Per qualsiasi due isole, o sono collegate da un ponte o no, e ogni ponte collega esattamente due isole distinte. Per prepararci a un disastro, abbiamo deciso di designare, per ogni isola, una delle due isole alle estremità di un ponte collegato a quella isola come suo rifugio designato, a condizione che il ponte che collega un'isola direttamente al suo rifugio debba esistere. Ogni isola deve avere almeno un ponte che la collega ad un'altra isola, e scegliamo l'isola più grande come rifugio.
-> 
-> (1) Provare che se $n$ è strano, allora esiste un'isola che non può essere scelta come rifugio per nessuna isola.
-> 
-> (2) Prova che se $n$ è pari e ci sono più di $\dfrac{n^2}{4}$ ponti, allora esiste un'isola che non può essere scelta come rifugio per nessuna isola.
+> Sia $n \geq 2$ un numero intero. Ci sono $n$ isole disposte in un grande lago, collegate da alcuni ponti; ogni ponte collega direttamente due isole. Per qualsiasi coppia di isole, o sono collegate da un ponte oppure no, e ogni ponte collega esattamente due isole distinte. Per prepararci a un disastro, abbiamo deciso di designare, per ciascuna isola, una delle due isole alle estremità di qualche ponte collegato a quell'isola, come suo rifugio designato, con la condizione che il ponte che collega direttamente un'isola al suo rifugio debba esistere. Ogni isola deve avere almeno un ponte che la colleghi a un'altra isola, e scegliamo l'isola più grande come rifugio.
+>
+> (1) Dimostrare che, se $n$ è dispari, allora esiste un'isola che non può essere scelta come rifugio per nessuna isola.
+>
+> (2) Dimostrare che, se $n$ è pari e ci sono più di $\dfrac{n^2}{4}$ ponti, allora esiste un'isola che non può essere scelta come rifugio per nessuna isola.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo12mq_honsen#q04|src_jjmo12mq_honsen__Q04]]
 
 
 
@@ -142,6 +170,14 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi positivi (n,k) con (n^n+n+2)/(n+1)2=2^k*
+*Coppie di interi positivi (n, k) con (n^n + n + 2)/(n+1)^2 = 2^k*
 
-> Trova tutte le coppie di integri positivi $(n, k)$ soddisfacenti $$\frac{n^n + n + 2}{(n+1)^2} = 2^k.$$
+> Trovare tutte le coppie di interi positivi $(n, k)$ che soddisfano
+> $$\frac{n^n + n + 2}{(n+1)^2} = 2^k.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_jjmo12mq_honsen#q05|src_jjmo12mq_honsen__Q05]]

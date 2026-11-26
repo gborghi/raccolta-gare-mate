@@ -30,9 +30,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza delle somme sui numeri primi per i numeri perfetti*
+*Disuguaglianza sulle somme estese sui numeri primi per i numeri perfetti*
 
-> Un intero positivo $n$ si chiama *perfetto* se la somma dei suoi divisori positivi $\sigma(n)$ è uguale al doppio $n$, cioè\ $\sigma(n) = 2n$. Ad esempio, $6$ è un numero perfetto, poiché la somma dei suoi divisori positivi è $1+2+3+6=12$, che è il doppio di $6$. Prova che se $n$ è un intero perfetto positivo, allora $$\sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p+1} < \ln 2 < \sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p-1}.$$
+> Un numero intero positivo $n$ è detto *perfetto* se la somma dei suoi divisori positivi $\sigma(n)$ è uguale al doppio di $n$, cioè $\sigma(n) = 2n$. Ad esempio, $6$ è un numero perfetto, poiché la somma dei suoi divisori positivi è $1+2+3+6=12$, che è il doppio di $6$. Dimostrare che, se $n$ è un numero intero positivo perfetto, allora
+> $$\sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p+1} < \ln 2 < \sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p-1}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2024_nu_fx#q01|src_obm_2024_nu_fx__Q01]]
 
 
 
@@ -61,15 +69,22 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Analisi di punto fisso e di valore proprio per la composizione delle funzioni iterate*
+*Analisi dei punti fissi e degli autovalori per la composizione iterata di funzioni*
 
-> Per ogni coppia di integri $j, k \ge 2$, definire la funzione $f_{jk} : \mathbb{R} \to \mathbb{R}$ con $f_{jk}(x) = 1 - (1 - x^j)^k$.
-> 
-> a) Prove che per tutti gli enti $j, k \ge 2$ esiste un numero reale unico $p_{jk} \in (0,1)$ tale che $f_{jk}(p_{jk}) = p_{jk}$. Inoltre, definendo $\lambda_{jk} := f'_{jk}(p_{jk})$, si dimostra che $\lambda_{jk} > 1$.
-> 
-> b) Prove che $p'_{jk} = 1 - p_{jk}$ per tutti gli integri $j, k \ge 2$.
-> 
-> c) Prove che $\lambda_{jk} = \lambda_{kj}$ per tutti gli integri $j, k \ge 2$.
+> Per ogni coppia di interi $j, k \ge 2$, definire la funzione $f_{jk} : \mathbb{R} \to \mathbb{R}$ mediante $f_{jk}(x) = 1 - (1 - x^j)^k$.
+>
+> (a) Dimostrare che, per ogni intero $j, k \ge 2$, esiste un unico numero reale $p_{jk} \in (0,1)$ tale che $f_{jk}(p_{jk}) = p_{jk}$. Inoltre, definendo $\lambda_{jk} := f'_{jk}(p_{jk})$, dimostrare che $\lambda_{jk} > 1$.
+>
+> (b) Dimostrare che $p'_{jk} = 1 - p_{jk}$ per qualsiasi intero $j, k \ge 2$.
+>
+> (c) Dimostrare che $\lambda_{jk} = \lambda_{kj}$ per qualsiasi intero $j, k \ge 2$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2024_nu_fx#q02|src_obm_2024_nu_fx__Q02]]
 
 
 
@@ -92,9 +107,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco da tavolo: si muove su n×n griglia conservando esattamente una pietra*
+*Gioco da tavolo: si muove su una griglia n×n conservando esattamente una pietra*
 
-> Considerate un gioco su una tavola $n \times n$, dove ogni cella inizia con esattamente una pietra. Un *movimento* consiste nel scegliere $5$ cellule consecutive nella stessa riga o colonna della lavagna e scambiare lo stato di tali cellule (rilevando una pietra da una cellula che ne ha una e inserendo una nella cellula che non ne ha una). Per quali integri positivi $n \ge 5$ è possibile far rimanere esattamente una pietra alla tavola dopo un numero finito di mosse?
+> Si consideri un gioco su una scacchiera di dimensioni $n \times n$, in cui ogni cella inizia con esattamente una pietra. Una *mossa* consiste nel scegliere $5$ celle consecutive nella stessa riga o nella stessa colonna della scacchiera e nello scambiare lo stato di quelle celle (rimuovendo una pietra da una cella che ne contiene una e mettendo una pietra in una cella che non ne contiene alcuna). Per quali interi positivi $n \ge 5$ è possibile far sì che, dopo un numero finito di mosse, sulla scacchiera rimanga esattamente una pietra?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_nu_fx#q03|src_obm_2024_nu_fx__Q03]]
 
 
 
@@ -121,13 +143,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzioni morficamente impar e caratterizzazione polinomica di parità*
+*Funzioni dispari morfiche e caratterizzazione polinomiale della parità*
 
-> Diciamo che una funzione $f : \mathbb{R} \to \mathbb{R}$ è *morfisticamente odd* (moralmente ímpar) se il suo grafico è simmetrico rispetto a qualche punto, cioè esiste $(x_0, y_0) \in \mathbb{R}^2$ tale che $(2x_0 - x, 2y_0 - f(x)) \in \{(x, f(x)) : x \in \mathbb{R}\}$ per tutti $x \in \mathbb{R}$. D'altra parte, $f$ è chiamato *morficamente pari* (moralmente par) se il suo grafico è simmetrico rispetto a una linea (non necessariamente verticale o orizzontale). Se $f$ è morficamente pari, allora $f$ è anche morficamente impar.
-> 
-> (a) Che $S \subseteq \mathbb{R}$ sia un insieme limitato e $f : S \to \mathbb{R}$ una funzione arbitraria. Prove che esiste un $g : \mathbb{R} \to \mathbb{R}$ morfisticamente impar tale che $g(x) = f(x)$ per tutti $x \in S$.
-> 
-> (b) Trova tutti i polinomi $P$ con coefficienti reali in modo tale che la funzione polinomica corrispondente $P : \mathbb{R} \to \mathbb{R}$ sia morficamente pari.
+> Diciamo che una funzione $f : \mathbb{R} \to \mathbb{R}$ è *morficamente dispari* (moralmente ímpar) se il suo grafico è simmetrico rispetto a un certo punto, cioè esiste $(x_0, y_0) \in \mathbb{R}^2$ tale che $(2x_0 - x, 2y_0 - f(x)) \in \{(x, f(x)) : x \in \mathbb{R}\}$ per ogni $x \in \mathbb{R}$. D'altra parte, $f$ è detta *morficamente pari* (moralmente par) se il suo grafico è simmetrico rispetto a una certa retta (non necessariamente verticale o orizzontale). Se $f$ è morficamente pari, allora $f$ è anch'essa morficamente dispari.
+>
+> (a) Sia $S \subseteq \mathbb{R}$ un insieme limitato e $f : S \to \mathbb{R}$ una funzione arbitraria. Dimostrare che esiste $g : \mathbb{R} \to \mathbb{R}$ morficamente dispari tale che $g(x) = f(x)$ per ogni $x \in S$.
+>
+> (b) Trovare tutti i polinomi $P$ a coefficienti reali tali che la corrispondente funzione polinomiale $P : \mathbb{R} \to \mathbb{R}$ sia morficamente pari.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2024_nu_fx#q04|src_obm_2024_nu_fx__Q04]]
 
 
 
@@ -152,9 +181,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*sequenza di matrice con A^12=I o (A^2-I)^2=O, traccia su diagonale*
+*Sequenza di matrici con A^12=I oppure (A^2-I)^2=O, traccia sulla diagonale*
 
-> La matrice $A$ deve essere una matrice di entrata interi $2 \times 2$ con $\det(A) \ne 0$. La sequenza $(A^n)$, $n = 1, 2, 3, \ldots$, soddisfa $$A^{12} = I \quad \text{or} \quad (A^2 - I)^2 = O.$$ Qui $I$ e $O$ indicano rispettivamente la matrice di identità e la matrice di zero, e $\operatorname{tr}$ indica la traccia della matrice (somma degli elementi diagonali). Indicare che $A$ è limitato (limitato).
+> Sia $A$ una matrice a ingressi interi $2 \times 2$ con $\det(A) \ne 0$. Sia la successione $(A^n)$, $n = 1, 2, 3, \ldots$, tale che
+> $$A^{12} = I \quad \text{or} \quad (A^2 - I)^2 = O.$$
+> Qui $I$ e $O$ denotano rispettivamente la matrice identità e la matrice nulla, mentre $\operatorname{tr}$ denota la traccia della matrice (somma degli elementi diagonali). Dimostrare che $A$ è limitata (delimitata).
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2024_nu_fx#q05|src_obm_2024_nu_fx__Q05]]
 
 
 
@@ -185,8 +223,21 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*frazioni irriducibili in [0,1] con denominatore ≤ n; limite di rapporto*
+*Frazioni irriducibili in [0,1] con denominatore ≤ n; limite del rapporto*
 
-> Per ogni intero positivo $n$, enumere in ordine crescente tutte le frazioni irriducibili nell'intervallo $[0,1]$ con denominatore inferiore o uguale a $n$: $$\frac{0}{1} = \frac{p_0}{q_0} < \frac{p_1}{q_1} < \cdots < \frac{p_n}{q_n} < \cdots < \frac{1}{1} = \frac{p_{M(n)}}{q_{M(n)}}.$$ Si tratti di un intero positivo. Determinare, per ogni $n$ tale che $M(n) \ge k-1$, $$f_k(n) = \min\left\{\sum_{j=0}^{k-1} q_{s+j}\,;\; 0 \le s \le M(n) - k + 1\right\}.$$ Determinare, per ogni $n$, $\lim_{n\to\infty} \dfrac{f_k(n)}{n}$.
-> 
-> *Per esempio *, se $n=4$, l'elenco è $$\frac{0}{1} < \frac{1}{4} < \frac{1}{3} < \frac{1}{2} < \frac{2}{3} < \frac{3}{4} < \frac{1}{1},$$ dove $p_0=0,\ p_1=1,\ p_2=1,\ p_3=1,\ p_4=2,\ p_5=3,\ p_6=1$ e $q_0=1,\ q_1=4,\ q_2=3,\ q_3=2,\ q_4=3,\ q_5=4,\ q_6=1$. In questo caso, $f_1(4)=1$, $f_2(4)=5$, $f_3(4)=8$, $f_4(4)=10$, $f_5(4)=13$, $f_6(4)=17$ e $f_7(4)=18$.
+> Per ogni intero positivo $n$, elenca in ordine crescente tutte le frazioni irriducibili nell'intervallo $[0,1]$ aventi denominatore minore o uguale a $n$:
+> $$\frac{0}{1} = \frac{p_0}{q_0} < \frac{p_1}{q_1} < \cdots < \frac{p_n}{q_n} < \cdots < \frac{1}{1} = \frac{p_{M(n)}}{q_{M(n)}}.$$
+> Sia $k$ un numero intero positivo. Definisci, per ogni $n$ tale che $M(n) \ge k-1$,
+> $$f_k(n) = \min\left\{\sum_{j=0}^{k-1} q_{s+j}\,;\; 0 \le s \le M(n) - k + 1\right\}.$$
+> Determinare, per ciascun $n$, $\lim_{n\to\infty} \dfrac{f_k(n)}{n}$.
+>
+> *Ad esempio*, se $n=4$, l'enumerazione è
+> $$\frac{0}{1} < \frac{1}{4} < \frac{1}{3} < \frac{1}{2} < \frac{2}{3} < \frac{3}{4} < \frac{1}{1},$$
+> dove $p_0=0,\ p_1=1,\ p_2=1,\ p_3=1,\ p_4=2,\ p_5=3,\ p_6=1$ e $q_0=1,\ q_1=4,\ q_2=3,\ q_3=2,\ q_4=3,\ q_5=4,\ q_6=1$. In questo caso, $f_1(4)=1$, $f_2(4)=5$, $f_3(4)=8$, $f_4(4)=10$, $f_5(4)=13$, $f_6(4)=17$ e $f_7(4)=18$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_nu_fx#q06|src_obm_2024_nu_fx__Q06]]

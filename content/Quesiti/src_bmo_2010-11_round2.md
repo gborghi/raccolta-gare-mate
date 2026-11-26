@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra angoli uguali dal punto interno utilizzando la costruzione ceviana*
+*Mostra angoli uguali da un punto interno mediante costruzione ceviana*
 
-> Che $ABC$ sia un triangolo e $X$ un punto all'interno del triangolo. Le linee $AX$, $BX$ e $CX$ incontrano i lati opposti rispettivamente a $P$, $Q$ e $R$. Selezionare un punto $U$ su $XP$ che sia tra $X$ e $P$. La linea attraverso $B$ e $U$ incontra $XC$ a $V$ e la linea attraverso $C$ e $U$ incontra $XB$ a $W$. Mostra che $\angle WXP = \angle VXP$.
+> Sia $ABC$ un triangolo e $X$ un punto all'interno del triangolo. Le rette $AX$, $BX$ e $CX$ incontrano i lati opposti rispettivamente nei punti $P$, $Q$ e $R$. Si scelga un punto $U$ sulla $XP$ che si trovi tra $X$ e $P$. La retta passante per $B$ e $U$ incontra la $XC$ nel punto $V$, e la retta passante per $C$ e $U$ incontra la $XB$ nel punto $W$. Si dimostri che $\angle WXP = \angle VXP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2010-11_round2#q01|src_bmo_2010-11_round2__Q01]]
 
 
 
@@ -59,9 +66,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n < 2011 con f(n) = f(2011)*
+*Conta gli interi positivi n < 2011 tali che f(n) = f(2011)*
 
-> La funzione $f$ è definita sui numeri interi positivi come segue: $$f(2n) = n \quad \text{if } n \text{ is even,}$$ $$f(2n) = 2n \quad \text{if } n \text{ is odd,}$$ $$f(2n+1) = f(n) \quad \text{if } n \text{ is even,}$$ $$f(2n+1) = f(n)+1 \quad \text{if } n \text{ is odd.}$$ Trova il numero di numeri interi positivi $n$ che sono inferiori al 2011 e hanno la proprietà di $f(n) = f(2011)$.
+> La funzione $f$ è definita sugli interi positivi nel modo seguente:
+> $$f(2n) = n \quad \text{if } n \text{ is even,}$$
+> $$f(2n) = 2n \quad \text{if } n \text{ is odd,}$$
+> $$f(2n+1) = f(n) \quad \text{if } n \text{ is even,}$$
+> $$f(2n+1) = f(n)+1 \quad \text{if } n \text{ is odd.}$$
+> Trova il numero di interi positivi $n$ minori di 2011 che hanno la proprietà che $f(n) = f(2011)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2010-11_round2#q02|src_bmo_2010-11_round2__Q02]]
 
 
 
@@ -85,9 +104,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli enti x, y con x+y dividendo 2(x^2+y^2)-xy*
+*Trovare tutti gli interi x, y tali che x+y divida 2(x^2+y^2)-xy*
 
-> Trova tutti gli integri $x$ e $y$ in modo tale che $$x + y \mid 2(x^2 + y^2) - xy.$$
+> Trovare tutti gli interi $x$ e $y$ tali che
+> $$x + y \mid 2(x^2 + y^2) - xy.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2010-11_round2#q03|src_bmo_2010-11_round2__Q03]]
 
 
 
@@ -110,6 +137,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande sottogruppo senza parallelogrammi del 2011×2011 griglia integrale*
+*Trovare il più grande sottoinsieme privo di parallelogrammi della griglia di interi 2011×2011*
 
-> Il $G$ deve essere l'insieme dei punti $(x, y)$ nel piano in modo tale che $x$ e $y$ siano integri nell'intervallo $1 \le x, y \le 2011$. Un sottogruppo $S$ di $G$ è considerato privo di parallelogrammi se non esiste un parallelo corretto con tutti i suoi vertici in $S$. Determinare il più grande sottoinsieme senza parallelogrammi di $G$. Nota: un parallelo corretto è quello in cui non tutti i vertici si trovano sulla stessa linea.
+> Sia $G$ l'insieme dei punti $(x, y)$ nel piano tali che $x$ e $y$ siano interi nell'intervallo $1 \le x, y \le 2011$. Un sottoinsieme $S$ di $G$ si dice privo di parallelogrammi se non esiste alcun parallelogramma proprio i cui vertici siano tutti in $S$. Determinare il più grande sottoinsieme privo di parallelogrammi di $G$. Nota: un parallelogramma proprio è un parallelogramma i cui vertici non giacciono tutti sulla stessa retta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_bmo_2010-11_round2#q04|src_bmo_2010-11_round2__Q04]]

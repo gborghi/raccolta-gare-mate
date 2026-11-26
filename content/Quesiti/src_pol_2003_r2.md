@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un numero intero n>2003 in modo che i coefficienti binomiali a_k=C(n,k) abbiano una proprietà di divisibilità.*
+*Esiste un n > 2003 tale che, fra i binomiali C(n, k) con k da 0 a 2003, il minore divide il maggiore*
 
-> Indicare che esiste un intero positivo $n > 2003$ per il quale la sequenza $a_k = \binom{n}{k}$, $k = 0, 1, \ldots, 2003$, ha la seguente proprietà: $a_k$ divide $a_m$ ogni volta che $0 \le k \le m \le 2003$.
+> Dimostrare che esiste un intero positivo $n > 2003$ per cui la successione $a_k = \binom{n}{k}$, con $k = 0, 1, \ldots, 2003$, ha la proprietà seguente: $a_k$ divide $a_m$ ogni volta che $0 \le k \le m \le 2003$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2003_r2#q01|src_pol_2003_r2__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico; bisectori angolari si incontrano a P e Q; prova che la linea PQ è perpendicolare a MN dove M,N sono i punti di mezzo dell'arco.*
+*Quadrilatero inscritto, incroci delle bisettrici e punti medi di due archi: la retta dei due incroci è perpendicolare a quella dei punti medi*
 
-> Un quadrilaterale $ABCD$ è inserito in un cerchio $o$. I bisettori degli angoli $DAB$ e $ABC$ si incontrano a $P$, e i bisettori degli angoli $BCD$ e $CDA$ si incontrano a $Q$. Il $M$ deve essere il punto medio dell'arco $BC$ di $o$ non contenente $D$ e $A$, e $N$ deve essere il punto medio dell'arco $DA$ di $o$ non contenente $B$ e $C$. Provare che la linea che attraversa $P$ e $Q$ è perpendicolare a $MN$.
+> Un quadrilatero $ABCD$ è inscritto in una circonferenza $o$. Le bisettrici degli angoli $DAB$ e $ABC$ si incontrano in $P$, e le bisettrici degli angoli $BCD$ e $CDA$ si incontrano in $Q$. Sia $M$ il punto medio dell'arco $BC$ di $o$ che non contiene $D$ e $A$, e sia $N$ il punto medio dell'arco $DA$ di $o$ che non contiene $B$ e $C$. Dimostrare che la retta per $P$ e $Q$ è perpendicolare a $MN$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2003_r2#q02|src_pol_2003_r2__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per W(x)=x^4-3x^3+5x^2-9x, trovare tutte le coppie di integri distinti a,b con W(a)=W(b).*
+*Polinomio x^4 − 3x^3 + 5x^2 − 9x: coppie di interi distinti su cui assume lo stesso valore*
 
-> Considerate il polinomio $W(x) = x^4 - 3x^3 + 5x^2 - 9x$. Trova tutte le coppie di integri distinti $a, b$ che soddisfano $W(a) = W(b)$.
+> Si consideri il polinomio $W(x) = x^4 - 3x^3 + 5x^2 - 9x$. Trovare tutte le coppie di interi distinti $a, b$ che soddisfano $W(a) = W(b)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2003_r2#q03|src_pol_2003_r2__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni primo p> 3 mostra esistono integri x,y,k con 0<2k<p tale che kp+3=x^2+y^2.*
+*Per ogni primo p > 3 esistono interi x, y, k, con 0 < 2k < p, tali che kp + 3 è somma di due quadrati*
 
-> Indicare che per ogni primo $p > 3$ esistono numeri interi $x, y, k$ con $0 < 2k < p$ tali che $kp + 3 = x^2 + y^2$.
+> Dimostrare che per ogni primo $p > 3$ esistono interi $x, y, k$ con $0 < 2k < p$ tali che $kp + 3 = x^2 + y^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2003_r2#q04|src_pol_2003_r2__Q04]]
 
 
 
@@ -129,9 +153,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dal punto esterno A due tangenti toccano un cerchio a B,C; un'altra tangente incontra AB,AC a E,F; le linee OE,OF incontra BC a P,Q; dimostrare che BP,PQ,QC sono lati di un triangolo simile a AEF.*
+*Due tangenti da un punto esterno e una terza tangente: tre segmenti su BC sono lati di un triangolo simile a AEF*
 
-> Da un punto $A$ esterno a un cerchio $o$ con centro $O$, sono tracciate due linee tangenti che toccano $o$ a $B$ e $C$. Un'altra linea tangente a $o$ incrocia i segmenti $AB$ e $AC$ rispettivamente ai punti $E$ e $F$. Le linee $OE$ e $OF$ soddisfano rispettivamente i segmenti $BC$ a $P$ e $Q$. Prova che i segmenti $BP$, $PQ$ e $QC$ sono lati di un triangolo simile a $\triangle AEF$.
+> Da un punto $A$ esterno a una circonferenza $o$ di centro $O$ si conducono due tangenti, che toccano $o$ in $B$ e $C$. Un'altra tangente a $o$ interseca i segmenti $AB$ e $AC$ nei punti $E$ e $F$ rispettivamente. Le rette $OE$ e $OF$ incontrano il segmento $BC$ in $P$ e $Q$ rispettivamente. Dimostrare che i segmenti $BP$, $PQ$ e $QC$ sono lati di un triangolo simile a $\triangle AEF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2003_r2#q05|src_pol_2003_r2__Q05]]
 
 
 
@@ -157,6 +187,18 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una funzione f sulle coppie di interi non negativi soddisfa date relazioni ricorsive; dato f(a,b)=n, trovare il numero di soluzioni intere x di f(a,x)+f(b,x)=n.*
+*Funzione sulle coppie di interi non negativi, invariante sul raddoppio e che cresce di 1 sullo scambio di parità: numero di soluzioni intere*
 
-> Una funzione $f$, definita sulle coppie di interi non negativi e a valori reali, soddisfa le seguenti condizioni: $$f(0,0) = 0, \qquad f(2x,2y) = f(2x+1,2y+1) = f(x,y),$$ $$f(2x+1,2y) = f(2x,2y+1) = f(x,y) + 1$$ per tutti gli interi non negativi $x, y$. Siano $n$ e $a, b$ interi non negativi tali che $f(a,b) = n$. Trovare il numero di soluzioni intere $x$ dell'equazione $f(a,x) + f(b,x) = n$.
+> Una funzione $f$, dalle coppie di interi non negativi ai numeri reali, soddisfa le condizioni seguenti:
+>
+> $$f(0,0) = 0, \qquad f(2x,2y) = f(2x+1,2y+1) = f(x,y),$$
+>
+> $$f(2x+1,2y) = f(2x,2y+1) = f(x,y) + 1$$
+>
+> per tutti gli interi non negativi $x, y$. Siano $n$ e $a, b$ interi non negativi tali che $f(a,b) = n$. Trovare il numero di soluzioni intere $x$ dell'equazione $f(a,x) + f(b,x) = n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2003_r2#q06|src_pol_2003_r2__Q06]]

@@ -32,13 +32,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of square and rectangular parts of cardboard*
+*Minimum number of square and rectangular pieces of cardboard*
 
-> Deborah wants to divide the cartoon of the figure into many square and rectangular parts. How much do you get at least?
+> Debora wants to divide the cardboard shape into many square and rectangular pieces. What is the minimum number of pieces she can get?
 
 ![[src_bocconi_autunno_2011__q01.png]]
 
-**Answer:** 4
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q01|src_bocconi_autunno_2011__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Symbol with the largest number in subtraction 2012*
+*Symbol with the larger digit in the subtraction 2012*
 
-> In subtracting the figure from each symbol, there is always the same figure, different from those corresponding to the other symbols. What symbol (computer, watch, phone) hides the largest number?
+> In the subtraction of the figure, each symbol always corresponds to the same digit, which is different from the digits corresponding to the other symbols. Which symbol (the computer, the clock, the telephone) hides the largest digit?
 
 ![[src_bocconi_autunno_2011__q02.png]]
 
-**Answer:** Watch
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q02|src_bocconi_autunno_2011__Q02]]
 
 
 
@@ -96,13 +106,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of pieces by cutting a horse iron with two straight lines
+*Maximum number of pieces when cutting a horseshoe with two straight lines*
 
-> An iron wire was folded to take the form of horse iron (see figure). If you draw two lines, how many pieces can you split your iron wire into? (Parts obtained after tracing the first straight line cannot be moved)
+> A piece of wire has been bent to take the shape of a horseshoe (which you can see in the figure). If you draw two straight lines, into at most how many pieces can you divide your piece of wire? (The pieces obtained after drawing the first straight line cannot be moved.)
 
 ![[src_bocconi_autunno_2011__q03.png]]
 
-**Answer:** 5
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q03|src_bocconi_autunno_2011__Q03]]
 
 
 
@@ -128,13 +143,18 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times does the alarm clock show a 0, a 1 and two 2 in 24 hours*
+*How many times in 24 hours does the alarm clock display a 0, a 1, and two 2s?*
 
-> It's an alarm clock that lights up and records every hour and minute from 00:00 until 11:59. How many times in 24 hours, when lit up, does it simultaneously indicate a "0", a "1" and two "2"?
+> It is an alarm clock that, when it lights up, indicates all the hours and minutes from 00:00 to 23:59. How many times in 24 hours does it, when it lights up, simultaneously show a "0", a "1", and two "2"s?
 
 ![[src_bocconi_autunno_2011__q04.png]]
 
-**Answer:** 12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q04|src_bocconi_autunno_2011__Q04]]
 
 
 
@@ -160,13 +180,18 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of grey squares rounded with 20 whites
+*Maximum number of grey squares that can be circled with 20 white ones*
 
-> With 14 white squares along the perimeter of a rectangle, 4 or 6 grey squares can be "circled" (as shown in the figure). Now Liliana, of white squares to be arranged along the perimeter of a right-angled rectangle of appropriate size, has as many as 20. How many grey squares can you "circle" at most?
+> By placing 14 small white squares along the entire perimeter of a rectangle, you can "encircle" either 4 or 6 small grey squares (as shown in the figure). Now Liliana has a total of 20 small white squares to place along the perimeter of a rectangle of suitable dimensions. What is the maximum number of small grey squares she can "encircle"?
 
 ![[src_bocconi_autunno_2011__q05.png]]
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2011#q05|src_bocconi_autunno_2011__Q05]]
 
 
 
@@ -190,11 +215,16 @@ Maximum number of grey squares rounded with 20 whites
 <div class="qlang-split" data-lang="en"></div>
 
 
-The age of Angelo by the speeches of partially correct friends
+*Angelo's age, based on the partially corrected remarks of his friends*
 
-> Carla and Milena have three friends: Angelo, Nando, and Pietro, who are three different ages (9, 10, and 11). Carla says, "I think Nando is 11 and Angelo is 10". For Milena, Peter is 11 and Nando is 10. Each of them guessed the age of one friend, while the other three friends got it wrong. How old is Angelo?
+> Carla and Milena have three friends: Angelo, Nando, and Pietro, who are three different ages (9, 10, and 11 years old). Carla says, "I think Nando is 11 and Angelo is 10." For Milena, however, Pietro is 11 while Nando is 10. Each of them guessed one friend's age correctly but got the age of the other of the three friends wrong. What is Angelo's age?
 
-**Answer:** 10 years
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2011#q06|src_bocconi_autunno_2011__Q06]]
 
 
 
@@ -218,11 +248,16 @@ The age of Angelo by the speeches of partially correct friends
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Date after 29/09/2011 with four digits each used twice*
+*A date after 29/09/2011, with each of four digits used twice*
 
-> The date 29/09/2011 (29 September 2011) is written using four digits, each of which is used twice. What will be the next date (written like the previous one, as day/month/year) that has the same property of being written with four digits, each used twice?
+> On 29/09/2011 (29 September 2011), the date is written using four digits, each used twice. What will be the next date (written in the same way as the previous one, as day/month/year) that has the same property of being written with four digits, each used twice?
 
-**Answer:** 13-03-2012
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q07|src_bocconi_autunno_2011__Q07]]
 
 
 
@@ -248,13 +283,18 @@ The age of Angelo by the speeches of partially correct friends
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple of 2012 using the five tokens in figure*
+*Multiple of 2012 using the five tokens in the figure*
 
-> Using the five tokens in the figure (all or part), write a multiple of 2012.
+> Using the five tokens in the figure (all or some of them), write a multiple of 2012.
 
 ![[src_bocconi_autunno_2011__q08.png]]
 
-**Answer:** 74444
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2011#q08|src_bocconi_autunno_2011__Q08]]
 
 
 
@@ -280,13 +320,18 @@ The age of Angelo by the speeches of partially correct friends
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Setting up seven Y-pieces in a grid without overlapping*
+*Arrange seven Y-shaped pieces in a grid without overlaps*
 
-> Jacub found seven identical pieces of paper, all Y-shaped (as shown on the right). He wants to fix them, rotate them and turn them over, into a grid (as in the figure to the left) itself that overlaps. How do you do that?
+> Jacub has found seven pieces of paper that are identical to one another, all shaped like a Y (as in the figure on the right). He wants to arrange them—by rotating and flipping them—in a grid (as in the figure on the left) in which they overlap. How can he do it?
 
 ![[src_bocconi_autunno_2011__q09.png]]
 
-**Answer:** See the division in the figure
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q09|src_bocconi_autunno_2011__Q09]]
 
 
 
@@ -312,13 +357,18 @@ The age of Angelo by the speeches of partially correct friends
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find the 13 deleted numbers in the magic rectangle 3×7*
+*Find the thirteen erased numbers in the 3×7 magic rectangle*
 
-> The rectangle of the figure contains all integers from 1 to 21. The rectangle is "magical" because the sum of the numbers written on the various lines is always the same and that the sums of the numbers in the same columns are also between them. Find the 13 deleted numbers.
+> The rectangle in the figure contains all the whole numbers from 1 to 21. The rectangle is "magic" because the sum of the numbers written in the various rows is always the same, and the sums of the numbers in the same columns are also equal to one another. Find the thirteen numbers that have been erased.
 
 ![[src_bocconi_autunno_2011__q10.png]]
 
-**Answer:** Row 1: 10, 21, 9, 16, 5, 14, 2; Row 2: 3, 4, 7, 11, 15, 18, 19; Row 3: 20, 8, 17, 6, 13, 1, 12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q10|src_bocconi_autunno_2011__Q10]]
 
 
 
@@ -342,11 +392,16 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantum numbers between 1 and 1000*
+*How many base-5 numbers are there between 1 and 1000?*
 
-> They're linear numbers where the sum of the digits is equal to 5. An example of a quintal number is 5, 32, 11, 111, 20. How many quintals are there between 1 and 1000?
+> "Quinary" numbers are those numbers whose digits add up to 5. Examples of quinary numbers are 5, 32, 11, 111, and 20. How many quinary numbers are there between 1 and 1000?
 
-**Answer:** 21
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q11|src_bocconi_autunno_2011__Q11]]
 
 
 
@@ -372,13 +427,18 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square with two equilateral triangles of side length 16 cm*
+*Area of the square with two equilateral triangles of side 16 cm*
 
-> In the figure you see, inside a square, two equilateral triangles with the side measuring 16 cm. What's the area of the square?
+> In the figure, you can see two equilateral triangles inside a square, with sides measuring 16 cm. What is the area of the square?
 
 ![[src_bocconi_autunno_2011__q12.png]]
 
-**Answer:** $384 \text{ cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2011#q12|src_bocconi_autunno_2011__Q12]]
 
 
 
@@ -406,11 +466,16 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 
 *Maximum number of regions with three squares of the same size*
 
-> In the figure you can see two squares of the same size, which delimit nine regions. How many regions in total can one have by adding to the figure a third of a square of the same size?
+> In the figure, you can see two squares of the same size, which delimit nine regions. What is the maximum total number of regions that can be obtained by adding a third square of the same size to the figure?
 
 ![[src_bocconi_autunno_2011__q13.png]]
 
-**Answer:** 25
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q13|src_bocconi_autunno_2011__Q13]]
 
 
 
@@ -434,11 +499,16 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A four-digit number divided by nine gives the number without a 0*
+*A four-digit number that, when divided by nine, yields the number without a 0*
 
-> Subtracting the digit 0 from the number 405, you get 45 which is its ninth (which is still divisible by 9). Find another four-digit number (only the number is enough) so that, by subtracting a 0, you get a ninth.
+> If you remove the digit 0 from the number 405, you get 45, which is its ninth part (and 45 is still divisible by 9). Find another four-digit number (just the number is enough) such that, by removing a 0, you obtain its ninth part.
 
-**Answer:** 2025 or 4050 or 6075
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2011#q14|src_bocconi_autunno_2011__Q14]]
 
 
 
@@ -462,11 +532,16 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive integer whose square has four digits all equal*
+*A positive integer whose square has four even digits*
 
-> Give an example of a positive integer whose square has four digits, all equal.
+> Give an example of a positive integer whose square has four digits, all of which are even.
 
-**Answer:** 68 or 78 or 80 or 92
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2011#q15|src_bocconi_autunno_2011__Q15]]
 
 
 
@@ -492,13 +567,18 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the BOIS quadrilateral in a forest parallelogram*
+*Area of quadrilateral BOIS in a forest parallelogram*
 
-> The figure of vertices F, O, I, N is a parallelogram whose base measures 1001 m and whose height measures 2012 m. Point S is located at base NI 905 m from summit I. What's the area of the BOIS quadrilateral?
+> The figure formed by the vertices F, O, I, N is a parallelogram whose base measures 1001 m and whose height measures 2012 m. Point S lies on the base NI, 905 m from vertex I. What is the area of quadrilateral BOIS?
 
 ![[src_bocconi_autunno_2011__q16.png]]
 
-**Answer:** $608630 \text{ m}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2011#q16|src_bocconi_autunno_2011__Q16]]
 
 
 
@@ -522,11 +602,16 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square of the distance between the ends of the hands at 16:00*
+*Square of the distance between the tips of the hands at 4:00*
 
-> In a large clock, the hour hand measures 20 cm while the minute hand measures 30 cm. At four o'clock, what is the square of the distance between the ends of the two hands?
+> In a large clock, the hour hand is 20 cm long, while the minute hand is 30 cm long. At 4:00 p.m., what is the square of the distance between the tips of the two hands?
 
-**Answer:** 1900
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2011#q17|src_bocconi_autunno_2011__Q17]]
 
 
 
@@ -552,10 +637,15 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the figure into four equal parts by shape and bending*
+*Divide the figure into four equal parts in terms of shape and inversions*
 
-> Divide the surface of the figure into four equal parts of the same shape (and turns).
+> Divide the surface of the figure into four equal parts of the same shape (and orientations).
 
 ![[src_bocconi_autunno_2011__q18.png]]
 
-**Answer:** See the division in the figure
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2011#q18|src_bocconi_autunno_2011__Q18]]

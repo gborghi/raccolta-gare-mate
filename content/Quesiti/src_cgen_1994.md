@@ -12,150 +12,306 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Count integers p with 50^p < 7^n < 50^(p+1)*
+*Nombre d'entiers p tels que 50^n < 7^p < 50^{n+1}*
 
-> For every natural integer $n$, denote by $I_n$ the number of integers $p$ such that
-> $$50^p < 7^n < 50^{p+1}.$$
-> 1. Show that for every integer $n$, $I_n$ equals 2 or 3.
-> 2. Show that there exist infinitely many integers $n$ for which $I_n = 3$, and find the smallest one.
+> **Exercice I**
+>
+> Pour tout entier naturel $n$, on note $I_n$ le nombre d'entiers $p$ pour lesquels
+>
+> $$50^n < 7^p < 50^{n+1}.$$
+>
+> 1. Démontrer que pour tout entier $n$, $I_n$ vaut $2$ ou $3$.
+> 2. Démontrer qu'il existe une infinité d'entiers $n$ pour lesquels $I_n$ vaut $3$, et donner le plus petit d'entre eux.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_stima|Estimation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi p con 50^p < 7^n < 50^(p+1)*
+*Numero di interi p tali che 50^n < 7^p < 50^{n+1}*
 
-> Per ogni integro naturale $n$, indicare con $I_n$ il numero di integri $p$ tale che $$50^p < 7^n < 50^{p+1}.$$ 1. Mostrare che per ogni numero intero $n$, $I_n$ è uguale a 2 o 3. 2. Mostrare che esistono infinitamente molti enti $n$ per i quali $I_n = 3$, e trovare il più piccolo.
+> **Esercizio I**
+>
+> Per ogni intero non negativo $n$, si indichi con $I_n$ il numero di interi $p$ per i quali
+>
+> $$50^n < 7^p < 50^{n+1}.$$
+>
+> 1. Dimostrare che per ogni intero $n$, $I_n$ vale $2$ o $3$.
+> 2. Dimostrare che esistono infiniti interi $n$ per i quali $I_n$ vale $3$, e dare il più piccolo di essi.
+
+[[Quesiti/src_cgen_1994#q01|src_cgen_1994__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of integers p such that 50^n < 7^p < 50^{n+1}*
+
+> **Exercise I**
+>
+> For every nonnegative integer $n$, let $I_n$ be the number of integers $p$ for which
+>
+> $$50^n < 7^p < 50^{n+1}.$$
+>
+> 1. Prove that for every integer $n$, $I_n$ equals $2$ or $3$.
+> 2. Prove that there are infinitely many integers $n$ for which $I_n$ equals $3$, and give the smallest of them.
+
+[[Quesiti/src_cgen_1994#q01|src_cgen_1994__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Maximize volume of cylinder between hemisphere circle and its projection*
+*Cylindre d'aire maximale entre un cercle d'une demi-sphère et sa projection*
 
-> Let $\sum$ be a hemisphere and $P$ the plane containing its base circle. A variable plane $Q$, parallel to a fixed plane perpendicular to $P$, intersects the hemisphere along a circle $C$. We denote by $C'$ the orthogonal projection of $C$ onto $P$.
-> 
-> How should the plane $Q$ be placed so that the cylinder with bases $C$ and $C'$ has maximum volume?
+> **Exercice II**
+>
+> Soit $X$ une demi-sphère et $\mathcal{P}$ le plan contenant son cercle de base. Un plan variable $\mathcal{Q}$, parallèle à un plan fixe non perpendiculaire à $\mathcal{P}$, coupe $X$ suivant un cercle $C$.
+>
+> On désigne par $C'$ le projeté orthogonal de $C$ sur $\mathcal{P}$.
+>
+> Comment doit-on placer le plan $\mathcal{Q}$ pour que le cylindre de bases $C$ et $C'$ ait un volume maximal ?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]]
+**Metodo:** [[method_estremalita|Extrémalité]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il volume del cilindro tra il cerchio dell'emisfero e la sua proiezione*
+*Cilindro di volume massimo tra un cerchio di una semisfera e la sua proiezione*
 
-> Che $\sum$ sia un emisfero e $P$ il piano che ne contiene il cerchio base. Un piano variabile $Q$, parallelo a un piano fisso perpendicolare a $P$, interseca l'emisfero lungo un cerchio $C$. Indichiamo con $C'$ la proiezione ortogonale di $C$ su $P$.
-> 
-> Come si deve posizionare il piano $Q$ in modo che il cilindro con basi $C$ e $C'$ abbia un volume massimo?
+> **Esercizio II**
+>
+> Sia $X$ una semisfera e $\mathcal{P}$ il piano che contiene il suo cerchio di base. Un piano variabile $\mathcal{Q}$, parallelo a un piano fisso non perpendicolare a $\mathcal{P}$, taglia $X$ secondo un cerchio $C$.
+>
+> Si indichi con $C'$ la proiezione ortogonale di $C$ su $\mathcal{P}$.
+>
+> Come si deve disporre il piano $\mathcal{Q}$ affinché il cilindro di basi $C$ e $C'$ abbia volume massimo?
+
+[[Quesiti/src_cgen_1994#q02|src_cgen_1994__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cylinder of maximal volume between a circle on a hemisphere and its projection*
+
+> **Exercise II**
+>
+> Let $X$ be a hemisphere and $\mathcal{P}$ the plane containing its base circle. A variable plane $\mathcal{Q}$, parallel to a fixed plane that is not perpendicular to $\mathcal{P}$, cuts $X$ in a circle $C$.
+>
+> Denote by $C'$ the orthogonal projection of $C$ onto $\mathcal{P}$.
+>
+> How should the plane $\mathcal{Q}$ be placed so that the cylinder with bases $C$ and $C'$ has maximal volume?
+
+[[Quesiti/src_cgen_1994#q02|src_cgen_1994__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Functional recurrence on N, sequence reaches 0, find v(1994) and preimage of N*
+*Itération de f(2n)=2f(n)+1, f(2n+1)=2f(n) jusqu'à 0*
 
-> Define an application $f : \mathbb{N} \to \mathbb{N}$ by $f(1) = 0$ and, for every element $n$ of $\mathbb{N}^*$:
+> **Exercice III**
+>
+> On définit une application $f$ de $\mathbb{N}$ dans $\mathbb{N}$ par $f(1) = 0$ et, pour tout élément $n$ de $\mathbb{N}^*$,
+>
 > $$f(2n) = 2f(n) + 1, \qquad f(2n+1) = 2f(n).$$
-> Given a strictly positive integer $p$ chosen arbitrarily, set $u_0 = p$ and $u_{k+1} = f(u_k)$ for $u_k \in \mathbb{N}^*$.
-> 
-> 1. Show that, for any choice of $p$, there exists a unique integer $v(p)$ such that $u_{v(p)} = 0$.
-> 2. **a.** Compute $v(1994)$. What is the smallest integer $p$ such that $v(p) = 1994$?
->    **b.** Given a positive integer $N$, determine the smallest integer $p$ such that $v(p) = N$.
+>
+> Étant donné un entier strictement positif $p$ quelconque, on pose $u_0 = p$ et, tant que $u_k$ appartient à $\mathbb{N}^*$,
+>
+> $$u_{k+1} = f(u_k).$$
+>
+> 1. Montrer que, pour tout choix de $p$, il existe un unique entier $v(p)$ tel que $u_{v(p)} = 0$.
+> 2. a. Calculer $v(1994)$. Quel est le plus petit entier $p$ tel que $v(p) = v(1994)$ ?
+>
+> b. Étant donné un entier $N$, déterminer le plus petit entier $p$ tel que $v(p) = N$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
+**Metodo:** [[method_induzione|Récurrence]], [[method_ricorsione|Récursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricorrenza funzionale su N, sequenza raggiunge 0, trovare v(1994) e preimmagine di N*
+*Iterazione di f(2n)=2f(n)+1, f(2n+1)=2f(n) fino a 0*
 
-> Definire un'applicazione $f : \mathbb{N} \to \mathbb{N}$ da $f(1) = 0$ e, per ogni elemento $n$ di $\mathbb{N}^*$: $$f(2n) = 2f(n) + 1, \qquad f(2n+1) = 2f(n).$$ Dato un intero rigorosamente positivo $p$ scelto arbitrariamente, impostare $u_0 = p$ e $u_{k+1} = f(u_k)$ per $u_k \in \mathbb{N}^*$.
-> 
-> 1. Mostrare che, per qualsiasi scelta di $p$, esiste un intero unico $v(p)$ tale che $u_{v(p)} = 0$. 2. **a.** Calcolare $v(1994)$. Qual è il numero intero più piccolo $p$ tale che $v(p) = 1994$? **b.** Dato un intero positivo $N$, determinare il numero intero più piccolo $p$ tale da $v(p) = N$.
+> **Esercizio III**
+>
+> Si definisce un'applicazione $f$ da $\mathbb{N}$ in $\mathbb{N}$ ponendo $f(1) = 0$ e, per ogni elemento $n$ di $\mathbb{N}^*$,
+>
+> $$f(2n) = 2f(n) + 1, \qquad f(2n+1) = 2f(n).$$
+>
+> Dato un intero strettamente positivo $p$ qualunque, si ponga $u_0 = p$ e, finché $u_k$ appartiene a $\mathbb{N}^*$,
+>
+> $$u_{k+1} = f(u_k).$$
+>
+> 1. Dimostrare che, per ogni scelta di $p$, esiste un unico intero $v(p)$ tale che $u_{v(p)} = 0$.
+> 2. a. Calcolare $v(1994)$. Qual è il più piccolo intero $p$ tale che $v(p) = v(1994)$?
+>
+> b. Dato un intero $N$, determinare il più piccolo intero $p$ tale che $v(p) = N$.
+
+[[Quesiti/src_cgen_1994#q03|src_cgen_1994__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Iteration of f(2n)=2f(n)+1, f(2n+1)=2f(n) down to 0*
+
+> **Exercise III**
+>
+> Define a map $f$ from $\mathbb{N}$ to $\mathbb{N}$ by $f(1) = 0$ and, for every element $n$ of $\mathbb{N}^*$,
+>
+> $$f(2n) = 2f(n) + 1, \qquad f(2n+1) = 2f(n).$$
+>
+> Given an arbitrary positive integer $p$, set $u_0 = p$ and, as long as $u_k$ belongs to $\mathbb{N}^*$,
+>
+> $$u_{k+1} = f(u_k).$$
+>
+> 1. Prove that, for every choice of $p$, there exists a unique integer $v(p)$ such that $u_{v(p)} = 0$.
+> 2. a. Compute $v(1994)$. What is the smallest integer $p$ such that $v(p) = v(1994)$?
+>
+> b. Given an integer $N$, determine the smallest integer $p$ such that $v(p) = N$.
+
+[[Quesiti/src_cgen_1994#q03|src_cgen_1994__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Minimize sum of squared distances from point P to triangle vertices via projections*
+*Point dont la somme des carrés des segments vers les côtés est minimale*
 
-> Let $ABC$ be a triangle. Let $P$ be a point in its plane. Denote by $L$, $M$, $N$ the orthogonal projections of $P$ onto the lines $(BC)$, $(CA)$, and $(AB)$ respectively.
-> 
-> Determine the point $P$ for which the quantity
+> **Exercice IV**
+>
+> Soit $ABC$ un triangle. Si $P$ est un point de son plan, on note $L$, $M$, $N$ les projetés orthogonaux de $P$ respectivement sur les droites $(BC)$, $(CA)$ et $(AB)$.
+>
+> Déterminer le point $P$ pour lequel la quantité
+>
 > $$BL^2 + CM^2 + AN^2$$
-> is minimal.
+>
+> est minimale.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_geometria_analitica|Géométrie analytique]]
+**Metodo:** [[method_coordinate|Coordonnées]], [[method_estremalita|Extrémalité]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma delle distanze quadrate dal punto P ai vertici del triangolo attraverso proiezioni*
+*Punto che minimizza la somma dei quadrati dei segmenti verso i lati*
 
-> Lasciate che $ABC$ sia un triangolo. Che il $P$ sia un punto del suo piano. Nota con $L$, $M$, $N$ le proiezioni ortogonali di $P$ sulle linee $(BC)$, $(CA)$ e $(AB)$ rispettivamente.
-> 
-> Determinare il punto $P$ per il quale la quantità $$BL^2 + CM^2 + AN^2$$ è minima.
+> **Esercizio IV**
+>
+> Sia $ABC$ un triangolo. Se $P$ è un punto del suo piano, si indichino con $L$, $M$, $N$ le proiezioni ortogonali di $P$ rispettivamente sulle rette $(BC)$, $(CA)$ e $(AB)$.
+>
+> Determinare il punto $P$ per il quale la quantità
+>
+> $$BL^2 + CM^2 + AN^2$$
+>
+> è minima.
+
+[[Quesiti/src_cgen_1994#q04|src_cgen_1994__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Point minimising the sum of squares of segments to the sides*
+
+> **Exercise IV**
+>
+> Let $ABC$ be a triangle. If $P$ is a point of its plane, denote by $L$, $M$, $N$ the orthogonal projections of $P$ onto the lines $(BC)$, $(CA)$ and $(AB)$ respectively.
+>
+> Determine the point $P$ for which the quantity
+>
+> $$BL^2 + CM^2 + AN^2$$
+>
+> is minimal.
+
+[[Quesiti/src_cgen_1994#q04|src_cgen_1994__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_aritmetica,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Functional equation f(m^2+n^2)=[f(m)]^2+[f(n)]^2 on natural numbers*
+*Applications f de N dans N telles que f(m^2+n^2)=f(m)^2+f(n)^2*
 
-> Let $f$ be an application from $\mathbb{N}$ to $\mathbb{N}$ such that $f(1) > 0$, and for all natural integers $m$ and $n$:
-> $$f(m^2 + n^2) = [f(m)]^2 + [f(n)]^2.$$
-> 
-> 1. Compute $f(k)$ for $0 \le k \le 12$.
-> 2. Compute $f(n)$, where $n$ is an arbitrary integer.
+> **Exercice V**
+>
+> Soit $f$ une application de $\mathbb{N}$ dans $\mathbb{N}$ telle que $f(1) > 0$ et, quels que soient les entiers naturels $m$ et $n$,
+>
+> $$f(m^2 + n^2) = \bigl(f(m)\bigr)^2 + \bigl(f(n)\bigr)^2.$$
+>
+> 1. Calculer $f(k)$ pour $0 \leqslant k \leqslant 12$.
+> 2. Calculer $f(n)$, $n$ étant un entier quelconque.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_funzionali|Équations fonctionnelles]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_induzione|Récurrence]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Algebra e Analisi|Algèbre et analyse]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f ((m^2+n^2)=[f(m)]^2+[f(n)]^2 sui numeri naturali*
+*Applicazioni f da N in N tali che f(m^2+n^2)=f(m)^2+f(n)^2*
 
-> Che $f$ sia un'applicazione da $\mathbb{N}$ a $\mathbb{N}$ tale che $f(1) > 0$, e per tutti gli integri naturali $m$ e $n$: $$f(m^2 + n^2) = [f(m)]^2 + [f(n)]^2.$$
-> 
-> 1. Calcolare $f(k)$ per $0 \le k \le 12$. 2. Calcolare $f(n)$, dove $n$ è un intero arbitrario.
+> **Esercizio V**
+>
+> Sia $f$ un'applicazione da $\mathbb{N}$ in $\mathbb{N}$ tale che $f(1) > 0$ e, per tutti gli interi non negativi $m$ e $n$,
+>
+> $$f(m^2 + n^2) = \bigl(f(m)\bigr)^2 + \bigl(f(n)\bigr)^2.$$
+>
+> 1. Calcolare $f(k)$ per $0 \leqslant k \leqslant 12$.
+> 2. Calcolare $f(n)$, essendo $n$ un intero qualunque.
+
+[[Quesiti/src_cgen_1994#q05|src_cgen_1994__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maps f from N to N such that f(m^2+n^2)=f(m)^2+f(n)^2*
+
+> **Exercise V**
+>
+> Let $f$ be a map from $\mathbb{N}$ to $\mathbb{N}$ such that $f(1) > 0$ and, for all nonnegative integers $m$ and $n$,
+>
+> $$f(m^2 + n^2) = \bigl(f(m)\bigr)^2 + \bigl(f(n)\bigr)^2.$$
+>
+> 1. Compute $f(k)$ for $0 \leqslant k \leqslant 12$.
+> 2. Compute $f(n)$, where $n$ is an arbitrary integer.
+
+[[Quesiti/src_cgen_1994#q05|src_cgen_1994__Q05]]

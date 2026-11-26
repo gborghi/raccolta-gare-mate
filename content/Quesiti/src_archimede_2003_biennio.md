@@ -36,17 +36,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A resident's sign (knight/knight/normal) claiming to be a knight*
+*Sign (knight/thief/normal) of an inhabitant who claims to be a knight*
 
-> What's 0,032/0, 8?
+> How much is 0.032/0.8?
 >
-> - **(A)** 0, 0004
-> - **(B)** 0, 004
-> - **(C)** 0, 04
-> - **(D)** 0, 4
+> - **(A)** 0.0004
+> - **(B)** 0.004
+> - **(C)** 0.04
+> - **(D)** 0.4
 > - **(E)** 400.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2003_biennio#q01|src_archimede_2003_biennio__Q01]]
 
 
 
@@ -77,9 +81,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of an internal point at three circumferences*
+*Position of a point inside the three circles*
 
-> What is the largest positive integer n such that the arithmetic mean of the numbers from 1 to n is < 2003 ? (Note: the arithmetic mean of n numbers is equal to their sum divided by n.)
+> What is the largest positive integer n such that the arithmetic mean of the numbers from 1 to n is < 2003?
+> (Note: the arithmetic mean of n numbers equals their sum divided by n.)
 >
 > - **(A)** 2002
 > - **(B)** 2003
@@ -87,7 +92,10 @@ level: biennio
 > - **(D)** 4004
 > - **(E)** 4005.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_biennio#q02|src_archimede_2003_biennio__Q02]]
 
 
 
@@ -117,17 +125,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the square given the radius of circumference, length 1*
+*Side of the square given the radius of the circle, of length 1*
 
-> Either given a square ABCD on the unit side and P a point inside it such that the angle A ˆP B measures 75°. The sum of the areas of the ABP and CDP triangles is:
+> Let ABCD be a square of unit side, and let P be a point inside it such that the angle A ˆP B measures 75°. The sum of the areas of triangles ABP and CDP is:
 >
 > - **(A)** 1
 > - **(B)** √ 2 2
 > - **(C)** 1 2
-> - **(D)** It cannot be determined
-> - **(E)** None of the above is correct.
+> - **(D)** it cannot be determined
+> - **(E)** none of the above is correct.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_biennio#q03|src_archimede_2003_biennio__Q03]]
 
 
 
@@ -158,9 +169,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between maximum and minimum number of sheets on the grid*
+*Difference between the maximum and minimum number of tiles on a grid*
 
-> You want to color the nine boxes on a chessboard 3 so that every row, every column, and every one of the two diagonals no longer contains boxes of the same color. What is the minimum number of colors required?
+> We want to colour the nine squares of a 3 × 3 chessboard so that every row, every column and each of the two diagonals contains no more squares of the same colour. What is the minimum number of colours needed?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -168,7 +179,10 @@ level: biennio
 > - **(D)** 6
 > - **(E)** 7.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_2003_biennio#q04|src_archimede_2003_biennio__Q04]]
 
 
 
@@ -203,7 +217,7 @@ level: biennio
 
 *Triangles on a 5-pointed star with regular angles*
 
-> An ice cream maker makes 20 kg of ice cream and sells it throughout the day in small cones of 1.20 and two balls and large cones of 1.60 and three balls. From every pound of ice cream he got 12 balls; at the end of the day, he collected a total of 137.60 e. How many big cones did you sell?
+> A gelato maker prepares 20 kg of gelato and sells it during the day in small cones of 1.20 and of two scoops, and large cones of 1.60 and of three scoops. From each kg of gelato he has obtained 12 scoops; at the end of the day, he has collected in total 137.60 €. How many large cones did he sell?
 >
 > - **(A)** 17
 > - **(B)** 24
@@ -211,7 +225,11 @@ level: biennio
 > - **(D)** 43
 > - **(E)** 50.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_biennio#q05|src_archimede_2003_biennio__Q05]]
 
 
 
@@ -244,9 +262,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a region bounded in a square grid*
+*Area of a region bounded in a grid*
 
-> A balloon seller has at his disposal two identical helium bubbles and large and small balloons. Use the entire first pump to inflate 80 small balloons, all at the same pressure. Considering that large inflated balloons have the same shape and pressure as small ones, but a surface area four times larger, how many large balloons can you fill with the second balloon?
+> A balloon seller has two identical helium tanks and small and large balloons. He uses all of the first tank to inflate 80 small balloons, all at the same pressure.
+> Given that inflated large balloons have the same shape and the same pressure as the small ones, but a surface area 4 times larger, how many large balloons can he fill with the second tank?
 >
 > - **(A)** 10
 > - **(B)** 16
@@ -254,7 +273,10 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 40.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_biennio#q06|src_archimede_2003_biennio__Q06]]
 
 
 
@@ -286,17 +308,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of decimal places, polynomial in n*
+*A statement that blocks the tax system*
 
-> Each year, at the time of payment of taxes, the user makes a declaration for the current year. If the statement is true, you must pay taxes; if it is false, you do not pay taxes. A young mathematician, who believes the system is unfair, finds a way to block it, with one of the following statements: Which?
+> Each year, when paying taxes, the user makes a statement about the current year. If the statement is true, the user must pay the taxes; if it is false, the user does not pay them. A young mathematician, who considers the system unfair, finds a way to block it with one of the following statements: which one?
 >
-> - **(A)** Fish live in water
-> - **(B)** I live in water.
-> - **(C)** Fish do not pay taxes
-> - **(D)** I don't pay the taxes.
-> - **(E)** I pay the taxes.
+> - **(A)** "Fish live in water"
+> - **(B)** "I live in water"
+> - **(C)** "Fish do not pay taxes"
+> - **(D)** "I do not pay taxes"
+> - **(E)** "I pay taxes".
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2003_biennio#q07|src_archimede_2003_biennio__Q07]]
 
 
 
@@ -340,17 +365,35 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of digits with f(7n) +...; equivalent innate*
+*Value of a nested radical expression*
 
-> The number 1 3 + √ 2 2 + √ 3 3 − √ 2 2 − √ 3 is:
+> The number
+> 1
+> 3 +
+> √
+> 2
+> 2 +
+> √
+> 3
+> 3 −
+> √
+> 2
+> 2 −
+> √
+> 3
+> is:
 >
-> - **(A)** Whole
-> - **(B)** Rational positive, but not total
-> - **(C)** Rational negative, but not whole
-> - **(D)** the positive irrational
-> - **(E)** I'm going to be irrationally negative.
+> - **(A)** an integer
+> - **(B)** a positive rational, but not an integer
+> - **(C)** a negative rational, but not an integer
+> - **(D)** a positive irrational
+> - **(E)** a negative irrational.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2003_biennio#q08|src_archimede_2003_biennio__Q08]]
 
 
 
@@ -382,9 +425,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pieces by cutting a ribbon with folds*
+*Number of pieces when cutting a strip with folds*
 
-> A parallelogram of sides 1 and 2 has an angle of 60°. What's the size of its minor diagonal?
+> A parallelogram with sides 1 and 2 has an angle of 60°.
+> How long is its
+> shorter diagonal?
 >
 > - **(A)** √ 2
 > - **(B)** √ 3
@@ -392,7 +437,11 @@ level: biennio
 > - **(D)** 2 √ 3
 > - **(E)** √ 10 2 .
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_biennio#q09|src_archimede_2003_biennio__Q09]]
 
 
 
@@ -421,17 +470,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number to obtain a numeric value, base 10*
+*Smallest number that yields a value with digits, in base 10*
 
-> The largest prime palindrome number with an even number of digits has
+> The largest palindromic prime with an even number of digits has
 >
 > - **(A)** 2 digits
 > - **(B)** 4 digits
 > - **(C)** 10 digits
-> - **(D)** There are no numbers with these properties.
-> - **(E)** There are large numbers to please with these properties. Note: a number is called a palindrome if it can be read indifferently from left to right or from right to left. For example, 141 and 2552 are palindromes, whereas 1231 is not.
+> - **(D)** no numbers with these properties exist
+> - **(E)** there exist arbitrarily large numbers with these properties. Note: a number is called a palindrome if it can be read the same way from left to right or from right to left. For example, 141 and 2552 are palindromes, while 1231 is not.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2003_biennio#q10|src_archimede_2003_biennio__Q10]]
 
 
 
@@ -461,15 +513,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding F given a positive integer and factors of the figure*
+*Find F given a positive integer and digit factors*
 
-> A square-base parallel-piped is inscribed in a sphere. If the base side is 14 in height, what is the ratio of the surface of the sphere to the total surface of the parallel piped?
+> A square-based parallelepiped is inscribed in a sphere. If the base side is 1/4 of the height, what is the ratio between the surface area of the sphere and the total surface area of the parallelepiped?
 >
 > - **(A)** π
 > - **(B)** π 4
 > - **(C)** 2π
 > - **(D)** π 2
-> - **(E)** It depends on the radius of the sphere.
+> - **(E)** depends on the radius of the sphere.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2003_biennio#q11|src_archimede_2003_biennio__Q11]]
 
 
 
@@ -501,15 +557,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Filling cells and bets on a chessboard, count*
+*Filling cells and bets on a chessboard, counting*
 
-> Four guys want to call their girls at the same time. Each cell phone can operate on four different frequencies. If two cell phones are activated at the same frequency, the communication falls. If each boy doesn't know what frequency the other three choose, what are the odds that all four will be able to talk to their girls?
+> Four boys want to phone their respective girlfriends all at the same time. Each mobile phone can work on four distinct frequencies. If two mobile phones switch on the same frequency, the communication fails. If each boy does not know which frequency the other three choose, what is the probability that all four succeed in talking to their girlfriends?
 >
 > - **(A)** 3 32
 > - **(B)** 3 64
 > - **(C)** 1 256
 > - **(D)** 1 16
 > - **(E)** 9 128.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_biennio#q12|src_archimede_2003_biennio__Q12]]
 
 
 
@@ -542,9 +604,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*full/empty volume report*
+*ratio of full/empty volumes*
 
-> Julius wants to amaze Damian with his divination skills. So he gives him a list of some two-digit numbers and tells him to choose one. Giulio asks Damiano the sum of the numbers in the number, and he's so sure he can guess. How many numbers did the initial list consist of?
+> Giulio wants to amaze Damiano with his divinatory abilities. For this he gives him a list of some two-digit numbers and tells him to choose one. Giulio asks Damiano for the sum of the digits of the number, and is so sure that he can guess it. What is the maximum number of numbers the initial list could have been composed of?
 >
 > - **(A)** 9
 > - **(B)** 10
@@ -552,7 +614,11 @@ level: biennio
 > - **(D)** 17
 > - **(E)** 18.
 
-**Answer:** 70%
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2003_biennio#q13|src_archimede_2003_biennio__Q13]]
 
 
 
@@ -585,15 +651,24 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many true statements in the self-reference rectangle*
+*How many true statements are in the self-referential rectangle*
 
-> In this rectangle there is exactly a false statement. In this rectangle there are exactly two false statements. In this rectangle there are exactly three false statements. In this rectangle there are exactly four false statements. How many true statements are there in the rectangle?
+> In this rectangle there is exactly one false statement.
+> In this rectangle there are exactly two false statements.
+> In this rectangle there are exactly three false statements.
+> In this rectangle there are exactly four false statements.
+> How many true statements are there in the rectangle?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3
 > - **(E)** 4.
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2003_biennio#q14|src_archimede_2003_biennio__Q14]]
 
 
 
@@ -623,15 +698,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n with 8n+50 multiple of 2n+1*
+*How many n make 8n+50 a multiple of 2n+1*
 
-> How many positive integers are n for which 8n + 50 is a multiple of 2n + 1?
+> How many positive integers n are there for which 8n + 50 is a multiple of 2n + 1?
 >
-> - **(A)** No one .
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 5
 > - **(E)** 10.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_biennio#q15|src_archimede_2003_biennio__Q15]]
 
 
 
@@ -660,15 +741,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-If the value of the input data is less than the value of the input data, the value of the input data shall be less than the input data.
+*When p+(qr) equals (p+q)(p+r)*
 
-> If p, q, r are three real numbers, p × (q + r) = (p × q) + (p × r) is always true. In which cases is p + (q × r) = (p + q) × (p + r)?
+> If p, q and r are three real numbers, p × (q + r) = (p × q) + (p × r) is always true. In which cases is p + (q × r) = (p + q) × (p + r) also true?
 >
-> - **(A)** If and only if p = q = r = 1 3 or p = 0
+> - **(A)** if and only if p = q = r = 1 3 or p = 0
 > - **(B)** if and only if p = q = r
-> - **(C)** Never
+> - **(C)** never
 > - **(D)** if and only if p + q + r = 1 or p = 0
 > - **(E)** if and only if p = q = r = 0.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2003_biennio#q16|src_archimede_2003_biennio__Q16]]
 
 
 
@@ -715,31 +801,21 @@ If the value of the input data is less than the value of the input data, the val
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of angles at the ends of a five-pointed star*
+*Sum of the angles at the tips of a five-pointed star*
 
-![[src_archimede_2003_biennio__prob17.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) circle (2cm);
-  \coordinate (A) at (90:2);
-  \coordinate (B) at (162:2);
-  \coordinate (C) at (234:2);
-  \coordinate (D) at (306:2);
-  \coordinate (E) at (18:2);
-  \draw (A) -- (C) -- (E) -- (B) -- (D) -- cycle;
-\end{tikzpicture}
-\end{document}
-```
-
-> Let it be given a five-pointed star inscribed in a circle. How much is the sum of the angles with vertices at the ends of the star?
+> A five-pointed star is inscribed in a circle. What is the sum of the angles whose vertices are at the tips of the star?
 >
 > - **(A)** 100°
 > - **(B)** 150°
 > - **(C)** 180°
 > - **(D)** 200°
 > - **(E)** the data available are insufficient.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_biennio#q17|src_archimede_2003_biennio__Q17]]
 
 
 
@@ -785,30 +861,24 @@ If the value of the input data is less than the value of the input data, the val
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-degenerate triangles with vertices at six data points*
+*Non-degenerate triangles on six given points*
 
 ![[src_archimede_2003_biennio__prob18.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \fill (0,0) circle (3pt);
-  \fill (1,0) circle (3pt);
-  \fill (0,1) circle (3pt);
-  \fill (1,1) circle (3pt);
-  \fill (0,2) circle (3pt);
-  \fill (1,2) circle (3pt);
-\end{tikzpicture}
-\end{document}
-```
-
-> They are given six points arranged as shown in the figure next to each other. How many possible non-degenerate triangles have their vertices at three of the data points?
+> Six points are arranged as in the figure alongside. How many non-degenerate triangles have their vertices at three of the given points?
 >
 > - **(A)** 12
 > - **(B)** 15
 > - **(C)** 16
 > - **(D)** 18
-> - **(E)** 24.      
+> - **(E)** 24.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2003_biennio#q18|src_archimede_2003_biennio__Q18]]
 
 
 
@@ -845,15 +915,27 @@ If the value of the input data is less than the value of the input data, the val
 <div class="qlang-split" data-lang="en"></div>
 
 
-*John's final distance after 186 steps to the diagram*
+*Final distance of Giovanni after 186 steps on a pattern*
 
-> John drank too much and began to walk strangely:  he took 1 step forward;  then he turned to the right and took 2 steps forward;  then he turned to the right and took 1 step forward;  then he turned to the left and took 1 step backwards;  then he started again. Each step is 1 meter. After 186 steps, he falls to the ground unconscious. How many yards from where he left off does John's walk end?
+> Giovanni has drunk too much and starts walking in a strange way:
+> – he takes 1 step forward;
+> – then he turns 90° to the right and takes 2 steps forward;
+> – then he turns 90° to the right and takes 1 step forward;
+> – then he turns 90° to the left and takes 1 step backward;
+> – then he starts again from the beginning.
+> Each step is 1 metre. After 186 steps he falls to the ground unconscious. How many metres from where he started does Giovanni's walk end?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** √ 5
 > - **(E)** 4.
+
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_biennio#q19|src_archimede_2003_biennio__Q19]]
 
 
 
@@ -887,14 +969,17 @@ If the value of the input data is less than the value of the input data, the val
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison of grey areas with square tangent circles*
+*Comparison of gray areas with circles tangent on a square*
 
-![[src_archimede_2003_biennio__prob20.png]]
-
-> Given a and b the areas of the figures in gray, which of the following relationships is valid (all the small circles have the same radius r, and the 4 tangents to the large one have their centers on the vertices of a square).
+> Let a and b be the areas of the gray figures, and say which of the following relations holds (all the small circles have the same radius r, and the 4 tangent to the large one have their centers on the vertices of a square).
 >
-> - **(A)** a < b, whichever is r
-> - **(B)** a = b, whatever r
-> - **(C)** a > b, whichever is r
-> - **(D)** a < b or a = b, depending on the r value
-> - **(E)** a > b or a = b, depending on r. a b
+> - **(A)** a < b, for any r
+> - **(B)** a = b, for any r
+> - **(C)** a > b, for any r
+> - **(D)** a < b or a = b, depending on the value of r
+> - **(E)** a > b or a = b, depending on the value of r. a b
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_biennio#q20|src_archimede_2003_biennio__Q20]]

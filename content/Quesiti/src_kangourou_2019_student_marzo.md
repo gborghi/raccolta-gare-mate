@@ -36,11 +36,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The other two values of the row/column sums of Table 2x2*
+*The other two values of the row/column sums of the 2x2 table*
 
-> The numbers 1, 2, 3 and 4 are written one for each cell in a 2x2 table. If the sums of the numbers written in each row and those of the numbers written in each column are calculated, two of the values obtained are 4 and 5. What are the other two? A) 6 and 6 B) 3 and 5 C) 4 and 5 D) 4 and 6 E) 5 and 6
+> The numbers 1, 2, 3, and 4 are written, one per cell, in a 2 x 2 table. If the sums of the numbers in each row and the sums of the numbers in each column are calculated, two of the resulting values are 4 and 5. What are the other two?
+> A) 6 e 6		
+> B) 3 e 5	 	
+> C) 4 e 5		
+> D) 4 e 6		
+> E) 5 e 6
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q01|src_kangourou_2019_student_marzo__Q01]]
 
 
 
@@ -75,21 +84,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which I draw the shaded and maximum area*
+*In which diagram is the shaded area maximal?*
 
 ![[src_kangourou_2019_student_marzo__prob2.png]]
 
-> A rectangle has been partially shaded in the five ways listed in the figures. In which of the drawings is the area of the shaded part the largest? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> A rectangle has been partially shaded in the five ways listed in the figures. In which of the drawings is the area of the shaded part greatest?
+> A) 	
+>
+> B)	
+>
+> C)	
+>
+> D)	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q02|src_kangourou_2019_student_marzo__Q02]]
 
 
 
@@ -124,19 +138,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which drawing shows the three rings chained in the same way*
+*Which drawing shows the three rings chained in the same way?*
 
 ![[src_kangourou_2019_student_marzo__prob3.png]]
 
-> Three triangular-shaped rings are chained as shown in the figure. Which of the drawings below shows the three rings chained in the same way? A)
-> 	
-> B)
-> 	
-> C) D)
->  	
-> E)
+> Three triangular rings are linked as shown in the figure. Which of the diagrams below shows the three rings linked in the same way?
+> A)	
+>
+>            B)	
+>
+>       C) 	     
+> D)	
+>
+>            E)
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q03|src_kangourou_2019_student_marzo__Q03]]
 
 
 
@@ -168,20 +188,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many edges does a pyramid with 23 triangular faces have*
+*How many edges does a pyramid with 23 triangular faces have?*
 
 > How many edges does a pyramid with 23 triangular faces have?
 > A) 23	
-> 	
+>
 > B) 24	
-> 	
+>
 > C) 46	
-> 	
+>
 > D) 48 	 	
 > E) 69
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q04|src_kangourou_2019_student_marzo__Q04]]
 
 
 
@@ -215,13 +239,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden digits in the three plates sum 11126*
+*The digits hidden in the three plates add up to 11126*
 
 ![[src_kangourou_2019_student_marzo__prob5.png]]
 
-> Three four-digit numbers were each written on a plate. The figure shows how the plates are overlaid and the digits that remain visible. We know that the sum of the three numbers is 11126. What are the hidden digits? A) 1, 4 and 7. B) 3, 3 and 3. C) 4, 5 and 6. D) 4, 5 and 7. E) None of the preceding three.
+> Three four-digit numbers were each written on a plate. The figure shows how the plates are superimposed and which digits remain visible. It is known that the sum of the three numbers is 11126. What are the hidden digits?
+> A) 1, 4 e 7.	
+> B) 3, 3 e 3.	
+> C) 4, 5 e 6.	
+> D) 4, 5 e 7.	
+> E) None of the preceding triples.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q05|src_kangourou_2019_student_marzo__Q05]]
 
 
 
@@ -255,19 +288,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last day with pairwise different digits*
+*Last day with pairs of digits that are different from each other*
 
-> Today's date can be written as 21/03/2019: the digits 0, 1 and 2 were used twice each. Which of the following numbers denotes the day on which pairwise different digits were last used? A) 30
-> 	
-> B) 25
-> 	
-> C) 29
-> 	
-> D) 28
-> 	
+> Today's date can be written as 21/03/2019: the digits 0, 1, and 2 were each used twice. Which of the following numbers denotes the day on which digits that were pairwise different were used for the last time?
+> A) 30	
+>
+> B) 25 	
+>
+> C) 29	
+>
+> D) 28	
+>
 > E) 31
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q06|src_kangourou_2019_student_marzo__Q06]]
 
 
 
@@ -301,19 +339,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the smallest integer with digit sum 2019*
+*First digit of the smallest integer whose digit sum is 2019*
 
-> Consider the smallest positive integer the sum of whose digits is 2019. What is the first significant digit of that number (from left)? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Consider the smallest positive integer whose digit sum is 2019. What is the first significant digit of this number (counting from the left)?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4 	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q07|src_kangourou_2019_student_marzo__Q07]]
 
 
 
@@ -349,21 +393,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image of the die I can't see (probability given)*
+*Which face of the die can I not see? (probabilities given)*
 
 ![[src_kangourou_2019_student_marzo__prob8.png]]
 
-> The faces of an unusual die contain only 1, 2 or 3 points; we know that the probability of getting 1 is 1/2 and the probability of getting 2 is 1/3. Which of the following images can I not see looking at this die? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> The faces of an unusual die have only 1, 2, or 3 dots; it is known that the probability of rolling a 1 is 1/2 and the probability of rolling a 2 is 1/3. Which of the following images cannot I see by looking at such a die?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q08|src_kangourou_2019_student_marzo__Q08]]
 
 
 
@@ -393,11 +442,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which equality holds for the associative operation x∗y=y-x*
+*Which equality holds for the associative operation x*y=y-x?*
 
-> Michele wants to define a new operation on real numbers by putting x * y = y - x. If a, b and c satisfy equality (a * b) * c = a * (b * c), which of the following equalities must be true? A) a = b B) b = c C) a = c D) a = 0 E) c = 0
+> Michele wants to define a new operation on real numbers by setting x * y = y – x. If a, b, and c satisfy the equality (a * b) * c = a * (b * c), which of the following equalities must be true?
+> A) a = b 	
+> B) b = c 	
+> C) a = c		
+> D) a = 0		
+> E) c = 0
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q09|src_kangourou_2019_student_marzo__Q09]]
 
 
 
@@ -431,19 +489,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers from 2^10 to 2^13 divisible by 210*
+*How many integers from 2^10 to 2^13 are divisible by 2^10?*
 
-> How many of the integers from 210 to 213, extremes included, are divisible by 210? A) 2
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> D) 8
-> 	
-> (E) 16 Questions from N. 11 al N. 20 is worth 4 points each.
+> How many of the integers from 210 to 213, inclusive, are divisible by 210?
+> A) 2	
+>
+> B) 4	
+>
+> C) 6	
+>
+> D) 8	
+>
+> E) 16
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q10|src_kangourou_2019_student_marzo__Q10]]
 
 
 
@@ -475,17 +540,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum power of 3 that divides 7! + 8! + 9!
+*The greatest power of 3 that divides 7! + 8! + 9!*
 
-> The maximum power of 3 dividing the number 7! + 8! + 9! è A) 32.
-> 	
-> B) 34.
-> 	
-> C) 35. D) 36.
-> 	
-> E) a power of 3 greater than 36.
+> The highest power of 3 that divides the number 7! + 8! + 9! is
+> A) 32.	
+>
+> B) 34.	
+>
+>  C) 35.	 	
+> D) 36.	
+>
+> E) a power that is 3 greater than 36.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q11|src_kangourou_2019_student_marzo__Q11]]
 
 
 
@@ -521,20 +593,25 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of students given +20% and -20%*
+*Total number of students: given +20% and -20%*
 
-> In my class this year, the number of boys has increased by exactly 20%, while the number of girls has decreased by exactly 20%, and overall there is now one person more than last year. Which of the following is currently the total number of students (boys and girls) in my class? A) 22
-> 	
-> B) 26
-> 	
-> C) 29
-> 	
-> D) 31
-> 	
+> In my class this year, the number of boys has increased by exactly 20%, while the number of girls has decreased by exactly 20%: overall, there is now one more person than last year. Which of the following could currently be the total number of students (boys and girls) in my class?
+> A) 22	
+>
+> B) 26 	
+>
+> C) 29	
+>
+> D) 31	
+>
 > E) 34
 >
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q12|src_kangourou_2019_student_marzo__Q12]]
 
 
 
@@ -573,13 +650,22 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the parallelepiped tank (heights 2.3,5)*
+*Volume of the parallelepipedal tank (heights 2, 3, 5)*
 
 ![[src_kangourou_2019_student_marzo__prob13.png]]
 
-> A tank with the shape of a rectangular parallelepiped contains 120 m3 of water, which only partially fills it. Depending on the face of the parallelepiped resting on the ground, the height of the water is 2, 3 or 5 metres, as shown in the figures, which are not in scale. How many cubic meters is the volume of the tank? A) 160 B) 180 C) 200 D) 220 E) 240
+> A tank shaped like a right rectangular parallelepiped contains 120 m³ of water, which fills it only partially. Depending on which face of the parallelepiped rests on the ground, the water depth is 2, 3, or 5 meters, as shown in the figures, which are not drawn to scale. What is the volume of the tank in cubic meters?
+> A) 160 	 	
+> B) 180	 	
+> C) 200	 	
+> D) 220	 	
+> E) 240
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q13|src_kangourou_2019_student_marzo__Q13]]
 
 
 
@@ -624,29 +710,35 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age and height of the man (three info with correct data)*
+*And Eta at man's height (three pieces of information with one correct datum)*
 
-> The police have collected the following information, which is partly contradictory, about one man:
-> 	
-> - he's 33 years old and is 1.75 in height.
-> 	
-> - is 31 years old and is 1.90 m tall;
-> 	
-> - is 29 years old and is 1.75 in height;
-> 	
-> - He's 29 years old and he's 1.70 m tall. It was subsequently found that for exactly three of these information, only one of the two data is correct. Then you can be sure that
-> 	
-> A) the man is 31 or 33 years old.
-> 	
-> B) the man is 29 or 33 years old.
-> 	
-> C) the man is 29 years old and is less than 1.70 or more than 1.90.
-> 	
-> D) The man is 1.75 or 1.90.
-> 	
-> E) The man is 1.75 or 1.70.
+> The police have gathered the following, partly contradictory, information about a man:
+>
+> - He is 33 years old and 1.75 m tall;
+>
+> - He is 31 years old and 1.90 m tall;
+>
+> - is 29 years old and 1.75 m tall;
+>
+> - Is 29 years old and 1.70 m tall.
+> Subsequently, it was established that, for exactly three of these pieces of information, one and only one of the two data points is correct. Then one can be certain that
+>
+> A) The man is 31 or 33 years old.
+>
+> B) The man is 29 or 33 years old.
+>
+> C) The man is 29 years old and is less than 1.70 m tall or more than 1.90 m tall.
+>
+> D) The man is 1.75 or 1.90 tall.
+>
+> E) The man is 1.75 or 1.70 tall.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q14|src_kangourou_2019_student_marzo__Q14]]
 
 
 
@@ -685,27 +777,26 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*By how many cm does Q move if P descends 24 (pulleys)*
+*By how many cm does Q move if P descends by 24 (pulleys)?*
 
 ![[src_kangourou_2019_student_marzo__prob15.png]]
 
-> The mechanism shown in the figure consists of three
-> pulleys connected to each other by two ropes in such a way
-> that the sections of rope between one pulley and the other are
-> vertical. If the end P of the rope moves
-> 24 cm downward, by how many centimeters does
-> point Q move upward?
+> The mechanism shown in the figure consists of three pulleys connected to one another by two ropes in such a way that the sections of rope between one pulley and the next are vertical. If the end P of the rope moves 24 cm downward, by how many centimeters does point Q move upward?
 > A) 24	
-	
+>
 > B) 12	
-	
+>
 > C) 8	
-	
+>
 > D) 6	
-	
+>
 > E) 24/5
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q15|src_kangourou_2019_student_marzo__Q15]]
 
 
 
@@ -745,20 +836,27 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Good integers with a maximum divisor of N-6*
+*How many good integers have greatest divisor N-6?*
 
-> We decided to call a positive integer good N if its greatest divisor (excluding N itself) is N - 6. How many positive integers "good" exist? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 6
-> 	
-> E) Infinite 2 m 3 m 5 m P Q
+> We have decided to call a positive integer N "good" if its greatest divisor (excluding N itself) is N – 6. How many "good" positive integers are there?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 6	
+>
+> E) Infiniti
+> 2 m 3 m 5 m P Q
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q16|src_kangourou_2019_student_marzo__Q16]]
 
 
 
@@ -790,13 +888,21 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that Mary wins by drawing the fruit candy
+*Probability that Maria will win by drawing the fruit-flavored candy*
 
-> Mary and John take turns drawing a candy from a bag containing 4 chocolate candies and one fruit candy. They decide that whoever draws the fruit candy wins. If John is the first to draw a candy, what is the probability that Mary will win? A) 2/5 B) 3/5
-> 	
-> C) 1/2 D) 5/6 E) 1/3
+> Maria and Giovanni take turns drawing a candy from a bag containing 4 chocolate candies and 1 fruit candy. They agree that the person who draws the fruit candy wins. If Giovanni is the first to draw a candy, what is the probability that Maria will win?
+> A) 2/5	 	
+> B) 3/5	
+>
+> C) 1/2	 	
+> D) 5/6	 	
+> E) 1/3
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q17|src_kangourou_2019_student_marzo__Q17]]
 
 
 
@@ -835,9 +941,18 @@ The probability that Mary wins by drawing the fruit candy
 
 ![[src_kangourou_2019_student_marzo__prob18.png]]
 
-> Two squares of sides respectively a and b (with a < b) lie on the same plane and have only one vertex in common with the points of one of the sides of the minor square that emerges from it, as shown in the figure. What is the area of the shaded triangle in the figure? A) √ab B) a2/2 C) b2/2 D) (a2 + b2)/4 E) (a2 + b2)/2
+> Two squares with sides of lengths a and b respectively (with a < b) lie in the same plane and share only one vertex and the points of one of the sides of the smaller square that extends beyond that vertex, as shown in the figure. What is the area of the shaded triangle in the figure?
+> A) √ab
+> B) a2/2	 	
+> C) b2/2	 	
+> D) (a2 + b2)/4	
+> E) (a2 + b2)/2
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q18|src_kangourou_2019_student_marzo__Q18]]
 
 
 
@@ -869,17 +984,24 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest integer less than the nested root of 20*
+*The greatest integer less than the nested square root of 20*
 
-> The largest integer smaller than √ 20 + √ 20 + √ 20 + √ 20 + √ 20 is A) 4.
-> 	
-> B) 5.
-> 	
-> C) 6.
-> 	
-> D) 20. E) 25
+> The largest integer less than √20 + √20 + √20 + √20 + √20 is
+> A) 4.	
+>
+> B) 5.	
+>
+> C) 6.	
+>
+> D) 20.	 	
+> E) 25
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q19|src_kangourou_2019_student_marzo__Q19]]
 
 
 
@@ -919,19 +1041,25 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right result of (a+b)/c given two wrong results*
+*Correct result of (a+b)/c given two incorrect results*
 
-> To calculate the value of , where a, b and c are three fixed positive integers, Giorgio types in the order on the keyboard a + b: c = and obtains as a result 11. Then he tries to type b + a: c = and, to his surprise, he gets 14. At this point he understands that the calculator is programmed to calculate the divisions before the sums. If he had typed correctly a + b -------- c what would he have gotten? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
-> E) 5 Questions from N. 21 to N. 30 are worth 5 points each.
+> To calculate the value of , where a, b, and c are three fixed positive integers, Giorgio types a + b : c = on the keyboard in that order and gets 11 as the result. Next, he tries typing b + a : c = and, to his surprise, gets 14. At this point, he realizes that the calculator is programmed to perform divisions before additions. If he had typed a + b -------c correctly, what result would he have obtained?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
+> E) 5
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q20|src_kangourou_2019_student_marzo__Q20]]
 
 
 
@@ -961,13 +1089,21 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between sum a and product b of 1024 divisors*
+*Relationship between the sum a and the product b of the divisors of 1024*
 
-> If a is the sum of all the divisors (positive integers) of 1024 and b is their product, then A) (a – 1)5 = b. B) (a + 1)5 = b. C) a5 = b. D) a5 – 1 = b.
-> 	
+> If a is the sum of all (positive integer) divisors of 1024 and b is their product, then
+> A) (a – 1)5 = b. 	 	
+> B) (a + 1)5 = b. 	 	
+> C) a5 = b. 	
+> D) a5 – 1 = b. 	
+>
 > E) a5 + 1= b.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q21|src_kangourou_2019_student_marzo__Q21]]
 
 
 
@@ -1003,23 +1139,26 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which a does the equation 2-|x|=ax have two solutions*
+*For which values does the equation 2 - |x| = ax have two solutions?*
 
-> The equation 2 – | x | = ax  has exactly two distinct solutions if and only if
+> Equation 2 – | x | = ax has exactly two distinct solutions if and only if
 > A) a ≤ 1.	
-> 	
+>
 > B) –1 < a < 1.	
-> 	
+>
 > C) a ≥ 1.	
 > D) a = 0.	
-> 	
-> E) a = –1  or  a = 1.
-> a + b
-> -------- 
->    c
+>
+> E) a = –1 or a = 1.
+> a + b -------c
 >
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q22|src_kangourou_2019_student_marzo__Q22]]
 
 
 
@@ -1072,7 +1211,7 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value of S in the numbered grid*
+*Minimum value of S in the numbered lattice*
 
 ![[src_kangourou_2019_student_marzo__prob23.png]]
 
@@ -1090,17 +1229,23 @@ The probability that Mary wins by drawing the fruit candy
 \end{document}
 ```
 
-> The vertices of the grid in the figure have been numbered from 1 to 10, so that the sum S of the numbers at the four vertices of each square is always the same. What is the minimum value that S can have? A) 18
-> 	
-> B) 19
-> 	
-> C) 20
-> 	
-> D) 21
-> 	
+> The vertices of the network in the figure have been numbered from 1 to 10 so that the sum S of the numbers at the four vertices of each square is always the same. What is the minimum possible value of S?
+> A) 18	
+>
+> B) 19	
+>
+> C) 20	
+>
+> D) 21	
+>
 > E) 22
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q23|src_kangourou_2019_student_marzo__Q23]]
 
 
 
@@ -1133,19 +1278,25 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many planes pass through at least three vertices of a cube*
+*How many planes pass through at least three vertices of a cube?*
 
-> How many distinct planes pass through at least three vertices of an assigned cube? A) 6
-> 	
-> B) 8
-> 	
-> C) 12
-> 	
-> D) 16
-> 	
+> How many distinct planes pass through at least three vertices of a given cube?
+> A) 6	
+>
+> B) 8	
+>
+> C) 12	
+>
+> D) 16	
+>
 > E) 20
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q24|src_kangourou_2019_student_marzo__Q24]]
 
 
 
@@ -1177,19 +1328,22 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the 8 abscissas of lines through the origin and parabola*
+*Product of the 8 abscissas of the lines through the origin and the parabola*
 
-> Four lines passing through the origin and pairwise distinct intersect the parabola with
-> equation y = x2 – 2, determining 8 points all distinct from one another. What can the
-> product of the abscissas of these 8 points be?
-> A) Only 16.	
-> B) Only – 16.	
-> C) Only 8.	
-> D) Only – 8.	
->    
-> E) It can take several distinct values.
+> Four lines passing through the origin and pairwise distinct intersect the parabola given by the equation y = x² – 2, yielding 8 points that are all distinct from one another. What value can the product of the x-coordinates of these 8 points have?
+> A) Only 16.
+> B) Solo – 16.
+> C) Only 8.
+> D) Solo – 8.
+>
+> E) It can take multiple distinct values.
 
-**Answer:** A
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q25|src_kangourou_2019_student_marzo__Q25]]
 
 
 
@@ -1222,20 +1376,25 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integers z with |z^2-2z-3| prime*
+*How many integers z are there such that |z^2-2z-3| is prime?*
 
-> How many relative integers z are there for which |z2 – 2z – 3| is a prime number?
+> How many integers z are there for which |z² – 2z – 3| is a prime number?
 > A) 1	
-> 	
+>
 > B) 2	
-> 	
+>
 > C) 3	
-> 	
+>
 > D) 4	
-> 	
-> E) Infinitely many
+>
+> E) Infiniti
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q26|src_kangourou_2019_student_marzo__Q26]]
 
 
 
@@ -1289,7 +1448,7 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the side of the polygonal given square DEFB*
+*Length of the side of the square given the polygon DEFB*
 
 ![[src_kangourou_2019_student_marzo__prob27.png]]
 
@@ -1312,9 +1471,19 @@ The probability that Mary wins by drawing the fruit candy
 \end{document}
 ```
 
-> In the square ABCD a DEFB polygon with DE and FB perpendicular to FE has been drawn, as shown in the figure. If the segments DE, EF and FB are 5, 1 and 2 respectively, what is the length of the side of the square? (A) 3√2 B) 7√2/2 C) 11/2 D) 5√2 E) None of the above.
+> In square ABCD, a polygonal chain DEFB has been drawn, with DE and FB perpendicular to FE, as shown in the figure. If the lengths of segments DE, EF, and FB are 5, 1, and 2 respectively, what is the length of a side of the square?
+> A) 3√2	 	
+> B) 7√2/2	
+> C) 11/2	 	
+> D) 5√2	 	
+> E) None of those indicated.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q27|src_kangourou_2019_student_marzo__Q27]]
 
 
 
@@ -1348,15 +1517,23 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a_2019 in succession (square sum +1)*
+*Value of a_2019 in the sequence (square of the sum of the digits +1)*
 
-> The first element a1 of the sequence a1, a2, a3, ... is equal to 49. For each n > 1, the number an+1 is the square of the number obtained by adding 1 to the sum of the digits of an. For example, a2 = (4 + 9 + 1)2 = 196. What is the value of a2019 ? A) 121 B) 25
-> 	
-> C) 64
-> 	
-> D) 400 E) 49
+> The first term a1 of the sequence a1, a2, a3, … is equal to 49. For every n > 1, the term an+1 is the square of the number obtained by adding 1 to the sum of the digits of an. For example, a2 = (4 + 9 + 1)² = 196. What is the value of a2019?
+> A) 121	 	
+> B) 25	
+>
+> C) 64	
+>
+> D) 400	 	
+> E) 49
 
-**Answer:** C
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q28|src_kangourou_2019_student_marzo__Q28]]
 
 
 
@@ -1397,14 +1574,24 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of one of the three being the average of the other two*
+*Probability that one of the three is the mean of the other two*
 
-> In the set {1, 2, 3, ..., 10} three numbers are chosen at random, two to two distinct. What is the probability that one of them is the arithmetic mean of the other two? A) 1/10 B) 1/6
-> 	
-> C) 1/4 D) 1/3 E) 1/2 A B C D E F 5 1 2
+> From the set {1, 2, 3, …, 10}, three numbers are chosen at random, all distinct. What is the probability that one of them is the arithmetic mean of the other two?
+> A) 1/10	 	
+> B) 1/6	
+>
+> C) 1/4	 	
+> D) 1/3	 	
+> E) 1/2 
+> A B C D E F 5 1 2
 >
 
-**Answer:** B
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q29|src_kangourou_2019_student_marzo__Q29]]
 
 
 
@@ -1449,19 +1636,26 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the upper right corner of the Latin square*
+*Number in the top-right corner of the Latin square*
 
 ![[src_kangourou_2019_student_marzo__prob30.png]]
 
-> Each box of the square in the figure must contain a number (and only one) so that each row and column contains one and only once each of the numbers 1, 2, 3, 4 and 5 and that the sum of the numbers in each of the three regions in which the square is divided by the polylines in bold is always the same. What number should be entered in the box in the upper right corner? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> In each cell of the square in the figure, a number (and only one) must be placed so that each row and each column contains each of the numbers 1, 2, 3, 4, and 5 exactly once, and so that the sum of the numbers in each of the three regions into which the square is divided by the bold polygons is always the same. Which number should be placed in the cell at the top right corner?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
+> 2 ?
 >
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_marzo#q30|src_kangourou_2019_student_marzo__Q30]]

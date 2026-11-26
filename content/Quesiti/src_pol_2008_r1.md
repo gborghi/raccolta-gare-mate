@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
+*Sistema di tre equazioni che legano un cubo a un altro cubo e a una variabile lineare*
 
-> Risolvere in numeri reali $x, y, z$ il sistema di equazioni $$\begin{cases} x^3 = 5y^3 - 4z \\ y^3 = 5z^3 - 4x \\ z^3 = 5x^3 - 4y \end{cases}$$
+> Risolvere nei numeri reali $x, y, z$ il sistema di equazioni
+>
+> $$\begin{cases} x^3 = 5y^3 - 4z \\ y^3 = 5z^3 - 4x \\ z^3 = 5x^3 - 4y \end{cases}$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2008_r1#q01|src_pol_2008_r1__Q01]]
 
 
 
@@ -55,9 +63,15 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*All'interno di un angolo convexo con vertice P e un dato punto A, punti X, Y sui raggi con PX=PY ridurre al minimo AX+AY; dimostrare angolo XAP = angolo YAP.*
+*Punto interno a un angolo, punti sui raggi con distanze uguali dal vertice e somma minima: la bisettrice passa per il punto*
 
-> All'interno di un angolo convexo con vertice $P$ è dato un punto $A$. I punti $X$ e $Y$ si trovano su diversi raggi dell'angolo in modo che $PX = PY$ e la somma $AX + AY$ siano minimi. Prove che $\angle XAP = \angle YAP$.
+> All'interno di un angolo convesso di vertice $P$ è dato un punto $A$. I punti $X$ e $Y$ giacciono su raggi diversi dell'angolo, in modo che $PX = PY$ e la somma $AX + AY$ sia minima. Dimostrare che $\angle XAP = \angle YAP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2008_r1#q02|src_pol_2008_r1__Q02]]
 
 
 
@@ -82,9 +96,19 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per la sequenza di numeri interi a_1=1, a_2=2, a_n=3a_{n-1}+5a_{n-2}, decidere se qualche k>=2 divide ogni a_n.*
+*Successione a_1 = 1, a_2 = 2, a_n = 3a_{n−1} + 5a_{n−2}: esiste un intero k almeno 2 che divide tutti i termini?*
 
-> Una sequenza $(a_n)$ di numeri interi è definita da $a_1 = 1$, $a_2 = 2$ e $$a_n = 3a_{n-1} + 5a_{n-2} \quad \text{for } n = 3, 4, 5, \ldots .$$ Esiste un numero intero $k \ge 2$ per il quale $k$ divide $a_n$ per tutti $n = 1, 2, \ldots$?
+> Una successione $(a_n)$ di interi è definita da $a_1 = 1$, $a_2 = 2$ e
+>
+> $$a_n = 3a_{n-1} + 5a_{n-2} \quad \text{for } n = 3, 4, 5, \ldots .$$
+>
+> Esiste un intero $k \ge 2$ per cui $k$ divide $a_n$ per ogni $n = 1, 2, \ldots$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2008_r1#q03|src_pol_2008_r1__Q03]]
 
 
 
@@ -107,9 +131,15 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato il peso alternativo w(A) dei sottoinsiemi non vuoti di {1,...,n}, si trova la somma di w(A) su tutti i sottoinsiemi 2^n-1.*
+*Somma, su tutti i sottoinsiemi non vuoti, della somma alternata degli elementi in ordine decrescente*
 
-> $n \ge 1$ sia un dato numero intero. Per ogni sottoinsieme non vuoto $A$ di $\{1, 2, \ldots, n\}$ definire il numero $w(A)$ come segue: se $a_1 > a_2 > \cdots > a_k$ sono gli elementi di $A$, allora $w(A) = a_1 - a_2 + a_3 - \cdots + (-1)^{k+1} a_k$. Trova la somma dei numeri $w(A)$ su tutti i possibili sottogruppi $2^n - 1$ $A$.
+> Sia $n \ge 1$ un intero dato. Per ogni sottoinsieme non vuoto $A$ di $\{1, 2, \ldots, n\}$ si definisca il numero $w(A)$ come segue: se $a_1 > a_2 > \cdots > a_k$ sono gli elementi di $A$, allora $w(A) = a_1 - a_2 + a_3 - \cdots + (-1)^{k+1} a_k$. Trovare la somma dei numeri $w(A)$ su tutti i $2^n - 1$ sottoinsiemi possibili $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_pol_2008_r1#q04|src_pol_2008_r1__Q04]]
 
 
 
@@ -134,9 +164,19 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli primi (p,q,r) per i quali pq+qr+rp e p^3+q^3+r^3-2pqr sono divisibili da p+q+r.*
+*Terne di primi per cui due espressioni sono divisibili per la somma dei tre primi*
 
-> Trova tutti i triples $(p, q, r)$ dei numeri primi per i quali $$pq + qr + rp \quad \text{and} \quad p^3 + q^3 + r^3 - 2pqr$$ sono divisibili da $p + q + r$.
+> Trovare tutte le terne $(p, q, r)$ di numeri primi per cui
+>
+> $$pq + qr + rp \quad \text{and} \quad p^3 + q^3 + r^3 - 2pqr$$
+>
+> sono divisibili per $p + q + r$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2008_r1#q05|src_pol_2008_r1__Q05]]
 
 
 
@@ -159,9 +199,15 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i polinomi di coefficiente reale W(x) con W(x^2) W(x^3) = W(x)^5 per tutti gli x reali.*
+*Polinomi a coefficienti reali con W(x^2) W(x^3) = W(x)^5 per ogni reale x*
 
-> Trovare tutti i polinomi $W(x)$ con coefficienti reali in modo tale che $W(x^2) W(x^3) = W(x)^5$ sia valido per ogni numero reale $x$.
+> Trovare tutti i polinomi $W(x)$ a coefficienti reali tali che $W(x^2) W(x^3) = W(x)^5$ valga per ogni numero reale $x$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2008_r1#q06|src_pol_2008_r1__Q06]]
 
 
 
@@ -184,9 +230,15 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In una società di 2^n-1 persone, ogni sottoinsieme sceglie un leader (un membro al di fuori di esso); dimostra l'esistenza di una scelta globale e conta le scelte.*
+*Tutti i sottoinsiemi non vuoti di n persone eleggono un capo, con un vincolo sull'unione: quante scelte dei capi sono possibili*
 
-> In un insieme di persone $n$ si formano società $2^n - 1$ (una società è un sottoinsieme non vuoto di persone). Ogni società deve scegliere un leader secondo la seguente regola: se una società $C$ è l'unione $A \cup B$ di due società $A$ e $B$, allora il leader di $C$ è anche il leader di almeno una delle società $A$ e $B$. Trova il numero di possibili scelte di leader.
+> In un insieme di $n$ persone si formano $2^n - 1$ compagnie: una compagnia è un sottoinsieme non vuoto delle persone. Ogni compagnia elegge un capo, con la regola seguente: se una compagnia $C$ è l'unione $A \cup B$ di due compagnie $A$ e $B$, allora il capo di $C$ è anche il capo di almeno una delle compagnie $A$ e $B$. Trovare il numero delle scelte possibili dei capi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2008_r1#q07|src_pol_2008_r1__Q07]]
 
 
 
@@ -209,9 +261,15 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una sfera scritta nella piramide SABCD (base quadre convexa) tocca la base a P; prova angolo APB + angolo CPD = 180 gradi.*
+*Piramide a base quadrilatera convessa, sfera inscritta che tocca la base in P: due angoli opposti sono supplementari*
 
-> La base di una piramide $SABCD$ è un quadrilaterale converso $ABCD$. Una sfera è inserita nella piramide e tocca la base $ABCD$ al punto $P$. Prove che $\angle APB + \angle CPD = 180^\circ$.
+> La base di una piramide $SABCD$ è un quadrilatero convesso $ABCD$. Una sfera è inscritta nella piramide e tocca la base $ABCD$ nel punto $P$. Dimostrare che $\angle APB + \angle CPD = 180^\circ$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2008_r1#q08|src_pol_2008_r1__Q08]]
 
 
 
@@ -234,9 +292,15 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la più piccola a tale che per tutti i valori reali x,y,z >= a con x+y+z=3, x^3+y^3+z^3 >=3.*
+*Minimo a tale che, se x, y, z sono almeno a e hanno somma 3, la somma dei cubi è almeno 3*
 
-> Determinare il numero più piccolo $a$ che abbia la seguente proprietà: per tutti i numeri reali $x, y, z \ge a$ che soddisfano $x + y + z = 3$, esso detiene $x^3 + y^3 + z^3 \ge 3$.
+> Determinare il minimo numero $a$ con la proprietà seguente: per tutti i numeri reali $x, y, z \ge a$ che soddisfano $x + y + z = 3$, vale $x^3 + y^3 + z^3 \ge 3$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2008_r1#q09|src_pol_2008_r1__Q09]]
 
 
 
@@ -261,9 +325,19 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo p; sequenza a_{n+1}=a_n+p×floor(p-th radice di a_n); mostrare qualche termine è una p-th potenza di un intero.*
+*Successione che aggiunge p volte la parte intera della radice p-esima: qualche termine è una potenza p-esima*
 
-> Si dà un numero primo $p$. Una sequenza di interi positivi $a_1, a_2, \ldots$ soddisfa la relazione $$a_{n+1} = a_n + p \left\lfloor \sqrt[p]{a_n} \right\rfloor \quad \text{for } n = 1, 2, 3 \ldots$$ Mostra che c'è un termine in questa sequenza che è la potenza $p$- di un intero.
+> È dato un numero primo $p$. Una successione di interi positivi $a_1, a_2, \ldots$ soddisfa la relazione
+>
+> $$a_{n+1} = a_n + p \left\lfloor \sqrt[p]{a_n} \right\rfloor \quad \text{for } n = 1, 2, 3 \ldots$$
+>
+> Dimostrare che in questa successione c'è un termine che è la $p$-esima potenza di un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2008_r1#q10|src_pol_2008_r1__Q10]]
 
 
 
@@ -288,9 +362,19 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette punti sui lati del triangolo ABC con una catena di angoli uguali di 60 gradi; dimostrare che P1 coincide con P7.*
+*Sette punti sui lati di un triangolo, con sei angoli di 60 gradi: il primo e l'ultimo coincidono*
 
-> I punti $P_1, P_2, P_3, P_4, P_5, P_6, P_7$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, $BC$, $CA$, $AB$, $BC$ di un triangolo $ABC$ e soddisfano $$\angle P_1 P_2 C = \angle A P_2 P_3 = \angle P_3 P_4 B = \angle C P_4 P_5 = \angle P_5 P_6 A = \angle B P_6 P_7 = 60^\circ .$$ Prove che $P_1 \equiv P_7$.
+> I punti $P_1, P_2, P_3, P_4, P_5, P_6, P_7$ giacciono rispettivamente sui lati $BC$, $CA$, $AB$, $BC$, $CA$, $AB$, $BC$ di un triangolo $ABC$ e soddisfano
+>
+> $$\angle P_1 P_2 C = \angle A P_2 P_3 = \angle P_3 P_4 B = \angle C P_4 P_5 = \angle P_5 P_6 A = \angle B P_6 P_7 = 60^\circ .$$
+>
+> Dimostrare che $P_1 \equiv P_7$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2008_r1#q11|src_pol_2008_r1__Q11]]
 
 
 
@@ -313,6 +397,12 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato il numero intero m>=2, trovare il più piccolo n>=m in modo che ogni 2 colorazioni di {m,...,n} producano un monocromatico a,b,c con ab=c.*
+*Minimo n tale che, spezzando {m, ..., n} in due parti, una contenga tre numeri, non necessariamente distinti, con ab = c*
 
-> Si deve dare un numero intero $m \ge 2$. Trovare il numero intero più piccolo $n \ge m$ con la proprietà che, per ogni partizione del set $\{m, m+1, \ldots, n\}$ in due sottoinsiemi, uno dei sottoinsiemi contiene tre numeri $a, b, c$ (non necessariamente distinti) con $ab = c$.
+> Sia dato un intero $m \ge 2$. Trovare il minimo intero $n \ge m$ con la proprietà seguente: per ogni partizione dell'insieme $\{m, m+1, \ldots, n\}$ in due sottoinsiemi, uno dei due contiene tre numeri $a, b, c$, non necessariamente distinti, con $ab = c$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2008_r1#q12|src_pol_2008_r1__Q12]]

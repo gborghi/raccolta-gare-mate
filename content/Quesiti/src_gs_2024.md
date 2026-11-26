@@ -27,20 +27,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 8105
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circles (Sandro Campigotto)*
+*Cerchi Sandro Campigotto*
 
 ![[src_gs_2024__prob1.png]]
 
-> Circles (Sandro Campigotto)
-> The area over which two circles of radius 10 cm and 50 cm overlap is 20π cm^2. What is the area, in cm^2, covered by the two circles?
+> Cerchi Sandro Campigotto
+> The area where two circles with radii 10 cm and 50 cm overlap is 20π cm². What is the area covered by the two circles, in cm²?
 
-**Answer:** 8105
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2024#q01|src_gs_2024__Q01]]
 
 
 
@@ -57,20 +60,20 @@ level: squadre
 > Qual è il quadrato di √2023 + √112?
 
 **Risposta:** 3087
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares (Carlo Càssola)*
+*Quadrati Carlo Càssola*
 
 ![[src_gs_2024__prob2.png]]
 
-> Squares (Carlo Càssola)
+> Quadrati Carlo Càssola
 > What is the square of √2023 + √112?
 
-**Answer:** 3087
+[[Quesiti/src_gs_2024#q02|src_gs_2024__Q02]]
 
 
 
@@ -93,20 +96,23 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1122
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reals (Carlo Càssola)*
+*Reali Carlo Càssola*
 
 ![[src_gs_2024__prob3.png]]
 
-> Reals (Carlo Càssola)
-> Three positive real numbers a, b and c are such that the product of a and b equals the square of c. Their sum is 102, while the sum of their reciprocals is 17/18, and a < b. What are the three numbers a, b and c? [Give as the answer the product of the three numbers.]
+> Reali Carlo Càssola
+> Three positive real numbers a, b, and c satisfy the condition that the product of a and b equals the square of c. Their sum is 102, while the sum of their reciprocals is 17/18, and a < b. What are the three numbers a, b, and c? [Give the product of the three numbers as the answer.]
 
-**Answer:** 1122
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2024#q03|src_gs_2024__Q03]]
 
 
 
@@ -130,20 +136,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0121
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Birthdays (Carlo Càssola)*
+*Birthdays of Carlo Càssola*
 
 ![[src_gs_2024__prob4.png]]
 
-> Birthdays (Carlo Càssola)
-> A grandfather over a hundred years old and a grandson have their birthdays on the same day (but are of different ages). The grandfather observes that his age is an integer multiple of his grandson's and that it will also be a multiple of his grandson's for each of the next five years. What is the minimum age the grandfather can be today?
+> Birthdays of Carlo Càssola
+> A supercentenarian grandfather and his grandchild have birthdays on the same day (but are different ages). The grandfather notes that his age is an integer multiple of his grandchild's age and that it will also be a multiple of his grandchild's age for the next five years. What is the minimum age the grandfather can have today?
 
-**Answer:** 0121
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2024#q04|src_gs_2024__Q04]]
 
 
 
@@ -170,20 +179,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2970
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digits (Lorenzo Mazza)*
+*Cifre Lorenzo Mazza*
 
 ![[src_gs_2024__prob5.png]]
 
-> Digits (Lorenzo Mazza)
-> Dante and Marta both want to open a safe protected by a four-digit PIN. Both have found out that the first digit is 2 and that the PIN is a multiple of 9. Moreover, Marta knows that Dante also knows the second and third digits of the PIN. Marta additionally knows that the PIN is an even number. She sees that Dante is unable to determine the PIN of the safe uniquely. What is the largest number Marta will have to try as the PIN?
+> Cifre Lorenzo Mazza
+> Dante and Marta both want to open a safe protected by a four-digit PIN. Both have learned that the first digit is 2 and that the PIN is a multiple of 9. Moreover, Marta knows that Dante also knows the second and third digits of the PIN. Marta also knows that the PIN is an even number. She sees that Dante is unable to determine the safe's PIN uniquely. What is the largest number that Marta will have to try as the PIN?
 
-**Answer:** 2970
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2024#q05|src_gs_2024__Q05]]
 
 
 
@@ -206,20 +218,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0167
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Neighbours (Pietro Donatis)*
+*Neighbors Pietro Donatis*
 
 ![[src_gs_2024__prob6.png]]
 
-> Neighbours (Pietro Donatis)
-> In a regular polygon with 59 sides, from each vertex one draws the two diagonals joining it to its second-nearest vertices. In this way a 59-pointed star is drawn. How many sexagesimal degrees is the angle at a point of the star?
+> Neighbors Pietro Donatis
+> In a regular 59-sided polygon, from each vertex, the two diagonals connecting it to its second-nearest vertices are drawn. In this way, a 59-pointed star is formed. How many sexagesimal degrees is the angle at one point of the star?
 
-**Answer:** 0167
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2024#q06|src_gs_2024__Q06]]
 
 
 
@@ -243,20 +258,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0168
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cakes and biscuits (Carlo Càssola)*
+*Carlo Càssola Cakes and Biscuits*
 
 ![[src_gs_2024__prob7.png]]
 
-> Cakes and biscuits (Carlo Càssola)
-> In a pastry shop chocolate biscuits are available at 1€ each, pastries at 2€ each and cakes at 11€ each. The pastry shop's thousandth customer receives as a prize 79€ to be spent entirely and immediately. In how many different ways can he spend his prize?
+> Carlo Càssola Cakes and Biscuits
+> In the patisserie, chocolate biscuits are available at €1 each, pastries at €2 each, and cakes at €11 each. The thousandth customer of the patisserie receives a prize of €79 to spend in full and immediately. In how many different ways can they spend their prize?
 
-**Answer:** 0168
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2024#q07|src_gs_2024__Q07]]
 
 
 
@@ -276,20 +294,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8894
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers (Carlo Càssola)*
+*Interi Carlo Càssola*
 
 ![[src_gs_2024__prob8.png]]
 
-> Integers (Carlo Càssola)
+> Interi Carlo Càssola
 > All the integers from 1 to 10000 appear on the sheet. How many digits are written in total?
 
-**Answer:** 8894
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2024#q08|src_gs_2024__Q08]]
 
 
 
@@ -316,20 +337,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0024
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Floors (Anna Ulivi)*
+*Pavimenti Anna Ulivi*
 
 ![[src_gs_2024__prob9.png]]
 
-> Floors (Anna Ulivi)
-> A rectangular floor whose sides have integer length in dm must be completely covered with square tiles of side 1 dm. 1000 tiles are available. All the tiles along the edge of the floor have been laid: there are 124 of them. Once all 1000 tiles have been used, the floor is not completely covered. In fact, the number of missing tiles is the largest possible with the given data. How many tiles are missing?
+> Pavimenti Anna Ulivi
+> A rectangular floor with sides of integer length in decimeters must be completely covered with square tiles measuring 1 dm on each side. There are 1000 tiles available. All the tiles have been laid along the edge of the floor: there are 124 of them. If all 1000 tiles are used, the floor is not completely covered. In fact, the number of missing tiles is the maximum possible given the available data. How many tiles are missing?
 
-**Answer:** 0024
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2024#q09|src_gs_2024__Q09]]
 
 
 
@@ -353,20 +377,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0021
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples (Carlo Càssola)*
+*Triple Carlo Càssola*
 
 ![[src_gs_2024__prob10.png]]
 
-> Triples (Carlo Càssola)
-> An ordered triple of integers greater than 9 and less than 100 is targeted when, taking any two of its components, their sum equals the remaining number of the triple written with its digits reversed. How many ordered targeted triples are there?
+> Triple Carlo Càssola
+> An ordered triple of integers greater than 9 and less than 100 is "targeted" when, for any two components of it, their sum equals the remaining number in the triple written with its digits reversed. How many ordered triples of targeted numbers are there?
 
-**Answer:** 0021
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2024#q10|src_gs_2024__Q10]]
 
 
 
@@ -397,20 +424,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0148
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiles (Sandro Campigotto)*
+*Tessere Sandro Campigotto*
 
 ![[src_gs_2024__prob11.png]]
 
-> Tiles (Sandro Campigotto)
-> Three friends, Andrea, Barbara and Claudio, have filled a bag with 100 tiles, each marked with a number (from 1 to 100; each of the hundred numbers appears on at least one tile). Andrea draws a number, looks at it and puts it back in the bag. Then Claudio draws a number, looks at it and puts it back in the bag. Finally Barbara draws a number, looks at it and puts it back in the bag. What is the probability that one of the three has drawn the number that is exactly the sum of the two numbers drawn by the friends? [Give as the answer the probability multiplied by 10000.]
+> Tessere Sandro Campigotto
+> Three friends, Andrea, Barbara, and Claudio, have filled a bag with 100 cards, each marked with a number (from 1 to 100; each of the hundred numbers appears on at least one card). Andrea draws a number, looks at it, and puts it back in the bag. Then Claudio draws a number, looks at it, and puts it back in the bag. Finally, Barbara draws a number, looks at it, and puts it back in the bag. What is the probability that one of the three has drawn the number that is exactly the sum of the two numbers drawn by their friends? [Give as the answer the probability multiplied by 10000.]
 
-**Answer:** 0148
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2024#q11|src_gs_2024__Q11]]
 
 
 
@@ -437,20 +467,25 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1680
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shaped boxes (Sandro Campigotto)*
+*T-shaped Frames by Sandro Campigotto*
 
 ![[src_gs_2024__prob12.png]]
 
-> T-shaped boxes (Sandro Campigotto)
-> On a sheet of squared paper write 9 in a square. Then mark the three squares that follow the one with the digit 9 to the right, to the left and downwards: in total nine empty squares are marked. In how many different ways can you place all the digits from 0 to 8 in the nine empty squares so that in each of the three directions going outwards from the “central” square (the one with the digit 9) the digits are arranged in decreasing order?
+> T-Shaped Frames by Sandro Campigotto
+> On a grid paper, write 9 in one square. Then mark the three squares that follow the one containing the digit 9—to the right, to the left, and downward: in total, nine empty squares are marked. In how many different ways can you arrange all the digits from 0 to 8 in the nine empty squares so that in each of the three directions from the “central” square (the one with the digit
+> 9) Towards the outside, the digits should be arranged in order.
+> Decreasing?
 
-**Answer:** 1680
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2024#q12|src_gs_2024__Q12]]
 
 
 
@@ -473,20 +508,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0048
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In a triangle (Lorenzo Mazza)*
+*In a triangle Lorenzo Mazza*
 
 ![[src_gs_2024__prob13.png]]
 
-> In a triangle (Lorenzo Mazza)
-> In triangle ABC the angle AĈB is 42°. The points L, M and N, on the sides AB, BC and CA respectively, are such that LB = LM and LA = LN. Let O be the circumcentre of triangle MNC. What is the measure, in sexagesimal degrees, of angle OL̂M?
+> In a triangle Lorenzo Mazza
+> In triangle ABC, angle ACB is 42°. Points L, M, and N, on sides AB, BC, and CA respectively, satisfy LB = LM and LA = LN. Let O be the circumcenter of triangle MNC. What is the measure, in degrees, of angle OLM?
 
-**Answer:** 0048
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2024#q13|src_gs_2024__Q13]]
 
 
 
@@ -510,20 +548,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0210
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Torn-out pages (Carlo Càssola)*
+*Torn Pages Carlo Càssola*
 
 ![[src_gs_2024__prob14.png]]
 
-> Torn-out pages (Carlo Càssola)
-> The page numbers are printed on all the pages of a book, all written in Arabic numerals. One leaf (containing two consecutive pages) is torn out of the book. The sum of the numbers of the remaining pages is 22000. How many pages did the book originally have?
+> Torn Pages Carlo Càssola
+> On every page of a book, page numbers are printed, all in Arabic numerals. One sheet is torn out of the book (the sheet contains two consecutive pages). The sum of the page numbers of the remaining pages is 22000. How many pages did the book originally have?
 
-**Answer:** 0210
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2024#q14|src_gs_2024__Q14]]
 
 
 
@@ -552,20 +593,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 5242
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The present (Simon Ghizzo)*
+*The Gift Simon Ghizzo*
 
 ![[src_gs_2024__prob15.png]]
 
-> The present (Simon Ghizzo)
-> Gianfilippo has to wrap the birthday present for his friend Pieralfredo. The parcel is a rectangular box measuring 25 cm × 30 cm × 50 cm. Gianfilippo decides to close the wrapping of the parcel using two ribbons: a red one 3 cm wide and a yellow one 7 cm wide. He then uses the ribbons to wrap around the parcel, forming crosses on each of its faces, the yellow one placed perpendicular to the 30 cm edges and the red one to the others. What is the area, in cm^2, of the parcel not covered by the ribbons?
+> The Simon Ghizzo gift
+> Gianfilippo must wrap the birthday gift for his friend Pieralfredo. The package is a rectangular prism measuring 25 cm × 30 cm × 50 cm. Gianfilippo decides to close the wrapping of the package using two ribbons: one red ribbon 3 cm wide and one yellow ribbon 7 cm wide. He then uses the ribbons to encircle the package, forming crosses on each of its faces, with the yellow ribbon placed perpendicular to the 30 cm sides and the red ribbon perpendicular to the other sides. What is the area, in cm², of the part of the package not covered by the ribbons?
 
-**Answer:** 5242
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2024#q15|src_gs_2024__Q15]]
 
 
 
@@ -591,20 +635,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 3354
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nested quadrilaterals (Anna Ulivi)*
+*Nested Quadrilaterals Anna Ulivi*
 
 ![[src_gs_2024__prob16.png]]
 
-> Nested quadrilaterals (Anna Ulivi)
-> Let ABCD be a rectangle with base 48 m long and height 24 m long. Take the four midpoints of the sides, A\_1 on AB, B\_1 on BC, C\_1 on CD and D\_1 on DA, and consider the quadrilateral A\_1B\_1C\_1D\_1. On this one take the four midpoints of the sides and consider the quadrilateral so obtained. Continue up to the quadrilateral A\_(11)B\_(11)C\_(11)D\_(11). What is the perimeter, in mm, of the quadrilateral A\_(11)B\_(11)C\_(11)D\_(11)?
+> Nested Quadrilaterals Anna Ulivi
+> Let ABCD be a rectangle with a base of 48 m and a height of 24 m. Take the four midpoints of the sides: A₁ on AB, B₁ on BC, C₁ on CD, and D₁ on DA; then consider the quadrilateral A₁B₁C₁D₁. On this quadrilateral, take the four midpoints of its sides, and consider the quadrilateral thus obtained. Continue until the quadrilateral A_(11)B_(11)C_(11)D_(11) is reached. What is the perimeter of the quadrilateral A_(11)B_(11)C_(11)D_(11), in mm?
 
-**Answer:** 3354
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2024#q16|src_gs_2024__Q16]]
 
 
 
@@ -642,20 +689,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8559
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sinner and Medvedev (Andrea Giusto)*
+*Sinner and Medvedev Andrea Giusto*
 
 ![[src_gs_2024__prob17.png]]
 
-> Sinner and Medvedev (Andrea Giusto)
-> Sinner and Medvedev play the final of a tennis tournament. A tennis match between two players is divided into games. In a game the players try to win points; each point is won by one of the players; the players play one point at a time. A game ends with the victory of one of the players when he is the first to win at least 4 points and at least 2 points more than his opponent. For example, possible winning scores of a game are 4 points to 1, 5 to 3, 8 to 6. A game does not end when the score is, for example, 3 points to 0, 4 to 3, 8 to 7. Impossible scores are, for example, 5 to 1, 8 to 5. The records of previous matches between Sinner and Medvedev show that Sinner wins a point with probability 2/3 — consequently Medvedev wins it with probability 1/3. On the basis of the records, what is the probability that Sinner wins a game? [Give as the answer the probability multiplied by 10000.]
+> Sinner and Medvedev Andrea Giusto
+> Sinner and Medvedev are playing the final match of a tennis tournament. A tennis match between two players is divided into games. In a game, the players try to win points; each point is won by one of the players; the players play one point at a time. A game ends with one of the players winning when that player is the first to win at least 4 points and at least 2 more points than their opponent. For example, possible scores for a game win are 4 points to 1, 5 to 3, 8 to 6. A game does not end when the score is, for example, 3 points to 0, 4 to 3, 8 to 7. Impossible scores are, for example, 5 to 1, 8 to 5. Reports of previous encounters between Sinner and Medvedev show that Sinner wins a point with probability 2/3—consequently, Medvedev wins it with probability 1/3. Based on the reports, what is the probability that Sinner wins a game? [Give as the answer the probability multiplied by 10000.]
 
-**Answer:** 8559
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2024#q17|src_gs_2024__Q17]]
 
 
 
@@ -677,20 +727,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0001
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decimals (Lorenzo Mazza)*
+*Decimali Lorenzo Mazza*
 
 ![[src_gs_2024__prob18.png]]
 
-> Decimals (Lorenzo Mazza)
-> Consider the decimal representation n = 101010…101 obtained by alternating the digits 1 and 0, with the digit 1 appearing k times and the digit 0 appearing k − 1 times, with 2 ≤ k ≤ 1000. How many of the numbers n are prime?
+> Decimali Lorenzo Mazza
+> Consider the decimal representation n = 101010 … 101 obtained by alternating the digits 1 and 0, with the digit 1 appearing k times and the digit 0 appearing k−1 times, where 2 ≤ k ≤ 1000. How many of the numbers n are prime?
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2024#q18|src_gs_2024__Q18]]
 
 
 
@@ -738,28 +791,23 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0386
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A game (Matteo Littardi)*
+*A Game by Matteo Littardi*
 
 ![[src_gs_2024__prob19.png]]
 
-> A game (Matteo Littardi)
-> Eva invents a simple pastime: she writes a positive integer on the blackboard and replaces it with the sum of its digits, until she has a single digit. Playing in base 10, however, bores her very quickly: so she decides to repeat the same game, always with the same number n, but in different bases, possibly using some of the 26 letters of the English alphabet as higher digits. If, for example, she has to write a number in base 11, after the ten usual digits Eva uses the letter A as the eleventh. If she has to write a number in base 36 she uses all the letters of the English alphabet: so J will be the twentieth digit, K the twenty-first, W the thirty-third, X the thirty-fourth, Y the thirty-fifth. Having an appointment, Eva interrupts the game, notes the results obtained on a sheet of paper, which she leaves in the room, and erases all the calculations on the blackboard. Shortly afterwards Roberto comes in and adds some lines to the sheet. The sheet now reads:
-> • In base 11 I got 6.
-> • In base 29 I got S.
-> • In base 7 I got 2.
-> • In base 15 I got 8.
-> • In base 36 I got Z.
-> • In base 19 I got 8.
-> • In base 13 I got 2.
-> In fact, Roberto has inserted two lines, and the results he indicated are both wrong. What is the base-10 representation of the smallest number n that Eva could have used?
+> A Game by Matteo Littardi
+> Eva invents a simple pastime: she writes a positive integer on the blackboard and replaces it with the sum of its digits, continuing until she has a single digit. However, playing in base 10 bores her very quickly: she then decides to repeat the same game, always with the same number n but in different bases, possibly using some of the 26 letters of the English alphabet as higher digits. If, for example, she has to write a number in base 11, after the ten usual digits Eva uses the letter A as the eleventh digit. If she has to write a number in base 36, she uses all the letters of the English alphabet: thus J will be the twentieth digit, K the twenty-first, W the thirty-third, X the thirty-fourth, and Y the thirty-fifth. Having an engagement, Eva interrupts the game and writes down the results obtained on a sheet of paper, which she leaves in the room, and erases all the calculations on the blackboard. Shortly afterward, Roberto enters and adds some entries to the sheet. On the sheet it now says: • In base 11 I got 6. • In base 29 I got S. • In base 7 I got 2. • In base 15 I got 8. • In base 36 I got Z. • In base 19 I got 8. • In base 13 I got 2. In fact, Roberto has inserted two lines, and both of the results he indicated are incorrect. What is the base-10 representation of the smallest number n that Eva could have used?
 
-**Answer:** 0386
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2024#q19|src_gs_2024__Q19]]
 
 
 
@@ -785,20 +833,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0408
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Origami (Carlo Càssola)*
+*Origami Carlo Càssola*
 
 ![[src_gs_2024__prob20.png]]
 
-> Origami (Carlo Càssola)
-> Given an isosceles triangle ABC with base of length 24 cm and legs of length 38 cm, the midpoints M, N and P of the sides are marked and the three segments joining them are drawn. Triangle ABC is thus divided into four disjoint triangles. Folding ABC along the sides of MNP, a tetrahedron can be formed, since M, N and P are the midpoints of the sides of ABC. What is the volume of the tetrahedron in cm^3?
+> Origami Carlo Càssola
+> Given an isosceles triangle ABC with a base 24 cm long and legs 38 cm long, the midpoints M, N, and P of the sides are marked, and the three line segments joining them are drawn. Triangle ABC is thus divided into four disjoint triangles. By folding ABC along the sides of MNP, a tetrahedron can be formed since M, N, and P are the midpoints of the sides of ABC. What is the volume of the tetrahedron in cm³?
 
-**Answer:** 0408
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2024#q20|src_gs_2024__Q20]]
 
 
 
@@ -827,17 +878,20 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2024
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sums (Fabrizio Conca)*
+*Somme Fabrizio Conca*
 
 ![[src_gs_2024__prob21.png]]
 
-> Sums (Fabrizio Conca)
-> For n ≥ 0 let a\_n be the number of ways in which n can be written as an ordered sum of positive integers such that two adjacent addends are never equal. For example, clearly a\_1 = 1, and also a\_2 = 1. On the other hand, 5 can be written as 5, 1 + 4, 4 + 1, 2 + 3, 3 + 2, 2 + 1 + 2, 1 + 3 + 1 but not as 1 + 1 + 3 or 1 + 2 + 2: hence a\_5 = 7. Some other values of a\_n are a\_9 = 71, a\_(10) = 124, a\_(11) = 214, a\_(12) = 378, a\_(13) = 661 and a\_(14) = 1152. But what is a\_(15)?
+> Somme Fabrizio Conca
+> For n ≥ 0, let a_n be the number of ways in which n can be written as an ordered sum of positive integers such that no two adjacent addends are ever equal. For example, a_1 = 1 clearly, and so is a_2 = 1. Moreover, 5 can be written as 5, 1 + 4, 4 + 1, 2 + 3, 3 + 2, 2 + 1 + 2, 1 + 3 + 1, but not as 1 + 1 + 3 or 1 + 2 + 2: so a_5 = 7. Some other values of a_n are a_9 = 71, a_(10) = 124, a_(11) = 214, a_(12) = 378, a_(13) = 661, and a_(14) = 1152. But what is a_(15)?
 
-**Answer:** 2024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2024#q21|src_gs_2024__Q21]]

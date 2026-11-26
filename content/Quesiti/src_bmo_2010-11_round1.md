@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimuovere un intero da 1..n; media del restante è 163/4*
+*Rimuovi un numero intero da 1..n; la media dei restanti è 163/4*
 
-> Un numero viene rimosso dall'insieme di numeri interi da $1$ a $n$. La media dei restanti numeri è $\dfrac{163}{4}$. Determinare tutti i valori possibili del numero rimosso.
+> Un numero viene rimosso dall'insieme degli interi compresi tra $1$ e $n$. La media dei numeri rimanenti è $\dfrac{163}{4}$. Determinare tutti i valori possibili del numero rimosso.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2010-11_round1#q01|src_bmo_2010-11_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'insieme di cubo a con buco quadrato; il volume è numericamente uguale all'area superficiale*
+*Lato a del cubo con foro quadrato; il volume è numericamente uguale all'area superficiale*
 
-> Se $a$ è un numero intero maggiore di $1$. Un cubo di lato solido $a$ ha un buco quadrato di lato $s$ perforato direttamente da una faccia alla faccia opposta (in questo modo il foraggio rimuove un cuboide). Il volume del solido rimanente è numericamente uguale alla superficie totale del solido rimanente. Determinare tutti i possibili valori di $a$.
+> Sia $a$ un numero intero maggiore di $1$. Un cubo solido di lato $a$ presenta un foro quadrato di lato $s$, praticato direttamente da una faccia all'opposta (cosicché la punta foratrice asporta un parallelepipedo rettangolo). Il volume del solido rimanente è numericamente uguale all'area totale della superficie del solido rimanente. Determinare tutti i valori possibili di $a$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_bmo_2010-11_round1#q02|src_bmo_2010-11_round1__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo CAB=2CBA; linea CA incontra perp bisector di BC; prova AB=AC+CM*
+*Triangolo CAB=2CBA; la retta CA incontra la bisettrice perpendicolare di BC; dimostrare che AB=AC+CM*
 
-> Che $ABC$ sia un triangolo con $\angle CAB = 2\angle CBA$. $N$ è il punto in cui la linea $CA$ incontra il bisettore perpendicolare di $BC$. $M$ sia il punto medio di $BC$. Dimostra che $AB = AC + CM$.
+> Sia $ABC$ un triangolo con $\angle CAB = 2\angle CBA$. Sia $N$ il punto in cui la retta $CA$ incontra la mediatrice di $BC$. Sia $M$ il punto medio di $BC$. Dimostrare che $AB = AC + CM$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2010-11_round1#q03|src_bmo_2010-11_round1__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*8x8 tabella, monete rosse/bianche/blu; ordini di conteggio con rosso parso per riga e colonna*
+*Tavola 8x8, monete rosse/bianche/bleu; conta le disposizioni in cui ogni riga e ogni colonna ha un numero dispari di monete rosse*
 
-> Isaac ha una grande quantità di monete, e ne mette una su ogni quadrato di una scacchiera $8 \times 8$. Ogni moneta è rossa, bianca o blu. Un colore è chiamato un arredamento se, in ogni riga e colonna, ci sono un numero impar di monete rosse. Trova il numero di tali accordi.
+> Isaac ha una grande scorta di monete e ne colloca una su ciascuna casella di una scacchiera $8 \times 8$. Ogni moneta è rossa, bianca o blu. Una colorazione è detta disposizione se, in ogni riga e in ogni colonna, c'è un numero dispari di monete rosse. Determinare il numero di tali disposizioni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2010-11_round1#q04|src_bmo_2010-11_round1__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi si incontrano a L,M; P su S2; mostra che l'accordo QR in S1 passa attraverso il punto fisso*
+*Due cerchi si intersecano in L, M; P su S2; mostrare che la corda QR in S1 passa per un punto fisso*
 
-> I cerchi $S_1$ e $S_2$ si incontrano a $L$ e $M$. Let $P$ essere un punto su $S_2$. Lasciate che $PL$ e $PM$ rientrino in $S_1$ rispettivamente a $Q$ e $R$. Indicare che, poiché $P$ varia su $S_2$, la linea $QR$ passa attraverso un punto fisso.
+> I cerchi $S_1$ e $S_2$ si intersecano in $L$ e $M$. Sia $P$ un punto su $S_2$. Siano $PL$ e $PM$ tali che intersecano nuovamente $S_1$ rispettivamente in $Q$ e $R$. Dimostrare che, al variare di $P$ su $S_2$, la retta $QR$ passa per un punto fisso.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2010-11_round1#q05|src_bmo_2010-11_round1__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri a,b,c con a^2+b^2-c^2=ab-bc-ca; prova triangolo con angolo di 60 gradi*
+*Interi a, b, c tali che a² + b² - c² = ab - bc - ca; dimostrare che il triangolo ha un angolo di 60 gradi*
 
-> $a$ e $b$ siano numeri interi positivi e $c$ un numero intero positivo inferiore a $a + b$. Supponiamo che $a^2 + b^2 - c^2 = ab - bc - ca$. Indicare che $a$, $b$, $c$ sono i lati di un triangolo che contiene un angolo di $60^\circ$.
+> Siano $a$ e $b$ numeri interi positivi, e sia $c$ un numero intero positivo minore di $a + b$. Si supponga che $a^2 + b^2 - c^2 = ab - bc - ca$. Si dimostri che $a$, $b$, $c$ sono i lati di un triangolo che contiene un angolo di $60^\circ$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_bmo_2010-11_round1#q06|src_bmo_2010-11_round1__Q06]]

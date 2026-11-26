@@ -31,9 +31,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La composizione iterata ff...f=0 ha una soluzione reale data ac<0*
+*La composizione iterata f∘f∘…∘f=0 ammette una soluzione reale se ac<0*
 
-> Considera la funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=ax^2+bx+c$, con $a,b,c\in\mathbb{R}$ e $ac<0$. Prova che per ogni intero positivo $n$, l'equazione $$\underbrace{f(f(\cdots(f(x))\cdots))}_{n}=0$$ ha almeno una soluzione reale.
+> Si consideri la funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=ax^2+bx+c$, con $a,b,c\in\mathbb{R}$ e $ac<0$. Si dimostri che, per ogni intero positivo $n$, l'equazione
+> $$\underbrace{f(f(\cdots(f(x))\cdots))}_{n}=0$$
+> ha almeno una soluzione reale.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_nu_f2#q01|src_obm_2007_nu_f2__Q01]]
 
 
 
@@ -58,9 +67,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un grande sottoinsieme di {1,...,N} contiene un sottointervallo di densità aritmetica spostata*
+*Un grande sottoinsieme di {1,…,N} contiene un sottointervallo a densità aritmetica traslato*
 
-> Data una cifra integrale positiva $n$, indicare che esiste una cifra integrale positiva $N$ con la seguente proprietà: se $A$ è un sottoinsieme di $\{1,2,\ldots,N\}$ con almeno $N/2$ elementi, allora esiste una cifra integrale positiva $m\le N-n$ tale che $$|A\cap\{m+1,m+2,\ldots,m+k\}|\ge\frac{k}{2}$$ per tutti $k=1,2,\ldots,n$.
+> Dato un intero positivo $n$, dimostrare che esiste un intero positivo $N$ con la seguente proprietà: se $A$ è un sottoinsieme di $\{1,2,\ldots,N\}$ con almeno $N/2$ elementi, allora esiste un intero positivo $m\le N-n$ tale che
+> $$|A\cap\{m+1,m+2,\ldots,m+k\}|\ge\frac{k}{2}$$
+> per tutti gli $k=1,2,\ldots,n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_nu_f2#q02|src_obm_2007_nu_f2__Q02]]
 
 
 
@@ -89,11 +107,22 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limita di suprema del modulo radice più grande sui polinomi monomici normalizzati*
+*Limite del supremo del modulo della radice più grande sui polinomi monici normalizzati*
 
-> Considerare l'insieme $P_n$ di polinomi monetici di grado $n>0$ con coefficienti complessi $$p(x)=x^n+a_{n-1}x^{n-1}+\cdots+a_0$$ soddisfaci $|a_{n-1}|^2+|a_{n-2}|^2+\cdots+|a_0|^2=1$.
-> 
-> Per $p(x)\in P_n$, $r(p(x))$ è il massimo dei moduli delle radici di $p(x)$ e $$s(n)=\sup_{p\in P_n}r(p(x)).$$ determina $\displaystyle\lim_{n\to\infty}s(n)$.
+> Si consideri l'insieme $P_n$ dei polinomi monici di grado $n>0$ a coefficienti complessi
+> $$p(x)=x^n+a_{n-1}x^{n-1}+\cdots+a_0$$
+> Soddisfacente $|a_{n-1}|^2+|a_{n-2}|^2+\cdots+|a_0|^2=1$.
+>
+> Per $p(x)\in P_n$, si ponga $r(p(x))$ come il massimo dei moduli delle radici di $p(x)$, e si ponga
+> $$s(n)=\sup_{p\in P_n}r(p(x)).$$
+> Determinare $\displaystyle\lim_{n\to\infty}s(n)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_nu_f2#q03|src_obm_2007_nu_f2__Q03]]
 
 
 
@@ -117,9 +146,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*F continua con ff=exp cresce più velocemente di qualsiasi polinomio*
+*La f continua tale che f∘f=exp cresce più rapidamente di qualsiasi polinomio*
 
-> Che $f:\mathbb{R}\to\mathbb{R}$ sia una funzione continua tale che $f(f(x))=e^x$ per tutti $x\in\mathbb{R}$. Prove che per ogni intero positivo $n$, $$\lim_{x\to+\infty}\frac{f(x)}{x^n}=+\infty.$$
+> Sia $f:\mathbb{R}\to\mathbb{R}$ una funzione continua tale che $f(f(x))=e^x$ per ogni $x\in\mathbb{R}$. Dimostrare che, per ogni numero intero positivo $n$,
+> $$\lim_{x\to+\infty}\frac{f(x)}{x^n}=+\infty.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_nu_f2#q04|src_obm_2007_nu_f2__Q04]]
 
 
 
@@ -146,13 +183,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le radici quadrate simmetriche reali di una matrice simmetrica reale*
+*Conta le radici quadrate simmetriche reali di una matrice simmetrica reale*
 
-> $A$ sia una matrice simmetrica reale di ordine $n$, con valori propri $\lambda_1\le\lambda_2\le\cdots\le\lambda_n$ (conteggiata con moltiplicità). Determinare, in termini di $\lambda_1,\lambda_2,\ldots,\lambda_n$:
-> 
-> a) Il numero di matrici simmetriche reali $B$ dell'ordine $n$ tale che $B^2=A$.
-> 
-> b) Il numero di matrici reali $B$ dell'ordine $n$ tale che $B^2=A$.
+> Sia $A$ una matrice reale simmetrica di ordine $n$, con autovalori $\lambda_1\le\lambda_2\le\cdots\le\lambda_n$ (contati con molteplicità). Determinare, in termini di $\lambda_1,\lambda_2,\ldots,\lambda_n$:
+>
+> a) Il numero di matrici simmetriche reali $B$ di ordine $n$ tali che $B^2=A$.
+>
+> b) Il numero di matrici reali $B$ di ordine $n$ tali che $B^2=A$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_nu_f2#q05|src_obm_2007_nu_f2__Q05]]
 
 
 
@@ -177,6 +221,15 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*S(a,b)=S(c,d) se ab/cd è un quadrato razionale e S(a,b) ∩S(c,d) contiene non zero razionale*
+*S(a,b)=S(c,d) se e solo se ab/cd è un quadrato razionale e S(a,b)∩S(c,d) contiene un numero razionale non nullo*
 
-> Per $a,b\in\mathbb{Q}$, definire l'insieme $$S(a,b)=\{ax^2+by^2\mid x,y\in\mathbb{Q}\}$$ di razionali che possono essere scritti nella forma $ax^2+by^2$ con $x,y\in\mathbb{Q}$. Dati i razionali $a,b,c,d$ tutti non-zero, mostrare che $S(a,b)=S(c,d)$ se e solo se $\dfrac{ab}{cd}$ è il quadrato di un numero razionale e esiste un non-zero razionale $q\in S(a,b)\cap S(c,d)$.
+> Per $a,b\in\mathbb{Q}$, definire l'insieme
+> $$S(a,b)=\{ax^2+by^2\mid x,y\in\mathbb{Q}\}$$
+> di numeri razionali che possono essere scritti nella forma $ax^2+by^2$ con $x,y\in\mathbb{Q}$. Dati i numeri razionali $a,b,c,d$, tutti non nulli, dimostrare che $S(a,b)=S(c,d)$ se e solo se $\dfrac{ab}{cd}$ è il quadrato di un numero razionale e esiste un numero razionale non nullo $q\in S(a,b)\cap S(c,d)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_nu_f2#q06|src_obm_2007_nu_f2__Q06]]

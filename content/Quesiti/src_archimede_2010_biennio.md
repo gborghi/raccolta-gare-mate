@@ -36,9 +36,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum Monday for 45 consecutive days*
+*Maximum Mondays in 45 consecutive days*
 
-> How many Mondays can there be for 45 consecutive days?
+> How many Mondays can there be at most in 45 consecutive days?
 >
 > - **(A)** 5,
 > - **(B)** 6,
@@ -46,7 +46,10 @@ level: biennio
 > - **(D)** 8,
 > - **(E)** 9.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2010_biennio#q01|src_archimede_2010_biennio__Q01]]
 
 
 
@@ -81,7 +84,9 @@ level: biennio
 
 *Minimum socks for two of the same colour*
 
-> Emilio takes the socks out of a basket in the dark with six black socks, 14 blue socks and eight green socks. To make sure that among the socks you picked up there are two of the same color, the minimum number of socks you need to pick up is:
+> Emilio takes socks from a basket in the dark, in which there are: 6 black socks, 14
+> blue socks and 8 green socks. To be sure that among the socks he has taken there are
+> two of the same colour, the minimum number of socks he must take is:
 >
 > - **(A)** 3,
 > - **(B)** 4,
@@ -89,7 +94,11 @@ level: biennio
 > - **(D)** 15,
 > - **(E)** 21.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2010_biennio#q02|src_archimede_2010_biennio__Q02]]
 
 
 
@@ -128,11 +137,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance in a straight line between cage and bar with data angles*
+*Straight-line distance from doghouse to bar with given angles*
 
-![[src_archimede_2010_biennio__prob3.png]]
-
-> The figure next to it represents Pluto's journey to his nest, placed in A, to the bar, placed in D. The three segments AB, BC and CD are 100 meters long each. If the angle d ABC (within the triangle ABC) is 120° and the angle d BCD (within the triangle BCD) is 60°, how far in a straight line is the bar from the puppy?
+> The figure alongside shows the route taken by Pluto to go from his doghouse, located at A, to the bar, located at D. The three segments AB, BC and CD are each 100 metres long. If the angle ABC (interior to triangle ABC) is 120° and the angle BCD (interior to triangle BCD) is 60°, how far is the bar from the doghouse in a straight line?
 >
 > - **(A)** 100 m,
 > - **(B)** 100 √ 3 m,
@@ -140,7 +147,11 @@ level: biennio
 > - **(D)** 330 m,
 > - **(E)** 200 √ 3 m.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_biennio#q03|src_archimede_2010_biennio__Q03]]
 
 
 
@@ -170,9 +181,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right ordering of roots 2rad2, rad10, rad5+rad3*
+*Correct ordering of the radicals 2√2, √10, √5 + √3*
 
-> Which of these inequalities is correct?
+> Which of these series of inequalities is correct?
 >
 > - **(A)** 2 √ 2 < √ 10 < √ 5 + √ 3,
 > - **(B)** √ 5 + √ 3 < 2 √ 2 < √ 10,
@@ -180,7 +191,10 @@ level: biennio
 > - **(D)** √ 10 < 2 √ 2 < √ 5 + √ 3,
 > - **(E)** √ 5 + √ 3 < √ 10 < 2 √ 2.
 
-**Answer:** A
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2010_biennio#q04|src_archimede_2010_biennio__Q04]]
 
 
 
@@ -218,19 +232,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of tangent petals around the central circle*
+*Number of tangent petals around a central circle*
 
-![[src_archimede_2010_biennio__prob5.png]]
-
-> Matilde wants to give her mom a cardboard dagger. Cut a yellow circle and put it in the center. Then he cuts out some white circles, the same radius as the yellow circle, to make the petals. It arranges the petals as follows: the first tangent externally to the yellow circle, the second tangent externally to the yellow circle and the first petal, and so on until completing the round with the last petal which is tangent to the penultimate and the first petal, and the yellow circle. How many petals does the margherita have?
+> Matilde wants to give her mother a cardboard daisy. She cuts out a yellow circle and places it in the centre. Then she cuts out some white circles, of the same radius as the yellow circle, to make the petals. She arranges the petals as follows: the first externally tangent to the yellow circle, the second externally tangent to the yellow circle and to the first petal, and so on until the round is complete, with the last petal tangent to the second-to-last and to the first petal, and to the yellow circle. How many petals does the daisy have?
 >
-> - **(A)** 3,
-> - **(B)** 4,
-> - **(C)** 5,
-> - **(D)** 6,
-> - **(E)** This arrangement is impossible: the last petal necessarily overlaps with the first.
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** this arrangement is impossible: the last petal necessarily overlaps the first.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_biennio#q05|src_archimede_2010_biennio__Q05]]
 
 
 
@@ -262,17 +277,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement on three numbers with non-negative pair sums*
+*Statement that must be true for three reals with non-negative pairwise sums*
 
-> a, b and c are real numbers such that if you choose two, their sum is greater than or equal to zero. Which of the following is certainly true?
+> a, b and c are real numbers such that the sum of any two of them is greater than or equal to zero. Which of the following statements is certainly true?
 >
-> - **(A)** a · b · c ≥0,
-> - **(B)** At least one of the three numbers is zero.
-> - **(C)** At least one of the three numbers is strictly less than zero.
-> - **(D)** a, b and c are all greater than or equal to zero,
+> - **(A)** a · b · c ≥0
+> - **(B)** at least one of the three numbers is zero
+> - **(C)** at least one of the three numbers is strictly less than zero
+> - **(D)** a, b and c are all greater than or equal to zero
 > - **(E)** a + b + c ≥0.
 
-**Answer:** E
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_biennio#q06|src_archimede_2010_biennio__Q06]]
 
 
 
@@ -308,17 +327,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seven-state colours with three colours*
+*Three-colourings of seven states*
 
-> Concept imagines a flat, round world, and divides it into seven states, one central and the other six around it, as shown in the figure next to it. In addition, each state is given a letter (see figure). He wants to color each state red, or green, or yellow, so that two neighboring states don't have the same color. How many different ways can you do that?
+> Concetta imagines a flat, round world, and divides it into seven states, one in the centre and the other six around it, as shown in the figure. She also assigns each state a letter as its name (see the figure). She wants to colour each state red, or green, or yellow, so that two neighbouring states do not have the same colour. In how many different ways can she do this?
 >
-> - **(A)** No one.
-> - **(B)** 2,
-> - **(C)** 4,
-> - **(D)** 5,
+> - **(A)** none
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 5
 > - **(E)** 6.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_biennio#q07|src_archimede_2010_biennio__Q07]]
 
 
 
@@ -352,17 +375,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance AB from two walker meetings*
+*Distance from A to B given two meetings of walkers*
 
-> Alberto walks from A to B and then (without stopping in B) returns to A; Barbara walks from B to A and then (without stopping in A) returns to B. Both move in a straight line, with constant speed (but the two speeds are not necessarily the same). They leave at the same moment, and they meet for the first time, backwards, 700 meters from B, and a second time, while Alberto is going from B to A and Barbara from A to B, 400 meters from A. How far is A from B?
+> Alberto walks from A to B and then (without stopping at B) back to A; Barbara walks from B to A and then (without stopping at A) back to B. Both move in a straight line, at constant speed (but the two speeds are not necessarily equal). They set off at the same moment, and meet a first time, on the way out, 700 metres from B, and a second time, while Alberto is going from B to A and Barbara from A to B, 400 metres from A. How far is A from B?
 >
-> - **(A)** 900 meters,
-> - **(B)** 1,100 meters,
-> - **(C)** 1,700 meters,
-> - **(D)** 2,000 meters,
-> - **(E)** It's impossible to determine.
+> - **(A)** 900 metres
+> - **(B)** 1100 metres
+> - **(C)** 1700 metres
+> - **(D)** 2000 metres
+> - **(E)** it cannot be determined.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2010_biennio#q08|src_archimede_2010_biennio__Q08]]
 
 
 
@@ -393,9 +419,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers equal to 2 to 2010 not multiples of three*
+*Even numbers from 2 to 2010 that are not multiples of three*
 
-> Luke writes on the board all consecutive even numbers from 2 and 2010 (included). Then John deletes all numbers that are multiples of three. How many numbers are left?
+> Luca writes on the blackboard all the consecutive even numbers from 2 to 2010 (inclusive). Then
+> Giovanni erases all the numbers that are multiples of three. How many numbers remain?
 >
 > - **(A)** 670,
 > - **(B)** 710,
@@ -403,7 +430,11 @@ level: biennio
 > - **(D)** 905,
 > - **(E)** 1005.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_biennio#q09|src_archimede_2010_biennio__Q09]]
 
 
 
@@ -438,19 +469,24 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage reduction to return to the original number of lanes*
+*Percentage reduction needed to return to the initial number of lanes*
 
-> Silvanus, Neptune's richest man, owns a highway with many lanes. At a time of prosperity he decides to increase the number of lanes by 60%. Next, because of an ancient planetary law, it must reduce the number of lanes by a certain percentage of X. After you do that, you find yourself with the same number.
->
-> It's the tracks you had at the beginning. How much is X worth?
+> Silvano, the richest man on Nettuno, owns a highway with many lanes.
+> In a moment of prosperity he decides to increase the number of lanes by 60%.
+> Later, because of an ancient law of the planet, he must reduce the number of
+> lanes by a certain percentage X. After doing so he finds himself with the same number
+> of lanes as he had at the start. What is X?
 >
 > - **(A)** 15%,
-> - **(B)** 21,5%,
+> - **(B)** 21.5%,
 > - **(C)** 28%,
-> - **(D)** 37,5%,
+> - **(D)** 37.5%,
 > - **(E)** 60%.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2010_biennio#q10|src_archimede_2010_biennio__Q10]]
 
 
 
@@ -482,9 +518,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle perimeter with angles 30 and 105 and side 2*
+*Perimeter of a triangle with angles 30° and 105° and side 2*
 
-> In a triangle two angles measure 30° and 105° respectively and the side between them is 2 cm long. What is the size of the perimeter of the triangle?
+> In a triangle, two angles measure respectively 30° and 105°, and the side between them is 2 cm long. What is the measure of the perimeter of the triangle?
 >
 > - **(A)** (5 + √ 3) cm,
 > - **(B)** (2 + 2 √ 3 + √ 2) cm,
@@ -492,7 +528,11 @@ level: biennio
 > - **(D)** (5 + √ 2) cm,
 > - **(E)** (2 + 3 √ 3) cm.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_biennio#q11|src_archimede_2010_biennio__Q11]]
 
 
 
@@ -522,9 +562,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the sum of the sums of the following sums:
+*Sum 1+2+2+3+3+...+35+35+36*
 
-> What 's the sum: 1 + 2 + 2 + 3 + 3 + 4 + 4 + . . . + 35 + 35 + 36?
+> What is the value of the sum: 1 + 2 + 2 + 3 + 3 + 4 + 4 + . . . + 35 + 35 + 36?
 >
 > - **(A)** 990,
 > - **(B)** 1105,
@@ -532,7 +572,10 @@ This is the total amount of the sum of the sums of the following sums:
 > - **(D)** 1395,
 > - **(E)** 1505.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2010_biennio#q12|src_archimede_2010_biennio__Q12]]
 
 
 
@@ -563,9 +606,9 @@ This is the total amount of the sum of the sums of the following sums:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits by tangent natural numbers from 1 to 2010*
+*Number of digits when concatenating the natural numbers from 1 to 2010*
 
-> Let's write all the natural numbers from 1 to 2010 (including) one after the other to form a new natural number; how many digits does this number have?
+> We write all the natural numbers from 1 to 2010 (inclusive) one after another in order to form a new natural number; how many digits does this number have?
 >
 > - **(A)** 2010,
 > - **(B)** 3540,
@@ -573,7 +616,11 @@ This is the total amount of the sum of the sums of the following sums:
 > - **(D)** 6933,
 > - **(E)** 7253.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_biennio#q13|src_archimede_2010_biennio__Q13]]
 
 
 
@@ -628,31 +675,11 @@ This is the total amount of the sum of the sums of the following sums:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABG triangle area from diagonal to regular hexagon*
+*Area of triangle ABG in a regular hexagon of side 1 cm*
 
 ![[src_archimede_2010_biennio__prob14.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0.5,0.866);
-  \coordinate (B) at (1,0);
-  \coordinate (C) at (0.5,-0.866);
-  \coordinate (D) at (-0.5,-0.866);
-  \coordinate (E) at (-1,0);
-  \coordinate (F) at (-0.5,0.866);
-  \draw (A)--(B)--(C)--(D)--(E)--(F)--cycle;
-  \node[above] at (A) {$A$};
-  \node[right] at (B) {$B$};
-  \node[below] at (C) {$C$};
-  \node[below] at (D) {$D$};
-  \node[left] at (E) {$E$};
-  \node[above] at (F) {$F$};
-\end{tikzpicture}
-\end{document}
-```
-
-> ABCDEF is a regular hexagon with a side length of 1 cm. G is the intersection point between the AC and BE diagonals. How much is the area of the ABG triangle?
+> ABCDEF is a regular hexagon of side 1 cm. G is the intersection of the diagonals AC and BE. What is the area of triangle ABG?
 >
 > - **(A)** √ 3−1 2 cm2,
 > - **(B)** √ 3 8 cm2,
@@ -660,7 +687,12 @@ This is the total amount of the sum of the sums of the following sums:
 > - **(D)** 1+ √ 3 12 cm2,
 > - **(E)** √ 3 4 cm2.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2010_biennio#q14|src_archimede_2010_biennio__Q14]]
 
 
 
@@ -689,7 +721,7 @@ This is the total amount of the sum of the sums of the following sums:
 <div class="qlang-split" data-lang="en"></div>
 
 
-The number of digits 112233445566778899 divided by 11*
+*Number of digits of 112233445566778899 divided by 11*
 
 > How many digits does the number (112233445566778899)/11 have?
 >
@@ -699,7 +731,10 @@ The number of digits 112233445566778899 divided by 11*
 > - **(D)** 19,
 > - **(E)** 23.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2010_biennio#q15|src_archimede_2010_biennio__Q15]]
 
 
 
@@ -730,9 +765,9 @@ The number of digits 112233445566778899 divided by 11*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers with the combined sum of tens and hundreds*
+*Four-digit numbers whose units digit is the sum of the tens and hundreds digits*
 
-> How many are the four-digit natural numbers, such that the number of units is the sum of the number of tens and the number of hundreds?
+> How many four-digit natural numbers are there such that the units digit is the sum of the tens digit and the hundreds digit?
 >
 > - **(A)** 315,
 > - **(B)** 495,
@@ -740,7 +775,11 @@ The number of digits 112233445566778899 divided by 11*
 > - **(D)** 720,
 > - **(E)** 900.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_biennio#q16|src_archimede_2010_biennio__Q16]]
 
 
 
@@ -775,11 +814,12 @@ The number of digits 112233445566778899 divided by 11*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DEF triangle area in an equilateral triangle with perpendicular*
+*Area of triangle DEF in an equilateral triangle with a perpendicular*
 
-![[src_archimede_2010_biennio__prob17.png]]
-
-> In an ABC equilateral triangle with a side length of 3 m, we take points D, E and F on the sides AC, AB and BC respectively, so that the segments AD and FC measure 1 m and the DE segment is perpendicular to AC. What is the area of the DEF triangle?
+> In an equilateral triangle ABC with side length 3 m,
+> take the points D, E and F on the sides AC, AB and BC respectively, so that the segments AD and FC measure 1 m
+> and the segment DE is perpendicular to AC. How much is
+> the area of triangle DEF?
 >
 > - **(A)** 3 √ 3 4 m2,
 > - **(B)** √ 3 2 m2,
@@ -787,7 +827,11 @@ The number of digits 112233445566778899 divided by 11*
 > - **(D)** 3 2 m2,
 > - **(E)** 4 √ 3 3 m2.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_biennio#q17|src_archimede_2010_biennio__Q17]]
 
 
 
@@ -820,17 +864,24 @@ The number of digits 112233445566778899 divided by 11*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Guilty among five suspects with statements
+*Guilty among five suspects with statements*
 
-> A famous investigator is looking for the culprit of a murder among five suspects: Anna, Bruno, Cecilia, Dario and Henry. He knows that the culprit always lies and the others always tell the truth. Anna says, "The culprit is a man!" Cecilia says, "It was Anna or it was Henry". Finally, Henry says, "If Bruno is guilty, then Anna is innocent". Who committed the murder?
+> A famous detective is looking for the culprit of a murder among five suspects: Anna, Bruno, Cecilia, Dario and Enrico. He knows that the culprit always lies
+> and the others always tell the truth. Anna says: “The culprit is a male!”.
+> Cecilia says: “It was Anna or it was Enrico”. Finally Enrico says: “If Bruno
+> is guilty then Anna is innocent”. Who committed the murder?
 >
-> - **(A)** Anna, what are you doing?
-> - **(B)** Bruno, what are you doing?
-> - **(C)** Cecilia, what are you doing?
-> - **(D)** Dario, what are you doing?
-> - **(E)** I'm going to go.
+> - **(A)** Anna,
+> - **(B)** Bruno,
+> - **(C)** Cecilia,
+> - **(D)** Dario,
+> - **(E)** Enrico.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_biennio#q18|src_archimede_2010_biennio__Q18]]
 
 
 
@@ -861,17 +912,21 @@ Guilty among five suspects with statements
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interest pairs greater than 1 with x^2+y=xy+1*
+*Integer pairs greater than 1 satisfying x^2+y=xy+1*
 
-> How many pairs (x, y), made up of integers strictly greater than 1, are such that: x2 + y = xy + 1?
+> How many pairs (x, y), consisting of integers strictly greater than 1, are such that: x2 + y = xy + 1?
 >
-> - **(A)** None of them.
-> - **(B)** One of them.
-> - **(C)** two,
-> - **(D)** three,
-> - **(E)** More than four.
+> - **(A)** none
+> - **(B)** one
+> - **(C)** two
+> - **(D)** three
+> - **(E)** more than four.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2010_biennio#q19|src_archimede_2010_biennio__Q19]]
 
 
 
@@ -902,14 +957,17 @@ Guilty among five suspects with statements
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal square side consisting of an equilateral triangle*
+*Side of the square dissected from an equilateral triangle*
 
-> Cyrus cuts an equilateral triangle made of paper, on the side 20 cm, into pieces that he then places on his table so that they do not overlap and form a square. How long is the side of the square?
+> Ciro cuts a paper equilateral triangle of side 20 cm into some pieces, which he then arranges on his table so that they do not overlap and form a square. How long is the side of the square?
 >
-> - **(A)** 20 cm,
-> - **(B)** 10 4√ 3 cm,
-> - **(C)** 15 cm,
-> - **(D)** 8 4√ 2 cm,
-> - **(E)** 10 √ 3 cm. I'm not going to say anything about it. Italian Mathematical Union Ministry of Public Instruction Higher Normal School The Games of Archimedes - Triennial Competition 17 November 2010
+> - **(A)** 20 cm
+> - **(B)** 10 4√ 3 cm
+> - **(C)** 15 cm
+> - **(D)** 8 4√ 2 cm
+> - **(E)** 10 √ 3 cm. MATHEMATICS OLYMPIAD PROJECT U.M.I. ITALIAN MATHEMATICAL UNION MINISTRY OF PUBLIC EDUCATION SCUOLA NORMALE SUPERIORE the Giochi di Archimede - Senior paper 17 November 2010
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_biennio#q20|src_archimede_2010_biennio__Q20]]

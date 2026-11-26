@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le ortografie di OLYMPIADS da digitare da un tipografo non affidabile*
+*Quante grafie possibili di OLYMPIADS può produrre il dattilografo*
 
-> Un tipografo poco affidabile può garantire che quando cerca di digitare una parola con lettere diverse, ogni lettera della parola apparirà esattamente una volta in quello che digitano, e ogni lettera si verificherà al massimo una lettera in ritardo (anche se può verificarsi più di una lettera in anticipo). Pertanto, quando si tenta di digitare MATHS, il typista può digitare MATHS, MTAHS o TMASH, ma non ATMSH.
-> 
-> Determinare, con la prova, il numero di possibili ortografie di OLYMPIADS che potrebbero essere digitate.
+> Un dattilografo inaffidabile può garantire che, quando cerca di battere una parola con lettere diverse, ogni lettera della parola comparirà esattamente una volta in ciò che batte, e ciascuna lettera capiterà al più una posizione in ritardo (benché possa capitare più di una posizione in anticipo). Così, cercando di battere MATHS, il dattilografo può battere MATHS, MTAHS o TMASH, ma non ATMSH.
+>
+> Determinare, con dimostrazione, il numero di grafie possibili di OLYMPIADS che potrebbero essere battute.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2024#q01|src_bmo1_2024__Q01]]
 
 
 
@@ -62,13 +69,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con ricorrenza implica a_0, a_1 numeri interi consecutivi*
+*Se $a_{2023}$ e $a_{2024}$ sono consecutivi, anche $a_0$ e $a_1$ lo sono*
 
-> La sequenza di integri $a_0, a_1, \ldots$ ha la proprietà che per ogni $i \geq 2$, $a_i$ è $2a_{i-1} - a_{i-2}$ o $2a_{i-2} - a_{i-1}$.
-> 
-> Dato che $a_{2023}$ e $a_{2024}$ sono numeri interi consecutivi, dimostrare che $a_0$ e $a_1$ sono numeri interi consecutivi.
-> 
-> *(Nota che 6 e 7 sono numeri interi consecutivi, così come 7 e 6.) *
+> La successione di interi $a_0, a_1, \ldots$ ha la proprietà che per ogni $i \geq 2$, $a_i$ è uguale a $2a_{i-1} - a_{i-2}$ oppure a $2a_{i-2} - a_{i-1}$.
+>
+> Sapendo che $a_{2023}$ e $a_{2024}$ sono interi consecutivi, dimostrare che $a_0$ e $a_1$ sono interi consecutivi.
+>
+> *(Si noti che 6 e 7 sono interi consecutivi, come lo sono 7 e 6.)*
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2024#q02|src_bmo1_2024__Q02]]
 
 
 
@@ -93,11 +107,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construzione del bisettore angolare e del cerchio implica BZ perpendicolare all'AC*
+*Dimostrare che $BZ$ è perpendicolare ad $AC$*
 
-> Che $ABC$ sia un triangolo con $\angle ACB < \angle BAC < 90^\circ$. Il punto $X$ e il punto $Y$ devono essere ponti rispettivamente su $AC$ e sul cerchio $ABC$ in modo tale che $X, Y \neq A$ e $BX = BY = BA$. La linea $XY$ incrocia nuovamente il cerchio $ABC$ a $Z$.
-> 
-> Prova che $BZ$ è perpendicolare a $AC$.
+> Sia $ABC$ un triangolo con $\angle ACB < \angle BAC < 90^\circ$. Siano $X$ e $Y$ punti rispettivamente su $AC$ e sulla circonferenza $ABC$ tali che $X, Y \neq A$ e $BX = BY = BA$. La retta $XY$ seca di nuovo la circonferenza $ABC$ in $Z$.
+>
+> Dimostrare che $BZ$ è perpendicolare ad $AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2024#q03|src_bmo1_2024__Q03]]
 
 
 
@@ -120,9 +141,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli integri positivi n in modo tale che n volte 2^n più 1 sia un quadrato perfetto*
+*Interi positivi $n$ tali che $n \times 2^n + 1$ è un quadrato*
 
-> Trova tutti gli integri positivi $n$ in modo tale che $n \times 2^n + 1$ sia un quadrato.
+> Trovare tutti gli interi positivi $n$ tali che $n \times 2^n + 1$ sia un quadrato.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2024#q04|src_bmo1_2024__Q04]]
 
 
 
@@ -147,11 +175,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*1000 punti rossi/blu sul cerchio; trovare i difetti minimi per l'adiacenza*
+*Il minimo numero di difetti in una disposizione di 1000 punti rossi o blu*
 
-> Un artista organizza 1000 punti uniformemente intorno a un cerchio, con ogni punto rosso o blu. Un critico guarda l'opera d'arte e conta *errori*: ogni volta che due punti rossi sono adiacenti è un errore, e ogni volta che due punti blu sono esattamente due a distanza (cioè hanno esattamente un punto tra di loro) è un altro.
-> 
-> Qual è il minor numero di difetti che il critico potrebbe trovare?
+> Un artista dispone 1000 punti a distanze uguali su una circonferenza, e ciascun punto è rosso o blu. Un critico guarda l'opera e conta i *difetti*: ogni volta che due punti rossi sono adiacenti è un difetto, e ogni volta che due punti blu distano esattamente due posti (cioè hanno esattamente un punto in mezzo) è un altro difetto.
+>
+> Qual è il minimo numero di difetti che il critico potrebbe trovare?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2024#q05|src_bmo1_2024__Q05]]
 
 
 
@@ -176,8 +211,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono converso con lati uguali e diagonali uguali di salto a 3; quando devono essere uguali gli angoli?*
+*Per quali $n > 4$ il poligono ha necessariamente angoli uguali*
 
-> Per alcuni numeri interi $n > 4$ un poligono converso ha vertici $v_1, v_2, \ldots, v_n$ in quell'ordine ciclico. Tutti i lati sono della stessa lunghezza. Ha anche la proprietà che le lunghezze dei diagonali $v_1v_5, v_2v_5, \ldots, v_{n-3}v_n, v_{n-2}v_1, v_2$ e $v_nv_3$ sono tutte uguali.
-> 
-> Per quale $n$ è necessariamente il caso che il poligono abbia angoli uguali?
+> Per qualche intero $n > 4$ un poligono convesso ha vertici $v_1, v_2, \ldots, v_n$ in quell'ordine ciclico. Tutti i lati hanno la stessa lunghezza. Ha anche la proprietà che le lunghezze delle diagonali $v_1v_5, v_2v_5, \ldots, v_{n-3}v_n, v_{n-2}v_1, v_2$ e $v_nv_3$ sono tutte uguali.
+>
+> Per quali $n$ il poligono ha necessariamente angoli uguali?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2024#q06|src_bmo1_2024__Q06]]

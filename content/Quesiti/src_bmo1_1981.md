@@ -31,11 +31,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il cerchio ortocentrico taglia i lati del triangolo medio, dimostrando somme uguali*
+*Circonferenza dell'ortocentro incontra i lati del triangolo mediale, dimostrare somme uguali*
 
-> $H$ è l'ortocentro del triangolo $ABC$. I punti intermedi di $BC$, $CA$ e $AB$ sono rispettivamente $A'$, $B'$ e $C'$. Un cerchio con centro $H$ taglia i lati del triangolo $A'B'C'$ (prodotto se necessario) in sei punti, $D_1$, $D_2$ su $B'C'$, $E_1$, $E_2$ su $C'A'$ e $F_1$, $F_2$ su $A'B'$.
+> $H$ è l'ortocentro del triangolo $ABC$. I punti medi di $BC$, $CA$, $AB$ sono rispettivamente $A'$, $B'$, $C'$. Una circonferenza di centro $H$ incontra i lati del triangolo $A'B'C'$ (prolungati se necessario) in sei punti, $D_1$, $D_2$ su $B'C'$, $E_1$, $E_2$ su $C'A'$, e $F_1$, $F_2$ su $A'B'$.
 > 
-> Prove che $AD_1 + AD_2 = BE_1 + BE_2 = CF_1 + CF_2$.
+> Dimostrare che $AD_1 + AD_2 = BE_1 + BE_2 = CF_1 + CF_2$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1981#q01|src_bmo1_1981__Q01]]
 
 
 
@@ -62,11 +68,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa alternativa di prodotti di numeri interi consecutivi divisibili per n!*
+*Somma alternata di prodotti di interi consecutivi divisibile per n!*
 
-> $m$ e $n$ sono integri positivi. $S_n$ è la somma dei termini $m$ di $$-(n-1)n(n+1) + (n+1)(n+2)(n+3) - (n+3)(n+4)(n+5) + \cdots$$ in cui i termini si alternano in segno e ciascuno, dopo il primo, è il prodotto di numeri interi consecutivi con l'ultimo ma uno omesso.
+> $m$ e $n$ sono interi positivi. $S_n$ è la somma di $m$ termini di
+> $$-(n-1)n(n+1) + (n+1)(n+2)(n+3) - (n+3)(n+4)(n+5) + \cdots$$
+> dove i termini alternano di segno e, dopo il primo, ciascuno è il prodotto di interi consecutivi con l'avantpenultimo omesso.
 > 
-> Provare che $S_n$ è divisibile da $n!$, ma non necessariamente da $n!(n+1)$.
+> Dimostrare che $S_n$ è divisibile per $n!$ ma non necessariamente per $n!(n+1)$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1981#q02|src_bmo1_1981__Q02]]
 
 
 
@@ -93,13 +107,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove due disuguaglianze per i valori reali positivi a, b, c*
+*Dimostrare due disuguaglianze per numeri reali positivi a, b, c*
 
-> $a$, $b$, $c$ sono numeri positivi. Prove questo .
+> $a$, $b$, $c$ sono numeri positivi. Dimostrare che
 > 
 > (i) $a^3 + b^3 + c^3 \ge a^2b + b^2c + c^2a$,
 > 
 > (ii) $abc \ge (a+b-c)(b+c-a)(c+a-b)$.
+
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1981#q03|src_bmo1_1981__Q03]]
 
 
 
@@ -124,11 +144,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ribbito su tetraedro tagliato in sezioni incrociate quadrilaterali da un piano*
+*Bound on tetrahedra cut in quadrilateral cross-sections by a plane*
 
-> I punti $n$ sono dati in modo tale che nessun aereo passi attraverso quattro di essi. $S$ è l'insieme di tetraedri le cui vertici sono $4$ dei punti $n$. Un piano non passa attraverso nessuno dei punti $n$.
+> $n$ punti sono dati in modo che nessun piano passi per quattro di essi. $S$ è l'insieme dei tetraedri i cui vertici sono $4$ dei $n$ punti. Un piano non passa per nessuno dei $n$ punti.
 > 
-> Prova che non può tagliare più di $\dfrac{n^2(n-2)}{4}$ del tetraedro di $S$ in sezioni incrociate quadrilaterali.
+> Dimostrare che non può tagliare più di $\dfrac{n^2(n-2)}{4}$ dei tetraedri di $S$ in sezioni a quattro lati.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1981#q04|src_bmo1_1981__Q04]]
 
 
 
@@ -151,9 +177,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare il valore più piccolo di 12^m - 5^n per i numeri interi positivi m, n*
+*Trovare il valore minimo di |12^m - 5^n| per interi positivi m, n*
 
-> Trova, con prova, il minimo valore possibile di $\left|12^m - 5^n\right|$, dove $m$ e $n$ sono interi positivi.
+> Dimostrare che, per interi positivi $m$ e $n$, il valore minimo possibile di $\left|12^m - 5^n\right|$ è ...
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1981#q05|src_bmo1_1981__Q05]]
 
 
 
@@ -182,8 +214,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma di a_i^k / P_i su diversi interi non-zero è sempre un intero*
+*Somma di $a_i^k / P_i$ su interi non nulli distinti è sempre un intero*
 
-> $a_1, a_2, \ldots, a_n$ sono diversi numeri interi non zero. $$P_i = \prod_{j \ne i}(a_i - a_j)$$ è il prodotto dei fattori $(n-1)$ $(a_i - a_1)$, $(a_i - a_2)$, $\ldots$, $(a_i - a_{n-1})$, escluso il fattore zero $(a_i - a_i)$.
+> $a_1, a_2, \ldots, a_n$ sono interi non nulli distinti.
+> $$P_i = \prod_{j \ne i}(a_i - a_j)$$
+> è il prodotto dei $(n-1)$ fattori $(a_i - a_1)$, $(a_i - a_2)$, $\ldots$, $(a_i - a_{n-1})$, escludendo il fattore nullo $(a_i - a_i)$.
 > 
-> Prova che se $k$ è un intero non negativo, $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$ è un intero.
+> Dimostrare che se $k$ è un intero non negativo,
+> $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$
+> è un intero.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1981#q06|src_bmo1_1981__Q06]]

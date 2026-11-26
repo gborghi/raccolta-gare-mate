@@ -35,11 +35,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the droid prism (cut to A,B,D')*
+*The volume of the droide, if the smaller piece cut by the plane through A, B and D′ has volume 1000*
 
-> The Merchant Foundation uses prism-shaped ZFC-class droids with two regular pentagons ABCDE and A′B′C′D′E′ as bases (so that the pins are AA′, BB′, CC′, DD′ and EE′). Ambassador Qui-Gob Binn is attacked for treason by a droid patrol during a diplomatic mission aboard a Foundation ship. In the collision, one of the droids is cut in two by Qui-Gob Binn's laser line along a passing plane for A, B and D′. Determine the volume of the droid knowing that the volume of the smaller of these two parts is equal to 1000.
+> [⋆] Thoroughly smashed droids
+> The Merchants' Foundation uses ZFC-class droids in the shape of a prism, with two regular pentagons ABCDE and A′B′C′D′E′ as bases (so that the edges are AA′, BB′, CC′, DD′ and EE′). Ambassador Qui-Gob Binn is treacherously attacked by a patrol of droids during a diplomatic mission on a Foundation ship. In the fight, one of the droids is cut into two parts by Qui-Gob Binn's laser line, along a plane through A, B and D′. Determine the volume of the droid, knowing that the volume of the smaller of these two parts is 1000.
 
-**Answer:** 2236
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q01|src_cesenatico_2016_finale__Q01]]
 
 
 
@@ -69,11 +74,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max sum of the areas of uncorrelated whole rectangular triangles*
+*The greatest possible sum of the areas of the tables, no two congruent even by reflection*
 
-> To celebrate the victory over the Merchant's Foundation, there's a big party on Naboole. The banquet tables are in the shape of rectangular triangles with sides of full length. In addition, each table has at least one square whose length is a prime number less than 20. Queen Atiyala insisted that there should be no two tables with congruent shapes (on Naboole putting two tables equal is like putting none). What is the sum of the areas of the tables at the banquet? Two triangles are considered congruent if they can overlap with each other through rotations, translations and symmetries.
+> A great feast on Naboole
+> To celebrate the victory over the Merchants' Foundation, a great feast is under way on Naboole. The banquet tables have the shape of right-angled triangles with sides of integer length. Moreover every table has at least one leg whose length is a prime number less than 20. Queen Atiyala has insisted that there be no two tables of congruent shape (on Naboole, putting out two identical tables is like putting out none). What is the greatest possible sum of the areas of the tables present at the banquet? Two triangles are regarded as congruent if they can be superimposed on each other by rotations, translations and reflections.
 
-**Answer:** 3930
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_finale#q02|src_cesenatico_2016_finale__Q02]]
 
 
 
@@ -101,11 +111,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Produced PA×PC in the isosceles trapezoid (angles)*
+*The product of the lengths of PA and PC*
 
-> The missing planet within the ABCD trapezoid, the planet you will find. Master Yoneda, speaking by inversion, points to Obi-Van Kampenobi the location of the planet Rudino. The trapezoid is isosceles. Bases AB and CD 32 and 18, respectively, are long. At a point P such that PAD = PBA and PDA = PCD, the planet is located.  Obi-Van discovers from his friend TEX that the area of the ABP triangle is 192. How much is the product of PA and PC lengths?
+> [⋆] The vanished planet
+> "Inside the trapezium ABCD, the planet you will find." Master Yoneda, speaking in inversions, indicates to Obi-Van Kampenobi the location of the planet Rudino. "The trapezium, isosceles it is. The bases AB and CD, 32 and 18 long respectively, they are. At a point P such that ∠PAD = ∠PBA and ∠PDA = ∠PCD, the planet lies." Obi-Van learns from his friend TEX that the area of triangle ABP is 192. What is the product of the lengths of PA and PC worth?
 
-**Answer:** 0300
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q03|src_cesenatico_2016_finale__Q03]]
 
 
 
@@ -134,11 +149,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Total clones for the first 100 months (block recurrence)
+*How many clones were produced in all in the first 100 months*
 
-> The army of clones Master Sisifo-Denis commissioned Rudino's clone workers to create an army of the Republic. During the ninth month, xn clones are produced. The first month is used to analyze Rango Fett's DNA, so x1 = 0. From the following month, production follows the following rules: x4n = x4n−1 +2n−1; x4n+1 = x4n +2n+1; x4n+2 = x4n+1 +2n; x4n+3 = x4n+2 +2n+2 (with integer n). How many clones were produced in the first 100 months?
+> The clone army
+> Master Sisifo-Denis has commissioned the cloners of Rudino to create an army of the Republic. In the course of the nth month, xn clones are produced. The first month is spent analysing the DNA of Rango Fett, so x1 = 0. From the following month, production obeys the following rules: x4n = x4n−1 +2n−1; x4n+1 = x4n +2n+1; x4n+2 = x4n+1 +2n; x4n+3 = x4n+2 +2n+2 (with n an integer). How many clones were produced in all in the first 100 months?
 
-**Answer:** 4525
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_finale#q04|src_cesenatico_2016_finale__Q04]]
 
 
 
@@ -169,11 +189,18 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(128) for a polynomial of degree 5 with p(2^k) =1/(1-2^k)*
+*p(128), for a degree-5 polynomial whose values at 2k are given by a broken extraction*
 
-> Young Banachin, a student of Obi-Van, must hone several skills to become a differential geometer; one of them is to perceive the values of certain polynomials using Force. To train his student, one day Obi-Van thinks of a polynomial p(x) of grade 5 and asks Banachin to determine p(128). The young PDE-wan is not yet skilled enough to discover it directly, but he can sense that p(2k) = 1 1−2k for k = 1, 2, . . . , 6. What's the answer to Obi-Van's question?
+> [⋆] GeDi training
+> Young Banachin, Obi-Van's pupil, must sharpen various gifts in order to become a Differential Geometer; one of these consists in sensing the values of certain polynomials by means of the Force. To train his pupil, one day Obi-Van thinks of a polynomial p(x) of degree 5 and asks Banachin to determine p(128). The young PDE-wan is not yet skilful enough to discover it directly, but he manages to sense that p(2k) =
+> 1
+> 1−2k for k = 1, 2, . . . , 6. What is the answer to Obi-Van's question?
 
-**Answer:** 6513
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_finale#q05|src_cesenatico_2016_finale__Q05]]
 
 
 
@@ -205,13 +232,16 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max MCD(m,n) by exchanging the first/last digit + n digits*
+*The greatest possible d, plus the number of its digits*
 
-> On the planet Geodesis, between one evil plan and the other, Count Sudooku delights in writing numbers of up to 10 digits with the first and last digits different between them and from zero. Next to each number m, he writes the number n obtained from m by exchanging the first and last digits, and then notes the maximum common divisor d between m and n. Determine the maximum possible value for d and add it to the number of its digits. Team competition 2016  National final  Problem texts  1/5
-> 
-> 2/5 Team competition 2016  National final  Problems
+> Diabolical Sudooku
+> On the planet Geodesis, between one evil plan and the next, Count Sudooku amuses himself by writing the numbers of at most 10 digits whose first and last digits are different from each other and from zero. Beside each number m he writes the number n obtained from m by swapping the first and the last digit, and then notes the highest common factor d of m and n. Determine the greatest possible value of d and add to it the number of its digits.
 
-**Answer:** 0008
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_finale#q06|src_cesenatico_2016_finale__Q06]]
 
 
 
@@ -239,11 +269,15 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Visible surface of the six prism tower*
+*The visible surface of the six-level tower*
 
-> The Council's headquarters The Tower of the High Council, on the planet Coruscantor, is built on six levels. The bottom one is shaped like a straight prism whose base is a regular octagon on side 10, and whose height is its length 10. The subsequent levels are also in the form of straight prisms, the bases of which are (in order) hexagonal, hexagonal, pentagonal, square and triangular. Compared to the previous one, each level has double height and half the base sides. Furthermore, the axes of the different prisms coincide. What is the visible surface of the tower?
+> The seat of the Council
+> The Tower of the High Council, on the planet Coruscantor, is built on six levels. The lowest has the shape of a right prism whose base is a regular octagon of side 10, and whose height is in turn 10 long. The subsequent levels also have the shape of right prisms, whose bases are (in order) heptagonal, hexagonal, pentagonal, square and triangular. Compared with the previous one, each level has double the height and base sides half as long. Moreover the axes of the various prisms coincide. What does the visible surface of the tower measure?
 
-**Answer:** 3782
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q07|src_cesenatico_2016_finale__Q07]]
 
 
 
@@ -275,11 +309,16 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First four digits sum of Fibonacci codes (control)*
+*The first four digits of the number obtained in the quality check on the 1792nd droid*
 
-> [⋆]The separatist Su Mustafausdorff mine, a volcanic planet where each pair of dots is separated by two craters, has an extensive mineral extraction activity. The droids used for processing are divided into two teams, each of which has assigned a protocol code consisting of a positive integer. The first team's eighth droid is assigned the code a, with a1 = a2 = 1 and an+1 = an +an−1 for n ≥2. The second team's eighth droid is assigned the code bi, with b1 = 1 and bn+1 = an+1 +bn for n ≥1. Due to some malfunctions, quality control is carried out on the droids. The 1792nd droid of the first team is asked to add the protocol codes of the first 1789 droids of his team, add their own code, and subtract from the result the sum of the codes of the first 1789 droids of the second team. What are the first four digits of the number thus obtained?
+> [⋆] The separatist mine
+> On Mustafausdorff, a volcanic planet where every pair of points is separated by two craters, there is an intense activity of mineral extraction. The droids employed in the work are divided into two teams, and each of them is assigned a protocol code consisting of a positive integer. To the ith droid of the first team is assigned the code ai, with a1 = a2 = 1 and an+1 = an +an−1 for n ≥ 2. To the ith droid of the second team is assigned the code bi, with b1 = 1 and bn+1 = an+1 +bn for n ≥ 1. Because of some malfunctions, a quality check is carried out on the droids. The 1792nd droid of the first team is asked to add up the protocol codes of the first 1789 droids of its team, add its own code, and subtract from the result the sum of the codes of the first 1789 droids of the second team. What are the first four digits of the number thus obtained?
 
-**Answer:** 1791
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_finale#q08|src_cesenatico_2016_finale__Q08]]
 
 
 
@@ -310,11 +349,16 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product XZ×YW (projections, DF=114)*
+*The product of the lengths of XZ and YW, given that DF measures 114*
 
-> Help me out, Obi-Van! Help me, Obi-Van Kampenobi, you are my only hope: solve this problem of geometry! The four-dimensional cylindrical droid R2 ×D2 continues Princess Liea's request for help by transmitting the problem data: If ABC is a triangle, with BAC = 40° and ABC = 100°. Whether D is any point on the beam coming out of A. So X, Y, the projections of D on AB, AC, respectively. Then E, F are the intersection points (different from B, C) of the circumference circumscribed at ABD and the circumference circumscribed at ADC with the BC straight respectively. For example, if the projection of E on the AC and Z on the F on the AB, calculate the product of the lengths of the XZ and Y W segments, knowing that the DF segment measures 114.
+> Help me, Obi-Van!
+> "Help me, Obi-Van Kampenobi, you are my only hope: solve this geometry problem!" The four-dimensional cylindrical droid R2 × D2 continues Princess Liea's request for help by transmitting the data of the problem: "Let ABC be a triangle, with BAC = 40° and ABC = 100°. Let D be any point on the bisector issuing from A. Let X and Y be the projections of D onto AB and AC respectively. Let then E and F be the points of intersection (distinct from B and C) of the circumcircle of ABD and of the circumcircle of ADC respectively with the line BC. Let W be the projection of E onto AC and Z the projection of F onto AB, and calculate the product of the lengths of the segments XZ and YW, knowing that the segment DF measures 114."
 
-**Answer:** 3249
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q09|src_cesenatico_2016_finale__Q09]]
 
 
 
@@ -342,11 +386,16 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure 1 in binary numbering of 1..2016*
+*The number of digit 1s in the base-2 numbering of the files from 1 to 2016*
 
-> Princess Liea, before being imprisoned, saved in the memory of droid R2 ×D2 all the data on the Black Death in 2016 several files. The droid numbered them on base 2 from 1 to 2016 and encrypted them. The access key is the number of digits 1 that appear in total in the file numbering. What number does the Rebel Alliance have to enter to access Black Death data?
+> Encrypted plans
+> Princess Liea, before being imprisoned, saved in the memory of the droid R2 × D2 all the data on the Death Star in 2016 different files. The droid numbered them in base 2 from 1 to 2016 and encrypted them. The access key is the number of digit 1s that appear in all in the numbering of the files. What number must the Rebel Alliance enter in order to have access to the data on the Death Star?
 
-**Answer:** 0998
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2016_finale#q10|src_cesenatico_2016_finale__Q10]]
 
 
 
@@ -375,11 +424,16 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*multiple of 3 with digits 1..b-1 based on b*
+*The greatest possible number of crates, each a multiple of 3 that in some base b is the rising sequence of digits from 1 to b−1*
 
-> Black geometry Smuggler Han Singleton hides in his ship, the Millennium Problem, laser compass boxes to use during the team competition. Each box is labeled with a multiple of 3. The pilot notes that for each of these numbers there is a base b, with 2 ≤b ≤100, using which the number turns out to have all the digits from 1 to b−1 in increasing order from left to right. An example is box number 27, because 27 is written 123 in base 4. How many boxes are there?
+> Geometry on the black market
+> The smuggler Han Singleton hides in his ship, the Millennium Problem, crates of laser compasses to be used during the team competition. Each crate is labelled with a multiple of 3. The pilot notices that for each of these numbers there exists a base b, with 2 ≤ b ≤ 100, in which the number has all the digits from 1 to b−1 in increasing order from left to right. An example is crate number 27, because 27 is written "123" in base 4. What is the greatest possible number of crates?
 
-**Answer:** 0033
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_finale#q11|src_cesenatico_2016_finale__Q11]]
 
 
 
@@ -411,11 +465,16 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Chances are 4 pieces will return to the corners after 2016 jumps
+*Numerator plus denominator, in lowest terms, of the probability that the four pieces still occupy the four corners after 2016 jumps*
 
-> To spend time on the Millennium Problem, Han Singleton and his co-pilot Chewbashev often play Dejenerik. One day the holographic chessboard 3×3 is left on in the middle of a game, in a configuration where there are exactly four pieces arranged on the four corner boxes. Each minute each of the four pieces jumps randomly onto one of the adjacent boxes (horizontal or vertical, not diagonal); all the destination boxes allowed for a piece have the same probability of being selected. After 2016, jumping pieces stop. Knowing that no pair of pieces have ever met on the same box, determine the probability that eventually the pieces will still occupy the four corners of the chessboard (possibly in a different order from the original one). The sum of the numerator and denominator of the fraction reduced to the minimum terms is given.
+> A degenerate game
+> To pass the time on the Millennium Problem, Han Singleton and his copilot Chewbashev often play Dejenerik. One day the 3×3 holographic board is left on in the middle of a game, in a configuration in which there are exactly four pieces placed on the four corner squares. Every minute each of the four pieces jumps at random onto one of the adjacent squares (horizontally or vertically, not diagonally); all the destination squares allowed for a piece are equally likely to be chosen. After 2016 jumps the pieces stop. Knowing that no pair of pieces has ever met on the same square, determine the probability that at the end the pieces still occupy the four corners of the board (possibly in an order different from the initial one). Answer by indicating the sum of the numerator and the denominator of the fraction in lowest terms.
 
-**Answer:** 0010
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2016_finale#q12|src_cesenatico_2016_finale__Q12]]
 
 
 
@@ -446,11 +505,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of q(-4/3)/q(-2) (polynomial of roots)*
+*The number the Empire is looking for: numerator plus denominator of q(−4/3)/q(−2) in lowest terms*
 
-> Third degree The fearsome Mond Vander is questioning Princess Liea to obtain the coordinates of the secret rebel base. Finally, the crucial information is omitted: the number of the sector in which the base is located is given by the sum of the numerator and denominator of the fraction q(−4/3)/q(−2) (reduced to the minimum terms). Fortunately, the polynomial q(x) is complicated to construct, and Imperial officials are still trying to figure it out. To obtain it, we must start from the polynomial p(x) = x3 −6x2 +4x+12, call a, b and c its real roots, and consider as a polynomial q(x) that of the third degree having as roots ab + a + b, bc + b + c, ca + c + a and such that q(2015) = 20162017. What's the number the Empire is looking for?
+> The third degree
+> The fearsome Mond Vander is interrogating Princess Liea to obtain the coordinates of the secret rebel base. She at last lets slip the crucial information: the number of the sector in which the base lies is given by the sum of the numerator and the denominator of the fraction q(−4/3)/q(−2) (reduced to lowest terms). Fortunately the polynomial q(x) is complicated to construct, and the Empire's officers are still trying to calculate it. To obtain it one must start from the polynomial p(x) = x3 −6x2 +4x+12, call a, b and c its real roots, and take as the polynomial q(x) the one of degree three having as roots ab + a + b, bc + b + c, ca + c + a, and such that q(2015) = 20162017. What is the number the Empire is looking for?
 
-**Answer:** 0082
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_finale#q13|src_cesenatico_2016_finale__Q13]]
 
 
 
@@ -481,13 +545,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of equal divisors = sum mult. di 5*
+*Which of the 2016 moons of Yacobin the Empire must destroy*
 
-> Imperial officials have learned that the secret rebel base is located on one of Yacobin's 2016 moons (numbered 1 to 2016). Some spies have revealed crucial information about the number n corresponding to the moon on which the rebel base is located: the sum of the positive divisors equal to n is equal to the sum of the positive divisors multiplied by 5 of n, and n has at least 13 positive divisors equal to n. Which moon must be destroyed by the Empire?
-> 
-> Team competition 2016  National final  Problems 3/5
+> The rebel base within range
+> The Empire's officers have realised that the secret rebel base lies on one of the 2016 moons of Yacobin (numbered from 1 to 2016). Some spies have revealed crucial information about the number n corresponding to the moon on which the rebel base lies: the sum of the positive even divisors of n is equal to the sum of the positive divisors of n that are multiples of 5, and n has at least 13 positive even divisors. Which moon must be destroyed by the Empire?
 
-**Answer:** 1200
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_finale#q14|src_cesenatico_2016_finale__Q14]]
 
 
 
@@ -516,11 +583,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pentagon and exaggeration formation without residues*
+*The least number of ships in a squadron that can form both a pentagon and a hexagon with none left over*
 
-> A LTE fighter squadron is made up of a number of spacecraft (greater than 1), which can be arranged in different formations. An n-agon formation consists of a ship surrounded by a number of concentric n-agons. The innermost n-agon is formed by n vessels, the second by 2n, the third by 3n, and so on up to the outermost one. The squadron of which Mond Vander is a member can be deployed in pentagonal and hexagonal formation without ships advancing in either case. How many starships is it made up of, at least?
+> Fighters in formation
+> A squadron of LTE fighters consists of a certain number of ships (greater than 1), which can arrange themselves in various formations. An n-gon formation consists of one ship surrounded by a certain number of concentric n-gons. The innermost n-gon is formed by n ships, the second by 2n, the third by 3n, and so on up to the outermost. The squadron to which Mond Vander belongs can arrange itself in a pentagon formation and in a hexagon formation without any ships left over in either case. Of how many ships does it consist, at least?
 
-**Answer:** 0331
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2016_finale#q15|src_cesenatico_2016_finale__Q15]]
 
 
 
@@ -550,11 +622,19 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of Luke from the centre (60 degrees, BC)*
+*How far, in metres, Luke is from his target*
 
-> Destroy the Black Death! Luke Randomwalker, aboard his fighter, must be able to destroy the Black Death. It shall hit a lens located in the centre of an ABC acute triangle consisting of 3 turrets such that BAC = 60° and BC = 2016 √ 3 m. Luke is located on the same plane as the towers and the target, at a distance of 2016 m from both B and C and on the opposite side of A with respect to BC. How far in meters is Luke from his target?
+> Destroy the Death Star!
+> Luke Randomwalker, aboard his fighter, must succeed in destroying the Death Star. He must hit a target placed at the incentre of an acute-angled triangle ABC formed by 3 turrets such that ∠BAC = 60° and BC = 2016
+> √
+> 3 m.
+> Luke lies in the same plane as the turrets and the target, at a distance of 2016 m from both B and C, and on the opposite side of A with respect to BC. How far, in metres, is Luke from his target?
 
-**Answer:** 2016
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q16|src_cesenatico_2016_finale__Q16]]
 
 
 
@@ -581,11 +661,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last figure of 1^1+2^2+...+2016^2016*
+*The last digit of the sum 11 +22 +33 +...+201****2016*
 
-> Han Singleton and Chewbashev must make the jump in space to sow imperial hunting to the pursuit. To do so safely, however, they must complete a final calculation, which consists of finding the value of the sum 11 +22 +33 +...+20162016. What is the last digit of that number?
+> The jump into hyperspace
+> Han Singleton and Chewbashev must make the jump into hyperspace in order to shake off imperial fighters in pursuit. To do so safely, however, they must complete one last calculation, which consists in finding the value of the sum 11 +22 +33 +...+201****2016. What is the last digit of that number?
 
-**Answer:** 0004
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2016_finale#q17|src_cesenatico_2016_finale__Q17]]
 
 
 
@@ -615,11 +700,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EF distance (cyclic quadrilateral, bisetters, PF/PE)*
+*The distance between the two ships, given PF = 1612 and PE = 1209*
 
-> The Millennium Problem hunter Bobo Fett is chasing Han Singleton's ambitious ship, the Millennium Problem, for which the Empire has pledged a million Galactic Credits. On the on-board computer screen, the location of the vessels is indicated from an ABCD quadrilateral inscribed in a circumference. The Millennium Problem is at point E, intersection of the AB and CD extensions, while Bobo's ship is at point F, intersection of the BC and AD extensions. The computer records the distances of the two ships from the meeting point P of the angles AEC and AFC: PF = 1612 and PE = 1209. What's the distance between the two ships?
+> [⋆] Hunting the Millennium Problem
+> The bounty hunter Bobo Fett is pursuing the coveted ship of Han Singleton, the Millennium Problem, for which the Empire has put up a prize of a million Galactic Credits. On the onboard computer screen, the location of the ships is determined from a quadrilateral ABCD inscribed in a circle. The Millennium Problem lies at the point E, the intersection of the extensions of AB and CD, while Bobo's ship lies at the point F, the intersection of the extensions of BC and AD. The computer reports the distances of the two ships from the meeting point P of the bisectors of the angles ∠AEC and ∠AFC: PF = 1612 and PE = 1209. What is the distance between the two ships?
 
-**Answer:** 2015
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q18|src_cesenatico_2016_finale__Q18]]
 
 
 
@@ -647,11 +737,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum n<1000 with multiple cyclic rotations of n*
+*The sum of all n < 1000 such that every cyclic permutation of a five-digit multiple of n is again a multiple of n*
 
-> Hard to see, the properties of n are on the swampy Dagoldbach planet, Master Yoneda is training Luke Randomwalker. To sharpen his mind, Yoneda questions Luke about the properties of a certain positive integer n. The learner notes that for any number of five digits abcde multiple of n (a, b, c, d, and represent the digits of the number and a is different from zero), also eabcd, deabc, cdeab and bcdea are multiples of n. What is the sum of all the n < 1000 that have this condition?
+> [⋆] Hard to see, the properties of n are
+> On the swampy planet of Dagoldbach, Master Yoneda is training Luke Randomwalker. To sharpen his mind, Yoneda questions Luke on the properties of a certain positive integer n. The apprentice observes that, for every five-digit number abcde that is a multiple of n (a, b, c, d and e stand for the digits of the number, and a is different from zero), eabcd, deabc, cdeab and bcdea are also multiples of n. What is the sum of all the n < 1000 that satisfy this condition worth?
 
-**Answer:** 1630
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_finale#q19|src_cesenatico_2016_finale__Q19]]
 
 
 
@@ -684,11 +779,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min n with probability 1/2016 (random graph path)*
+*The least possible n, if the probability of arriving safely at Banahch-Torsk is 1/2016*
 
-> Interplanetary random walk Luke Randomwalker is looking for a safe place to hide, and to do so, he travels unknown aboard merchant ships. The ships Luke has chosen follow routes connecting planets. Among them are: Coruscantor, where Luke is at the beginning; Banahch-Torsk, a tiny double planet where Luke stops immediately (if he passes by); Taodana, the seat of Maz Karamata's lair, where there are so many spies from the First Order that it is certain that someone recognizes him and kills him. From each planet (excluding Taodana and Banahch-Torsk) one-way routes start to exactly two other planets, and from at most one of these two there is a sequence of routes that allows you to return to the planet you just left. Each time he leaves a planet, Luke chooses at random between the two possible routes (with equal probability) and stops only if he arrives on Banahch-Torsk or is killed on Taodana. Knowing that the probability of arriving safely at Banahch-Torsk is 1/2016, what's the minimum value of n?
+> [⋆] An interplanetary random walk
+> Luke Randomwalker is looking for a safe place to hide, and to do so he travels incognito aboard merchant ships. The ships Luke chooses follow routes that connect n planets to one another. Among them are: Coruscantor, where Luke is at the start; Banahch-Torsk, a pleasant double planet where Luke stops at once (if he passes through it); Taodana, the seat of Maz Karamata's hideout, where there are so many spies of the First Order that it is certain someone will recognise him and kill him. From every planet (except Taodana and Banahch-Torsk) unidirectional routes leave towards exactly two other planets, and from at most one of these two there exists a succession of routes that allows one to return to the planet just left. Every time he leaves a planet, Luke chooses at random between the two possible routes (with equal probability) and stops only if he arrives at Banahch-Torsk or if he is killed at Taodana. Knowing that the probability that he arrives safe and sound at Banahch-Torsk is 1/2016, what is the least possible value of n?
 
-**Answer:** 0013
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2016_finale#q20|src_cesenatico_2016_finale__Q20]]
 
 
 
@@ -724,11 +824,23 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n initial of the solitary (fraction operation)*
+*The n initially chosen, if the solitaire ends at 1 over 229; the fractions are a broken extraction*
 
-> A very widespread droid loner works like this. First, you have to choose a number n, and save the following numbers in memory (in order): 1, 1 2, 1 3, . . . , 1 n. Then proceed in this way, until only one number remains: the first two numbers a and b in the list are deleted, and the new number ab (a+1) (b+1)−1 is saved in memory at the bottom of the list. In a moment of leisure the droid BB-∞ makes a solo match, getting 1 229 as the final number. How much is the number n chosen initially?
+> Robotic pastimes
+> A solitaire very widespread among droids works as follows. First one must choose a number n, and save in memory the following numbers (in order): 1, 1
+> 2, 1
+> 3, . . . , 1
+> n. One then proceeds in this way, until only one number remains: the first two numbers a and b present in the list are deleted, and the new number
+> ab
+> (a+1)(b+1)−1 is saved in memory at the end of the list. In a moment of leisure the droid BB-∞ plays a game of the solitaire, obtaining
+> 1
+> 229 as the final number. What is the number n chosen initially worth?
 
-**Answer:** 0020
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2016_finale#q21|src_cesenatico_2016_finale__Q21]]
 
 
 
@@ -764,13 +876,18 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(p(x))=p(x)^40+x^80+q(x)*
+*The confirmation code: the least possible degree of q(x); the relation is a broken extraction*
 
-> Starkilling Station is ready to cut down the Resistance base on DHaar into a thousand pieces. The fire procedure was initiated well in advance to avoid last minute inconvenience, such as a surprise attack that exploits the station's weak point. When he gives the order, however, General Hooke realizes that the confirmation code was saved on the computer destroyed by Maklo Rin at a later time. Fortunately, remember how to calculate it: this code is equal to the minimum possible degree of a polynomial q(x) so there is a polynomial p(x) that satisfies the relation p(p(x)) = p(x) 40 +x80 +q(x; both polynomials must be non-zero and have real coefficients. What's the confirmation code?
-> 
-> 4/5 Team competition 2016  National final  Problem texts
+> Ready to fire
+> The Starkilling station is ready to reduce to a thousand pieces the Resistance base on D'Haar. The firing procedure was started well in advance, to avoid unpleasant last-minute mishaps, such as a surprise attack that exploits the station's weak point. At the moment of giving the order, however, General Hooke realises that the confirmation code was saved on the computer destroyed by Maklo Rin in a moment of anger. Fortunately he remembers how to calculate it: that code is equal to the least possible degree of a polynomial q(x) for which there exists a polynomial p(x) that satisfies the relation p(p(x)) =
+> p(x)
+> 40 +x80 +q(x); both polynomials must be non-zero and have real coefficients. What is the confirmation code?
 
-**Answer:** 0042
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2016_finale#q22|src_cesenatico_2016_finale__Q22]]
 
 
 
@@ -802,11 +919,16 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of rotation (axis, whole area)*
+*The area of the smallest integer-area quadrilateral that Ramsrey must explore*
 
-> Looking for Luke The GeDi knight Luke Randomwalker has begun traveling randomly from planet to planet, leaving very little information about his path. Fortunately, the planets on which it moves are all on the same plane. The young Ramsrey wants to track him down to return his laser line, and she manages to discover that Luke is currently inside an ABCD box of area 3222180 with BAC = 30°. She also finds a way to narrow the field: she takes the axes relative to the sides of the rim and calls A′, B′, C′, D′ the two-to-two intersections of the axes relative to the consecutive side pairs. This way you get a smaller quadrilateral. Ramsrey keeps repeating the procedure until he gets full-area quadrilaterals. You know for a fact that Luke is within the confines of the smallest of these. How big is the area Ramsrey has to explore?
+> Looking for Luke
+> The GeDi knight Luke Randomwalker has begun to travel at random from planet to planet, leaving very little information about his route. Fortunately, the planets on which he moves all lie in the same plane. Young Ramsrey wants to track him down in order to return his laser line, and she manages to discover that Luke is at the moment inside a rhombus ABCD of area 3222180 with ∠BAC = 30°. She also finds a way of narrowing the field: she takes the axes relative to the sides of the rhombus and calls A′, B′, C′ and D′ the pairwise intersections of the axes relative to the pairs of consecutive sides. In this way she obtains a smaller quadrilateral. Ramsrey keeps repeating the procedure until she obtains quadrilaterals of integer area. She knows for certain that Luke lies within the boundaries of the smallest of these. How large is the area that Ramsrey must explore?
 
-**Answer:** 4420
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q23|src_cesenatico_2016_finale__Q23]]
 
 
 
@@ -842,10 +964,13 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-Manufacture in which all the materials of Chapter 87 used are wholly obtained
+*The product of the number of pentagons and the number of triangles*
 
-> It's not a moon, that... Engineers of the First Order (using the legendary logic of the First Order) are studying an alternative form for the next Black Death. In order to eliminate the weaknesses typical of spherical space stations, the new design includes a structure given by a solid whose faces are equilateral triangles and regular pentagons. Also, at each summit exactly one pentagon and four triangles meet. An engineer exclaims: "What a strange thing! The product between the number of pentagons and the number of triangles is the same as the combination of my suitcase. How much is this combination worth?
-> 
-> U XVII National Competition to National Final Teams  Solution  7 May 2016 Nr. The problem
+> That is no moon...
+> The engineers of the First Order (using the legendary logic of the First Order) are studying an alternative shape for the next Death Star. To eliminate the weak points typical of spherical space stations, the new design provides for a structure given by a solid whose faces are equilateral triangles and regular pentagons. Moreover, at every vertex exactly one pentagon and four triangles meet. One of the engineers exclaims: "How strange! The product of the number of pentagons and the number of triangles is equal to the combination of my suitcase." What is that combination worth?
 
-**Answer:** 0960
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_finale#q24|src_cesenatico_2016_finale__Q24]]
