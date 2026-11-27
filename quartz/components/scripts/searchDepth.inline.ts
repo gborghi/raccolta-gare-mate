@@ -1,36 +1,51 @@
-// Tiered depth search — same mechanism as letteratura-inglese (searchDepth.inline.ts).
-// Loads search-t{0..3}.json. Boolean syntax lives in searchDepth.ts and must not
+// Tiered depth search — shards search-t{0..3}.json. Desktop users pick any
+// combination of tiers (checkboxes); phones only see tiers that fit in memory
+// (t3 «Completo» is excluded). Only the selected shards are fetched, then merged
+// without duplicate slugs. Boolean syntax lives in searchDepth.ts and must not
 // be bypassed: no toLowerCase() on the raw query before parseBooleanQuery.
-// idsForTerm uses t.v. After FlexSearch, docMatchesBool drops quoted-word false positives.
-//
-// Mate atoms are the quesiti (`page#qNN`). Phones load through tier 2 so a question
-// word is searchable without the desktop-only Max tier. No semantic tier (no embeddings).
 import FlexSearch from "flexsearch"
 import {
   Doc,
   Entry,
-  mergeTier,
-  clampStop,
   parseBooleanQuery,
   queryTerms,
   docMatchesBool,
   intersectIds,
   unionIds,
   fieldsMatchQuery,
+  TIER_INFO,
+  STORAGE_KEY_TIERS,
+  defaultTiers,
+  normalizeTiers,
+  parseStoredTiers,
+  mergeDesiredTiers,
+  mergeSelectedEntries,
+  formatBytes,
   type BoolOp,
 } from "./searchDepth"
 
 const CANDIDATE_LIMIT = 20000
 const BUILD_CHUNK = 400
 const RESULTS_PER_PAGE = 20
-const ATOM_STOP = 2
 
-const store = new Map<string, Doc>()
+type TierManifest = { mobileMax: number; tiers: { id: number; bytes: number; entries: number }[] }
+
+const entryCache = new Map<number, Entry[]>()
+let manifest: TierManifest | null = null
+let store = new Map<string, Doc>()
 let index: any = null
-let activeStop = -1
-let fetchedStop = -1
+let desiredTiers: number[] = readDesired()
+let loadedKey = ""
 let building = false
-let queuedStop: number | null = null
+let queued: number[] | null = null
+
+function readDesired(): number[] {
+  try {
+    return parseStoredTiers(localStorage.getItem(STORAGE_KEY_TIERS), false)
+  } catch {
+    return defaultTiers(false)
+  }
+}
 
 function yieldToUI(): Promise<void> {
   return new Promise((r) => setTimeout(r, 0))
@@ -39,16 +54,19 @@ function yieldToUI(): Promise<void> {
 function basePath(): string {
   return document.body.dataset.basepath ?? ""
 }
+
 function isMobile(): boolean {
   return matchMedia("(max-width: 800px)").matches || matchMedia("(pointer: coarse)").matches
 }
-// English clamps phones to tier 1 (works only). Mate quesiti are `#` atoms, so phones
-// must reach tier 2 or the overlay finds no questions. Max (t3) stays desktop-only.
-function mateClamp(stop: number): number {
-  let s = clampStop(stop, false)
-  if (isMobile() && s > ATOM_STOP) s = ATOM_STOP
-  return s
+
+function effectiveTiers(src: number[] = desiredTiers): number[] {
+  return normalizeTiers(src, isMobile())
 }
+
+function selectionKey(tiers: number[]): string {
+  return tiers.join(",")
+}
+
 function newIndex(): any {
   return new (FlexSearch as any).Document({
     document: { id: "id", index: ["title", "content", "tags"], store: false },
@@ -65,63 +83,92 @@ async function fetchJson(file: string): Promise<any> {
   }
 }
 
-async function mergeFile(file: string): Promise<void> {
+async function loadManifest(): Promise<TierManifest | null> {
+  if (manifest) return manifest
+  const j = await fetchJson("search-tiers.json")
+  if (j && Array.isArray(j.tiers)) manifest = j as TierManifest
+  return manifest
+}
+
+async function fetchTierEntries(tier: number): Promise<Entry[]> {
+  if (entryCache.has(tier)) return entryCache.get(tier)!
+  const file = `search-t${tier}.json`
   const j = await fetchJson(file)
-  if (!j) return
-  if (Array.isArray(j.buckets)) {
-    for (const b of j.buckets) await mergeFile(b)
-    return
+  const out: Entry[] = []
+  const take = async (obj: any) => {
+    if (!obj) return
+    if (Array.isArray(obj.buckets)) {
+      for (const b of obj.buckets) await take(await fetchJson(b))
+      return
+    }
+    out.push(...((obj.entries ?? []) as Entry[]))
   }
-  mergeTier(store, (j.entries ?? []) as Entry[])
+  await take(j)
+  entryCache.set(tier, out)
+  return out
 }
 
-function stopFile(s: number): string {
-  return ["search-t0.json", "search-t1.json", "search-t2.json", "search-t3.json"][s]
-}
-
-function docsForStop(target: number): Doc[] {
-  const all = [...store.values()]
-  return target >= ATOM_STOP ? all : all.filter((d) => !d.id.includes("#"))
-}
-
-async function buildIndex(target: number): Promise<any> {
+async function buildIndex(docs: Doc[]): Promise<any> {
   const idx = newIndex()
   let i = 0
-  for (const d of docsForStop(target)) {
+  for (const d of docs) {
     idx.add({ id: d.id, title: d.title, content: d.content, tags: (d.tags || []).join(" ") })
     if (++i % BUILD_CHUNK === 0) await yieldToUI()
   }
   return idx
 }
 
-async function setDepth(target: number, onSwap?: () => void): Promise<void> {
-  target = mateClamp(target)
-  if (target === activeStop && index) return
+async function ensureTiers(want?: number[]): Promise<void> {
+  const nextDesired = want ? mergeDesiredTiers(want, desiredTiers, isMobile()) : desiredTiers
+  desiredTiers = nextDesired
+  const effective = effectiveTiers(nextDesired)
+  const key = selectionKey(effective)
+  if (key === loadedKey && index) {
+    document.dispatchEvent(
+      new CustomEvent("searchdepth-loaded", { detail: { tiers: effective } }),
+    )
+    return
+  }
   if (building) {
-    queuedStop = target
+    queued = effective
     return
   }
   building = true
   try {
-    for (let s = fetchedStop + 1; s <= target; s++) {
-      await mergeFile(stopFile(s))
-      fetchedStop = s
+    const parts: { id: number; entries: Entry[] }[] = []
+    for (const id of effective) {
+      parts.push({ id, entries: await fetchTierEntries(id) })
     }
-    const nextIndex = await buildIndex(target)
-    index = nextIndex
-    activeStop = target
-    document.dispatchEvent(new CustomEvent("searchdepth-loaded", { detail: { stop: activeStop } }))
-    onSwap?.()
+    const docs = mergeSelectedEntries(parts)
+    store = new Map(docs.map((d) => [d.id, d]))
+    index = await buildIndex(docs)
+    loadedKey = key
+    document.dispatchEvent(
+      new CustomEvent("searchdepth-loaded", { detail: { tiers: effective } }),
+    )
   } finally {
     building = false
-    if (queuedStop !== null && queuedStop !== activeStop) {
-      const q = queuedStop
-      queuedStop = null
-      void setDepth(q, onSwap)
+    if (queued && selectionKey(queued) !== loadedKey) {
+      const q = queued
+      queued = null
+      await ensureTiers(q)
     } else {
-      queuedStop = null
+      queued = null
     }
   }
+}
+
+function persistDesired(): void {
+  try {
+    localStorage.setItem(STORAGE_KEY_TIERS, JSON.stringify(desiredTiers))
+  } catch {}
+}
+
+async function setTiers(ids: number[]): Promise<void> {
+  const effective = normalizeTiers(ids, isMobile())
+  desiredTiers = mergeDesiredTiers(effective, desiredTiers, isMobile())
+  persistDesired()
+  await ensureTiers(effective)
 }
 
 function countOcc(hay: string, needle: string): number {
@@ -177,7 +224,6 @@ function idsForTerm(term: string): string[] {
 }
 
 function search(q: string, defaultOp: BoolOp = "or"): Doc[] {
-  // Do not toLowerCase(q) before parse. Connectors are case-sensitive (AND/OR).
   const parsed = parseBooleanQuery(q, defaultOp)
   if (!index || !parsed.clauses.length) return []
   const tokens = queryTerms(parsed)
@@ -199,15 +245,61 @@ function esc(s: string): string {
   return s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!)
 }
 
-const STOP_LABELS = ["Rapido", "Standard", "Profondo", "Massimo"]
-function stopHint(stop: number): string {
-  return [
-    "Gare e concetti",
-    "Più parole per pagina",
-    "Dentro i quesiti (tutte le lingue)",
-    "Profondità massima",
-  ][mateClamp(stop)]
+function bytesFor(id: number): number {
+  return manifest?.tiers.find((t) => t.id === id)?.bytes ?? 0
 }
+
+function renderTierSelector(host: HTMLElement): void {
+  const mobile = isMobile()
+  const effective = effectiveTiers()
+  host.className = "sd-tiers"
+  host.innerHTML = `<legend class="sd-tiers-legend">Livelli di ricerca</legend>`
+  for (const info of TIER_INFO) {
+    const allowed = !mobile || info.mobile
+    const size = bytesFor(info.id)
+    const sizeTxt = size ? formatBytes(size) : ""
+    const checked = allowed && effective.includes(info.id)
+    const label = document.createElement("label")
+    label.className = "sd-tier" + (allowed ? "" : " sd-tier-disabled")
+    label.innerHTML = `
+      <input type="checkbox" data-tier="${info.id}" ${checked ? "checked" : ""} ${allowed ? "" : "disabled"} />
+      <span class="sd-tier-text">
+        <span class="sd-tier-name">${esc(info.name)}${sizeTxt ? ` <span class="sd-tier-size">${esc(sizeTxt)}</span>` : ""}</span>
+        <span class="sd-tier-desc">${esc(info.label)}</span>
+        ${allowed ? "" : `<span class="sd-tier-note">Troppo pesante per il telefono${sizeTxt ? ` (${esc(sizeTxt)})` : ""}</span>`}
+      </span>`
+    host.appendChild(label)
+  }
+  host.querySelectorAll<HTMLInputElement>("input[data-tier]").forEach((box) => {
+    box.addEventListener("change", () => {
+      const next = [...host.querySelectorAll<HTMLInputElement>("input[data-tier]:checked:not(:disabled)")].map(
+        (el) => Number(el.dataset.tier),
+      )
+      if (!next.length) {
+        box.checked = true
+        return
+      }
+      host.classList.add("sd-tiers-loading")
+      void setTiers(next).finally(() => host.classList.remove("sd-tiers-loading"))
+    })
+  })
+}
+
+const selectorHosts = new Set<HTMLElement>()
+
+async function mountTierSelector(host: HTMLElement): Promise<void> {
+  selectorHosts.add(host)
+  await loadManifest()
+  renderTierSelector(host)
+}
+
+function refreshSelectors(): void {
+  for (const host of selectorHosts) {
+    if (host.isConnected) renderTierSelector(host)
+  }
+}
+
+document.addEventListener("searchdepth-loaded", () => refreshSelectors())
 
 function ensureUI(): void {
   if (document.querySelector(".sd-button")) return
@@ -229,7 +321,7 @@ function ensureUI(): void {
   modal.innerHTML = `
     <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Cerca">
       <input class="sd-input" type="text" placeholder="Cerca…  &quot;frase&quot;  &amp;  |  ( )" aria-label="Cerca" autocomplete="off" />
-      <div class="sd-slider-wrap"></div>
+      <fieldset class="sd-tiers"></fieldset>
       <div class="sd-bool" role="group" aria-label="Tutte le parole o una qualsiasi">
         <button type="button" class="sd-bool-btn active" data-op="or">OR</button>
         <button type="button" class="sd-bool-btn" data-op="and">AND</button>
@@ -243,7 +335,9 @@ function ensureUI(): void {
   const input = modal.querySelector(".sd-input") as HTMLInputElement
   const resultsContainer = modal.querySelector(".sd-results-container") as HTMLElement
   const paginationContainer = modal.querySelector(".sd-pagination") as HTMLElement
-  const wrap = modal.querySelector(".sd-slider-wrap") as HTMLElement
+  const tiersHost = modal.querySelector(".sd-tiers") as HTMLElement
+  void mountTierSelector(tiersHost)
+
   let defaultOp: BoolOp = "or"
   const boolBtns = modal.querySelectorAll(".sd-bool-btn") as NodeListOf<HTMLButtonElement>
   const paintBool = () => {
@@ -259,20 +353,6 @@ function ensureUI(): void {
       render()
     })
   })
-
-  const maxStop = isMobile() ? ATOM_STOP : 3
-  const cur = ATOM_STOP
-  wrap.innerHTML = `
-    <input class="sd-slider" type="range" min="0" max="${maxStop}" step="1" value="${cur}" aria-label="Profondità" />
-    <span class="sd-slider-label"></span>
-    <span class="sd-spin" hidden aria-hidden="true"></span>`
-  const slider = wrap.querySelector(".sd-slider") as HTMLInputElement
-  const label = wrap.querySelector(".sd-slider-label") as HTMLElement
-  const spin = wrap.querySelector(".sd-spin") as HTMLElement
-  const paint = () => {
-    label.textContent = `${STOP_LABELS[+slider.value] ?? ""} — ${stopHint(+slider.value)}`
-  }
-  paint()
 
   let currentPage = 0
   let currentHits: Doc[] = []
@@ -300,21 +380,6 @@ function ensureUI(): void {
       </div>`
   }
 
-  slider.addEventListener("change", () => {
-    const want = mateClamp(+slider.value)
-    slider.value = String(want)
-    paint()
-    currentPage = 0
-    render()
-    if (want !== activeStop) {
-      spin.hidden = false
-      void setDepth(want, () => {
-        spin.hidden = true
-        render()
-      })
-    }
-  })
-
   paginationContainer.addEventListener("click", (e) => {
     const target = e.target as HTMLElement
     if (target.matches(".sd-pag-prev") && currentPage > 0) {
@@ -333,21 +398,18 @@ function ensureUI(): void {
     paintBool()
     t = window.setTimeout(render, 90)
   })
+  document.addEventListener("searchdepth-loaded", () => {
+    currentPage = 0
+    if (modal.classList.contains("active")) render()
+  })
 
   const open = () => {
     modal.classList.add("active")
     document.documentElement.style.overflow = "hidden"
     currentPage = 0
     input.focus()
-    if (activeStop < ATOM_STOP) {
-      spin.hidden = false
-      void setDepth(ATOM_STOP, () => {
-        spin.hidden = true
-        render()
-      })
-    }
+    void ensureTiers().then(() => render())
   }
-  if (activeStop < 0 && !building) void setDepth(ATOM_STOP)
   const close = () => {
     modal.classList.remove("active")
     document.documentElement.style.overflow = ""
@@ -359,22 +421,15 @@ function ensureUI(): void {
   resultsContainer.addEventListener("click", close)
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") close()
-    if (e.key === "/" && !modal.classList.contains("active") && (document.activeElement === document.body || document.activeElement === null)) {
+    if (
+      e.key === "/" &&
+      !modal.classList.contains("active") &&
+      (document.activeElement === document.body || document.activeElement === null)
+    ) {
       e.preventDefault()
       open()
     }
   })
-}
-
-declare global {
-  interface Window {
-    __mateSearch?: {
-      search: (q: string, defaultOp?: BoolOp) => Doc[]
-      ensure: (stop: number) => Promise<void>
-      fieldsMatchQuery: typeof fieldsMatchQuery
-      contentFor: (id: string) => string
-    }
-  }
 }
 
 function contentFor(id: string): string {
@@ -382,9 +437,30 @@ function contentFor(id: string): string {
   return d ? `${d.title || ""} ${d.content || ""} ${(d.tags || []).join(" ")}` : ""
 }
 
+declare global {
+  interface Window {
+    __mateSearch?: {
+      search: (q: string, defaultOp?: BoolOp) => Doc[]
+      ensure: (stop?: number) => Promise<void>
+      ensureTiers: (tiers?: number[]) => Promise<void>
+      setTiers: (tiers: number[]) => Promise<void>
+      getTiers: () => number[]
+      mountTierSelector: (host: HTMLElement) => Promise<void>
+      fieldsMatchQuery: typeof fieldsMatchQuery
+      contentFor: (id: string) => string
+    }
+  }
+}
+
 window.__mateSearch = {
   search,
-  ensure: (stop: number) => setDepth(stop),
+  // Backward compatible: ensure(2) → tiers 0..2; ensure() → current selection.
+  ensure: (stop?: number) =>
+    ensureTiers(typeof stop === "number" ? defaultTiers(false).concat(stop >= 3 ? [3] : []).filter((id) => id <= stop) : undefined),
+  ensureTiers: (tiers?: number[]) => ensureTiers(tiers),
+  setTiers,
+  getTiers: () => effectiveTiers(),
+  mountTierSelector,
   fieldsMatchQuery,
   contentFor,
 }

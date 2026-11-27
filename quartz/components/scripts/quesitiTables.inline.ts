@@ -299,7 +299,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
     filter = search.value
     page = 1
     const api = (window as any).__mateSearch
-    if (api && filter.trim()) void api.ensure(3).then(() => render())
+    if (api && filter.trim()) void api.ensureTiers().then(() => render())
     render()
   })
   search.title = 'Operatori: AND, OR, NOT, -parola, "frase", ( ), campo:valore (es. nazione:Japan, anno:2019). Sinonimi in più lingue inclusi.'

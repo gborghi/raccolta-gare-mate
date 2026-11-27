@@ -92,7 +92,14 @@ export function buildShards(master) {
     g: d.tags || [],
     c: contentFor(d, 30, 160),
   }))
-  const t1 = works.map(([s, d]) => ({ s, c: contentFor(d, 150, 400) }))
+  // t1 and t3 include title/tags (not just {s,c} deltas) so each tier can be
+  // selected on its own in any combination, without needing a previous shard.
+  const t1 = works.map(([s, d]) => ({
+    s,
+    t: d.title || "",
+    g: d.tags || [],
+    c: contentFor(d, 150, 400),
+  }))
   const t2 = atoms.map(([s, d]) => ({
     s,
     t: d.title || "",
@@ -106,9 +113,16 @@ export function buildShards(master) {
   // deepening adds real per-chapter recall (novel chapters), not padding. This is the
   // HIGHEST tier: the largest shard, budgeted at 90% of the Cloudflare per-file cap.
   const t3 = [
-    ...works.map(([s, d]) => ({ s, c: contentFor(d, 500, 700) })),
+    ...works.map(([s, d]) => ({
+      s,
+      t: d.title || "",
+      g: d.tags || [],
+      c: contentFor(d, 500, 700),
+    })),
     ...atoms.map(([s, d]) => ({
       s,
+      t: d.title || "",
+      g: d.tags || [],
       c: [contentFor(d, 500, 700), authorOf(s)].filter(Boolean).join(" "),
     })),
   ]
@@ -185,6 +199,34 @@ function main() {
   }
   writeBucketed(2, shards.t2.entries, "search-t2")
   writeBucketed(3, shards.t3.entries, "search-t3")
+
+  // Manifest for the checkbox selector: Italian labels live in searchDepth.ts;
+  // here we only publish measured sizes so the UI can show them without a HEAD.
+  const sizeOf = (name) => {
+    const p = path.join(outDir, name)
+    return fs.existsSync(p) ? fs.statSync(p).size : 0
+  }
+  const bucketBytes = (prefix) => {
+    const manPath = path.join(outDir, `${prefix}.json`)
+    if (!fs.existsSync(manPath)) return sizeOf(`${prefix}.json`)
+    const man = JSON.parse(fs.readFileSync(manPath, "utf8"))
+    if (Array.isArray(man.buckets)) return man.buckets.reduce((n, f) => n + sizeOf(f), 0)
+    return sizeOf(`${prefix}.json`)
+  }
+  const manifest = {
+    mobileMax: 2,
+    tiers: [
+      { id: 0, bytes: bucketBytes("search-t0"), entries: shards.t0.entries.length },
+      { id: 1, bytes: bucketBytes("search-t1"), entries: shards.t1.entries.length },
+      { id: 2, bytes: bucketBytes("search-t2"), entries: shards.t2.entries.length },
+      { id: 3, bytes: bucketBytes("search-t3"), entries: shards.t3.entries.length },
+    ],
+  }
+  fs.writeFileSync(path.join(outDir, "search-tiers.json"), JSON.stringify(manifest))
+  console.log(
+    "build-search-shards: search-tiers.json " +
+      manifest.tiers.map((t) => `t${t.id}=${(t.bytes / 1e6).toFixed(2)}MB`).join(" "),
+  )
 }
 
 // cross-platform main-guard: `file://${argv[1]}` breaks on Windows (backslashes,
