@@ -6,7 +6,6 @@ import {
   makeRowMatcher,
   loadSynonyms,
   queryNeedsMeta,
-  synonymAlternatives,
   type RowFields,
 } from "./searchBoolean"
 
@@ -97,7 +96,7 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   let filter = ""
   let page = 1
   let perPage = getPerPage()
-  let mode: "table" | "content" = "table"
+  let mode: "table" | "content" = "content"
 
   const search = document.createElement("input")
   search.type = "search"
@@ -191,25 +190,24 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   }
 
   function render() {
-    const q = filter.toLowerCase()
-    // AND/OR/NOT, "frase", campo:valore (any quesiti.json field), synonyms. Plain
-    // queries without synonyms keep the original test untouched.
-    const bool = !!q.trim() && queryNeedsMeta(filter)
-    const m = q.trim() && (bool || synonymAlternatives(filter.trim()).length > 0) ? makeRowMatcher(filter) : null
+    const raw = filter.trim()
+    const api = (window as any).__mateSearch
+    const bool = !!raw && queryNeedsMeta(filter)
+    const m = raw ? makeRowMatcher(filter) : null
     const shown = rows
       .filter((r) => {
-        if (!q) return true
+        if (!raw) return true
+        const q = raw.toLowerCase()
         if (m) {
           const f = bool ? (r as unknown as RowFields) : undefined
-          if (mode === "content") {
-            const kw = kwCache?.[r.href]
-            return kw ? m(kw, f) : bool ? m("", f) : false
-          }
-          return m(r.summary + "\n" + r.competition, f)
+          if (mode === "table") return m(r.summary + "\n" + r.competition, f)
+          const hay = (api && api.contentFor ? api.contentFor(r.href) : "") || kwCache?.[r.href] || ""
+          if (hay) return m(hay, f)
+          return bool ? m("", f) : false
         }
         if (mode === "content") {
-          const kw = kwCache?.[r.href]
-          return kw ? kw.includes(q) : false
+          const hay = (api && api.contentFor ? api.contentFor(r.href) : "") || kwCache?.[r.href] || ""
+          return hay ? hay.toLowerCase().includes(q) : false
         }
         return r.summary.toLowerCase().includes(q) || r.competition.toLowerCase().includes(q)
       })
@@ -300,6 +298,8 @@ function buildTable(el: HTMLElement, rows: Quesito[], prefix: string) {
   search.addEventListener("input", () => {
     filter = search.value
     page = 1
+    const api = (window as any).__mateSearch
+    if (api && filter.trim()) void api.ensure(3).then(() => render())
     render()
   })
   search.title = 'Operatori: AND, OR, NOT, -parola, "frase", ( ), campo:valore (es. nazione:Japan, anno:2019). Sinonimi in più lingue inclusi.'

@@ -11,6 +11,8 @@ import quesitiTablesScript from "../../components/scripts/quesitiTables.inline"
 // @ts-ignore
 import cercaScript from "../../components/scripts/cerca.inline"
 // @ts-ignore
+import searchDepthScript from "../../components/scripts/searchDepth.inline"
+// @ts-ignore
 import navbarScript from "../../components/scripts/navbar.inline"
 // @ts-ignore
 import qlangScript from "../../components/scripts/qlang.inline"
@@ -273,6 +275,8 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   // custom (Raccolta Gare): qtable rendering, /cerca faceted search, navbar height.
   // Pushed before the SPA router so their "nav" listeners are registered before the
   // first nav event is dispatched below.
+  // Tiered search (search-t0..t3) before the tables so window.__mateSearch exists.
+  componentResources.afterDOMLoaded.push(searchDepthScript)
   componentResources.afterDOMLoaded.push(quesitiTablesScript)
   componentResources.afterDOMLoaded.push(cercaScript)
   componentResources.afterDOMLoaded.push(navbarScript)

@@ -147,8 +147,11 @@ plugins:
     layout:
       position: right
       priority: 10
+  # Core FlexSearch search DISABLED — replaced by the in-repo tiered depth search
+  # (quartz/components/scripts/searchDepth.inline.ts), which ships its own modal
+  # (opened from the navbar magnifying glass) and loads search-t{0..3}.json.
   - source: github:quartz-community/search
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 20

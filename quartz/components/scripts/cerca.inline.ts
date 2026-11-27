@@ -166,7 +166,7 @@ async function init() {
   let filter = ""
   let page = 1
   let perPage = getPerPage()
-  let searchMode: "table" | "content" = "table"
+  let searchMode: "table" | "content" = "content"
 
   const hint = document.createElement("p")
   hint.className = "cerca-hint"
@@ -184,6 +184,8 @@ async function init() {
   search.addEventListener("input", () => {
     filter = search.value
     page = 1
+    const api = (window as any).__mateSearch
+    if (api && filter.trim()) void api.ensure(3).then(() => renderResults())
     renderResults()
   })
   void loadSynonyms(prefix).then((ok) => {
@@ -312,24 +314,26 @@ async function init() {
       markResultCount(count, null, "")
       return
     }
-    const q = filter.trim().toLowerCase()
+    const raw = filter.trim()
     let rows = data.filter(matches)
-    // AND/OR/NOT, "frase", campo:valore (any quesiti.json field), synonyms;
-    // plain queries: same substring test as before (fields joined by "\n", which a
-    // query can never contain) + synonym-only matches
-    const m = q ? makeRowMatcher(filter) : null
-    if (q && m) {
+    // Keep the existing boolean language (AND/OR/NOT, -parola, "frase", campo:valore,
+    // synonyms). In content mode the haystack is the multi-tier index (every language
+    // of the quesito, plus tags), not only quesiti_kw.json.
+    const m = raw ? makeRowMatcher(filter) : null
+    if (raw && m) {
       const bool = queryNeedsMeta(filter)
+      const api = (window as any).__mateSearch
       rows = rows.filter((r) => {
         const f = bool ? (r as unknown as RowFields) : undefined
-        if (searchMode === "content") {
-          const kw = kwCache?.[r.href]
-          return kw ? m(kw, f) : bool ? m("", f) : false
+        if (searchMode === "table") {
+          return m(
+            String(r.summary) + "\n" + String(r.competition) + "\n" + String(r.level) + "\n" + String(r.country),
+            f,
+          )
         }
-        return m(
-          String(r.summary) + "\n" + String(r.competition) + "\n" + String(r.level) + "\n" + String(r.country),
-          f,
-        )
+        const hay = (api && api.contentFor ? api.contentFor(r.href) : "") || kwCache?.[r.href] || ""
+        if (hay) return m(hay, f)
+        return bool ? m("", f) : false
       })
     }
     rows.sort((a, b) => {

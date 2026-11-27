@@ -1798,3 +1798,59 @@ details.q-answer > p {
   margin: 0.5rem 0 0 0.3rem;
   font-size: 1.05rem;
 }
+
+
+/* ---- Tiered depth search (searchDepth.inline.ts) --------------------------- */
+/* Hidden host for the navbar magnifying glass (.search-button). Not shown in the sidebar. */
+.sd-button.search-button {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.sd-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  /* Above the masthead (z-index 1000) and the old community search popout (1100). */
+  z-index: 1200;
+  padding: calc(var(--navbar-h, 80px) + 1rem) 1rem 1rem;
+  background: color-mix(in srgb, var(--dark) 32%, transparent);
+}
+.sd-modal.active { display: block; }
+.sd-inner {
+  box-sizing: border-box;
+  max-width: 640px;
+  margin: 0 auto;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 1rem;
+}
+.sd-input, .sd-help { box-sizing: border-box; width: 100%; }
+.sd-input {
+  font: inherit;
+  font-size: 1.05rem;
+  padding: 0.6rem 0.7rem;
+  color: var(--dark);
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+}
+.sd-help { font-size: 0.75rem; color: var(--darkgray); margin: 0.2rem 0 0.4rem; }
+.sd-slider-wrap { display: flex; align-items: center; gap: 0.6rem; margin: 0.7rem 0 0.3rem; }
+.sd-slider { flex: 0 0 9rem; }
+.sd-slider-label { flex: 1; font-size: 0.78rem; color: var(--darkgray); }
+.sd-bool { display: flex; gap: 0.35rem; }
+.sd-bool-btn { font: inherit; font-size: 0.75rem; padding: 0.2rem 0.65rem; border: 1px solid var(--lightgray); border-radius: 999px; background: transparent; cursor: pointer; }
+.sd-bool-btn.active { border-color: var(--secondary); color: var(--secondary); }
+.sd-results { list-style: none; margin: 0.5rem 0 0; padding: 0; max-height: 55vh; overflow-y: auto; }
+.sd-hit { display: block; text-decoration: none; color: var(--dark); padding: 0.45rem 0.2rem; }
+.sd-hit-title { font-weight: 600; }
+.sd-hit-author { color: var(--darkgray); font-size: 0.85em; margin-left: 0.4em; }
+.sd-pagination { display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; font-size: 0.9em; }
