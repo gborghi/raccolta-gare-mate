@@ -698,7 +698,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -710,6 +710,7 @@ level: squadre
 > Di ritorno dal loro viaggio Ardna ed Olean ereditano da uno zio un campo di forma quadrata il cui lato è lungo 100 imometri. Nel testamento si dice che la divisione del campo deve essere fatta tracciando una retta che taglia due lati opposti in modo che la differenza dei perimetri delle due parti sia 120 imometri. Qual è il rapporto tra l'area della parte più estesa e l'area di quella meno estesa?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0004
@@ -727,6 +728,7 @@ level: squadre
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

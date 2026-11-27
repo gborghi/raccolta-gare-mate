@@ -518,7 +518,7 @@ level: Baltic Way
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -528,6 +528,7 @@ level: Baltic Way
 > In un triangolo acutangolo scaleno $ABC$, l'asse di $BC$ interseca $AC$ e $AB$ rispettivamente in $A_b$ e $A_c$. Si definiscano analogamente $B_c$, $B_a$, $C_a$ e $C_b$. Dimostrare che i circocentri di $ABC$, $A_bB_cC_a$ e $A_cB_aC_b$ sono allineati.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
@@ -544,6 +545,7 @@ level: Baltic Way
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

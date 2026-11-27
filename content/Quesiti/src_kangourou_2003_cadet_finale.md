@@ -78,7 +78,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_funzionali,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -88,6 +88,7 @@ level: kangourou
 > Un magico rettangolo di cuoio di Mirabilandia si riduce della metà in lunghezza e di un terzo in altezza ogni volta che esaudisce un desiderio del suo proprietario. Si sa che inizialmente l'altezza misurava $27$ centimetri e che, esauditi $3$ desideri, il rettangolo è diventato un quadrato. Quanto misurava inizialmente la lunghezza?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 64
@@ -102,6 +103,7 @@ level: kangourou
 > A magic leather rectangle from Mirabilandia shrinks by half in length and by a third in height every time it grants a wish of its owner. It is known that initially the height measured $27$ centimetres and that, after $3$ wishes had been granted, the rectangle became a square. What did the length measure initially?
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 64
@@ -182,7 +184,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -192,6 +194,7 @@ level: kangourou
 > La lancetta delle ore di un orologio compie un giro completo in $12$ ore mentre quella dei minuti compie un giro completo in un'ora. Entrambe le lancette ruotano con continuità. Vi sono alcuni istanti in cui le due lancette sono sovrapposte. Quanto tempo intercorre tra uno di questi istanti ed il successivo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 1h5'27"3/11
@@ -206,6 +209,7 @@ level: kangourou
 > The hour hand of a clock completes a full turn in $12$ hours, while the minute hand completes a full turn in one hour. Both hands turn continuously. There are some instants at which the two hands coincide. How much time passes between one of these instants and the next?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 1h5'27"3/11

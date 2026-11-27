@@ -474,7 +474,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -484,8 +484,9 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 > Let $ABC$ be a triangle. Let $E$ be the foot of the altitude from $B$ of triangle $ABC$, and $F$ the foot of the altitude from $C$ of triangle $ABC$. Let $H$ be the intersection point of the lines $(BE)$ and $(CF)$, and $O$ the centre of the circumscribed circle of $ABC$. Note that $H$ is the orthocentre of the triangle. Show that $AF = AE$ and that the quadrilateral $AFHE$ is a parallelogram.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
@@ -497,6 +498,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 > Lasciate che $ABC$ sia un triangolo. Che $E$ sia il piede dell'altitudine da $B$ del triangolo $ABC$ e $F$ il piede dell'altitudine da $C$ del triangolo $ABC$. $H$ sia il punto di intersezione delle linee $(BE)$ e $(CF)$, e $O$ il centro del cerchio circoscritto di $ABC$. Si noti che $H$ è l'ortocentro del triangolo. Indicare che $AF = AE$ e che il quadrilaterale $AFHE$ è un parallelo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 

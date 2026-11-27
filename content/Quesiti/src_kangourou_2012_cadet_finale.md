@@ -73,7 +73,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -83,6 +83,7 @@ level: kangourou
 > Assegnati tre punti non allineati nello spazio, quante sfere passano per questi tre punti? Nel caso ne passi più di una, come si può determinare il raggio di quella che ha raggio minore?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** infinite
@@ -98,6 +99,7 @@ level: kangourou
 
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
@@ -139,7 +141,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_logica,topic_combinatoria,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_logica,topic_combinatoria,method_casework,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -149,6 +151,7 @@ level: kangourou
 > Maurizio si trova in un grattacielo di 99 piani, ma non si ricorda a che piano è. Il sistema per chiamare l'ascensore è inusuale. A ogni piano è presente una pulsantiera con tasti dallo 0 al 99: premendo un pulsante l'ascensore raggiungerà il piano corrispondente al numero riportato sul tasto, ma risulterà occupato, per un tempo che non è correlato in alcun modo con il percorso compiuto. Considerando che Maurizio può vedere dal vetro della porta se l'ascensore passa per il suo piano e che ora l'ascensore è al piano 0, qual è il numero minimo di pulsanti premendo i quali avrà la garanzia di sapere a che piano si trova?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
@@ -164,6 +167,7 @@ level: kangourou
 
 
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 

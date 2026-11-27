@@ -271,7 +271,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -290,6 +290,7 @@ level: squadre
 > originario?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0176
@@ -308,7 +309,8 @@ level: squadre
 > A square is divided into six plane figures as shown in the picture. The white ones are two isosceles right-angled triangles, a square and a parallelogram; one of the two black ones is an isosceles right-angled triangle, the other (which has only one point in common with the previous one) can be divided into two isosceles right-angled triangles. The area of the part of the square left white is 99 cm2. How many square centimetres is the area of the original square?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 0176
 

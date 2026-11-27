@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,6 +22,7 @@ level: squadre
 > Frank porta a passeggio il cane lungo il muro est del penitenziario, perfettamente rettilineo e lungo 9 km. Partono dal portone del penitenziario, proprio all'inizio del muro est, fianco a fianco, e iniziano un gioco: Frank tira la palla, il cane gliela riporta, Frank la ritira immediatamente, e altrettanto istantaneamente il cane riparte dietro alla palla. Per tutta la durata del gioco Frank cammina a 6 km all'ora e il cane a 12 km all'ora. Arrivati alla fine del muro, ritornano continuando a fare il gioco fino al portone. Quanta strada al massimo può far fare Frank al cane tirando opportunamente la palla? Dare la risposta in hm.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
@@ -39,6 +40,7 @@ level: squadre
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
@@ -117,7 +119,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -129,6 +131,7 @@ level: squadre
 > Murph spiega ai tre Magic Tones come sarà diviso il denaro che spetta loro per la loro performance, come prevede il regolamento del Sindacato Musicisti. Murph spiega: «Metà del denaro sarà diviso tra voi in parti uguali, l'altra metà vi sarà assegnata proporzionalmente alla vostra età in anni.» Sapendo che il musicista più vecchio riceverà, a conti fatti, 40 dollari, e che la sua età è la somma delle età degli altri due, a quanto ammonta in centesimi di dollaro la somma da spartire?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9600
@@ -146,6 +149,7 @@ level: squadre
 
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
@@ -187,7 +191,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -199,6 +203,7 @@ level: squadre
 > Un parco comprende un lago di forma quadrata, di cui ogni sponda costituisce la base di un'aiuola a forma di triangolo equilatero. I quattro vertici delle aiuole che non sono sul lago, sono uniti a due a due da recinti rettilinei. Il terreno fra aiuole e recinti è lasciato incolto. L'area del lago è di $9747$ metri quadrati, quanti sono i metri quadrati dell'area del terreno incolto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -215,6 +220,7 @@ level: squadre
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 

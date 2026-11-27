@@ -78,7 +78,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -88,6 +88,7 @@ level: kangourou
 > Prima che venisse impiegato il lettore ottico, le schede-risposta di Kangourou venivano esaminate a mano. Un correttore umano esaminava in media $2$ schede al minuto. Alle undici del mattino di un dato giorno aveva esaminato la metà delle schede che gli erano state assegnate per quel giorno. A mezzogiorno ne aveva esaminati i due terzi. Se non si fosse mai fermato e avesse continuato allo stesso ritmo, quante schede gli sarebbero rimaste da esaminare alla una di pomeriggio di quel giorno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 120
@@ -102,6 +103,7 @@ level: kangourou
 > Before the optical reader was used, the Kangourou answer sheets were examined by hand. A human marker examined on average $2$ sheets a minute. At eleven in the morning of a given day he had examined half of the sheets assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and had gone on at the same rate, how many sheets would he have had left to examine at one in the afternoon of that day?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 120

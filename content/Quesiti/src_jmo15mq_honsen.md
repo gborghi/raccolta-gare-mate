@@ -101,7 +101,7 @@ level: JMO Honsen
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -111,8 +111,9 @@ level: JMO Honsen
 > Let $A,B$ be two points on a circle $\Gamma$. The tangent to $\Gamma$ at $A$ and the tangent to $\Gamma$ at $B$ meet at a point $X$. Let $C,D$ be two points on $\Gamma$ such that $C,D,X$ lie on a line in this order. Suppose line $CA$ and line $BD$ meet perpendicularly at a point $F$. Let $G$ be the intersection of $CD$ and $AB$, and let $H$ be the intersection of the perpendicular bisector of $GX$ with $BD$. Prove that the four points $X,F,G,H$ lie on one circle.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
 
 
@@ -123,7 +124,9 @@ level: JMO Honsen
 
 > Siano $A,B$ due punti su una circonferenza $\Gamma$. La tangente a $\Gamma$ in $A$ e la tangente a $\Gamma$ in $B$ si incontrano in un punto $X$. Siano $C,D$ due punti su $\Gamma$ tali che $C,D,X$ giacciano su una retta in questo ordine. Si supponga che la retta $CA$ e la retta $BD$ si incontrino perpendicolarmente in un punto $F$. Sia $G$ l'intersezione di $CD$ e $AB$, e sia $H$ l'intersezione della mediatrice di $GX$ con $BD$. Dimostrare che i quattro punti $X,F,G,H$ giacciono su una stessa circonferenza.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 

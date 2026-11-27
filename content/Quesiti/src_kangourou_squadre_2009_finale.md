@@ -50,7 +50,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -69,6 +69,7 @@ level: squadre
 > (Scrivete 0000 se non è possibile costruirlo).
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0020
@@ -84,7 +85,9 @@ level: squadre
 
 > The Circuit You have some regular pentagons and some squares at your disposal; all the sides of these polygons have the same length. By joining them together, alternating pentagons and squares so that one side of a pentagon coincides with one side of a square and vice versa, you want to form a closed circuit while remaining in one plane: the construction of the ring must proceed as indicated in the figure. Assuming it is possible to construct it, how many polygons will make up the closed circuit? (Write 0000 if it is not possible to construct it.)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

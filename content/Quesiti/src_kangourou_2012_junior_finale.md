@@ -41,7 +41,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,6 +51,7 @@ level: kangourou
 > Assegnati tre punti non allineati nello spazio, quante sfere passano per questi tre punti? Nel caso ne possa passare più di una, come si può determinare il raggio di quella che ha raggio minore?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** infinite
@@ -65,6 +66,7 @@ level: kangourou
 > Given three non-collinear points in space, how many spheres pass through these three points? If more than one can pass through them, how can one determine the radius of the one that has the smaller radius?
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** infinitely many

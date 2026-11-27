@@ -42,7 +42,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,6 +52,7 @@ level: kangourou
 > In un quadrato sono stati tracciati 4 segmenti da un punto interno ai punti medi dei lati. Aree indicate $200$, $320$, $160$. Area del quarto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 280
@@ -65,7 +66,9 @@ level: kangourou
 
 > In a square, 4 line segments have been drawn from an interior point to the midpoints of the sides. The areas are indicated as $200$, $320$, $160$. What is the area of the fourth?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

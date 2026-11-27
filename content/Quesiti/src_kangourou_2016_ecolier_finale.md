@@ -110,7 +110,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,6 +120,7 @@ level: kangourou
 > La moneta di Kanglandia è il kang. Il cambio euro–kang funziona così: si ottiene $1$ kang pagando $2$ euro, si ottiene $1$ euro pagando $1$ kang e proporzionalmente se si cambiano monete di valore inferiore. In entrambe le valute la moneta di valore minimo è quella da un centesimo; si può cambiare qualunque quantità di denaro e il risultato del cambio, se non è esprimibile con un numero intero di centesimi, viene arrotondato al centesimo per eccesso. Se all'inizio cambio $10$ euro in kang, poi cambio i kang ottenuti in euro, poi cambio gli euro ottenuti in kang e procedo in questo modo, posso rimanere senza denaro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** No, resto con 1 centesimo
@@ -135,6 +136,7 @@ level: kangourou
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 

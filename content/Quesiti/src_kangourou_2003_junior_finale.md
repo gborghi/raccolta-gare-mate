@@ -60,7 +60,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -70,6 +70,7 @@ level: kangourou
 > Cristina e Roberta iniziano a contare nello stesso istante e con la stessa cadenza. Cristina conta di due in due crescendo a partire da 110 (110, 112, 114, $\ldots$), mentre Roberta conta di cinque in cinque decrescendo a partire da 953 (953, 948, 943, $\ldots$). Di quanto differiranno i due numeri più vicini che esse pronunceranno nello stesso istante?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
@@ -84,6 +85,7 @@ level: kangourou
 > Cristina and Roberta start counting at the same instant and at the same pace. Cristina counts up in twos starting from 110 (110, 112, 114, $\ldots$), while Roberta counts down in fives starting from 953 (953, 948, 943, $\ldots$). By how much will the two closest numbers that they say at the same instant differ?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
@@ -158,7 +160,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -168,6 +170,7 @@ level: kangourou
 > Due ciclisti corrono su una pista circolare ciascuno a velocità costante. Se corrono nello stesso verso, ogni dieci minuti il ciclista più veloce raggiunge l'altro; se corrono in versi opposti, si incontrano ogni due minuti. Qual è il rapporto fra la velocità del ciclista più veloce e quella del ciclista più lento?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3/2
@@ -182,13 +185,14 @@ level: kangourou
 > Two cyclists ride on a circular track, each at constant speed. If they ride in the same direction, every ten minutes the faster cyclist catches the other; if they ride in opposite directions, they meet every two minutes. What is the ratio of the speed of the faster cyclist to that of the slower cyclist?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 3/2
 
 
 
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_geometria_piana,method_simmetria,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -198,6 +202,7 @@ level: kangourou
 > Per un punto fissato internamente ad un triangolo rettangolo si traccino le parallele ai lati. Siano $a$, $b$ e $c$ le aree dei tre triangoli rettangoli che vengono così individuati. Quanto vale l'area del triangolo di partenza?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** (a+b+c)^2
@@ -212,6 +217,7 @@ level: kangourou
 > Through a point fixed inside a right-angled triangle, draw the lines parallel to the sides. Let $a$, $b$ and $c$ be the areas of the three right-angled triangles that are thus determined. What is the area of the original triangle?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** (a+b+c)^2

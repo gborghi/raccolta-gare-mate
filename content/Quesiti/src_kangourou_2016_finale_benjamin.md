@@ -42,7 +42,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -54,6 +54,7 @@ level: kangourou
 > Osserva la figura. Tutti i triangoli che puoi vedere sono equilateri: i lati di quello nero (il più piccolo) sono lunghi $2$ cm, i lati di quelli grigi sono lunghi tutti $5$ cm. Quanto sono lunghi i lati del triangolo più grande (quello che li contiene tutti)? Come suggerisce la figura, i lati dei triangoli grigi e di quello nero che hanno vertici in comune stanno su una stessa retta. (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 19
@@ -69,7 +70,9 @@ level: kangourou
 
 > Observe the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest) are $2$ cm long, and the sides of the grey ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains all of them)? As the figure suggests, the sides of the grey triangles and of the black triangle that share vertices lie on the same straight line. (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

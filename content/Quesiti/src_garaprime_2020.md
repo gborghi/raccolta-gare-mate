@@ -690,7 +690,7 @@ level: Classi Prime
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -710,6 +710,7 @@ level: Classi Prime
 > F 1440π
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** A
@@ -725,7 +726,9 @@ level: Classi Prime
 
 > A square ABCD has a side length of 120 centimetres, and γ is its circumcircle. Find the area (expressed in cm²) of the lunula obtained by removing from γ the part of γ that lies inside the circle centred at A with radius AB. A 7200 B 2000π C 2400π D 8000 E 4800 F 1440π
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

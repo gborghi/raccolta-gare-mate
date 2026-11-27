@@ -324,7 +324,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_geometria_solida,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_geometria_solida,method_fattorizzazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -336,6 +336,7 @@ level: squadre
 > È notte. Emilio Largo e i suoi scagnozzi stanno inseguendo 007 con una jeep che monta un proiettore a $3$ metri dal terreno per illuminare i dintorni. James si nasconde dietro a una strana lastra verticale alta $2\,\text{m}$. Il proiettore della jeep illumina la lastra formando a terra un'ombra quadrata. James, con molta freddezza, valuta l'area dell'ombra in $64\,\text{m}^2$ e determina la distanza della jeep dalla lastra. Si rende conto che è anche in grado di calcolare l'area della lastra. Quanto misura l'area della lastra in $\text{dm}^2$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 1066
@@ -353,6 +354,7 @@ level: squadre
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 

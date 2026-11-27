@@ -42,7 +42,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_probabilita,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_probabilita,method_conteggio,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,6 +52,7 @@ level: kangourou
 > Andrea e Giulio giocano a dadi nel modo seguente. Insieme lanciano sei dadi (tradizionali, equi): se esce 3 su almeno un dado, Andrea guadagna un euro da Giulio; in caso contrario, Giulio guadagna due euro da Andrea. È un gioco equo o è vantaggioso per uno dei due? In questo secondo eventuale caso, per chi?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Giulio favorito
@@ -66,6 +67,7 @@ level: kangourou
 > Andrea and Giulio play dice as follows. Together they roll six dice (traditional, fair): if a 3 comes up on at least one die, Andrea wins one euro from Giulio; otherwise, Giulio wins two euros from Andrea. Is it a fair game, or is it advantageous for one of the two? In this second case, if it arises, for whom?
 
 **Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** Giulio favorito

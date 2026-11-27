@@ -72,7 +72,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -84,6 +84,7 @@ level: kangourou
 > Osserva la figura. $IBLEC$ è un pentagono regolare e il triangolo $CER$ è equilatero. $T$ è il punto di intersezione tra i segmenti $CE$ e $IR$. Quanti gradi misura l'angolo $ITE$? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 114
@@ -99,7 +100,9 @@ level: kangourou
 
 > Observe the figure. $IBLEC$ is a regular pentagon, and triangle $CER$ is equilateral. $T$ is the point of intersection of line segments $CE$ and $IR$. How many degrees is angle $ITE$? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

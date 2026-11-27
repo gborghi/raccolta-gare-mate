@@ -129,7 +129,7 @@ level: China Mathematical Competition
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_analitica,topic_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_analitica,topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -146,6 +146,7 @@ level: China Mathematical Competition
 > - **(D)** A hyperbola with the foci on the $y$-axis
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria|Geometry]]
 **Risposta:** C
@@ -168,6 +169,7 @@ level: China Mathematical Competition
 
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 

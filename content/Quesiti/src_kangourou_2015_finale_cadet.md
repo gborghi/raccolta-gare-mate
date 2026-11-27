@@ -42,7 +42,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_logica,topic_aritmetica,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_logica,topic_aritmetica,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -54,6 +54,7 @@ level: kangourou
 > Kang è una stazione su una linea a binario unico. In figura vedi lo schema dei binari di Kang, di ciascuno dei quali è indicata la lunghezza: il binario di corsa è quello superiore, mentre il binario inferiore inizia e termina con due tronchi "morti". Tutti i treni circolanti sulla linea sono composti da una locomotiva, che è in testa, e da alcune carrozze: la lunghezza di ogni locomotiva e di ogni carrozza è 19 metri. Quali sono le condizioni meno restrittive da imporre sulla composizione di due treni perché possano incrociarsi in Kang? Tieni presente che è ammesso ogni tipo di manovra (in particolare i treni possono fare retromarcia) e di segnalamento compatibile con lo schema della stazione, incluso lo spezzamento dei treni in gruppi di carrozze. (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** max 13 carrozze
@@ -71,6 +72,7 @@ level: kangourou
 
 
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 

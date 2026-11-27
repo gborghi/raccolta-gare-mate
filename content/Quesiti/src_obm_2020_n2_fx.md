@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,8 +20,9 @@ level: OBM Nível 2
 > Let $ABC$ be a right triangle and $D$ a point on $BC$ such that $AD \perp BC$. The bisector of angle $\angle DAC$ meets segment $DC$ at $E$. Let $F$ be the point on line $AE$ such that $BF \perp AE$. Given that $\angle BAE = 45^\circ$, find the measure of $\angle BFC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
@@ -32,7 +33,9 @@ level: OBM Nível 2
 
 > Sia $ABC$ un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. La bisettrice dell'angolo $\angle DAC$ incontra il segmento $DC$ in $E$. Sia $F$ il punto sulla retta $AE$ tale che $BF \perp AE$. Dato che $\angle BAE = 45^\circ$, determina la misura di $\angle BFC$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 

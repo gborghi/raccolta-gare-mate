@@ -106,7 +106,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_geometria_solida,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_geometria_solida,method_conteggio,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,6 +116,7 @@ level: kangourou
 > Su un tetto piatto un muratore ha costruito un camino a base quadrata, aperto sia in alto sia in basso. Le sue quattro facciate sono tutte spesse 10 cm. Per costruire il camino, il muratore ha utilizzato soltanto mattoni interi di dimensioni, in centimetri, $10\times 10\times 20$. Quanti ne ha utilizzati?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 30
@@ -131,6 +132,7 @@ level: kangourou
 
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

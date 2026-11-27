@@ -182,7 +182,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -200,6 +200,7 @@ level: kangourou
 > Se il raggio di $\gamma$ è $4$ e $|YD| = 3$, quanto vale $|XE|$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 10
@@ -223,12 +224,13 @@ level: kangourou
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_probabilita,skill_modellizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_probabilita,method_estremalita,skill_modellizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -238,6 +240,7 @@ level: kangourou
 > Nel calendario di Kanglandia non esistono giorni festivi stabiliti a priori ma, in base ad un accordo sindacale, una ditta è costretta a dichiarare "giorno festivo per tutti" ogni giorno che sia di compleanno per almeno un dipendente. All'atto dell'assunzione di un dipendente non viene tenuta in alcun conto la sua data di nascita. Supponi che gli anni siano tutti di $365$ giorni e che le nascite a Kanglandia siano uniformemente distribuite nell'arco dell'anno. Una ditta vuole puntare a massimizzare il numero di giornate lavorative complessive dei suoi dipendenti nell'arco di un anno, ma deve stabilire in anticipo il numero dei dipendenti da assumere. Quanti dipendenti le conviene assumere? (Nota: le giornate lavorative complessive annuali con $1$ dipendente sarebbero $364$, con $2$ sarebbero $2 \times 363$ se i compleanni cadessero in giorni diversi, $2 \times 364$ se cadessero nello stesso giorno.)
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 364 o 365
@@ -253,5 +256,6 @@ level: kangourou
 
 
 **Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

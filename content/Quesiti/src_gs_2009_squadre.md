@@ -560,7 +560,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_geometria_piana,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_geometria_piana,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -570,6 +570,7 @@ level: squadre
 > Sul pianeta Ursa Minor Beta, c'è un lunghissimo rettilineo ferroviario con due monorotaie dove, grazie ad un sofisticato sistema computerizzato, i treni possono viaggiare in entrambe le direzioni su ciascuna monorotaia. Su tutto il rettilineo, non viaggiano mai due treni sulla stessa monorotaia. La distanza tra le due monorotaie è di 1.9m. I treni viaggiano a velocità costanti e predeterminate: le più comunemente usate per marcia rapida e normale risultano essere, rispettivamente, di 295.4km/h e 147.7km/h, quando trasformate nel sistema metrico decimale. Ogni treno ha in punta una piccola antenna (di dimensioni trascurabili) che, quando necessario, emette un segnale radio. Quando le antenne di due treni sono a distanza inferiore di o uguale a 749.25m emettono un segnale radio continuo per segnalare la posizione reciproca. Gli ingegneri ferroviari si sono resi conto che il segnale viene trasmesso per un tempo più lungo quando due treni marciano nello stesso senso rispetto a quando due treni marciano in sensi opposti. Qual è il rapporto tra la durata di trasmissione del segnale tra due treni che viaggiano nello stesso senso, uno in marcia rapida, l'altro in marcia normale, e la durata di trasmissione del segnale tra due treni che viaggiano in sensi opposti, uno in marcia rapida, l'altro in marcia normale? Nella risposta si scriva il rapporto moltiplicato per 100.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 3
@@ -585,6 +586,7 @@ level: squadre
 
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 

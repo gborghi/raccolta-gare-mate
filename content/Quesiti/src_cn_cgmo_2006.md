@@ -47,7 +47,7 @@ level: China Girls' Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,8 +57,9 @@ level: China Girls' Mathematical Olympiad
 > Let $ABCD$ be a convex quadrilateral. Let $O$ be the intersection of $AC$ and $BD$. Let $M$ and $N$ be the intersections of the circumcircle of $\triangle OAD$ with the circumcircle of $\triangle OBC$. Let $T$ and $S$ be the intersections of $MN$ with the circumcircle of $\triangle OAB$ and $\triangle OCD$ respectively. Prove that $M$ is the midpoint of $TS$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -69,7 +70,9 @@ level: China Girls' Mathematical Olympiad
 
 > Sia $ABCD$ un quadrilatero convesso. Sia $O$ l'intersezione di $AC$ e $BD$. Siano $M$ e $N$ le intersezioni della circonferenza circoscritta a $\triangle OAD$ con la circonferenza circoscritta a $\triangle OBC$. Siano $T$ e $S$ le intersezioni di $MN$ con la circonferenza circoscritta a $\triangle OAB$ e con $\triangle OCD$, rispettivamente. Dimostrare che $M$ è il punto medio di $TS$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 

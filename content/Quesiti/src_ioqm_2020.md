@@ -640,7 +640,7 @@ level: IOQM
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -650,8 +650,9 @@ level: IOQM
 > A total of $N$ thousand rupees is given to three persons $A, B, C$ every year, each being given an amount proportional to her age. In the first year, $A$ got six-seventh of the total amount. When the sixth payment was made, $A$ got half the total amount. In the second year, $B$ got Rs 1000 less than that she had in the first year; and $C$ got twice of that she had in the first year. Find $N$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
@@ -662,7 +663,9 @@ level: IOQM
 
 > Ogni anno vengono assegnati in totale $N$ mila rupie a tre persone $A, B, C$, e a ciascuna viene data una somma proporzionale alla sua età. Nel primo anno, $A$ ha ricevuto sei settimi dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ricevuto 1000 rupie in meno rispetto a quanto aveva ricevuto nel primo anno; e $C$ ha ricevuto il doppio di quanto aveva ricevuto nel primo anno. Determinare $N$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 

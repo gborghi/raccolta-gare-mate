@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,6 +20,7 @@ level: kangourou
 > Prima che venisse impiegato il lettore ottico, le schede-risposta di Kangourou venivano esaminate a mano. Un correttore umano esaminava in media 2 schede al minuto. Alle undici del mattino di un dato giorno aveva esaminato la metà delle schede che gli erano state assegnate per quel giorno. A mezzogiorno ne aveva esaminati i due terzi. Se non si fosse mai fermato e avesse continuato allo stesso ritmo, quante schede gli sarebbero rimaste da esaminare alla una di pomeriggio di quel giorno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 120
@@ -35,6 +36,7 @@ level: kangourou
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
@@ -72,7 +74,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -99,6 +101,7 @@ level: kangourou
 > Osserva la figura. Il triangolo $ABC$ è rettangolo e il punto $P$ dista $1$ cm sia dal cateto $AB$, che è lungo $8$ cm, sia dall'ipotenusa $BC$, che è lunga $10$ cm. Qual è l'area del rettangolo ombreggiato? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 5 cm2
@@ -129,7 +132,9 @@ level: kangourou
 
 > Observe the figure. Triangle $ABC$ is a right triangle, and point $P$ is $1$ cm away from both leg $AB$, which is $8$ cm long, and hypotenuse $BC$, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

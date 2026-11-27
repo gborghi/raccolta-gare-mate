@@ -76,7 +76,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,topic_insiemi_funzioni,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_conteggio,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -86,6 +86,7 @@ level: kangourou
 > Elena ha 20 biglie, ognuna colorata con uno e uno solo dei seguenti colori: verde, rosso, blu, marrone. 17 non sono verdi, 5 sono rosse, 12 non sono blu. Quante sono le biglie marroni?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 4
@@ -100,6 +101,7 @@ level: kangourou
 > Elena has 20 marbles, each coloured with one and only one of the following colours: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many of the marbles are brown?
 
 **Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 4
@@ -140,7 +142,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_geometria_piana,topic_combinatoria,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -152,6 +154,7 @@ level: kangourou
 > La figura, tracciata su un foglio a quadretti, rappresenta un canguro. Vuoi ritagliarlo in modo da ottenere soltanto triangoli. Qual è il minimo numero di triangoli che puoi ottenere? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
@@ -168,6 +171,7 @@ level: kangourou
 > The figure, drawn on a sheet of squared paper, represents a kangaroo. You want to cut it out so as to obtain only triangles. What is the minimum number of triangles you can obtain? (see figure)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6

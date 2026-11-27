@@ -538,7 +538,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,skill_astrazione"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,method_conteggio,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -548,6 +548,7 @@ level: squadre
 > Novanta concorrenti, due giochi su un'urna 1..4. Rapporto probabilità di vittoria dell'ultimo e del penultimo, moltiplicato per 100.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0066
@@ -561,10 +562,11 @@ level: squadre
 
 > Ninety contestants, two games on an urn holding 1..4. Ratio of the winning probabilities of the last and of the penultimate, multiplied by 100.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0066
 
 

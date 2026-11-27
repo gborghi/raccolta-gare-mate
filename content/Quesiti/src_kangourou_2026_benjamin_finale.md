@@ -106,7 +106,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,6 +116,7 @@ level: kangourou
 > In un quadrato sono stati tracciati 4 segmenti che hanno tutti un estremo in uno stesso punto interno al quadrato e l'altro nel punto medio di uno dei lati. Sono indicate le aree (in centimetri quadrati) di tre dei quattro quadrilateri: $200$, $320$, $160$. Di quanti centimetri quadrati è l'area del quarto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 280
@@ -129,7 +130,9 @@ level: kangourou
 
 > In a square, 4 line segments have been drawn, each having one endpoint at the same point inside the square and the other endpoint at the midpoint of one of the sides. The areas (in square centimeters) of three of the four quadrilaterals are given: $200$, $320$, $160$. What is the area of the fourth, in square centimeters?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 

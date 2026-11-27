@@ -42,7 +42,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,topic_insiemi_funzioni,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_conteggio,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,6 +52,7 @@ level: kangourou
 > Elena ha 20 biglie, ognuna colorata con uno e uno solo dei seguenti colori: verde, rosso, blu, marrone. 17 non sono verdi; 5 sono rosse; 12 non sono blu. Quante sono le biglie marroni?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 4
@@ -67,6 +68,7 @@ level: kangourou
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
@@ -175,7 +177,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_logica,topic_combinatoria,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_logica,topic_combinatoria,method_casework,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -185,6 +187,7 @@ level: kangourou
 > Maurizio si trova in un grattacielo di 99 piani, ma non si ricorda a che piano è. Il sistema per chiamare l'ascensore è inusuale. Ogni piano dispone di una pulsantiera con tasti dallo 0 al 99: premendo un pulsante l'ascensore raggiunge il piano corrispondente al numero riportato sul tasto, ma risulta occupato, qualunque sia il piano, per il tempo necessario a percorrere 99 piani. Considerando che Maurizio può vedere dal vetro della porta se l'ascensore passa per il suo piano e che ora l'ascensore è al piano 0, qual è il numero minimo di pulsanti premendo i quali avrà la garanzia di sapere a che piano si trova?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
@@ -200,5 +203,6 @@ level: kangourou
 
 
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
