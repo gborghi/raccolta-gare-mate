@@ -185,7 +185,7 @@ async function init() {
     filter = search.value
     page = 1
     const api = (window as any).__mateSearch
-    if (api && filter.trim()) void api.ensure(3).then(() => renderResults())
+    if (api && filter.trim()) void api.ensureTiers().then(() => renderResults())
     renderResults()
   })
   void loadSynonyms(prefix).then((ok) => {
@@ -241,6 +241,16 @@ async function init() {
   searchRow.className = "qtable-searchrow"
   searchRow.append(search, modeBtn)
 
+  const tierBox = document.createElement("fieldset")
+  tierBox.className = "sd-tiers cerca-tiers"
+  const api = (window as any).__mateSearch
+  if (api?.mountTierSelector) {
+    void api.mountTierSelector(tierBox).then(() => api.ensureTiers?.())
+  }
+  document.addEventListener("searchdepth-loaded", () => {
+    if (filter.trim() || searchMode === "content") renderResults()
+  })
+
   const resControls = document.createElement("div")
   resControls.className = "qtable-controls"
   resControls.append(count, perPageLbl)
@@ -258,7 +268,7 @@ async function init() {
     resultsBox.scrollIntoView({ block: "start", behavior: "smooth" })
   })
 
-  resultsBox.replaceChildren(hint, searchRow, resControls, table, pager)
+  resultsBox.replaceChildren(hint, searchRow, tierBox, resControls, table, pager)
 
   // AND/OR toggle
   const toggle = document.createElement("button")

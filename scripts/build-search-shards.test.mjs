@@ -80,10 +80,11 @@ test("t0 = works/concepts only, top30/160; excludes '#' atoms; no dead links", (
   assert.ok(e.c.includes("term29") && !/\bterm30\b/.test(e.c))
 })
 
-test("t1 delta = works, {s,c} only, top150/400 (superset of t0)", () => {
+test("t1 = works, full shape, top150/400 (superset of t0, standalone)", () => {
   const { t1 } = buildShards(master)
   const e = t1.entries.find((e) => e.s === "works/w1")
-  assert.deepEqual(Object.keys(e).sort(), ["c", "s"])
+  assert.deepEqual(Object.keys(e).sort(), ["c", "g", "s", "t"])
+  assert.equal(e.t, "W1")
   assert.ok(e.c.includes("term149") && !/\bterm150\b/.test(e.c))
   assert.equal(e.c.slice(0, 400), "s".repeat(400))
 })
@@ -131,15 +132,15 @@ test("an empty-content single-word atom still ships ≥2 words in t2 (title + au
   assert.ok(c.toLowerCase().includes("chesterton"))
 })
 
-test("t3 = Max delta: works AND atoms at full depth, {s,c} only", () => {
+test("t3 = Max: works AND atoms at full depth, standalone full shape", () => {
   const { t3 } = buildShards(master)
   const w = t3.entries.find((e) => e.s === "works/w1")
   assert.ok(w.c.includes("term499"))
   assert.equal(w.c.slice(0, 700), "s".repeat(700))
-  assert.deepEqual(Object.keys(w).sort(), ["c", "s"])
+  assert.deepEqual(Object.keys(w).sort(), ["c", "g", "s", "t"])
   const a = t3.entries.find((e) => e.s === "testi/w1#a2")
   assert.ok(a, "t3 must also ship the atom at full depth")
-  assert.deepEqual(Object.keys(a).sort(), ["c", "s"])
+  assert.deepEqual(Object.keys(a).sort(), ["c", "g", "s", "t"])
   assert.ok(a.c.includes("av499"), "Max atoms carry all 500 ranked terms, not just 80")
   assert.ok(a.c.includes("av79"))
 })

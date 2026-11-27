@@ -342,3 +342,103 @@ export function unionIds(lists: string[][]): string[] {
   }
   return out
 }
+
+// ---- Multi-select tiers (desktop: any combination; mobile: only those that fit) ----
+
+export const STORAGE_KEY_TIERS = "rgm-search-tiers"
+/** Highest tier a phone may load (t3 «Completo» is too large). */
+export const MOBILE_MAX_TIER = 2
+
+export type TierInfo = {
+  id: number
+  name: string
+  label: string
+  mobile: boolean
+}
+
+export const TIER_INFO: TierInfo[] = [
+  {
+    id: 0,
+    name: "Rapido",
+    label: "Titoli delle gare e delle pagine concetto (anteprima breve)",
+    mobile: true,
+  },
+  {
+    id: 1,
+    name: "Standard",
+    label: "Più testo delle pagine gara (non i singoli quesiti)",
+    mobile: true,
+  },
+  {
+    id: 2,
+    name: "Quesiti",
+    label: "Enunciati in italiano, inglese e lingua originale",
+    mobile: true,
+  },
+  {
+    id: 3,
+    name: "Completo",
+    label: "Testo integrale di pagine e quesiti",
+    mobile: false,
+  },
+]
+
+/** Current default: modal depth «Profondo» = tiers 0+1+2 (cumulative). */
+export function defaultTiers(mobile: boolean): number[] {
+  const all = [0, 1, 2]
+  return mobile ? all.filter((id) => id <= MOBILE_MAX_TIER) : all
+}
+
+export function allowedTiers(mobile: boolean): number[] {
+  return TIER_INFO.filter((t) => !mobile || t.mobile).map((t) => t.id)
+}
+
+/** Unique, sorted, inside the allowed set. Empty or invalid → default. */
+export function normalizeTiers(raw: unknown, mobile: boolean): number[] {
+  const allowed = new Set(allowedTiers(mobile))
+  const ids = (Array.isArray(raw) ? raw : [])
+    .map((n) => Number(n))
+    .filter((n) => allowed.has(n))
+  const uniq = [...new Set(ids)].sort((a, b) => a - b)
+  return uniq.length ? uniq : defaultTiers(mobile)
+}
+
+export function parseStoredTiers(raw: string | null, mobile: boolean): number[] {
+  if (!raw) return defaultTiers(mobile)
+  try {
+    return normalizeTiers(JSON.parse(raw), mobile)
+  } catch {
+    return defaultTiers(mobile)
+  }
+}
+
+/** Persist the intended set. `previous` keeps desktop-only tiers when saving from a phone. */
+export function mergeDesiredTiers(effective: number[], previous: number[], mobile: boolean): number[] {
+  const next = new Set(effective)
+  if (mobile) {
+    for (const id of previous) {
+      const info = TIER_INFO.find((t) => t.id === id)
+      if (info && !info.mobile) next.add(id)
+    }
+  }
+  return [...next].sort((a, b) => a - b)
+}
+
+export function formatBytes(n: number): string {
+  if (!Number.isFinite(n) || n < 0) return ""
+  if (n < 1000) return `${Math.round(n)} B`
+  if (n < 1e6) {
+    const kb = n / 1e3
+    return `${kb.toLocaleString("it-IT", { maximumFractionDigits: kb >= 10 ? 0 : 1 })} kB`
+  }
+  return `${(n / 1e6).toLocaleString("it-IT", { minimumFractionDigits: 1, maximumFractionDigits: 1 })} MB`
+}
+
+/** Apply selected tiers in ascending id order. Later tiers replace content for the same slug. */
+export function mergeSelectedEntries(tiers: { id: number; entries: Entry[] }[]): Doc[] {
+  const store = new Map<string, Doc>()
+  for (const t of [...tiers].sort((a, b) => a.id - b.id)) {
+    mergeTier(store, t.entries)
+  }
+  return [...store.values()]
+}
