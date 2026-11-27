@@ -176,7 +176,7 @@ level: IMO
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometry]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]], [[Algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -197,7 +197,7 @@ level: IMO
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Algebra e Analisi]], [[Geometria]], [[Algebra]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 

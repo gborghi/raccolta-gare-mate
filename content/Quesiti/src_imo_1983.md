@@ -26,7 +26,7 @@ level: IMO
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 
@@ -45,7 +45,7 @@ level: IMO
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Algebra e Analisi]], [[Algebra]]
+**Area:** [[Algebra e Analisi]]
 
 
 
