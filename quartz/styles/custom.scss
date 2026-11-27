@@ -222,14 +222,27 @@
 }
 
 // --- Left sidebar toggle (masthead button) -----------------------------------
-// `body.left-collapsed` (set by navbar.inline.ts) hides the left rail and reflows the
-// grid to reclaim its column. Mirrors the home-page collapse, but user-driven and
-// reversible. Only meaningful on tablet/desktop — on mobile the rail stacks and the
-// toggle is hidden. The sidebar is clipped to 0×0 (not display:none) so the fixed
-// search modal it hosts still opens from the masthead icon. Literal 800/1200/320px
-// track $mobile/$desktop/$sidePanelWidth in variables.scss.
+// `html.left-collapsed` / `body.left-collapsed` (set in <head> before paint, then
+// kept in sync by navbar.inline.ts) hides the left rail and reflows the grid to
+// reclaim its column. The sidebar is clipped to 0×0 (not display:none) so the
+// fixed search modal it hosts still opens from the masthead icon. Literal
+// 800/1200/320px track $mobile/$desktop/$sidePanelWidth in variables.scss.
+html.left-collapsed #quartz-body .left.sidebar,
+body.left-collapsed #quartz-body .left.sidebar {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 0 !important;
+  min-width: 0 !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0;
+  overflow: hidden;
+  z-index: 1001;
+}
 @media all and (min-width: 800px) {
   // desktop: keep the right rail column, drop the left one
+  html.left-collapsed #quartz-body,
   body.left-collapsed #quartz-body {
     grid-template-columns: auto 320px;
     grid-template-areas:
@@ -237,21 +250,10 @@
       "grid-center grid-sidebar-right"
       "grid-footer grid-sidebar-right";
   }
-  body.left-collapsed #quartz-body .left.sidebar {
-    position: absolute !important;
-    top: 0;
-    left: 0;
-    width: 0 !important;
-    min-width: 0 !important;
-    height: 0 !important;
-    padding: 0 !important;
-    margin: 0;
-    overflow: hidden;
-    z-index: 1001;
-  }
 }
 // tablet (800–1200): the right rail is a row, not its own column → single column
 @media all and (min-width: 800px) and (max-width: 1200px) {
+  html.left-collapsed #quartz-body,
   body.left-collapsed #quartz-body {
     grid-template-columns: auto;
     grid-template-areas:
@@ -261,14 +263,15 @@
       "grid-footer";
   }
 }
+.navbar-toggle-left {
+  min-width: 44px;
+  min-height: 44px;
+  width: 44px;
+  height: 44px;
+}
 .navbar-toggle-left[aria-expanded="false"] {
   background: rgba(241, 247, 242, 0.12);
   border-color: rgba(241, 247, 242, 0.5);
-}
-@media (max-width: 800px) {
-  .navbar-toggle-left {
-    display: none;
-  }
 }
 
 // --- Navbar offset / search popout (mirrors maturità) -------------------------
@@ -1689,25 +1692,36 @@ table.qtable-table th.qtable-th,
 /* Ported from the physics site; uses Quartz-standard palette vars (--secondary = the site green). */
 .atom-reader { display: flex; flex-direction: column; gap: 0; margin: 0 0 2rem; }
 .ar-bar {
-  position: sticky; top: 0; z-index: 5; display: flex; align-items: center; gap: 0.6rem;
-  padding: 0.5rem 0.2rem; margin-bottom: 0.4rem;
+  position: sticky;
+  top: var(--navbar-h);
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.2rem;
+  margin-bottom: 0.4rem;
   background: color-mix(in srgb, var(--light) 90%, transparent);
-  backdrop-filter: blur(6px); border-bottom: 1px solid var(--lightgray);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--lightgray);
 }
 .ar-bar .ar-spacer { flex: 1; }
-.ar-crumb { font-size: 0.82rem; color: var(--darkgray); }
+.ar-crumb { font-size: 0.82rem; color: var(--darkgray); min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ar-crumb .ar-count { color: var(--gray); font-variant-numeric: tabular-nums; margin-left: 0.5rem; font-size: 0.78rem; }
-.ar-pager { display: inline-flex; gap: 0.3rem; }
+.ar-pager { display: inline-flex; gap: 0.3rem; flex-shrink: 0; }
 .ar-pager button, .ar-tocbtn {
   font: inherit; border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
-  width: 1.9rem; height: 1.9rem; border-radius: 7px; cursor: pointer; line-height: 1; font-size: 1rem;
+  min-width: 44px; min-height: 44px; width: 44px; height: 44px;
+  border-radius: 7px; cursor: pointer; line-height: 1; font-size: 1.15rem;
+  display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0;
 }
 .ar-pager button:disabled { opacity: 0.35; cursor: default; }
 .ar-pager button:hover:not(:disabled), .ar-tocbtn:hover { border-color: var(--secondary); color: var(--secondary); }
-.ar-tocbtn { display: none; }
+.ar-tocbtn[aria-expanded="false"] { background: var(--lightgray); }
 .ar-shell { display: grid; grid-template-columns: 230px minmax(0, 1fr); gap: 1.4rem; }
+.ar-shell.toc-collapsed { grid-template-columns: minmax(0, 1fr); }
+.ar-shell.toc-collapsed .ar-toc { display: none; }
 .ar-toc {
-  align-self: start; position: sticky; top: 3.2rem; max-height: calc(100vh - 4rem);
+  align-self: start; position: sticky; top: calc(var(--navbar-h) + 3.6rem); max-height: calc(100vh - var(--navbar-h) - 4rem);
   overflow: auto; padding-right: 0.6rem; border-right: 1px solid var(--lightgray); font-size: 0.84rem;
 }
 .ar-toc-list { list-style: none; margin: 0; padding: 0; }
@@ -1722,15 +1736,30 @@ table.qtable-table th.qtable-th,
 }
 .ar-pane { min-width: 0; }
 .ar-pane > :first-child { margin-top: 0; }
-@media (max-width: 800px) {
-  .ar-tocbtn { display: inline-flex; align-items: center; justify-content: center; }
+@media (max-width: 799px) {
   .ar-shell { grid-template-columns: 1fr; }
+  .ar-shell.toc-collapsed { grid-template-columns: 1fr; }
   .ar-toc {
-    position: fixed; inset: 3.5rem auto 0 0; width: 78%; max-width: 300px; z-index: 8;
-    background: var(--light); border-right: 1px solid var(--lightgray); padding: 1rem;
-    transform: translateX(-102%); transition: transform 0.22s ease; box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
+    display: block; /* override desktop display:none when collapsed: keep it a drawer */
+    position: fixed;
+    top: var(--navbar-h);
+    right: auto;
+    bottom: 0;
+    left: 0;
+    width: 78%;
+    max-width: 300px;
+    max-height: none;
+    z-index: 30;
+    background: var(--light);
+    border-right: 1px solid var(--lightgray);
+    padding: 1rem;
+    transform: translateX(-102%);
+    transition: transform 0.22s ease;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
   }
-  .ar-shell.toc-open .ar-toc { transform: none; }
+  .ar-shell.toc-collapsed .ar-toc { display: block; transform: translateX(-102%); }
+  .ar-shell:not(.toc-collapsed) .ar-toc,
+  .ar-shell.toc-open .ar-toc { display: block; transform: none; }
 }
 
 // =====================================================================

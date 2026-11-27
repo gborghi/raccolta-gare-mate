@@ -38,6 +38,12 @@ export default (() => {
 
     return (
       <head>
+        {/* Apply left-sidebar collapsed state before first paint to avoid a flash. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var v=localStorage.getItem("raccolta-left-collapsed");var m=window.matchMedia("(max-width: 799px)").matches;var c=m?!0:v==="1";if(c)document.documentElement.classList.add("left-collapsed");window.__rgmLeftCollapsed=c}catch(e){}})();`,
+          }}
+        />
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (

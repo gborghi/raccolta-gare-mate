@@ -54,7 +54,8 @@ const Navbar: QuartzComponent = ({ cfg, displayClass, fileData }: QuartzComponen
           <button
             class="navbar-icon navbar-toggle-left"
             type="button"
-            aria-label="Mostra/nascondi barra laterale"
+            aria-label="Mostra o nascondi la barra laterale"
+            aria-controls="site-left-sidebar"
             aria-expanded="true"
           >
             <svg viewBox="0 0 20 20" width="17" height="17" aria-hidden="true">

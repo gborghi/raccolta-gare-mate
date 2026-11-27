@@ -19,16 +19,37 @@ function fixGraphLabel() {
 fixGraphLabel()
 document.addEventListener("nav", fixGraphLabel)
 
-// Left-sidebar toggle. A collapsed/expanded preference is persisted in localStorage and
-// reflected as a `left-collapsed` class on <body>; custom.scss reflows the grid to reclaim
-// the column and clips the sidebar to nothing (the fixed search modal still escapes, exactly
-// like on the home page). Re-applied on every SPA nav because micromorph re-renders <body>
-// from the server HTML, which never carries the class.
+// Left-sidebar toggle. Preference is persisted in localStorage and reflected as a
+// `left-collapsed` class on <html> and <body>; custom.scss reflows the grid to
+// reclaim the column and clips the sidebar to nothing (the fixed search modal
+// still escapes, exactly like on the home page). The class is also applied on
+// <html> by an inline <head> script so the first paint already matches the
+// saved state (no flash). Re-applied on every SPA nav because micromorph
+// re-renders <body> from the server HTML, which never carries the class.
 const LEFT_KEY = "raccolta-left-collapsed"
+const isMobile = () => window.matchMedia("(max-width: 799px)").matches
+function initialLeftCollapsed(): boolean {
+  const preset = (window as any).__rgmLeftCollapsed
+  if (typeof preset === "boolean") return preset
+  try {
+    const v = localStorage.getItem(LEFT_KEY)
+    return isMobile() ? true : v === "1"
+  } catch {
+    return isMobile()
+  }
+}
+let leftCollapsed = initialLeftCollapsed()
 function applyLeftCollapsed() {
-  const collapsed = localStorage.getItem(LEFT_KEY) === "1"
-  document.body.classList.toggle("left-collapsed", collapsed)
-  document.querySelector(".navbar-toggle-left")?.setAttribute("aria-expanded", String(!collapsed))
+  document.documentElement.classList.toggle("left-collapsed", leftCollapsed)
+  document.body.classList.toggle("left-collapsed", leftCollapsed)
+  const btn = document.querySelector(".navbar-toggle-left")
+  if (btn) {
+    btn.setAttribute("aria-expanded", String(!leftCollapsed))
+    btn.setAttribute(
+      "aria-label",
+      leftCollapsed ? "Mostra la barra laterale" : "Nascondi la barra laterale",
+    )
+  }
 }
 applyLeftCollapsed()
 document.addEventListener("nav", applyLeftCollapsed)
@@ -51,7 +72,11 @@ if (!(window as any).__navbarToolsBound) {
       ;(document.querySelector(".darkmode") as HTMLElement | null)?.click()
     } else if (el.closest(".navbar-toggle-left")) {
       e.preventDefault()
-      localStorage.setItem(LEFT_KEY, localStorage.getItem(LEFT_KEY) === "1" ? "0" : "1")
+      leftCollapsed = !leftCollapsed
+      try {
+        localStorage.setItem(LEFT_KEY, leftCollapsed ? "1" : "0")
+      } catch {}
+      ;(window as any).__rgmLeftCollapsed = leftCollapsed
       applyLeftCollapsed()
     }
   })

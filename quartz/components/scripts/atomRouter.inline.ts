@@ -103,7 +103,28 @@ function el<K extends keyof HTMLElementTagNameMap>(
   return e
 }
 
+const TOC_KEY = "raccolta-toc-collapsed"
+const isMobile = () => window.matchMedia("(max-width: 799px)").matches
+function initialTocCollapsed(): boolean {
+  if (isMobile()) return true
+  try {
+    return localStorage.getItem(TOC_KEY) === "1"
+  } catch {
+    return false
+  }
+}
+function applyToc(shell: HTMLElement, tocBtn: HTMLElement, collapsed: boolean) {
+  shell.classList.toggle("toc-collapsed", collapsed)
+  shell.classList.toggle("toc-open", !collapsed)
+  tocBtn.setAttribute("aria-expanded", String(!collapsed))
+  tocBtn.setAttribute(
+    "aria-label",
+    collapsed ? "Mostra l'indice dei quesiti" : "Nascondi l'indice dei quesiti",
+  )
+}
+
 function build(reader: HTMLElement) {
+
   if (reader.dataset.mounted) return
   reader.dataset.mounted = "1"
   const container = reader.parentElement
@@ -123,22 +144,29 @@ function build(reader: HTMLElement) {
   // ---- reader chrome ----
   const bar = el("div", "ar-bar")
   const tocBtn = el("button", "ar-tocbtn", "&#9776;")
-  tocBtn.setAttribute("aria-label", "Indice")
+  tocBtn.type = "button"
+  tocBtn.setAttribute("aria-controls", "ar-toc")
   const crumb = el("div", "ar-crumb")
   const spacer = el("div", "ar-spacer")
   const pager = el("div", "ar-pager")
   const prevBtn = el("button", "ar-prev", "&#8249;")
   const nextBtn = el("button", "ar-next", "&#8250;")
-  prevBtn.setAttribute("aria-label", "Precedente")
-  nextBtn.setAttribute("aria-label", "Successivo")
+  prevBtn.type = "button"
+  nextBtn.type = "button"
+  prevBtn.setAttribute("aria-label", "Quesito precedente")
+  nextBtn.setAttribute("aria-label", "Quesito successivo")
   pager.append(prevBtn, nextBtn)
   bar.append(tocBtn, crumb, spacer, pager)
 
   const shell = el("div", "ar-shell")
   const toc = el("nav", "ar-toc")
-  toc.setAttribute("aria-label", "Indice")
+  toc.id = "ar-toc"
+  toc.setAttribute("aria-label", "Indice dei quesiti")
   const pane = el("article", "ar-pane")
   shell.append(toc, pane)
+
+  let tocCollapsed = initialTocCollapsed()
+  applyToc(shell, tocBtn, tocCollapsed)
 
   reader.replaceChildren(bar, shell)
 
@@ -221,7 +249,12 @@ function build(reader: HTMLElement) {
     }
     render(id)
     if (push && location.hash.slice(1) !== id) history.pushState(null, "", `#${id}`)
-    shell.classList.remove("toc-open")
+    // On a phone the indice is a drawer: close it after picking a quesito, but do
+    // not write localStorage so a desktop "open" preference is not overwritten.
+    if (isMobile() && !tocCollapsed) {
+      tocCollapsed = true
+      applyToc(shell, tocBtn, tocCollapsed)
+    }
   }
   function current(): string {
     return decodeURIComponent(location.hash.slice(1)) || order[0]
@@ -235,7 +268,13 @@ function build(reader: HTMLElement) {
     const i = idx(shownId)
     if (i < order.length - 1) go(order[i + 1], true)
   }
-  tocBtn.onclick = () => shell.classList.toggle("toc-open")
+  tocBtn.onclick = () => {
+    tocCollapsed = !tocCollapsed
+    try {
+      localStorage.setItem(TOC_KEY, tocCollapsed ? "1" : "0")
+    } catch {}
+    applyToc(shell, tocBtn, tocCollapsed)
+  }
   reader.addEventListener("click", (e) => {
     const a = (e.target as HTMLElement).closest?.('a[href^="#"]') as HTMLAnchorElement | null
     if (!a || !reader.contains(a)) return
