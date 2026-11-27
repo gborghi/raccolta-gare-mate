@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Q is incenter of triangle PAB via two intersecting circles*
 
-> Let $\omega_1$ and $\omega_2$ be two circles with centres $C_1$ and $C_2$, respectively, that intersect at two points $P$ and $Q$. Suppose that the circumscribed circle of triangle $PC_1C_2$ meets $\omega_1$ again at $A \neq P$ and meets $\omega_2$ again at $B \neq P$. Suppose further that $Q$ lies in the interior of triangle $PAB$. Prove that $Q$ is the incentre of triangle $PAB$.
+> Sejam $\omega_1$ e $\omega_2$ duas circunferências de centros $C_1$ e $C_2$, respectivamente, que se cortam em dois pontos $P$ e $Q$. Suponha que a circunferência circunscrita ao triângulo $PC_1C_2$ intersecte $\omega_1$ novamente em $A \neq P$ e $\omega_2$ novamente em $B \neq P$. Suponha ainda que $Q$ está no interior do triângulo $PAB$. Demonstre que $Q$ é o incentro do triângulo $PAB$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -40,14 +40,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Q is incenter of triangle PAB via two intersecting circles*
+
+> Let $\omega_1$ and $\omega_2$ be two circles with centres $C_1$ and $C_2$, respectively, that intersect at two points $P$ and $Q$. Suppose that the circumscribed circle of triangle $PC_1C_2$ meets $\omega_1$ again at $A \neq P$ and meets $\omega_2$ again at $B \neq P$. Suppose further that $Q$ lies in the interior of triangle $PAB$. Prove that $Q$ is the incentre of triangle $PAB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,method_casework,method_invarianti,method_backward,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum operations to mark integer n on real line starting from 0 and 1*
 
-> We are given the real line with only the points $0$ and $1$ marked. We may perform the following operation as many times as we wish: choose two already-marked points $a$ and $b$, and mark the reflection of $a$ across $b$. Let $f(n)$ be the minimum number of operations needed to mark the real number $n$ (which is the number at distance $|n|$ from $0$, to the right of $0$ if $n > 0$ and to the left of $0$ if $n < 0$). For example, $f(0) = f(1) = 0$ and $f(-1) = f(2) = 1$. Find $f(n)$.
+> São dadas a reta real e os únicos pontos marcados $0$ e $1$. Podemos realizar quantas vezes quisermos a seguinte operação: tomamos dois pontos já marcados $a$ e $b$ e marcamos o simétrico de $a$ com relação a $b$. Seja $f(n)$ a quantidade mínima de operações necessárias para marcar na reta real o número $n$ (que é o número a uma distância $|n|$ do $0$ e está à direita de $0$ se $n > 0$ e à esquerda de $0$ se $n < 0$). Por exemplo, $f(0) = f(1) = 0$ e $f(-1) = f(2) = 1$. Encontre $f(n)$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
@@ -70,17 +85,31 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum operations to mark integer n on real line starting from 0 and 1*
+
+> We are given the real line with only the points $0$ and $1$ marked. We may perform the following operation as many times as we wish: choose two already-marked points $a$ and $b$, and mark the reflection of $a$ across $b$. Let $f(n)$ be the minimum number of operations needed to mark the real number $n$ (which is the number at distance $|n|$ from $0$, to the right of $0$ if $n > 0$ and to the left of $0$ if $n < 0$). For example, $f(0) = f(1) = 0$ and $f(-1) = f(2) = 1$. Find $f(n)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all functions on positive reals satisfying f(xy+f(x))=f(f(x)f(y))+x*
 
-> Let $\mathbb{R}_{>0}$ be the set of positive real numbers. Determine all functions $f : \mathbb{R}_{>0} \to \mathbb{R}_{>0}$ such that
+> Seja $\mathbb{R}_{>0}$ o conjunto dos números reais positivos. Determine todas as funções $f : \mathbb{R}_{>0} \to \mathbb{R}_{>0}$ tais que
 > $$f(xy + f(x)) = f(f(x)f(y)) + x$$
-> for all positive reals $x$ and $y$.
+> para todos os reais positivos $x$ e $y$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -105,15 +134,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all functions on positive reals satisfying f(xy+f(x))=f(f(x)f(y))+x*
+
+> Let $\mathbb{R}_{>0}$ be the set of positive real numbers. Determine all functions $f : \mathbb{R}_{>0} \to \mathbb{R}_{>0}$ such that
+> $$f(xy + f(x)) = f(f(x)f(y)) + x$$
+> for all positive reals $x$ and $y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *For every positive m there exists n_m so unit sum of n-th powers of reciprocals holds*
 
-> Prove that for every positive integer $m$, there exists a positive integer $n_m$ such that for every positive integer $n \ge n_m$, there exist positive integers (not necessarily distinct) $a_1, a_2, \ldots, a_n$ such that
-> $$\frac{1}{a_1^n} + \frac{1}{a_2^n} + \cdots + \frac{1}{a_n^n} = 1.$$
+> Prove que para todo inteiro positivo $m$, existe um inteiro positivo $n_m$ tal que para todo inteiro positivo $n \ge n_m$, existem inteiros positivos (não necessariamente distintos) $a_1, a_2, \ldots, a_n$ tais que
+> $$\frac{1}{a_1^m} + \frac{1}{a_2^m} + \cdots + \frac{1}{a_n^m} = 1.$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
@@ -137,18 +183,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*For every positive m there exists n_m so unit sum of n-th powers of reciprocals holds*
+
+> Prove that for every positive integer $m$, there exists a positive integer $n_m$ such that for every positive integer $n \ge n_m$, there exist positive integers (not necessarily distinct) $a_1, a_2, \ldots, a_n$ such that
+> $$\frac{1}{a_1^n} + \frac{1}{a_2^n} + \cdots + \frac{1}{a_n^n} = 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_colorazione,method_cassetti,skill_modellizzazione,skill_astrazione,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Partition positive integers into two or three subsets with ratio bounds*
 
-> (a) Prove that given constants $a, b$ with $1 < a < 2 < b$, there is no partition of the set of positive integers into two subsets $A_0, A_1$ such that: if $j \in \{0,1\}$ and $m, n$ belong to $A_j$, then $n/m < a$ or $n/m > b$.
-> 
-> (b) Determine all pairs of reals $(a, b)$ with $1 < a < 2 < b$ for which the following property holds: there exists a partition of the set of positive integers into three subsets $A_0, A_1, A_2$ such that: if $j \in \{0, 1, 2\}$ and $m, n$ belong to $A_j$, then $n/m < a$ or $n/m > b$.
-> 
-> **Remark:** A partition of a set means writing that set as a union of pairwise disjoint subsets.
+> (a) Prove que dadas constantes $a, b$ com $1 < a < 2 < b$, não existe partição do conjunto dos inteiros positivos em dois subconjuntos $A_0, A_1$ tal que: se $j \in \{0, 1\}$ e $m, n$ pertencem a $A_j$, então $n/m < a$ ou $n/m > b$.
+>
+> (b) Determine todos os pares de reais $(a, b)$ com $1 < a < 2 < b$ para os quais vale a seguinte propriedade: existe uma partição do conjunto dos inteiros positivos em três subconjuntos $A_0, A_1, A_2$ tal que se $j \in \{0, 1, 2\}$ e $m, n$ pertencem a $A_j$, então $n/m < a$ ou $n/m > b$.
+>
+> Observação: Uma partição de um conjunto é escrever tal conjunto como união de subconjuntos disjuntos dois a dois.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
@@ -175,14 +237,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Partition positive integers into two or three subsets with ratio bounds*
+
+> (a) Prove that given constants $a, b$ with $1 < a < 2 < b$, there is no partition of the set of positive integers into two subsets $A_0, A_1$ such that: if $j \in \{0,1\}$ and $m, n$ belong to $A_j$, then $n/m < a$ or $n/m > b$.
+> 
+> (b) Determine all pairs of reals $(a, b)$ with $1 < a < 2 < b$ for which the following property holds: there exists a partition of the set of positive integers into three subsets $A_0, A_1, A_2$ such that: if $j \in \{0, 1, 2\}$ and $m, n$ belong to $A_j$, then $n/m < a$ or $n/m > b$.
+> 
+> **Remark:** A partition of a set means writing that set as a union of pairwise disjoint subsets.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Star pentagon circumcircle intersections yield five concurrent lines*
 
-> Let $A_1A_2A_3A_4A_5$ be a convex pentagon inscribed in a circle such that $\angle A_i + \angle A_{i+1} > 180^\circ$ for $i = 1, 2, 3, 4, 5$ (indices mod 5 throughout the problem). Define $B_i$ as the intersection of lines $A_{i-1}A_i$ and $A_{i+1}A_{i+2}$, so that the five points $B_i$ form a star. The circumcircles of triangles $A_{i-1}B_{i-1}A_i$ and $A_iB_{i+1}A_{i+1}$ meet again at $C_i \neq A_i$, and the circumcircles of triangles $B_{i-1}A_iB_i$ meet again at $D_i \neq A_i$. Prove that the lines $A_iC_i$ and $B_iD_i$, for $i = 1, 2, 3, 4, 5$, all pass through a common point.
+> Seja $A_1A_2A_3A_4A_5$ um pentágono convexo inscritível com $\angle A_i + \angle A_{i+1} > 180^\circ$ para $i = 1, 2, 3, 4, 5$, (índices módulo 5 em todo o problema). Defina $B_i$ como a interseção das retas $A_{i-1}A_i$ e $A_{i+1}A_{i+2}$, formando uma estrela. Os circuncírculos dos triângulos $A_{i-1}B_{i-1}A_i$ e $A_iB_iA_{i+1}$ se cortam novamente em $C_i \neq A_i$, e os circuncírculos dos triângulos $B_{i-1}A_iB_i$ e $B_iA_{i+1}B_{i+1}$ se cortam novamente em $D_i \neq B_i$. Prove que as dez retas $A_iC_i$, $B_iD_i$, $i = 1, 2, 3, 4, 5$, têm um ponto em comum.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -202,3 +283,18 @@ level: OBM Nível 3
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Star pentagon circumcircle intersections yield five concurrent lines*
+
+> Let $A_1A_2A_3A_4A_5$ be a convex pentagon inscribed in a circle such that $\angle A_i + \angle A_{i+1} > 180^\circ$ for $i = 1, 2, 3, 4, 5$ (indices mod 5 throughout the problem). Define $B_i$ as the intersection of lines $A_{i-1}A_i$ and $A_{i+1}A_{i+2}$, so that the five points $B_i$ form a star. The circumcircles of triangles $A_{i-1}B_{i-1}A_i$ and $A_iB_{i+1}A_{i+1}$ meet again at $C_i \neq A_i$, and the circumcircles of triangles $B_{i-1}A_iB_i$ meet again at $D_i \neq A_i$. Prove that the lines $A_iC_i$ and $B_iD_i$, for $i = 1, 2, 3, 4, 5$, all pass through a common point.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)

@@ -64,9 +64,7 @@ level: Olimpiade Polacca Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Ortocentro di un triangolo inscritto in una circonferenza di centro O, con AO = AH: misura dell'angolo in A*
-
+*Ortocentro H e circocentro O equidistanti dal vertice A: determinare l'ampiezza dell'angolo in A.*
 > Sia $H$ l'ortocentro di un triangolo inscritto in una circonferenza di centro $O$. Sapendo che $AO = AH$, trovare la misura di $\angle CAB$.
 
 

@@ -12,14 +12,12 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_grafi,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *12 numbered chairs, grasshopper jumps exactly 4 numbers*
 
-> 12 chairs are numbered 1 to 12. A grasshopper can jump from chair $k$ to chair $n$ if $k - n$ is one of the four numbers $-8, -5, 5, 8$. On each jump it visits each chair exactly once.
-> 
-> a) Find all possible initial positions.
+> 12 chaises sont numérotées de 1 à 12. Une sauterelle peut sauter de la chaise $k$ à la chaise $n$ si $k - n$ est l'un des quatre nombres $-8$, $-5$, $5$, $8$. On sait qu'elle a visité chaque chaise exactement une fois. Quelles sont les positions initiales possibles ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -43,17 +41,33 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*12 numbered chairs, grasshopper jumps exactly 4 numbers*
+
+> 12 chairs are numbered 1 to 12. A grasshopper can jump from chair $k$ to chair $n$ if $k - n$ is one of the four numbers $-8, -5, 5, 8$. On each jump it visits each chair exactly once.
+> 
+> a) Find all possible initial positions.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compare two sums A and B involving reciprocals*
 
-> a) Let $A = (1 + 1/2)/2$ and $B = (1 + 1/2 + 1/3)/3$. Show that $A > B$.
-> 
-> b) Let $A = (1 + 1/2 + 1/3 + \cdots + 1/2017)/2017$ and $B = (1 + 1/2 + 1/3 + \cdots + 1/2018)/2018$. Show that $A > B$.
+> a) On pose $A = (1 + 1/2)/2$ et $B = (1 + 1/2 + 1/3)/3$. Montrer que $A > B$.
+>
+> b) On pose $A = (1 + 1/2 + 1/3 + 1/4 + \cdots + 1/2017)/2017$ et $B = (1 + 1/2 + 1/3 + 1/4 + \cdots + 1/2018)/2018$. Montrer que $A > B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
@@ -77,15 +91,31 @@ level: Coupe Animath Printemps
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compare two sums A and B involving reciprocals*
+
+> a) Let $A = (1 + 1/2)/2$ and $B = (1 + 1/2 + 1/3)/3$. Show that $A > B$.
+> 
+> b) Let $A = (1 + 1/2 + 1/3 + \cdots + 1/2017)/2017$ and $B = (1 + 1/2 + 1/3 + \cdots + 1/2018)/2018$. Show that $A > B$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all n equal to sum of squares of its two smallest divisors*
 
-> Let $n$ be a positive integer. Write $1 = d_1 < d_2 < \cdots < d_k = n$ for its divisors. We are given that $n = d_1^2 + d_2^2$. Determine all possible values of $n$.
+> Soit $n$ un entier naturel. On note $1 = d_1 < d_2 < d_3 < \cdots < d_k = n$ ses diviseurs. On remarque que $n = d_2^2 + d_3^2$. Déterminer toutes les valeurs possibles de $n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -107,15 +137,29 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all n equal to sum of squares of its two smallest divisors*
+
+> Let $n$ be a positive integer. Write $1 = d_1 < d_2 < \cdots < d_k = n$ for its divisors. We are given that $n = d_1^2 + d_2^2$. Determine all possible values of $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all real a such that floor expressions are integers*
 
-> Find all real numbers $a$ such that $a + \frac{1}{2}$ and $\frac{1}{a} - \frac{1}{2}$ are both integers.
+> Trouver tous les nombres réels $a$ tels que $a + \dfrac{1}{2}$ et $\dfrac{1}{a} - \dfrac{3}{4}$ soient des entiers.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -137,15 +181,29 @@ level: Coupe Animath Printemps
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all real a such that floor expressions are integers*
+
+> Find all real numbers $a$ such that $a + \frac{1}{2}$ and $\frac{1}{a} - \frac{1}{2}$ are both integers.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Two points on semicircle of diameter AD with AB=BC=1, find CD*
 
-> On a semicircle of diameter $[AD]$, place two points $B$ and $C$ such that $AB = BC = 1$. Suppose $AD = 3$. Calculate the length $CD$.
+> Sur un demi-cercle de diamètre $[AD]$, on place deux points $B$ et $C$ tels que $AB = BC = 1$. On suppose que $AD = 3$. Calculer la longueur $CD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -167,19 +225,35 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two points on semicircle of diameter AD with AB=BC=1, find CD*
+
+> On a semicircle of diameter $[AD]$, place two points $B$ and $C$ such that $AB = BC = 1$. Suppose $AD = 3$. Calculate the length $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find smallest N with 125 distinct elements satisfying two conditions*
 
-> Find the smallest positive integer $N$ such that one can find 125 distinct integers $a_1, a_2, \ldots, a_{125}$ on a single line sorted in some order such that:
-> (1) each of these integers is strictly positive, strictly less than, or equal to $N$;
-> (2) each of the 123 integers $a_2, \ldots, a_{124}$ is strictly greater than the arithmetic mean of the integer immediately before it and the integer immediately after it, as written on the line.
-> 
-> N.B. The arithmetic mean of $a$ and $b$ is the number $\dfrac{a+b}{2}$.
+> Déterminer le plus petit entier $N$ tel que l'on puisse trouver 125 entiers distincts $a_1$, $a_2$, $\ldots$, $a_{125}$ sur une ligne de sorte que :
+>
+> (1) chacun de ces entiers est strictement positif, et inférieur ou égal à $N$ ;
+>
+> (2) chacun des 123 entiers $a_2$, $\ldots$, $a_{124}$ est strictement plus grand que la moyenne arithmétique de l'entier écrit à sa gauche et de l'entier écrit à sa droite.
+>
+> N.B. La moyenne arithmétique de $a$ et $b$ est le nombre $\dfrac{a+b}{2}$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -203,10 +277,53 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find smallest N with 125 distinct elements satisfying two conditions*
+
+> Find the smallest positive integer $N$ such that one can find 125 distinct integers $a_1, a_2, \ldots, a_{125}$ on a single line sorted in some order such that:
+> (1) each of these integers is strictly positive, strictly less than, or equal to $N$;
+> (2) each of the 123 integers $a_2, \ldots, a_{124}$ is strictly greater than the arithmetic mean of the integer immediately before it and the integer immediately after it, as written on the line.
+> 
+> N.B. The arithmetic mean of $a$ and $b$ is the number $\dfrac{a+b}{2}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Trapezoid ABCD, diagonals meet at E, line through E parallel to AB meets AD at F, show angle BFC=90*
+
+> Soit $ABCD$ un trapèze avec $(AB)$ et $(CD)$ parallèles, tel que $AB + CD = AD$. Les diagonales $(AC)$ et $(BD)$ se coupent en un point $E$. La droite passant par $E$ et parallèle à $(AB)$ coupe $(AD)$ en un point $F$. Montrer que $\widehat{BFC} = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Trapezio ABCD con diagonali che si incontrano in E; la retta per E parallela ad AB incontra AD in F: dimostrare che l'angolo BFC è retto.*
+> $ABCD$ sia un trapezoide con $AB + CD = AD$. Le diagonali $(AC)$ e $(BD)$ si incontrano in un punto $E$. La linea attraverso $E$ parallela a $(AB)$ incontra $(AD)$ al punto $F$. Mostra che $\widehat{BFC} = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trapezoid ABCD, diagonals meet at E, line through E parallel to AB meets AD at F, show angle BFC=90*
@@ -220,28 +337,15 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*ABCD trapezoide, diagonali che si incontrano a E, linea attraverso E parallela ad AB che si incontrano ad AD a F, angolo di mostra BFC=90*
-
-> $ABCD$ sia un trapezoide con $AB + CD = AD$. Le diagonali $(AC)$ e $(BD)$ si incontrano in un punto $E$. La linea attraverso $E$ parallela a $(AB)$ incontra $(AD)$ al punto $F$. Mostra che $\widehat{BFC} = 90^\circ$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,topic_logica,topic_disuguaglianze,method_casework,method_estremalita,method_invarianti,method_disuguaglianze,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Three bars cut into pieces; can Daphne guarantee a triangle of each color?*
 
-> Daphné and Loïs have three bars of length 1 metre each: one white, one blue, and one red. Daphné cuts each of the first two bars into three pieces, and Loïs cuts the third bar into three pieces. Is it possible for Daphné to arrange things so that, regardless of what Loïs does, she is certain to be able to form three triangles (non-degenerate) with the nine pieces obtained, such that each triangle has one side of each colour?
+> Daphné et Loïs disposent de trois barres de longueur 1 mètre : une blanche, une bleue et une rouge. Daphné casse chacune des deux premières en trois morceaux, et Loïs casse la troisième en trois morceaux. Est-ce que Daphné peut faire en sorte qu'à la fin, quoi que fasse Loïs, elle soit sûre de pouvoir composer trois triangles (non aplatis) avec les neufs morceaux obtenus, de sorte que chaque triangle ait un côté de chaque couleur ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logic, games and strategies]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_disuguaglianze|Classical inequalities]]
@@ -261,3 +365,17 @@ Tre barre tagliate in pezzi; Daphne può garantire un triangolo di ogni colore?
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_invarianti|Invarianti / monovarianti]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three bars cut into pieces; can Daphne guarantee a triangle of each color?*
+
+> Daphné and Loïs have three bars of length 1 metre each: one white, one blue, and one red. Daphné cuts each of the first two bars into three pieces, and Loïs cuts the third bar into three pieces. Is it possible for Daphné to arrange things so that, regardless of what Loïs does, she is certain to be able to form three triangles (non-degenerate) with the nine pieces obtained, such that each triangle has one side of each colour?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logic, games and strategies]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)

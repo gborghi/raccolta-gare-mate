@@ -12,18 +12,18 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_colorazione,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fill n×n grid with 1–4 so each cell has exactly one neighbor with same number*
 
-> In each cell of an $n \times n$ grid we place one of the numbers $1, 2, 3, 4$, in such a way that each cell has exactly one neighboring cell with the same number. Is it possible to do this when
-> 
+> Em cada casa de um tabuleiro $n \times n$, colocamos um dos números $1, 2, 3, 4$, de modo que cada casa tem exatamente uma casa vizinha com o mesmo número. É possível fazer isso quando
+>
 > (a) $n = 2007$?
-> 
+>
 > (b) $n = 2008$?
-> 
-> **Note.** Two cells are neighbors if they share a side.
+>
+> **Observação.** Duas casas são vizinhas se possuem um lado em comum.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -52,14 +52,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fill n×n grid with 1–4 so each cell has exactly one neighbor with same number*
+
+> In each cell of an $n \times n$ grid we place one of the numbers $1, 2, 3, 4$, in such a way that each cell has exactly one neighboring cell with the same number. Is it possible to do this when
+> 
+> (a) $n = 2007$?
+> 
+> (b) $n = 2008$?
+> 
+> **Note.** Two cells are neighbors if they share a side.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Equilateral convex pentagon: two angles summing to 180° implies it tiles the plane*
 
-> Let $P$ be a convex pentagon with all sides equal. Prove that if two of the angles of $P$ sum to $180^\circ$, then it is possible to tile the plane with copies of $P$, without overlaps.
+> Seja $P$ um pentágono convexo com todos os lados iguais. Prove que se dois dos ângulos de $P$ somam $180$ graus, então é possível cobrir o plano com cópias de $P$, sem sobreposições.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_colorazione|Colorazione]], [[method_casework|Case analysis]]
@@ -82,17 +103,31 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Equilateral convex pentagon: two angles summing to 180° implies it tiles the plane*
+
+> Let $P$ be a convex pentagon with all sides equal. Prove that if two of the angles of $P$ sum to $180^\circ$, then it is possible to tile the plane with copies of $P$, without overlaps.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_colorazione|Colorazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove infinitely many positive integers n make (5^(n-2)-1)/n an integer*
 
-> Prove that there exist infinitely many positive integers $n$ such that
+> Prove que existem infinitos inteiros positivos $n$ tais que
 > $$\frac{5^{n-2}-1}{n}$$
-> is an integer.
+> é um inteiro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
@@ -117,14 +152,31 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove infinitely many positive integers n make (5^(n-2)-1)/n an integer*
+
+> Prove that there exist infinitely many positive integers $n$ such that
+> $$\frac{5^{n-2}-1}{n}$$
+> is an integer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Primes p,q with (p²+q²)/(p+q) integer implies that value is prime*
 
-> Show that if $p, q$ are positive prime integers such that $r = \dfrac{p^2 + q^2}{p + q}$ is an integer, then $r$ is prime.
+> Mostre que se $p, q$ são inteiros positivos primos tais que $r = \dfrac{p^2 + q^2}{p + q}$ é inteiro, então $r$ é primo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -147,16 +199,31 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Primes p,q with (p²+q²)/(p+q) integer implies that value is prime*
+
+> Show that if $p, q$ are positive prime integers such that $r = \dfrac{p^2 + q^2}{p + q}$ is an integer, then $r$ is prime.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Acute triangle with AB/√2 = BH = OB: find all angles*
 
-> Let $ABC$ be an acute triangle and let $O$, $H$ be its circumcenter and orthocenter, respectively. Given that
+> Seja $ABC$ um triângulo acutângulo e $O$, $H$ seu circuncentro e ortocentro, respectivamente. Sabendo que
 > $$\frac{AB}{\sqrt{2}} = BH = OB,$$
-> find the angles of triangle $ABC$.
+> calcule os ângulos do triângulo $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -181,16 +248,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangle with AB/√2 = BH = OB: find all angles*
+
+> Let $ABC$ be an acute triangle and let $O$, $H$ be its circumcenter and orthocenter, respectively. Given that
+> $$\frac{AB}{\sqrt{2}} = BH = OB,$$
+> find the angles of triangle $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_conteggio,method_doppio_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Finite set A with |S(A)|≤10^97 and |D(A)|≥10^100*
 
-> Let $A$ be a set of integers. Define $S(A)$ as the set of all sums of two elements of $A$ (not necessarily distinct) and $D(A)$ as the set of all differences of two elements of $A$ (not necessarily distinct). For example, if $A = \{1, 2, 3, 10\}$ then $S(A) = \{2, 3, 4, 5, 6, 11, 12, 13, 20\}$ and $D(A) = \{-9, -8, -7, -2, -1, 0, 1, 2, 7, 8, 9\}$.
-> 
-> Show that there exists a finite set $A$ such that $S(A)$ has at most $10^{97}$ elements and $D(A)$ has at least $10^{100}$ elements.
+> Sendo $A$ um conjunto de números inteiros, definimos $S(A)$ como o conjunto formado pelas somas de dois elementos, não necessariamente distintos e $D(A)$ como o conjunto formado pelas diferenças de dois elementos, não necessariamente distintos. Por exemplo, se $A = \{1, 2, 3, 10\}$ então $S(A) = \{2, 3, 4, 5, 6, 11, 12, 13, 20\}$ e $D(A) = \{-9, -8, -7, -2, -1, 0, 1, 2, 7, 8, 9\}$.
+>
+> Mostre que existe um conjunto finito $A$ tal que $S(A)$ tem no máximo $10^{97}$ elementos e $D(A)$ tem no mínimo $10^{100}$ elementos.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -212,3 +296,20 @@ level: OBM Nível 2
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Finite set A with |S(A)|≤10^97 and |D(A)|≥10^100*
+
+> Let $A$ be a set of integers. Define $S(A)$ as the set of all sums of two elements of $A$ (not necessarily distinct) and $D(A)$ as the set of all differences of two elements of $A$ (not necessarily distinct). For example, if $A = \{1, 2, 3, 10\}$ then $S(A) = \{2, 3, 4, 5, 6, 11, 12, 13, 20\}$ and $D(A) = \{-9, -8, -7, -2, -1, 0, 1, 2, 7, 8, 9\}$.
+> 
+> Show that there exists a finite set $A$ such that $S(A)$ has at most $10^{97}$ elements and $D(A)$ has at least $10^{100}$ elements.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)

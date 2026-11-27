@@ -12,12 +12,12 @@ level: OBM Nível Universitário
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all integer n so a cubic has three integer roots*
 
-> Determine all integer values of $n$ for which the equation $x^3 - 13x + n = 0$ has three integer roots.
+> Determine todos os valores inteiros de $n$ para os quais a equação $x^3 - 13x + n = 0$ possua três raízes inteiras.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -40,17 +40,34 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all integer n so a cubic has three integer roots*
+
+> Determine all integer values of $n$ for which the equation $x^3 - 13x + n = 0$ has three integer roots.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count lines meeting four given parametric lines simultaneously*
 
-> Consider the lines given by the parametric equations
-> $$\begin{cases}(x,y,z)=(0,0,1)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,2,0)+(1,0,0)\cdot t\end{cases},$$
-> $$\begin{cases}(x,y,z)=(1,1,0)+(0,1,0)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,0,0)+(1,1,1)\cdot t\end{cases}.$$
-> How many lines intersect all four lines simultaneously?
+> Considere as retas de equações paramétricas
+> $$(x,y,z)=(0,0,1)\cdot t,$$
+> $$(x,y,z)=(1,2,0)+(1,0,0)\cdot t,$$
+> $$(x,y,z)=(1,1,1)+(0,1,0)\cdot t,$$
+> $$(x,y,z)=(1,0,0)+(1,1,1)\cdot t.$$
+> Quantas retas intersectam simultaneamente as 4 retas acima?
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -76,15 +93,32 @@ level: OBM Nível Universitário
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count lines meeting four given parametric lines simultaneously*
+
+> Consider the lines given by the parametric equations
+> $$\begin{cases}(x,y,z)=(0,0,1)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,2,0)+(1,0,0)\cdot t\end{cases},$$
+> $$\begin{cases}(x,y,z)=(1,1,0)+(0,1,0)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,0,0)+(1,1,1)\cdot t\end{cases}.$$
+> How many lines intersect all four lines simultaneously?
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count ways Esmeralda walks 2008 steps on integer lattice ending at origin*
 
-> Esmeralda walks through the points with integer coordinates of the plane. If at a given moment she is at point $(a, b)$, in one step she can move to one of the two following points: $(a+1, b)$, $(a-1, b)$, $(a, b+1)$ or $(a, b-1)$. In how many ways can Esmeralda start from $(0, 0)$ and walk exactly $2008$ steps, ending at $(0, 0)$?
+> Esmeralda passeia pelos pontos de coordenadas inteiras do plano. Se, num dado momento, ela está no ponto $(a,b)$, com um passo ela pode ir para um dos seguintes pontos: $(a+1,b)$, $(a-1,b)$, $(a,b+1)$ ou $(a,b-1)$. De quantas maneiras Esmeralda pode sair do $(0,0)$ e andar $2008$ passos terminando no $(0,0)$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -107,17 +141,31 @@ level: OBM Nível Universitário
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count ways Esmeralda walks 2008 steps on integer lattice ending at origin*
+
+> Esmeralda walks through the points with integer coordinates of the plane. If at a given moment she is at point $(a, b)$, in one step she can move to one of the two following points: $(a+1, b)$, $(a-1, b)$, $(a, b+1)$ or $(a, b-1)$. In how many ways can Esmeralda start from $(0, 0)$ and walk exactly $2008$ steps, ending at $(0, 0)$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find smallest k>0 with ABA^{-1}=B^k for n×n matrices A,B≠I*
 
-> Suppose there exist $n \times n$ matrices $A$ and $B$, different from the identity matrix $I$ and satisfying
-> $$\begin{cases} A^4 = I \\ ABA^{-1} = B^k \end{cases}.$$
-> Show that there exists an integer $k > 0$ such that $B^k = I$, and determine the smallest $k$ with this property.
+> Suponha que existem duas matrizes inversíveis $n \times n$, $A$ e $B$, diferentes da matriz identidade $I$ e satisfazendo as relações
+> $$\begin{cases} A^{7} = I \\ ABA^{-1} = B^{2} \end{cases}.$$
+> Mostre que existe um inteiro $k > 0$ tal que $B^{k} = I$ e determine o menor $k$ com esta propriedade.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
@@ -142,14 +190,31 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find smallest k>0 with ABA^{-1}=B^k for n×n matrices A,B≠I*
+
+> Suppose there exist $n \times n$ matrices $A$ and $B$, different from the identity matrix $I$ and satisfying
+> $$\begin{cases} A^4 = I \\ ABA^{-1} = B^k \end{cases}.$$
+> Show that there exists an integer $k > 0$ such that $B^k = I$, and determine the smallest $k$ with this property.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_analitica,topic_geometria_piana,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum number of hyperbolas to cover all plane points*
 
-> We say that a hyperbola covers a point if the point belongs to one of the two infinite regions determined by the hyperbola that contains its foci. What is the smallest number of hyperbolas needed to cover all points of the plane?
+> Dizemos que uma hipérbole cobre um ponto se este pertence a uma das duas regiões infinitas por ela determinada que contêm os focos. Qual o menor número de hipérboles necessárias para cobrir todos os pontos do plano?
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -172,15 +237,29 @@ level: OBM Nível Universitário
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum number of hyperbolas to cover all plane points*
+
+> We say that a hyperbola covers a point if the point belongs to one of the two infinite regions determined by the hyperbola that contains its foci. What is the smallest number of hyperbolas needed to cover all points of the plane?
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_trigonometria,method_telescoping,method_trigonometria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Compute limit of P_n P_{n+1}/n for a trigonometric sum sequence*
 
-> Let $P_n = \displaystyle\sum_{k=0}^{n} \sin\!\left(\frac{\pi k}{n}\right)$. Compute $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
+> Seja $P_n = \displaystyle\sum_{0 \le k \le n} \operatorname{sen}\left(\dfrac{\pi k}{n}\right)$. Calcule $\displaystyle\lim_{n \to \infty} \dfrac{P_n P_{n+1}}{n}$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_trigonometria|Trigonometria]]
@@ -200,3 +279,18 @@ level: OBM Nível Universitário
 **Metodo:** [[method_telescoping|Telescoping]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute limit of P_n P_{n+1}/n for a trigonometric sum sequence*
+
+> Let $P_n = \displaystyle\sum_{k=0}^{n} \sin\!\left(\frac{\pi k}{n}\right)$. Compute $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)

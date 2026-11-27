@@ -12,7 +12,33 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*Convex quadrilateral with equal incircle radii implies rhombus*
+
+> Seja $ABCD$ um quadrilátero convexo e seja $P$ a interseção das diagonais $AC$ e $BD$. Os raios dos círculos inscritos nos triângulos $ABP$, $BCP$, $CDP$ e $DAP$ são iguais. Prove que $ABCD$ é um losango.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Un quadrilatero convesso i cui quattro triangoli hanno cerchi inscritti di raggio uguale è un rombo.*
+> Sia $ABCD$ un quadrilatero convesso e sia $P$ l'intersezione delle diagonali $AC$ e $BD$. I raggi degli incircoli dei triangoli $ABP$, $BCP$, $CDP$ e $DAP$ sono uguali. Dimostrare che $ABCD$ è un rombo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Convex quadrilateral with equal incircle radii implies rhombus*
@@ -26,28 +52,15 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Un quadrilatero convesso con raggi dell'incircolo uguali implica un rombo*
-
-> Sia $ABCD$ un quadrilatero convesso e sia $P$ l'intersezione delle diagonali $AC$ e $BD$. I raggi degli incircoli dei triangoli $ABP$, $BCP$, $CDP$ e $DAP$ sono uguali. Dimostrare che $ABCD$ è un rombo.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all integers n>1 such that digit sum divides remainder mod n*
 
-> Find all integers $n > 1$ with the following property: for every $k$ with $0 \le k \le n$, there exists a multiple of $n$ whose digit sum, in base ten, leaves remainder $k$ when divided by $n$.
+> Encontre todos os inteiros $n$, $n > 1$, com a seguinte propriedade: para todo $k$, $0 \le k < n$, existe um múltiplo de $n$ cuja soma dos algarismos, na base decimal, deixa resto $k$ na divisão por $n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -70,16 +83,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all integers n>1 such that digit sum divides remainder mod n*
+
+> Find all integers $n > 1$ with the following property: for every $k$ with $0 \le k \le n$, there exists a multiple of $n$ whose digit sum, in base ten, leaves remainder $k$ when divided by $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_induzione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Combinatorial stone-pile game: determine winner for each N*
 
-> Let $N$ be an integer greater than 2. Arnaldo and Bernaldo play the following game: there are $N$ stones in a pile. On the first move, made by Arnaldo, he must remove a quantity $k$ of stones from the pile with $1 \le k \le N$. Then Bernaldo must remove a quantity of stones from the pile with $1 \le m \le 2k$, and so on; each player, alternately, removes a quantity of stones from the pile between $1$ and twice the quantity that the opponent removed, inclusive. The player who takes the last stone wins.
-> 
-> For each value of $N$, determine which player is guaranteed a win regardless of how the other plays, and explain what the winning strategy is for each case.
+> Seja $N$ um inteiro maior do que 2. Arnaldo e Bernaldo disputam o seguinte jogo: há $N$ pedras em uma pilha. Na primeira jogada, feita por Arnaldo, ele deve tirar uma quantidade $k$ de pedras da pilha com $1 \le k < N$. Em seguida, Bernaldo deve retirar uma quantidade de pedras $m$ da pilha com $1 \le m \le 2k$, e assim por diante, ou seja, cada jogador, alternadamente, tira uma quantidade de pedras da pilha entre $1$ e o dobro da última quantidade de pedras que seu oponente tirou, inclusive. Ganha o jogador que tirar a última pedra.
+>
+> Para cada valor de $N$, determine qual jogador garante a vitória, independente de como o outro jogar, e explique qual é a estratégia vencedora para cada caso.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
@@ -104,17 +132,33 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Combinatorial stone-pile game: determine winner for each N*
+
+> Let $N$ be an integer greater than 2. Arnaldo and Bernaldo play the following game: there are $N$ stones in a pile. On the first move, made by Arnaldo, he must remove a quantity $k$ of stones from the pile with $1 \le k \le N$. Then Bernaldo must remove a quantity of stones from the pile with $1 \le m \le 2k$, and so on; each player, alternately, removes a quantity of stones from the pile between $1$ and twice the quantity that the opponent removed, inclusive. The player who takes the last stone wins.
+> 
+> For each value of $N$, determine which player is guaranteed a win regardless of how the other plays, and explain what the winning strategy is for each case.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Infinite polynomial sequence: find largest k such that P_{2014}(x) is divisible by x^k*
 
-> An infinite sequence of polynomials $P_0(x), P_1(x), P_2(x), \ldots, P_n(x), \ldots$ is defined by
-> $$P_0(x) = x \quad \text{and} \quad P_n(x) = P_{n-1}(x-1) \cdot P_{n-1}(x+1), \text{ for all } n \ge 1.$$
-> Determine the largest integer $k$ for which the polynomial $P_{2014}(x)$ is a multiple of $x^k$.
+> Uma sequência infinita de polinômios $P_0(x)$, $P_1(x)$, $P_2(x)$, $\ldots$, $P_n(x)$, $\ldots$ é definida por
+> $$P_0(x) = x \quad \text{e} \quad P_n(x) = P_{n-1}(x-1) \cdot P_{n-1}(x+1), \text{ para todo } n \ge 1.$$
+> Determine o maior inteiro $k$ para o qual o polinômio $P_{2014}(x)$ é múltiplo de $x^k$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -139,15 +183,31 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Infinite polynomial sequence: find largest k such that P_{2014}(x) is divisible by x^k*
+
+> An infinite sequence of polynomials $P_0(x), P_1(x), P_2(x), \ldots, P_n(x), \ldots$ is defined by
+> $$P_0(x) = x \quad \text{and} \quad P_n(x) = P_{n-1}(x-1) \cdot P_{n-1}(x+1), \text{ for all } n \ge 1.$$
+> Determine the largest integer $k$ for which the polynomial $P_{2014}(x)$ is a multiple of $x^k$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_colorazione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *2m x 2n board tromino operation: conditions to equalize all entries*
 
-> In each cell of a $2m \times 2n$ board an integer is written. The allowed operation is to choose three cells forming an L-tromino (that is, one cell $C$ and two other cells sharing a side with $C$, one horizontally and one vertically) and add $1$ to the integer in each of the three chosen cells. Determine the necessary and sufficient condition, in terms of $m$, $n$, and the initial numbers, for it to be possible to make all numbers on the board equal.
+> Em cada casa de um tabuleiro $2m \times 2n$ está escrito um inteiro. A operação permitida é tomar três casas formando um L-triminó (ou seja, uma casa $C$ e outras duas casas com um lado em comum com $C$, um na horizontal e outro na vertical) e somar $1$ ao inteiro em cada uma das três casas. Determine a condição necessária e suficiente, em função de $m$, $n$ e dos números iniciais, para que seja possível deixar todos os números iguais.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -170,10 +230,50 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*2m x 2n board tromino operation: conditions to equalize all entries*
+
+> In each cell of a $2m \times 2n$ board an integer is written. The allowed operation is to choose three cells forming an L-tromino (that is, one cell $C$ and two other cells sharing a side with $C$, one horizontally and one vertically) and add $1$ to the integer in each of the three chosen cells. Determine the necessary and sufficient condition, in terms of $m$, $n$, and the initial numbers, for it to be possible to make all numbers on the board equal.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*Mixtilinear incircles tangent lines form triangle: incentre-circumcentre collinearity*
+
+> Seja $ABC$ um triângulo com incentro $I$ e incírculo $\omega$. O círculo $\omega_A$ tangencia externamente $\omega$ e toca os lados $AB$ e $AC$ em $A_1$ e $A_2$, respectivamente. Seja $r_A$ a reta $A_1 A_2$. Defina $r_B$ e $r_C$ de modo análogo. As retas $r_A$, $r_B$ e $r_C$ determinam um triângulo $XYZ$. Prove que o incentro de $XYZ$, o circuncentro de $XYZ$ e $I$ são colineares.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Le rette tangenti ai cerchi inscritti mixtilineari formano un triangolo: allineamento tra incentro e circocentro.*
+> Sia $ABC$ un triangolo con incentro $I$ e cerchio inscritto $\omega$. Il cerchio $\omega_A$ è tangente esternamente a $\omega$ e tocca i lati $AB$ e $AC$ rispettivamente nei punti $A_1$ e $A_2$. Sia $r_A$ la retta $A_1 A_2$. Si definiscano $r_B$ e $r_C$ in modo analogo. Le rette $r_A$, $r_B$ e $r_C$ determinano un triangolo $XYZ$. Dimostrare che l'incentro di $XYZ$, il circocentro di $XYZ$ e $I$ sono allineati.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mixtilinear incircles tangent lines form triangle: incentre-circumcentre collinearity*
@@ -185,17 +285,3 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Le rette tangenti agli incircoli mixtilineari formano un triangolo: collinearità tra incentro e circocentro*
-
-> Sia $ABC$ un triangolo con incentro $I$ e cerchio inscritto $\omega$. Il cerchio $\omega_A$ è tangente esternamente a $\omega$ e tocca i lati $AB$ e $AC$ rispettivamente nei punti $A_1$ e $A_2$. Sia $r_A$ la retta $A_1 A_2$. Si definiscano $r_B$ e $r_C$ in modo analogo. Le rette $r_A$, $r_B$ e $r_C$ determinano un triangolo $XYZ$. Dimostrare che l'incentro di $XYZ$, il circocentro di $XYZ$ e $I$ sono allineati.
-
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]

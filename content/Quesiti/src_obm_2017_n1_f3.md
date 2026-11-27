@@ -12,18 +12,18 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,method_backward,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Car race: positions table after lap 17, recover starting grid, and determine the podium from lap times*
 
-> In car races, it is common to show the position of the drivers in each lap of the race, relative to the starting order. For this, the symbols $-0$ are used to indicate that the position is the same as at the start, $\wedge$ next to a number indicating how many positions the driver moved up relative to the start, and $\vee$ next to a number indicating how many positions the driver fell relative to the start. In addition, an abbreviation of the drivers' names is used. On lap $17$ of a $25$-lap race, the positions of the first ten drivers were as follows:
-> 
-> $$\begin{array}{|c|l|}\hline \multicolumn{2}{|c|}{\text{Lap } 17/25} \\ \hline \textbf{Position} & \textbf{Driver} \\ \hline 1 & \text{PRE} \;\; -0 \\ 2 & \text{SAP} \;\; \wedge 2 \\ 3 & \text{BET} \;\; \wedge 3 \\ 4 & \text{ICO} \;\; \vee 1 \\ 5 & \text{ROI} \;\; \vee 3 \\ 6 & \text{FRE} \;\; \vee 1 \\ 7 & \text{LEM} \;\; -0 \\ 8 & \text{ARE} \;\; \wedge 2 \\ 9 & \text{DON} \;\; \wedge 7 \\ 10 & \text{JEZ} \;\; \vee 2 \\ \hline \end{array}$$
-> 
-> a) Write the abbreviated names of the first five drivers in the starting order of the race and their respective positions.
-> 
-> b) From lap $17$ until the end of the race, the first three drivers manage to keep their per-lap durations: PRE does each lap in $2\text{ min }01\text{ s}$, SAP does each lap in $1\text{ min }59\text{ s}$, and BET does each lap in $1\text{ min }58\text{ s}$. At the end of lap $17$, SAP was $15\text{ s}$ behind PRE and BET was $18\text{ s}$ behind PRE. Considering that these three drivers made up the podium and that the faster driver always managed to overtake a slower driver in front of him, explain who won the race and which drivers took second and third place.
+> Em corridas de carros, é comum mostrar a posição dos pilotos em cada uma das voltas da corrida, relativamente à ordem de largada. Para isso, são usados os símbolos $-0$ para indicar que a posição é a mesma da largada, $\wedge$ ao lado de um número indicando quantas posições ele subiu em relação à largada e $\vee$ ao lado de um número indicando quantas posições ele caiu em relação à largada. Além disso, utiliza-se uma abreviação dos nomes dos pilotos. Na volta $17$ de uma corrida de $25$ voltas, a posição dos dez primeiros colocados era a seguinte:
+>
+> $$\begin{array}{|c|l|}\hline \multicolumn{2}{|c|}{\text{Volta } 17/25} \\ \hline \textbf{Posição} & \textbf{Piloto} \\ \hline 1 & \text{PRE} \;\; -0 \\ 2 & \text{SAP} \;\; \wedge 2 \\ 3 & \text{BET} \;\; \wedge 3 \\ 4 & \text{ICO} \;\; \vee 1 \\ 5 & \text{ROI} \;\; \vee 3 \\ 6 & \text{FRE} \;\; \vee 1 \\ 7 & \text{LEM} \;\; -0 \\ 8 & \text{ARE} \;\; \wedge 2 \\ 9 & \text{DON} \;\; \wedge 7 \\ 10 & \text{JEZ} \;\; \vee 2 \\ \hline \end{array}$$
+>
+> a) Escreva os nomes abreviados dos cinco primeiros colocados na largada da corrida e suas respectivas posições.
+>
+> b) A partir da volta $17$ e até o fim da corrida, os três primeiros colocados conseguem manter seus tempos de duração de cada volta: PRE faz cada volta em $2\text{ min }01\text{ s}$, SAP faz cada volta em $1\text{ min }59\text{ s}$ e BET faz cada volta em $1\text{ min }58\text{ s}$. No fim da volta $17$, SAP estava $15\text{ s}$ atrás de PRE e BET estava $18\text{ s}$ atrás de PRE. Considerando que esses três pilotos formaram o pódio e que o piloto mais rápido sempre conseguiu ultrapassar um piloto mais lento a sua frente, explique quem ganhou a corrida e quais pilotos ocuparam o segundo e terceiro lugares.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_backward|Working backwards]]
@@ -52,21 +52,39 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Car race: positions table after lap 17, recover starting grid, and determine the podium from lap times*
+
+> In car races, it is common to show the position of the drivers in each lap of the race, relative to the starting order. For this, the symbols $-0$ are used to indicate that the position is the same as at the start, $\wedge$ next to a number indicating how many positions the driver moved up relative to the start, and $\vee$ next to a number indicating how many positions the driver fell relative to the start. In addition, an abbreviation of the drivers' names is used. On lap $17$ of a $25$-lap race, the positions of the first ten drivers were as follows:
+> 
+> $$\begin{array}{|c|l|}\hline \multicolumn{2}{|c|}{\text{Lap } 17/25} \\ \hline \textbf{Position} & \textbf{Driver} \\ \hline 1 & \text{PRE} \;\; -0 \\ 2 & \text{SAP} \;\; \wedge 2 \\ 3 & \text{BET} \;\; \wedge 3 \\ 4 & \text{ICO} \;\; \vee 1 \\ 5 & \text{ROI} \;\; \vee 3 \\ 6 & \text{FRE} \;\; \vee 1 \\ 7 & \text{LEM} \;\; -0 \\ 8 & \text{ARE} \;\; \wedge 2 \\ 9 & \text{DON} \;\; \wedge 7 \\ 10 & \text{JEZ} \;\; \vee 2 \\ \hline \end{array}$$
+> 
+> a) Write the abbreviated names of the first five drivers in the starting order of the race and their respective positions.
+> 
+> b) From lap $17$ until the end of the race, the first three drivers manage to keep their per-lap durations: PRE does each lap in $2\text{ min }01\text{ s}$, SAP does each lap in $1\text{ min }59\text{ s}$, and BET does each lap in $1\text{ min }58\text{ s}$. At the end of lap $17$, SAP was $15\text{ s}$ behind PRE and BET was $18\text{ s}$ behind PRE. Considering that these three drivers made up the podium and that the faster driver always managed to overtake a slower driver in front of him, explain who won the race and which drivers took second and third place.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_solida,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count the ways to build a 27 cm^3 and a 64 cm^3 cube from cubes of side 1, 2, 3 cm*
 
-> Jacira has many small cubes whose sides measure $1\text{ cm}$, $2\text{ cm}$, or $3\text{ cm}$. Thus, for example, she has two different ways to obtain a cube whose volume is $8\text{ cm}^3$: one of them is to build a cube with $8$ cubes of side $1\text{ cm}$ and the other is simply to take a cube of side $2\text{ cm}$, as shown in the figure. Note that two cubes of the same volume are obtained in different ways if, and only if, they are assembled with different numbers of cubes.
-> 
-> a) In how many different ways can she obtain a cube with volume $27\text{ cm}^3$?
-> 
-> b) In how many different ways can she obtain a cube with volume $64\text{ cm}^3$?
-
-![[src_obm_2017_n1_f3__Q02.png]]
+> Jacira tem muitos cubinhos cujos lados medem $1\text{ cm}$, $2\text{ cm}$ ou $3\text{ cm}$. Assim, por exemplo, ela tem duas maneiras diferentes de obter um cubo cujo volume é $8\text{ cm}^3$: uma delas é montar um cubo com $8$ cubinhos de $1\text{ cm}$ de lado e a outra é simplesmente pegar um cubo com $2\text{ cm}$ de lado, como mostrado na figura. Note que dois cubos de mesmo volume são obtidos de maneiras diferentes se, e somente se, são montados com diferentes números de cubos.
+>
+> a) De quantas maneiras diferentes ela pode obter um cubo com volume de $27\text{ cm}^3$?
+>
+> b) De quantas maneiras diferentes ela pode obter um cubo com volume de $64\text{ cm}^3$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -95,21 +113,42 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count the ways to build a 27 cm^3 and a 64 cm^3 cube from cubes of side 1, 2, 3 cm*
+
+> Jacira has many small cubes whose sides measure $1\text{ cm}$, $2\text{ cm}$, or $3\text{ cm}$. Thus, for example, she has two different ways to obtain a cube whose volume is $8\text{ cm}^3$: one of them is to build a cube with $8$ cubes of side $1\text{ cm}$ and the other is simply to take a cube of side $2\text{ cm}$, as shown in the figure. Note that two cubes of the same volume are obtained in different ways if, and only if, they are assembled with different numbers of cubes.
+> 
+> a) In how many different ways can she obtain a cube with volume $27\text{ cm}^3$?
+> 
+> b) In how many different ways can she obtain a cube with volume $64\text{ cm}^3$?
+
+![[src_obm_2017_n1_f3__Q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_bigezione,method_casework,method_conteggio,skill_lettura_attenta,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Odd-digit-only 'Impas' number system: write 20 and 2017, and compute a multiplication*
 
-> In the Land of the Impas, only odd digits are used to count and write numbers. Thus, instead of the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, the Impas have the corresponding numbers $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, \ldots$ (note that the Impas' numbers have only odd digits). For example, if a child is $11$ years old, the Impas would say that she is $31$ years old.
-> 
-> a) How do the Impas write our number $20$?
-> 
-> b) In a school in that land, the teacher wrote on the blackboard the little multiplication below. If you were an Impa student, what would you write as the result?
+> Na Terra dos Impas, somente os algarismos ímpares são utilizados para contar e escrever números. Assim, em vez dos números $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ os Impas têm os números correspondentes $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, \ldots$ (note que os números dos Impas têm somente algarismos ímpares). Por exemplo, se uma criança tem $11$ anos, os Impas diriam que ela tem $31$ anos.
+>
+> a) Como os Impas escrevem o nosso número $20$?
+>
+> b) Numa escola desse lugar, a professora escreveu no quadro-negro a continha de multiplicar abaixo. Se você fosse um aluno Impa, o que escreveria como resultado?
 > $$\begin{array}{r} 13 \\ \times \, 5 \\ \hline \end{array}$$
-> 
-> c) Write, in the language of the Impas, the number that in our usual decimal representation is written as $2017$.
+>
+> c) Escreva, na linguagem dos Impas, o número que na nossa representação decimal é escrito como $2017$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -139,20 +178,42 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Odd-digit-only 'Impas' number system: write 20 and 2017, and compute a multiplication*
+
+> In the Land of the Impas, only odd digits are used to count and write numbers. Thus, instead of the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, the Impas have the corresponding numbers $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, \ldots$ (note that the Impas' numbers have only odd digits). For example, if a child is $11$ years old, the Impas would say that she is $31$ years old.
+> 
+> a) How do the Impas write our number $20$?
+> 
+> b) In a school in that land, the teacher wrote on the blackboard the little multiplication below. If you were an Impa student, what would you write as the result?
+> $$\begin{array}{r} 13 \\ \times \, 5 \\ \hline \end{array}$$
+> 
+> c) Write, in the language of the Impas, the number that in our usual decimal representation is written as $2017$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rectangle split into a square plus four equal smaller rectangles that reassemble into a new square*
 
-> Some rectangles can be divided into one square and four smaller equal rectangles, in such a way that all these five parts can be reunited to compose a new square.
-> 
-> a) Make a drawing showing how a square and four equal rectangles can be reunited to form a new square.
-> 
-> b) Show a rectangle that can be divided according to the requirement of the statement and indicate the measures of its sides.
-> 
-> c) If the perimeter of your rectangle is $780\text{ cm}$, what can be the values of the perimeter of the square formed after the new arrangement of the parts?
+> Alguns retângulos podem ser divididos em um quadrado e quatro retângulos menores iguais, de modo que todas essas cinco partes podem ser reunidas para compor um novo quadrado.
+>
+> a) Faça um desenho mostrando como um quadrado e quatro retângulos iguais podem ser reunidos para formar um novo quadrado.
+>
+> b) Mostre um retângulo que pode ser dividido de acordo com a exigência do enunciado e indique as medidas dos seus lados.
+>
+> c) Se o perímetro do seu retângulo é de $780\text{ cm}$, quais podem ser os valores do perímetro do quadrado formado depois da nova arrumação das partes?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -181,33 +242,51 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangle split into a square plus four equal smaller rectangles that reassemble into a new square*
+
+> Some rectangles can be divided into one square and four smaller equal rectangles, in such a way that all these five parts can be reunited to compose a new square.
+> 
+> a) Make a drawing showing how a square and four equal rectangles can be reunited to form a new square.
+> 
+> b) Show a rectangle that can be divided according to the requirement of the statement and indicate the measures of its sides.
+> 
+> c) If the perimeter of your rectangle is $780\text{ cm}$, what can be the values of the perimeter of the square formed after the new arrangement of the parts?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,topic_logica,method_casework,method_conteggio,method_grafi,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Phone unlock patterns as digit sequences on a 3x3 grid: identify a password and count patterns*
 
-> We see, in figures 1 and 2 below, examples of the screen lock of a cellphone that only works with a password that is not typed but drawn with line segments. These segments form a polygonal line with vertices on a grid. When drawing the pattern corresponding to the password, the finger must remain touching the screen the whole time. The entire polygonal line corresponds to a sequence of digits, and this sequence is, in fact, the password. The tracing of the polygonal lines obeys the following rules:
-> 
-> i. The tracing begins at one of the highlighted points, which correspond to the digits $1$ to $9$ (figure 3).
-> 
-> ii. Each segment of the pattern must have as one of its endpoints (the one at which we finish tracing the segment) a point that has not yet been used.
-> 
-> iii. If a segment joins two points and contains a third (its midpoint), then the digit corresponding to that third point is included in the password. This does not happen when that point/digit has already been used.
-> 
-> iv. Every password has at least four digits.
-> 
-> Thus, every polygonal line is associated with a sequence of four or more digits, which appear in the password in the same order in which they are visited. In figure 1 above, for example, the password is $218369$, in case the first point visited was the $2$. Note that the segment joining the points associated with digits $3$ and $9$ includes the point associated with digit $6$. If the first point visited were the $9$, then the password would be $963812$. If the first point visited were the $6$, then the password would be $693812$. Note that the $6$ would be skipped, since it could not repeat.
-> 
-> a) Why does the line in figure 2 correspond to a single password? What is that password?
-> 
-> b) How many passwords are associated with exactly three consecutive sides of a square?
-> 
-> c) How many different passwords of four digits have two collinear segments (segments that lie on the same line)?
-
-![[src_obm_2017_n1_f3__Q05.png]]
+> Vemos, nas figuras 1 e 2 a seguir, exemplos de bloqueio de tela de um telefone celular que só funciona com uma senha que não é digitada, mas desenhada com segmentos de reta. Esses segmentos formam uma linha poligonal com vértices em um reticulado. Ao desenhar o padrão correspondente à senha, o dedo deve permanecer todo o tempo tocando a tela. Toda a linha poligonal corresponde a uma sequência de algarismos e essa sequência é que é, de fato, a senha. O traçado das poligonais obedece às regras a seguir:
+>
+> i. O traçado começa por um dos pontos destacados, os quais correspondem aos algarismos de $1$ a $9$ (figura 3).
+>
+> ii. Cada segmento do padrão deve ter como um dos seus extremos (aquele em que terminamos de traçar o segmento) um ponto que ainda não foi usado.
+>
+> iii. Se um segmento liga dois pontos e contém um terceiro (o seu ponto médio), então o algarismo correspondente a esse terceiro ponto é incluído na senha. Isso não acontece quando esse ponto/algarismo já foi usado.
+>
+> iv. Toda senha tem pelo menos quatro algarismos.
+>
+> Assim, toda linha poligonal é associada a uma sequência de quatro ou mais algarismos, os quais aparecem na senha na mesma ordem em que são visitados. Na figura 1 acima, por exemplo, a senha é $218369$, caso o primeiro ponto visitado tenha sido o $2$. Note que o segmento ligando os pontos associados aos algarismos $3$ e $9$ inclui o ponto associado ao algarismo $6$. Se o primeiro ponto visitado fosse o $9$, então a senha seria $963812$. Se o primeiro ponto visitado fosse o $6$, então a senha seria $693812$. Note que o $6$ seria pulado, já que não poderia repetir.
+>
+> a) Por que a linha na figura 2 corresponde a uma única senha? Qual é essa senha?
+>
+> b) Quantas senhas estão associadas a exatamente três lados consecutivos de um quadrado?
+>
+> c) Quantas senhas diferentes de quatro algarismos possuem dois segmentos colineares (segmentos que estão na mesma reta)?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
@@ -246,3 +325,35 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Phone unlock patterns as digit sequences on a 3x3 grid: identify a password and count patterns*
+
+> We see, in figures 1 and 2 below, examples of the screen lock of a cellphone that only works with a password that is not typed but drawn with line segments. These segments form a polygonal line with vertices on a grid. When drawing the pattern corresponding to the password, the finger must remain touching the screen the whole time. The entire polygonal line corresponds to a sequence of digits, and this sequence is, in fact, the password. The tracing of the polygonal lines obeys the following rules:
+> 
+> i. The tracing begins at one of the highlighted points, which correspond to the digits $1$ to $9$ (figure 3).
+> 
+> ii. Each segment of the pattern must have as one of its endpoints (the one at which we finish tracing the segment) a point that has not yet been used.
+> 
+> iii. If a segment joins two points and contains a third (its midpoint), then the digit corresponding to that third point is included in the password. This does not happen when that point/digit has already been used.
+> 
+> iv. Every password has at least four digits.
+> 
+> Thus, every polygonal line is associated with a sequence of four or more digits, which appear in the password in the same order in which they are visited. In figure 1 above, for example, the password is $218369$, in case the first point visited was the $2$. Note that the segment joining the points associated with digits $3$ and $9$ includes the point associated with digit $6$. If the first point visited were the $9$, then the password would be $963812$. If the first point visited were the $6$, then the password would be $693812$. Note that the $6$ would be skipped, since it could not repeat.
+> 
+> a) Why does the line in figure 2 correspond to a single password? What is that password?
+> 
+> b) How many passwords are associated with exactly three consecutive sides of a square?
+> 
+> c) How many different passwords of four digits have two collinear segments (segments that lie on the same line)?
+
+![[src_obm_2017_n1_f3__Q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)

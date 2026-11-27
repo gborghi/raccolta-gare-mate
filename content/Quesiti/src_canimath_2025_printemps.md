@@ -12,14 +12,14 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute a simple arithmetic expression with fractions*
 
-> Compute
+> Calculer
 > $$\frac{13}{6} + \frac{7}{10} + \frac{2}{15}.$$
-> Only a simplified numerical answer is expected here.
+> Seule une réponse numérique simplifiée est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -41,17 +41,33 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute a simple arithmetic expression with fractions*
+
+> Compute
+> $$\frac{13}{6} + \frac{7}{10} + \frac{2}{15}.$$
+> Only a simplified numerical answer is expected here.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find angle PXQ in rectangle using two angle conditions*
 
-> Let $ABCD$ be a rectangle with $AB > AD$. Let $P$ be the point on the half-line $(DA)$ such that $\widehat{DCP} = 30^\circ$, and let $Q$ be the point on the segment $[CD]$ such that $\widehat{DAQ} = 45^\circ$. Let $X$ be the intersection of the angle bisector of $\angle AQC$ with the line $(CP)$.
-> 
-> Determine the measure of angle $\widehat{PXQ}$.
+> Soit $ABCD$ un rectangle tel que $AB > AD$, soit $P$ le point de la demi-droite $[DA)$ tel que $\widehat{DCP} = 30^\circ$ et soit $Q$ le point du segment $[CD]$ tel que $\widehat{DAQ} = 45^\circ$. Soit $X$ le point d'intersection de la bissectrice de l'angle $\widehat{AQC}$ et de la droite $(CP)$.
+>
+> Déterminer la mesure de l'angle $\widehat{PXQ}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -75,16 +91,32 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find angle PXQ in rectangle using two angle conditions*
+
+> Let $ABCD$ be a rectangle with $AB > AD$. Let $P$ be the point on the half-line $(DA)$ such that $\widehat{DCP} = 30^\circ$, and let $Q$ be the point on the segment $[CD]$ such that $\widehat{DAQ} = 45^\circ$. Let $X$ be the intersection of the angle bisector of $\angle AQC$ with the line $(CP)$.
+> 
+> Determine the measure of angle $\widehat{PXQ}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all real pairs (a,b) satisfying two rational equations*
 
-> Find all real numbers $a$ and $b$ such that $a + b \neq 0$, $3a - b \neq 0$, and both of the following equations hold:
-> $$a = \frac{2}{a+b} \qquad \text{and} \qquad b = \frac{2}{3a-b}.$$
+> Déterminer tous les réels $a$ et $b$ tels que $a + b \neq 0$, $3a - b \neq 0$ et les deux équations suivantes sont vérifiées :
+> $$a = \frac{2}{a + b} \qquad \text{et} \qquad b = \frac{2}{3a - b}.$$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -106,19 +138,34 @@ level: Coupe Animath Printemps
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all real pairs (a,b) satisfying two rational equations*
+
+> Find all real numbers $a$ and $b$ such that $a + b \neq 0$, $3a - b \neq 0$, and both of the following equations hold:
+> $$a = \frac{2}{a+b} \qquad \text{and} \qquad b = \frac{2}{3a-b}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,method_congruenze,method_cassetti,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Show a product of pairwise differences under permutation is even*
 
-> Let $a_1, a_2, a_3, a_4, a_5$ be five distinct positive integers. Let $b_1, b_2, b_3, b_4, b_5$ be the same five integers written in some order (possibly the same order, possibly a different one).
-> 
-> Show that the product
+> Soit $a_1$, $a_2$, $a_3$, $a_4$ et $a_5$ cinq entiers positifs distincts. Soit $b_1$, $b_2$, $b_3$, $b_4$ et $b_5$ les mêmes entiers, écrits dans un ordre quelconque (soit le même ordre, soit un autre ordre).
+>
+> Montrer que le produit
 > $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$
-> is even.
+> est pair.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_cassetti|Pigeonhole principle]]
@@ -142,10 +189,57 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Show a product of pairwise differences under permutation is even*
+
+> Let $a_1, a_2, a_3, a_4, a_5$ be five distinct positive integers. Let $b_1, b_2, b_3, b_4, b_5$ be the same five integers written in some order (possibly the same order, possibly a different one).
+> 
+> Show that the product
+> $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$
+> is even.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Prove PY = QX using incenter and equal-radius circles*
+
+> Soit $ABC$ un triangle et $I$ le centre de son cercle inscrit. La droite parallèle à $(BI)$ passant par $C$ coupe la droite $(AB)$ en $P$ et la droite parallèle à $(CI)$ passant par $B$ coupe la droite $(AC)$ en $Q$. Le segment $[PQ]$ coupe le cercle de centre $P$ passant par $B$ en $X$ et le cercle de centre $Q$ passant par $C$ en $Y$.
+>
+> Montrer que $PY = QX$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Con l'incentro e due cerchi di raggio uguale, dimostrare che PY=QX.*
+> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. La linea parallela a $(BI)$ che passa attraverso $C$ incontra la linea $(CI)$ a $Q$. La linea parallela a $(CI)$ che passa attraverso $B$ incontra la linea $(BI)$ a $P$. Il segmento $[PQ]$ incontra il cerchio con il centro $P$ che attraversa $B$ a $X$, e il cerchio con il centro $Q$ che attraversa $C$ a $Y$.
+> 
+> Mostra che $PY = QX$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove PY = QX using incenter and equal-radius circles*
@@ -161,25 +255,39 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Prove PY = QX utilizzando cerchi di incentro e di raggio uguale*
-
-> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. La linea parallela a $(BI)$ che passa attraverso $C$ incontra la linea $(CI)$ a $Q$. La linea parallela a $(CI)$ che passa attraverso $B$ incontra la linea $(BI)$ a $P$. Il segmento $[PQ]$ incontra il cerchio con il centro $P$ che attraversa $B$ a $X$, e il cerchio con il centro $Q$ che attraversa $C$ a $Y$.
-> 
-> Mostra che $PY = QX$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_congruenze,method_induzione,method_colorazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Prove all collinear integer-distance points have even pairwise distances*
+
+> Soit $n \geq 1$ un entier. Rémi a choisi $2n + 1$ points alignés et deux à deux distincts tels que toutes les distances entre deux de ces points sont des nombres entiers. Elsa se rend compte que peu importe le point qu'elle choisit parmi les $2n + 1$ points, lorsqu'elle calcule la somme des $2n$ distances de ce point aux $2n$ autres points, elle obtient un entier pair.
+>
+> Montrer que toutes les distances entre deux de ces points sont des entiers pairs.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Punti allineati a due a due a distanza intera: dimostrare una parità sulle distanze, e una proprietà della somma delle distanze da un punto agli altri.*
+> $n \geq 1$ sia un numero intero. Rémi ha scelto $2n+1$ collineare, punti separati in coppia in modo che tutte le distanze in coppia tra questi punti siano interi. Elsa osserva che, per qualsiasi punto sceglie tra i punti $2n+1$, quando calcola le distanze $2n$ da quel punto a ciascuno degli altri punti $2n$, ottiene un numero pari di distanze odd.
+> 
+> Mostrare che tutte le distanze in coppia tra questi punti $2n+1$ sono numeri interi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove all collinear integer-distance points have even pairwise distances*
@@ -195,32 +303,17 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Prove che tutti i punti di distanza intera collineare hanno distanze pari*
-
-> $n \geq 1$ sia un numero intero. Rémi ha scelto $2n+1$ collineare, punti separati in coppia in modo che tutte le distanze in coppia tra questi punti siano interi. Elsa osserva che, per qualsiasi punto sceglie tra i punti $2n+1$, quando calcola le distanze $2n$ da quel punto a ciascuno degli altri punti $2n$, ottiene un numero pari di distanze odd.
-> 
-> Mostrare che tutte le distanze in coppia tra questi punti $2n+1$ sono numeri interi.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]], [[method_colorazione|Colorazione / parita]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_congruenze,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Max distinct values on board under a 2025-of-2027 divisibility condition*
 
-> On a board are written 2027 strictly positive integers, not necessarily distinct. Whatever 2025 numbers one chooses from these 2027 numbers, each of the two remaining numbers divides the sum of the 2025 chosen numbers.
-> 
-> What is the maximum number of distinct values that can appear on the board?
+> Sur un tableau sont écrits $2025$ nombres entiers strictement positifs, non nécessairement distincts. Quels que soient les $2023$ nombres que l'on choisit parmi ces $2025$ nombres, chacun des deux nombres restants divise la somme des nombres choisis.
+>
+> Combien y a-t-il, au maximum, de nombres différents écrits au tableau ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -244,17 +337,33 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max distinct values on board under a 2025-of-2027 divisibility condition*
+
+> On a board are written 2027 strictly positive integers, not necessarily distinct. Whatever 2025 numbers one chooses from these 2027 numbers, each of the two remaining numbers divides the sum of the 2025 chosen numbers.
+> 
+> What is the maximum number of distinct values that can appear on the board?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute nested radical expression involving square roots*
 
-> Compute
+> Calculer
 > $$\sqrt{\sqrt{27} \cdot \sqrt{75} + \sqrt{3} \cdot \sqrt{8} \cdot \sqrt{54}}.$$
-> Only a simplified numerical answer is expected here.
+> Seule une réponse numérique simplifiée est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -276,17 +385,33 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute nested radical expression involving square roots*
+
+> Compute
+> $$\sqrt{\sqrt{27} \cdot \sqrt{75} + \sqrt{3} \cdot \sqrt{8} \cdot \sqrt{54}}.$$
+> Only a simplified numerical answer is expected here.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find angle PXQ in rectangle using two angle conditions (lycée)*
 
-> Let $ABCD$ be a rectangle with $AB > AD$. Let $P$ be the point on the half-line $(DA)$ such that $\widehat{DCP} = 30^\circ$, and let $Q$ be the point on the segment $[CD]$ such that $\widehat{DAQ} = 45^\circ$. Let $X$ be the intersection of the angle bisector of $\angle AQC$ with the line $(CP)$.
-> 
-> Determine the measure of angle $\widehat{PXQ}$.
+> Soit $ABCD$ un rectangle tel que $AB > AD$, soit $P$ le point de la demi-droite $[DA)$ tel que $\widehat{DCP} = 30^\circ$ et soit $Q$ le point du segment $[CD]$ tel que $\widehat{DAQ} = 45^\circ$. Soit $X$ le point d’intersection de la bissectrice de l’angle $\widehat{AQC}$ et de la droite $(CP)$.
+>
+> Déterminer la mesure de l’angle $\widehat{PXQ}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -310,17 +435,33 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find angle PXQ in rectangle using two angle conditions (lycée)*
+
+> Let $ABCD$ be a rectangle with $AB > AD$. Let $P$ be the point on the half-line $(DA)$ such that $\widehat{DCP} = 30^\circ$, and let $Q$ be the point on the segment $[CD]$ such that $\widehat{DAQ} = 45^\circ$. Let $X$ be the intersection of the angle bisector of $\angle AQC$ with the line $(CP)$.
+> 
+> Determine the measure of angle $\widehat{PXQ}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_grafi,skill_lettura_attenta,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Max number of people in room with friendship/enmity constraint*
 
-> In a room, certain people are friends. A person is never friends with herself. If person $A$ is friends with person $B$, then $B$ is friends with $A$. We observe the rule: 'the enemy of my friend is my friend', meaning that for any choice of three people $A$, $B$, $C$: if $A$ and $B$ are friends, and $B$ and $C$ are not friends, then $A$ and $C$ are friends. Each person in the room has exactly $1$ friend.
-> 
-> How many people can there be at most in the room?
+> Dans une pièce, certaines personnes sont amies. Une personne n’est jamais amie avec elle-même, et si une personne $A$ est amie avec une personne $B$, alors la personne $B$ est amie avec $A$. On remarque que « l’ennemi de mon ami est mon ami », autrement dit pour tout choix de trois personnes distinctes $A$, $B$ et $C$ dans la pièce, si $A$ et $B$ sont amies et $B$ et $C$ ne sont pas amies, alors $A$ et $C$ sont amies. Chaque personne dans la pièce a $4$ amis.
+>
+> Combien au maximum peut-il y avoir de personnes dans la pièce ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
@@ -344,10 +485,55 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max number of people in room with friendship/enmity constraint*
+
+> In a room, certain people are friends. A person is never friends with herself. If person $A$ is friends with person $B$, then $B$ is friends with $A$. We observe the rule: 'the enemy of my friend is my friend', meaning that for any choice of three people $A$, $B$, $C$: if $A$ and $B$ are friends, and $B$ and $C$ are not friends, then $A$ and $C$ are friends. Each person in the room has exactly $1$ friend.
+> 
+> How many people can there be at most in the room?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Prove PM bisects angle NPB in isosceles triangle ABC*
+
+> Soit $ABC$ un triangle isocèle en $A$. Soient $M$ et $N$ les milieux des segments $[BC]$ et $[AC]$ respectivement, et soit $P$ le pied de la hauteur issue de $C$ dans $ABC$.
+>
+> Montrer que $[PM)$ est la bissectrice de $\widehat{NPB}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*In un triangolo isoscele ABC, dimostrare che la semiretta PM è la bisettrice dell'angolo NPB.*
+> $ABC$ sia un triangolo a uguale scala a $A$. Il segmento $M$ e il segmento $N$ sono rispettivamente i punti di mezzo dei segmenti $[BC]$ e $[AC]$, e il segmento $P$ è il piede dell'altitudine da $C$ nel triangolo $ABC$.
+> 
+> Indicare che $[PM]$ è il bisettore angolare di $\angle NPB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove PM bisects angle NPB in isosceles triangle ABC*
@@ -363,25 +549,37 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Prove che il PM divide l'angolo NPB in triangolo ABC*
-
-> $ABC$ sia un triangolo a uguale scala a $A$. Il segmento $M$ e il segmento $N$ sono rispettivamente i punti di mezzo dei segmenti $[BC]$ e $[AC]$, e il segmento $P$ è il piede dell'altitudine da $C$ nel triangolo $ABC$.
-> 
-> Indicare che $[PM]$ è il bisettore angolare di $\angle NPB$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_invarianti,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Find all n>=2 for which two cyclic-sum sets each cover n consecutive integers*
+
+> Déterminer tous les entiers positifs $n \geq 2$ pour lesquels il existe des entiers positifs $a_1, a_2, \ldots, a_n$ tels que les deux ensembles
+> $$\{a_1, a_2, \ldots, a_n\} \quad \text{et} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_n+a_1\}$$
+> contiennent $n$ entiers consécutifs chacun.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutti gli interi n≥2 per i quali esistono due insiemi di somme cicliche che coprono ciascuno n interi consecutivi.*
+> Determinare tutti gli enti rigorosamente positivi $n \geq 2$ per i quali esistono enti rigorosamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ integri consecutivi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find all n>=2 for which two cyclic-sum sets each cover n consecutive integers*
@@ -397,30 +595,17 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Ricerca tutte le n>=2 per le quali due set di somma ciclica coprono ciascuno n numeri interi consecutivi*
-
-> Determinare tutti gli enti rigorosamente positivi $n \geq 2$ per i quali esistono enti rigorosamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ integri consecutivi.
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_congruenze,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Max distinct values on board under 2023-of-2025 divisibility condition*
 
-> On a board are written 2025 strictly positive integers, not necessarily distinct. Whatever 2023 numbers one chooses from these 2025 numbers, each of the two remaining numbers divides the sum of the 2023 chosen numbers.
-> 
-> What is the maximum number of distinct values that can appear on the board?
+> Sur un tableau sont écrits $2025$ nombres entiers strictement positifs, non nécessairement distincts. Quels que soient les $2023$ nombres que l’on choisit parmi ces $2025$ nombres, chacun des deux nombres restants divise la somme des nombres choisis.
+>
+> Combien y a-t-il, au maximum, de nombres différents écrits au tableau ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -444,21 +629,37 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max distinct values on board under 2023-of-2025 divisibility condition*
+
+> On a board are written 2025 strictly positive integers, not necessarily distinct. Whatever 2023 numbers one chooses from these 2025 numbers, each of the two remaining numbers divides the sum of the 2023 chosen numbers.
+> 
+> What is the maximum number of distinct values that can appear on the board?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Max and min of sum of consecutive absolute differences over n-permutations*
 
-> Let $n \geq 2$ be an integer. Suppose $x_1, x_2, \ldots, x_n$ is an $n$-permutation, meaning each element of $\{1, 2, \ldots, n\}$ appears exactly once among $x_1, x_2, \ldots, x_n$.
-> 
-> Determine, as a function of $n$, the maximum value and the minimum value that the sum
-> $$|x_2 - x_1| + |x_3 - x_2| + |x_4 - x_3| + \cdots + |x_n - x_{n-1}|$$
-> can take over all $n$-permutations $(x_1, x_2, \ldots, x_n)$.
-> 
-> (Here $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.)
+> Soit $n$ un entier vérifiant $n \geqslant 2$. On dit que $x_1, x_2, \ldots, x_n$ sont $n$-permutants si chaque élément de l’ensemble $\{1, 2, \ldots, n\}$ est égal à exactement un élément parmi $\lfloor x_1 \rfloor, \lfloor x_2 \rfloor, \ldots, \lfloor x_n \rfloor$.
+>
+> Déterminer, en fonction de $n$, la valeur maximale et la valeur minimale que peut prendre la somme
+> $$\lfloor x_2 - x_1 \rfloor + \lfloor x_3 - x_2 \rfloor + \lfloor x_4 - x_3 \rfloor + \ldots + \lfloor x_n - x_{n-1} \rfloor$$
+> lorsque les réels $x_1, x_2, \ldots, x_n$ sont $n$-permutants.
+>
+> Ici, $\lfloor x \rfloor$ désigne le plus grand entier inférieur ou égal à $x$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -484,17 +685,37 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max and min of sum of consecutive absolute differences over n-permutations*
+
+> Let $n \geq 2$ be an integer. Suppose $x_1, x_2, \ldots, x_n$ is an $n$-permutation, meaning each element of $\{1, 2, \ldots, n\}$ appears exactly once among $x_1, x_2, \ldots, x_n$.
+> 
+> Determine, as a function of $n$, the maximum value and the minimum value that the sum
+> $$|x_2 - x_1| + |x_3 - x_2| + |x_4 - x_3| + \cdots + |x_n - x_{n-1}|$$
+> can take over all $n$-permutations $(x_1, x_2, \ldots, x_n)$.
+> 
+> (Here $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Min spies on 2025x2025 grid to identify any 1025x1025 sub-square*
 
-> Martin places spies in certain cells of a $2025 \times 2025$ grid (which has $2025^2$ cells). Aurélien then picks a $1025 \times 1025$ square inside the grid (composed of $1025^2$ cells) and tells Martin exactly which spies are in the square he chose.
-> 
-> What is the minimum number of spies Martin must place in order to always be able to determine which square Aurélien chose?
+> Martin place des espions dans certaines cases d’une grille $2025 \times 2025$ (qui contient $2025^2$ cases). Aurélien choisit alors un carré $1025 \times 1025$ dans la grille, composé de $1025^2$ cases, et dit à Martin quels espions sont dans le carré qu’il a choisi.
+>
+> Combien d’espions au minimum Martin doit-il placer pour être sûr de pouvoir déterminer le carré choisi par Aurélien ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -516,3 +737,19 @@ level: Coupe Animath Printemps
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Min spies on 2025x2025 grid to identify any 1025x1025 sub-square*
+
+> Martin places spies in certain cells of a $2025 \times 2025$ grid (which has $2025^2$ cells). Aurélien then picks a $1025 \times 1025$ square inside the grid (composed of $1025^2$ cells) and tells Martin exactly which spies are in the square he chose.
+> 
+> What is the minimum number of spies Martin must place in order to always be able to determine which square Aurélien chose?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)

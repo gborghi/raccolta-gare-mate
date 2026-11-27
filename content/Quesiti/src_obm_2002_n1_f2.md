@@ -12,16 +12,16 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Palindrome years: next four after 2002; next odd palindrome after 1991*
 
-> The year 2002 is a palindrome, that is, it reads the same from left to right as from right to left.
-> 
-> a) After 2002, what will be the next four palindrome years?
-> 
-> b) The most recent palindrome before 1991 was odd. When will the next odd palindrome year occur?
+> O ano 2002 é palíndromo, ou seja, continua o mesmo se lido da direita para a esquerda.
+>
+> a) Depois de 2002, quais serão os próximos quatro anos palíndromos?
+>
+> b) O último ano palíndromo, 1991, era ímpar. Quando será o próximo ano palíndromo ímpar?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -48,18 +48,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Palindrome years: next four after 2002; next odd palindrome after 1991*
+
+> The year 2002 is a palindrome, that is, it reads the same from left to right as from right to left.
+> 
+> a) After 2002, what will be the next four palindrome years?
+> 
+> b) The most recent palindrome before 1991 was odd. When will the next odd palindrome year occur?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Farm divided into triangular lots; find original area given smallest lot is 40 alqueires*
 
-> A farmer decided to divide his farm among his five children. The drawing (not to scale) represents the farm and the dividing borders, which are triangular, such that
-> $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{4}, \quad \text{and} \quad EG = GC.$$
-> The youngest child received the land represented by the smallest triangle. How many alqueires does the original property have, given that the youngest child received 40 alqueires?
-
-![[src_obm_2002_n1_f2__Q02.png]]
+> Um fazendeiro resolveu repartir sua fazenda para seus cinco filhos. O desenho ao lado (fora de escala) representa a fazenda e as partes dos herdeiros, que são da forma triangular, de modo que
+> $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{2} \quad \text{e} \quad EG = GC.$$
+> O filho mais novo recebeu o terreno representado pelo triângulo escuro, de 40 alqueires. Quantos alqueires tinha a propriedade original?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -86,14 +103,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Farm divided into triangular lots; find original area given smallest lot is 40 alqueires*
+
+> A farmer decided to divide his farm among his five children. The drawing (not to scale) represents the farm and the dividing borders, which are triangular, such that
+> $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{4}, \quad \text{and} \quad EG = GC.$$
+> The youngest child received the land represented by the smallest triangle. How many alqueires does the original property have, given that the youngest child received 40 alqueires?
+
+![[src_obm_2002_n1_f2__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_backward,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Starting from 2002, reach 13 by repeatedly doubling or removing the units digit*
 
-> Given a number, you can write its double or remove (suppress) its units digit. Present a sequence starting with 2002 and ending with 13, using only these two operations.
+> Dado um número, pode-se escrever o seu dobro ou suprimir o seu algarismo das unidades. Apresente uma seqüência que começa com 2002 e termina com 13, usando somente essas duas operações.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -116,14 +152,29 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Starting from 2002, reach 13 by repeatedly doubling or removing the units digit*
+
+> Given a number, you can write its double or remove (suppress) its units digit. Present a sequence starting with 2002 and ending with 13, using only these two operations.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Three friends with dresses and shoes in three colors; deduce each friend's dress color*
 
-> Three friends went to a party wearing dresses of blue, black, and white (one color each), respectively. Their pairs of shoes also came in the same three colors, but each friend wore shoes of a different color from her dress. Ana wore white shoes. Neither J\'{u}lia's dress nor J\'{u}lia's shoes were white. Marisa wore blue shoes. Determine the color of the dress of each of the three girls.
+> Três amigas foram para uma festa com vestidos azul, preto e branco, respectivamente. Seus pares de sapato apresentavam essas mesmas três cores, mas somente Ana usava vestido e sapatos de mesma cor. Nem o vestido nem os sapatos de Júlia eram brancos. Marisa usava sapatos azuis. Descreva a cor do vestido de cada uma das moças.
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -146,14 +197,29 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three friends with dresses and shoes in three colors; deduce each friend's dress color*
+
+> Three friends went to a party wearing dresses of blue, black, and white (one color each), respectively. Their pairs of shoes also came in the same three colors, but each friend wore shoes of a different color from her dress. Ana wore white shoes. Neither J\'{u}lia's dress nor J\'{u}lia's shoes were white. Marisa wore blue shoes. Determine the color of the dress of each of the three girls.
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Pick-up sticks: score exactly 40 points; count distinct numbers of sticks that suffice*
 
-> In the game of pega-varetas (pick-up sticks), green sticks are worth 5 points each, blue sticks are worth 10 points, yellow sticks are worth 15 points, and red sticks are worth 20 points. There are 5 sticks of each color. Carlinhos managed to score 40 points in one round. Considering only the number of sticks of each color, in how many different ways could he have achieved this score, assuming it was always possible to pick sticks of any color?
+> No jogo pega-varetas, as varetas verdes valem 5 pontos cada uma, as azuis valem 10 pontos, as amarelas valem 15, as vermelhas, 20 e a preta, 50. Existem 5 varetas verdes, 5 azuis, 10 amarelas, 10 vermelhas e 1 preta. Carlinhos conseguiu fazer 40 pontos numa jogada. Levando em conta apenas a quantidade de varetas e suas cores, de quantas maneiras diferentes ele poderia ter conseguido essa pontuação, supondo que em cada caso fosse possível pegar as varetas necessárias?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -176,14 +242,29 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Pick-up sticks: score exactly 40 points; count distinct numbers of sticks that suffice*
+
+> In the game of pega-varetas (pick-up sticks), green sticks are worth 5 points each, blue sticks are worth 10 points, yellow sticks are worth 15 points, and red sticks are worth 20 points. There are 5 sticks of each color. Carlinhos managed to score 40 points in one round. Considering only the number of sticks of each color, in how many different ways could he have achieved this score, assuming it was always possible to pick sticks of any color?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_colorazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fill 8×8 grid with distinct positive integers where adjacent cells differ by 1; find diagonal sum*
 
-> In the cells of an $8 \times 8$ table, distinct positive integers are written such that the difference between integers written in neighboring cells (cells sharing a side) is always 1. In one cell the number 17 is written, and in another the number 3 is written. Fill in the $8 \times 8$ table following these rules and calculate the sum of the numbers written in the two main diagonals of the table.
+> Nas casas de um tabuleiro $8 \times 8$ foram escritos números inteiros positivos de forma que a diferença entre números escritos em casas vizinhas (quadrados com um lado comum) é 1. Sabe-se que numa das casas está escrito 17 e, em outra, está escrito 3. Desenhe um tabuleiro $8 \times 8$, preencha-o segundo essas regras e calcule a soma dos números escritos nas duas diagonais do tabuleiro.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
@@ -203,3 +284,18 @@ level: OBM Nível 1
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fill 8×8 grid with distinct positive integers where adjacent cells differ by 1; find diagonal sum*
+
+> In the cells of an $8 \times 8$ table, distinct positive integers are written such that the difference between integers written in neighboring cells (cells sharing a side) is always 1. In one cell the number 17 is written, and in another the number 3 is written. Fill in the $8 \times 8$ table following these rules and calculate the sum of the numbers written in the two main diagonals of the table.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)

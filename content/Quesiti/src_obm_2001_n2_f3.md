@@ -12,18 +12,16 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fold a rectangular sheet along its diagonal, then so C meets A; show the crease quadrilateral is a rhombus and find its area*
 
-> A sheet of rectangular paper $ABCD$, of area $1$, is folded along its diagonal $AC$ and then unfolded; next it is folded so that vertex $C$ coincides with vertex $A$, and then unfolded, leaving the crease $MN$, as in the drawing below.
-> 
-> **a)** Show that the quadrilateral $AMCN$ is a rhombus.
-> 
-> **b)** If the diagonal $AC$ is twice the width $AD$, what is the area of the rhombus $AMCN$?
-
-![[src_obm_2001_n2_f3__Q01.png]]
+> Uma folha de papel retangular $ABCD$, de área $1$, é dobrada em sua diagonal $AC$ e, em seguida, desdobrada; depois é dobrada de forma que o vértice $A$ coincida com o vértice $C$ e, em seguida, desdobrada, deixando o vinco $MN$, conforme desenho abaixo.
+>
+> a) Mostre que o quadrilátero $AMCN$ é um losango.
+>
+> b) Se a diagonal $AC$ é o dobro da largura $AD$, qual é a área do losango $AMCN$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -52,22 +50,43 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fold a rectangular sheet along its diagonal, then so C meets A; show the crease quadrilateral is a rhombus and find its area*
+
+> A sheet of rectangular paper $ABCD$, of area $1$, is folded along its diagonal $AC$ and then unfolded; next it is folded so that vertex $C$ coincides with vertex $A$, and then unfolded, leaving the crease $MN$, as in the drawing below.
+> 
+> **a)** Show that the quadrilateral $AMCN$ is a rhombus.
+> 
+> **b)** If the diagonal $AC$ is twice the width $AD$, what is the area of the rhombus $AMCN$?
+
+![[src_obm_2001_n2_f3__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_colorazione,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *42 children numbered in a line stand on a grid of square tiles, consecutive numbers on adjacent tiles; decide which inspector's drawing is wrong and complete the correct one*
 
-> The $42$ children of a kindergarten school joined hands forming a line, and one of them received the number $1$, the next one number $2$, and so on, successively, up to the last one, who received the number $42$. Still holding hands, they went out into the courtyard and each one placed themselves on a tile (a square tile); two children with consecutive numbers placed themselves on adjacent tiles of one same row or one same column, side by side. Afterwards two inspectors each made a drawing showing, on some of the tiles, where some of the children had placed themselves. The two drawings (one by Maria, one by C\u00e9lia) were supposed to represent the same arrangement on the same tiles. Comparing them, the head inspector said to one of the two: "Your drawing is wrong!"
-> 
-> *i)* With which of the two inspectors did the head inspector agree? Which drawing is correct, and what is the head inspector's reasoning?
-> 
-> *ii)* Complete the correct drawing so that it satisfies the conditions of the statement.
-> 
-> In Maria's drawing (left), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$. In C\u00e9lia's drawing (right), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$ (placed in a different relative position than in Maria's drawing).
-
-![[src_obm_2001_n2_f3__Q02.png]]
+> As $42$ crianças de uma escola infantil deram as mãos formando uma fila e cada uma delas recebeu um número da seguinte maneira: a primeira delas ficou com o número $1$, a segunda ficou com o número $2$ e, assim sucessivamente, até a última, que ficou com o número $42$. Continuando de mãos dadas, foram para um pátio, onde cada uma delas ficou sobre uma lajota quadrada; duas crianças com números consecutivos ficaram em lajotas vizinhas com um lado comum (ou seja, do lado esquerdo, do lado direito, na frente ou atrás, mas nunca em diagonal).
+>
+> Ao relatar esse fato para a diretora, a inspetora Maria fez o desenho à esquerda, mostrando a posição de três crianças sobre o retângulo formado pelas $42$ lajotas, sobre as quais estavam as crianças. Num outro comunicado, a inspetora Célia fez outro desenho, mostrado à direita, com a posição das mesmas crianças sobre o mesmo retângulo. Ao receber os dois desenhos a diretora disse a uma das inspetoras: "O seu desenho está errado".
+>
+> i) Com qual das duas inspetoras a diretora falou? Qual foi o raciocínio da diretora?
+>
+> ii) Complete o desenho correto satisfazendo as condições do enunciado.
+>
+> No desenho de Maria (à esquerda), duas casas vizinhas da linha de cima contêm $11$ e $20$, e uma casa mais abaixo contém $31$. No desenho de Célia (à direita), duas casas vizinhas da linha de cima contêm $11$ e $20$, e uma casa mais abaixo contém $31$ (em posição relativa diferente da do desenho de Maria).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -98,16 +117,37 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*42 children numbered in a line stand on a grid of square tiles, consecutive numbers on adjacent tiles; decide which inspector's drawing is wrong and complete the correct one*
+
+> The $42$ children of a kindergarten school joined hands forming a line, and one of them received the number $1$, the next one number $2$, and so on, successively, up to the last one, who received the number $42$. Still holding hands, they went out into the courtyard and each one placed themselves on a tile (a square tile); two children with consecutive numbers placed themselves on adjacent tiles of one same row or one same column, side by side. Afterwards two inspectors each made a drawing showing, on some of the tiles, where some of the children had placed themselves. The two drawings (one by Maria, one by C\u00e9lia) were supposed to represent the same arrangement on the same tiles. Comparing them, the head inspector said to one of the two: "Your drawing is wrong!"
+> 
+> *i)* With which of the two inspectors did the head inspector agree? Which drawing is correct, and what is the head inspector's reasoning?
+> 
+> *ii)* Complete the correct drawing so that it satisfies the conditions of the statement.
+> 
+> In Maria's drawing (left), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$. In C\u00e9lia's drawing (right), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$ (placed in a different relative position than in Maria's drawing).
+
+![[src_obm_2001_n2_f3__Q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove only finitely many integer-sided triangles have a given integer altitude h relative to side c*
 
-> Given a positive integer $h$, prove that there exists only a finite number of triangles with integer sides $a$, $b$, $c$ and altitude relative to side $c$ equal to $h$.
-
-![[src_obm_2001_n2_f3__Q03.png]]
+> Dado um inteiro positivo $h$ demonstre que existe um número finito de triângulos de lados inteiros $a$, $b$, $c$ e altura relativa ao lado $c$ igual a $h$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
@@ -132,14 +172,31 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove only finitely many integer-sided triangles have a given integer altitude h relative to side c*
+
+> Given a positive integer $h$, prove that there exists only a finite number of triangles with integer sides $a$, $b$, $c$ and altitude relative to side $c$ equal to $h$.
+
+![[src_obm_2001_n2_f3__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove no two integers a, b satisfy (a+b)(a^2+b^2)=2001*
 
-> Show that there do not exist two integers $a$ and $b$ such that $(a+b)(a^2+b^2)=2001$.
+> Mostre que não existem dois números inteiros $a$ e $b$ tais que $(a+b)(a^2+b^2)=2001$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -162,14 +219,29 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove no two integers a, b satisfy (a+b)(a^2+b^2)=2001*
+
+> Show that there do not exist two integers $a$ and $b$ such that $(a+b)(a^2+b^2)=2001$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all possible values of a symmetric expression in a, b, c given a+b+c=0*
 
-> Let $a$, $b$ and $c$ be nonzero real numbers such that $a+b+c=0$. Compute the possible values of
+> Sejam $a$, $b$ e $c$ números reais não nulos tais que $a+b+c=0$. Calcule os possíveis valores de
 > $$\frac{(a^3+b^3+c^3)^2(a^4+b^4+c^4)}{(a^5+b^5+c^5)^2}.$$
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -194,14 +266,30 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all possible values of a symmetric expression in a, b, c given a+b+c=0*
+
+> Let $a$, $b$ and $c$ be nonzero real numbers such that $a+b+c=0$. Compute the possible values of
+> $$\frac{(a^3+b^3+c^3)^2(a^4+b^4+c^4)}{(a^5+b^5+c^5)^2}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove the four altitudes of a convex quadrilateral concur iff the quadrilateral is cyclic*
 
-> In a convex quadrilateral, the *altitude* with respect to a side is defined as the perpendicular to that side passing through the midpoint of the opposite side. Prove that the four altitudes have a common point if and only if the quadrilateral is inscribable (cyclic), that is, if and only if there exists a circle that contains its four vertices.
+> Em um quadrilátero convexo, a altura em relação a um lado é definida como a perpendicular a esse lado passando pelo ponto médio do lado oposto. Prove que as quatro alturas têm um ponto comum se e somente se o quadrilátero é inscritível, isto é, se e somente se existe uma circunferência que contém seus quatro vértices.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -222,3 +310,17 @@ level: OBM Nível 2
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove the four altitudes of a convex quadrilateral concur iff the quadrilateral is cyclic*
+
+> In a convex quadrilateral, the *altitude* with respect to a side is defined as the perpendicular to that side passing through the midpoint of the opposite side. Prove that the four altitudes have a common point if and only if the quadrilateral is inscribable (cyclic), that is, if and only if there exists a circle that contains its four vertices.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)

@@ -12,14 +12,14 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Trailing zeros of 2^2026 × 5^2021*
 
-> How many zeros does the decimal representation of the number $2^{2026}\times5^{2021}$ end with?
+> Par combien de 0 se termine l'écriture décimale du nombre $2^{2026}\times 5^{2021}$ ?
 >
-> *Only a numerical answer is expected here.*
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -47,16 +47,35 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trailing zeros of 2^2026 × 5^2021*
+
+> How many zeros does the decimal representation of the number $2^{2026}\times5^{2021}$ end with?
+>
+> *Only a numerical answer is expected here.*
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 2021
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Square and circle centred at A through C: angle PCB*
 
-> Let $ABCD$ be a square. Let $P$ be the point of intersection of the ray $[AB)$ with the circle with centre $A$ passing through $C$.
+> Soit $ABCD$ un carré. Soit $P$ le point d'intersection de la demi-droite $[AB)$ avec le cercle de centre $A$ et passant par $C$.
 >
-> What is the measure of the angle $\widehat{PCB}$?
+> Combien mesure l'angle $\widehat{PCB}$ ?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -84,16 +103,35 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square and circle centred at A through C: angle PCB*
+
+> Let $ABCD$ be a square. Let $P$ be the point of intersection of the ray $[AB)$ with the circle with centre $A$ passing through $C$.
+>
+> What is the measure of the angle $\widehat{PCB}$?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** $22.5^\circ$
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=4)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_colorazione,method_cassetti,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Distinct integers with all pairwise sums prime*
 
-> On a board are written $n\geqslant2$ pairwise distinct positive integers. They have the following property: whichever 2 numbers are chosen among these $n$ numbers, their sum is a prime number.
+> Sur un tableau sont écrits $n\geqslant 2$ nombres entiers strictement positifs deux à deux distincts. Ceux-ci vérifient la propriété suivante : quels que soient les 2 nombres que l'on choisit parmi ces $n$ nombres, leur somme est un nombre premier.
 >
-> What is the largest value of $n$ for which this is possible?
+> Quelle est la plus grande valeur de $n$ pour laquelle ceci est possible ?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_colorazione|Colouring / parity]], [[method_cassetti|Pigeonhole principle]]
@@ -121,16 +159,35 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Distinct integers with all pairwise sums prime*
+
+> On a board are written $n\geqslant2$ pairwise distinct positive integers. They have the following property: whichever 2 numbers are chosen among these $n$ numbers, their sum is a prime number.
+>
+> What is the largest value of $n$ for which this is possible?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** $n=2$
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.5](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=5)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_cassetti,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Three numbers with ab + bc + ca ≥ 0*
 
-> Aline writes $n\geqslant3$ pairwise distinct real numbers on the board.
+> Aline écrit au tableau $n\geqslant 3$ nombres réels deux à deux distincts.
 >
-> For which values of $n$ is it true that, whatever real numbers Aline writes, Emilhan can find three pairwise distinct real numbers $a$, $b$ and $c$ among the $n$ numbers on the board such that $ab+bc+ca\geqslant0$?
+> Pour quelles valeurs de $n$ est-ce que, peu importe les nombres réels écrits par Aline, Emilhan peut trouver trois nombres réels deux à deux distincts $a$, $b$ et $c$ parmi les $n$ nombres au tableau tels que $ab+bc+ca\geqslant 0$ ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_casework|Case analysis]]
@@ -158,18 +215,37 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three numbers with ab + bc + ca ≥ 0*
+
+> Aline writes $n\geqslant3$ pairwise distinct real numbers on the board.
+>
+> For which values of $n$ is it true that, whatever real numbers Aline writes, Emilhan can find three pairwise distinct real numbers $a$, $b$ and $c$ among the $n$ numbers on the board such that $ab+bc+ca\geqslant0$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** exactly for $n\geqslant5$
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.6](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=6)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_colorazione,method_invarianti,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Grid with constant sums under an L-tromino and a domino*
 
-> Maxime writes integers, not necessarily distinct, in each of the 64 cells of an $8\times8$ grid. Maxime has a special piece, which he may rotate as much as he likes, and he may place it anywhere on the grid as long as it does not stick out of the grid and covers each cell either completely or not at all. He notices that every time he does this, the sum of the numbers written in the cells he covers is the same.
+> Maxime écrit des nombres entiers non nécessairement distincts dans chacune des 64 cases d'une grille $8\times 8$. Maxime possède une pièce spéciale, qu'il peut tourner autant qu'il le souhaite, et il a le droit de la poser comme il le veut sur la grille tant que celle-ci ne déborde pas de la grille, et recouvre chaque case soit entièrement, soit pas du tout. Il remarque que chaque fois qu'il fait cela, la somme des nombres inscrits sur les cases qu'il recouvre est la même.
 >
-> 1. Determine the maximum number of distinct numbers Maxime wrote in the grid if his piece is the following one, made of 3 cells: an L-shaped corner (two cells side by side, plus the cell below the right-hand one).
+> 1. Déterminer le nombre maximum de nombres distincts que Maxime a écrit dans la grille si la pièce qu'il possède est la pièce suivante, composée de 3 cases :
 >
-> 2. Determine the maximum number of distinct numbers Maxime wrote in the grid if his piece is the following one, made of 2 cells: a domino (two cells side by side).
+> 2. Déterminer le nombre maximum de nombres distincts que Maxime a écrit dans la grille si la pièce qu'il possède est la pièce suivante, composée de 2 cases :
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
@@ -199,16 +275,36 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Grid with constant sums under an L-tromino and a domino*
+
+> Maxime writes integers, not necessarily distinct, in each of the 64 cells of an $8\times8$ grid. Maxime has a special piece, which he may rotate as much as he likes, and he may place it anywhere on the grid as long as it does not stick out of the grid and covers each cell either completely or not at all. He notices that every time he does this, the sum of the numbers written in the cells he covers is the same.
+>
+> 1. Determine the maximum number of distinct numbers Maxime wrote in the grid if his piece is the following one, made of 3 cells: an L-shaped corner (two cells side by side, plus the cell below the right-hand one).
+>
+> 2. Determine the maximum number of distinct numbers Maxime wrote in the grid if his piece is the following one, made of 2 cells: a domino (two cells side by side).
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** 1) 1 number; 2) 2 distinct numbers
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.7](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=7)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Integer solutions of x² = yz + 1 and cyclic*
 
-> Determine all triples $(x,y,z)$ of integers (not necessarily positive) such that
->
-> $$\begin{cases}x^2=yz+1,\\ y^2=zx+1,\\ z^2=xy+1.\end{cases}$$
+> Déterminer tous les triplets $(x, y, z)$ de nombres entiers (non nécessairement positifs) tels que
+> $$\begin{cases} x^2 = yz + 1,\\ y^2 = zx + 1,\\ z^2 = xy + 1. \end{cases}$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
@@ -236,16 +332,35 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integer solutions of x² = yz + 1 and cyclic*
+
+> Determine all triples $(x,y,z)$ of integers (not necessarily positive) such that
+>
+> $$\begin{cases}x^2=yz+1,\\ y^2=zx+1,\\ z^2=xy+1.\end{cases}$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** $(-1,0,1)$ and all its permutations
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.9](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=9)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Three concurrent lines from reflections of A (middle school)*
 
-> Let $ABC$ be a triangle with $AB<BC$, let $D$ be the reflection of $A$ in $B$, and $E$ the reflection of $A$ in $C$. Let $P$ be the point of intersection of the lines $(DC)$ and $(BE)$, and let $Q$ be the point of intersection of the line $(DC)$ with the perpendicular to $(DC)$ through $E$. Let $R$ be the point of the line $(BC)$ such that the triangle $CQR$ is isosceles with apex $R$.
+> Soit $ABC$ un triangle tel que $AB < BC$ et soit $D$ le symétrique de $A$ par rapport à $B$, et $E$ le symétrique de $A$ par rapport à $C$. Soit $P$ le point d’intersection des droites $(DC)$ et $(BE)$ et soit $Q$ le point d’intersection de la droite $(DC)$ et de la perpendiculaire à $(DC)$ passant par $E$. Soit $R$ le point de la droite $(BC)$ tel que le triangle $CQR$ soit isocèle en $R$.
 >
-> Prove that the lines $(AP)$, $(QR)$ and $(DE)$ meet at a single point.
+> Montrer que les droites $(AP)$, $(QR)$ et $(DE)$ s’intersectent en un même point.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -273,18 +388,37 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three concurrent lines from reflections of A (middle school)*
+
+> Let $ABC$ be a triangle with $AB<BC$, let $D$ be the reflection of $A$ in $B$, and $E$ the reflection of $A$ in $C$. Let $P$ be the point of intersection of the lines $(DC)$ and $(BE)$, and let $Q$ be the point of intersection of the line $(DC)$ with the perpendicular to $(DC)$ through $E$. Let $R$ be the point of the line $(BC)$ such that the triangle $CQR$ is isosceles with apex $R$.
+>
+> Prove that the lines $(AP)$, $(QR)$ and $(DE)$ meet at a single point.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** proof — official solution in the corrigé
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.12](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=12)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Number of digits of 2^2026 × 5^2021*
 
-> How many digits make up the decimal representation of the number $2^{2026}\times5^{2021}$?
+> Combien de chiffres composent l’écriture décimale du nombre $2^{2026} \times 5^{2021}$ ?
 >
-> *Only a numerical answer is expected here.*
+> Seule une réponse numérique est attendue ici.
 >
-> *For example, the decimal representation of the number 2020 has 4 digits.*
+> Par exemple, l’écriture décimale du nombre 2020 comporte 4 chiffres.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -314,14 +448,35 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of digits of 2^2026 × 5^2021*
+
+> How many digits make up the decimal representation of the number $2^{2026}\times5^{2021}$?
+>
+> *Only a numerical answer is expected here.*
+>
+> *For example, the decimal representation of the number 2020 has 4 digits.*
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 2023
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.13](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=13)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *White rectangle in a 4×4 grid with two black cells*
 
-> In a $4\times4$ grid, two of the sixteen cells are coloured black and the other fourteen white. Determine the largest positive integer $k$ such that, whichever cells are coloured black, one can always find a rectangle made of $k$ whole cells, with sides parallel to the sides of the grid, containing no black cell.
+> Dans une grille $4 \times 4$, deux des seize cases sont coloriées en noir et les quatorze autres en blanc. Déterminer le plus grand nombre entier positif $k$ tel que, peu importe quelles cases sont coloriées en noir, on peut toujours trouver un rectangle, formé de $k$ cases entières, dont les côtés sont parallèles aux côtés de la grille et qui ne contienne aucune case noire.
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
@@ -347,16 +502,33 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*White rectangle in a 4×4 grid with two black cells*
+
+> In a $4\times4$ grid, two of the sixteen cells are coloured black and the other fourteen white. Determine the largest positive integer $k$ such that, whichever cells are coloured black, one can always find a rectangle made of $k$ whole cells, with sides parallel to the sides of the grid, containing no black cell.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** 4
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.14](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=14)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Angle bisector in a circle with diameter AD: DX = DY*
 
-> Let $A$ and $D$ be two distinct points, and $\Omega$ the circle with diameter $[AD]$. Let $B$ and $C$ be two points on the circle $\Omega$ such that the points $A$, $B$, $C$ and $D$ are pairwise distinct and lie in this order on the circle. Let $X$ and $Y$ be the points of intersection of the bisector of the angle $\widehat{BAC}$ with the lines $(BD)$ and $(CD)$ respectively.
+> Soient $A$ et $D$ deux points distincts, et $\Omega$ le cercle de diamètre $[AD]$. On note $B$ et $C$ deux points sur le cercle $\Omega$ tels que les points $A$, $B$, $C$ et $D$ sont distincts deux à deux et se trouvent dans cet ordre sur le cercle. On note $X$ et $Y$ les points d’intersection de la bissectrice de l’angle $\widehat{BAC}$ avec les droites $(BD)$ et $(CD)$ respectivement.
 >
-> Prove that $DX=DY$.
+> Montrer que $DX = DY$.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -384,20 +556,39 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Angle bisector in a circle with diameter AD: DX = DY*
+
+> Let $A$ and $D$ be two distinct points, and $\Omega$ the circle with diameter $[AD]$. Let $B$ and $C$ be two points on the circle $\Omega$ such that the points $A$, $B$, $C$ and $D$ are pairwise distinct and lie in this order on the circle. Let $X$ and $Y$ be the points of intersection of the bisector of the angle $\widehat{BAC}$ with the lines $(BD)$ and $(CD)$ respectively.
+>
+> Prove that $DX=DY$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** proof — official solution in the corrigé
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.15](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=15)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Arithmetic progressions among ±2^k*
 
-> Théo chooses at least two numbers among the following:
+> Théo choisit au moins deux nombres parmi les suivants :
 >
-> $$-2^{2026},-2^{2025},\dots,-2^2,-2^1,-1,1,2^1,2^2,\dots,2^{2025},2^{2026}.$$
+> $-2^{2026}, -2^{2025}, \dots, -2^{2}, -2^{1}, -1, 1, 2^{1}, 2^{2}, \dots, 2^{2025}, 2^{2026}.$
 >
-> He writes the chosen numbers on the board in increasing order and notices that the difference between two neighbouring numbers on the board is always the same.
+> Il écrit au tableau les nombres qu’il a choisis dans l’ordre croissant, et remarque que la différence entre deux nombres voisins au tableau est toujours la même.
 >
-> What is the largest number of numbers Théo can write on the board?
+> Quel est le nombre maximal de nombres que Théo peut écrire au tableau ?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
@@ -429,16 +620,39 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Arithmetic progressions among ±2^k*
+
+> Théo chooses at least two numbers among the following:
+>
+> $$-2^{2026},-2^{2025},\dots,-2^2,-2^1,-1,1,2^1,2^2,\dots,2^{2025},2^{2026}.$$
+>
+> He writes the chosen numbers on the board in increasing order and notices that the difference between two neighbouring numbers on the board is always the same.
+>
+> What is the largest number of numbers Théo can write on the board?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 3
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.16](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=16)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Three concurrent lines from reflections of A (high school)*
 
-> Let $ABC$ be a triangle with $AB<BC$, let $D$ be the reflection of $A$ in $B$, and $E$ the reflection of $A$ in $C$. Let $P$ be the point of intersection of the lines $(DC)$ and $(BE)$, and let $Q$ be the point of intersection of the line $(DC)$ with the perpendicular to $(DC)$ through $E$. Let $R$ be the point of the line $(BC)$ such that the triangle $CQR$ is isosceles with apex $R$.
+> Soit $ABC$ un triangle tel que $AB < BC$ et soit $D$ le symétrique de $A$ par rapport à $B$, et $E$ le symétrique de $A$ par rapport à $C$. Soit $P$ le point d’intersection des droites $(DC)$ et $(BE)$ et soit $Q$ le point d’intersection de la droite $(DC)$ et de la perpendiculaire à $(DC)$ passant par $E$. Soit $R$ le point de la droite $(BC)$ tel que le triangle $CQR$ soit isocèle en $R$.
 >
-> Prove that the lines $(AP)$, $(QR)$ and $(DE)$ meet at a single point.
+> Montrer que les droites $(AP)$, $(QR)$ et $(DE)$ s’intersectent en un même point.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
@@ -466,18 +680,37 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three concurrent lines from reflections of A (high school)*
+
+> Let $ABC$ be a triangle with $AB<BC$, let $D$ be the reflection of $A$ in $B$, and $E$ the reflection of $A$ in $C$. Let $P$ be the point of intersection of the lines $(DC)$ and $(BE)$, and let $Q$ be the point of intersection of the line $(DC)$ with the perpendicular to $(DC)$ through $E$. Let $R$ be the point of the line $(BC)$ such that the triangle $CQR$ is isosceles with apex $R$.
+>
+> Prove that the lines $(AP)$, $(QR)$ and $(DE)$ meet at a single point.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** proof — official solution in the corrigé
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.17](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=17)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Floor and fractional part: ⌊⌊x⌋²{x}⌋ = 1*
 
-> Determine whether there exist infinitely many positive real numbers $x$ such that $x^2$ is an integer and
->
-> $$\big\lfloor\lfloor x\rfloor^2\{x\}\big\rfloor=1.$$
->
-> *Recall that $\lfloor y\rfloor$ denotes the integer part of the real number $y$, that is, the largest integer less than or equal to $y$, and that $\{y\}$ denotes the fractional part of $y$, that is, $\{y\}=y-\lfloor y\rfloor$.*
+> Déterminer s’il existe une infinité de nombres réels positifs $x$ tels que $x^2$ est un nombre entier et
+> $$
+> \lfloor\lfloor x\rfloor^2\{x\}\rfloor=1.
+> $$
+> On rappelle que $\lfloor y\rfloor$ désigne la partie entière du réel $y$, c’est-à-dire le plus grand entier inférieur ou égal à $y$, et on rappelle que $\{y\}$ désigne la partie fractionnaire du réel $y$, c’est-à-dire la quantité $\{y\}=y-\lfloor y\rfloor$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
@@ -507,16 +740,37 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Floor and fractional part: ⌊⌊x⌋²{x}⌋ = 1*
+
+> Determine whether there exist infinitely many positive real numbers $x$ such that $x^2$ is an integer and
+>
+> $$\big\lfloor\lfloor x\rfloor^2\{x\}\big\rfloor=1.$$
+>
+> *Recall that $\lfloor y\rfloor$ denotes the integer part of the real number $y$, that is, the largest integer less than or equal to $y$, and that $\{y\}$ denotes the fractional part of $y$, that is, $\{y\}=y-\lfloor y\rfloor$.*
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** no: there are only finitely many such $x$
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.18](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=18)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *1000 divisors alternating in parity*
 
-> Baptiste has chosen a positive integer $n$ with exactly 1000 positive divisors (1 and $n$ included). He writes all these divisors on the board in increasing order and notices that two consecutive divisors always have different parities: one of them is even and the other is odd.
+> Baptiste a choisi un nombre entier strictement positif $n$ qui possède exactement $1000$ diviseurs positifs ($1$ et $n$ inclus). Il écrit tous ces diviseurs au tableau dans l’ordre croissant, et remarque que deux diviseurs consécutifs sont toujours de parités différentes : l’un des deux est pair, l’autre est impair.
 >
-> Prove that $n$ has at least 150 digits in its decimal representation.
+> Montrer que $n$ a au moins $150$ chiffres dans son écriture décimale.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
@@ -544,16 +798,35 @@ level: Coupe Animath Printemps
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*1000 divisors alternating in parity*
+
+> Baptiste has chosen a positive integer $n$ with exactly 1000 positive divisors (1 and $n$ included). He writes all these divisors on the board in increasing order and notices that two consecutive divisors always have different parities: one of them is even and the other is odd.
+>
+> Prove that $n$ has at least 150 digits in its decimal representation.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** proof — official solution in the corrigé
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.19](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=19)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_grafi,method_estremalita,skill_modellizzazione,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Guaranteed long cycle among 2026 cities*
 
-> The country of Animath has 2026 cities. Some of its cities are joined by roads (which go both ways). It is known that for every triple of pairwise distinct cities $X$, $Y$ and $Z$, one can find a sequence of roads going from $X$ to $Z$ without passing through $Y$. We say that $n$ cities $V_1,\dots,V_n$ form, in this order, a *cycle of length $n$* if the $n$ cities are **pairwise distinct**, and if for every integer $i$ with $1\leqslant i\leqslant n-1$ the cities $V_i$ and $V_{i+1}$ are joined, and $V_n$ is joined to $V_1$.
+> Le pays d’Animath contient $2026$ villes. Certaines de ses villes sont reliées par des routes (qui vont dans les deux sens). On sait que pour tout triplet de villes deux à deux distinctes $X$, $Y$ et $Z$, il est possible de trouver une suite de routes allant de $X$ à $Z$ sans passer par $Y$. On dit que $n$ villes $V_1,\ldots,V_n$ forment, dans cet ordre, un cycle de longueur $n$ si les $n$ villes sont deux à deux distinctes, et si pour tout entier $i$ vérifiant $1\leqslant i\leqslant n-1$, les villes $V_i$ et $V_{i+1}$ sont reliées, et $V_n$ est reliée à $V_1$.
 >
-> What is the largest value of $n$ such that, however the cities are joined, there exists a cycle of length at least $n$?
+> Quelle est la plus grande valeur de $n$ telle que, peu importe la manière dont les villes sont reliées, il existe un cycle de longueur au moins $n$ ?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
@@ -578,3 +851,22 @@ level: Coupe Animath Printemps
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Guaranteed long cycle among 2026 cities*
+
+> The country of Animath has 2026 cities. Some of its cities are joined by roads (which go both ways). It is known that for every triple of pairwise distinct cities $X$, $Y$ and $Z$, one can find a sequence of roads going from $X$ to $Z$ without passing through $Y$. We say that $n$ cities $V_1,\dots,V_n$ form, in this order, a *cycle of length $n$* if the $n$ cities are **pairwise distinct**, and if for every integer $i$ with $1\leqslant i\leqslant n-1$ the cities $V_i$ and $V_{i+1}$ are joined, and $V_n$ is joined to $V_1$.
+>
+> What is the largest value of $n$ such that, however the cities are joined, there exists a cycle of length at least $n$?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** 4
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.21](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=21)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)

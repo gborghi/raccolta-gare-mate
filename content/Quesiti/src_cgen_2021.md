@@ -59,9 +59,7 @@ level: Concours Général
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Piccoli pesi: per una successione finita di n numeri reali si definisce il suo peso come il più grande dei valori di tipo somma parziale assoluta |x_1|,|x_1+x_2|,...,|x_1+...+x_n|; Isabelle minimizza il peso su tutti gli ordinamenti (valore I), Clara usa un algoritmo greedy (valore C); confronta I e C.*
-
+*Pesi di Petits: a una successione finita di n reali si associa il peso dato dal massimo dei valori assoluti delle somme parziali; studio di tale peso e di successioni di peso minimo.*
 > Problemi 1: "Peteits weights" (piccoli pesi). Per ogni numero intero $n$ maggiore o uguale a $2$ e per ogni sequenza finita di $n$ reale $(x_1,x_2,\ldots,x_n)$, si chiama peso della sequenza il più grande dei valori $|x_1|,|x_1+x_2|,\ldots,|x_1+x_2+\cdots+x_n|$. Per esempio, per $n=4$ e $(x_1,x_2,x_3,x_4)=(4,4,0,-9)$, il peso della sequenza è uguale a $8$, perché $|x_1|=4$, $|x_1+x_2|=8$, $|x_1+x_2+x_3|=8$ e $|x_1+x_2+x_3+x_4|=1$. Per $(x_1,x_2,x_3,x_4)=(-9,4,0,4)$, il peso è uguale a $9$, perché $|x_1|=9$, $|x_1+x_2|=5$, $|x_1+x_2+x_3|=5$ e $|x_1+x_2+x_3+x_4|=1$. Si nota che le due sequenze finite di cui sopra sono formate dai medesimi numeri in un ordine diverso e che hanno pesi diversi.
 > 
 > 1. Determinare i pesi delle seguenti sequenze finite: a. $(3,5,-6,-8,2)$ (e quindi $n=5$). b. $(1,2,3,\ldots,2014,2015,-2015,-2014,\ldots,-2,-1)$ (e quindi $n=4030$). c. In ciascuno dei due esempi precedenti, riordinare i termini in modo da ottenere un peso minore.
@@ -118,9 +116,7 @@ level: Concours Général
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Tetraedri: proprietà di un tetraedro ABCD; esistenza del centroide G e della sfera circoscritta; concomitanza di altitudini (in O, in G, necessariamente) e caratterizzazione di tetraedri regolari; un criterio per la concomitanza di altitudini tramite prodotti dotati di vettori di direzione unità.*
-
+*Proprietà di un tetraedro ABCD: esistenza del baricentro G e della sfera circoscritta; concorrenza delle altezze e caratterizzazione dei tetraedri ortocentrici.*
 > Problemi 2: "Tetraedres" (Tetraedra). Si chiama tetraedro i dati, nello spazio, di quattro punti non coplanari $A$, $B$, $C$, $D$. I bordi del tetraedro sono i segmenti $[AB]$, $[AC]$, $[AD]$, $[BC]$, $[BD]$, $[CD]$. Nella domanda da 3 a 3, $ABCD$ indica un tetraedro.
 > 
 > 1.a. Indicare che esiste un punto unico $G$ tale che $\overrightarrow{GA}+\overrightarrow{GB}+\overrightarrow{GC}+\overrightarrow{GD}=\vec{0}$. b. Uno definisce la media emessa da $A$ la linea che unisce $A$ al centroide del triangolo $BCD$, e uno definisce in modo analogo le altre tre media emesse da $B$, $C$ e $D$. Indicare che i mediani sono simultanei al punto $G$.
@@ -140,7 +136,138 @@ level: Concours Général
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_ricorsione,method_induzione,method_conteggio,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Probability problem on the number D_n of balls eliminated/remaining: study the probabilities p_j that ball number j is eliminated in the first selection, the largest probability M_n, the most probable result via property P_n (P(D_n=n)=M_n), and a chain of inequalities P(D_n=k)<=P(D_n=k+1) for k<=n-2. ONLY questions 8-17 are visible in the images (the statement/setup and questions 1-7 are not shown).*
+
+> Problème 2 : La loi du milieu
+>
+> Soit $n$ un entier naturel non nul. Dans un sac, on place $2n+1$ boules indiscernables au toucher et numérotées $0,1,2,\ldots,2n$. On vide alors progressivement le sac jusqu’à n’y laisser qu’une seule boule, selon le protocole suivant :
+>
+> - on tire trois boules simultanément ;
+> - si les trois boules tirées ont pour numéros $a$, $b$ et $c$, avec $a<b<c$, on élimine les boules de numéros $a$ et $c$ et on replace dans le sac la boule de numéro $b$ ;
+> - on recommence les opérations précédentes.
+>
+> Au bout de $n$ tirages, il ne reste plus qu’une seule boule, et on note $D_n$ son numéro. Pour tout entier $k$, on note $\mathbb{P}[D_n=k]$ la probabilité que la dernière boule restant dans le sac soit celle de numéro $k$.
+>
+> 2.1 Étude des petits cas
+>
+> 1. Déterminer la loi de la variable aléatoire $D_1$.
+>
+> 2. Déterminer la loi de la variable aléatoire $D_2$.
+>
+> 2.2 Valeurs extrêmes et symétrie
+>
+> 3. Déterminer la probabilité $\mathbb{P}[D_n=0]$.
+>
+> 4. Déterminer la probabilité $\mathbb{P}[D_n=1]$ en fonction de $n$.
+>
+> 5. Soit $i$ un entier tel que $0\leqslant i\leqslant 2n$. Pourquoi a-t-on $\mathbb{P}[D_n=i]=\mathbb{P}[D_n=2n-i]$ ?
+>
+> 6. Calculer l’espérance de la variable aléatoire $D_n$ en fonction de $n$.
+>
+> 2.3 Comportement limite
+>
+> Dans cette partie, on souhaite étudier la loi de $D_n$ lorsque $n$ tend vers $+\infty$. Afin de faciliter cette étude, on démontre tout d’abord un résultat préliminaire.
+>
+> 7. On considère la suite $(u_n)_{n\geqslant 0}$ définie par $u_0=1$ et par
+> $$u_n=\frac{1\times 3\times 5\times\cdots\times(2n-1)}{2\times 4\times 6\times\cdots\times 2n}$$
+> pour tout $n\geqslant 1$. Démontrer que $u_n\leqslant\dfrac{1}{\sqrt{3n+1}}$ pour tout $n\geqslant 0$.
+>
+> Il est maintenant temps d’étudier la loi de $D_n$ elle-même.
+>
+> 8. Déterminer, pour tout entier $j$ tel que $0\leqslant j\leqslant 2n$, la probabilité $p_j$ que la boule de numéro $j$ soit éliminée lors de la première sélection.
+>
+> 9. Démontrer que, si $n\geqslant 3$, alors $p_j\geqslant\dfrac{1}{2n}$ pour tout entier $j$ tel que $0\leqslant j\leqslant 2n$.
+>
+> 10. On note $M_n$ la plus grande des probabilités $\mathbb{P}[D_n=j]$ lorsque $0\leqslant j\leqslant 2n$. Démontrer que $M_n$ tend vers $0$ lorsque $n$ tend vers $+\infty$.
+>
+> 2.4 Résultat le plus probable
+>
+> On rappelle que, pour deux événements $A$ et $B$, on note $A\setminus B$ l’événement selon lequel $A$ est réalisé, mais pas $B$. En outre, si $\mathbb{P}[B]\neq 0$, on note $\mathbb{P}_B[A]$ la probabilité conditionnelle de $A$ sachant $B$.
+>
+> On souhaite ici démontrer, pour tout entier $n\geqslant 1$, que $\mathbb{P}[D_n=n]=M_n$. Dans ce but, on va démontrer la propriété $\mathscr{P}_n$ suivante :
+>
+> Pour tout entier $k$ tel que $0\leqslant k\leqslant n-1$, on a $\mathbb{P}[D_n=k]\leqslant\mathbb{P}[D_n=k+1]$.
+>
+> 11. Démontrer que, si $\mathscr{P}_n$ est vraie, alors $\mathbb{P}[D_n=n]=M_n$.
+>
+> 12. Démontrer $\mathscr{P}_1$.
+>
+> On suppose maintenant que l’on dispose d’un entier $n\geqslant 2$ tel que $\mathscr{P}_{n-1}$ est vraie et d’un entier $k$ tel que $0\leqslant k\leqslant n-1$.
+>
+> 13. Pour tout entier $\ell$ compris entre $0$ et $2n$, distinct de $k$ et de $k+1$, on note $X_\ell$ l’événement selon lequel les trois boules de numéros $k$, $k+1$ et $\ell$ sont choisies dès la première sélection.
+>
+>     a. Pourquoi, si $\ell>k+1$, a-t-on $\mathbb{P}_{X_\ell}[D_n=k]=0$ et $\mathbb{P}_{X_\ell}[D_n=k+1]=\mathbb{P}[D_{n-1}=k]$ ?
+>
+>     b. Donner des résultats analogues sur $\mathbb{P}_{X_\ell}[D_n=k]$ et $\mathbb{P}_{X_\ell}[D_n=k+1]$ lorsque $\ell<k$.
+>
+>     c. On note maintenant $X$ l’événement selon lequel les deux boules de numéros $k$ et $k+1$ sont choisies dès la première sélection. Démontrer que $\mathbb{P}_X[D_n=k]\leqslant\mathbb{P}_X[D_n=k+1]$.
+>
+> 14. Soit $Y$ l’événement selon lequel l’une des boules de numéros $k$ et $k+1$ est éliminée lors de la première sélection.
+>
+>     a. Démontrer que $\mathbb{P}_{Y\setminus X}[D_n=k]=\mathbb{P}_{Y\setminus X}[D_n=k+1]$.
+>
+>     b. En déduire que $\mathbb{P}_Y[D_n=k]\leqslant\mathbb{P}_Y[D_n=k+1]$.
+>
+> 15. Soient $a$, $b$ et $c$ les numéros des trois boules choisies lors de la première sélection, avec $a<b<c$.
+>
+>     a. Soit $G$ l’événement selon lequel $c<k$. Démontrer que $\mathbb{P}_G[D_n=k]\leqslant\mathbb{P}_G[D_n=k+1]$.
+>
+>     b. Soit $H$ l’événement selon lequel $a<k$ et $k+1<c$. Démontrer que $\mathbb{P}_H[D_n=k]\leqslant\mathbb{P}_H[D_n=k+1]$.
+>
+>     c. Soit $I$ l’événement selon lequel $k+1<a$. Démontrer que, si $k\leqslant n-2$, alors $\mathbb{P}_I[D_n=k]\leqslant\mathbb{P}_I[D_n=k+1]$.
+>
+> 16. Démontrer que, si $k\leqslant n-2$, alors $\mathbb{P}[D_n=k]\leqslant\mathbb{P}[D_n=k+1]$.
+>
+> 17. Démontrer $\mathscr{P}_n$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Problema di probabilità sul numero D_n di palline eliminate o rimaste: probabilità p_j che la pallina j sia eliminata alla prima estrazione e probabilità massime o minime collegate.*
+> Problemi (probabilità; titolo non visibile, riguarda una quantità $D_n$ di palle di conteggio; solo le domande 8 in poi sono visibili nelle immagini fornite). Ora è il momento di studiare la legge del $D_n$ stesso.
+> 
+> 8. Determinare, per ogni numero intero $j$ tale che $0\le j\le2n$, la probabilità $p_j$ che la palla di numero $j$ venga eliminata durante la prima selezione.
+> 
+> 9. Indicare che, se $n\ge3$, allora $p_j\ge\frac{1}{2n}$ per ogni intero $j$ tale che $0\le j\le2n$.
+> 
+> 10. Una nota $M_n$ la più grande delle probabilità $\mathbb{P}[D_n=j]$ quando $0\le j\le2n$. Mostra che $M_n$ tende a $0$ quando $n$ tende a $+\infty$.
+> 
+> 2.4 Risultato più probabile. Si ricorda che, per due eventi $A$ e $B$, si nota $A\setminus B$ l'evento secondo il quale $A$ è realizzato ma non $B$. Inoltre, se $\mathbb{P}[B]\ne0$, si nota $\mathbb{P}_B[A]$ la probabilità condizionata di $A$ conoscere $B$. Qui si desidera mostrare, per ogni numero intero $n\ge1$, che $\mathbb{P}[D_n=n]=M_n$. A tal fine, si mostrerà la seguente proprietà $\mathscr{P}_n$: Per ogni numero intero $k$ tale che $0\le k\le n-1$, si ha $\mathbb{P}[D_n=k]\le\mathbb{P}[D_n=k+1]$.
+> 
+> 11. Mostra che, se $\mathscr{P}_n$ è vero, allora $\mathbb{P}[D_n=n]=M_n$. Indicare $\mathscr{P}_1$.
+> 
+> 12. Indicare $\mathscr{P}_1$.
+> 
+> Si suppone ora che si abbia un intero $n\ge2$ tale che $\mathscr{P}_{n-1}$ sia vero e un intero $k$ tale che $0\le k\le n-1$.
+> 
+> 13. Per ogni numero intero $\ell$ tra $0$ e $2n$, distinto da $k$ e $k+1$, si nota $X_\ell$ l'evento secondo il quale le tre sfere di numeri $k$, $k+1$ e $\ell$ sono scelte nella prima selezione. a. Perché, se $\ell>k+1$, ci sono $\mathbb{P}_{X_\ell}[D_n=k]=0$ e $\mathbb{P}_{X_\ell}[D_n=k+1]=\mathbb{P}[D_{n-1}=k]$? b. Risultati analoghi per $\mathbb{P}_{X_\ell}[D_n=k]$ e $\mathbb{P}_{X_\ell}[D_n=k+1]$ quando $\ell<k$. c. Si nota ora $X$ l'evento in base al quale le due palle di numeri $k$ e $k+1$ vengono scelte alla prima selezione. Mostra che $\mathbb{P}_X[D_n=k]\le\mathbb{P}_X[D_n=k+1]$.
+> 
+> 14. $Y$ sia l'evento in base al quale una delle sfere di numeri $k$ e $k+1$ viene eliminata alla prima selezione. a. Mostra che $\mathbb{P}_{Y\setminus X}[D_n=k]=\mathbb{P}_{Y\setminus X}[D_n=k+1]$. b. Riduzione di $\mathbb{P}_Y[D_n=k]\le\mathbb{P}_Y[D_n=k+1]$.
+> 
+> 15. $a,b$ e $c$ siano i numeri delle tre palle scelte nella prima selezione, con $a<b<c$. a. $G$ sia l'evento secondo il quale $c<k$. Mostra che $\mathbb{P}_G[D_n=k]\le\mathbb{P}_G[D_n=k+1]$. b. L'evento $H$ deve essere quello secondo cui $a<k$ e $k+1<c$. Mostra che $\mathbb{P}_H[D_n=k]\le\mathbb{P}_H[D_n=k+1]$. c. Il $I$ deve essere l'evento secondo il quale $k+1<a$. Indicare che, se $k\le n-2$, allora: $\mathbb{P}_I[D_n=k]\le\mathbb{P}_I[D_n=k+1]$.
+> 
+> 16. Indicare che, se $k\le n-2$, allora $\mathbb{P}[D_n=k]\le\mathbb{P}[D_n=k+1]$.
+> 
+> 17. Indicare $\mathscr{P}_n$.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability problem on the number D_n of balls eliminated/remaining: study the probabilities p_j that ball number j is eliminated in the first selection, the largest probability M_n, the most probable result via property P_n (P(D_n=n)=M_n), and a chain of inequalities P(D_n=k)<=P(D_n=k+1) for k<=n-2. ONLY questions 8-17 are visible in the images (the statement/setup and questions 1-7 are not shown).*
@@ -191,47 +318,123 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Problema di probabilità sul numero D_n di palle eliminate/rimanenti: studiare le probabilità p_j che il numero di palla j venga eliminato nella prima selezione, la probabilità più grande M_n, il risultato più probabile attraverso la proprietà P_n (P(D_n=n)=M_n), e una catena di disuguaglianze P(D_n=k)<=P(D_n=k+1) per k<=n-2. SOLO le domande da 8 a 17 sono visibili nelle immagini (la dichiarazione/impostazione e le domande da 1-7 non sono mostrate).*
-
-> Problemi (probabilità; titolo non visibile, riguarda una quantità $D_n$ di palle di conteggio; solo le domande 8 in poi sono visibili nelle immagini fornite). Ora è il momento di studiare la legge del $D_n$ stesso.
-> 
-> 8. Determinare, per ogni numero intero $j$ tale che $0\le j\le2n$, la probabilità $p_j$ che la palla di numero $j$ venga eliminata durante la prima selezione.
-> 
-> 9. Indicare che, se $n\ge3$, allora $p_j\ge\frac{1}{2n}$ per ogni intero $j$ tale che $0\le j\le2n$.
-> 
-> 10. Una nota $M_n$ la più grande delle probabilità $\mathbb{P}[D_n=j]$ quando $0\le j\le2n$. Mostra che $M_n$ tende a $0$ quando $n$ tende a $+\infty$.
-> 
-> 2.4 Risultato più probabile. Si ricorda che, per due eventi $A$ e $B$, si nota $A\setminus B$ l'evento secondo il quale $A$ è realizzato ma non $B$. Inoltre, se $\mathbb{P}[B]\ne0$, si nota $\mathbb{P}_B[A]$ la probabilità condizionata di $A$ conoscere $B$. Qui si desidera mostrare, per ogni numero intero $n\ge1$, che $\mathbb{P}[D_n=n]=M_n$. A tal fine, si mostrerà la seguente proprietà $\mathscr{P}_n$: Per ogni numero intero $k$ tale che $0\le k\le n-1$, si ha $\mathbb{P}[D_n=k]\le\mathbb{P}[D_n=k+1]$.
-> 
-> 11. Mostra che, se $\mathscr{P}_n$ è vero, allora $\mathbb{P}[D_n=n]=M_n$. Indicare $\mathscr{P}_1$.
-> 
-> 12. Indicare $\mathscr{P}_1$.
-> 
-> Si suppone ora che si abbia un intero $n\ge2$ tale che $\mathscr{P}_{n-1}$ sia vero e un intero $k$ tale che $0\le k\le n-1$.
-> 
-> 13. Per ogni numero intero $\ell$ tra $0$ e $2n$, distinto da $k$ e $k+1$, si nota $X_\ell$ l'evento secondo il quale le tre sfere di numeri $k$, $k+1$ e $\ell$ sono scelte nella prima selezione. a. Perché, se $\ell>k+1$, ci sono $\mathbb{P}_{X_\ell}[D_n=k]=0$ e $\mathbb{P}_{X_\ell}[D_n=k+1]=\mathbb{P}[D_{n-1}=k]$? b. Risultati analoghi per $\mathbb{P}_{X_\ell}[D_n=k]$ e $\mathbb{P}_{X_\ell}[D_n=k+1]$ quando $\ell<k$. c. Si nota ora $X$ l'evento in base al quale le due palle di numeri $k$ e $k+1$ vengono scelte alla prima selezione. Mostra che $\mathbb{P}_X[D_n=k]\le\mathbb{P}_X[D_n=k+1]$.
-> 
-> 14. $Y$ sia l'evento in base al quale una delle sfere di numeri $k$ e $k+1$ viene eliminata alla prima selezione. a. Mostra che $\mathbb{P}_{Y\setminus X}[D_n=k]=\mathbb{P}_{Y\setminus X}[D_n=k+1]$. b. Riduzione di $\mathbb{P}_Y[D_n=k]\le\mathbb{P}_Y[D_n=k+1]$.
-> 
-> 15. $a,b$ e $c$ siano i numeri delle tre palle scelte nella prima selezione, con $a<b<c$. a. $G$ sia l'evento secondo il quale $c<k$. Mostra che $\mathbb{P}_G[D_n=k]\le\mathbb{P}_G[D_n=k+1]$. b. L'evento $H$ deve essere quello secondo cui $a<k$ e $k+1<c$. Mostra che $\mathbb{P}_H[D_n=k]\le\mathbb{P}_H[D_n=k+1]$. c. Il $I$ deve essere l'evento secondo il quale $k+1<a$. Indicare che, se $k\le n-2$, allora: $\mathbb{P}_I[D_n=k]\le\mathbb{P}_I[D_n=k+1]$.
-> 
-> 16. Indicare che, se $k\le n-2$, allora $\mathbb{P}[D_n=k]\le\mathbb{P}[D_n=k+1]$.
-> 
-> 17. Indicare $\mathscr{P}_n$.
-
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,topic_trigonometria,method_disuguaglianze,method_casework,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Que la force soit avec f!: a positive function f on an interval I subset of [0,+inf) is called k-strong or k-weak depending on the sign of (y^k f(y) - x^k f(x))(f(y)/y^k - f(x)/x^k); examples, equivalent criteria, monotonicity of g_k=x^k f and h_k=f/x^k, derivative criteria, products/compositions, and applications to inequalities (a,b,c power means and a sin/tan inequality).*
+
+> Problème 3 : Que la force soit avec $f$ !
+>
+> Dans tout le problème, $k$ désigne un entier naturel non nul, $I$ un intervalle ouvert de $]0,+\infty[$, et $f$ une fonction définie sur $I$ et à valeurs strictement positives.
+>
+> On dit que la fonction $f$ est « $k$-forte » si, pour tous les réels $x$ et $y$ appartenant à $I$,
+> $$\left(y^k f(y)-x^k f(x)\right)\left(\frac{f(y)}{y^k}-\frac{f(x)}{x^k}\right)\geqslant 0.$$
+> On dit que $f$ est « $k$-faible » si, pour tous les réels $x$ et $y$ appartenant à $I$,
+> $$\left(y^k f(y)-x^k f(x)\right)\left(\frac{f(y)}{y^k}-\frac{f(x)}{x^k}\right)\leqslant 0.$$
+>
+> 3.1 Quelques exemples et propriétés
+>
+> 1. Démontrer que la fonction $f_1$ définie sur l’intervalle $]0,+\infty[$ par $f_1(x)=x^2$ est $1$-forte et $3$-faible.
+>
+> 2. Démontrer que la fonction $f_2$ définie sur l’intervalle $]0,1[$ par $f_2(x)=\exp(x)$ est $1$-faible mais pas $1$-forte.
+>
+> 3. Démontrer que la fonction $f_3$ définie sur l’intervalle $]1,+\infty[$ par $f_3(x)=\exp(x)$ est $1$-forte mais pas $1$-faible.
+>
+> 4. Démontrer que la fonction $f_4$ définie sur l’intervalle $]0,+\infty[$ par $f_4(x)=\dfrac{1}{x}$ est $k$-faible pour tout entier $k\geqslant 1$.
+>
+> 5. Existe-t-il une fonction définie sur l’intervalle $]0,+\infty[$ qui soit $k$-forte pour tout entier $k\geqslant 1$ ?
+>
+> 3.2 Quelques critères de force et de faiblesse
+>
+> 6. Démontrer que $f$ est $k$-forte si et seulement si
+> $$\frac{x^k}{y^k}+\frac{y^k}{x^k}\leqslant\frac{f(x)}{f(y)}+\frac{f(y)}{f(x)}$$
+> pour tous les réels $x$ et $y$ appartenant à $I$, et que $f$ est $k$-faible si et seulement si
+> $$\frac{x^k}{y^k}+\frac{y^k}{x^k}\geqslant\frac{f(x)}{f(y)}+\frac{f(y)}{f(x)}$$
+> pour tous les réels $x$ et $y$ appartenant à $I$.
+>
+> 7. Démontrer que $f$ est $k$-forte si et seulement si
+> $$\frac{\max\bigl(x^k,y^k\bigr)}{\min\bigl(x^k,y^k\bigr)}\leqslant\frac{\max\bigl(f(x),f(y)\bigr)}{\min\bigl(f(x),f(y)\bigr)}$$
+> pour tous les réels $x$ et $y$ appartenant à $I$, et que $f$ est $k$-faible si et seulement si
+> $$\frac{\max\bigl(x^k,y^k\bigr)}{\min\bigl(x^k,y^k\bigr)}\geqslant\frac{\max\bigl(f(x),f(y)\bigr)}{\min\bigl(f(x),f(y)\bigr)}$$
+> pour tous les réels $x$ et $y$ appartenant à $I$.
+>
+> 8. On note $g_k$ et $h_k$ les fonctions définies sur $I$ par :
+> $$g_k(x)=x^k f(x)\qquad\text{et}\qquad h_k(x)=\frac{f(x)}{x^k}.$$
+>
+>     a. Démontrer que, si $g_k$ et $h_k$ sont monotones, alors $f$ est $k$-forte ou $k$-faible.
+>
+>     b. Démontrer que, si $f$ est $k$-faible, alors $g_k$ et $h_k$ sont monotones.
+>
+>     c. Soit $f$ la fonction définie sur l’intervalle $I=]0,+\infty[$ par
+> $$f(x)=\begin{cases} x & \text{si }0<x<1\\ 4 & \text{si }x=1\\ x & \text{si }1<x<2\\ 4x & \text{si }2\leqslant x.\end{cases}$$
+> Démontrer que $f$ est $1$-forte mais que les fonctions $g_1$ et $h_1$ ne sont pas monotones.
+>
+> 9. On suppose dans cette question que $f$ est dérivable sur $I$ et que sa dérivée $f'$ est continue sur $I$.
+>
+>     a. Démontrer que, si $\bigl|f'(x)\bigr|\geqslant k\dfrac{f(x)}{x}$ pour tout réel $x\in I$, alors $f$ est $k$-forte.
+>
+>     b. Démontrer que, si $\bigl|f'(x)\bigr|\leqslant k\dfrac{f(x)}{x}$ pour tout réel $x\in I$, alors $f$ est $k$-faible.
+>
+>     c. Démontrer que les réciproques aux questions 9.a. et 9.b. sont vraies.
+>
+> 3.3 Une multitude de fonctions fortes et faibles
+>
+> On dit que la fonction $f$ est « forte » s’il existe un entier $k\geqslant 1$ pour lequel $f$ est $k$-forte, et que $f$ est « faible » s’il existe un entier $k\geqslant 1$ pour lequel $f$ est $k$-faible.
+>
+> 10. Démontrer que, si $f$ est faible, la fonction $F$ définie sur $I$ par $F(x)=\dfrac{1}{f(x)}$ est forte.
+>
+> 11. Démontrer que, si deux fonctions $f$ et $g$ définies sur $I$ sont faibles, les fonctions $f+g$, $f\times g$ et $\dfrac{f}{g}$ sont faibles.
+>
+> 12. Démontrer à l’aide de contre-exemples que, si deux fonctions $f$ et $g$ définies sur $I$ sont fortes, les fonctions $f+g$, $f\times g$ et $\dfrac{f}{g}$ ne sont pas nécessairement fortes.
+>
+> 13. Soit $f$ une fonction définie sur $I$ et à valeurs strictement positives, et $g$ une fonction définie sur $]0,+\infty[$.
+>
+>     a. Démontrer que, si $f$ et $g$ sont faibles, la fonction $g\circ f$ est faible.
+>
+>     b. Démontrer que, si $f$ et $g$ sont fortes, la fonction $g\circ f$ est forte.
+>
+> 3.4 Application à la démonstration d’inégalités
+>
+> 14. Soient $a$, $b$ et $c$ trois réels strictement positifs, et $n$ un entier naturel non nul. Démontrer que :
+> $$\left(\frac{a+c}{b+c}\right)^n+\left(\frac{b+c}{a+c}\right)^n\leqslant\left(\frac{a}{b}\right)^n+\left(\frac{b}{a}\right)^n.$$
+>
+> 15. Dans cette question, on pourra utiliser le fait que les fonctions $\cos$ et $\sin$ sont dérivables sur $\bigl]0,\dfrac{\pi}{2}\bigr[$ de dérivées respectivement $\cos'=-\sin$ et $\sin'=\cos$. La fonction $\tan$ est définie sur $\bigl]0,\dfrac{\pi}{2}\bigr[$ par $\tan(x)=\dfrac{\sin(x)}{\cos(x)}$. Soient $a$ et $b$ deux nombres réels de l’intervalle $\bigl]0,\dfrac{\pi}{2}\bigr[$, démontrer que :
+> $$\frac{\sin(a)}{\sin(b)}+\frac{\sin(b)}{\sin(a)}\leqslant\frac{a}{b}+\frac{b}{a}\leqslant\frac{\tan(a)}{\tan(b)}+\frac{\tan(b)}{\tan(a)}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_trigonometria|Trigonometria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+
+*Que la force soit avec f!: una funzione positiva f su un sottoinsieme di intervalli I di [0,+inf) è chiamata k-forte o k-fragile a seconda del segno di (y^k f(y) - x^k f(x)) f(y)/y^k - f(x)/x^k); esempi, criteri equivalenti, monotonia di g_k=x^k f e h_k=f/x^k, criteri derivati, prodotti/composti e applicazioni alle disuguaglianze (a,b,c mezzi di potenza e una disuguaglianza sin/tanc).*
+
+> Problemi 3: "Que la force soit avec $f$ !" (La forza sia con $f$!). In tutto questo problema, $k$ designa un intero naturale non zero, $I$ un intervallo incluso in $]0,+\infty[$, e $f$ una funzione definita su $I$ con valori strettamente positivi. Si dice che la funzione $f$ è "$k$-forte" se, per tutti i valori $x$ e $y$ appartenenti a $I$, $$\left(y^k f(y)-x^k f(x)\right)\left(\frac{f(y)}{y^k}-\frac{f(x)}{x^k}\right)\ge0$$ Si dice che $f$ è "$k$-debole" se, per tutti i valori $x$ e $y$ appartenenti a $I$, $$\left(y^k f(y)-x^k f(x)\right)\left(\frac{f(y)}{y^k}-\frac{f(x)}{x^k}\right)\le0$$
+> 
+> 3.1 Alcuni esempi e proprietà. 1. Indicare che la funzione $f_1$ definita nell'intervallo $]0,+\infty[$ da $f_1(x)=x^2$ è $1$-forte e $3$-debole. 2. Indicare che la funzione $f_2$ definita nell'intervallo $]0,1[$ da $f_2(x)=\exp(x)$ è $1$ debole ma non $1$ forte. 3. Indicare che la funzione $f_3$ definita nell'intervallo $]1,+\infty[$ da $f_3(x)=\exp(x)$ è $1$-forte ma non $1$-debole. 4. Indicare che la funzione $f_4$ definita nell'intervallo $]0,+\infty[$ da $f_4(x)=\frac{1}{x}$ è $k$ debole per ogni intero $k\ge1$. 5. Esiste una funzione definita nell'intervallo $]0,+\infty[$ che è $k$-forte per ogni numero intero $k\ge1$?
+> 
+> 3.2 Alcuni criteri di forza e debolezza. 6. Indicare che $f$ è $k$-forte se e solo se $$\frac{x^k}{y^k}+\frac{y^k}{x^k}\le\frac{f(x)}{f(y)}+\frac{f(y)}{f(x)}$$ per tutti i valori $x$ e $y$ appartenenti a $I$, e che $f$ è $k$-debole se e solo se $$\frac{x^k}{y^k}+\frac{y^k}{x^k}\ge\frac{f(x)}{f(y)}+\frac{f(y)}{f(x)}$$ per tutti i valori $x$ e $y$ appartenenti a $I$. 7. Indicare che $f$ è $k$-forte se e solo se $$\frac{\max(x^k,y^k)}{\min(x^k,y^k)}\le\frac{\max(f(x),f(y))}{\min(f(x),f(y))}$$ per tutti i reali $x$ e $y$ appartenenti a $I$, e che $f$ è $k$-debole se e solo se $$\frac{\max(x^k,y^k)}{\min(x^k,y^k)}\ge\frac{\max(f(x),f(y))}{\min(f(x),f(y))}$$ per tutti i reali $x$ e $y$ appartenenti a $I$. 8. Una nota $g_k$ e $h_k$ le funzioni definite su $I$ da: $$g_k(x)=x^k f(x)\qquad\text{and}\qquad h_k(x)=\frac{f(x)}{x^k}$$ a. Indicare che, se $g_k$ e $h_k$ sono monotoni, allora $f$ è $k$-forte o $k$-debole. b. Indicare che, se $f$ è $k$ debole, $g_k$ e $h_k$ sono monotoni. c. Se $f$ è la funzione definita nell'intervallo $I=]0,+\infty[$ da $$f(x)=\begin{cases}x&\text{if }0<x<1\\4&\text{if }x=1\\x&\text{if }1<x<2\\4x&\text{if }2\le x\end{cases}$$ Mostri che $f$ è $1$-forte ma che le funzioni $g_1$ e $h_1$ non sono monotone. 9. In questa domanda si suppone che $f$ sia differenziabile su $I$ e che la sua derivata $f'$ sia continua su $I$. a. Mostra che, se $|f'(x)|\ge k\frac{f(x)}{x}$ per ogni reale $x\in I$, allora $f$ è $k$-forte. b. Mostrare che, se $|f'(x)|\le k\frac{f(x)}{x}$ per ogni reale $x\in I$, allora $f$ è $k$ debole. c. Mostrare che le conversazioni delle domande 9.a. e 9.b. sono veri.
+> 
+> 3.3 Una moltitudine di funzioni forti e deboli. Si dice che la funzione $f$ è "forte" se esiste un intero $k\ge1$ per il quale $f$ è $k$-forte, e "debole" se esiste un intero $k\ge1$ per il quale $f$ è $k$-debole. 10. Indicare che, se $f$ è debole, la funzione $F$ definita su $I$ da $F(x)=\frac{1}{f(x)}$ è forte. 11. Indicare che, se due funzioni $f$ e $g$ definite su $I$ sono deboli, le funzioni $f+g$, $f\times g$ e $\frac{f}{g}$ sono deboli. 12. Mostrare, con l'aiuto di esempi contrastanti, che se due funzioni $f$ e $g$ definite su $I$ sono forti, le funzioni $f+g$, $f\times g$ e $\frac{f}{g}$ non sono necessariamente forti. 13. Che $f$ sia una funzione definita su $I$ con valori rigorosamente positivi, e $g$ una funzione definita su $]0,+\infty[$. a. Indicare che, se $f$ e $g$ sono deboli, la funzione $g\circ f$ è debole. b. Indicare che, se $f$ e $g$ sono forti, la funzione $g\circ f$ è forte.
+> 
+> 3.4 Applicazione alla dimostrazione delle disuguaglianze. 14. Lasciate che $a,b$ e $c$ siano tre reali strettamente positivi e $n$ un intero naturale non zero. Mostra che: $$\left(\frac{a+c}{b+c}\right)^n+\left(\frac{b+c}{a+c}\right)^n\le\left(\frac{a}{b}\right)^n+\left(\frac{b}{a}\right)^n$$ 15. In questa domanda si può usare il fatto che le funzioni $\cos$ e $\sin$ sono differenziabili su $]0,\frac{\pi}{2}[$ con derivati rispettivamente $\cos'=-\sin$ e $\sin'=\cos$. La funzione $\tan$ è definita su $]0,\frac{\pi}{2}[$ da $\tan(x)=\frac{\sin(x)}{\cos(x)}$. Che $a$ e $b$ siano due numeri reali dell'intervallo $]0,\frac{\pi}{2}[$, mostrando che: $$\frac{\sin(a)}{\sin(b)}+\frac{\sin(b)}{\sin(a)}\le\frac{a}{b}+\frac{b}{a}\le\frac{\tan(a)}{\tan(b)}+\frac{\tan(b)}{\tan(a)}$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Que la force soit avec f!: a positive function f on an interval I subset of [0,+inf) is called k-strong or k-weak depending on the sign of (y^k f(y) - x^k f(x))(f(y)/y^k - f(x)/x^k); examples, equivalent criteria, monotonicity of g_k=x^k f and h_k=f/x^k, derivative criteria, products/compositions, and applications to inequalities (a,b,c power means and a sin/tan inequality).*
@@ -294,24 +497,3 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Que la force soit avec f!: una funzione positiva f su un sottoinsieme di intervalli I di [0,+inf) è chiamata k-forte o k-fragile a seconda del segno di (y^k f(y) - x^k f(x)) f(y)/y^k - f(x)/x^k); esempi, criteri equivalenti, monotonia di g_k=x^k f e h_k=f/x^k, criteri derivati, prodotti/composti e applicazioni alle disuguaglianze (a,b,c mezzi di potenza e una disuguaglianza sin/tanc).*
-
-> Problemi 3: "Que la force soit avec $f$ !" (La forza sia con $f$!). In tutto questo problema, $k$ designa un intero naturale non zero, $I$ un intervallo incluso in $]0,+\infty[$, e $f$ una funzione definita su $I$ con valori strettamente positivi. Si dice che la funzione $f$ è "$k$-forte" se, per tutti i valori $x$ e $y$ appartenenti a $I$, $$\left(y^k f(y)-x^k f(x)\right)\left(\frac{f(y)}{y^k}-\frac{f(x)}{x^k}\right)\ge0$$ Si dice che $f$ è "$k$-debole" se, per tutti i valori $x$ e $y$ appartenenti a $I$, $$\left(y^k f(y)-x^k f(x)\right)\left(\frac{f(y)}{y^k}-\frac{f(x)}{x^k}\right)\le0$$
-> 
-> 3.1 Alcuni esempi e proprietà. 1. Indicare che la funzione $f_1$ definita nell'intervallo $]0,+\infty[$ da $f_1(x)=x^2$ è $1$-forte e $3$-debole. 2. Indicare che la funzione $f_2$ definita nell'intervallo $]0,1[$ da $f_2(x)=\exp(x)$ è $1$ debole ma non $1$ forte. 3. Indicare che la funzione $f_3$ definita nell'intervallo $]1,+\infty[$ da $f_3(x)=\exp(x)$ è $1$-forte ma non $1$-debole. 4. Indicare che la funzione $f_4$ definita nell'intervallo $]0,+\infty[$ da $f_4(x)=\frac{1}{x}$ è $k$ debole per ogni intero $k\ge1$. 5. Esiste una funzione definita nell'intervallo $]0,+\infty[$ che è $k$-forte per ogni numero intero $k\ge1$?
-> 
-> 3.2 Alcuni criteri di forza e debolezza. 6. Indicare che $f$ è $k$-forte se e solo se $$\frac{x^k}{y^k}+\frac{y^k}{x^k}\le\frac{f(x)}{f(y)}+\frac{f(y)}{f(x)}$$ per tutti i valori $x$ e $y$ appartenenti a $I$, e che $f$ è $k$-debole se e solo se $$\frac{x^k}{y^k}+\frac{y^k}{x^k}\ge\frac{f(x)}{f(y)}+\frac{f(y)}{f(x)}$$ per tutti i valori $x$ e $y$ appartenenti a $I$. 7. Indicare che $f$ è $k$-forte se e solo se $$\frac{\max(x^k,y^k)}{\min(x^k,y^k)}\le\frac{\max(f(x),f(y))}{\min(f(x),f(y))}$$ per tutti i reali $x$ e $y$ appartenenti a $I$, e che $f$ è $k$-debole se e solo se $$\frac{\max(x^k,y^k)}{\min(x^k,y^k)}\ge\frac{\max(f(x),f(y))}{\min(f(x),f(y))}$$ per tutti i reali $x$ e $y$ appartenenti a $I$. 8. Una nota $g_k$ e $h_k$ le funzioni definite su $I$ da: $$g_k(x)=x^k f(x)\qquad\text{and}\qquad h_k(x)=\frac{f(x)}{x^k}$$ a. Indicare che, se $g_k$ e $h_k$ sono monotoni, allora $f$ è $k$-forte o $k$-debole. b. Indicare che, se $f$ è $k$ debole, $g_k$ e $h_k$ sono monotoni. c. Se $f$ è la funzione definita nell'intervallo $I=]0,+\infty[$ da $$f(x)=\begin{cases}x&\text{if }0<x<1\\4&\text{if }x=1\\x&\text{if }1<x<2\\4x&\text{if }2\le x\end{cases}$$ Mostri che $f$ è $1$-forte ma che le funzioni $g_1$ e $h_1$ non sono monotone. 9. In questa domanda si suppone che $f$ sia differenziabile su $I$ e che la sua derivata $f'$ sia continua su $I$. a. Mostra che, se $|f'(x)|\ge k\frac{f(x)}{x}$ per ogni reale $x\in I$, allora $f$ è $k$-forte. b. Mostrare che, se $|f'(x)|\le k\frac{f(x)}{x}$ per ogni reale $x\in I$, allora $f$ è $k$ debole. c. Mostrare che le conversazioni delle domande 9.a. e 9.b. sono veri.
-> 
-> 3.3 Una moltitudine di funzioni forti e deboli. Si dice che la funzione $f$ è "forte" se esiste un intero $k\ge1$ per il quale $f$ è $k$-forte, e "debole" se esiste un intero $k\ge1$ per il quale $f$ è $k$-debole. 10. Indicare che, se $f$ è debole, la funzione $F$ definita su $I$ da $F(x)=\frac{1}{f(x)}$ è forte. 11. Indicare che, se due funzioni $f$ e $g$ definite su $I$ sono deboli, le funzioni $f+g$, $f\times g$ e $\frac{f}{g}$ sono deboli. 12. Mostrare, con l'aiuto di esempi contrastanti, che se due funzioni $f$ e $g$ definite su $I$ sono forti, le funzioni $f+g$, $f\times g$ e $\frac{f}{g}$ non sono necessariamente forti. 13. Che $f$ sia una funzione definita su $I$ con valori rigorosamente positivi, e $g$ una funzione definita su $]0,+\infty[$. a. Indicare che, se $f$ e $g$ sono deboli, la funzione $g\circ f$ è debole. b. Indicare che, se $f$ e $g$ sono forti, la funzione $g\circ f$ è forte.
-> 
-> 3.4 Applicazione alla dimostrazione delle disuguaglianze. 14. Lasciate che $a,b$ e $c$ siano tre reali strettamente positivi e $n$ un intero naturale non zero. Mostra che: $$\left(\frac{a+c}{b+c}\right)^n+\left(\frac{b+c}{a+c}\right)^n\le\left(\frac{a}{b}\right)^n+\left(\frac{b}{a}\right)^n$$ 15. In questa domanda si può usare il fatto che le funzioni $\cos$ e $\sin$ sono differenziabili su $]0,\frac{\pi}{2}[$ con derivati rispettivamente $\cos'=-\sin$ e $\sin'=\cos$. La funzione $\tan$ è definita su $]0,\frac{\pi}{2}[$ da $\tan(x)=\frac{\sin(x)}{\cos(x)}$. Che $a$ e $b$ siano due numeri reali dell'intervallo $]0,\frac{\pi}{2}[$, mostrando che: $$\frac{\sin(a)}{\sin(b)}+\frac{\sin(b)}{\sin(a)}\le\frac{a}{b}+\frac{b}{a}\le\frac{\tan(a)}{\tan(b)}+\frac{\tan(b)}{\tan(a)}$$
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]

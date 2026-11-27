@@ -12,14 +12,14 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of small cubes needed to form a single face of a large hollow cube*
 
-> Esmeraldinha has some small wooden cubes with edge $2$ cm. She wants to build a large cube with edge $10$ cm, but since she does not have enough small cubes, she glues small cubes with edge $2$ cm so as to form only one face of the cube, which is hollow.
-> 
-> What is the number of small cubes that she will need?
+> Esmeraldinho tem alguns cubinhos de madeira de $2$ cm de aresta. Ele quer construir um grande cubo de aresta $10$ cm, mas como não tem cubinhos suficientes, ele cola os cubinhos de $2$ cm de aresta de modo a formar apenas as faces do cubo, que fica oco.
+>
+> Qual é o número de cubinhos de que ele precisará?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -44,18 +44,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of small cubes needed to form a single face of a large hollow cube*
+
+> Esmeraldinha has some small wooden cubes with edge $2$ cm. She wants to build a large cube with edge $10$ cm, but since she does not have enough small cubes, she glues small cubes with edge $2$ cm so as to form only one face of the cube, which is hollow.
+> 
+> What is the number of small cubes that she will need?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count right triangles with legs parallel to grid edges on a 5x5 board*
 
-> On a square board $5 \times 5$, three identical buttons will be placed, each one in the center of a cell, determining a triangle.
-> 
-> In how many ways can the buttons be placed forming a right triangle whose legs are parallel to the sides of the board?
-> 
-> \textit{Observation:} A right triangle is any triangle that has a $90^\circ$ angle. The sides that form this angle are called legs (catetos).
+> Num tabuleiro quadrado $5 \times 5$, serão colocados três botões idênticos, cada um no centro de uma casa, determinando um triângulo.
+>
+> De quantas maneiras podemos colocar os botões formando um triângulo retângulo com catetos paralelos às bordas do tabuleiro?
+>
+> Observação: Triângulo retângulo é todo triângulo que possui um ângulo de $90^\circ$. Os lados que formam esse ângulo são chamados de catetos.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -82,20 +99,54 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count right triangles with legs parallel to grid edges on a 5x5 board*
+
+> On a square board $5 \times 5$, three identical buttons will be placed, each one in the center of a cell, determining a triangle.
+> 
+> In how many ways can the buttons be placed forming a right triangle whose legs are parallel to the sides of the board?
+> 
+> \textit{Observation:} A right triangle is any triangle that has a $90^\circ$ angle. The sides that form this angle are called legs (catetos).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Numbers written in diagonal pattern on a 100x100 board starting at line 1 column 50; find n and position of 2005*
 
-> Starting from the cell located at line $1$ and column $50$ of a $100 \times 100$ board, the numbers $1, 2, 3, 4, \ldots, n$ will be written, as in the figure that follows, which presents a part of the board and shows how the numbers must be placed. The number $n$ will occupy the cell at line $1$, column $100$.
-> 
+> A partir da casa localizada na linha $1$ e na coluna $50$ de um tabuleiro $100 \times 100$, serão escritos os números $1, 2, 3, 4, \ldots, n$, como na figura a seguir, que apresenta uma parte do tabuleiro e mostra como os números deverão ser colocados. O número $n$ ocupará a casa da linha $1$, coluna $100$.
+>
+> ```
+> Linha 100 ← ⋯ ⋯
+> ⋮ ⋱ ↗ ⋮
+> Linha 10 ← 46
+> 45 47
+> 44 29 48
+> 43 28 30 49
+> 42 27 16 31 50
+> 41 26 15 17 32 51
+> 40 25 14 7 18 33 52
+> 39 24 13 6 8 19 34 53
+> 38 23 12 5 2 9 20 35 54
+> Linha 1 ← ... 37 22 11 4 1 3 10 21 36 55 ... n
+> ↓ ↓ ↓
+> Coluna 1    Coluna 50    Coluna 100
+> ```
+>
 > a) Determine $n$.
-> 
-> b) In which line and column will the number $2005$ appear?
-
-![[src_obm_2005_n1_f3__Q03.png]]
+>
+> b) Em qual linha e coluna aparecerá o número $2005$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -124,18 +175,39 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Numbers written in diagonal pattern on a 100x100 board starting at line 1 column 50; find n and position of 2005*
+
+> Starting from the cell located at line $1$ and column $50$ of a $100 \times 100$ board, the numbers $1, 2, 3, 4, \ldots, n$ will be written, as in the figure that follows, which presents a part of the board and shows how the numbers must be placed. The number $n$ will occupy the cell at line $1$, column $100$.
+> 
+> a) Determine $n$.
+> 
+> b) In which line and column will the number $2005$ appear?
+
+![[src_obm_2005_n1_f3__Q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rectangle ABCD with diagonals; triangle BME with ME=MB and BE=BA; find its area and prove BD parallel EC*
 
-> In the rectangle $ABCD$, with diagonals $AC$ and $BD$, the sides $AB$ and $BC$ measure, respectively, $13$ cm and $14$ cm. Let $M$ be the intersection of the diagonals; consider the triangle $BME$, such that $ME = MB$ and $BE = BA$, with $E \neq A$.
-> 
-> a) Calculate the area of triangle $BME$.
-> 
-> b) Show that segment $BD$ is parallel to segment $EC$.
+> No retângulo $ABCD$, com diagonais $AC$ e $BD$, os lados $AB$ e $BC$ medem, respectivamente, $13$ cm e $14$ cm. Sendo $M$ a intersecção das diagonais, considere o triângulo $BME$, tal que $ME = MB$ e $BE = BA$, sendo $E \neq A$.
+>
+> a) Calcule a área do triângulo $BME$.
+>
+> b) Mostre que o segmento $BD$ é paralelo ao segmento $EC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -162,18 +234,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangle ABCD with diagonals; triangle BME with ME=MB and BE=BA; find its area and prove BD parallel EC*
+
+> In the rectangle $ABCD$, with diagonals $AC$ and $BD$, the sides $AB$ and $BC$ measure, respectively, $13$ cm and $14$ cm. Let $M$ be the intersection of the diagonals; consider the triangle $BME$, such that $ME = MB$ and $BE = BA$, with $E \neq A$.
+> 
+> a) Calculate the area of triangle $BME$.
+> 
+> b) Show that segment $BD$ is parallel to segment $EC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_colorazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Property P (perfect number) defined as sum of positive divisors equal to 2n; prove no perfect square has property P*
 
-> A positive integer $n$ has property P if the sum of its positive divisors is equal to $2n$. For example: $6$ has property P, since $1 + 2 + 3 + 6 = 2 \cdot 6$, but $10$ does not have property P, since $1 + 2 + 5 + 10 \neq 2 \cdot 10$.
-> 
-> Show that no perfect square has property P.
-> 
-> \textit{Observation:} A positive integer is a perfect square if it is equal to the square of an integer. For example, $1 = 1^2$, $4 = 2^2$ and $9 = 3^2$ are perfect squares.
+> Um número inteiro positivo $n$ tem a propriedade P se a soma de seus divisores positivos é igual a $2n$. Por exemplo: $6$ tem a propriedade P, pois $1 + 2 + 3 + 6 = 2 \cdot 6$, porém $10$ não tem a propriedade P, pois $1 + 2 + 5 + 10 \neq 2 \cdot 10$.
+>
+> Mostre que nenhum quadrado perfeito tem a propriedade P.
+>
+> Observação: Um número inteiro positivo é um quadrado perfeito se é igual ao quadrado de um inteiro. Por exemplo, $1 = 1^2$, $4 = 2^2$ e $9 = 3^2$ são quadrados perfeitos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_colorazione|Colouring / parity]]
@@ -198,3 +289,21 @@ level: OBM Nível 1
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Property P (perfect number) defined as sum of positive divisors equal to 2n; prove no perfect square has property P*
+
+> A positive integer $n$ has property P if the sum of its positive divisors is equal to $2n$. For example: $6$ has property P, since $1 + 2 + 3 + 6 = 2 \cdot 6$, but $10$ does not have property P, since $1 + 2 + 5 + 10 \neq 2 \cdot 10$.
+> 
+> Show that no perfect square has property P.
+> 
+> \textit{Observation:} A positive integer is a perfect square if it is equal to the square of an integer. For example, $1 = 1^2$, $4 = 2^2$ and $9 = 3^2$ are perfect squares.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)

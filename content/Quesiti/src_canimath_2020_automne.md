@@ -12,15 +12,15 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_telescoping,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute a telescoping product of consecutive fractions*
 
-> Compute the number
+> Calculer le nombre
 > $$P = \frac{3}{2} \times \frac{4}{3} \times \cdots \times \frac{29}{28} \times \frac{30}{29}.$$
-> 
-> *Only a numerical answer is expected here.*
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Telescoping]]
@@ -46,17 +46,35 @@ level: Coupe Animath Automne
 **Risposta:** 15
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute a telescoping product of consecutive fractions*
+
+> Compute the number
+> $$P = \frac{3}{2} \times \frac{4}{3} \times \cdots \times \frac{29}{28} \times \frac{30}{29}.$$
+> 
+> *Only a numerical answer is expected here.*
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** 15
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find the number of floors of two buildings given total bathrooms and bedrooms*
 
-> Alexie and Baptiste each own a building. Each floor of Alexie's building has $3$ bathrooms and $2$ bedrooms. Baptiste, as for him, has $4$ bathrooms and $3$ bedrooms per floor. There are in total (that is, in the two buildings) $25$ bathrooms and $18$ bedrooms. Find the number of floors of Alexie's and Baptiste's buildings.
-> 
-> *Only a numerical answer is expected here.*
+> Alexie et Baptiste possèdent chacun un immeuble. Chaque étage du bâtiment d'Alexie possède $3$ salles de bains et $2$ chambres. Baptiste quant à lui, possède $4$ salles de bains et $3$ chambres par étage. Il y a au total (c'est à dire dans les deux bâtiments) $25$ salles de bains et $18$ chambres. Trouver le nombre d'étages des immeubles d'Alexie et Baptiste.
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -78,10 +96,50 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find the number of floors of two buildings given total bathrooms and bedrooms*
+
+> Alexie and Baptiste each own a building. Each floor of Alexie's building has $3$ bathrooms and $2$ bedrooms. Baptiste, as for him, has $4$ bathrooms and $3$ bedrooms per floor. There are in total (that is, in the two buildings) $25$ bathrooms and $18$ bedrooms. Find the number of floors of Alexie's and Baptiste's buildings.
+> 
+> *Only a numerical answer is expected here.*
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Find angle FEA in a square with E on diagonal BD such that EB=AB and F on line AD*
+
+> Soit $ABCD$ un carré et $E$ le point du segment $[BD]$ tel que $EB = AB$. On définit le point $F$ comme le point d'intersection des droites $(CE)$ et $(AD)$. Trouver la valeur de l'angle $\widehat{FEA}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*In un quadrato ABCD, E sta sulla diagonale BD con EB=AB e F è l'intersezione delle rette CE e AD: determinare l'angolo FEA.*
+> Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find angle FEA in a square with E on diagonal BD such that EB=AB and F on line AD*
@@ -95,32 +153,19 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Trova un angolo FEA in un quadrato con E sulla diagonale BD in modo che EB = AB e F sulla linea AD*
-
-> Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Determine each shepherd's perfect-square sheep count given sum bounds and parity*
 
-> Noémie and Tristan are shepherds. Each of them owns a number of sheep that is a perfect square, that is to say an integer that can be written in the form $n^2 = n \times n$ with $n$ a non-negative integer. We thus write $a^2$ for the number of Noémie's sheep and $b^2$ for that of Tristan. After a quick count of the total number of sheep, they deduce that $97 \le a^2 + b^2 \le 108$. Determine the number of sheep of each one, knowing that:
-> 
-> 1. Noémie owns strictly more sheep than Tristan;
-> 2. each of them has at least $2$ sheep;
-> 3. the total number of sheep $a^2 + b^2$ is odd.
+> Noémie et Tristan sont des bergers. Chacun possède un nombre de moutons qui est un carré parfait, c'est-à-dire un entier qui peut s'écrire de la forme $n^2 = n \times n$ avec $n$ un entier positif ou nul. On note donc $a^2$ le nombre de moutons de Noémie et $b^2$ celui de Tristan. Après un rapide comptage du nombre total de moutons, ils déduisent que $97 \leqslant a^2 + b^2 \leqslant 108$. Déterminer le nombre de moutons de chacun en sachant que :
+>
+> 1. Noémie a strictement plus de moutons que Tristan ;
+> 2. chacun d'eux a au moins $2$ moutons ;
+> 3. le nombre total de moutons $a^2 + b^2$ est impair.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -144,15 +189,33 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Determine each shepherd's perfect-square sheep count given sum bounds and parity*
+
+> Noémie and Tristan are shepherds. Each of them owns a number of sheep that is a perfect square, that is to say an integer that can be written in the form $n^2 = n \times n$ with $n$ a non-negative integer. We thus write $a^2$ for the number of Noémie's sheep and $b^2$ for that of Tristan. After a quick count of the total number of sheep, they deduce that $97 \le a^2 + b^2 \le 108$. Determine the number of sheep of each one, knowing that:
+> 
+> 1. Noémie owns strictly more sheep than Tristan;
+> 2. each of them has at least $2$ sheep;
+> 3. the total number of sheep $a^2 + b^2$ is odd.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Prove triangles ADE and BCE have equal area in a trapezoid with E the diagonal intersection*
 
-> Let $ABCD$ be a trapezoid (non self-crossing) such that the lines $(AB)$ and $(CD)$ are parallel. We write $E$ for the point of intersection of the diagonals $[AC]$ and $[BD]$. Show that the area of the triangle $ADE$ equals the area of the triangle $BCE$.
+> Soit $ABCD$ un trapèze (non croisé) tel que les droites $(AB)$ et $(CD)$ soient parallèles. Notons $E$ le point d'intersection des diagonales $[AC]$ et $[BD]$. Montrer que l'aire du triangle $ADE$ est égale à l'aire du triangle $BCE$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate method]]
@@ -174,15 +237,29 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove triangles ADE and BCE have equal area in a trapezoid with E the diagonal intersection*
+
+> Let $ABCD$ be a trapezoid (non self-crossing) such that the lines $(AB)$ and $(CD)$ are parallel. We write $E$ for the point of intersection of the diagonals $[AC]$ and $[BD]$. Show that the area of the triangle $ADE$ equals the area of the triangle $BCE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Show 12 pebbles on an 8x8 board can be covered by coloring 4 rows and 4 columns red*
 
-> We place $12$ pebbles on a chessboard with $8$ rows and $8$ columns. Each pebble has been placed on one of the $64$ squares of the chessboard (with at most one pebble per square). Show that it is possible to color red $4$ rows and $4$ columns in such a way that each of the $12$ pebbles is on a red square.
+> On pose $12$ cailloux sur un échiquier à $8$ lignes et $8$ colonnes. Chaque caillou a été posé sur une des $64$ cases de l'échiquier (avec au plus un caillou par case). Montrer qu'il est possible de colorier en rouge $4$ lignes et $4$ colonnes de façon à ce que chacun des $12$ cailloux soit sur une case rouge.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -204,15 +281,29 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Show 12 pebbles on an 8x8 board can be covered by coloring 4 rows and 4 columns red*
+
+> We place $12$ pebbles on a chessboard with $8$ rows and $8$ columns. Each pebble has been placed on one of the $64$ squares of the chessboard (with at most one pebble per square). Show that it is possible to color red $4$ rows and $4$ columns in such a way that each of the $12$ pebbles is on a red square.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Count integer triples summing to zero with absolute-value sum equal to 2k*
 
-> Let $k$ be a strictly positive integer. For every real number $x$, the number $|x|$ is the absolute value of $x$, which equals $x$ if $x$ is positive and $-x$ if $x$ is negative. Find the number of triples $(x, y, z)$ where $x, y, z$ are integers such that $x + y + z = 0$ and $|x| + |y| + |z| = 2k$.
+> Soit $k$ un entier strictement positif. Pour tout réel $x$, le nombre réel $|x|$ est la valeur absolue de $x$, qui vaut $x$ si $x$ est positif, $-x$ si $x$ est négatif. Trouver le nombre de triplets $(x, y, z)$ où $x, y, z$ sont des entiers tels que $x + y + z = 0$ et $|x| + |y| + |z| = 2k$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -234,17 +325,31 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count integer triples summing to zero with absolute-value sum equal to 2k*
+
+> Let $k$ be a strictly positive integer. For every real number $x$, the number $|x|$ is the absolute value of $x$, which equals $x$ if $x$ is positive and $-x$ if $x$ is negative. Find the number of triples $(x, y, z)$ where $x, y, z$ are integers such that $x + y + z = 0$ and $|x| + |y| + |z| = 2k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Maximum size of a subset of {1,...,200} whose pairwise differences are never prime*
 
-> Let $S$ be a set included in $\{1, 2, 3, \ldots, 199, 200\}$. We say that $S$ is *joli* (pretty) if, for all elements $a$ and $b$ of $S$, the number $a - b$ is not a prime number. What is the maximum number of elements of a *joli* set included in $\{1, 2, 3, \ldots, 199, 200\}$?
-> 
-> *Note: We say that a set $A$ is included in a set $B$ if every element of $A$ is also an element of $B$.*
+> Soit $S$ un ensemble inclus dans $\{1, 2, 3, \ldots, 199, 200\}$. On dit que $S$ est joli si, pour tous les éléments $a$ et $b$ de $S$, le nombre $a - b$ n'est pas un nombre premier. Quel est le nombre maximal d'éléments d'un joli ensemble inclus dans $\{1, 2, 3, \ldots, 199, 200\}$ ?
+>
+> Note : On dit qu'un ensemble $A$ est inclus dans un ensemble $B$ si tout élément de $A$ est aussi un élément de $B$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -268,17 +373,33 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum size of a subset of {1,...,200} whose pairwise differences are never prime*
+
+> Let $S$ be a set included in $\{1, 2, 3, \ldots, 199, 200\}$. We say that $S$ is *joli* (pretty) if, for all elements $a$ and $b$ of $S$, the number $a - b$ is not a prime number. What is the maximum number of elements of a *joli* set included in $\{1, 2, 3, \ldots, 199, 200\}$?
+> 
+> *Note: We say that a set $A$ is included in a set $B$ if every element of $A$ is also an element of $B$.*
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find the number of floors of two buildings given total bathrooms and bedrooms (lycée)*
 
-> Alexie and Baptiste each own a building. Each floor of Alexie's building has $3$ bathrooms and $2$ bedrooms. Baptiste, as for him, has $4$ bathrooms and $3$ bedrooms per floor. There are in total $25$ bathrooms and $18$ bedrooms. Find the number of floors of Alexie's and Baptiste's buildings.
-> 
-> *Only a numerical answer is expected here.*
+> Alexie et Baptiste possèdent chacun un immeuble. Chaque étage du batiment d’Alexie possède $3$ salles de bains et $2$ chambres. Baptiste quant à lui, possède $4$ salles de bains et $3$ chambres par étage. Il y a au total $25$ salles de bains et $18$ chambres. Trouver le nombre d’étages des immeubles d’Alexie et Baptiste.
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -300,15 +421,30 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find the number of floors of two buildings given total bathrooms and bedrooms (lycée)*
+
+> Alexie and Baptiste each own a building. Each floor of Alexie's building has $3$ bathrooms and $2$ bedrooms. Baptiste, as for him, has $4$ bathrooms and $3$ bedrooms per floor. There are in total $25$ bathrooms and $18$ bedrooms. Find the number of floors of Alexie's and Baptiste's buildings.
+> 
+> *Only a numerical answer is expected here.*
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find angle FEA in a square with E on diagonal BD such that EB=AB (lycée)*
 
-> Let $ABCD$ be a square and $E$ the point of the segment $[BD]$ such that $EB = AB$. We define the point $F$ as the point of intersection of the lines $(CE)$ and $(AD)$. Find the value of the angle $\widehat{FEA}$.
+> Soit $ABCD$ un carré et $E$ le point du segment $[BD]$ tel que $EB = AB$. On définit le point $F$ comme le point d’intersection des droites $(CE)$ et $(AD)$. Trouver la valeur de l’angle $\widehat{FEA}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -330,19 +466,33 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find angle FEA in a square with E on diagonal BD such that EB=AB (lycée)*
+
+> Let $ABCD$ be a square and $E$ the point of the segment $[BD]$ such that $EB = AB$. We define the point $F$ as the point of intersection of the lines $(CE)$ and $(AD)$. Find the value of the angle $\widehat{FEA}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Determine each shepherd's perfect-square sheep count given sum bounds and parity (lycée)*
 
-> Noémie and Tristan are shepherds. Each of them owns a number of sheep that is a perfect square, that is to say an integer that can be written in the form $n^2 = n \times n$ with $n$ a non-negative integer. We thus write $a^2$ for the number of Noémie's sheep and $b^2$ for that of Tristan. After a quick count of the total number of sheep, they deduce that $97 \le a^2 + b^2 \le 108$. Determine the number of sheep of each one, knowing that:
-> 
-> 1. Noémie owns strictly more sheep than Tristan;
-> 2. each of them has at least $2$ sheep;
-> 3. the total number of sheep $a^2 + b^2$ is odd.
+> Noémie et Tristan sont des bergers. Chacun possède un nombre de moutons qui est un carré parfait, c’est-à-dire un entier qui peut s’écrire de la forme $n^2 = n \times n$ avec $n$ un entier positif ou nul. On note donc $a^2$ le nombre de moutons de Noémie et $b^2$ celui de Tristan. Après un rapide comptage du nombre total de moutons, ils déduisent que $97 \leqslant a^2 + b^2 \leqslant 108$. Déterminer le nombre de moutons de chacun en sachant que :
+>
+> 1. Noémie a strictement plus de moutons que Tristan ;
+> 2. chacun d’eux a au moins $2$ moutons ;
+> 3. le nombre total de moutons $a^2 + b^2$ est impair.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -366,15 +516,33 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Determine each shepherd's perfect-square sheep count given sum bounds and parity (lycée)*
+
+> Noémie and Tristan are shepherds. Each of them owns a number of sheep that is a perfect square, that is to say an integer that can be written in the form $n^2 = n \times n$ with $n$ a non-negative integer. We thus write $a^2$ for the number of Noémie's sheep and $b^2$ for that of Tristan. After a quick count of the total number of sheep, they deduce that $97 \le a^2 + b^2 \le 108$. Determine the number of sheep of each one, knowing that:
+> 
+> 1. Noémie owns strictly more sheep than Tristan;
+> 2. each of them has at least $2$ sheep;
+> 3. the total number of sheep $a^2 + b^2$ is odd.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_invarianti,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Count possible numbers of even entries in a 3x3 grid with all row and column sums odd*
 
-> We place $9$ integers in the cells of a $3 \times 3$ grid in such a way that the sum of the numbers of a column or of a row is always odd. What values can the number of even cells of such a configuration take?
+> On place $9$ entiers dans les cases d’une grille $3 \times 3$ de telle sorte que la somme des nombres d’une colonne ou d’une ligne soit toujours impaire. Quelles valeurs peut prendre le nombre de cases paires d’une telle configuration ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -396,15 +564,29 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count possible numbers of even entries in a 3x3 grid with all row and column sums odd*
+
+> We place $9$ integers in the cells of a $3 \times 3$ grid in such a way that the sum of the numbers of a column or of a row is always odd. What values can the number of even cells of such a configuration take?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Count reals x in [1,10] with fractional-part(x) squared equal to fractional-part(x squared)*
 
-> For every real number $x$, we write $\lfloor x \rfloor$ for the greatest integer less than or equal to $x$, then we call *fractional part* of $x$ the number $\langle x \rangle$ defined by $\langle x \rangle = x - \lfloor x \rfloor$. How many real numbers $x$ are there verifying $1 \le x \le 10$ and $\langle x \rangle^2 = \langle x^2 \rangle$?
+> Pour tout nombre réel $x$, on note $\lfloor x \rfloor$ le plus grand entier inférieur ou égal à $x$, puis on appelle partie fractionnaire de $x$ le nombre $\langle x \rangle$ défini comme $\langle x \rangle = x - \lfloor x \rfloor$. Combien y a-t-il de réels $x$ vérifiant $1 \leqslant x \leqslant 10$ et $\langle x \rangle^2 = \langle x^2 \rangle$ ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
@@ -426,10 +608,49 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count reals x in [1,10] with fractional-part(x) squared equal to fractional-part(x squared)*
+
+> For every real number $x$, we write $\lfloor x \rfloor$ for the greatest integer less than or equal to $x$, then we call *fractional part* of $x$ the number $\langle x \rangle$ defined by $\langle x \rangle = x - \lfloor x \rfloor$. How many real numbers $x$ are there verifying $1 \le x \le 10$ and $\langle x \rangle^2 = \langle x^2 \rangle$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Find integers n>=2 expressible as a^3+d^3 with a the smallest prime divisor and d a divisor*
+
+> Trouver les entiers $n$ supérieurs ou égaux à $2$ tels que, si on note $a$ le plus petit diviseur premier de $n$, on peut trouver un diviseur positif de $n$ noté $d$ tel que $n = a^3 + d^3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare gli interi n≥2 che si possono scrivere come a³+d³, dove a è il minimo divisore primo di n e d è un divisore positivo di n.*
+> Trova i numeri interi $n$ più grandi o uguali a $2$ in modo che, scrivendo $a$ per il più piccolo divisore primo di $n$, si possa trovare un divisore positivo di $n$ scritto $d$ in modo che $n = a^3 + d^3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find integers n>=2 expressible as a^3+d^3 with a the smallest prime divisor and d a divisor*
@@ -443,28 +664,15 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Trova integri n>=2 espressi come a^3+d^3 con un divisore primo più piccolo e un divisore d*
-
-> Trova i numeri interi $n$ più grandi o uguali a $2$ in modo che, scrivendo $a$ per il più piccolo divisore primo di $n$, si possa trovare un divisore positivo di $n$ scritto $d$ in modo che $n = a^3 + d^3$.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute area of triangle MND in a unit-area parallelogram with M on BD, MD=3MB*
 
-> Let $ABCD$ be a parallelogram of area $1$ and $M$ a point belonging to the segment $[BD]$ such that $MD = 3MB$. We write $N$ for the point of intersection of the lines $(AM)$ and $(CB)$. Compute the area of the triangle $MND$.
+> Soit $ABCD$ un parallélogramme d’aire $1$ et $M$ un point appartenant au segment $[BD]$ tel que $MD = 3MB$. On note $N$ le point d’intersection des droites $(AM)$ et $(CB)$. Calculer l’aire du triangle $MND$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -486,15 +694,29 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute area of triangle MND in a unit-area parallelogram with M on BD, MD=3MB*
+
+> Let $ABCD$ be a parallelogram of area $1$ and $M$ a point belonging to the segment $[BD]$ such that $MD = 3MB$. We write $N$ for the point of intersection of the lines $(AM)$ and $(CB)$. Compute the area of the triangle $MND$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all values C that are products of integers differing by 5 and also by 8*
 
-> Suzanne multiplies two integers whose difference equals $5$ and Martin multiplies two integers whose difference equals $8$. They obtain the same result, that we write $C$. What are the possible values of $C$?
+> Suzanne multiplie deux entiers dont la différence vaut $5$ et Martin multiplie deux entiers dont la différence vaut $8$. Ils obtiennent le même résultat, que l’on note $C$. Quelles sont les valeurs possibles de $C$ ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -516,19 +738,33 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all values C that are products of integers differing by 5 and also by 8*
+
+> Suzanne multiplies two integers whose difference equals $5$ and Martin multiplies two integers whose difference equals $8$. They obtain the same result, that we write $C$. What are the possible values of $C$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_grafi,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Decide if 10 blue, 10 red, 10 green points can satisfy cyclic second-nearest conditions*
 
-> Is it possible to place $10$ blue points, $10$ red points and $10$ green points in the plane such that the distances between points are pairwise distinct and that:
-> 
-> - for each blue point, the second nearest point is red;
-> - for each red point, the second nearest point is green;
-> - for each green point, the second nearest point is blue?
+> Est il possible de placer $10$ points bleus, $10$ points rouges et $10$ points verts dans le plan tel que les distances entre points soient deux à deux distinctes et que
+>
+> - pour chaque point bleu, le deuxième point le plus proche soit rouge ;
+> - pour chaque point rouge, le deuxième point le plus proche soit vert ;
+> - pour chaque point vert, le deuxième point le plus proche soit bleu ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
@@ -550,3 +786,21 @@ level: Coupe Animath Automne
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Decide if 10 blue, 10 red, 10 green points can satisfy cyclic second-nearest conditions*
+
+> Is it possible to place $10$ blue points, $10$ red points and $10$ green points in the plane such that the distances between points are pairwise distinct and that:
+> 
+> - for each blue point, the second nearest point is red;
+> - for each red point, the second nearest point is green;
+> - for each green point, the second nearest point is blue?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)

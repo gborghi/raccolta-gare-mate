@@ -162,9 +162,7 @@ level: China Southeastern Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Disponi 2021 interi su una linea/un cerchio con divisibilità per 43 tra elementi consecutivi; conta le sequenze valide*
-
+*Disporre i 2021 interi da 1 a 2021 in una successione o in cerchio in modo che ogni 43 termini consecutivi abbiano somma multipla di 43; contare le successioni ammissibili.*
 > Per celebrare il 43º anniversario della ripresa delle competizioni matematiche, un appassionato di matematica dispone i primi $2021$ numeri interi positivi $1, 2, \ldots, 2021$ in una successione $\{a_n\}$ tale che la somma di qualsiasi gruppo di $43$ numeri consecutivi sia un multiplo di $43$. (1) Dimostrare che, se le due estremità di $\{a_n\}$ vengono unite a formare un cerchio, allora anche la somma di qualsiasi gruppo di $43$ numeri consecutivi sul cerchio è un multiplo di $43$. (2) Determina il numero di tutte le successioni $\{a_n\}$ di questo tipo.
 
 

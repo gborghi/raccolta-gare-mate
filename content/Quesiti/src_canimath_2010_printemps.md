@@ -12,13 +12,13 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all integers 1<x<y<z whose symmetric sum equals 2009*
 
-> Find all integers $x$, $y$, $z$ that satisfy:
-> $$1 < x < y < z \quad \text{and} \quad x + y + z + xy + yz + zx + xyz = 2009.$$
+> Trouver tous les nombres entiers $x$, $y$, $z$ qui vérifient :
+> $$1 < x < y < z \quad \text{et :} \quad x + y + z + xy + yz + zx + xyz = 2009.$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -40,19 +40,34 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all integers 1<x<y<z whose symmetric sum equals 2009*
+
+> Find all integers $x$, $y$, $z$ that satisfy:
+> $$1 < x < y < z \quad \text{and} \quad x + y + z + xy + yz + zx + xyz = 2009.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,method_conteggio,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Eight-team round-robin: prove a chain A>B,C,D; B>C,D; C>D exists; ask about seven teams*
 
-> Eight teams take part in a tournament. Each team plays one and only one match against each of the other teams, and there are no draws.
-> 
-> Prove that there necessarily exist four teams $A$, $B$, $C$, $D$ such that $A$ has won against $B$, $C$ and $D$; $B$ has won against $C$ and $D$; and $C$ has won against $D$.
-> 
-> Can one assert the same thing if only seven teams take part in the tournament?
+> Huit équipes participent à un tournoi. Chaque équipe joue une et une seule fois contre chacune des autres équipes, et il n'y a pas de match nul.
+>
+> Démontrer qu'il existe forcément quatre équipes $A$, $B$, $C$, $D$ telles que $A$ ait gagné contre $B$, $C$ et $D$, $B$ ait gagné contre $C$ et $D$ et $C$ ait gagné contre $D$.
+>
+> Peut-on affirmer la même chose s'il n'y a que sept équipes participant au tournoi ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
@@ -78,19 +93,37 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Eight-team round-robin: prove a chain A>B,C,D; B>C,D; C>D exists; ask about seven teams*
+
+> Eight teams take part in a tournament. Each team plays one and only one match against each of the other teams, and there are no draws.
+> 
+> Prove that there necessarily exist four teams $A$, $B$, $C$, $D$ such that $A$ has won against $B$, $C$ and $D$; $B$ has won against $C$ and $D$; and $C$ has won against $D$.
+> 
+> Can one assert the same thing if only seven teams take part in the tournament?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *sqrt(n) has its first k decimals all equal to v; bound sqrt(n) below by 10^k/2 and 10^k/144*
 
-> Let $n$ be a strictly positive integer that is not a perfect square (that is, that is not the square of an integer). On looking at the decimal expansion of $\sqrt{n}$, one observes that its first $k$ decimal digits are all equal to the same value $v$ (for example, if $n = 48273160$, then $\sqrt{n} = 6947{,}88888800044067\ldots$, the first six decimal digits being equal to $8$, so $k = 6$ and $v = 8$).
-> 
-> a) If $v = 0$ or $v = 9$, prove that $\sqrt{n} > \dfrac{10^k}{2}$.
-> 
-> b) For all values of $v$, prove that $\sqrt{n} > \dfrac{10^k}{144}$.
+> Soit $n$ un entier strictement positif, qui n'est pas un carré parfait (c'est-à-dire : qui n'est pas le carré d'un entier). En regardant l'écriture décimale de $\sqrt{n}$, on constate que les $k$ premières décimales ont toutes la même valeur $v$ (par exemple, si $n = 48273160$, dans $\sqrt{n} = 6947{,}88888800044067\ldots$, les six premières décimales sont égales à $8$, donc $k = 6$ et $v = 8$).
+>
+> a) si $v = 0$ ou $v = 9$, démontrer que $\sqrt{n} > \dfrac{10^k}{2}$.
+>
+> b) pour toutes les valeurs de $v$, démontrer que $\sqrt{n} > \dfrac{10^k}{144}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
@@ -116,21 +149,37 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*sqrt(n) has its first k decimals all equal to v; bound sqrt(n) below by 10^k/2 and 10^k/144*
+
+> Let $n$ be a strictly positive integer that is not a perfect square (that is, that is not the square of an integer). On looking at the decimal expansion of $\sqrt{n}$, one observes that its first $k$ decimal digits are all equal to the same value $v$ (for example, if $n = 48273160$, then $\sqrt{n} = 6947{,}88888800044067\ldots$, the first six decimal digits being equal to $8$, so $k = 6$ and $v = 8$).
+> 
+> a) If $v = 0$ or $v = 9$, prove that $\sqrt{n} > \dfrac{10^k}{2}$.
+> 
+> b) For all values of $v$, prove that $\sqrt{n} > \dfrac{10^k}{144}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Equilateral triangular billiard table: ball from A toward P returns to hole A after seven reflections*
 
-> Let $ABC$ be a triangular billiard table, fitted with elastic cushions* and with holes at the vertices $A$, $B$, $C$ of the triangle, whose dimensions satisfy: $AB = BC = CA = 200$ cm. Let $P$ be the point of the side $BC$ such that $BP = 160$ cm, $PC = 40$ cm. A player rolls a ball from $A$ towards $P$. Prove that after seven reflections off the sides of the triangle, the ball falls into the hole $A$.
-> 
-> * we therefore assume that at each reflection (when the ball touches a side) the two angles shown alongside are equal.
-> 
-> Supplementary question (to be tackled only if you have solved all the other problems of the test): prove that two points of the billiard table $ABC$ are each crossed three times by the ball.
-
-![[src_canimath_2010_printemps__Q06.png]]
+> Soit $ABC$ une table de billard triangulaire, munie de rebords élastiques* et de trous aux sommets $A$, $B$, $C$ du triangle, dont les dimensions vérifient : $AB = BC = CA = 200$ cm. Soit $P$ le point du côté $BC$ tel que $BP = 160$ cm, $PC = 40$ cm. Un joueur fait rouler une boule de $A$ vers $P$. Démontrer qu'après sept réflexions sur les côtés du triangle, la boule tombe dans le trou $A$.
+>
+> * on suppose donc qu'à chaque réflexion (lorsque la boule touche un côté) les angles ci-contre sont égaux.
+>
+> Question supplémentaire (à traiter uniquement si vous avez résolu tous les autres problèmes du test) : démontrer que deux points de la table de billard $ABC$ sont traversés trois fois chacun par la boule.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -156,3 +205,23 @@ Tavola di biliardo triangolare equalaterale: la palla da A verso P ritorna al bu
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Equilateral triangular billiard table: ball from A toward P returns to hole A after seven reflections*
+
+> Let $ABC$ be a triangular billiard table, fitted with elastic cushions* and with holes at the vertices $A$, $B$, $C$ of the triangle, whose dimensions satisfy: $AB = BC = CA = 200$ cm. Let $P$ be the point of the side $BC$ such that $BP = 160$ cm, $PC = 40$ cm. A player rolls a ball from $A$ towards $P$. Prove that after seven reflections off the sides of the triangle, the ball falls into the hole $A$.
+> 
+> * we therefore assume that at each reflection (when the ball touches a side) the two angles shown alongside are equal.
+> 
+> Supplementary question (to be tackled only if you have solved all the other problems of the test): prove that two points of the billiard table $ABC$ are each crossed three times by the ball.
+
+![[src_canimath_2010_printemps__Q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)

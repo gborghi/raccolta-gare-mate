@@ -12,13 +12,13 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Which number is NOT a multiple of 15?*
 
-> Which of the following numbers is NOT a multiple of $15$?
-> 
+> Qual dos números a seguir não é múltiplo de $15$?
+>
 > (A) $135$ \quad (B) $315$ \quad (C) $555$ \quad (D) $785$ \quad (E) $915$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -45,16 +45,33 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Which number is NOT a multiple of 15?*
+
+> Which of the following numbers is NOT a multiple of $15$?
+> 
+> (A) $135$ \quad (B) $315$ \quad (C) $555$ \quad (D) $785$ \quad (E) $915$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find Lucia's reais given pairwise sums*
 
-> Ana, Esmeralda, and L\'{u}cia together have $33$ reais. Ana and Esmeralda together have $19$ reais, and Esmeralda and L\'{u}cia together have $21$ reais. How many reais does L\'{u}cia have?
-> 
+> Ana, Esmeralda e Lúcia têm, juntas, $33$ reais. Ana e Esmeralda, juntas, têm $19$ reais e Esmeralda e Lúcia, juntas, têm $21$ reais. Quantos reais tem Esmeralda?
+>
 > (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $12$ \quad (E) $14$
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -79,16 +96,32 @@ level: OBM Nível 1
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find Lucia's reais given pairwise sums*
+
+> Ana, Esmeralda, and L\'{u}cia together have $33$ reais. Ana and Esmeralda together have $19$ reais, and Esmeralda and L\'{u}cia together have $21$ reais. How many reais does L\'{u}cia have?
+> 
+> (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $12$ \quad (E) $14$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *2% increase of integer equals successor; find their sum*
 
-> Increasing a positive integer by $2\%$ of itself yields its successor (the next integer). What is the sum of these two numbers?
-> 
+> Aumentando $2\%$ o valor um número inteiro positivo, obtemos o seu sucessor. Qual é a soma desses dois números?
+>
 > (A) $43$ \quad (B) $53$ \quad (C) $97$ \quad (D) $101$ \quad (E) $115$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -113,9 +146,57 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*2% increase of integer equals successor; find their sum*
+
+> Increasing a positive integer by $2\%$ of itself yields its successor (the next integer). What is the sum of these two numbers?
+> 
+> (A) $43$ \quad (B) $53$ \quad (C) $97$ \quad (D) $101$ \quad (E) $115$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*Max tokens in 5x5 grid with row and column counts multiples of 3*
+
+> Qual é o maior número de fichas que podemos colocar em um tabuleiro $5 \times 5$, no máximo uma em cada casa, de modo que o número de fichas em cada linha e cada coluna seja múltiplo de $3$?
+>
+> (A) $6$ \quad (B) $9$ \quad (C) $12$ \quad (D) $15$ \quad (E) $24$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Massimo numero di pedine in una griglia 5×5, al più una per casella, con il numero di pedine su ogni riga e ogni colonna multiplo di 3.*
+> Qual è il numero massimo di gettoni che si possono collocare in una tabella $5 \times 5$, con al massimo un gettone per cella, in modo che il numero di gettoni in ogni riga e in ogni colonna sia un multiplo di $3$?
+>
+> (A) $3$ \quad (B) $9$ \quad (C) $12$ \quad (D) $15$ \quad (E) $24$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max tokens in 5x5 grid with row and column counts multiples of 3*
@@ -132,34 +213,17 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Token massimi in una griglia 5x5 con il numero di righe e colonne multipli di 3*
-
-> Qual è il numero massimo di gettoni che si possono collocare in una tabella $5 \times 5$, con al massimo un gettone per cella, in modo che il numero di gettoni in ogni riga e in ogni colonna sia un multiplo di $3$?
->
-> (A) $3$ \quad (B) $9$ \quad (C) $12$ \quad (D) $15$ \quad (E) $24$
-
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_geometria_solida,skill_modellizzazione,skill_stima,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Height of column built from 2010 rectangular blocks*
 
-> Carlos has $2010$ identical blocks, each $10\,\text{cm}$ long, $20\,\text{cm}$ wide, and $1.5\,\text{cm}$ thick. He stacks them into a column $20\,\text{cm}$ wide and $40\,\text{cm}$ long, as shown in the figure. Which of the following values is closest to the height of the column, in metres?
-> 
-> (A) $7$ \quad (B) $7.5$ \quad (C) $8$ \quad (D) $8.5$ \quad (E) $9$
-
-![[src_obm_2010_n1_f1__Q05.png]]
+> Carlos tem $2010$ blocos iguais de $10$ cm de largura por $20$ cm de comprimento e $1{,}5$ cm de espessura e resolveu empilhá-los formando uma coluna de $20$ cm de largura por $40$ cm de comprimento, como na figura. Qual dos valores a seguir, em metros, é o mais próximo da altura dessa coluna?
+>
+> (A) $7$ \quad (B) $7{,}5$ \quad (C) $8$ \quad (D) $8{,}5$ \quad (E) $9$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Geometric reasoning]]
@@ -185,16 +249,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Height of column built from 2010 rectangular blocks*
+
+> Carlos has $2010$ identical blocks, each $10\,\text{cm}$ long, $20\,\text{cm}$ wide, and $1.5\,\text{cm}$ thick. He stacks them into a column $20\,\text{cm}$ wide and $40\,\text{cm}$ long, as shown in the figure. Which of the following values is closest to the height of the column, in metres?
+> 
+> (A) $7$ \quad (B) $7.5$ \quad (C) $8$ \quad (D) $8.5$ \quad (E) $9$
+
+![[src_obm_2010_n1_f1__Q05.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Which option is a divisor of 3^3 times 4^4 times 5^5?*
 
-> Which of the following is a divisor of $3^3 \cdot 4^4 \cdot 5^5$?
-> 
+> Qual das alternativas apresenta um divisor de $3^{5} \cdot 4^{4} \cdot 5^{3}$?
+>
 > (A) $42$ \quad (B) $45$ \quad (C) $52$ \quad (D) $85$ \quad (E) $105$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -221,16 +303,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Which option is a divisor of 3^3 times 4^4 times 5^5?*
+
+> Which of the following is a divisor of $3^3 \cdot 4^4 \cdot 5^5$?
+> 
+> (A) $42$ \quad (B) $45$ \quad (C) $52$ \quad (D) $85$ \quad (E) $105$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Simplify 4^(4^4) divided by 4^4*
 
-> Dividing $4^{\left(4^4\right)}$ by $4^4$, we obtain:
-> 
-> (A) $2$ \quad (B) $4^1$ \quad (C) $4^4$ \quad (D) $4^{4^3}$ \quad (E) $4^{4^4 - 4}$
+> Dividindo-se o número $4^{\left(4^{2}\right)}$ por $4^{4}$ obtemos o número:
+>
+> (A) $2$ \quad (B) $4^{3}$ \quad (C) $4^{4}$ \quad (D) $4^{8}$ \quad (E) $4^{12}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -256,19 +356,34 @@ level: OBM Nível 1
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Simplify 4^(4^4) divided by 4^4*
+
+> Dividing $4^{\left(4^4\right)}$ by $4^4$, we obtain:
+> 
+> (A) $2$ \quad (B) $4^1$ \quad (C) $4^4$ \quad (D) $4^{4^3}$ \quad (E) $4^{4^4 - 4}$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Which total cannot be a sum of visible faces of two tetrahedral dice joined at one face?*
 
-> The four faces of a die are equilateral triangles, numbered $1$ to $4$, as shown in the figure. We roll two identical dice and place them so that two faces coincide (showing the same or different numbers). Which of the following numbers CANNOT be the sum of all the visible face numbers?
-> 
+> As quatro faces de um dado são triângulos equiláteros, numerados de $1$ a $4$, como no desenho. Colando-se dois dados iguais, fazemos coincidir duas faces, com o mesmo número ou não. Qual dos números a seguir não pode ser a soma dos números das faces visíveis?
+>
 > (A) $12$ \quad (B) $14$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
-
-![[src_obm_2010_n1_f1__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -296,16 +411,35 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Which total cannot be a sum of visible faces of two tetrahedral dice joined at one face?*
+
+> The four faces of a die are equilateral triangles, numbered $1$ to $4$, as shown in the figure. We roll two identical dice and place them so that two faces coincide (showing the same or different numbers). Which of the following numbers CANNOT be the sum of all the visible face numbers?
+> 
+> (A) $12$ \quad (B) $14$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
+
+![[src_obm_2010_n1_f1__Q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count positive divisors of 120 that are multiples of 6*
 
-> How many positive divisors of $120$ are multiples of $6$?
-> 
+> Quantos divisores positivos de $120$ são múltiplos de $6$?
+>
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $8$ \quad (E) $12$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -332,18 +466,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count positive divisors of 120 that are multiples of 6*
+
+> How many positive divisors of $120$ are multiples of $6$?
+> 
+> (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $8$ \quad (E) $12$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Perimeter of figure formed by two overlapping squares*
 
-> The figure shows two squares overlapping: one with side $5\,\text{cm}$ and one with side $6\,\text{cm}$. What is the perimeter of the resulting figure (the thick outline), in centimetres?
-> 
+> O desenho mostra dois quadrados de papel sobrepostos, um de lado $5\,\text{cm}$ e outro de lado $6\,\text{cm}$. Qual é o perímetro da figura formada (linha grossa no contorno do desenho), em centímetros?
+>
 > (A) $31$ \quad (B) $34$ \quad (C) $36$ \quad (D) $38$ \quad (E) $41$
-
-![[src_obm_2010_n1_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -369,18 +519,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Perimeter of figure formed by two overlapping squares*
+
+> The figure shows two squares overlapping: one with side $5\,\text{cm}$ and one with side $6\,\text{cm}$. What is the perimeter of the resulting figure (the thick outline), in centimetres?
+> 
+> (A) $31$ \quad (B) $34$ \quad (C) $36$ \quad (D) $38$ \quad (E) $41$
+
+![[src_obm_2010_n1_f1__Q10.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Days for a clock losing 5 min/hour to show correct time again*
 
-> The clock shown indicates the correct time right now, but it begins to lose exactly $5$ minutes for every real hour that passes. After how many days will the clock show the correct time again?
-> 
+> O horário indicado pelo relógio ao lado está correto. A partir desse momento, porém, o relógio começa a atrasar exatamente $5$ minutos a cada hora real. Depois de quantos dias o relógio voltará a apresentar um horário correto?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $12$
-
-![[src_obm_2010_n1_f1__Q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -406,18 +573,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Days for a clock losing 5 min/hour to show correct time again*
+
+> The clock shown indicates the correct time right now, but it begins to lose exactly $5$ minutes for every real hour that passes. After how many days will the clock show the correct time again?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $12$
+
+![[src_obm_2010_n1_f1__Q11.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of shaded polygonal region in a 1 cm dot grid*
 
-> In the grid shown, neighbouring points (vertically or horizontally) are $1\,\text{cm}$ apart. What is the area of the shaded region, in $\text{cm}^2$?
-> 
-> (A) $7$ \quad (B) $8$ \quad (C) $8.5$ \quad (D) $9$ \quad (E) $9.5$
-
-![[src_obm_2010_n1_f1__Q12.png]]
+> No reticulado a seguir, pontos vizinhos na vertical ou na horizontal estão a $1\,\text{cm}$ de distância. Qual é a área da região sombreada?
+>
+> (A) $7$ \quad (B) $8$ \quad (C) $8{,}5$ \quad (D) $9$ \quad (E) $9{,}5$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -445,19 +629,44 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of shaded polygonal region in a 1 cm dot grid*
+
+> In the grid shown, neighbouring points (vertically or horizontally) are $1\,\text{cm}$ apart. What is the area of the shaded region, in $\text{cm}^2$?
+> 
+> (A) $7$ \quad (B) $8$ \quad (C) $8.5$ \quad (D) $9$ \quad (E) $9.5$
+
+![[src_obm_2010_n1_f1__Q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find goals suffered by Esmeralda FC from incomplete championship table*
 
-> A newspaper published the standings of a football championship with four teams, showing goals scored and goals suffered by each team. Due to a printing error, some entries are missing (shown as $***$):
-> 
-> \begin{array}{|l|c|c|}\hline \textbf{Team} & \textbf{Goals scored} & \textbf{Goals suffered} \\\hline \text{Craques do Momento} & 8 & {***} \\\hline \text{Independentes} & 1 & 6 \\\hline \text{EC Boleiros} & 4 & {***} \\\hline \text{Esmeralda FC} & 5 & {***} \\\hline \end{array}
-> 
-> It is known that Esmeralda FC suffered two more goals than EC Boleiros. How many goals did Esmeralda FC suffer?
-> 
+> Um jornal publicou a tabela de um campeonato de futebol formado por quatro times, apresentando os gols marcados e os gols sofridos por cada time. Por uma falha de impressão, a tabela saiu com dois números borrados, conforme reprodução a seguir.
+>
+> | | Gols marcados | Gols sofridos |
+> |---|---|---|
+> | Craques do Momento | $8$ | $4$ |
+> | Independentes | $1$ | $6$ |
+> | EC Boleiros | $4$ | *** |
+> | Esmeralda FC | $5$ | *** |
+>
+> Sabe-se que o time Esmeralda FC sofreu dois gols a mais que o time EC Boleiros. Quantos gols sofreu o time Esmeralda FC?
+>
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
@@ -488,15 +697,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find goals suffered by Esmeralda FC from incomplete championship table*
+
+> A newspaper published the standings of a football championship with four teams, showing goals scored and goals suffered by each team. Due to a printing error, some entries are missing (shown as $***$):
+> 
+> \begin{array}{|l|c|c|}\hline \textbf{Team} & \textbf{Goals scored} & \textbf{Goals suffered} \\\hline \text{Craques do Momento} & 8 & {***} \\\hline \text{Independentes} & 1 & 6 \\\hline \text{EC Boleiros} & 4 & {***} \\\hline \text{Esmeralda FC} & 5 & {***} \\\hline \end{array}
+> 
+> It is known that Esmeralda FC suffered two more goals than EC Boleiros. How many goals did Esmeralda FC suffer?
+> 
+> (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fraction Beatriz still must climb after Ana finishes descending*
 
-> Ana starts going down a staircase at exactly the same moment Beatriz starts going up. They cross each other when Ana has descended $\dfrac{3}{4}$ of the staircase. At the moment Ana finishes descending, what fraction of the staircase does Beatriz still have to climb?
-> 
+> Ana começou a descer uma escada no mesmo instante em que Beatriz começou a subi-la. Ana tinha descido $\dfrac{3}{4}$ da escada quando cruzou com Beatriz. No momento em que Ana terminar de descer, que fração da escada Beatriz ainda terá que subir?
+>
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{1}{12}$ \quad (D) $\dfrac{5}{12}$ \quad (E) $\dfrac{2}{3}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -521,15 +752,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fraction Beatriz still must climb after Ana finishes descending*
+
+> Ana starts going down a staircase at exactly the same moment Beatriz starts going up. They cross each other when Ana has descended $\dfrac{3}{4}$ of the staircase. At the moment Ana finishes descending, what fraction of the staircase does Beatriz still have to climb?
+> 
+> (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{1}{12}$ \quad (D) $\dfrac{5}{12}$ \quad (E) $\dfrac{2}{3}$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest number in a set with sum 83 and product 1024*
 
-> Some positive integers (not necessarily distinct) are written on a board. Their sum is $83$ and their product is $1024$. What is the smallest possible value of the smallest number among all those on the board?
-> 
+> Alguns números inteiros positivos, não necessariamente distintos, estão escritos na lousa. A soma deles é $83$ e o produto é $1024$. O menor número é igual a:
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $8$ \quad (E) $16$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -556,17 +804,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest number in a set with sum 83 and product 1024*
+
+> Some positive integers (not necessarily distinct) are written on a board. Their sum is $83$ and their product is $1024$. What is the smallest possible value of the smallest number among all those on the board?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $8$ \quad (E) $16$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_inclusione_esclusione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Students liking both Math and Portuguese in class of 56*
 
-> In a $6^{\text{th}}$-grade class, every student likes at least one of the following two subjects: Mathematics or Portuguese. Fewer than $\dfrac{3}{4}$ of the students like Mathematics, and $\dfrac{5}{7}$ of the students like Portuguese. The class has $56$ students. How many students like both subjects at the same time?
-> 
-> (A) $8$ \quad (B) $13$ \quad (C) $24$ \quad (D) $26$
+> Numa sala do 6º ano, todos gostam de pelo menos uma das duas matérias: Matemática ou Português. Sabe-se que $\dfrac{3}{4}$ dos alunos gostam de Matemática e $\dfrac{5}{7}$ dos alunos gostam de Português. A sala tem $56$ alunos. Quantos alunos gostam dessas duas matérias ao mesmo tempo?
+>
+> (A) $4$ \quad (B) $8$ \quad (C) $13$ \quad (D) $24$ \quad (E) $26$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -592,19 +857,34 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Students liking both Math and Portuguese in class of 56*
+
+> In a $6^{\text{th}}$-grade class, every student likes at least one of the following two subjects: Mathematics or Portuguese. Fewer than $\dfrac{3}{4}$ of the students like Mathematics, and $\dfrac{5}{7}$ of the students like Portuguese. The class has $56$ students. How many students like both subjects at the same time?
+> 
+> (A) $8$ \quad (B) $13$ \quad (C) $24$ \quad (D) $26$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of rectangular tiling with 17 white unit squares in corner pattern*
 
-> The figure represents a corner of a rectangular tiling made of unit squares (side $1\,\text{cm}$). In this tiling $17$ squares are white. What is the area of the tiling, in $\text{cm}^2$?
-> 
-> (A) $29$ \quad (B) $34$ \quad (C) $35$ \quad (D) $40$ \quad (E) $150$
-
-![[src_obm_2010_n1_f1__Q17.png]]
+> O desenho representa um canto de um tabuleiro retangular convencional, formado por quadradinhos de lado $1\,\text{cm}$. Nesse tabuleiro, $17$ quadradinhos são brancos. Qual é a área do tabuleiro, em centímetros quadrados?
+>
+> A) $29$ B) $34$ C) $35$ D) $40$ E) $150$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -632,22 +912,44 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of rectangular tiling with 17 white unit squares in corner pattern*
+
+> The figure represents a corner of a rectangular tiling made of unit squares (side $1\,\text{cm}$). In this tiling $17$ squares are white. What is the area of the tiling, in $\text{cm}^2$?
+> 
+> (A) $29$ \quad (B) $34$ \quad (C) $35$ \quad (D) $40$ \quad (E) $150$
+
+![[src_obm_2010_n1_f1__Q17.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_backward,method_invarianti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Which first break guarantees Fabio gets the almond square*
 
-> The figure represents a chocolate bar that has a single chocolate-covered almond in one square. Neither Elias nor F\'{a}bio likes almonds. They decide to share the chocolate by breaking it along the vertical or horizontal lines, one piece at a time, taking turns; by lottery, Elias goes first, and it is forbidden to take more than half the chocolate. Which choice guarantees that F\'{a}bio will end up with the almond chocolate square?
+> A figura representa uma barra de chocolate que tem um amendoim apenas num pedaço. Elias e Fábio querem repartir o chocolate, mas nenhum deles gosta de amendoim. Então combinam dividir o chocolate quebrando-o ao longo das linhas verticais ou horizontais da barra, um depois do outro e retirando o pedaço escolhido, até que alguém tenha que ficar com o pedaço do amendoim. Por sorteio, coube a Elias começar a divisão, sendo proibido ficar com mais da metade do chocolate logo no começo. Qual deve ser a primeira divisão de Elias para garantir que Fábio fique com o amendoim ao final?
 >
-> - **(A)** Choose the first column on the left.
-> - **(B)** Choose the first two columns on the left.
-> - **(C)** Choose the third line from the top, counting downward.
-> - **(D)** Choose the last two lines from the bottom, counting upward.
-> - **(E)** Any break, since F\'{a}bio will forcibly end up with the almond square.
-
-![[src_obm_2010_n1_f1__Q18.png]]
+> A) Escolher a primeira coluna à esquerda.
+>
+> B) Escolher as duas primeiras colunas à esquerda.
+>
+> C) Escolher a terceira linha, de cima para baixo.
+>
+> D) Escolher as duas últimas linhas, de cima para baixo.
+>
+> E) Qualquer uma, já que Fábio forçosamente ficará com o amendoim.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]]
@@ -679,23 +981,50 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Which first break guarantees Fabio gets the almond square*
+
+> The figure represents a chocolate bar that has a single chocolate-covered almond in one square. Neither Elias nor F\'{a}bio likes almonds. They decide to share the chocolate by breaking it along the vertical or horizontal lines, one piece at a time, taking turns; by lottery, Elias goes first, and it is forbidden to take more than half the chocolate. Which choice guarantees that F\'{a}bio will end up with the almond chocolate square?
+>
+> - **(A)** Choose the first column on the left.
+> - **(B)** Choose the first two columns on the left.
+> - **(C)** Choose the third line from the top, counting downward.
+> - **(D)** Choose the last two lines from the bottom, counting upward.
+> - **(E)** Any break, since F\'{a}bio will forcibly end up with the almond square.
+
+![[src_obm_2010_n1_f1__Q18.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Identify who made the false statement in a card game*
 
-> Four friends — Arnaldo, Bernaldo, Cernaldo, and Dernaldo — are playing cards. There are $20$ different cards in $4$ colours (blue, yellow, green, red, and purple) and numbered $1$ to $5$. Each friend receives $5$ cards so that all cards are distributed. They make the following statements:
-> 
-> Arnaldo: ``I have four cards with the same number.''
-> Bernaldo: ``I have five red cards.''
-> Cernaldo: ``My five cards all start with the letter V.''
-> Dernaldo: ``I have three cards with one number and two cards with another number.''
-> 
-> It is known that exactly one of the statements is false. Who made the false statement?
-> 
-> (A) Arnaldo \quad (B) Bernaldo \quad (C) Cernaldo \quad (D) Dernaldo \quad (E) It is not possible to determine.
+> Quatro amigos, Arnaldo, Bernaldo, Cernaldo e Dernaldo estão jogando cartas. São $20$ cartas diferentes, cada carta tem uma entre $4$ cores (azul, amarelo, verde, vermelho) e um número de $1$ a $5$. Cada amigo recebe cinco cartas, de modo que todas as cartas são distribuídas. Eles fazem as seguintes afirmações:
+>
+> Arnaldo: “Eu tenho quatro cartas com o mesmo número.”
+>
+> Bernaldo: “Eu tenho as cinco cartas vermelhas.”
+>
+> Cernaldo: “As minhas cinco cartas são de cores que começam com a letra V.”
+>
+> Dernaldo: “Eu tenho três cartas de um número e duas cartas de outro número.”
+>
+> Sabe-se que somente uma das afirmações é falsa. Quem fez essa afirmação?
+>
+> A) Arnaldo B) Bernaldo C) Cernaldo D) Dernaldo E) Não é possível definir.
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -725,19 +1054,41 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Identify who made the false statement in a card game*
+
+> Four friends — Arnaldo, Bernaldo, Cernaldo, and Dernaldo — are playing cards. There are $20$ different cards in $4$ colours (blue, yellow, green, red, and purple) and numbered $1$ to $5$. Each friend receives $5$ cards so that all cards are distributed. They make the following statements:
+> 
+> Arnaldo: ``I have four cards with the same number.''
+> Bernaldo: ``I have five red cards.''
+> Cernaldo: ``My five cards all start with the letter V.''
+> Dernaldo: ``I have three cards with one number and two cards with another number.''
+> 
+> It is known that exactly one of the statements is false. Who made the false statement?
+> 
+> (A) Arnaldo \quad (B) Bernaldo \quad (C) Cernaldo \quad (D) Dernaldo \quad (E) It is not possible to determine.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find the missing face number on an icosahedron net*
 
-> The figure below is a net (plan) of an icosahedron (a solid all of whose faces are equilateral triangles). The faces are numbered $1$ to $5$ in such a way that around each vertex of the solid the numbers $1$ to $5$ all appear. What number is on the face marked with ``?''?
-> 
-> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
-
-![[src_obm_2010_n1_f1__Q20.png]]
+> A figura a seguir foi recortada em cartolina e depois dobrada para formar um icosaedro. As faces em branco foram numeradas de modo que ao redor de cada vértice (pontas do sólido) apareçam os números de $1$ a $5$. Qual número está na face com a interrogação?
+>
+> A) $1$ B) $2$ C) $3$ D) $4$ E) $5$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
@@ -762,3 +1113,23 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find the missing face number on an icosahedron net*
+
+> The figure below is a net (plan) of an icosahedron (a solid all of whose faces are equilateral triangles). The faces are numbered $1$ to $5$ in such a way that around each vertex of the solid the numbers $1$ to $5$ all appear. What number is on the face marked with ``?''?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+![[src_obm_2010_n1_f1__Q20.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)

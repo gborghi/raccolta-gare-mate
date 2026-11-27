@@ -125,9 +125,7 @@ level: Olimpiade Polacca Round 3
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Segmenti tradotti di lunghezza totale <1 su una linea, stai lontano dai punti dati*
-
+*Segmenti di lunghezza totale minore di 1 su una retta: ogni insieme di punti si può traslare di un vettore di lunghezza al più π/2 restando discosto dai segmenti dati.*
 > Su una retta è dato un insieme di segmenti la cui lunghezza totale è minore di 1. Dimostrare che ogni insieme di punti sulla retta può essere traslato mediante un vettore di lunghezza non superiore a $\pi/2$, in modo che tutti i punti ottenuti siano distanti dai segmenti dati.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]

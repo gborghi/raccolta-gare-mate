@@ -384,9 +384,7 @@ level: China Mathematical Competition (First Round)
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Spigolo del cubo 2; P1, P2, P3 sugli incircoli di tre facce; minimo e massimo di |P1P2|+|P2P3|+|P3P1|.*
-
+*Cubo di spigolo 2; punti P1, P2, P3 sui cerchi inscritti di tre facce; minimo e massimo di |P1P2|+|P2P3|+|P3P1|.*
 > [Esercizio A, Problema 11] (20 punti) Il lato del cubo $ABCD-EFGH$ misura $2$. Si prenda un punto qualsiasi $P_1$ sull'incirconferenza del quadrato $ABFE$, un punto qualsiasi $P_2$ sull'incirconferenza del quadrato $BCGF$ e un punto qualsiasi $P_3$ sull'incirconferenza del quadrato $EFGH$. Si determinino il minimo e il massimo di $|P_1P_2|+|P_2P_3|+|P_3P_1|$.
 
 ![[src_cn_cmc-first-round_2021__Q11.png]]
@@ -530,9 +528,7 @@ level: China Mathematical Competition (First Round)
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*A1-4: iperbola x^2/a^2 - y^2/b^2=1, retta di inclinazione π/4 passante per un vertice e per il punto (2,3); eccentricità.*
-
+*Iperbole x^2/a^2 − y^2/b^2=1; retta di inclinazione π/4 passante per un vertice e per il punto (2,3); determinare l'eccentricità.*
 > [Compito d'esame A1, Problema 4] Nel sistema di coordinate cartesiane del piano, data l'iperbole $\Gamma:\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}=1\ (a,b>0)$, una retta avente angolo di inclinazione $\dfrac{\pi}{4}$ passa per un vertice di $\Gamma$ e per un altro punto $(2,3)$ appartenente a essa. Allora l'eccentricità di $\Gamma$ è ______.
 
 > [!warning] Estratto da verificare con la fonte.

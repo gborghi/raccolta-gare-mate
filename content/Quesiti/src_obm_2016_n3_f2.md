@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Position 10000 in sequence built by concatenating 1..2^k blocks*
 
-> Consider the sequence of numbers $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ in which we write the numbers from $1$ to $2^1$, then from $1$ to $2^2$, then from $1$ to $2^3$, and so on. Note that each position in this sequence is occupied by exactly one number. For example, the number $5$ appears for the first time at position $8$. Determine which number occupies position $10000$.
+> Considere a sequência de números $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ em que escrevemos os números de $1$ até $1!$, de $1$ até $2!$, de $1$ até $3!$ e assim por diante. Veja que cada posição dessa sequência é ocupada por um número. Por exemplo, na primeira vez que o número $5$ aparece na sequência ele ocupa a posição $8$. Determine qual número ocupa a posição $10000$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -40,14 +40,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Position 10000 in sequence built by concatenating 1..2^k blocks*
+
+> Consider the sequence of numbers $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ in which we write the numbers from $1$ to $2^1$, then from $1$ to $2^2$, then from $1$ to $2^3$, and so on. Note that each position in this sequence is occupied by exactly one number. For example, the number $5$ appears for the first time at position $8$. Determine which number occupies position $10000$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find a+b given a shared root of two polynomials*
 
-> Let $r$ be a root of the equation $x^2 - 12x - 12 = 0$. We know that $r$ is also a root of the equation $x^4 - ax^2 - b = 0$, where $a$ and $b$ are real numbers. Find $a + b$.
+> Seja $r$ uma raiz da equação $x^2 - 12x - 12 = 0$. Sabe-se que $r$ também é raiz da equação $x^4 - ax^3 - b = 0$, sendo $a$ e $b$ racionais positivos. Calcule $a + b$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -70,16 +85,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find a+b given a shared root of two polynomials*
+
+> Let $r$ be a root of the equation $x^2 - 12x - 12 = 0$. We know that $r$ is also a root of the equation $x^4 - ax^2 - b = 0$, where $a$ and $b$ are real numbers. Find $a + b$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find p^q in semicircle geometry with given chord lengths and coprime ratio*
 
-> In the figure below, $AB = 4$, $BD = 8$, $CB = BE = 2$, and $AGD$ is a semicircle of diameter $AD$. Given that $AG/GD = p/q$, where $p$ and $q$ are positive integers that are mutually prime, find $p^q$.
-
-![[src_obm_2016_n3_f2__Q03.png]]
+> Na figura abaixo, $AB = 4$, $BD = 8$, $CB = BE = 2$ e $AGD$ é um semicírculo de diâmetro $AD$. Sendo $AG/GD = p/q$, com $p$ e $q$ inteiros positivos primos entre si, calcule $p^q$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -104,14 +132,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find p^q in semicircle geometry with given chord lengths and coprime ratio*
+
+> In the figure below, $AB = 4$, $BD = 8$, $CB = BE = 2$, and $AGD$ is a semicircle of diameter $AD$. Given that $AG/GD = p/q$, where $p$ and $q$ are positive integers that are mutually prime, find $p^q$.
+
+![[src_obm_2016_n3_f2__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest perimeter shared by two non-congruent integer-sided right triangles*
 
-> Determine the smallest positive integer $n$ such that there exist two non-congruent right triangles with integer side lengths and perimeter $n$.
+> Determine o menor inteiro positivo $n$ tal que existem dois triângulos retângulos não congruentes com lados de medida inteira e perímetro $n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -134,15 +179,29 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest perimeter shared by two non-congruent integer-sided right triangles*
+
+> Determine the smallest positive integer $n$ such that there exist two non-congruent right triangles with integer side lengths and perimeter $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum number of positive divisors of P(n) for degree-10 integer-root polynomial*
 
-> The roots of a polynomial $P$ of degree $10$, with integer coefficients, are all integers and distinct. Determine the minimum number of positive divisors that every non-zero value $P(n)$, for $n$ an integer, must have.
+> As raízes de um polinômio $P$, de coeficientes inteiros e grau $10$, são todas inteiras e distintas. Então todo valor não nulo de $P(n)$, $n$ inteiro, tem no mínimo quantos divisores positivos?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
@@ -165,16 +224,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum number of positive divisors of P(n) for degree-10 integer-root polynomial*
+
+> The roots of a polynomial $P$ of degree $10$, with integer coefficients, are all integers and distinct. Determine the minimum number of positive divisors that every non-zero value $P(n)$, for $n$ an integer, must have.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Tiling m x n board with 4-square and 3-square pieces; minimize m×n*
 
-> The figure below shows two types of pieces: Type 1, with $4$ squares, and Type 2, with $3$ squares. A board with $m$ rows and $n$ columns is tiled, without overlapping, by pieces of Type 1 with the exception of $3$ squares. The same board is also tiled, without overlapping, by pieces of Type 2 with the exception of $2$ squares. The pieces may be rotated but cannot extend outside the board. What is the smallest possible value of the product $m \times n$?
-
-![[src_obm_2016_n3_f2__Q06.png]]
+> A figura a seguir apresenta peças de dois tipos: o Tipo 1, com $4$ quadradinhos, e o Tipo 2, com $3$ quadradinhos. Um tabuleiro com $m$ linhas e $n$ colunas foi coberto, sem sobreposição, com peças do Tipo 1 com a exceção de $3$ quadradinhos. Então, o mesmo tabuleiro foi coberto, também sem sobreposição, com peças do Tipo 2 com exceção de $2$ quadradinhos. As peças podem ser giradas, mas não podem sair do tabuleiro. Qual é o menor valor possível para o produto $m \cdot n$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -199,14 +271,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Tiling m x n board with 4-square and 3-square pieces; minimize m×n*
+
+> The figure below shows two types of pieces: Type 1, with $4$ squares, and Type 2, with $3$ squares. A board with $m$ rows and $n$ columns is tiled, without overlapping, by pieces of Type 1 with the exception of $3$ squares. The same board is also tiled, without overlapping, by pieces of Type 2 with the exception of $2$ squares. The pieces may be rotated but cannot extend outside the board. What is the smallest possible value of the product $m \times n$?
+
+![[src_obm_2016_n3_f2__Q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_casework,method_doppio_conteggio,skill_casework_accurato,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count brown cells in 7x7 coloring with row-red and column-blue majority constraints*
 
-> Janaína wants to paint the cells of a $7 \times 7$ board red, blue, or brown in the following way: in each row, the number of red cells cannot be less than the number of cells of each of the other colors; in each column, the number of blue cells cannot be less than the number of cells of each of the other colors. How many cells will be painted brown?
+> Janaína quer pintar as casas de um tabuleiro $7 \times 7$ de vermelho, azul ou de marrom, da seguinte maneira: em cada linha, o número de casas vermelhas não pode ser menor que o número de casas com cada uma das outras cores e, em cada coluna, o número de casas azuis não pode ser menor que o número de casas com cada uma das outras cores. Quantas casas serão pintadas de marrom?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -229,14 +318,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count brown cells in 7x7 coloring with row-red and column-blue majority constraints*
+
+> Janaína wants to paint the cells of a $7 \times 7$ board red, blue, or brown in the following way: in each row, the number of red cells cannot be less than the number of cells of each of the other colors; in each column, the number of blue cells cannot be less than the number of cells of each of the other colors. How many cells will be painted brown?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum angle BAC when G is centroid and two circles are tangent to a common line*
 
-> Two circles $\Gamma$ and $\Omega$ intersect at points $A$ and $G$. A line $t$ is tangent to $\Gamma$ at $B$ and to $\Omega$ at $C$. The line $AG$ extended meets $t$ at $E$, with $C$ between $B$ and $E$. $G$ is the centroid of triangle $ABC$. What is the maximum possible value of the angle $\widehat{BAC}$?
+> Dois círculos $\Gamma$ e $\Omega$ se cortam em $A$ e $G$. A reta $t$ tangencia $\Gamma$ em $B$ e $\Omega$ em $C$. Se $G$ é o baricentro de $ABC$, qual é o maior valor possível do ângulo $\widehat{BAC}$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
@@ -259,14 +363,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum angle BAC when G is centroid and two circles are tangent to a common line*
+
+> Two circles $\Gamma$ and $\Omega$ intersect at points $A$ and $G$. A line $t$ is tangent to $\Gamma$ at $B$ and to $\Omega$ at $C$. The line $AG$ extended meets $t$ at $E$, with $C$ between $B$ and $E$. $G$ is the centroid of triangle $ABC$. What is the maximum possible value of the angle $\widehat{BAC}$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_fattorizzazione,method_congruenze,method_conteggio,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Trailing zeros of the q-binomial coefficient C(2016,38)_q as a polynomial in q*
 
-> In combinatorics, there exist $q$-analogs of combinatorial counts; basically, we replace $n$ by $[n]_q$, where $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. The $q$-factorial is $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdot(1+q+q^2)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Given that $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, with how many zeros does the $q$-binomial $\dbinom{2016}{38}_q$ end (as a polynomial in $q$)?
+> Em Combinatória, existem os $q$-análogos de contas combinatórias; basicamente, trocamos $n$ por $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. Por exemplo, o $q$-fatorial é $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Sendo $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, com quantos zeros termina o $q$-binomial $\dbinom{2016}{38}_q$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
@@ -286,3 +405,18 @@ level: OBM Nível 3
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trailing zeros of the q-binomial coefficient C(2016,38)_q as a polynomial in q*
+
+> In combinatorics, there exist $q$-analogs of combinatorial counts; basically, we replace $n$ by $[n]_q$, where $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. The $q$-factorial is $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdot(1+q+q^2)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Given that $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, with how many zeros does the $q$-binomial $\dbinom{2016}{38}_q$ end (as a polynomial in $q$)?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)

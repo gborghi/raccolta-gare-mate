@@ -228,9 +228,7 @@ level: China Girls' Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Le prove delle operazioni di inserimento delle palle nelle scatole danno sempre una palla per scatola*
-
+*Dimostrare che, con le operazioni ammesse di spostamento delle palline tra n scatole, si può sempre arrivare a una pallina per scatola.*
 > Supponiamo che $n$ piccole palline siano state messe in $n$ scatole numerate $B_1, B_2, \ldots, B_n$. Ogni volta possiamo scegliere una scatola $B_k$ e compiere le seguenti operazioni: (1) Se $k = 1$ e c'è almeno una pallina in $B_1$, spostare una pallina da $B_1$ in $B_2$. (2) Se $k = n$ e c'è almeno una pallina in $B_n$, spostare una pallina da $B_n$ in $B_{n-1}$. (3) Se $2 \le k \le n-1$ e ci sono almeno due palline in $B_k$, spostare una pallina da $B_k$ in $B_{k-1}$ e una pallina in $B_{k+1}$. Dimostrare quanto segue: indipendentemente da come le palline siano distribuite inizialmente tra le scatole, è sempre possibile, mediante un numero finito di operazioni, far sì che ogni scatola contenga esattamente una pallina. (proposto da Wang Xinmao)
 
 

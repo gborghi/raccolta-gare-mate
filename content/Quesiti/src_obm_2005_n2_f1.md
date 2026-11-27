@@ -12,17 +12,22 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Equivalent percentage discount of a buy-one-get-one-half-price offer*
 
-> A soap store runs a promotion with the slogan "Buy one and take another at half price". Another promotion the store could make offering the same percentage discount is:
-> A) "Take two and pay one"
-> B) "Take three and pay one"
-> C) "Take three and pay two"
-> D) "Take four and pay three"
-> E) "Take five and pay four"
+> Uma loja de sabonetes realiza uma promoção com o anúncio "Compre um e leve outro pela metade do preço”. Outra promoção que a loja poderia fazer oferecendo o mesmo desconto percentual é
+>
+> A) "Leve dois e pague um”
+>
+> B) "Leve três e pague um”
+>
+> C) "Leve três e pague dois”
+>
+> D) "Leve quatro e pague três”
+>
+> E) "Leve cinco e pague quatro”
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Case analysis]]
@@ -51,16 +56,37 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Equivalent percentage discount of a buy-one-get-one-half-price offer*
+
+> A soap store runs a promotion with the slogan "Buy one and take another at half price". Another promotion the store could make offering the same percentage discount is:
+> A) "Take two and pay one"
+> B) "Take three and pay one"
+> C) "Take three and pay two"
+> D) "Take four and pay three"
+> E) "Take five and pay four"
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Film of 70% transparency over glass of 90%: total reduction of radiation*
 
-> $Insulfilm$ films are used on building windows and vehicle glass to reduce solar radiation. The films are classified according to their degree of transparency, that is, the percentage of solar radiation they let through. Placing a film of $70\%$ transparency over a glass with $90\%$ transparency, one obtains a $\textbf{reduction}$ of solar radiation equal to:
-> A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
+> Películas de insulfilm são utilizadas em janelas de edifícios e vidros de veículos para reduzir a radiação solar. As películas são classificadas de acordo com seu grau de transparência, ou seja, com o percentual da radiação solar que ela deixa passar. Colocando-se uma película de $70\%$ de transparência sobre um vidro com $90\%$ de transparência, obtém-se uma redução de radiação solar igual a:
+>
+> A) $3\%$ 	B) $37\%$ 	C) $40\%$ 	D) $63\%$ 	E) $160\%$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -83,17 +109,34 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Film of 70% transparency over glass of 90%: total reduction of radiation*
+
+> $Insulfilm$ films are used on building windows and vehicle glass to reduce solar radiation. The films are classified according to their degree of transparency, that is, the percentage of solar radiation they let through. Placing a film of $70\%$ transparency over a glass with $90\%$ transparency, one obtains a $\textbf{reduction}$ of solar radiation equal to:
+> A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Six identical rectangles form a larger rectangle of height 21 cm; find area*
 
-> Six identical rectangles are joined to form a larger rectangle as indicated in the figure. What is the area of this larger rectangle? (The vertical side of the larger rectangle measures $21\,\text{cm}$.)
-> A) $210\,\text{cm}^2$ \quad B) $280\,\text{cm}^2$ \quad C) $430\,\text{cm}^2$ \quad D) $504\,\text{cm}^2$ \quad E) $588\,\text{cm}^2$
-
-![[src_obm_2005_n2_f1__Q03.png]]
+> Seis retângulos idênticos são reunidos para formar um retângulo maior conforme indicado na figura. Qual é a área deste retângulo maior?
+>
+> $21\,\text{cm}$
+>
+> A) $210\,\text{cm}^2$ 	B) $280\,\text{cm}^2$ 	C) $430\,\text{cm}^2$ 	D) $504\,\text{cm}^2$ 	E) $588\,\text{cm}^2$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -120,16 +163,35 @@ level: OBM Nível 2
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Six identical rectangles form a larger rectangle of height 21 cm; find area*
+
+> Six identical rectangles are joined to form a larger rectangle as indicated in the figure. What is the area of this larger rectangle? (The vertical side of the larger rectangle measures $21\,\text{cm}$.)
+> A) $210\,\text{cm}^2$ \quad B) $280\,\text{cm}^2$ \quad C) $430\,\text{cm}^2$ \quad D) $504\,\text{cm}^2$ \quad E) $588\,\text{cm}^2$
+
+![[src_obm_2005_n2_f1__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Difference between a billion as a million-of-millions vs a thousand-of-millions*
 
-> When asked, Arnaldo says that $1$ billion is the same as one million millions. Professor Piraldo corrected him and said that $1$ billion is the same as a thousand millions. What is the difference between these two answers?
-> A) $1\,000$ \quad B) $999\,000$ \quad C) $1\,000\,000$ \quad D) $999\,000\,000$ \quad E) $999\,000\,000\,000$
+> Perguntado, Arnaldo diz que $1$ bilhão é o mesmo que um milhão de milhões. Professor Piraldo o corrigiu e disse que $1$ bilhão é o mesmo que mil milhões. Qual é a diferença entre essas duas respostas?
+>
+> A) $1\,000$ 	B) $999\,000$ 	C) $1\,000\,000$ 	D) $999\,000\,000$ 	E) $999\,000\,000\,000$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
@@ -152,15 +214,32 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Difference between a billion as a million-of-millions vs a thousand-of-millions*
+
+> When asked, Arnaldo says that $1$ billion is the same as one million millions. Professor Piraldo corrected him and said that $1$ billion is the same as a thousand millions. What is the difference between these two answers?
+> A) $1\,000$ \quad B) $999\,000$ \quad C) $1\,000\,000$ \quad D) $999\,000\,000$ \quad E) $999\,000\,000\,000$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *600-page book printed blank on pages whose number is a multiple of 3 or 4; count printed pages*
 
-> Due to a printing defect, a $600$-page book has blank all the pages whose numbers are multiples of $3$ or of $4$. How many pages are printed?
-> A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
+> Devido a um defeito de impressão, um livro de $600$ páginas apresenta em branco todas as páginas cujos números são múltiplos de $3$ ou de $4$. Quantas páginas estão impressas?
+>
+> A) $100$ 	B) $150$ 	C) $250$ 	D) $300$ 	E) $430$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
@@ -185,20 +264,41 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*600-page book printed blank on pages whose number is a multiple of 3 or 4; count printed pages*
+
+> Due to a printing defect, a $600$-page book has blank all the pages whose numbers are multiples of $3$ or of $4$. How many pages are printed?
+> A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_aritmetica,skill_stima,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Volume of all platinum produced in 50 years (density 21.45 g/cm3, 110 t/year); closest object*
 
-> Platinum is a very rare metal, even rarer than gold. Its density is $21.45\,\text{g/cm}^3$. Suppose that the world production of platinum was about $110$ tonnes in each of the last $50$ years, and negligible before that. Indicate the alternative with the object whose volume is closest to the volume of platinum produced in the world in all of history.
-> A) a shoe box
-> B) a swimming pool
-> C) a ten-storey building
-> D) Mount Pascoal
-> E) the Moon
+> Platina é um metal muito raro, mais raro até do que ouro. Sua densidade é $21{,}45\,\text{g/cm}^3$. Suponha que a produção mundial de platina foi de cerca de $110$ toneladas em cada um dos últimos $50$ anos e desprezível antes disso. Assinale a alternativa com o objeto cujo volume é mais próximo do volume de platina produzido no mundo em toda a história.
+>
+> A) uma caixa de sapatos
+>
+> B) uma piscina
+>
+> C) um edifício de dez andares
+>
+> D) o monte Pascoal
+>
+> E) a Lua
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
@@ -225,15 +325,36 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Volume of all platinum produced in 50 years (density 21.45 g/cm3, 110 t/year); closest object*
+
+> Platinum is a very rare metal, even rarer than gold. Its density is $21.45\,\text{g/cm}^3$. Suppose that the world production of platinum was about $110$ tonnes in each of the last $50$ years, and negligible before that. Indicate the alternative with the object whose volume is closest to the volume of platinum produced in the world in all of history.
+> A) a shoe box
+> B) a swimming pool
+> C) a ten-storey building
+> D) Mount Pascoal
+> E) the Moon
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sequence where each term from the third is the sum of the two preceding; given 2nd=1, 5th=2005, find 6th*
 
-> In a sequence, each term, starting from the third, is the sum of the two nearest preceding terms. The second term equals $1$ and the fifth term equals $2005$. What is the sixth term?
-> A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
+> Numa seqüência, cada termo, a partir do terceiro, é a soma dos dois termos anteriores mais próximos. O segundo termo é igual a $1$ e o quinto termo vale $2005$. Qual é o sexto termo?
+>
+> A) $3\,002$ 	B) $3\,008$ 	C) $3\,010$ 	D) $4\,002$ 	E) $5\,004$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
@@ -258,18 +379,33 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence where each term from the third is the sum of the two preceding; given 2nd=1, 5th=2005, find 6th*
+
+> In a sequence, each term, starting from the third, is the sum of the two nearest preceding terms. The second term equals $1$ and the fifth term equals $2005$. What is the sixth term?
+> A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_logica,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Balance puzzle: equal-shaped figures have equal mass; how many squares balance the last scale*
 
-> Figures with the same shape represent objects of the same mass. How many squares are needed for the last balance to be in equilibrium?
-> A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
-
-![[src_obm_2005_n2_f1__Q08.png]]
+> Figuras com mesma forma representam objetos de mesma massa. Quantos quadrados são necessários para que a última balança fique em equilíbrio?
+>
+> A) $7$ 	B) $8$ 	C) $9$ 	D) $10$ 	E) $12$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -295,14 +431,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Balance puzzle: equal-shaped figures have equal mass; how many squares balance the last scale*
+
+> Figures with the same shape represent objects of the same mass. How many squares are needed for the last balance to be in equilibrium?
+> A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
+
+![[src_obm_2005_n2_f1__Q08.png]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Thirteen nonzero reals, more positive than negative; 22 of the 78 pairwise products are negative; how many are negative*
 
-> Among thirteen nonzero reals there are more positive numbers than negative ones. Among the $\dfrac{13\times 12}{2}=78$ products of two of the thirteen numbers, $22$ are negative. How many of the thirteen given numbers are negative?
+> Entre treze reais não nulos há mais números positivos do que negativos. Dentre os $\dfrac{13\times 12}{2}=78$ produtos de dois dos treze números, $22$ são negativos. Quantos números dentre os treze números dados são negativos?
+>
 > A) $2$ \quad B) $7$ \quad C) $8$ \quad D) $9$ \quad E) $10$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -328,18 +483,33 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Thirteen nonzero reals, more positive than negative; 22 of the 78 pairwise products are negative; how many are negative*
+
+> Among thirteen nonzero reals there are more positive numbers than negative ones. Among the $\dfrac{13\times 12}{2}=78$ products of two of the thirteen numbers, $22$ are negative. How many of the thirteen given numbers are negative?
+> A) $2$ \quad B) $7$ \quad C) $8$ \quad D) $9$ \quad E) $10$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Folded cardboard net forms a rectangular box; find its volume*
 
-> The drawing alongside shows a piece of cardboard that will be folded and glued along the edges to form a rectangular box. The angles at the corners of the cardboard are all right angles. What will be the volume of the box, in $\text{cm}^3$?
+> O desenho ao lado mostra um pedaço de papelão que será dobrado e colado nas bordas para formar uma caixa retangular. Os ângulos nos cantos do papelão são todos retos. Qual será o volume da caixa em $\text{cm}^3$?
+>
 > A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
-
-![[src_obm_2005_n2_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -364,19 +534,36 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Folded cardboard net forms a rectangular box; find its volume*
+
+> The drawing alongside shows a piece of cardboard that will be folded and glued along the edges to form a rectangular box. The angles at the corners of the cardboard are all right angles. What will be the volume of the box, in $\text{cm}^3$?
+> A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
+
+![[src_obm_2005_n2_f1__Q10.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *When is addition distributive over multiplication: a+(b×c)=(a+b)×(a+c)*
 
-> Let $a$, $b$ and $c$ be real numbers. By the distributive property of multiplication with respect to addition, it is true that $a\times(b+c)=(a\times b)+(a\times c)$. The distributivity of addition with respect to multiplication, that is, $a+(b\times c)=(a+b)\times(a+c)$, is not always true, but it holds if and only if:
-> A) $a=b=c=\dfrac{1}{3}$ or $a=0$
-> B) $a=b=c$
-> C) The equality never occurs
-> D) $a+b+c=1$ or $a=0$
-> E) $a+b+c=0$
+> Sendo $a$, $b$ e $c$ números reais, pela propriedade distributiva da multiplicação em relação à adição, é verdade que $a\times(b+c)=(a\times b)+(a\times c)$. A distributiva da adição em relação à multiplicação $a+(b\times c)=(a+b)\times(a+c)$ não é sempre verdadeira, mas ocorre se, e somente se,
+>
+> A) $a=b=c=\dfrac{1}{3}$ ou $a=0$ \quad B) $a=b=c$
+>
+> C) A igualdade nunca ocorre \quad D) $a+b+c=1$ ou $a=0$ \quad E) $a=b=c=0$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
@@ -405,16 +592,37 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*When is addition distributive over multiplication: a+(b×c)=(a+b)×(a+c)*
+
+> Let $a$, $b$ and $c$ be real numbers. By the distributive property of multiplication with respect to addition, it is true that $a\times(b+c)=(a\times b)+(a\times c)$. The distributivity of addition with respect to multiplication, that is, $a+(b\times c)=(a+b)\times(a+c)$, is not always true, but it holds if and only if:
+> A) $a=b=c=\dfrac{1}{3}$ or $a=0$
+> B) $a=b=c$
+> C) The equality never occurs
+> D) $a+b+c=1$ or $a=0$
+> E) $a+b+c=0$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Paulistas/Baianos cross-claims of origin; among all, 20% claim Paulista; find true % of Paulistas*
 
-> In a certain city an interesting fact happens. Ten percent of the Baianos say they are Paulistas and ten percent of the Paulistas say they are Baianos. All the other Paulistas and Baianos assume their true origin. Among the Paulistas and Baianos, $20\%$ say they are Paulistas. What percentage do the real Paulistas represent among the Paulistas and Baianos?
-> A) $12.5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22.5\%$
+> Em certa cidade, acontece um fato interessante. Dez por cento dos Baianos dizem que são Paulistas e dez por cento dos Paulistas dizem que são Baianos. Todos os outros Paulistas e Baianos assumem a sua verdadeira origem. Dentre os Paulistas e Baianos, $20\%$ dizem que são Paulistas. Que percentual os realmente Paulistas representam dentre os Paulistas e Baianos?
+>
+> A) $12{,}5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22{,}5\%$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -439,17 +647,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Paulistas/Baianos cross-claims of origin; among all, 20% claim Paulista; find true % of Paulistas*
+
+> In a certain city an interesting fact happens. Ten percent of the Baianos say they are Paulistas and ten percent of the Paulistas say they are Baianos. All the other Paulistas and Baianos assume their true origin. Among the Paulistas and Baianos, $20\%$ say they are Paulistas. What percentage do the real Paulistas represent among the Paulistas and Baianos?
+> A) $12.5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22.5\%$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two equilateral triangles standing on a line with base angles 75 and 65; find top angle x*
 
-> In the figure, the two triangles are equilateral. What is the value of the angle $x$? (The triangles stand on a horizontal line, making angles of $75^\circ$ and $65^\circ$ with it; $x$ is the angle at their intersection at the top.)
+> Na figura, os dois triângulos são eqüiláteros. Qual é o valor do ângulo $x$?
+>
 > A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
-
-![[src_obm_2005_n2_f1__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -474,14 +698,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two equilateral triangles standing on a line with base angles 75 and 65; find top angle x*
+
+> In the figure, the two triangles are equilateral. What is the value of the angle $x$? (The triangles stand on a horizontal line, making angles of $75^\circ$ and $65^\circ$ with it; $x$ is the angle at their intersection at the top.)
+> A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
+
+![[src_obm_2005_n2_f1__Q13.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Integers O,B,M with three product/sum equations; find O+B+M*
 
-> The letters $O$, $B$ and $M$ represent integers. If $O\times B\times M=240$, $O\times B+M=46$ and $O+B\times M=64$, what is the value of $O+B+M$?
+> As letras $O$, $B$ e $M$ representam números inteiros. Se $O\times B\times M=240$, $O\times B+M=46$ e $O+B\times M=64$, quanto vale $O+B+M$?
+>
 > A) $19$ \quad B) $20$ \quad C) $21$ \quad D) $24$ \quad E) $36$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -507,17 +750,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integers O,B,M with three product/sum equations; find O+B+M*
+
+> The letters $O$, $B$ and $M$ represent integers. If $O\times B\times M=240$, $O\times B+M=46$ and $O+B\times M=64$, what is the value of $O+B+M$?
+> A) $19$ \quad B) $20$ \quad C) $21$ \quad D) $24$ \quad E) $36$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Locksmith welds equal S-shaped pieces (10,5,5,10 cm) using 20 m of rod; which drawing is the panel's end*
 
-> A locksmith welds metal rods to produce equal pieces that will be joined to form the panel below. The drawing alongside shows the measurements, in centimetres, of one of these pieces (an S/zig-zag shape with segments $10$, $5$, $5$, $10$). The locksmith uses exactly $20$ metres of rod to do his work. Which of the drawings below represents the end of the panel?
-> (Options A-E are drawings.)
-
-![[src_obm_2005_n2_f1__Q15.png]]
+> Um serralheiro solda varetas de metal para produzir peças iguais que serão juntadas para formar o painel abaixo. O desenho ao lado apresenta as medidas, em centímetros, de uma dessas peças. O serralheiro usa exatamente $20$ metros de vareta para fazer o seu trabalho. Qual dos desenhos abaixo representa o final do painel?
+>
+> A) B) C)
+>
+> D) E)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -542,14 +803,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Locksmith welds equal S-shaped pieces (10,5,5,10 cm) using 20 m of rod; which drawing is the panel's end*
+
+> A locksmith welds metal rods to produce equal pieces that will be joined to form the panel below. The drawing alongside shows the measurements, in centimetres, of one of these pieces (an S/zig-zag shape with segments $10$, $5$, $5$, $10$). The locksmith uses exactly $20$ metres of rod to do his work. Which of the drawings below represents the end of the panel?
+> (Options A-E are drawings.)
+
+![[src_obm_2005_n2_f1__Q15.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum number of months in a year that can have five Sundays*
 
-> In one year, at most how many months have five Sundays?
+> Em um ano, no máximo quantos meses têm cinco domingos?
+>
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -575,15 +855,31 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum number of months in a year that can have five Sundays*
+
+> In one year, at most how many months have five Sundays?
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count numbers between 10 and 13000 made of consecutive digits in increasing order*
 
-> How many numbers between $10$ and $13000$, when read from left to right, are formed by consecutive digits in increasing order? For example, $456$ is one such number, but $7890$ is not.
+> Quantos números entre $10$ e $13000$, quando lidos da esquerda para a direita, são formados por dígitos consecutivos e em ordem crescente? Exemplificando, $456$ é um desses números, mas $7890$ não é:
 > A) $10$ \quad B) $13$ \quad C) $18$ \quad D) $22$ \quad E) $25$
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -608,20 +904,35 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count numbers between 10 and 13000 made of consecutive digits in increasing order*
+
+> How many numbers between $10$ and $13000$, when read from left to right, are formed by consecutive digits in increasing order? For example, $456$ is one such number, but $7890$ is not.
+> A) $10$ \quad B) $13$ \quad C) $18$ \quad D) $22$ \quad E) $25$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,method_casework,skill_stima,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rally driver: legs 240,300,400 km at speeds 40,75,80 km/h in unknown order; guaranteed total time*
 
-> A driver covered three legs of a rally, of lengths $240\,\text{km}$, $300\,\text{km}$ and $400\,\text{km}$, respectively. The average speeds on the three legs were $40\,\text{km/h}$, $75\,\text{km/h}$ and $80\,\text{km/h}$, but not necessarily in this order. We can guarantee that the total time, in hours, spent by the driver on the three legs is:
-> A) less than or equal to $13$ hours
-> B) greater than or equal to $13$ hours and less than or equal to $16$ hours
-> C) greater than or equal to $14$ hours and less than or equal to $17$ hours
-> D) greater than or equal to $15$ hours and less than or equal to $18$ hours
-> E) greater than or equal to $18$ hours
+> Um piloto percorreu três trechos de um rali, de extensões $240\,\text{km}$, $300\,\text{km}$ e $400\,\text{km}$, respectivamente. As velocidades médias nos três trechos foram $40\,\text{km/h}$, $75\,\text{km/h}$ e $80\,\text{km/h}$, mas não necessariamente nessa ordem. Podemos garantir que o tempo total em horas gasto pelo piloto nos três trechos é
+> A) menor ou igual a $13$ horas
+> B) maior ou igual a $13$ horas e menor ou igual a $16$ horas
+> C) maior ou igual a $14$ horas e menor ou igual a $17$ horas
+> D) maior ou igual a $15$ horas e menor ou igual a $18$ horas
+> E) maior ou igual a $18$ horas
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -650,18 +961,36 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rally driver: legs 240,300,400 km at speeds 40,75,80 km/h in unknown order; guaranteed total time*
+
+> A driver covered three legs of a rally, of lengths $240\,\text{km}$, $300\,\text{km}$ and $400\,\text{km}$, respectively. The average speeds on the three legs were $40\,\text{km/h}$, $75\,\text{km/h}$ and $80\,\text{km/h}$, but not necessarily in this order. We can guarantee that the total time, in hours, spent by the driver on the three legs is:
+> A) less than or equal to $13$ hours
+> B) greater than or equal to $13$ hours and less than or equal to $16$ hours
+> C) greater than or equal to $14$ hours and less than or equal to $17$ hours
+> D) greater than or equal to $15$ hours and less than or equal to $18$ hours
+> E) greater than or equal to $18$ hours
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smaller circles of equal radius r, centres at vertices of a square, inside larger circle; ratio of grey areas a/b*
 
-> In the figure, all the smaller circles have the same radius $r$ and the centres of the circles that touch the larger circle are the vertices of a square. Let $a$ and $b$ be the grey areas indicated in the figure. Then the ratio $\dfrac{a}{b}$ equals:
+> Na figura, todas as circunferências menores têm o mesmo raio $r$ e os centros das circunferências que tocam a circunferência maior são vértices de um quadrado. Sejam $a$ e $b$ as áreas cinzas indicadas na figura. Então a razão $\dfrac{a}{b}$ é igual a:
 > A) $\dfrac{1}{2}$ \quad B) $\dfrac{2}{3}$ \quad C) $1$ \quad D) $\dfrac{3}{2}$ \quad E) $2$
-
-![[src_obm_2005_n2_f1__Q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -688,15 +1017,33 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smaller circles of equal radius r, centres at vertices of a square, inside larger circle; ratio of grey areas a/b*
+
+> In the figure, all the smaller circles have the same radius $r$ and the centres of the circles that touch the larger circle are the vertices of a square. Let $a$ and $b$ be the grey areas indicated in the figure. Then the ratio $\dfrac{a}{b}$ equals:
+> A) $\dfrac{1}{2}$ \quad B) $\dfrac{2}{3}$ \quad C) $1$ \quad D) $\dfrac{3}{2}$ \quad E) $2$
+
+![[src_obm_2005_n2_f1__Q19.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_logica,method_cassetti,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Class of 9 students, >=1 Brazilian; any 4 share a nationality, any 5 have <=3 of one; how many Brazilians*
 
-> An English teacher gives private lessons to a class of $9$ students, at least one of whom is Brazilian. If the teacher chooses $4$ students to do a presentation, the group will have at least two students of the same nationality; if he chooses $5$ students, he will have at most three students of the same nationality. How many Brazilians are there in the class?
+> Um professor de Inglês dá aula particular para uma classe de $9$ alunos, dos quais pelo menos um é brasileiro. Se o professor escolher $4$ alunos para fazer uma apresentação, terá no grupo pelo menos dois alunos de mesma nacionalidade; se escolher $5$ alunos, terá no máximo três alunos de mesma nacionalidade. Quantos brasileiros existem na classe?
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
@@ -722,14 +1069,31 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Class of 9 students, >=1 Brazilian; any 4 share a nationality, any 5 have <=3 of one; how many Brazilians*
+
+> An English teacher gives private lessons to a class of $9$ students, at least one of whom is Brazilian. If the teacher chooses $4$ students to do a presentation, the group will have at least two students of the same nationality; if he chooses $5$ students, he will have at most three students of the same nationality. How many Brazilians are there in the class?
+> A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Clock makes a plim each time a hand overtakes another; count plins between 12h00m01s and 23h59m59s*
 
-> A clock, with hour, minute and second hands, makes a $plim$ every time one hand overtakes another on the dial. The number of $plins$ registered in a certain day, in the period between $12$ hours and $1$ second and $23$ hours, $59$ minutes and $59$ seconds, is:
+> Um relógio, com ponteiros de horas, minutos e segundos, faz plim toda vez que um ponteiro ultrapassa outro no mostrador. O número de plins registrados em um certo dia, no período entre as $12$ horas e $1$ segundo e as $23$ horas, $59$ minutos e $59$ segundos é:
 > A) $732$ \quad B) $1438$ \quad C) $1440$ \quad D) $1446$ \quad E) $1452$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -755,18 +1119,32 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Clock makes a plim each time a hand overtakes another; count plins between 12h00m01s and 23h59m59s*
+
+> A clock, with hour, minute and second hands, makes a $plim$ every time one hand overtakes another on the dial. The number of $plins$ registered in a certain day, in the period between $12$ hours and $1$ second and $23$ hours, $59$ minutes and $59$ seconds, is:
+> A) $732$ \quad B) $1438$ \quad C) $1440$ \quad D) $1446$ \quad E) $1452$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Line PQ tangent at N to circle through L,M,N; LM meets PQ at R; LM=LN, angle PNL=alpha<60; find angle LRP*
 
-> In the figure, the line $PQ$ touches at $N$ the circle that passes through $L$, $M$ and $N$. The line $LM$ cuts the line $PQ$ at $R$. If $LM=LN$ and the measure of the angle $PNL$ is $\alpha$, $\alpha<60^\circ$, what is the measure of the angle $LRP$?
+> Na figura, a reta $PQ$ toca em $N$ o círculo que passa por $L$, $M$ e $N$. A reta $LM$ corta a reta $PQ$ em $R$. Se $LM=LN$ e a medida do ângulo $PNL$ é $\alpha$, $\alpha<60^\circ$, quanto mede o ângulo $LRP$?
 > A) $3\alpha-180^\circ$ \quad B) $180^\circ-2\alpha$ \quad C) $180^\circ-\alpha$ \quad D) $90^\circ-\alpha/2$ \quad E) $\alpha$
-
-![[src_obm_2005_n2_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -791,16 +1169,34 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Line PQ tangent at N to circle through L,M,N; LM meets PQ at R; LM=LN, angle PNL=alpha<60; find angle LRP*
+
+> In the figure, the line $PQ$ touches at $N$ the circle that passes through $L$, $M$ and $N$. The line $LM$ cuts the line $PQ$ at $R$. If $LM=LN$ and the measure of the angle $PNL$ is $\alpha$, $\alpha<60^\circ$, what is the measure of the angle $LRP$?
+> A) $3\alpha-180^\circ$ \quad B) $180^\circ-2\alpha$ \quad C) $180^\circ-\alpha$ \quad D) $90^\circ-\alpha/2$ \quad E) $\alpha$
+
+![[src_obm_2005_n2_f1__Q22.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Positive integers x,y satisfying a nested-radical equation; find a possible value of y*
 
-> The positive integers $x$ and $y$ satisfy the equation
+> Os inteiros positivos $x$ e $y$ satisfazem a equação
 > $$\sqrt{x+\tfrac{1}{2}\sqrt{y}}-\sqrt{x-\tfrac{1}{2}\sqrt{y}}=1.$$
-> Which of the alternatives presents a possible value of $y$?
+> Qual das alternativas apresenta um possível valor de $y$?
 > A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
@@ -828,18 +1224,34 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Positive integers x,y satisfying a nested-radical equation; find a possible value of y*
+
+> The positive integers $x$ and $y$ satisfy the equation
+> $$\sqrt{x+\tfrac{1}{2}\sqrt{y}}-\sqrt{x-\tfrac{1}{2}\sqrt{y}}=1.$$
+> Which of the alternatives presents a possible value of $y$?
+> A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_logica,method_casework,method_grafi,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Place chosen numbers from 1..10 in white circles so neighbours sum to a perfect square; 2 given; find total sum*
 
-> Among the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ and $10$, choose some and place them in the white circles so that the sum of the numbers in two neighbouring circles is always a perfect square. Note: the $2$ has already been placed in one of the circles, and repeated numbers are not allowed; moreover, circles separated by the black rectangle are not neighbours. The sum of the numbers placed in all the white circles is:
+> Dentre os números $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$ e $10$, escolha alguns e coloque-os nos círculos brancos de tal forma que a soma dos números em dois círculos vizinhos seja sempre um quadrado perfeito. Atenção: o $2$ já foi colocado em um dos círculos e não é permitido colocar números repetidos; além disso, círculos separados pelo retângulo preto não são vizinhos. A soma dos números colocados em todos os círculos brancos é:
 > A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
-
-![[src_obm_2005_n2_f1__Q24.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]]
@@ -865,17 +1277,34 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Place chosen numbers from 1..10 in white circles so neighbours sum to a perfect square; 2 given; find total sum*
+
+> Among the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ and $10$, choose some and place them in the white circles so that the sum of the numbers in two neighbouring circles is always a perfect square. Note: the $2$ has already been placed in one of the circles, and repeated numbers are not allowed; moreover, circles separated by the black rectangle are not neighbours. The sum of the numbers placed in all the white circles is:
+> A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
+
+![[src_obm_2005_n2_f1__Q24.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_invarianti,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *1x2x3 block rolled on an 8x8 board with faces X,Y,Z turned down in order; how many distinct cells touched*
 
-> A block of dimensions $1\times 2\times 3$ is placed on an $8\times 8$ board, as the figure shows, with a face $X$ of dimensions $1\times 2$ turned downward. We roll the block around one of its edges so that face $Y$ is turned downward. Then we roll it again, this time so that face $Z$ is turned downward. We roll the block more times, in various directions on the board, so that the faces $X$, $Y$ and $Z$ are turned downward, always in this order. How many different little squares of the board can be in contact with the block?
+> Um bloco de dimensões $1\times 2\times 3$ é colocado sobre um tabuleiro $8\times 8$, como mostra a figura, com a face $X$, de dimensões $1\times 2$, virada para baixo. Giramos o bloco em torno de uma de suas arestas de modo que a face $Y$ fique virada para baixo. Em seguida, giramos novamente o bloco, mas desta vez de modo que a face $Z$ fique virada para baixo. Giramos o bloco mais três vezes, fazendo com que as faces $X$, $Y$ e $Z$ fiquem viradas para baixo, nessa ordem. Quantos quadradinhos diferentes do tabuleiro estiveram em contato com o bloco?
+>
 > A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
-
-![[src_obm_2005_n2_f1__Q25.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -898,3 +1327,21 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*1x2x3 block rolled on an 8x8 board with faces X,Y,Z turned down in order; how many distinct cells touched*
+
+> A block of dimensions $1\times 2\times 3$ is placed on an $8\times 8$ board, as the figure shows, with a face $X$ of dimensions $1\times 2$ turned downward. We roll the block around one of its edges so that face $Y$ is turned downward. Then we roll it again, this time so that face $Z$ is turned downward. We roll the block more times, in various directions on the board, so that the faces $X$, $Y$ and $Z$ are turned downward, always in this order. How many different little squares of the board can be in contact with the block?
+> A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
+
+![[src_obm_2005_n2_f1__Q25.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)

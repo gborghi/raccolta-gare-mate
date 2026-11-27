@@ -353,9 +353,7 @@ level: JJMO Yosen
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Conta le configurazioni raggiungibili su una griglia 3x100 tramite set-row-heads / set-column-tails*
-
+*Contare le configurazioni raggiungibili su una griglia 3×100 di monete, con operazioni che mettono a testa una riga o a croce una colonna.*
 > C'è una griglia di $3 \times 100$ celle. Su ciascuna cella è posta una moneta riconoscibile dalle sue due facce (testa e croce); all'inizio, tutte le monete mostrano la testa. Le seguenti operazioni 1 e 2 vengono ripetute in qualsiasi ordine e qualsiasi numero di volte. Quante configurazioni distinte delle monete si possono ottenere?
 >
 > Operazione 1: Scegliere un intero $i$ tale che $1 \le i \le 3$ e far sì che ogni moneta nelle celle della riga $i$ mostri la testa.

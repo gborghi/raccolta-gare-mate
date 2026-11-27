@@ -132,9 +132,7 @@ level: China Southeastern Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*La retta incontra i lati del triangolo circoscritto nei punti M, N; E, F sono i punti medi di BN, CM; dimostrare che l'angolo EOF è uguale all'angolo A*
-
+*Una retta incontra i lati del triangolo circoscritto nei punti M, N; E, F sono i punti medi di BN e CM; dimostrare che l'angolo EOF è uguale all'angolo A.*
 > Supponiamo che una retta passante per la circonferenza circoscritta $O$ di $\triangle ABC$ intersechi $AB$ e $AC$ nei punti $M$ e $N$, rispettivamente, e che $E$ e $F$ siano i punti medi di $BN$ e $CM$, rispettivamente. Dimostrare che $\angle EOF = \angle A$. (proposto da Tao Pingheng)
 
 ![[src_cn_csmo_b11_w293__Q04.png]]

@@ -12,20 +12,22 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Right triangles assembled into shapes; area, perimeter, smallest square*
 
-> Esmeralda has many right triangles equal to the one in the figure, with legs $3\text{ cm}$ and $4\text{ cm}$ and hypotenuse $5\text{ cm}$.
-> 
-> a) By making parts of the sides coincide, overlapping the triangles, Esmeralda assembled the figure below. What is the area and what is the perimeter of this figure?
-> 
-> [A figure formed by overlapping right triangles, producing a star/arrow shape — see figure on page 1.]
-> 
-> b) Using the same process, Esmeralda assembled the smallest possible square with an integer side length. Show, with the help of a figure, how Esmeralda can do this.
-
-![[src_obm_2009_n1_f3__Q01.png]]
+> Esmeralda tem muitos triângulos retângulos iguais aos da figura.
+>
+> $5\text{ cm}$
+>
+> $3\text{ cm}$
+>
+> $4\text{ cm}$
+>
+> a) Fazendo coincidir partes dos lados, sem sobrepor triângulos, Esmeralda montou a figura a seguir. Qual é a área e qual é o perímetro dessa figura?
+>
+> b) Usando o mesmo processo, Esmeralda montou o menor quadrado possível com lado de medida inteira. Mostre, através de uma figura, como Esmeralda pode fazer isso.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Extremal principle]]
@@ -56,21 +58,43 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Right triangles assembled into shapes; area, perimeter, smallest square*
+
+> Esmeralda has many right triangles equal to the one in the figure, with legs $3\text{ cm}$ and $4\text{ cm}$ and hypotenuse $5\text{ cm}$.
+> 
+> a) By making parts of the sides coincide, overlapping the triangles, Esmeralda assembled the figure below. What is the area and what is the perimeter of this figure?
+> 
+> [A figure formed by overlapping right triangles, producing a star/arrow shape — see figure on page 1.]
+> 
+> b) Using the same process, Esmeralda assembled the smallest possible square with an integer side length. Show, with the help of a figure, how Esmeralda can do this.
+
+![[src_obm_2009_n1_f3__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *3×3 grid filled 1–9; colour by row max/min; optimize difference A−B*
 
-> The cells of a $3 \times 3$ grid are numbered from $1$ to $9$, each number used exactly once. In each horizontal row, we colour red the cell with the largest number and green the cell with the smallest number. Let $A$ be the smaller of the numbers in the red cells and $B$ the larger of the numbers in the green cells.
-> 
-> a) Show a way to fill in the grid so that $A - B = 4$.
-> 
-> b) Show a way to fill in the grid so that $A - B = -3$.
-> 
-> c) Is it possible to obtain $A = 4$ and $B = 3$? Do not forget to justify your answer.
+> As casas de um tabuleiro $3 \times 3$ são numeradas de $1$ a $9$, cada número sendo utilizado exatamente uma vez. Em cada linha horizontal, pintamos de vermelho a casa com o maior número e, de verde, a casa com o menor número. Seja $A$ o menor dos números das casas vermelhas e $B$ o maior dos números das casas verdes.
+>
+> a) Mostre uma maneira de preencher o tabuleiro de forma que $A - B = 4$.
+>
+> b) Mostre uma maneira de preencher o tabuleiro de forma que $A - B = -3$.
+>
+> c) É possível obter $A = 4$ e $B = 3$? Não se esqueça de justificar a sua resposta.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -99,22 +123,87 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*3×3 grid filled 1–9; colour by row max/min; optimize difference A−B*
+
+> The cells of a $3 \times 3$ grid are numbered from $1$ to $9$, each number used exactly once. In each horizontal row, we colour red the cell with the largest number and green the cell with the smallest number. Let $A$ be the smaller of the numbers in the red cells and $B$ the larger of the numbers in the green cells.
+> 
+> a) Show a way to fill in the grid so that $A - B = 4$.
+> 
+> b) Show a way to fill in the grid so that $A - B = -3$.
+> 
+> c) Is it possible to obtain $A = 4$ and $B = 3$? Do not forget to justify your answer.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *3D solid made of unit cubes; count cubes per direction in larger similar solid*
 
-> Given a solid formed by $1\text{ cm}$-edge cubes, as shown in Figure 1, we can indicate the number of cubes in each direction as shown in Figure 2.
-> 
-> [Figure 1 shows a small staircase-like solid; Figure 2 shows a $3\times3\times3$ cube with numbers indicating the count of unit cubes along each direction.]
-> 
-> Esmeraldino assembled a solid from $1\text{ cm}$-edge cubes and made a figure similar to Figure 2, where the numbers $a, b, c, d, e, f, x$ and $m$ appear in the grid (see figure on page 2).
-> 
-> Find the values of $a$, $b$, $c$, $d$, $e$, $f$, $x$ and $m$.
-
-![[src_obm_2009_n1_f3__Q03.png]]
+> Dado um sólido formado por cubos de $1\text{ cm}$ de aresta, como mostra a figura 1, podemos indicar a quantidade de cubos em cada direção, como mostra a figura 2.
+>
+> $3$
+>
+> $3$ $2$
+>
+> $2$ $1$ $1$
+>
+> $1$ $0$
+>
+> $2$ $1$
+>
+> $1$
+>
+> $0$ $1$
+>
+> $3$ $0$ $0$ $2$
+>
+> $1$ $1$
+>
+> $3$ $0$ $1$ $3$
+>
+> $3$ $2$
+>
+> $2$ $3$
+>
+> Esmeraldino montou um sólido com cubos de $1\text{ cm}$ de aresta e fez uma figura similar à figura 2.
+>
+> $1$
+>
+> $3$ $c$
+>
+> $a$ $b$ $f$
+>
+> $1$ $e$
+>
+> $2$ $2$
+>
+> $d$
+>
+> $2$ $3$
+>
+> $2$ $2$ $1$ $1$
+>
+> $x$ $3$
+>
+> $1$ $2$ $3$ $2$
+>
+> $2$ $2$
+>
+> $1$ $m$
+>
+> Encontre os valores de $a$, $b$, $c$, $d$, $e$, $f$, $x$ e $m$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -145,16 +234,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*3D solid made of unit cubes; count cubes per direction in larger similar solid*
+
+> Given a solid formed by $1\text{ cm}$-edge cubes, as shown in Figure 1, we can indicate the number of cubes in each direction as shown in Figure 2.
+> 
+> [Figure 1 shows a small staircase-like solid; Figure 2 shows a $3\times3\times3$ cube with numbers indicating the count of unit cubes along each direction.]
+> 
+> Esmeraldino assembled a solid from $1\text{ cm}$-edge cubes and made a figure similar to Figure 2, where the numbers $a, b, c, d, e, f, x$ and $m$ appear in the grid (see figure on page 2).
+> 
+> Find the values of $a$, $b$, $c$, $d$, $e$, $f$, $x$ and $m$.
+
+![[src_obm_2009_n1_f3__Q03.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Abutted positive integers: count 4-digit abutted numbers*
 
-> We say that a positive integer $n$ is *abutted* (abestado) if, reading it from right to left, we obtain an integer greater than $n$. For example, $2009$ is abutted because $9002 > 2009$; on the other hand, $2010$ is not abutted because, reading from right to left, $0102 = 102$, which is not greater than $2010$; and $3443$ is not abutted because, when read from right to left, it gives exactly $3443$, which equals the original.
-> 
-> How many positive integers with four digits are abutted?
+> Dizemos que um número inteiro positivo $n$ é abestado se ao lermos da direita para esquerda obtivermos um inteiro maior que $n$. Por exemplo, $2009$ é abestado porque $9002$ é maior que $2009$, por outro lado, $2010$ não é abestado pois $0102$, que é o número $102$, é menor que $2010$ e $3443$ não é abestado pois quando lido da direita para esquerda é exatamente igual ao original. Quantos inteiros positivos de quatro algarismos são abestados?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -179,16 +289,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Abutted positive integers: count 4-digit abutted numbers*
+
+> We say that a positive integer $n$ is *abutted* (abestado) if, reading it from right to left, we obtain an integer greater than $n$. For example, $2009$ is abutted because $9002 > 2009$; on the other hand, $2010$ is not abutted because, reading from right to left, $0102 = 102$, which is not greater than $2010$; and $3443$ is not abutted because, when read from right to left, it gives exactly $3443$, which equals the original.
+> 
+> How many positive integers with four digits are abutted?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Existence of integers ≤1000 or ≤11000 with many divisors*
 
-> a) Show that there exists a positive integer less than or equal to $1000$ with at least $20$ positive divisors.
-> 
-> b) Does there exist a positive integer less than or equal to $11000$ with at least $200$ positive divisors? Do not forget to justify your answer.
+> a) Exiba um número inteiro positivo menor ou igual a $1000$ com pelo menos $20$ divisores positivos.
+>
+> b) Existe um número inteiro positivo menor ou igual a $11000$ com pelo menos $200$ divisores positivos? Não se esqueça de justificar a sua resposta.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
@@ -210,3 +337,20 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Existence of integers ≤1000 or ≤11000 with many divisors*
+
+> a) Show that there exists a positive integer less than or equal to $1000$ with at least $20$ positive divisors.
+> 
+> b) Does there exist a positive integer less than or equal to $11000$ with at least $200$ positive divisors? Do not forget to justify your answer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)

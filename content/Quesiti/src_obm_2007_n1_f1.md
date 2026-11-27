@@ -12,20 +12,20 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_conteggio,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Pattern in products of 101 by repunits; digit sum for 2007 ones*
 
-> Observe the following multiplications:
+> Observe as multiplicações a seguir:
 > $$101\times 11=1111$$
 > $$101\times 111=11211$$
 > $$101\times 1111=112211$$
 > $$101\times 11111=1122211$$
 > $$\ldots$$
-> What is the sum of the digits of the number obtained when we multiply $101$ by the number $\underbrace{11111\ldots1}_{2007}$ (the number formed by $2007$ ones)?
-> 
-> (A) $1001$ \quad (B) $2007$ \quad (C) $2009$ \quad (D) $4008$ \quad (E) $4014$
+> Qual é a soma dos algarismos do número obtido quando multiplicamos $101$ pelo número $\underbrace{11111\ldots1}_{\text{2007 algarismos }1}$?
+>
+> A) $1001$ 	 B) $2007$ 	 C) $2009$ 	 D) $4008$ 	 E) $4014$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -61,16 +61,43 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Pattern in products of 101 by repunits; digit sum for 2007 ones*
+
+> Observe the following multiplications:
+> $$101\times 11=1111$$
+> $$101\times 111=11211$$
+> $$101\times 1111=112211$$
+> $$101\times 11111=1122211$$
+> $$\ldots$$
+> What is the sum of the digits of the number obtained when we multiply $101$ by the number $\underbrace{11111\ldots1}_{2007}$ (the number formed by $2007$ ones)?
+> 
+> (A) $1001$ \quad (B) $2007$ \quad (C) $2009$ \quad (D) $4008$ \quad (E) $4014$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count three-digit positive integers whose digit sum equals 4*
 
-> How many positive integers with three digits have the sum of their digits equal to $4$? Observation: remember that none of the zeros on the left counts as a digit; for example, the number $031$ has two digits.
-> 
-> (A) 4 \quad (B) 6 \quad (C) 7 \quad (D) 10 \quad (E) 12
+> Quantos números inteiros positivos de três algarismos têm a soma de seus algarismos igual a $4$?
+> Observação: lembre-se de que zeros à esquerda não devem ser contados como algarismos; por exemplo, o número $031$ tem dois algarismos.
+>
+> A) $4$ 	 B) $6$ 	 C) $7$ 	 D) $10$ 	 E) $12$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -100,16 +127,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count three-digit positive integers whose digit sum equals 4*
+
+> How many positive integers with three digits have the sum of their digits equal to $4$? Observation: remember that none of the zeros on the left counts as a digit; for example, the number $031$ has two digits.
+> 
+> (A) 4 \quad (B) 6 \quad (C) 7 \quad (D) 10 \quad (E) 12
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square (two unit squares give perimeter 18) then 144 in a row; find perimeter*
 
-> By joining two equal squares side by side, a rectangle is formed whose perimeter is $18$ cm. Now, by joining $144$ of these squares side by side, in a single row, we form a rectangle with width and length different. What is the perimeter of this last rectangle, in cm?
-> 
-> (A) 1300 \quad (B) 1308 \quad (C) 1400 \quad (D) 1500 \quad (E) 1512
+> Juntando dois retângulos iguais lado a lado, sem sobreposição, podemos formar dois tipos de figura: um quadrado de área igual a $144\text{ cm}^2$ ou um retângulo de largura diferente do comprimento. Qual é o perímetro deste último retângulo, em cm?
+>
+> A) $12$ 	 B) $24$ 	 C) $48$ 	 D) $60$ 	 E) $72$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
@@ -136,19 +183,34 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square (two unit squares give perimeter 18) then 144 in a row; find perimeter*
+
+> By joining two equal squares side by side, a rectangle is formed whose perimeter is $18$ cm. Now, by joining $144$ of these squares side by side, in a single row, we form a rectangle with width and length different. What is the perimeter of this last rectangle, in cm?
+> 
+> (A) 1300 \quad (B) 1308 \quad (C) 1400 \quad (D) 1500 \quad (E) 1512
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two overlapping squares of area 100 with total perimeter 50; find common area*
 
-> The figure beside is formed by two squares, each of area $100\text{ cm}^2$, partially overlapping, in such a way that the perimeter of the figure (the thick line) is equal to $50$ cm. What is the area of the region common to the two squares, in $\text{cm}^2$?
-> 
-> (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
-
-![[src_obm_2007_n1_f1__Q04.png]]
+> A figura ao lado é formada por dois quadrados de área $100\text{ cm}^2$ cada um, parcialmente sobrepostos, de modo que o perímetro da figura (linha mais grossa) é igual $50$ cm. Qual é a área da região comum aos dois quadrados, em $\text{cm}^2$?
+>
+> A) $20$ 	 B) $25$ 	 C) $30$ 	 D) $40$ 	 E) $50$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
@@ -177,17 +239,36 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two overlapping squares of area 100 with total perimeter 50; find common area*
+
+> The figure beside is formed by two squares, each of area $100\text{ cm}^2$, partially overlapping, in such a way that the perimeter of the figure (the thick line) is equal to $50$ cm. What is the area of the region common to the two squares, in $\text{cm}^2$?
+> 
+> (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
+
+![[src_obm_2007_n1_f1__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of odd numbers up to 2007 minus sum of even numbers up to 2006*
 
-> The sum of all positive odd numbers up to $2007$ minus the sum of all positive even numbers up to $2006$ is equal to:
-> 
-> (A) 1003 \quad (B) 1004 \quad (C) 2005 \quad (D) 2006 \quad (E) 2007
+> A soma de todos os números positivos ímpares até $2007$ menos a soma de todos os números positivos pares até $2007$ é igual a:
+>
+> A) $1003$ 	 B) $1004$ 	 C) $2005$ 	 D) $2006$ 	 E) $2007$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Telescoping]]
@@ -217,16 +298,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of odd numbers up to 2007 minus sum of even numbers up to 2006*
+
+> The sum of all positive odd numbers up to $2007$ minus the sum of all positive even numbers up to $2006$ is equal to:
+> 
+> (A) 1003 \quad (B) 1004 \quad (C) 2005 \quad (D) 2006 \quad (E) 2007
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two clocks one fast one slow set by Silvia's; find Cristina's time when Silvia's shows 10h*
 
-> Silvia thought her watch was $10$ minutes slow, when in fact it was $5$ minutes fast. Cristina thought her watch was $10$ minutes fast, when in fact it was $5$ minutes slow. At the same moment, the two friends arranged to meet, agreeing to set their watches by Silvia's. Then, as agreed, when Silvia's watch marked $10$ o'clock, Cristina arrived. At that moment, according to Cristina's watch, what time was it?
-> 
-> (A) $9\text{h}\,30\text{min}$ \quad (B) $9\text{h}\,50\text{min}$ \quad (C) $10\text{h}$ \quad (D) $10\text{h}\,10\text{min}$ \quad (E) $10\text{h}\,15\text{min}$
+> Sílvia pensou que seu relógio estava atrasado $10$ min e o acertou, mas na verdade o relógio estava adiantado $5$ min. Cristina pensou que seu relógio estava adiantado $10$ min e o acertou, mas na verdade o relógio estava atrasado $5$ min. Logo depois, as duas se encontraram, quando o relógio de Sílvia marcava $10$ horas. Neste momento, que horas o relógio de Cristina indicava?
+>
+> A) $9\text{h}\,30\text{min}$ 	 B) $9\text{h}\,50\text{min}$ 	 C) $10\text{h}$ 	 D) $10\text{h}\,5\text{min}$ 	 E) $10\text{h}\,15\text{min}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -255,18 +356,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two clocks one fast one slow set by Silvia's; find Cristina's time when Silvia's shows 10h*
+
+> Silvia thought her watch was $10$ minutes slow, when in fact it was $5$ minutes fast. Cristina thought her watch was $10$ minutes fast, when in fact it was $5$ minutes slow. At the same moment, the two friends arranged to meet, agreeing to set their watches by Silvia's. Then, as agreed, when Silvia's watch marked $10$ o'clock, Cristina arrived. At that moment, according to Cristina's watch, what time was it?
+> 
+> (A) $9\text{h}\,30\text{min}$ \quad (B) $9\text{h}\,50\text{min}$ \quad (C) $10\text{h}$ \quad (D) $10\text{h}\,10\text{min}$ \quad (E) $10\text{h}\,15\text{min}$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fraction a/b between 0 and 1/7 from number line position; find possible a+b*
 
-> The fraction $\dfrac{a}{b}$, where $a$ and $b$ are positive integers, represents a number between $0$ and $\dfrac{1}{7}$, in the position shown in the diagram beside. What is a possible value for the sum $a + b$?
-> 
-> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
-
-![[src_obm_2007_n1_f1__Q07.png]]
+> A fração $\dfrac{a}{b}$, onde $a$ e $b$ são inteiros positivos, representa um número entre $0$ e $1$, na posição indicada no desenho ao lado. Qual é um possível valor para a soma $a+b$?
+>
+> A) $1$ 	 B) $2$ 	 C) $3$ 	 D) $4$ 	 E) $5$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -297,16 +415,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fraction a/b between 0 and 1/7 from number line position; find possible a+b*
+
+> The fraction $\dfrac{a}{b}$, where $a$ and $b$ are positive integers, represents a number between $0$ and $\dfrac{1}{7}$, in the position shown in the diagram beside. What is a possible value for the sum $a + b$?
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
+
+![[src_obm_2007_n1_f1__Q07.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Olympiad: 15% none, 25% partial, 156 solved all; find total participants*
 
-> In an olympiad test, $15\%$ of the students solved no problem, $25\%$ solved at least one problem but made some mistake, and the rest, $156$ students, solved all the problems correctly. The number of students who participated in the olympiad was:
-> 
-> (A) 200 \quad (B) 260 \quad (C) 93 \quad (D) 223 \quad (E) 300
+> Em uma prova de olimpíada, $15\%$ dos estudantes não resolveram nenhum problema, $25\%$ resolveram pelo menos um problema, mas cometeram algum erro, e os restantes, $156$ estudantes, resolveram todos os problemas corretamente. O número de estudantes que participaram da olimpíada foi:
+>
+> A) $200$ 	 B) $260$ 	 C) $93$ 	 D) $223$ 	 E) $300$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
@@ -334,15 +473,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Olympiad: 15% none, 25% partial, 156 solved all; find total participants*
+
+> In an olympiad test, $15\%$ of the students solved no problem, $25\%$ solved at least one problem but made some mistake, and the rest, $156$ students, solved all the problems correctly. The number of students who participated in the olympiad was:
+> 
+> (A) 200 \quad (B) 260 \quad (C) 93 \quad (D) 223 \quad (E) 300
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ratio men:women = 2:3, women:children = 4:1; find men:children*
 
-> In a certain city, the ratio between the number of men and the number of women is $2:3$, and that between the number of women and the number of children is $4:1$. The ratio between the number of men and the number of children is:
-> 
+> Em uma certa cidade, a razão entre o número de homens e mulheres é $2:3$ e entre o número de mulheres e crianças é $8:1$. A razão entre o número de adultos e crianças é:
+>
 > (A) $5:1$ \quad (B) $16:1$ \quad (C) $12:1$ \quad (D) $40:3$ \quad (E) $13:1$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -370,18 +528,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ratio men:women = 2:3, women:children = 4:1; find men:children*
+
+> In a certain city, the ratio between the number of men and the number of women is $2:3$, and that between the number of women and the number of children is $4:1$. The ratio between the number of men and the number of children is:
+> 
+> (A) $5:1$ \quad (B) $16:1$ \quad (C) $12:1$ \quad (D) $40:3$ \quad (E) $13:1$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Equilateral triangle side parallel to square side; find angle x*
 
-> In the figure, side $\overline{AB}$ of the equilateral triangle $ABC$ is parallel to side $\overline{DG}$ of the square $DEFG$. What is the value of the angle $x$?
-> 
+> Na figura, o lado $AB$ do triângulo eqüilátero $ABC$ é paralelo ao lado $DG$ do quadrado $DEFG$. Qual é o valor do ângulo $x$?
+>
 > (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
-
-![[src_obm_2007_n1_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -412,17 +586,37 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Equilateral triangle side parallel to square side; find angle x*
+
+> In the figure, side $\overline{AB}$ of the equilateral triangle $ABC$ is parallel to side $\overline{DG}$ of the square $DEFG$. What is the value of the angle $x$?
+> 
+> (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
+
+![[src_obm_2007_n1_f1__Q10.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *CD store multiplies prices by 0.68; find discount percentage*
 
-> A CD store is going to hold a liquidation and, for that, the manager asked Anderlaine to multiply all the prices by $0.68$. In this liquidation, the store is offering a discount of:
-> 
-> (A) $68\%$ \quad (B) $6.8\%$ \quad (C) $0.68\%$ \quad (D) $3.2\%$ \quad (E) $32\%$
+> Uma loja de CD's realizará uma liquidação e, para isso, o gerente pediu para Anderlaine multiplicar todos os preços dos CD's por $0{,}68$. Nessa liquidação, a loja está oferecendo um desconto de:
+>
+> (A) $68\%$ \quad (B) $6{,}8\%$ \quad (C) $0{,}68\%$ \quad (D) $3{,}2\%$ \quad (E) $32\%$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -450,16 +644,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*CD store multiplies prices by 0.68; find discount percentage*
+
+> A CD store is going to hold a liquidation and, for that, the manager asked Anderlaine to multiply all the prices by $0.68$. In this liquidation, the store is offering a discount of:
+> 
+> (A) $68\%$ \quad (B) $6.8\%$ \quad (C) $0.68\%$ \quad (D) $3.2\%$ \quad (E) $32\%$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Queue: 7 people separate them, 6 behind Esmeralda, 2 enter between; find Esmeralda's position*
 
-> Esmeralda and Perola are in a queue. Perola notices that $7$ people separate them and that there are $6$ people behind Esmeralda. Two extra people then enter the queue between Esmeralda and Perola. The numbers below could be Esmeralda's position counting from the front of the queue, except:
-> 
-> (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
+> Esmeralda e Pérola estão numa fila. Faltam $7$ pessoas para serem atendidas antes de Pérola e há $6$ pessoas depois de Esmeralda. Duas outras pessoas estão entre Esmeralda e Pérola. Dos números abaixo, qual pode ser o número de pessoas na fila?
+>
+> (A) $9$ \quad (B) $11$ \quad (C) $13$ \quad (D) $14$ \quad (E) $15$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -488,18 +701,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Queue: 7 people separate them, 6 behind Esmeralda, 2 enter between; find Esmeralda's position*
+
+> Esmeralda and Perola are in a queue. Perola notices that $7$ people separate them and that there are $6$ people behind Esmeralda. Two extra people then enter the queue between Esmeralda and Perola. The numbers below could be Esmeralda's position counting from the front of the queue, except:
+> 
+> (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fill table cells with product of row and column headers; count odd-numbered cells*
 
-> Fill the empty cells of the table with the product of the numbers of the corresponding row and column. How many cells will contain odd numbers?
-> 
-> (A) 6 \quad (B) 7 \quad (C) 12 \quad (D) 14 \quad (E) 26
-
-![[src_obm_2007_n1_f1__Q13.png]]
+> Preenchemos as casas vazias da tabela ao lado com o produto dos números que estão sombreados na mesma linha e na mesma coluna da casa vazia a ser preenchida. Quantas dessas casas conterão números primos?
+>
+> Os números sombreados, na linha e na coluna, são $1$, $2$, $3$, $5$, $7$, $11$, $13$.
+>
+> (A) $6$ \quad (B) $7$ \quad (C) $12$ \quad (D) $14$ \quad (E) $26$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
@@ -530,15 +762,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fill table cells with product of row and column headers; count odd-numbered cells*
+
+> Fill the empty cells of the table with the product of the numbers of the corresponding row and column. How many cells will contain odd numbers?
+> 
+> (A) 6 \quad (B) 7 \quad (C) 12 \quad (D) 14 \quad (E) 26
+
+![[src_obm_2007_n1_f1__Q13.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Bottle fills 3 large + half small, or 5 small + half large; ratio small:large*
 
-> The contents of a bottle of soft drink fill three large glasses and one more half of a small glass; or $5$ of these small glasses and one more half of a large glass. What is the ratio between the volume of a small glass and the volume of a large one?
-> 
+> O conteúdo de uma garrafa de refrigerantes enche três copos grandes iguais e mais meio copo pequeno ou $5$ desses copos pequenos iguais mais a metade de um daqueles grandes. Qual é a razão entre o volume de um copo pequeno e o de um grande?
+>
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{5}{7}$ \quad (C) $\dfrac{7}{10}$ \quad (D) $\dfrac{5}{9}$ \quad (E) $\dfrac{3}{7}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -566,18 +819,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Bottle fills 3 large + half small, or 5 small + half large; ratio small:large*
+
+> The contents of a bottle of soft drink fill three large glasses and one more half of a small glass; or $5$ of these small glasses and one more half of a large glass. What is the ratio between the volume of a small glass and the volume of a large one?
+> 
+> (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{5}{7}$ \quad (C) $\dfrac{7}{10}$ \quad (D) $\dfrac{5}{9}$ \quad (E) $\dfrac{3}{7}$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Barcode of black/white bars with three widths; count codes for thin/medium/thick separated by thin whites*
 
-> A barcode is formed by vertical black bars of three different widths. Two black bars are always separated by a white bar, also of three different widths. The code starts and ends with a black bar, as in the example below. Considering the code $S$, formed by a thin black bar, a medium one and a thick one, separated by thin white bars, how many different codes $S$ can be formed?
-> 
-> (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
-
-![[src_obm_2007_n1_f1__Q15.png]]
+> Um código de barras é formado por barras verticais pretas de três larguras diferentes. Duas barras pretas sempre são separadas por uma barra branca, também com três larguras diferentes. O código começa e termina com uma barra preta, como no exemplo ao lado.
+>
+> Considere um código $S$, formado por uma barra preta fina, duas médias e uma grossa, separadas por barras brancas finas. Quantos códigos $S$ diferentes podem ser assim formados?
+>
+> (A) $4$ \quad (B) $6$ \quad (C) $12$ \quad (D) $24$ \quad (E) $36$
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -608,18 +879,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Barcode of black/white bars with three widths; count codes for thin/medium/thick separated by thin whites*
+
+> A barcode is formed by vertical black bars of three different widths. Two black bars are always separated by a white bar, also of three different widths. The code starts and ends with a black bar, as in the example below. Considering the code $S$, formed by a thin black bar, a medium one and a thick one, separated by thin white bars, how many different codes $S$ can be formed?
+> 
+> (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
+
+![[src_obm_2007_n1_f1__Q15.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Grid of 1 cm2 squares; segments join midpoints to spell OBM; find shaded area*
 
-> In the grid, each little square has area $1\text{ cm}^2$. Segments join midpoints of the sides of the squares at the center of each small square, forming the word OBM. What is the area occupied by the OBM logo, in $\text{cm}^2$?
-> 
-> (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
-
-![[src_obm_2007_n1_f1__Q16.png]]
+> No quadriculado ao lado, cada quadradinho tem $1\text{ cm}^2$. Os segmentos inclinados ligam pontos médios dos lados dos quadradinhos ou um vértice ao centro de um quadradinho. Qual é a área ocupada pela sigla OBM, em $\text{cm}^2$?
+>
+> (A) $28$ \quad (B) $32$ \quad (C) $33$ \quad (D) $34$ \quad (E) $35$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -650,16 +940,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Grid of 1 cm2 squares; segments join midpoints to spell OBM; find shaded area*
+
+> In the grid, each little square has area $1\text{ cm}^2$. Segments join midpoints of the sides of the squares at the center of each small square, forming the word OBM. What is the area occupied by the OBM logo, in $\text{cm}^2$?
+> 
+> (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
+
+![[src_obm_2007_n1_f1__Q16.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_logica,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Guessing game: number 10-99, told tens digit; max attempts needed*
 
-> Lina and Lana play in the following way: the first one thinks of a number from $10$ to $99$ and says only the number of tens of the number. Then the second one tries to guess that number. What is the largest number of attempts that the second one may need to make?
-> 
-> (A) 7 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 11
+> Lina e Lana brincam da seguinte maneira: a primeira a jogar pensa em um número de $10$ a $99$ e diz apenas a soma dos algarismos do número; a segunda tem então que adivinhar esse número. Qual é o maior número de tentativas erradas que a segunda pessoa pode fazer?
+>
+> (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -688,15 +999,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Guessing game: number 10-99, told tens digit; max attempts needed*
+
+> Lina and Lana play in the following way: the first one thinks of a number from $10$ to $99$ and says only the number of tens of the number. Then the second one tries to guess that number. What is the largest number of attempts that the second one may need to make?
+> 
+> (A) 7 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 11
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Trip 12 min at 80 km/h, then 15 min lost; find speed to still arrive on time*
 
-> Inacio thought it would take $12$ minutes to finish a trip, driving at $80$ km/h on a certain highway. With a surprise, he lost $15$ minutes. At what constant speed should he drive on that highway so that the trip would still be completed within the planned time?
-> 
+> Anita imaginou que levaria $12$ minutos para terminar a sua viagem, enquanto dirigia à velocidade constante de $80$ km/h, numa certa rodovia. Para sua surpresa, levou $15$ minutos. Com qual velocidade constante essa previsão teria se realizado?
+>
 > (A) $90\text{ km/h}$ \quad (B) $95\text{ km/h}$ \quad (C) $100\text{ km/h}$ \quad (D) $110\text{ km/h}$ \quad (E) $120\text{ km/h}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
@@ -724,18 +1054,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trip 12 min at 80 km/h, then 15 min lost; find speed to still arrive on time*
+
+> Inacio thought it would take $12$ minutes to finish a trip, driving at $80$ km/h on a certain highway. With a surprise, he lost $15$ minutes. At what constant speed should he drive on that highway so that the trip would still be completed within the planned time?
+> 
+> (A) $90\text{ km/h}$ \quad (B) $95\text{ km/h}$ \quad (C) $100\text{ km/h}$ \quad (D) $110\text{ km/h}$ \quad (E) $120\text{ km/h}$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_probabilita,method_conteggio,skill_lettura_attenta,skill_stima,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Bar chart: percent correct over 60 tests, 50 questions; find average wrong questions*
 
-> The graph beside shows the percentage of correct answers over $60$ tests taken by the finalist candidates in a contest. Knowing that the test had $50$ questions, what was the average number of wrong questions among these candidates in this test?
-> 
-> (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
-
-![[src_obm_2007_n1_f1__Q19.png]]
+> O gráfico ao lado mostra o percentual de acertos numa prova de $60$ testes de seis candidatos finalistas de um concurso. Qual foi o número médio de questões erradas por esses candidatos nessa prova?
+>
+> (A) $14$ \quad (B) $24$ \quad (C) $30$ \quad (D) $32$ \quad (E) $40$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -766,17 +1112,37 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Bar chart: percent correct over 60 tests, 50 questions; find average wrong questions*
+
+> The graph beside shows the percentage of correct answers over $60$ tests taken by the finalist candidates in a contest. Knowing that the test had $50$ questions, what was the average number of wrong questions among these candidates in this test?
+> 
+> (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
+
+![[src_obm_2007_n1_f1__Q19.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Units digit of 13^1+13^2+...+13^2007*
 
-> On performing the sum $13^1 + 13^2 + 13^3 + \cdots + 13^{2006} + 13^{2007}$ we obtain an integer number. What is the units digit of this number?
-> 
-> (A) 1 \quad (B) 3 \quad (C) 5 \quad (D) 7 \quad (E) 9
+> Ao efetuar a soma $13^1 + 13^2 + 13^3 + \cdots + 13^{2006} + 13^{2007}$ obtemos um número inteiro. Qual é o algarismo das unidades desse número?
+>
+> (A) $1$ \quad (B) $3$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -802,3 +1168,22 @@ level: OBM Nível 1
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Units digit of 13^1+13^2+...+13^2007*
+
+> On performing the sum $13^1 + 13^2 + 13^3 + \cdots + 13^{2006} + 13^{2007}$ we obtain an integer number. What is the units digit of this number?
+> 
+> (A) 1 \quad (B) 3 \quad (C) 5 \quad (D) 7 \quad (E) 9
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

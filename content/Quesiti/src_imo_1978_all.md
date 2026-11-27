@@ -131,9 +131,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Il punto medio della corda di tangenza PQ è il centro dell'incircolo*
-
+*Il punto medio della corda di contatto PQ è il centro del cerchio inscritto.*
 > Nel triangolo $ABC$, $AB = AC$. Un cerchio è tangente internamente al cerchio circoscritto al triangolo $ABC$ e inoltre è tangente ai lati $AB$, $AC$ rispettivamente nei punti $P$, $Q$. Dimostrare che il punto medio del segmento $PQ$ è il centro dell'incircolo del triangolo $ABC$.
 
 

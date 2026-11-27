@@ -12,12 +12,12 @@ level: OBM Nível Universitário
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Parabola tangent and perpendicular lines trace a hyperbola*
 
-> Let a parabola and a point $A$ outside it be given. For each point $P$ on the parabola, let $t$ be the tangent to the parabola at $P$ and $r$ the line parallel to the axis of the parabola through $P$. The perpendicular to $t$ through $A$ meets $r$ at $Q$. Prove that, as $P$ varies on the parabola, $Q$ traces a hyperbola.
+> São dados uma parábola e um ponto $A$ fora dela. Para cada ponto $P$ da parábola, seja $t$ a tangente à parábola por $P$ e $r$ a reta paralela ao eixo da parábola por $P$. A reta perpendicular a $t$ por $A$ corta $r$ em $Q$. Prove que, ao variar $P$, o ponto $Q$ percorre uma hipérbole equilátera.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -40,20 +40,33 @@ level: OBM Nível Universitário
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Parabola tangent and perpendicular lines trace a hyperbola*
+
+> Let a parabola and a point $A$ outside it be given. For each point $P$ on the parabola, let $t$ be the tangent to the parabola at $P$ and $r$ the line parallel to the axis of the parabola through $P$. The perpendicular to $t$ through $A$ meets $r$ at $Q$. Prove that, as $P$ varies on the parabola, $Q$ traces a hyperbola.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Coprime complex-coefficient polynomials: dependence and functional identity*
 
-> Let $p, q \in \mathbb{C}[x]$ be coprime polynomials (i.e.\ with no common non-constant factor) with complex coefficients. Suppose there exist 4 vectors $(a,b) \in \mathbb{C}^2$, two-by-two linearly independent (over $\mathbb{C}$), such that $ap + bq$ is the square of a polynomial in $\mathbb{C}[x]$.
-> 
-> (a) Prove that $p$ and $q$ are constants.
-> 
-> (b) Prove that there are no non-constant polynomials $r, s, t, u \in \mathbb{C}[x]$ such that $f = \dfrac{r}{s}$, $g = \dfrac{t}{u}$, and
-> $$f^2 = g(g-1)(g-a), \quad a \in \mathbb{C},\; a \neq 0,\; a \neq 1.$$
+> a) Sejam $p$ e $q \in \mathbb{C}[x]$ polinômios primos entre si com coeficientes complexos. Suponha que existam 4 vetores $(a, b) \in \mathbb{C}^2$, dois a dois linearmente independentes (sobre $\mathbb{C}$), tais que $ap + bq$ é o quadrado de um polinômio em $\mathbb{C}[x]$. Prove que $p$ e $q$ são constantes.
+>
+> b) Prove que não existem polinômios não constantes $r, s, t, u \in \mathbb{C}[x]$ tais que $f = \dfrac{r}{s}$, $g = \dfrac{t}{u}$ e
+> $$f^2 = g(g - 1)(g - a),$$
+> onde $a \in \mathbb{C}$, $a \neq 0$, $a \neq 1$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -81,18 +94,38 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Coprime complex-coefficient polynomials: dependence and functional identity*
+
+> Let $p, q \in \mathbb{C}[x]$ be coprime polynomials (i.e.\ with no common non-constant factor) with complex coefficients. Suppose there exist 4 vectors $(a,b) \in \mathbb{C}^2$, two-by-two linearly independent (over $\mathbb{C}$), such that $ap + bq$ is the square of a polynomial in $\mathbb{C}[x]$.
+> 
+> (a) Prove that $p$ and $q$ are constants.
+> 
+> (b) Prove that there are no non-constant polynomials $r, s, t, u \in \mathbb{C}[x]$ such that $f = \dfrac{r}{s}$, $g = \dfrac{t}{u}$, and
+> $$f^2 = g(g-1)(g-a), \quad a \in \mathbb{C},\; a \neq 0,\; a \neq 1.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count matrices of order 4 over Z/(p) whose square is the identity*
 
-> Let $p > 2$ be a prime number. Let $X_p$ be the set of all square matrices $A$ with coefficients in $\mathbb{Z}/(p)$ and of order $4$ such that
-> $$A^2 = I : \quad X_p = \left\{ A \in (\mathbb{Z}/(p))^{4 \times 4} \mid A^2 = I \right\}.$$
-> Compute the number of elements of $X_p$.
-> 
-> **Remark.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ is the finite field with $p$ elements. Addition and product are defined modulo $p$; for instance, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ and $4 \cdot 5 = 6$.
+> Seja $p > 2$ um número primo. Seja $X_p$ o conjunto de todas as matrizes quadradas $A$ com coeficientes em $\mathbb{Z}/(p)$ e de ordem $4$ para as quais $A^2 = I$:
+> $$X_p = \left\{ A \in \bigl(\mathbb{Z}/(p)\bigr)^{4 \times 4} \mid A^2 = I \right\}.$$
+> Calcule o número de elementos de $X_p$.
+>
+> **Observação.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p - 1\}$ é o corpo finito com $p$ elementos. A soma e o produto são definidos módulo $p$; assim, por exemplo, em $\mathbb{Z}/(7)$, $4 + 5 = 2$ e $4 \cdot 5 = 6$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -119,19 +152,37 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count matrices of order 4 over Z/(p) whose square is the identity*
+
+> Let $p > 2$ be a prime number. Let $X_p$ be the set of all square matrices $A$ with coefficients in $\mathbb{Z}/(p)$ and of order $4$ such that
+> $$A^2 = I : \quad X_p = \left\{ A \in (\mathbb{Z}/(p))^{4 \times 4} \mid A^2 = I \right\}.$$
+> Compute the number of elements of $X_p$.
+> 
+> **Remark.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ is the finite field with $p$ elements. Addition and product are defined modulo $p$; for instance, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ and $4 \cdot 5 = 6$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Characterise honest die via conditional probability equality*
 
-> We have a die with 6 faces, not necessarily fair. We roll it three times and obtain results $a$, $b$, $c$. Prove that $P(a = c \mid a = b) \ge P(a = c \mid a \neq b)$, with equality if and only if the die is fair.
-> 
-> **Remark.** $P(a = c \mid a = b)$ is the conditional probability
-> $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$
-> A die is fair if the probability of each face is $\dfrac{1}{6}$.
+> Temos um dado de 6 faces, não necessariamente honesto. Jogamos o dado três vezes e obtemos resultados $a$, $b$ e $c$. Prove que $P(a = c \mid a = b) \ge P(a = c \mid a \neq b)$ e que vale a igualdade se e somente se o dado é honesto.
+>
+> **Observação.** $P(a = c \mid a = b)$ é a probabilidade condicional
+> $$P(a = c \mid a = b) = \frac{P(a = b \text{ e } a = c)}{P(a = b)}.$$
+> Um dado é honesto se a probabilidade de cada face é $\dfrac{1}{6}$.
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
@@ -158,19 +209,37 @@ level: OBM Nível Universitário
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Characterise honest die via conditional probability equality*
+
+> We have a die with 6 faces, not necessarily fair. We roll it three times and obtain results $a$, $b$, $c$. Prove that $P(a = c \mid a = b) \ge P(a = c \mid a \neq b)$, with equality if and only if the die is fair.
+> 
+> **Remark.** $P(a = c \mid a = b)$ is the conditional probability
+> $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$
+> A die is fair if the probability of each face is $\dfrac{1}{6}$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,method_induzione,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *C-infinity lacunary functions closed under addition and product*
 
-> A function $f : (-1,1) \to \mathbb{R}$ of class $C^\infty$ is called *lacunary* if there exist a positive integer $n$ and polynomials $P_j \in \mathbb{R}[t]$, $0 \le j \le n$, with $P_n$ not identically zero, such that
-> $$\sum_{j=0}^{n} P_j(t) f^{(j)}(t) = 0 \quad \text{for all } t \in (-1,1).$$
-> Prove that if $f$ and $g$ are lacunary then $f + g$ and $f \cdot g$ are also lacunary.
-> 
-> **Remarks.** We define $f^{(m)} = f$ for $m \ge 0$ (meaning $f^{(0)} = f$), and $(f^{(m)})' = f^{(m+1)}$.
+> Uma função $f : (-1,1) \to \mathbb{R}$ de classe $C^\infty$ é bacana se existem um inteiro positivo $n$ e polinômios $P_j \in \mathbb{R}[t]$, $0 \le j \le n$, com $P_n$ não identicamente nulo tais que
+> $$\sum_{j=0}^{n} P_j(t)\, f^{(j)}(t) = 0,$$
+> para todo $t \in (-1,1)$. Prove que se $f$ e $g$ são bacanas então $f + g$ e $f \cdot g$ também são bacanas.
+>
+> **Observação.** Definimos $f^{(0)} = f$ e, para cada inteiro $m \ge 0$, $f^{(m+1)} = \bigl(f^{(m)}\bigr)'$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]]
@@ -197,19 +266,39 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*C-infinity lacunary functions closed under addition and product*
+
+> A function $f : (-1,1) \to \mathbb{R}$ of class $C^\infty$ is called *lacunary* if there exist a positive integer $n$ and polynomials $P_j \in \mathbb{R}[t]$, $0 \le j \le n$, with $P_n$ not identically zero, such that
+> $$\sum_{j=0}^{n} P_j(t) f^{(j)}(t) = 0 \quad \text{for all } t \in (-1,1).$$
+> Prove that if $f$ and $g$ are lacunary then $f + g$ and $f \cdot g$ are also lacunary.
+> 
+> **Remarks.** We define $f^{(m)} = f$ for $m \ge 0$ (meaning $f^{(0)} = f$), and $(f^{(m)})' = f^{(m+1)}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Lower bound on trace of A^k for matrix with entries in [0,1]*
 
-> Let $A = (a_{ij})_{1 \le i,j \le n}$ be an $n \times n$ matrix such that $a_{ij} \in [0,1]$ for all $i, j$, and
-> $$|(G, J)| = \left\| a_{ij} \right\| \ge \frac{99}{100} \cdot n^2.$$
-> Prove that
-> $$\operatorname{tr}(A^k) \ge \left(\frac{9}{10}\right)^k n, \quad \text{for all } k \ge 2.$$
-> 
-> **Remark.** If $B = (b_{ij})_{1 \le i,j \le n}$ is a square matrix, then $\operatorname{tr}(B) = \displaystyle\sum_{i=1}^{n} b_{ii}$ denotes the trace of $B$.
+> Seja $A = (a_{ij})_{1 \le i, j \le n}$ uma matriz tal que $a_{ij} \in \{0,1\}$, para quaisquer $i$, $j$ e
+> $$\bigl|\{(i,j) \mid a_{ij} = 1\}\bigr| \ge \frac{99}{100} \cdot n^2.$$
+> Prove que
+> $$\operatorname{tr}(A^k) \ge \left(\frac{n}{2}\right)^k,$$
+> para todo $k \ge 2$.
+>
+> **Observação.** Se $B = (b_{ij})_{1 \le i, j \le n}$ é uma matriz quadrada então $\operatorname{tr}(B) = \displaystyle\sum_{i=1}^{n} b_{ii}$ denota o traço de $B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
@@ -234,3 +323,23 @@ level: OBM Nível Universitário
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Lower bound on trace of A^k for matrix with entries in [0,1]*
+
+> Let $A = (a_{ij})_{1 \le i,j \le n}$ be an $n \times n$ matrix such that $a_{ij} \in [0,1]$ for all $i, j$, and
+> $$|(G, J)| = \left\| a_{ij} \right\| \ge \frac{99}{100} \cdot n^2.$$
+> Prove that
+> $$\operatorname{tr}(A^k) \ge \left(\frac{9}{10}\right)^k n, \quad \text{for all } k \ge 2.$$
+> 
+> **Remark.** If $B = (b_{ij})_{1 \le i,j \le n}$ is a square matrix, then $\operatorname{tr}(B) = \displaystyle\sum_{i=1}^{n} b_{ii}$ denotes the trace of $B$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)

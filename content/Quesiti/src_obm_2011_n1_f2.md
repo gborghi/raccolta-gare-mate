@@ -12,14 +12,12 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of inner rectangle with vertices on sides of outer rectangle*
 
-> In the figure, the vertices of rectangle $PQRS$ lie on the sides of rectangle $ABCD$. Given $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm, and $CR = 8$ cm, what is the area of rectangle $PQRS$, in cm$^2$?
-
-![[src_obm_2011_n1_f2__Q01.png]]
+> Na figura, os vértices do retângulo $PQRS$ pertencem aos lados do retângulo $ABCD$. Sendo $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm e $CR = 8$ cm, qual é a área do retângulo $PQRS$, em cm$^2$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -44,14 +42,31 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of inner rectangle with vertices on sides of outer rectangle*
+
+> In the figure, the vertices of rectangle $PQRS$ lie on the sides of rectangle $ABCD$. Given $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm, and $CR = 8$ cm, what is the area of rectangle $PQRS$, in cm$^2$?
+
+![[src_obm_2011_n1_f2__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_solida,method_casework,method_simmetria,method_doppio_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find face-sum opposite to face-sum 8 on a labeled cube*
 
-> At each vertex of a cube, Esmeralda writes a number. She then computes the sum of the four numbers at the vertices of each face. She finds that the six face-sums are $8$, $10$, $11$, $12$, $13$, and $e$. The face with sum $x$ is opposite to the face with sum $8$. What is the value of $x$?
+> Em cada vértice de um cubo foi escrito um número. Esmeralda calcula a soma dos números escritos nos vértices de cada face e encontra os números $8$, $10$, $11$, $12$, $13$ e $x$. Se a face de soma $8$ é oposta à face de soma $x$, qual é o valor de $x$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_doppio_conteggio|Double counting]]
@@ -74,15 +89,29 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find face-sum opposite to face-sum 8 on a labeled cube*
+
+> At each vertex of a cube, Esmeralda writes a number. She then computes the sum of the four numbers at the vertices of each face. She finds that the six face-sums are $8$, $10$, $11$, $12$, $13$, and $e$. The face with sum $x$ is opposite to the face with sum $8$. What is the value of $x$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_combinatoria,method_casework,method_invarianti,skill_casework_accurato,skill_lettura_attenta,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Max red-tribe members in circle where 48 of 100 say right neighbor is liar*
 
-> Two tribes live on an island: the green tribe and the red tribe. Members of one tribe always tell the truth, and members of the other tribe always lie. One day, $100$ people gathered in a circle, and a reporter asked each one: "Is your neighbor to the right a liar?" It was verified afterwards that $48$ people had answered "yes". At most, how many people from the red tribe (the liars) could be in the circle?
+> Duas tribos vivem numa ilha. Os da tribo azul só dizem a verdade e os da vermelha, só mentira. Um dia, $100$ pessoas da ilha se reuniram num círculo e um repórter se dirigiu a cada uma delas, com a pergunta: “O seu vizinho à direita é um mentiroso?”. Terminada a pesquisa, verificou-se que $48$ pessoas responderam “sim”. No máximo, quantas pessoas da tribo vermelha poderiam estar no círculo?
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -105,15 +134,29 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max red-tribe members in circle where 48 of 100 say right neighbor is liar*
+
+> Two tribes live on an island: the green tribe and the red tribe. Members of one tribe always tell the truth, and members of the other tribe always lie. One day, $100$ people gathered in a circle, and a reporter asked each one: "Is your neighbor to the right a liar?" It was verified afterwards that $48$ people had answered "yes". At most, how many people from the red tribe (the liars) could be in the circle?
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_solida,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Total mass of a 4x4x4 cube built from small cubes weighted by neighbor count*
 
-> With small cubes of the same size, a $4 \times 4 \times 4$ large cube was built. The small cubes are made of different materials: a small cube that has exactly $3$ face-neighbors (cubes sharing a face with it) weighs $10$ grams; one with $4$ face-neighbors weighs $8$ grams; one with $5$ face-neighbors weighs $6$ grams; and one with $6$ face-neighbors weighs $4$ grams. What is the total mass of the large cube, in grams?
+> Com cubinhos de mesmo tamanho construiu-se um cubo $4 \times 4 \times 4$. Os cubinhos são feitos de madeiras diferentes e foram colados assim: cubinhos com três cubos vizinhos (cubos com faces comuns) pesam $10$ gramas, com quatro vizinhos pesam $8$ gramas, com cinco vizinhos pesam $6$ gramas e com seis vizinhos pesam $4$ gramas. Qual é a massa do cubo, em gramas?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -136,15 +179,29 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Total mass of a 4x4x4 cube built from small cubes weighted by neighbor count*
+
+> With small cubes of the same size, a $4 \times 4 \times 4$ large cube was built. The small cubes are made of different materials: a small cube that has exactly $3$ face-neighbors (cubes sharing a face with it) weighs $10$ grams; one with $4$ face-neighbors weighs $8$ grams; one with $5$ face-neighbors weighs $6$ grams; and one with $6$ face-neighbors weighs $4$ grams. What is the total mass of the large cube, in grams?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 3-digit numbers with no zero digit having at least two equal digits*
 
-> How many $3$-digit numbers that contain no zero digit have at least two equal digits?
+> Quantos números de três algarismos diferentes de zero têm pelo menos dois algarismos iguais?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -167,14 +224,29 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 3-digit numbers with no zero digit having at least two equal digits*
+
+> How many $3$-digit numbers that contain no zero digit have at least two equal digits?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count brothers of 60 that are less than 1000*
 
-> We say two or more numbers are \textit{brothers} when they have exactly the same prime factors. For example, $10 = 2 \times 5$ and $20 = 2^2 \times 5$ are brothers, since $2$ and $5$ are their only prime factors. The number $60$ can have brothers less than $1000$. How many brothers less than $1000$ does $60$ have?
+> Dizemos que dois ou mais números são irmãos quando têm exatamente os mesmos fatores primos. Por exemplo, os números $10 = 2 \times 5$ e $20 = 2^2 \times 5$ são irmãos, pois têm $2$ e $5$ como seus únicos fatores primos. O número $60$ tem quantos irmãos menores do que $1000$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
@@ -197,26 +269,39 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count brothers of 60 that are less than 1000*
+
+> We say two or more numbers are \textit{brothers} when they have exactly the same prime factors. For example, $10 = 2 \times 5$ and $20 = 2^2 \times 5$ are brothers, since $2$ and $5$ are their only prime factors. The number $60$ can have brothers less than $1000$. How many brothers less than $1000$ does $60$ have?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_ricorsione,method_invarianti,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Units digit of partial sums of squares; find units digit for n=2011*
 
-> The sequence $1, 5, 4, 0, 5, \ldots$ is formed by the units digits of the successive partial sums of squares:
+> A sequência $1, 5, 4, 0, 5, \ldots$ é formada pelos algarismos das unidades das somas a seguir
 > $$1^2 = 1$$
 > $$1^2 + 2^2 = 5$$
 > $$1^2 + 2^2 + 3^2 = 14$$
 > $$1^2 + 2^2 + 3^2 + 4^2 = 30$$
-> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55$$
-> $$\vdots$$
-> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 + \cdots = \ldots$$
-> 
-> a) Write the sequence of units digits of the first ten sums $1^2,\; 1^2+2^2,\; \ldots,\; 1^2+2^2+\cdots+10^2$, obtained in the manner described above.
-> 
-> b) What is the units digit of $1^2 + 2^2 + \cdots + 2011^2$?
+> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 45$$
+> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 + \cdots = \ldots ??$$
+>
+> a) Escreva a sequência formada pelos algarismos das unidades das dez primeiras somas obtidas da forma descrita acima.
+>
+> b) Qual é o algarismo das unidades da soma $1^2 + 2^2 + \cdots + 2011^2$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -250,21 +335,46 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Units digit of partial sums of squares; find units digit for n=2011*
+
+> The sequence $1, 5, 4, 0, 5, \ldots$ is formed by the units digits of the successive partial sums of squares:
+> $$1^2 = 1$$
+> $$1^2 + 2^2 = 5$$
+> $$1^2 + 2^2 + 3^2 = 14$$
+> $$1^2 + 2^2 + 3^2 + 4^2 = 30$$
+> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55$$
+> $$\vdots$$
+> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 + \cdots = \ldots$$
+> 
+> a) Write the sequence of units digits of the first ten sums $1^2,\; 1^2+2^2,\; \ldots,\; 1^2+2^2+\cdots+10^2$, obtained in the manner described above.
+> 
+> b) What is the units digit of $1^2 + 2^2 + \cdots + 2011^2$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Selo (proper-divisor pair) of integers: compute, invert, and minimize*
 
-> The \textit{selo} (seal) of a positive integer $n$ is defined as the ordered pair $\mathrm{par}(x;\, y)$, where $x$ is the number of positive divisors of $n$ that are strictly less than $n$, and $y$ is the sum of those divisors. For example, the positive divisors of $10$ that are less than $10$ are $1$, $2$, and $5$, so the selo of $10$ is $(3;\, 8)$. The selo of the number $1$ is $(1;\, 1)$.
-> 
-> a) What is the selo of $9$?
-> 
-> b) Which number has selo $(2;\, 3)$?
-> 
-> c) Are there numbers whose selo is $(6;\, m)$? What is the smallest possible value of $m$?
+> Vamos chamar de selo de um número inteiro positivo o par $(x;\, y)$ no qual $x$ é o número de divisores positivos desse número menores do que ele e $y$ é a soma desses divisores. Por exemplo, o selo do número $10$ é $(3;\, 8)$ pois o número $10$ tem como divisores menores do que ele os números $1$, $2$ e $5$, cuja soma é $8$. Já o selo do número primo $13$ é $(1;\, 1)$.
+>
+> a) Qual é o selo do número $9$?
+>
+> b) Qual número tem o selo $(2;\, 3)$?
+>
+> c) Há números cujo selo é $(6;\, m)$. Qual é o menor valor possível para $m$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -293,21 +403,41 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Selo (proper-divisor pair) of integers: compute, invert, and minimize*
+
+> The \textit{selo} (seal) of a positive integer $n$ is defined as the ordered pair $\mathrm{par}(x;\, y)$, where $x$ is the number of positive divisors of $n$ that are strictly less than $n$, and $y$ is the sum of those divisors. For example, the positive divisors of $10$ that are less than $10$ are $1$, $2$, and $5$, so the selo of $10$ is $(3;\, 8)$. The selo of the number $1$ is $(1;\, 1)$.
+> 
+> a) What is the selo of $9$?
+> 
+> b) Which number has selo $(2;\, 3)$?
+> 
+> c) Are there numbers whose selo is $(6;\, m)$? What is the smallest possible value of $m$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum squares on geoplane with one continuous string (4x4 and 5x5)*
 
-> By tying a piece of string on a geoplane (a board of nails arranged in a square grid), Diamantino can form squares \textit{without passing the string over any nail more than once}. He can form two squares at once with a single piece of string as shown. (The figure shows a simplified portion of the geoplane; the squares are obtained from two of the nails.)
-> 
-> a) In the portion of the geoplane shown (a $4 \times 4$ grid of $16$ nails), draw the greatest number of equal squares that Diamantino can obtain using a single piece of string. Mark the arrows as in the example to indicate how the string is laid.
-> 
-> b) Diamantino claims he can obtain $11$ squares on his own geoplane. Show that you can also obtain the same quantity on the $5 \times 5$ grid of nails shown below. Do not forget to mark the arrows on the drawing.
-
-![[src_obm_2011_n1_f2__Q09.png]]
+> Amarrando um pedaço de barbante em um dos pregos do seu geoplano, Diamantino consegue formar quadrados, sem passar o barbante duas vezes pelo mesmo lado desses quadrados. A figura ao lado mostra um quadrado obtido desta maneira.
+>
+> A figura abaixo representa de forma simplificada uma parte do geoplano em que foram obtidos dois quadrados da maneira descrita acima, partindo-se de qualquer um dos pregos.
+>
+> a) Desenhe, na parte do geoplano representada ao lado, a maior quantidade de quadrados iguais que Diamantino pode obter com um único pedaço de barbante. Coloque as flechinhas como no exemplo para indicar como foi colocado o barbante.
+>
+> b) Diamantino garante que pode obter $11$ quadrados no seu geoplano. Mostre que você também pode obter a mesma quantidade na figura abaixo. Não se esqueça das flechinhas no desenho.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -333,3 +463,24 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum squares on geoplane with one continuous string (4x4 and 5x5)*
+
+> By tying a piece of string on a geoplane (a board of nails arranged in a square grid), Diamantino can form squares \textit{without passing the string over any nail more than once}. He can form two squares at once with a single piece of string as shown. (The figure shows a simplified portion of the geoplane; the squares are obtained from two of the nails.)
+> 
+> a) In the portion of the geoplane shown (a $4 \times 4$ grid of $16$ nails), draw the greatest number of equal squares that Diamantino can obtain using a single piece of string. Mark the arrows as in the example to indicate how the string is laid.
+> 
+> b) Diamantino claims he can obtain $11$ squares on his own geoplane. Show that you can also obtain the same quantity on the $5 \times 5$ grid of nails shown below. Do not forget to mark the arrows on the drawing.
+
+![[src_obm_2011_n1_f2__Q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)

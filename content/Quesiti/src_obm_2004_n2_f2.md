@@ -12,14 +12,16 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find digit sum a+b+c from a long multiplication*
 
-> In the following multiplication, $a$, $b$, and $c$ are digits:
-> $$\begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}$$
-> Find $a + b + c$.
+> Na multiplicação a seguir, $a$, $b$ e $c$ são algarismos:
+> $$
+> \begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}
+> $$
+> Calcule $a + b + c$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -44,15 +46,31 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find digit sum a+b+c from a long multiplication*
+
+> In the following multiplication, $a$, $b$, and $c$ are digits:
+> $$\begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}$$
+> Find $a + b + c$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,method_bigezione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count ways to shade one cell per row and column in 4x4 grid*
 
-> In how many ways can we shade four cells of a $4 \times 4$ grid so that each row and each column contains exactly one shaded cell?
+> De quantos modos podemos sombrear quatro casas do tabuleiro $4 \times 4$ abaixo de modo que em cada linha e em cada coluna exista uma única casa sombreada?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_bigezione|Bijection / correspondence]]
@@ -75,15 +93,29 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count ways to shade one cell per row and column in 4x4 grid*
+
+> In how many ways can we shade four cells of a $4 \times 4$ grid so that each row and each column contains exactly one shaded cell?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find digit sum of a nested radical expression*
 
-> What is the sum of the digits of the number $\sqrt{2004 \times 2002 \times 1998 \times 1996 + 36}$?
+> Qual é a soma dos algarismos do número $\sqrt{2004 \times 2002 \times 1998 \times 1996 + 36}$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -106,18 +138,29 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find digit sum of a nested radical expression*
+
+> What is the sum of the digits of the number $\sqrt{2004 \times 2002 \times 1998 \times 1996 + 36}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find x so staircase polygon area equals right triangle area*
 
-> In the figure, triangle $ABC$ is right-angled and the sides of the polygon (shaded region) are parallel to the legs of the triangle and coincide with segments along those legs. The top side of the triangle has lengths $5$ and $10$ marked (so the horizontal leg at the top equals $15$), and $x$ is the length marked at the bottom right near $C$.
-> 
-> Find $x$ such that the area of the polygon equals the area of triangle $ABC$.
-
-![[src_obm_2004_n2_f2__Q04.png]]
+> No desenho ao lado, o triângulo $ABC$ é retângulo e os lados do polígono (região escura) são paralelos ou coincidem com algum dos catetos do triângulo. Calcule $x$ de modo que a área do polígono seja igual à do triângulo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -144,14 +187,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find x so staircase polygon area equals right triangle area*
+
+> In the figure, triangle $ABC$ is right-angled and the sides of the polygon (shaded region) are parallel to the legs of the triangle and coincide with segments along those legs. The top side of the triangle has lengths $5$ and $10$ marked (so the horizontal leg at the top equals $15$), and $x$ is the length marked at the bottom right near $C$.
+> 
+> Find $x$ such that the area of the polygon equals the area of triangle $ABC$.
+
+![[src_obm_2004_n2_f2__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count right triangles formed by vertices of a regular 20-gon*
 
-> A polygon with 20 sides is called an icosagon. By connecting three vertices of a regular icosagon we obtain triangles. How many of these triangles are right triangles?
+> Um polígono com 20 lados é chamado icoságono. Unindo-se três dos vértices de um icoságono regular obtemos triângulos. Quantos são triângulos retângulos?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -174,18 +236,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count right triangles formed by vertices of a regular 20-gon*
+
+> A polygon with 20 sides is called an icosagon. By connecting three vertices of a regular icosagon we obtain triangles. How many of these triangles are right triangles?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_invarianti,skill_lettura_attenta,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Split set of perfect squares into two equal-sum groups*
 
-> **Problema 1** (Part B)
-> 
-> (a) Is it possible to divide the set $\{1^2, 2^2, 3^2, \ldots, 7^2\}$ into two groups $A$ and $B$ such that the sum of the elements of $A$ equals the sum of the elements of $B$? Justify your answer.
-> 
-> (b) Is it possible to divide the set $\{1^2, 2^2, 3^2, \ldots, 9^2\}$ into two groups $C$ and $D$ such that the sum of the elements of $C$ equals the sum of the elements of $D$? Justify your answer.
+> PROBLEMA 1
+>
+> (a) É possível dividir o conjunto $\{1^{2}, 2^{2}, \ldots, 7^{2}\}$ em dois grupos $A$ e $B$ de modo que a soma dos elementos de $A$ seja igual à soma dos elementos de $B$? Justifique.
+>
+> (b) É possível dividir o conjunto $\{1^{2}, 2^{2}, 3^{2}, \ldots, 9^{2}\}$ em dois grupos $C$ e $D$ de modo que a soma dos elementos de $C$ seja igual à soma dos elementos de $D$? Justifique.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -212,22 +289,42 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Split set of perfect squares into two equal-sum groups*
+
+> **Problema 1** (Part B)
+> 
+> (a) Is it possible to divide the set $\{1^2, 2^2, 3^2, \ldots, 7^2\}$ into two groups $A$ and $B$ such that the sum of the elements of $A$ equals the sum of the elements of $B$? Justify your answer.
+> 
+> (b) Is it possible to divide the set $\{1^2, 2^2, 3^2, \ldots, 9^2\}$ into two groups $C$ and $D$ such that the sum of the elements of $C$ equals the sum of the elements of $D$? Justify your answer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_invarianti,method_backward,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Simplify continued fraction; find initial calculator display value*
 
-> **Problema 2** (Part B)
-> 
-> (a) Simplify the expression
+> PROBLEMA 2
+>
+> (a) Simplifique a expressão
 > $$1 - \dfrac{1}{1 - \dfrac{1}{1 - \dfrac{1}{x}}}.$$
-> 
-> (b) A calculator has two special keys: key $A$ transforms the number $x$ currently shown on the display into $\dfrac{1}{x}$; key $B$ transforms $x$ into $1 - x$.
-> 
-> Pedro presses the keys alternately in the order $A, B, A, B, \ldots$ for a total of 1000 key presses. After these 1000 operations, the display showed the number $2004$. What number did Pedro have on the display initially?
+>
+> (b) Certa calculadora tem duas teclas especiais: $A$ e $B$. A tecla $A$ transforma o número $x$ que está no visor em $\dfrac{1}{x}$. A tecla $B$ transforma o número $x$ que está no visor em $1 - x$.
+>
+> Pedro tem um número no visor e aperta sucessivamente, de forma alternada, as duas teclas: $A$, $B$, $A$, $B$, $\ldots$.
+>
+> Após 1000 operações, o visor mostrava o número $2004$. Que número Pedro tinha inicialmente no visor?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_backward|Backward]]
@@ -257,21 +354,44 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Simplify continued fraction; find initial calculator display value*
+
+> **Problema 2** (Part B)
+> 
+> (a) Simplify the expression
+> $$1 - \dfrac{1}{1 - \dfrac{1}{1 - \dfrac{1}{x}}}.$$
+> 
+> (b) A calculator has two special keys: key $A$ transforms the number $x$ currently shown on the display into $\dfrac{1}{x}$; key $B$ transforms $x$ into $1 - x$.
+> 
+> Pedro presses the keys alternately in the order $A, B, A, B, \ldots$ for a total of 1000 key presses. After these 1000 operations, the display showed the number $2004$. What number did Pedro have on the display initially?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Paper folding: find segment AB' and side AD*
 
-> **Problema 3** (Part B)
-> 
-> A rectangular sheet of paper $ABCD$ was folded so that vertex $B$ was brought to a point $B'$ on side $AD$. The fold line is $EF$, with $E$ on side $AB$ and $F$ on side $CD$.
-> 
-> It is known that $AE = 8$, $BE = 17$, and $CF = 3$.
-> 
-> (a) Find the length of segment $AB'$.
-> (b) Find the length of side $AD$.
+> PROBLEMA 3
+>
+> Uma folha de papel retangular $ABCD$ foi dobrada de modo que o vértice $B$ foi levado no ponto $B'$ sobre o lado $AD$. A dobra é $EF$, com $E$ sobre $AB$ e $F$ sobre $CD$.
+>
+> Sabe-se que $AE = 8$, $BE = 17$ e $CF = 3$.
+>
+> (a) Calcule a medida do segmento $AB'$.
+>
+> (b) Calcule a medida do lado $AD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
@@ -301,20 +421,40 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Paper folding: find segment AB' and side AD*
+
+> **Problema 3** (Part B)
+> 
+> A rectangular sheet of paper $ABCD$ was folded so that vertex $B$ was brought to a point $B'$ on side $AD$. The fold line is $EF$, with $E$ on side $AB$ and $F$ on side $CD$.
+> 
+> It is known that $AE = 8$, $BE = 17$, and $CF = 3$.
+> 
+> (a) Find the length of segment $AB'$.
+> (b) Find the length of side $AD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 4-digit legal numbers defined by digit sum condition*
 
-> **Problema 4** (Part B)
-> 
-> A 4-digit number $\overline{abcd}$ is called *legal* if the sum of the number formed by its first two digits and the number formed by its last two digits equals the number formed by its two middle digits. In other words, $\overline{ab} + \overline{cd} = \overline{bc}$ (equivalently, $(10a + b) + (10c + d) = 10b + c$). For example, $2307$ is legal because $23 + 07 = 30$.
-> 
-> (a) What is the smallest legal number greater than $2307$?
-> (b) How many legal 4-digit numbers are there?
+> Um número de 4 algarismos $\overline{abcd}$ é chamado de legal quando a soma dos números formados pelos dois primeiros e pelos dois últimos algarismos é igual ao número formado pelos algarismos centrais (ou seja, $\overline{ab} + \overline{cd} = \overline{bc}$). Por exemplo, $2307$ é um número legal pois $23 + 07 = 30$.
+>
+> (a) Qual é o menor número legal maior do que $2307$?
+>
+> (b) Quantos são os números legais de 4 algarismos?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -339,3 +479,23 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 4-digit legal numbers defined by digit sum condition*
+
+> **Problema 4** (Part B)
+> 
+> A 4-digit number $\overline{abcd}$ is called *legal* if the sum of the number formed by its first two digits and the number formed by its last two digits equals the number formed by its two middle digits. In other words, $\overline{ab} + \overline{cd} = \overline{bc}$ (equivalently, $(10a + b) + (10c + d) = 10b + c$). For example, $2307$ is legal because $23 + 07 = 30$.
+> 
+> (a) What is the smallest legal number greater than $2307$?
+> (b) How many legal 4-digit numbers are there?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)

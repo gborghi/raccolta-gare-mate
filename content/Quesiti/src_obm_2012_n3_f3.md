@@ -12,14 +12,14 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Amoeba colour dynamics; count possible states in test tube*
 
-> When two red amoebas meet, they transform into a single blue amoeba; when a red amoeba meets a blue amoeba, the two transform into three red amoebas; when two blue amoebas meet, they transform into four red amoebas. A test tube initially contains $a$ blue amoebas and $v$ red amoebas.
-> 
-> Determine, as a function of $a$ and $v$, all possible quantities of amoebas in the test tube and the number of amoebas of each colour for each such quantity.
+> Quando duas amebas vermelhas se juntam, se transformam em uma única ameba azul; quando uma ameba vermelha se junta com uma ameba azul, as duas se transformam em três amebas vermelhas; quando duas amebas azuis se juntam, elas se transformam em quatro amebas vermelhas. Um tubo de ensaio tem inicialmente $a$ amebas azuis e $v$ amebas vermelhas.
+>
+> Determine, em função de $a$ e $v$, todas as quantidades de amebas possíveis no tubo de ensaio e, para cada quantidade de amebas, as possibilidades de quantidades de amebas de cada cor.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -44,14 +44,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Amoeba colour dynamics; count possible states in test tube*
+
+> When two red amoebas meet, they transform into a single blue amoeba; when a red amoeba meets a blue amoeba, the two transform into three red amoebas; when two blue amoebas meet, they transform into four red amoebas. A test tube initially contains $a$ blue amoebas and $v$ red amoebas.
+> 
+> Determine, as a function of $a$ and $v$, all possible quantities of amoebas in the test tube and the number of amoebas of each colour for each such quantity.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Excentres, midpoints of sides, and incircle concurrency in scalene triangle*
 
-> Given a triangle $ABC$, let $A$ be the circumcentre relative to vertex $A$ and let $O$ be the point of intersection of the external bisectors of $\angle B$ and $\angle C$. Let $I_A$, $I_B$, $I_C$ be the excentres of scalene triangle $ABC$ relative to $A$, $B$, $C$, respectively, and let $X$, $Y$, $Z$ be the midpoints of $I_A I_B$, $I_A I_C$, $I_B I_C$, respectively. The incircle of triangle $ABC$ touches the sides $BC$, $CA$, $AB$ at points $D$, $E$, $F$, respectively. Prove that the lines $DX$, $EY$, and $FZ$ meet at a common point belonging to triangle $ABC$.
+> Dado um triângulo $ABC$, o exincentro relativo ao vértice $A$ é o ponto de interseção das bissetrizes externas de $\angle B$ e $\angle C$. Sejam $I_A$, $I_B$ e $I_C$ os exincentros do triângulo escaleno $ABC$ relativos a $A$, $B$ e $C$, respectivamente, e $X$, $Y$ e $Z$ os pontos médios de $I_B I_C$, $I_C I_A$ e $I_A I_B$, respectivamente. O incírculo do triângulo $ABC$ toca os lados $BC$, $CA$ e $AB$ nos pontos $D$, $E$ e $F$, respectivamente. Prove que as retas $DX$, $EY$ e $FZ$ têm um ponto em comum pertencente à reta $IO$, sendo $I$ e $O$ o incentro e o circuncentro do triângulo $ABC$, respectivamente.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -74,14 +91,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Excentres, midpoints of sides, and incircle concurrency in scalene triangle*
+
+> Given a triangle $ABC$, let $A$ be the circumcentre relative to vertex $A$ and let $O$ be the point of intersection of the external bisectors of $\angle B$ and $\angle C$. Let $I_A$, $I_B$, $I_C$ be the excentres of scalene triangle $ABC$ relative to $A$, $B$, $C$, respectively, and let $X$, $Y$, $Z$ be the midpoints of $I_A I_B$, $I_A I_C$, $I_B I_C$, respectively. The incircle of triangle $ABC$ touches the sides $BC$, $CA$, $AB$ at points $D$, $E$, $F$, respectively. Prove that the lines $DX$, $EY$, and $FZ$ meet at a common point belonging to triangle $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest n such that last 2012 decimal digits of n^n equal 1*
 
-> What is the smallest natural number $n$ for which there exists a natural number $k$ such that the last $2012$ digits of $n^k$ in decimal representation are all equal to $1$?
+> Qual é o menor natural $n$ para o qual existe $k$ natural de modo que os $2012$ últimos dígitos na representação decimal de $n^k$ são iguais a $1$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
@@ -104,16 +136,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest n such that last 2012 decimal digits of n^n equal 1*
+
+> What is the smallest natural number $n$ for which there exists a natural number $k$ such that the last $2012$ digits of $n^k$ in decimal representation are all equal to $1$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Existence of positive integers with n^2 as sum of prime-power terms*
 
-> Determine whether there exist positive integers $n$, $a_1$, $a_2$, $\ldots$, $a_{2012}$, all greater than or equal to $2$, such that
+> Determine se existem inteiros positivos $n$, $a_1$, $a_2$, $\ldots$, $a_{2012}$, todos maiores ou iguais a $2$, tais que
 > $$n^2 = a_1^2 + a_2^3 + a_3^5 + \cdots + a_i^{p_i} + \cdots + a_{2012}^{p_{2012}},$$
-> where $p_i$ is the $i$-th prime (i.e., $p_1 = 2$, $p_2 = 3$, $p_3 = 5$, $\ldots$).
+> onde $p_i$ é o $i$-ésimo primo (ou seja, $p_1 = 2$, $p_2 = 3$, $p_3 = 5$, $\ldots$).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|method_casework]]
@@ -138,14 +185,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Existence of positive integers with n^2 as sum of prime-power terms*
+
+> Determine whether there exist positive integers $n$, $a_1$, $a_2$, $\ldots$, $a_{2012}$, all greater than or equal to $2$, such that
+> $$n^2 = a_1^2 + a_2^3 + a_3^5 + \cdots + a_i^{p_i} + \cdots + a_{2012}^{p_{2012}},$$
+> where $p_i$ is the $i$-th prime (i.e., $p_1 = 2$, $p_2 = 3$, $p_3 = 5$, $\ldots$).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|method_casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count colourings of n×n grid with 4 colours, no monochromatic 2×2 square side*
 
-> In how many ways can the cells of an $n \times n$ board be coloured with $4$ colours such that no two cells sharing a side have the same colour, and in every $2 \times 2$ square formed by four cells in consecutive rows and columns all four colours appear?
+> De quantas maneiras podemos pintar as casas de um tabuleiro $n \times n$ com $4$ cores de modo que casas com um lado em comum não tenham a mesma cor e em cada quadrado $2 \times 2$ formado por quatro casas em linhas e colunas consecutivas apareçam as quatro cores?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -168,18 +232,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count colourings of n×n grid with 4 colours, no monochromatic 2×2 square side*
+
+> In how many ways can the cells of an $n \times n$ board be coloured with $4$ colours such that no two cells sharing a side have the same colour, and in every $2 \times 2$ square formed by four cells in consecutive rows and columns all four colours appear?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_insiemi_funzioni,method_simmetria,method_backward,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all surjective functions f: R+ → R+ satisfying a functional equation*
 
-> Find all surjective functions $f$ from the positive reals to the positive reals such that
+> Encontre todas as funções sobrejetoras $f$ dos reais positivos nos reais positivos tais que
 > $$2x \cdot f(f(x)) = (f(f(x)) + x) \cdot f(x)$$
-> for every positive real $x$.
-> 
-> (*Note:* A function $f$ from $A$ to $B$ is *surjective* if the image of $f$ is all of $B$, i.e., for every $y \in B$ there exists $x \in A$ such that $f(x) = y$.)
+> para todo $x$ real positivo.
+>
+> *Obs.:* uma função $f$ de $A$ em $B$ é sobrejetora quando a imagem de $f$ é $B$, ou seja, para todo $y \in B$ existe $x \in A$ tal que $f(x) = y$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_backward|Backward]]
@@ -203,3 +282,22 @@ level: OBM Nível 3
 **Metodo:** [[method_simmetria|Simmetria]], [[method_backward|Backward]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all surjective functions f: R+ → R+ satisfying a functional equation*
+
+> Find all surjective functions $f$ from the positive reals to the positive reals such that
+> $$2x \cdot f(f(x)) = (f(f(x)) + x) \cdot f(x)$$
+> for every positive real $x$.
+> 
+> (*Note:* A function $f$ from $A$ to $B$ is *surjective* if the image of $f$ is all of $B$, i.e., for every $y \in B$ there exists $x \in A$ such that $f(x) = y$.)
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)

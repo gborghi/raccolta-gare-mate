@@ -188,9 +188,7 @@ level: China Western Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*AMN~ABC se e solo se AD passa per il circocentro, tramite le perpendicolari condotte da A*
-
+*AMN simile ad ABC se e solo se AD passa per il circocentro, tramite le perpendicolari condotte da A a PX e QY.*
 > Sia $D$ un punto sul lato $BC$ di un triangolo acutangolo $ABC$. La circonferenza avente come diametro $BD$ interseca le rette $AB$ e $AD$ rispettivamente nei punti $Y$ e $Q$, i quali sono diversi dai punti $B$ e $D$. La circonferenza avente come diametro $CD$ interseca le rette $AC$ e $AD$ rispettivamente nei punti $P$ e $X$, i quali sono diversi dai punti $C$ e $D$. Passando per il punto $A$, si traccino due rette perpendicolari rispettivamente a $PX$ e a $QY$, con i piedi delle perpendicolari $M$ e $N$ rispettivamente. Dimostrare che $\triangle AMN \odot \triangle ABC$ se e solo se $AD$ passa per il circocentro di $\triangle ABC$.
 
 ![[src_cn_cwmo_2009__Q06.png]]

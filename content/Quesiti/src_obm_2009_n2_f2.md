@@ -12,12 +12,12 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Add water to dilute 9L alcohol mixture to 30% alcohol*
 
-> Esmeralda has a bottle containing 9 liters of a mixture that is 50\% alcohol and 50\% water. She wants to add water to the bottle so that the resulting mixture is only 30\% alcohol. How many liters of water should she add?
+> Esmeralda tem uma garrafa com 9 litros de uma mistura que tem 50% de álcool e 50% de água. Ela quer colocar água na garrafa de tal forma que apenas 30% da mistura seja de álcool. Quantos litros de água ela irá colocar?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,15 +40,29 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Add water to dilute 9L alcohol mixture to 30% alcohol*
+
+> Esmeralda has a bottle containing 9 liters of a mixture that is 50\% alcohol and 50\% water. She wants to add water to the bottle so that the resulting mixture is only 30\% alcohol. How many liters of water should she add?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Max value of ab+bc+cd+da for a,b,c,d a permutation of 1,2,3,4*
 
-> If $a$, $b$, $c$, and $d$ are, in some order, the numbers $1$, $2$, $3$, and $4$, what is the largest possible value of
+> Se $a$, $b$, $c$ e $d$ são, em alguma ordem, $1$, $2$, $3$ e $4$, qual é o maior valor possível de
 > $$ab + bc + cd + da?$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -73,15 +87,30 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max value of ab+bc+cd+da for a,b,c,d a permutation of 1,2,3,4*
+
+> If $a$, $b$, $c$, and $d$ are, in some order, the numbers $1$, $2$, $3$, and $4$, what is the largest possible value of
+> $$ab + bc + cd + da?$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest family of 3-digit numbers sharing at least one digit pairwise*
 
-> We say that two or more numbers, each having the same number of digits, belong to the same family when every pair of them shares at least one digit in common. For example, $32$, $25$, and $22$ belong to the same family, because $32$ and $25$ share the digit $2$, $25$ and $22$ share the digit $2$, and $32$ and $22$ share the digit $2$. On the other hand, $123$, $245$, and $568$ do not belong to the same family, since $123$ and $568$ share no common digit. What is the largest number of members a family of three-digit numbers can have?
+> Dizemos que dois ou mais números, com a mesma quantidade de algarismos, são membros da mesma família, quando todos possuem pelo menos um algarismo em comum. Por exemplo, os números $32$, $25$ e $22$ pertencem à mesma família, enquanto que $123$, $245$ e $568$ não pertencem à mesma família, pois $123$ e $568$ não pertencem à mesma família. Qual é a maior quantidade de membros de uma família, cujos elementos têm três algarismos?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -104,14 +133,29 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest family of 3-digit numbers sharing at least one digit pairwise*
+
+> We say that two or more numbers, each having the same number of digits, belong to the same family when every pair of them shares at least one digit in common. For example, $32$, $25$, and $22$ belong to the same family, because $32$ and $25$ share the digit $2$, $25$ and $22$ share the digit $2$, and $32$ and $22$ share the digit $2$. On the other hand, $123$, $245$, and $568$ do not belong to the same family, since $123$ and $568$ share no common digit. What is the largest number of members a family of three-digit numbers can have?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count two-digit integers divisible by each of their digits*
 
-> Determine how many two-digit integers are divisible by both of their digits.
+> Determine a quantidade de inteiros de dois algarismos que são divisíveis pelos seus algarismos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -134,16 +178,29 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count two-digit integers divisible by each of their digits*
+
+> Determine how many two-digit integers are divisible by both of their digits.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Overlapping squares ABCD and EFGH side 48; find highlighted intersection area*
 
-> In the figure below, $ABCD$ and $EFGH$ are squares with side length $48\,\text{cm}$. Knowing that $A$ is the midpoint of $EF$ and $G$ is the midpoint of $DC$, determine the area of the shaded (highlighted) region in $\text{cm}^2$.
-
-![[src_obm_2009_n2_f2__Q05.png]]
+> Na figura abaixo, $ABCD$ e $EFGH$ são quadrados de lado $48\,\text{cm}$. Sabendo que $A$ é o ponto médio de $EF$ e $G$ é o ponto médio de $DC$, determine a área destacada em $\text{cm}^2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -168,20 +225,45 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Overlapping squares ABCD and EFGH side 48; find highlighted intersection area*
+
+> In the figure below, $ABCD$ and $EFGH$ are squares with side length $48\,\text{cm}$. Knowing that $A$ is the midpoint of $EF$ and $G$ is the midpoint of $DC$, determine the area of the shaded (highlighted) region in $\text{cm}^2$.
+
+![[src_obm_2009_n2_f2__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Chinese Remainder Theorem table mod 7 and mod 3; sum highlighted cells*
 
-> Let $m$ and $n$ be two positive integers with $\gcd(m,n)=1$ and $0 \le j < m$, $0 \le i < n$. The Chinese Remainder Theorem states that there exists exactly one integer $a$ with $0 \le a < mn$ such that the remainder of dividing $a$ by $m$ equals $j$ and the remainder of dividing $a$ by $n$ equals $i$. For example, with $m=7$ and $n=3$, we have $19$ as the unique number in $\{0,1,\ldots,20\}$ that leaves remainder $5$ when divided by $7$ and remainder $1$ when divided by $3$.
-> 
-> Thus, a table is formed where each cell $(i,j)$ (row $i$ for remainder mod $3$, column $j$ for remainder mod $7$) contains the unique value $a \in \{0,1,\ldots,20\}$ satisfying the two congruences. The table is partially filled as shown, with the number $19$ appearing in one of the highlighted cells.
-> 
-> What is the sum of the numbers in the highlighted cells?
-
-![[src_obm_2009_n2_f2__Q06.png]]
+> Sejam $m$ e $n$ dois inteiros positivos primos entre si. O Teorema Chinês dos Restos afirma que, dados inteiros $i$ e $j$ com $0 \le i < m$ e $0 \le j < n$, existe exatamente um inteiro $a$, com $0 \le a < m\cdot n$, tal que o resto da divisão de $a$ por $m$ é igual a $i$ e o resto da divisão de $a$ por $n$ é igual a $j$. Por exemplo, para $m = 3$ e $n = 7$, temos que $19$ é o único número que deixa restos $1$ e $5$ quando dividido por $3$ e $7$, respectivamente.
+>
+> Assim, na tabela a seguir, cada número de $0$ a $20$ aparecerá exatamente uma vez.
+>
+> Restos por $7$: $0$ $1$ $2$ $3$ $4$ $5$ $6$
+>
+> Restos por $3$:
+>
+> $0$
+>
+> $1$ $\quad 19$
+>
+> $2$
+>
+> Qual a soma dos números das casas destacadas?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
@@ -210,24 +292,42 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Chinese Remainder Theorem table mod 7 and mod 3; sum highlighted cells*
+
+> Let $m$ and $n$ be two positive integers with $\gcd(m,n)=1$ and $0 \le j < m$, $0 \le i < n$. The Chinese Remainder Theorem states that there exists exactly one integer $a$ with $0 \le a < mn$ such that the remainder of dividing $a$ by $m$ equals $j$ and the remainder of dividing $a$ by $n$ equals $i$. For example, with $m=7$ and $n=3$, we have $19$ as the unique number in $\{0,1,\ldots,20\}$ that leaves remainder $5$ when divided by $7$ and remainder $1$ when divided by $3$.
+> 
+> Thus, a table is formed where each cell $(i,j)$ (row $i$ for remainder mod $3$, column $j$ for remainder mod $7$) contains the unique value $a \in \{0,1,\ldots,20\}$ satisfying the two congruences. The table is partially filled as shown, with the number $19$ appearing in one of the highlighted cells.
+> 
+> What is the sum of the numbers in the highlighted cells?
+
+![[src_obm_2009_n2_f2__Q06.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Recurrence sequence S_k=ar^k+bs^k; find S_7 given S_1..S_4*
 
-> Observe that
-> $$(x-r)(x-s) = x^2 - (r+s)x + rs.$$
-> Substituting $x$ by $r$ and then by $s$, we obtain:
-> $$\begin{cases} r^2 - (r+s)r + rs = 0 \\ s^2 - (r+s)s + rs = 0. \end{cases}$$
-> Multiplying the first equation by $a r^{n-1}$ and the second by $b s^{n-1}$ and adding:
-> $$a r^{n+1} - (r+s)\,a r^n + rs\,a r^{n-1} = 0 \quad \text{and} \quad b s^{n+1} - (r+s)\,b s^n + rs\,b s^{n-1} = 0.$$
-> Summing these two equations and writing $S_k = a r^k + b s^k$, one verifies that
-> $$S_{n+1} = (r+s)\,S_n - rs\,S_{n-1}.$$
-> Given
-> $$S_1 = ar + bs = 1, \quad S_2 = ar^2 + bs^2 = 2, \quad S_3 = ar^3 + bs^3 = 5, \quad S_4 = ar^4 + bs^4 = 6,$$
-> determine $S_7$.
+> Observe:
+> $$(x - r)(x - s) = x^{2} - (r + s)x + rs.$$
+> Assim, substituindo $x$ por $r$ e por $s$, obtemos
+> $$r^{2} - (r + s)r + rs = 0, \qquad a\bigl(r^{n+2} - (r + s)r^{n+1} + rs\cdot r^{n}\bigr) = 0$$
+> $$s^{2} - (r + s)s + rs = 0, \qquad b\bigl(s^{n+2} - (r + s)s^{n+1} + rs\cdot s^{n}\bigr) = 0.$$
+> Somando as duas equações e sendo $S_n = a\cdot r^{n} + b\cdot s^{n}$, verifica-se que
+> $$S_{n+2} = (r + s)S_{n+1} - rs\, S_n.$$
+> Dados $S_1 = ar + bs = 1$, $S_2 = ar^{2} + bs^{2} = 2$, $S_3 = ar^{3} + bs^{3} = 5$ e $S_4 = ar^{4} + bs^{4} = 6$, determine $S_5 = ar^{5} + bs^{5}$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
@@ -260,17 +360,41 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Recurrence sequence S_k=ar^k+bs^k; find S_7 given S_1..S_4*
+
+> Observe that
+> $$(x-r)(x-s) = x^2 - (r+s)x + rs.$$
+> Substituting $x$ by $r$ and then by $s$, we obtain:
+> $$\begin{cases} r^2 - (r+s)r + rs = 0 \\ s^2 - (r+s)s + rs = 0. \end{cases}$$
+> Multiplying the first equation by $a r^{n-1}$ and the second by $b s^{n-1}$ and adding:
+> $$a r^{n+1} - (r+s)\,a r^n + rs\,a r^{n-1} = 0 \quad \text{and} \quad b s^{n+1} - (r+s)\,b s^n + rs\,b s^{n-1} = 0.$$
+> Summing these two equations and writing $S_k = a r^k + b s^k$, one verifies that
+> $$S_{n+1} = (r+s)\,S_n - rs\,S_{n-1}.$$
+> Given
+> $$S_1 = ar + bs = 1, \quad S_2 = ar^2 + bs^2 = 2, \quad S_3 = ar^3 + bs^3 = 5, \quad S_4 = ar^4 + bs^4 = 6,$$
+> determine $S_7$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triangle median geometry: find MN perpendicular to AB given AN=2NC, AC=12*
 
-> Let $N$ be a point on side $AC$ of triangle $ABC$ such that $AN = 2NC$, and let $M$ be a point on side $AB$ such that $MN \perp AB$. Given that $AC = 12\,\text{cm}$ and that $G$ is the centroid of triangle $ABC$ (the intersection point of the medians), determine the length of segment $MN$.
-> 
-> \textit{Note: The centroid (baricentro) is the intersection point of the medians of the triangle.}
+> Seja $N$ é o ponto do lado $AC$ do triângulo $ABC$ tal que $AN = 2\,NC$ e $M$ o ponto do lado $AB$ tal que $MN$ é perpendicular a $AB$. Sabendo que $AC = 12\,\text{cm}$ e que o baricentro $G$ do triângulo $ABC$ pertence ao segmento $MN$, determine o comprimento do segmento $BG$.
+>
+> OBS: Baricentro é o ponto de interseção das medianas do triângulo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -295,18 +419,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle median geometry: find MN perpendicular to AB given AN=2NC, AC=12*
+
+> Let $N$ be a point on side $AC$ of triangle $ABC$ such that $AN = 2NC$, and let $M$ be a point on side $AB$ such that $MN \perp AB$. Given that $AC = 12\,\text{cm}$ and that $G$ is the centroid of triangle $ABC$ (the intersection point of the medians), determine the length of segment $MN$.
+> 
+> \textit{Note: The centroid (baricentro) is the intersection point of the medians of the triangle.}
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_doppio_conteggio,method_cassetti,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Chess tournament 8 players 7 rounds: score possibilities and minimum leader score*
 
-> A chess championship has 7 rounds. In each round, each player scores one point for a win, half a point for a draw, and no points for a loss. There are 8 participants, and each pair of players faces each other exactly once.
-> 
-> (a) After the third round, is it possible that all players have distinct scores? Justify your answer.
-> 
-> (b) At the end of the championship, what is the minimum number of points that the first-place player could have obtained? Justify your answer.
+> Um campeonato de xadrez de 7 rodadas, com 4 jogos por rodada, tem 8 participantes, cujas pontuações por jogo são as usuais: um ponto por vitória, meio ponto por empate e nenhum ponto por derrota. Cada par de jogadores se enfrenta exatamente uma vez.
+>
+> a) Ao término da terceira rodada, é possível que todos os jogadores tenham pontuações distintas?
+>
+> b) Se no final do campeonato todos os jogadores têm pontuações distintas qual o menor número possível de pontos obtidos pelo primeiro colocado?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_cassetti|Pigeonhole principle]]
@@ -331,3 +472,21 @@ level: OBM Nível 2
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Chess tournament 8 players 7 rounds: score possibilities and minimum leader score*
+
+> A chess championship has 7 rounds. In each round, each player scores one point for a win, half a point for a draw, and no points for a loss. There are 8 participants, and each pair of players faces each other exactly once.
+> 
+> (a) After the third round, is it possible that all players have distinct scores? Justify your answer.
+> 
+> (b) At the end of the championship, what is the minimum number of points that the first-place player could have obtained? Justify your answer.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)

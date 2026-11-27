@@ -12,18 +12,18 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Order of toy cars arriving from clue constraints*
 
-> Juquinha and his friends organized a race with their toy cars. The white car (B) arrived before the red one (V) and before the brown one (M); the blue car (A) arrived after the brown one and before the red one. What was the order in which the cars arrived?
+> Juquinha e seus amigos organizaram uma corrida com seus carrinhos. O carrinho branco (B) chegou antes do vermelho (V) e do marrom (M). O carrinho azul (A) chegou depois do marrom e antes do vermelho. Qual foi a ordem de chegada dos carrinhos?
 >
-> - **(A)** B-A-V-M
-> - **(B)** B-V-A-M
-> - **(C)** B-M-A-V
-> - **(D)** B-M-V-A
-> - **(E)** B-A-M-V
+> - **(A)** B–A–V–M
+> - **(B)** B–V–A–M
+> - **(C)** B–M–A–V
+> - **(D)** B–M–V–A
+> - **(E)** B–A–M–V
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -57,14 +57,38 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Order of toy cars arriving from clue constraints*
+
+> Juquinha and his friends organized a race with their toy cars. The white car (B) arrived before the red one (V) and before the brown one (M); the blue car (A) arrived after the brown one and before the red one. What was the order in which the cars arrived?
+>
+> - **(A)** B-A-V-M
+> - **(B)** B-V-A-M
+> - **(C)** B-M-A-V
+> - **(D)** B-M-V-A
+> - **(E)** B-A-M-V
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Time to cut a log into 9 pieces given cost of 5 cuts*
 
-> To cut a straight eucalyptus trunk into 6 parts, the woodsman Josué makes 5 cuts. He takes half an hour to make these cuts, which are always made in the same way. How long will Josué take to cut another identical trunk into 9 pieces?
+> Para cortar um tronco reto de eucalipto em 6 partes, o madeireiro Josué faz 5 cortes. Ele leva meia hora para fazer os cortes, que são feitos sempre da mesma maneira. Quanto tempo Josué levará para cortar outro tronco igual em 9 pedaços?
 >
 > - **(A)** 40 min
 > - **(B)** 44 min
@@ -102,14 +126,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Time to cut a log into 9 pieces given cost of 5 cuts*
+
+> To cut a straight eucalyptus trunk into 6 parts, the woodsman Josué makes 5 cuts. He takes half an hour to make these cuts, which are always made in the same way. How long will Josué take to cut another identical trunk into 9 pieces?
+>
+> - **(A)** 40 min
+> - **(B)** 44 min
+> - **(C)** 45 min
+> - **(D)** 48 min
+> - **(E)** 54 min
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Value of an expression with powers of 2015 and 2014*
 
-> What is the value of the expression $2015^2 - 2015 \times 2014 - 2014^2 + 2014 \times 2015$?
+> Qual é o valor da expressão $2015^2 - 2015 \times 2014 - 2014^2 + 2014 \times 2015$?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -149,14 +196,38 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Value of an expression with powers of 2015 and 2014*
+
+> What is the value of the expression $2015^2 - 2015 \times 2014 - 2014^2 + 2014 \times 2015$?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2015
+> - **(D)** 2029
+> - **(E)** 4029
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find value of a purchase given a change error*
 
-> Joana went to a store, chose a product and gave the cashier a single banknote, telling the cashier no change was owed. She then realised the note was either a 50-real note or a 20-real note. The cashier gave back 27 reais. Joana correctly claimed she had been given 9 reais less change than she should have. What was the value of the purchase?
+> Joana fez uma compra e, na hora de pagar, deu uma nota de 50 reais. O caixa reclamou, dizendo que o dinheiro não dava. Ela deu mais uma nota de 50 e o caixa deu um troco de 27 reais. Então Joana reclamou, corretamente, que ainda faltavam 9 reais de troco. Qual era o valor da compra?
 >
 > - **(A)** 52
 > - **(B)** 53
@@ -196,23 +267,44 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find value of a purchase given a change error*
+
+> Joana went to a store, chose a product and gave the cashier a single banknote, telling the cashier no change was owed. She then realised the note was either a 50-real note or a 20-real note. The cashier gave back 27 reais. Joana correctly claimed she had been given 9 reais less change than she should have. What was the value of the purchase?
+>
+> - **(A)** 52
+> - **(B)** 53
+> - **(C)** 57
+> - **(D)** 63
+> - **(E)** 64
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest sum in white squares of a numbered board (even neighbour sums)*
 
-> Violeta wants to number from 1 to 9 the squares of the board shown, in such a way that the sum of two numbers in neighbouring squares (those sharing a side) is always even. Among the squares some are coloured and some are white. What is the sum of the numbers written in the white squares?
+> Violeta quer numerar de 1 a 9 os quadrados do tabuleiro ao lado, de modo que a soma de dois números em quadrados vizinhos (quadrados com lados comuns) seja um número ímpar. Além disso, ela quer que a soma dos números escritos nos quadrados cinza seja a maior soma possível. Qual é a soma dos números escritos nos quadrados brancos?
 >
 > - **(A)** 15
 > - **(B)** 16
 > - **(C)** 22
 > - **(D)** 29
 > - **(E)** 30
-
-![[src_obm_2015_n1_f1__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -247,23 +339,45 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest sum in white squares of a numbered board (even neighbour sums)*
+
+> Violeta wants to number from 1 to 9 the squares of the board shown, in such a way that the sum of two numbers in neighbouring squares (those sharing a side) is always even. Among the squares some are coloured and some are white. What is the sum of the numbers written in the white squares?
+>
+> - **(A)** 15
+> - **(B)** 16
+> - **(C)** 22
+> - **(D)** 29
+> - **(E)** 30
+
+![[src_obm_2015_n1_f1__Q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of a square sheet cut into two squares and two rectangles*
 
-> With two perpendicular cuts, Pablo divided a square sheet of wood into two squares of areas $400\,\text{cm}^2$ and $900\,\text{cm}^2$ and two more equal rectangles, as in the drawing. What is the area of the sheet of wood?
+> Com dois cortes perpendiculares, Pablo dividiu uma folha de madeira quadrada em dois quadrados, um de área $400\,\text{cm}^2$ e outro de área de $900\,\text{cm}^2$ e mais dois retângulos iguais, conforme desenho. Qual é a área da folha de madeira?
 >
 > - **(A)** $2500\,\text{cm}^2$
 > - **(B)** $2400\,\text{cm}^2$
 > - **(C)** $2100\,\text{cm}^2$
 > - **(D)** $1800\,\text{cm}^2$
 > - **(E)** $1600\,\text{cm}^2$
-
-![[src_obm_2015_n1_f1__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -299,15 +413,40 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of a square sheet cut into two squares and two rectangles*
+
+> With two perpendicular cuts, Pablo divided a square sheet of wood into two squares of areas $400\,\text{cm}^2$ and $900\,\text{cm}^2$ and two more equal rectangles, as in the drawing. What is the area of the sheet of wood?
+>
+> - **(A)** $2500\,\text{cm}^2$
+> - **(B)** $2400\,\text{cm}^2$
+> - **(C)** $2100\,\text{cm}^2$
+> - **(D)** $1800\,\text{cm}^2$
+> - **(E)** $1600\,\text{cm}^2$
+
+![[src_obm_2015_n1_f1__Q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of digits of 10^15 - 15*
 
-> By performing the operations indicated in the expression $10^{15} - 15$, we obtain a very large number. What is the sum of all the digits of this number?
+> Efetuando as operações indicadas na expressão $10^{15} - 15$, obtemos um número muito grande. Qual é a soma de todos os algarismos desse número?
 >
 > - **(A)** 85
 > - **(B)** 105
@@ -345,14 +484,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of digits of 10^15 - 15*
+
+> By performing the operations indicated in the expression $10^{15} - 15$, we obtain a very large number. What is the sum of all the digits of this number?
+>
+> - **(A)** 85
+> - **(B)** 105
+> - **(C)** 130
+> - **(D)** 132
+> - **(E)** 202
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many years after 2015 this century have digit mean 2*
 
-> The arithmetic mean of the digits of the year 2015 is equal to 2, since $\frac{2+0+1+5}{4} = \frac{8}{4} = 2$. How many times in our century will it happen, after 2015, that the arithmetic mean of the digits of a year equals 2?
+> A média aritmética dos algarismos do ano 2015 é igual a 2, pois $\frac{2+0+1+5}{4} = \frac{8}{4} = 2$. Quantas vezes em nosso século isto irá acontecer com os algarismos nos anos após 2015?
 >
 > - **(A)** 3
 > - **(B)** 5
@@ -391,23 +553,43 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many years after 2015 this century have digit mean 2*
+
+> The arithmetic mean of the digits of the year 2015 is equal to 2, since $\frac{2+0+1+5}{4} = \frac{8}{4} = 2$. How many times in our century will it happen, after 2015, that the arithmetic mean of the digits of a year equals 2?
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 9
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_combinatoria,method_colorazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum colours to paint faces of a pentagonal prism*
 
-> A block of wood has pentagonal and rectangular faces. Two faces are neighbours when they have a common border, that is, a side, as with the two faces highlighted in the figure. Wagner is going to paint the faces of this block, so that any two neighbouring faces have different colours, using one colour for each. What is the smallest possible number of colours?
+> Um bloco de madeira tem faces pentagonais e faces retangulares. Duas faces são vizinhas quando possuem uma aresta comum, como é o caso das duas faces sombreadas na figura. Wagner quer pintar as faces desse bloco de forma que duas faces vizinhas tenham cores diferentes, mas ele quer usar o menor número possível de cores. Qual é esse número?
 >
 > - **(A)** 3
 > - **(B)** 4
 > - **(C)** 5
 > - **(D)** 6
 > - **(E)** 7
-
-![[src_obm_2015_n1_f1__Q09.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]]
@@ -442,20 +624,45 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum colours to paint faces of a pentagonal prism*
+
+> A block of wood has pentagonal and rectangular faces. Two faces are neighbours when they have a common border, that is, a side, as with the two faces highlighted in the figure. Wagner is going to paint the faces of this block, so that any two neighbouring faces have different colours, using one colour for each. What is the smallest possible number of colours?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
+
+![[src_obm_2015_n1_f1__Q09.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find cinema ticket price given equal total expenses*
 
-> Carlos and his friends, Danilo and Edson, went to the cinema. Carlos paid the entrance tickets for everyone, Danilo paid for the popcorn and Edson paid for the car parking. To settle the accounts, Danilo paid Carlos R\$8.00 and Edson paid Carlos R\$14.00, so that the total expense of each one came to R\$32.00. What was the price of one cinema ticket?
+> Carlos e seus dois amigos, Danilo e Edson, foram ao cinema. Carlos pagou a entrada de todos, Danilo pagou a pipoca e o suco para todos e Edson pagou o estacionamento do carro. Para acertar as contas, Danilo e Edson pagaram R\$ 8,00 e R\$ 14,00, respectivamente, para Carlos, pois a despesa total de cada um foi de R\$ 32,00. Qual era o preço da entrada no cinema?
 >
-> - **(A)** R\$10.00
-> - **(B)** R\$12.00
-> - **(C)** R\$15.00
-> - **(D)** R\$18.00
-> - **(E)** R\$20.00
+> - **(A)** R\$ 10,00
+> - **(B)** R\$ 12,00
+> - **(C)** R\$ 15,00
+> - **(D)** R\$ 18,00
+> - **(E)** R\$ 20,00
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -486,22 +693,42 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find cinema ticket price given equal total expenses*
+
+> Carlos and his friends, Danilo and Edson, went to the cinema. Carlos paid the entrance tickets for everyone, Danilo paid for the popcorn and Edson paid for the car parking. To settle the accounts, Danilo paid Carlos R\$8.00 and Edson paid Carlos R\$14.00, so that the total expense of each one came to R\$32.00. What was the price of one cinema ticket?
+>
+> - **(A)** R\$10.00
+> - **(B)** R\$12.00
+> - **(C)** R\$15.00
+> - **(D)** R\$18.00
+> - **(E)** R\$20.00
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of metal piece made by cutting and welding triangles*
 
-> Geraldo, the locksmith, took a square metal plate, then cut it and welded right-angled triangles with legs of 5 cm, building the piece represented alongside. What is the area of this piece?
+> Geraldo, o serralheiro, pegou uma chapa de metal quadrada, recortou e depois soldou quatro triângulos retângulos de catetos de 5 cm, construindo a peça representada ao lado. Qual é a área desta peça?
 >
 > - **(A)** $100\,\text{cm}^2$
 > - **(B)** $125\,\text{cm}^2$
 > - **(C)** $150\,\text{cm}^2$
 > - **(D)** $200\,\text{cm}^2$
 > - **(E)** $250\,\text{cm}^2$
-
-![[src_obm_2015_n1_f1__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -534,22 +761,44 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of metal piece made by cutting and welding triangles*
+
+> Geraldo, the locksmith, took a square metal plate, then cut it and welded right-angled triangles with legs of 5 cm, building the piece represented alongside. What is the area of this piece?
+>
+> - **(A)** $100\,\text{cm}^2$
+> - **(B)** $125\,\text{cm}^2$
+> - **(C)** $150\,\text{cm}^2$
+> - **(D)** $200\,\text{cm}^2$
+> - **(E)** $250\,\text{cm}^2$
+
+![[src_obm_2015_n1_f1__Q11.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many of 1-9 can occupy the centre square of an X*
 
-> Julieta made an X with nine small squares forming the figure shown. She wants to write the numbers 1 to 9 in these squares, without repeating them, so that the numbers in each of the four 'arms' of the X have the same sum. How many of the numbers from 1 to 9 can occupy the central square of the X?
+> Julieta fez um X com nove quadradinhos, conforme a figura. Ela quer escrever os números de 1 a 9 nesses quadradinhos, sem repeti-los, de forma que as somas dos dois números em cada uma das quatro “perninhas” do X seja a mesma. Quantos dos números de 1 a 9 podem ocupar a casa central (em cinza) do X?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
 > - **(E)** 5
-
-![[src_obm_2015_n1_f1__Q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -584,23 +833,45 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many of 1-9 can occupy the centre square of an X*
+
+> Julieta made an X with nine small squares forming the figure shown. She wants to write the numbers 1 to 9 in these squares, without repeating them, so that the numbers in each of the four 'arms' of the X have the same sum. How many of the numbers from 1 to 9 can occupy the central square of the X?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
+
+![[src_obm_2015_n1_f1__Q12.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum non-square integer rectangular tiles covering a 7x7 wall*
 
-> The artist Juliana wants to cover a square mural of 7 metres on each side with rectangular plates, with no overlapping of the plates. She does not want to use any square plate. Moreover, the measures of the plates are whole numbers of metres (in the figure, a model of what could be done). She wants to do the covering with the largest possible number of plates. How many plates will she use?
+> A artista Juliana quer recobrir um mural quadrado de 7 metros de lado com placas retangulares, sem superposição dessas placas. Ela não quer usar nenhuma placa quadrada. Além disso, as medidas das placas são números inteiros de metros (na figura, um modelo do que poderia ser feito). Entretanto, Renata quer fazer o revestimento com o maior número possível de placas. Quantas placas ela irá usar?
 >
 > - **(A)** 10
 > - **(B)** 14
 > - **(C)** 18
 > - **(D)** 20
 > - **(E)** 24
-
-![[src_obm_2015_n1_f1__Q13.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -635,14 +906,39 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum non-square integer rectangular tiles covering a 7x7 wall*
+
+> The artist Juliana wants to cover a square mural of 7 metres on each side with rectangular plates, with no overlapping of the plates. She does not want to use any square plate. Moreover, the measures of the plates are whole numbers of metres (in the figure, a model of what could be done). She wants to do the covering with the largest possible number of plates. How many plates will she use?
+>
+> - **(A)** 10
+> - **(B)** 14
+> - **(C)** 18
+> - **(D)** 20
+> - **(E)** 24
+
+![[src_obm_2015_n1_f1__Q13.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum cubes stacked so neighbours differ in colour*
 
-> Fabiana has 55 cubes of the same size, namely 10 red ones, 15 blue ones and 30 green ones. She wants to build a tower by stacking these cubes in such a way that two neighbouring cubes have different colours. At most, how many cubes can she stack?
+> Fabiana tem 55 cubos de mesmo tamanho, sendo 10 deles vermelhos, 15 azuis e 30 verdes. Ela quer construir uma torre empilhando esses cubos de modo que dois cubos vizinhos tenham cores diferentes. No máximo, quantos cubinhos ela poderá empilhar?
 >
 > - **(A)** 39
 > - **(B)** 51
@@ -682,34 +978,58 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum cubes stacked so neighbours differ in colour*
+
+> Fabiana has 55 cubes of the same size, namely 10 red ones, 15 blue ones and 30 green ones. She wants to build a tower by stacking these cubes in such a way that two neighbouring cubes have different colours. At most, how many cubes can she stack?
+>
+> - **(A)** 39
+> - **(B)** 51
+> - **(C)** 52
+> - **(D)** 54
+> - **(E)** 55
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_logica,topic_disuguaglianze,method_casework,method_disuguaglianze,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Election deduction across two rounds from partial percentages*
 
-> In the table below we see part of the results of the elections in a certain country, in which the percentages refer to the total number of voters.
+> Na tabela abaixo vemos uma parte dos resultados das eleições num certo país, na qual os porcentuais se referem ao número total de eleitores.
 >
 > \[
 > \begin{array}{|l|c|c|c|c|}
 > \hline
-> \text{Rounds / Parties} & \text{AA} & \text{BB} & \text{CC} & \text{Other parties \& null} \\
+> \text{Turnos / Partidos} & \text{AA} & \text{BB} & \text{CC} & \text{Outros partidos e votos nulos} \\
 > \hline
-> 1^{\text{st}}\text{ round} & 39\% & 31\% & 20\% & 10\% \\
+> 1º \text{ turno} & 39\% & 31\% & 20\% & 10\% \\
 > \hline
-> 2^{\text{nd}}\text{ round} & ? & ? & 0 & ? \\
+> 2º \text{ turno} & ? & ? & 0 & ? \\
 > \hline
 > \end{array}
 > \]
 >
-> In the second round, all the voters who voted for party AA kept their votes, and the same happened with the voters of party BB. Of those who voted for party CC in the first round, $40\%$ voted for party AA and the rest for party BB. Of those who had voted for other parties or cast null votes, $60\%$ continued without voting for AA or BB and the rest voted partly for AA and partly for BB. From this, it is correct to state that:
+> No segundo turno, todos os eleitores que votaram no partido AA mantiveram seus votos e o mesmo ocorreu com os eleitores do partido BB. Dos que votaram no partido CC no primeiro turno, $40\%$ votou no partido AA e os demais no partido BB. Dos que haviam votado em outros partidos ou anulado o seu voto, $60\%$ continuou sem votar em AA ou BB e o restante votou parte em AA e parte em BB. Dessa forma, é correto afirmar que:
 >
-> - **(A)** AA won with more than $47\%$ of the votes.
-> - **(B)** BB won with $47\%$ of the votes.
-> - **(C)** AA won with $51\%$ of the votes.
-> - **(D)** BB won with more than $43\%$ of the votes.
-> - **(E)** The previous statements do not follow from the given information.
+> - **(A)** AA venceu com mais de $47\%$ dos votos.
+> - **(B)** BB venceu com $47\%$ dos votos.
+> - **(C)** AA venceu com $51\%$ dos votos.
+> - **(D)** BB venceu com mais de $43\%$ dos votos.
+> - **(E)** Nenhuma das afirmações anteriores decorre das informações dadas.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]]
@@ -757,15 +1077,52 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Election deduction across two rounds from partial percentages*
+
+> In the table below we see part of the results of the elections in a certain country, in which the percentages refer to the total number of voters.
+>
+> \[
+> \begin{array}{|l|c|c|c|c|}
+> \hline
+> \text{Rounds / Parties} & \text{AA} & \text{BB} & \text{CC} & \text{Other parties \& null} \\
+> \hline
+> 1^{\text{st}}\text{ round} & 39\% & 31\% & 20\% & 10\% \\
+> \hline
+> 2^{\text{nd}}\text{ round} & ? & ? & 0 & ? \\
+> \hline
+> \end{array}
+> \]
+>
+> In the second round, all the voters who voted for party AA kept their votes, and the same happened with the voters of party BB. Of those who voted for party CC in the first round, $40\%$ voted for party AA and the rest for party BB. Of those who had voted for other parties or cast null votes, $60\%$ continued without voting for AA or BB and the rest voted partly for AA and partly for BB. From this, it is correct to state that:
+>
+> - **(A)** AA won with more than $47\%$ of the votes.
+> - **(B)** BB won with $47\%$ of the votes.
+> - **(C)** AA won with $51\%$ of the votes.
+> - **(D)** BB won with more than $43\%$ of the votes.
+> - **(E)** The previous statements do not follow from the given information.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count summands appearing in writing 2015 as sum of three numbers*
 
-> Esmeralda plays at writing the number 2015 as the sum of three numbers, in non-decreasing order, using three summands. For example, $670 + 671 + 674 = 2015$ and $175 + 920 + 920 = 2015$. Note that in the second example the number 920 appears twice as a summand. If she writes all the possible sums, how many numbers would appear as a summand?
+> Esmeralda brinca de escrever o número 2015 como a soma de três números, em ordem não decrescente, todos com três algarismos, como, por exemplo, $670 + 671 + 674 = 2015$ e $175 + 920 + 920 = 2015$. Note que, no segundo exemplo, o número 920 aparece duas vezes como parcela. Se ela escrevesse todas as somas possíveis, quantos números apareceriam duas vezes como parcela?
 >
 > - **(A)** 100
 > - **(B)** 449
@@ -804,23 +1161,43 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count summands appearing in writing 2015 as sum of three numbers*
+
+> Esmeralda plays at writing the number 2015 as the sum of three numbers, in non-decreasing order, using three summands. For example, $670 + 671 + 674 = 2015$ and $175 + 920 + 920 = 2015$. Note that in the second example the number 920 appears twice as a summand. If she writes all the possible sums, how many numbers would appear as a summand?
+>
+> - **(A)** 100
+> - **(B)** 449
+> - **(C)** 450
+> - **(D)** 570
+> - **(E)** 999
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_aritmetica,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Volume of a box from areas of its three pairs of faces*
 
-> Juliana made the planification (net) of a cardboard box with two white faces, two black faces and two grey ones. The white faces have area $35\,\text{cm}^2$ each, the black faces have area $21\,\text{cm}^2$ each, and the grey ones $15\,\text{cm}^2$ each. What is the volume of the box?
+> Juliana fez a planificação de uma caixa de papelão com duas faces brancas, duas pretas e duas cinzentas. As faces brancas têm área de $35\,\text{cm}^2$ cada uma, as faces pretas têm área de $21\,\text{cm}^2$ cada uma e as cinzentas, $15\,\text{cm}^2$. Qual é o volume da caixa?
 >
 > - **(A)** $25\,\text{cm}^3$
 > - **(B)** $60\,\text{cm}^3$
 > - **(C)** $71\,\text{cm}^3$
 > - **(D)** $105\,\text{cm}^3$
 > - **(E)** $220\,\text{cm}^3$
-
-![[src_obm_2015_n1_f1__Q17.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -856,15 +1233,40 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Volume of a box from areas of its three pairs of faces*
+
+> Juliana made the planification (net) of a cardboard box with two white faces, two black faces and two grey ones. The white faces have area $35\,\text{cm}^2$ each, the black faces have area $21\,\text{cm}^2$ each, and the grey ones $15\,\text{cm}^2$ each. What is the volume of the box?
+>
+> - **(A)** $25\,\text{cm}^3$
+> - **(B)** $60\,\text{cm}^3$
+> - **(C)** $71\,\text{cm}^3$
+> - **(D)** $105\,\text{cm}^3$
+> - **(E)** $220\,\text{cm}^3$
+
+![[src_obm_2015_n1_f1__Q17.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest n with 2n a perfect square and 3n a perfect cube*
 
-> The number $5^2 = 25$ is a perfect square and the number $4^3 = 64$ is a perfect cube. What is the smallest positive integer $n$ whose double is a perfect square and whose triple is a perfect cube?
+> O número $5^2 = 25$ é um quadrado perfeito e o número $4^3 = 64$ é um cubo perfeito. Qual é o menor número inteiro positivo $n$ cujo dobro é um quadrado perfeito e cujo triplo é um cubo perfeito?
 >
 > - **(A)** 72
 > - **(B)** 98
@@ -904,22 +1306,44 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest n with 2n a perfect square and 3n a perfect cube*
+
+> The number $5^2 = 25$ is a perfect square and the number $4^3 = 64$ is a perfect cube. What is the smallest positive integer $n$ whose double is a perfect square and whose triple is a perfect cube?
+>
+> - **(A)** 72
+> - **(B)** 98
+> - **(C)** 144
+> - **(D)** 216
+> - **(E)** 256
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of shaded quadrilateral in an equilateral triangle*
 
-> In the equilateral triangle $ABC$ of the figure, the segment $DA$ is the double of the segment $DB$ and the segment $EC$ is the double of $EA$. Knowing that the area of triangle $ABC$ is equal to $162\,\text{cm}^2$, what is the area, in $\text{cm}^2$, of the shaded quadrilateral?
+> No triângulo equilátero $ABC$ da figura, o segmento $DA$ é o dobro de $DB$ e o segmento $EC$ é o dobro de $EA$. Sabendo que a área do triângulo $ABC$ é igual a $162\,\text{cm}^2$, qual é a área, em $\text{cm}^2$, do quadrilátero sombreado?
 >
 > - **(A)** 126
 > - **(B)** 132
 > - **(C)** 135
 > - **(D)** 140
 > - **(E)** 144
-
-![[src_obm_2015_n1_f1__Q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -953,20 +1377,45 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of shaded quadrilateral in an equilateral triangle*
+
+> In the equilateral triangle $ABC$ of the figure, the segment $DA$ is the double of the segment $DB$ and the segment $EC$ is the double of $EA$. Knowing that the area of triangle $ABC$ is equal to $162\,\text{cm}^2$, what is the area, in $\text{cm}^2$, of the shaded quadrilateral?
+>
+> - **(A)** 126
+> - **(B)** 132
+> - **(C)** 135
+> - **(D)** 140
+> - **(E)** 144
+
+![[src_obm_2015_n1_f1__Q19.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum balls moved to green urn under divisor rule*
 
-> A red urn contains 20 balls, numbered from 1 to 20, and a green urn is empty.
+> Uma urna vermelha contém 20 bolas, numeradas de 1 a 20, e uma urna verde está vazia.
 >
-> i) Maria takes a ball, shows its number to João and places it in the green urn.
+> i) Maria retira uma bola, mostra seu número para João e a coloca na urna verde.
 >
-> ii) João takes from the red urn all the balls whose numbers are divisors of the number shown by Maria and places them in the green urn.
+> ii) João retira da urna vermelha todas as bolas cujos números são divisores do número mostrado por Maria e as coloca na urna verde.
 >
-> Steps i) and ii) are repeated in sequence, until the moment when step ii) can no longer be carried out. At most, how many balls can be placed in the green urn?
+> Os passos i) e ii) são repetidos em sequência, até o momento que o passo ii) não pode ser mais realizado. No máximo, quantas bolas poderão ser colocadas na urna verde?
 >
 > - **(A)** 12
 > - **(B)** 14
@@ -1009,3 +1458,31 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum balls moved to green urn under divisor rule*
+
+> A red urn contains 20 balls, numbered from 1 to 20, and a green urn is empty.
+>
+> i) Maria takes a ball, shows its number to João and places it in the green urn.
+>
+> ii) João takes from the red urn all the balls whose numbers are divisors of the number shown by Maria and places them in the green urn.
+>
+> Steps i) and ii) are repeated in sequence, until the moment when step ii) can no longer be carried out. At most, how many balls can be placed in the green urn?
+>
+> - **(A)** 12
+> - **(B)** 14
+> - **(C)** 15
+> - **(D)** 16
+> - **(E)** 17
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

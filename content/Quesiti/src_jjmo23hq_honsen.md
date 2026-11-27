@@ -30,9 +30,7 @@ level: JJMO Honsen
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Minimi valori positivi su una linea verticale tramite operazioni del punto medio*
-
+*Minimo numero di punti buoni ottenibili su una stessa retta verticale, partendo da due punti e aggiungendo i punti medi quando sono ancora punti buoni.*
 > Nel piano $xy$, un punto il cui $x$-coordinato e il cui $y$-coordinato sono entrambi interi compresi tra $1$ e $2025$, estremi inclusi, è detto \emph{punto buono}. Una \emph{operazione} consiste nel scegliere due qualsiasi punti buoni già trovati, $A$ e $B$ (lo stesso punto può essere scelto due volte), e, se il loro punto medio $M$ è anch'esso un punto buono, nell'aggiungere $M$ all'insieme dei punti buoni trovati.
 >
 > Partiamo da due punti buoni scelti e applichiamo una sequenza di operazioni. Tra tutti i punti buoni trovati (inclusi i due iniziali), si considerino quelli che giacciono su un'unica retta verticale $x = c$ per un certo intero fisso $c$. Si determini il valore minimo possibile di questo numero, considerando tutte le scelte dei due punti buoni iniziali e tutte le sequenze finite di operazioni valide, sapendo che è stata applicata con successo almeno un'operazione.
@@ -102,9 +100,7 @@ level: JJMO Honsen
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*I quattro punti di tangenza dell'incircolo e degli excircoli su AB e CD sono concyclici*
-
+*I quattro punti di tangenza del cerchio inscritto e dei cerchi exinscritti sui lati AB e CD sono conciclici.*
 > Sia $ABCD$ un quadrilatero convesso e sia $E$ l'intersezione delle sue diagonali $AC$ e $BD$. Per il triangolo $ABE$, sia $P$ il punto in cui l'incircoscritta tocca il lato $AB$, e sia $P'$ il punto in cui l'escircoscritta opposta al vertice $A$ (l'escircoscritta relativa a $A$) tocca il lato $AB$. Per il triangolo $CDE$, sia $Q$ il punto in cui l'incircoscritta tocca il lato $CD$, e sia $Q'$ il punto in cui l'escircoscritta opposta al vertice $C$ (l'escircoscritta relativa a $C$) tocca il lato $CD$. Dimostrare che $P$, $Q$, $P'$, $Q'$ sono conciclici. Qui $XY$ denota la lunghezza del segmento $XY$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

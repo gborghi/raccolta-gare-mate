@@ -12,22 +12,22 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find positive integer n and 2n non-negative reals with three properties*
 
-> Prove that there exists a positive integer $n$ and $2n$ non-negative real numbers
-> $$0 \le a_1 \le a_2 \le \cdots \le a_n \quad \text{and} \quad 0 \le b_1 \le b_2 \le \cdots \le b_n$$
-> satisfying the following three properties:
-> 
+> Prove que existe um inteiro positivo $n$ e $2n$ números reais não negativos
+> $$0 \le a_1 \le a_2 \le a_3 \le \cdots \le a_n \quad \text{e} \quad 0 \le b_1 \le b_2 \le b_3 \le \cdots \le b_n$$
+> satisfazendo as três propriedades a seguir:
+>
 > (i) $a_1 + a_2 + \cdots + a_n \ge 2025^{2025}$;
-> 
+>
 > (ii) $b_1 + b_2 + \cdots + b_n \ge 2025^{2025}$;
-> 
-> (iii) $c_1 + c_2 + \cdots + c_n \le \dfrac{1}{2025^{2025}}$, where $c_i = \min\{a_i, b_i\}$ for every $i \in \{1, 2, \ldots, n\}$.
-> 
-> Moreover, find all $n$ with this property.
+>
+> (iii) $c_1 + c_2 + \cdots + c_n \le \dfrac{1}{2025^{2025}}$, onde $c_i = \min\{a_i, b_i\}$ para todo $i \in \{1, 2, \ldots, n\}$.
+>
+> Além disso, encontre o menor inteiro positivo $n$ com tal propriedade.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -60,15 +60,39 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find positive integer n and 2n non-negative reals with three properties*
+
+> Prove that there exists a positive integer $n$ and $2n$ non-negative real numbers
+> $$0 \le a_1 \le a_2 \le \cdots \le a_n \quad \text{and} \quad 0 \le b_1 \le b_2 \le \cdots \le b_n$$
+> satisfying the following three properties:
+> 
+> (i) $a_1 + a_2 + \cdots + a_n \ge 2025^{2025}$;
+> 
+> (ii) $b_1 + b_2 + \cdots + b_n \ge 2025^{2025}$;
+> 
+> (iii) $c_1 + c_2 + \cdots + c_n \le \dfrac{1}{2025^{2025}}$, where $c_i = \min\{a_i, b_i\}$ for every $i \in \{1, 2, \ldots, n\}$.
+> 
+> Moreover, find all $n$ with this property.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Acute triangle with circumcircle; concurrency/collinearity of specific intersection points*
 
-> Let $ABC$ be an acute triangle with $AB < AC$ and let $\Gamma$ be its circumscribed circle. Define $M$ as the midpoint of side $BC$, and $D$, $E$, $F$ as the feet of the altitudes relative to sides $BC$, $AC$, and $AB$, respectively. Take $N$ as the intersection of $EF$ and $AM$. Let $R$, $S$ be the intersections of $EF$ and $\Gamma$, such that $R$ lies on the arc $AB$ not containing $C$ and $S$ lies on the arc $AC$ not containing $B$. Moreover, suppose that $BS$ and $CR$ meet at point $T$. Show that $DA$ bisects angle $\angle TDN$.
+> Seja $ABC$ um triângulo acutângulo com $AB < AC$ e seja $\Gamma$ sua circunferência circunscrita. Defina $M$ como o ponto médio do lado $BC$, e $D$, $E$ e $F$ como os pés das alturas relativas aos lados $BC$, $AC$ e $AB$, respectivamente. Tome o ponto $N$ como a interseção de $EF$ e $AM$. Sejam $R$, $S$ as interseções de $EF$ e $\Gamma$, de forma que $R$ esteja no arco menor $AB$ de $\Gamma$ e $S$ esteja no arco menor $AC$ de $\Gamma$. Além disso, suponha que $BS$ e $CR$ se encontram no ponto $T$. Mostre que $DA$ é bissetriz do ângulo $\angle TDN$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -91,20 +115,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangle with circumcircle; concurrency/collinearity of specific intersection points*
+
+> Let $ABC$ be an acute triangle with $AB < AC$ and let $\Gamma$ be its circumscribed circle. Define $M$ as the midpoint of side $BC$, and $D$, $E$, $F$ as the feet of the altitudes relative to sides $BC$, $AC$, and $AB$, respectively. Take $N$ as the intersection of $EF$ and $AM$. Let $R$, $S$ be the intersections of $EF$ and $\Gamma$, such that $R$ lies on the arc $AB$ not containing $C$ and $S$ lies on the arc $AC$ not containing $B$. Moreover, suppose that $BS$ and $CR$ meet at point $T$. Show that $DA$ bisects angle $\angle TDN$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,topic_funzionali,method_induzione,method_invarianti,method_casework,method_ricorsione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Infinite sequence of positive integers with min-difference power-of-2025 condition; prove surjective onto positives*
 
-> Let $(a_k)_{k \ge 1}$ be an infinite sequence of positive integers such that:
-> 
-> (i) $a_1, a_2, \ldots, a_{10000}$ are pairwise distinct positive integers, all different from $2$;
-> 
-> (ii) for $n > 10000$, define $a_n$ as the smallest positive integer different from $a_1, a_2, \ldots, a_{n-1}$ such that $|a_n - a_{n-1}|$ is a power of $2025$ (note that $1$ is a power of $2025$).
-> 
-> Prove that every positive integer appears in the sequence.
+> Seja $(a_n)_{n \ge 1}$ uma sequência infinita de inteiros positivos tal que:
+>
+> (i) $a_1, a_2, \ldots, a_{10000}$ são inteiros positivos distintos dois a dois;
+>
+> (ii) para $n > 10000$, define-se $a_n$ como o menor inteiro positivo diferente de $a_1, a_2, \ldots, a_{n-1}$ tal que $|a_n - a_{n-1}|$ é uma potência de $2025$ (note que $1$ é uma potência de $2025$).
+>
+> Prove que todo inteiro positivo aparece na sequência.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_ricorsione|Recursion]]
@@ -133,20 +172,39 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Infinite sequence of positive integers with min-difference power-of-2025 condition; prove surjective onto positives*
+
+> Let $(a_k)_{k \ge 1}$ be an infinite sequence of positive integers such that:
+> 
+> (i) $a_1, a_2, \ldots, a_{10000}$ are pairwise distinct positive integers, all different from $2$;
+> 
+> (ii) for $n > 10000$, define $a_n$ as the smallest positive integer different from $a_1, a_2, \ldots, a_{n-1}$ such that $|a_n - a_{n-1}|$ is a power of $2025$ (note that $1$ is a power of $2025$).
+> 
+> Prove that every positive integer appears in the sequence.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all positive integers k such that f(n)=nk has a positive integer solution n*
 
-> For every positive integer $n$, define
+> Para todo $n$ inteiro positivo, defina
 > $$f(n) = \lfloor \sqrt{1} \rfloor + \lfloor \sqrt{2} \rfloor + \cdots + \lfloor \sqrt{n} \rfloor.$$
-> 
-> *Observation: for a real number $x$, $\lfloor x \rfloor$ is defined as the largest integer less than or equal to $x$. For example, $\lfloor \sqrt{1} \rfloor = 1$, $\lfloor \sqrt{2} \rfloor = 1$, $\lfloor \sqrt{14} \rfloor = 3$.*
-> 
-> Determine all positive integers $k$ such that there exists a positive integer $n$ satisfying $f(n) = nk$.
+> Determine todos os inteiros positivos $k$ tais que existe um inteiro positivo $n$ satisfazendo $f(n) = nk$.
+>
+> *Observação: para um número real $x$, define-se $\lfloor x \rfloor$ como o maior inteiro que é menor ou igual a $x$. Por exemplo, $\lfloor \sqrt{1} \rfloor = \lfloor 1 \rfloor = 1$, $\lfloor \sqrt{2} \rfloor = 1$ e $\lfloor \sqrt{14} \rfloor = 3$.*
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Combinatorial counting]]
@@ -174,19 +232,38 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all positive integers k such that f(n)=nk has a positive integer solution n*
+
+> For every positive integer $n$, define
+> $$f(n) = \lfloor \sqrt{1} \rfloor + \lfloor \sqrt{2} \rfloor + \cdots + \lfloor \sqrt{n} \rfloor.$$
+> 
+> *Observation: for a real number $x$, $\lfloor x \rfloor$ is defined as the largest integer less than or equal to $x$. For example, $\lfloor \sqrt{1} \rfloor = 1$, $\lfloor \sqrt{2} \rfloor = 1$, $\lfloor \sqrt{14} \rfloor = 3$.*
+> 
+> Determine all positive integers $k$ such that there exists a positive integer $n$ satisfying $f(n) = nk$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Polygon triangulation: minimum size of obstructive diagonal set*
 
-> Let $\mathcal{P}$ be a convex polygon with $n$ vertices, $n \ge 4$. We can partition $\mathcal{P}$ into triangles by drawing diagonals that do not intersect in the interior of $\mathcal{P}$. A partition of this type is called a *triangulation*. A set $X$ of diagonals of $\mathcal{P}$ is called *obstructive* if it has the following property:
-> 
-> *Any triangulation of $\mathcal{P}$ uses at least one diagonal belonging to the set $X$.*
-> 
-> Determine, as a function of $n$, the minimum possible number of elements of an obstructive set.
+> Seja $\mathcal{P}$ um polígono convexo de $n$ vértices, $n \ge 4$. Podemos particionar $\mathcal{P}$ em triângulos, traçando diagonais que não se intersectam no interior de $\mathcal{P}$. Uma partição desse tipo é chamada de *triangulação*. Um conjunto $X$ de diagonais de $\mathcal{P}$ é dito *obstrutivo* se tem a seguinte propriedade:
+>
+> *Qualquer triangulação de $\mathcal{P}$ utiliza ao menos uma diagonal que pertence ao conjunto $X$.*
+>
+> Determine, em função de $n$, qual é a menor quantidade possível de elementos de um conjunto obstrutivo.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
@@ -213,14 +290,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Polygon triangulation: minimum size of obstructive diagonal set*
+
+> Let $\mathcal{P}$ be a convex polygon with $n$ vertices, $n \ge 4$. We can partition $\mathcal{P}$ into triangles by drawing diagonals that do not intersect in the interior of $\mathcal{P}$. A partition of this type is called a *triangulation*. A set $X$ of diagonals of $\mathcal{P}$ is called *obstructive* if it has the following property:
+> 
+> *Any triangulation of $\mathcal{P}$ uses at least one diagonal belonging to the set $X$.*
+> 
+> Determine, as a function of $n$, the minimum possible number of elements of an obstructive set.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_geometria_analitica,method_simmetria,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Convex quadrilateral ABCD with angle condition; partition family of tangent lines into 8 concurrent/parallel sets*
 
-> Let $ABCD$ be a convex quadrilateral satisfying $90^\circ > \angle ABC > \angle CDA > \angle DAB$. Let $\mathcal{R}$ be the set of all lines $\ell$ such that there exists a circle tangent to the four reflections of $\ell$ across the four sides of the quadrilateral $ABCD$. Prove that $\mathcal{R}$ can be partitioned into $8$ groups so that the lines of each group are all concurrent or all parallel.
+> Seja $ABCD$ um quadrilátero convexo satisfazendo $90^\circ > \angle ABC > \angle CDA > \angle DAB$. Seja $\mathcal{R}$ o conjunto de todas as retas $\ell$ tais que existe uma circunferência tangente às quatro reflexões de $\ell$ pelos quatro lados do quadrilátero $ABCD$. Prove que $\mathcal{R}$ pode ser particionado em $8$ conjuntos de modo que as retas de cada conjunto sejam todas concorrentes ou todas paralelas.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -240,3 +336,18 @@ level: OBM Nível 3
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Convex quadrilateral ABCD with angle condition; partition family of tangent lines into 8 concurrent/parallel sets*
+
+> Let $ABCD$ be a convex quadrilateral satisfying $90^\circ > \angle ABC > \angle CDA > \angle DAB$. Let $\mathcal{R}$ be the set of all lines $\ell$ such that there exists a circle tangent to the four reflections of $\ell$ across the four sides of the quadrilateral $ABCD$. Prove that $\mathcal{R}$ can be partitioned into $8$ groups so that the lines of each group are all concurrent or all parallel.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)

@@ -12,15 +12,15 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Evaluate a numeric fraction of a product of even numbers over a product of small integers*
 
-> Compute
+> Calculer
 > $$\frac{4 \times 6 \times 8 \times 10 \times 12}{2 \times 3 \times 4 \times 5 \times 6}.$$
-> 
-> Only a numerical answer is expected here.
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -48,15 +48,35 @@ level: Coupe Animath Automne
 **Risposta:** 32
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Evaluate a numeric fraction of a product of even numbers over a product of small integers*
+
+> Compute
+> $$\frac{4 \times 6 \times 8 \times 10 \times 12}{2 \times 3 \times 4 \times 5 \times 6}.$$
+> 
+> Only a numerical answer is expected here.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 32
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Unit square ABCD with E on diagonal AC and AE=1; find angle BEC in degrees*
 
-> Let $ABCD$ be a square with side $1$. Let $E$ be the point on the segment $[AC]$ such that $AE = 1$. Compute, in degrees, the value of the angle $\widehat{BEC}$.
+> Soit $ABCD$ un carré de côté $1$. Soit $E$ le point du segment $[AC]$ tel que $AE = 1$. Calculer la valeur, en degrés, de l’angle $\widehat{BEC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -82,15 +102,32 @@ level: Coupe Animath Automne
 **Risposta:** 112.5
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Unit square ABCD with E on diagonal AC and AE=1; find angle BEC in degrees*
+
+> Let $ABCD$ be a square with side $1$. Let $E$ be the point on the segment $[AC]$ such that $AE = 1$. Compute, in degrees, the value of the angle $\widehat{BEC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** 112.5
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd*
 
-> In each of the cells of a square table of size $5 \times 5$, one writes a strictly positive integer. Suppose that, for each row of the table, the sum of the integers written in the cells of that row is an odd integer. Show that there exists a column of the table such that the sum of the integers written in the cells of that column is also odd.
+> Dans chacune des cases d’un tableau carré de taille $5 \times 5$, on inscrit un entier strictement positif. On suppose que, pour chaque ligne du tableau, la somme des entiers inscrits dans les cases de cette ligne est un entier impair. Montrer qu’il existe une colonne du tableau telle que la somme des entiers inscrits dans les cases de cette colonne est également impaire.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -114,21 +151,37 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*5x5 grid of positive integers with every row sum odd; prove some column sum is also odd*
+
+> In each of the cells of a square table of size $5 \times 5$, one writes a strictly positive integer. Suppose that, for each row of the table, the sum of the integers written in the cells of that row is an odd integer. Show that there exists a column of the table such that the sum of the integers written in the cells of that column is also odd.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all are distinct; find the greatest possible spread*
 
-> A group of $20$ dwarves coming out of the mine sits down around a round table to count the gold nuggets each one has mined. They make the following observations:
-> 
-> $\triangleright$ The difference between the numbers of nuggets of two neighbouring dwarves is always $2$ or $3$.
-> 
-> $\triangleright$ All the dwarves have a different number of nuggets.
-> 
-> What is the greatest possible difference in nuggets between the dwarf who found the most nuggets and the one who found the fewest?
+> Un groupe de $20$ nains sortant de la mine s’assoit autour d’une table ronde pour compter les pépites d’or que chacun a minées. Ils font les constats suivants :
+>
+> $\triangleright$ La différence du nombre de pépites de deux nains voisins est toujours $2$ ou $3$.
+>
+> $\triangleright$ Tous les nains ont miné un nombre de pépites différent.
+>
+> Quelle est la plus grande différence de pépites possible entre le nain qui a trouvé le plus de pépites et celui qui en a trouvé le moins ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -158,15 +211,37 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all are distinct; find the greatest possible spread*
+
+> A group of $20$ dwarves coming out of the mine sits down around a round table to count the gold nuggets each one has mined. They make the following observations:
+> 
+> $\triangleright$ The difference between the numbers of nuggets of two neighbouring dwarves is always $2$ or $3$.
+> 
+> $\triangleright$ All the dwarves have a different number of nuggets.
+> 
+> What is the greatest possible difference in nuggets between the dwarf who found the most nuggets and the one who found the fewest?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Two equilateral triangles OAB, OAC of side 1; build equilateral OBD, OCE; points P, Q at unit distances; prove B, P, Q collinear*
 
-> Let $A$, $B$, $C$ and $O$ be four distinct points such that the triangles $OAB$ and $OAC$ are equilateral with side $1$. Let $D$ and $E$ be two points, distinct and different from $A$, such that the triangles $OBD$ and $OCE$ are also equilateral. Let $P$ be the point on the segment $[AD]$ such that $DP = 1$. Let $Q$ be the point on the segment $[AE]$ such that $AQ = 1$. Show that the points $B$, $P$ and $Q$ are collinear.
+> Soient $A$, $B$, $C$ et $O$ quatre points distincts tels que les triangles $OAB$ et $OAC$ sont équilatéraux de côté $1$. Soient $D$ et $E$ deux points distincts et différents de $A$ tels que les triangles $OBD$ et $OCE$ sont équilatéraux. Soit $P$ le point sur le segment $[AD]$ tel que $DP = 1$. Soit $Q$ le point sur le segment $[AE]$ tel que $AQ = 1$. Montrer que les points $B$, $P$ et $Q$ sont alignés.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -190,15 +265,31 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two equilateral triangles OAB, OAC of side 1; build equilateral OBD, OCE; points P, Q at unit distances; prove B, P, Q collinear*
+
+> Let $A$, $B$, $C$ and $O$ be four distinct points such that the triangles $OAB$ and $OAC$ are equilateral with side $1$. Let $D$ and $E$ be two points, distinct and different from $A$, such that the triangles $OBD$ and $OCE$ are also equilateral. Let $P$ be the point on the segment $[AD]$ such that $DP = 1$. Let $Q$ be the point on the segment $[AE]$ such that $AQ = 1$. Show that the points $B$, $P$ and $Q$ are collinear.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Prove that if 2^n and 5^n have the same leading digit, that digit must be 3*
 
-> For every strictly positive integer $m$, the \emph{first digit} of $m$ denotes the leftmost digit in its decimal writing. Let $n$ be a strictly positive integer. Suppose that the two integers $2^n$ and $5^n$ have the same first digit. Show that this common first digit is $3$.
+> Pour tout entier $m$ strictement positif, on appelle premier chiffre de $m$ le chiffre le plus à gauche dans son écriture décimale. Soit $n$ un entier strictement positif. On suppose que les deux entiers $2^n$ et $5^n$ possèdent le même premier chiffre. Montrer que ce même premier chiffre est $3$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
@@ -222,19 +313,35 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove that if 2^n and 5^n have the same leading digit, that digit must be 3*
+
+> For every strictly positive integer $m$, the \emph{first digit} of $m$ denotes the leftmost digit in its decimal writing. Let $n$ be a strictly positive integer. Suppose that the two integers $2^n$ and $5^n$ have the same first digit. Show that this common first digit is $3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Regular sets are arithmetic progressions; super-regular if the set and its reciprocals are both regular; find the largest n with a super-regular set of n distinct nonzero reals*
 
-> A set of $n$ nonzero and pairwise distinct real numbers is called \emph{regular} if, when one writes these numbers on the board in increasing order, the difference between two neighbouring numbers is always the same, whichever two neighbouring numbers are chosen. For example, the set $\{4, 18, -3, 11\}$ is regular because its elements are written $-3, 4, 11$ and $18$ in increasing order, and indeed $4 - (-3) = 11 - 4 = 18 - 11$.
-> 
-> A set $A$ of nonzero and pairwise distinct real numbers is called \emph{super-regular} if it is regular and if the set formed by the inverses of the numbers of the set $A$ is also regular.
-> 
-> What is the largest integer $n$ such that there exists a super-regular set of $n$ nonzero and pairwise distinct real numbers?
+> Un ensemble de $n$ nombres réels non nuls et tous distincts est dit régulier si, lorsque l’on écrit ces nombres au tableau dans l’ordre croissant, la différence entre deux nombres voisins est toujours la même, quels que soient les deux entiers voisins choisis. Par exemple, l’ensemble $\{4, 18, -3, 11\}$ est régulier car ses éléments s’écrivent $-3$, $4$, $11$ et $18$ dans l’ordre croissant et on a bien $4 - (-3) = 11 - 4 = 18 - 11$.
+>
+> Un ensemble $A$ de réels non nuls tous distincts est dit super-régulier s’il est régulier et que l’ensemble formé par les inverses des nombres de l’ensemble $A$ est également régulier.
+>
+> Quel est le plus grand entier $n$ tel qu’il existe un ensemble super-régulier de $n$ nombres réels non nuls et tous distincts ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -262,17 +369,37 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Regular sets are arithmetic progressions; super-regular if the set and its reciprocals are both regular; find the largest n with a super-regular set of n distinct nonzero reals*
+
+> A set of $n$ nonzero and pairwise distinct real numbers is called \emph{regular} if, when one writes these numbers on the board in increasing order, the difference between two neighbouring numbers is always the same, whichever two neighbouring numbers are chosen. For example, the set $\{4, 18, -3, 11\}$ is regular because its elements are written $-3, 4, 11$ and $18$ in increasing order, and indeed $4 - (-3) = 11 - 4 = 18 - 11$.
+> 
+> A set $A$ of nonzero and pairwise distinct real numbers is called \emph{super-regular} if it is regular and if the set formed by the inverses of the numbers of the set $A$ is also regular.
+> 
+> What is the largest integer $n$ such that there exists a super-regular set of $n$ nonzero and pairwise distinct real numbers?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Average of five grades is 16, three known grades are 13,14,17; find the sum of the two forgotten grades*
 
-> Maena has received five grades this term but only remembers the first three, which are $13$, $14$ and $17$. She knows that the average (assuming the five grades have the same weight) of her five grades equals $16$. What is the sum of the two grades Maena does not remember?
-> 
-> Only a numerical answer is expected here.
+> Maena a reçu cinq notes ce trimestre mais ne connaît que les trois premières, qui sont $13$, $14$ et $17$. La moyenne (où toutes les notes ont la même importance) de ces cinq notes est $16$. Quelle est la moyenne des deux notes que Maena ne connait pas encore ?
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -298,10 +425,57 @@ level: Coupe Animath Automne
 **Risposta:** 36
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Average of five grades is 16, three known grades are 13,14,17; find the sum of the two forgotten grades*
+
+> Maena has received five grades this term but only remembers the first three, which are $13$, $14$ and $17$. She knows that the average (assuming the five grades have the same weight) of her five grades equals $16$. What is the sum of the two grades Maena does not remember?
+> 
+> Only a numerical answer is expected here.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 36
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Unit square ABCD with E on diagonal AC and AE=1; find angle BEC in degrees (lycee)*
+
+> Soit $ABCD$ un carré de côté $1$. Soit $E$ le point du segment $[AC]$ tel que $AE = 1$. Calculer la valeur, en degrés, de l’angle $\widehat{BEC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** 112.5
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Quadrato unitario ABCD con E sulla diagonale AC e AE=1: determinare l'angolo BEC, in gradi.*
+> $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** 112.5
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unit square ABCD with E on diagonal AC and AE=1; find angle BEC in degrees (lycee)*
@@ -318,24 +492,37 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Unità quadrata ABCD con E su diagonale AC e AE=1; trovare angolo BEC in gradi (lycee)*
-
-> $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-**Risposta:** 112.5
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*5x5 grid of positive integers with every row sum odd; prove some column sum is also odd (lycee)*
+
+> Dans chacune des cases d’un tableau carré de taille $5 \times 5$, on inscrit un entier strictement positif. On suppose que, pour chaque ligne du tableau, la somme des entiers inscrits dans les cases de cette ligne est un entier impair. Montrer qu’il existe une colonne du tableau telle que la somme des entiers inscrits dans les cases de cette colonne est également impaire.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Griglia 5×5 di interi positivi in cui ogni riga ha somma dispari: dimostrare che anche qualche colonna ha somma dispari.*
+> In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd (lycee)*
@@ -351,23 +538,49 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar (lycee)*
-
-> In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all distinct; greatest possible spread (lycee)*
+
+> Un groupe de $20$ nains sortant de la mine s’assoit autour d’une table ronde pour compter les pépites d’or que chacun a minées. Ils font les constats suivants :
+>
+> $\triangleright$ La différence du nombre de pépites de deux nains voisins est toujours $2$ ou $3$.
+>
+> $\triangleright$ Tous les nains ont miné un nombre de pépites différent.
+>
+> Quelle est la plus grande différence de pépites possible entre le nain qui a trouvé le plus de pépites et celui qui en a trouvé le moins ?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Venti nani intorno a un tavolo rotondo; il numero di pepite dei vicini differisce di 2 o 3 e tutti i numeri sono distinti: massima differenza possibile.*
+> Un gruppo di nani che uscivano dalla miniera si sedette attorno a una tavola rotonda per contare le nugget d'oro che ognuno di loro aveva estratto. Essi fanno le seguenti osservazioni:
+> 
+> $\triangleright$ La differenza tra i numeri di nugget di due nani vicini è sempre $2$ o $3$.
+> 
+> Tutte le nane hanno un numero diverso di nugget.
+> 
+> Qual è la più grande differenza possibile tra la nana che ha trovato il maggior numero di nuggets e quella che ha trovato il minor numero di nuggets?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all distinct; greatest possible spread (lycee)*
@@ -389,29 +602,40 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; maggiore diffusione possibile (lycee)*
-
-> Un gruppo di nani che uscivano dalla miniera si sedette attorno a una tavola rotonda per contare le nugget d'oro che ognuno di loro aveva estratto. Essi fanno le seguenti osservazioni:
-> 
-> $\triangleright$ La differenza tra i numeri di nugget di due nani vicini è sempre $2$ o $3$.
-> 
-> Tutte le nane hanno un numero diverso di nugget.
-> 
-> Qual è la più grande differenza possibile tra la nana che ha trovato il maggior numero di nuggets e quella che ha trovato il minor numero di nuggets?
-
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Prove that if 2^n and 5^n share the same leading digit, that digit is 3 (lycee)*
+
+> Pour tout entier $m$ strictement positif, on appelle premier chiffre de $m$ le chiffre le plus à gauche dans son écriture décimale. Soit $n$ un entier strictement positif. On suppose que les deux entiers $2^n$ et $5^n$ possèdent le même premier chiffre. Montrer que ce même premier chiffre est $3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Dimostrare che se 2^n e 5^n hanno la stessa somma delle cifre, allora tale somma è 3.*
+
+Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3 (lycee)
+
+> Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove that if 2^n and 5^n share the same leading digit, that digit is 3 (lycee)*
@@ -427,23 +651,45 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3 (lycee)
-
-> Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Regular sets are arithmetic progressions; super-regular if both the set and its reciprocals are regular; largest n with a super-regular set of n distinct nonzero reals (lycee)*
+
+> Un ensemble de $n$ nombres réels non nuls et tous distincts est dit régulier si, lorsque l’on écrit ces nombres au tableau dans l’ordre croissant, la différence entre deux nombres voisins est toujours la même, quels que soient les deux entiers voisins choisis. Par exemple, l’ensemble $\{4, 18, -3, 11\}$ est régulier car ses éléments s’écrivent $-3$, $4$, $11$ et $18$ dans l’ordre croissant et on a bien $4 - (-3) = 11 - 4 = 18 - 11$.
+>
+> Un ensemble $A$ de réels non nuls tous distincts est dit super-régulier s’il est régulier et que l’ensemble formé par les inverses des nombres de l’ensemble $A$ est également régulier.
+>
+> Quel est le plus grand entier $n$ tel qu’il existe un ensemble super-régulier de $n$ nombres réels non nuls et tous distincts ?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Insiemi regolari, cioè progressioni aritmetiche, e insiemi superregolari (regolari insieme ai reciproci): massimo n per cui esiste un insieme superregolare di n reali non nulli e distinti.*
+> Un insieme di $n$ numeri reali non zeri e separati in coppia viene chiamato \emph{regular} se, quando si scrivono questi numeri sulla lavagna in ordine crescente, la differenza tra due numeri vicini è sempre la stessa, a seconda di quale dei due numeri vicini viene scelto. Ad esempio, l'insieme $\{4, 18, -3, 11\}$ è regolare perché i suoi elementi sono scritti $-3, 4, 11$ e $18$ in ordine crescente, e infatti $4 - (-3) = 11 - 4 = 18 - 11$.
+> 
+> Un insieme $A$ di numeri reali non zeri e pari distinti si chiama \emph{super-regolare} se è regolare e se l'insieme formato dagli inversi dei numeri del insieme $A$ è anche regolare.
+> 
+> Qual è il più grande numero intero $n$ tale che esista un insieme superregolare di $n$ non zero e numeri reali distinti in coppia?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Regular sets are arithmetic progressions; super-regular if both the set and its reciprocals are regular; largest n with a super-regular set of n distinct nonzero reals (lycee)*
@@ -463,27 +709,37 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Setti regolari sono progressioni aritmetiche; superregolari se sia l'insieme che le sue reciprocità sono regolari; più grande n con un insieme superregolare di n reali non-zero distinte (lycee)*
-
-> Un insieme di $n$ numeri reali non zeri e separati in coppia viene chiamato \emph{regular} se, quando si scrivono questi numeri sulla lavagna in ordine crescente, la differenza tra due numeri vicini è sempre la stessa, a seconda di quale dei due numeri vicini viene scelto. Ad esempio, l'insieme $\{4, 18, -3, 11\}$ è regolare perché i suoi elementi sono scritti $-3, 4, 11$ e $18$ in ordine crescente, e infatti $4 - (-3) = 11 - 4 = 18 - 11$.
-> 
-> Un insieme $A$ di numeri reali non zeri e pari distinti si chiama \emph{super-regolare} se è regolare e se l'insieme formato dagli inversi dei numeri del insieme $A$ è anche regolare.
-> 
-> Qual è il più grande numero intero $n$ tale che esista un insieme superregolare di $n$ non zero e numeri reali distinti in coppia?
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
-
-
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Rectangle ABCD, M midpoint of CD; a line parallel to AB meets AD, AM, BM, BC at P, Q, R, S; line DR meets AM at X and BC at Y; given DX=6, XR=4, find RY*
+
+> Soit $ABCD$ un rectangle et $M$ le milieu du segment $[CD]$. Une droite parallèle à $(AB)$ coupe les segments $[AD]$, $[AM]$, $[BM]$, $[BC]$ respectivement en les points $P$, $Q$, $R$ et $S$. La droite $(DR)$ coupe le segment $[AM]$ en $X$ et le segment $[BC]$ en $Y$. Si $DX = 6$ et $XR = 4$, quelle est la longueur du segment $[RY]$ ?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Rettangolo ABCD, M punto medio di CD; una retta parallela ad AB incontra AD, AM, BM, BC in P, Q, R, S; la retta DR incontra AM in X e BC in Y: noti DX=6 e XR=4, determinare RY.*
+> $ABCD$ sia un rettangolo e $M$ il punto medio del segmento $[CD]$. Una linea parallela a $(AB)$ incontra i segmenti $[AD]$, $[AM]$, $[BM]$, $[BC]$ rispettivamente nei punti $P$, $Q$, $R$ e $S$. La linea $(DR)$ incontra il segmento $[AM]$ a $X$ e il segmento $[BC]$ a $Y$. Se $DX = 6$ e $XR = 4$, quale è la lunghezza del segmento $[RY]$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangle ABCD, M midpoint of CD; a line parallel to AB meets AD, AM, BM, BC at P, Q, R, S; line DR meets AM at X and BC at Y; given DX=6, XR=4, find RY*
@@ -499,23 +755,53 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Rectangle ABCD, M punto medio del CD; una linea parallela a AB incontra AD, AM, BM, BC a P, Q, R, S; la linea DR incontra AM a X e BC a Y; data DX=6, XR=4, trovi RY*
-
-> $ABCD$ sia un rettangolo e $M$ il punto medio del segmento $[CD]$. Una linea parallela a $(AB)$ incontra i segmenti $[AD]$, $[AM]$, $[BM]$, $[BC]$ rispettivamente nei punti $P$, $Q$, $R$ e $S$. La linea $(DR)$ incontra il segmento $[AM]$ a $X$ e il segmento $[BC]$ a $Y$. Se $DX = 6$ e $XR = 4$, quale è la lunghezza del segmento $[RY]$?
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,method_cassetti,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Tokens in a 30x30 grid: at most one per cell, every empty cell shares row/column with a token, every token has at most one other token in its row or column; find the smallest k so that every k x k subsquare always contains a token*
+
+> Théo place des jetons dans les cases d’un tableau de taille $30 \times 30$ en respectant les règles suivantes :
+>
+> $\triangleright$ Chaque case contient au plus un jeton.
+>
+> $\triangleright$ Pour chaque case vide, il y a, parmi les cases de la même ligne ou de la même colonne, au moins une case contenant un jeton.
+>
+> $\triangleright$ Pour chaque jeton, il y a, parmi les cases de la même ligne ou de la même colonne, au plus une autre case contenant un jeton.
+>
+> Déterminer le plus petit entier $k$ vérifiant la propriété suivante : quelle que soit la disposition choisie par Théo, chaque carré de taille $k \times k$ de la grille contient au moins une case avec un jeton.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Pedine su una griglia 30×30: al più una per casella, ogni casella vuota condivide riga o colonna con una pedina, e ogni pedina ha al più un'altra pedina sulla stessa riga o colonna; determinare il minimo k possibile.*
+> Theo colloca i token nelle celle di una tabella di dimensioni $30 \times 30$ rispettando le seguenti regole:
+> 
+> $\triangleright$ Ogni cella contiene al massimo un token.
+> 
+> $\triangleright$ Per ogni cella vuota, tra le celle della stessa riga o della stessa colonna, c'è almeno una cella contenente un token.
+> 
+> $\triangleright$ Per ogni token inserito, tra le celle della stessa riga o della stessa colonna, c'è al massimo un'altra cella che contiene un token.
+> 
+> Determinare il numero intero più piccolo $k$ che soddisfa la seguente proprietà: qualunque sia l'arrangimento scelto da Theo, ogni quadrato $k \times k$ della griglia contiene almeno una cella con un token.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tokens in a 30x30 grid: at most one per cell, every empty cell shares row/column with a token, every token has at most one other token in its row or column; find the smallest k so that every k x k subsquare always contains a token*
@@ -537,24 +823,3 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Token in una griglia 30x30: al massimo uno per ogni cella, ogni cella vuota condivide riga/colonna con un token, ogni token ha al massimo un altro token nella sua riga o colonna; trovare il k più piccolo in modo che ogni sottoquadrato k x k contiene sempre un token*
-
-> Theo colloca i token nelle celle di una tabella di dimensioni $30 \times 30$ rispettando le seguenti regole:
-> 
-> $\triangleright$ Ogni cella contiene al massimo un token.
-> 
-> $\triangleright$ Per ogni cella vuota, tra le celle della stessa riga o della stessa colonna, c'è almeno una cella contenente un token.
-> 
-> $\triangleright$ Per ogni token inserito, tra le celle della stessa riga o della stessa colonna, c'è al massimo un'altra cella che contiene un token.
-> 
-> Determinare il numero intero più piccolo $k$ che soddisfa la seguente proprietà: qualunque sia l'arrangimento scelto da Theo, ogni quadrato $k \times k$ della griglia contiene almeno una cella con un token.
-
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]

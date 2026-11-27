@@ -30,9 +30,7 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Linea più corta che dimezza l'area di un triangolo*
-
+*Lunghezza d della retta più corta che dimezza l'area di un triangolo qualunque; esistenza di una linea (non retta) ancora più corta.*
 > Dimostrare che, per un triangolo arbitrariamente dato, la lunghezza $d$ della retta più corta che dimezza l'area del triangolo si esprime in funzione dell'area $A$ del triangolo e di uno dei suoi angoli.
 > 
 > Dimostrare che esiste una linea più corta (non retta) che dimezza l'area del triangolo dato.

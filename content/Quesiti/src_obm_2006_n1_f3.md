@@ -12,22 +12,22 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_invarianti,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two digit-shifting sequences: find terms, last term, period*
 
-> Consider the following sequences.
-> 
-> $S_1$: $12345678,\ 81234567,\ 78123456,\ \ldots$, in which the units digit of one term becomes the leftmost digit of the next term (the units digit shifts to the front).
-> 
-> $S_2$: $123456789,\ 912345678,\ 891234567,\ \ldots$, in which the units digit of one term becomes the leftmost digit of the next term, and the tens digit of one term becomes the second digit from the left of the next term.
-> 
-> (a) Find the fifth term of $S_1$ and the fourth term of $S_2$.
-> 
-> (b) The sequence $S_1$ has $2006$ terms. What is the last term?
-> 
-> (c) The sequence $S_3$ terminates when the first term repeats. How many terms does $S_3$ have?
+> Considere as seguintes seqüências:
+>
+> $S_1$: $12345678,\ 81234567,\ 78123456,\ \ldots$, na qual o último algarismo do termo anterior (algarismo das unidades) torna-se o primeiro algarismo à esquerda do próximo termo.
+>
+> $S_2$: $1234567898765,\ 5612345678987,\ 7856123456789,\ \ldots$, na qual o algarismo das unidades torna-se o primeiro algarismo à esquerda do próximo termo, e o das dezenas torna-se o segundo algarismo à esquerda.
+>
+> a) Apresente o quinto termo da seqüência $S_1$ e o quarto termo da seqüência $S_2$.
+>
+> b) A seqüência $S_1$ tem $2006$ termos. Qual é o seu último termo?
+>
+> c) A seqüência $S_2$ termina quando o primeiro termo se repete. Quantos termos tem essa seqüência?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -60,19 +60,43 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two digit-shifting sequences: find terms, last term, period*
+
+> Consider the following sequences.
+> 
+> $S_1$: $12345678,\ 81234567,\ 78123456,\ \ldots$, in which the units digit of one term becomes the leftmost digit of the next term (the units digit shifts to the front).
+> 
+> $S_2$: $123456789,\ 912345678,\ 891234567,\ \ldots$, in which the units digit of one term becomes the leftmost digit of the next term, and the tens digit of one term becomes the second digit from the left of the next term.
+> 
+> (a) Find the fifth term of $S_1$ and the fourth term of $S_2$.
+> 
+> (b) The sequence $S_1$ has $2006$ terms. What is the last term?
+> 
+> (c) The sequence $S_3$ terminates when the first term repeats. How many terms does $S_3$ have?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cryptarithmetic addition: find value of each symbol*
 
-> In the addition below, each symbol represents a unique digit and different symbols represent different digits.
-> 
+> Na adição abaixo, cada símbolo representa um único algarismo e símbolos diferentes representam algarismos diferentes.
+>
 > $$\begin{array}{r} \square\,\triangle \\ +\quad\triangle\,\odot \\ \hline \odot\,\square\,\triangle \end{array}$$
-> 
-> Determine the value of each symbol; that is, find these values and show that no other possibilities exist.
+>
+> Determine o valor de cada símbolo, ou seja, descubra tais valores e mostre que não existem outras possibilidades.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -99,22 +123,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cryptarithmetic addition: find value of each symbol*
+
+> In the addition below, each symbol represents a unique digit and different symbols represent different digits.
+> 
+> $$\begin{array}{r} \square\,\triangle \\ +\quad\triangle\,\odot \\ \hline \odot\,\square\,\triangle \end{array}$$
+> 
+> Determine the value of each symbol; that is, find these values and show that no other possibilities exist.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Dartboard scoring: count distinct scores with 2 arrows, then participants with 3 arrows*
 
-> An archer shoots arrows at the target shown on the right. The numbers indicate the score obtained in each region hit by an arrow (if the arrow hits a line exactly, the score is the lesser of the two adjacent regions). Note that the rectangle region scores $0$ points.
-> 
-> The target has concentric circular regions scored $1$, $2$, $3$, $4$, $5$ from outermost to innermost circle (with the rectangle worth $0$).
-> 
-> (a) In a competition, each participant shoots $2$ arrows. How many different total scores can be obtained?
-> 
-> (b) In another competition, each participant shoots $3$ arrows. Curiously, there were no ties and all possible scores were achieved. How many participants were there in this competition?
-
-![[src_obm_2006_n1_f3__Q03.png]]
+> Um atirador lança flechas no alvo representado ao lado. Os números indicam a pontuação obtida em cada região atingida pela flecha (se a flecha acertar exatamente uma linha, a pontuação é a menor das duas regiões). Note que a região fora do retângulo não rende pontos.
+>
+> a) Se numa competição, cada participante atira $2$ flechas, quantas pontuações diferentes podem ser obtidas?
+>
+> b) Numa outra competição, cada participante atirou $3$ flechas. Curiosamente, não houve empates e todas as pontuações possíveis foram atingidas. Quantos participantes havia nesta competição?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -145,20 +184,41 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Dartboard scoring: count distinct scores with 2 arrows, then participants with 3 arrows*
+
+> An archer shoots arrows at the target shown on the right. The numbers indicate the score obtained in each region hit by an arrow (if the arrow hits a line exactly, the score is the lesser of the two adjacent regions). Note that the rectangle region scores $0$ points.
+> 
+> The target has concentric circular regions scored $1$, $2$, $3$, $4$, $5$ from outermost to innermost circle (with the rectangle worth $0$).
+> 
+> (a) In a competition, each participant shoots $2$ arrows. How many different total scores can be obtained?
+> 
+> (b) In another competition, each participant shoots $3$ arrows. Curiously, there were no ties and all possible scores were achieved. How many participants were there in this competition?
+
+![[src_obm_2006_n1_f3__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum collinear vertices of a 12-gon; prove optimality*
 
-> Among the polygons with $5$ sides, the maximum number of vertices that are collinear (lying on a single straight line) is three, as shown in the figure.
-> 
-> What is the maximum number of collinear vertices that a polygon with $12$ sides can have?
-> 
-> \textbf{Note:} besides drawing a $12$-gon with the maximum number of collinear vertices, remember to show that no other $12$-gon can have more collinear vertices than this one.
-
-![[src_obm_2006_n1_f3__Q04.png]]
+> Dentre os polígonos de $5$ lados, o maior número possível de vértices alinhados, isto é, pertencentes a uma única reta, é três, como mostrado a seguir.
+>
+> Qual é a maior quantidade de vértices alinhados que um polígono de $12$ lados pode ter?
+>
+> Atenção: além de desenhar um polígono de $12$ lados com o número máximo de vértices alinhados, lembre-se de mostrar que não existe um outro polígono de $12$ lados com mais vértices alinhados do que este.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -187,26 +247,42 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum collinear vertices of a 12-gon; prove optimality*
+
+> Among the polygons with $5$ sides, the maximum number of vertices that are collinear (lying on a single straight line) is three, as shown in the figure.
+> 
+> What is the maximum number of collinear vertices that a polygon with $12$ sides can have?
+> 
+> \textbf{Note:} besides drawing a $12$-gon with the maximum number of collinear vertices, remember to show that no other $12$-gon can have more collinear vertices than this one.
+
+![[src_obm_2006_n1_f3__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sliding pieces on grid: minimum moves to swap two circular and two square pieces*
 
-> Starting from the board shown in Figure 1, with four pieces — two circular gray pieces and two black square pieces — Esmeraldinho invented the following game:
-> 
-> \begin{itemize}
-> \item Initially the pieces are placed on the board as shown in Figure 1.
-> \item The goal of the game is, after a certain number of moves, to swap the positions of the pieces, reaching the situation shown in Figure 2.
-> \item Each move consists of moving one of the four pieces one or more squares up, down, left, or right; however, a piece may not \emph{jump over} any piece that is eventually in its path, nor occupy a square where there is already a piece. For example, the piece marked \textbf{A} can only be moved to the highlighted squares in the small diagram.
-> \item Moves of circles and squares alternate. The game starts with a move of one of the squares.
-> \end{itemize}
-> 
-> Determine the minimum total number of moves needed to finish the game. Show, step by step, how to move the pieces with this number of moves, and prove that it is not possible to finish the game with fewer moves.
-
-![[src_obm_2006_n1_f3__Q05.png]]
+> A partir do tabuleiro mostrado nas figuras abaixo e quatro peças, duas circulares cinzas e duas quadradas pretas, Esmeraldinho inventou o seguinte jogo:
+>
+> - Inicialmente, as peças são colocadas no tabuleiro como mostra a figura 1.
+> - A meta do jogo é, após um certo número de movimentos, trocar as peças de posição, chegando na situação mostrada na figura 2.
+> - Cada movimento consiste em mover uma das quatro peças uma ou mais casas acima, abaixo, à esquerda ou à direita; todavia, tal peça não pode “pular” nenhuma peça que, eventualmente, esteja no caminho, ou ocupar uma casa onde já existe uma peça. Por exemplo, a peça marcada com A só pode se mover para alguma das casas destacadas em cinza.
+> - Os movimentos dos círculos e dos quadrados são alternados. O jogo começa com um movimento de um dos quadrados.
+>
+> Determine a menor quantidade total de movimentos necessários para terminar o jogo. Mostre, passo-a-passo, através de desenhos, como movimentar as peças com esta quantidade de movimentos e prove que não é possível terminar o jogo com menos movimentos.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
@@ -234,3 +310,29 @@ level: OBM Nível 1
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sliding pieces on grid: minimum moves to swap two circular and two square pieces*
+
+> Starting from the board shown in Figure 1, with four pieces — two circular gray pieces and two black square pieces — Esmeraldinho invented the following game:
+> 
+> \begin{itemize}
+> \item Initially the pieces are placed on the board as shown in Figure 1.
+> \item The goal of the game is, after a certain number of moves, to swap the positions of the pieces, reaching the situation shown in Figure 2.
+> \item Each move consists of moving one of the four pieces one or more squares up, down, left, or right; however, a piece may not \emph{jump over} any piece that is eventually in its path, nor occupy a square where there is already a piece. For example, the piece marked \textbf{A} can only be moved to the highlighted squares in the small diagram.
+> \item Moves of circles and squares alternate. The game starts with a move of one of the squares.
+> \end{itemize}
+> 
+> Determine the minimum total number of moves needed to finish the game. Show, step by step, how to move the pieces with this number of moves, and prove that it is not possible to finish the game with fewer moves.
+
+![[src_obm_2006_n1_f3__Q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)

@@ -597,9 +597,7 @@ level: China National Team Selection Test
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Un triangolo con vertici interi e un punto interno m-integro ha area limitata*
-
+*Un triangolo con vertici a coordinate intere e esattamente un punto interno m-intero ha area al più 2m^2(m+2).*
 > Sia $m$ un numero intero positivo. Un punto $(x, y)$ nel piano è detto punto $m$-integrale se $m \mid x$ e $m \mid y$. Dimostrare che, per ogni triangolo $ABC$ avente coordinate dei vertici intere e contenente esattamente un punto $m$-integrale interno, la sua area $S_{\triangle ABC}$ soddisfa $S_{\triangle ABC} \le 2m^2(m+2)$.
 
 
@@ -673,9 +671,7 @@ level: China National Team Selection Test
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Incircolo del triangolo; punto F tale che IF è parallela a BC e gli angoli alla base sono uguali; dimostrare la perpendicolarità*
-
+*Cerchio inscritto e incentro I di un triangolo; punto F tale che IF è parallela a BC e gli angoli alla base sono uguali; dimostrare una perpendicolarità.*
 > Come illustrato nella Fig. 2.1, il cerchio $\Omega$ è inscritto nel triangolo $\triangle ABC$; $I$ è l'incentro di $\triangle ABC$; $O$ è il circocentro di $\triangle ABC$. Siano $M$ e $N$ i punti medi dell'arco $\widehat{BAC}$ e dell'arco $\widehat{BC}$ della circonferenza circoscritta, rispettivamente. Sia $D$ un punto sull'arco $\widehat{AC}$ (che non contiene $B$) tale che $AD \parallel BC$. Sia $F$ un punto interno a $\triangle ABC$ che soddisfa $IF \parallel BC$ e $\angle BAF = \angle CAF$. Sia $K$ l'intersezione delle rette $AF$ e $DI$; sia $L$ l'intersezione della retta $AF$ e della retta passante per $N$ e un certo punto costruito. Dimostrare: $MK \perp NL$.
 
 ![[src_cn_ctst_2021__Q20.png]]

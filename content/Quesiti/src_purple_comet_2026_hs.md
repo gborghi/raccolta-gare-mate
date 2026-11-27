@@ -12,7 +12,23 @@ level: Purple Comet High School
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Sconto complessivo*
+
+> One afternoon at a furniture store, Heather bought a 100 dollar chair at a 20 percent discount and a 150 dollar table at a 30 percent discount. Find the percent discount she received on her afternoon's purchases.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0026
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2026HSSolutions.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sconto complessivo*
@@ -28,24 +44,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A 100-dollar chair at 20 per cent off and a 150-dollar table at 30 per cent off: the overall percentage discount*
-
-> One afternoon, in a furniture shop, Heather bought a 100-dollar chair at a 20 per cent discount and a 150-dollar table at a 30 per cent discount. Determine the percentage discount she received overall on that afternoon's purchases.
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0026
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Primi con almeno 50 multipli sotto 2026*
+
+> Find the number of prime numbers $p > 0$ such that at least 50 positive integers less than 2026 are divisible by $p$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0012
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2026HSSolutions.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primi con almeno 50 multipli sotto 2026*
@@ -61,25 +79,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*How many primes p divide at least 50 positive integers less than 2026*
-
-> Determine how many primes $p>0$ are such that at least 50 positive integers less than 2026 are divisible by $p$.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0012
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Trapezio inscritto in un quadrato*
+
+> Square $ABCD$ has side length 8. Points $E$ and $F$ are on $\overline{AB}$ and $\overline{AD}$, respectively, with $AE = AF = 1$, and points $G$ and $H$ are on $\overline{BC}$ and $\overline{CD}$, respectively, with $CG = CH = 3$, as shown. Find the area of trapezoid $EGHF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 0024
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2026HSSolutions.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezio inscritto in un quadrato*
@@ -97,27 +116,25 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A square of side 8 with points at distances 1 and 3 from opposite corners: the area of the trapezium*
-
-> The square $ABCD$ has side 8. The points $E$ and $F$ lie on $\overline{AB}$ and $\overline{AD}$ respectively, with $AE=AF=1$, and the points $G$ and $H$ lie on $\overline{BC}$ and $\overline{CD}$ respectively, with $CG=CH=3$, as in the figure. Determine the area of the trapezium $EGHF$.
-
-![[src_purple_comet_2026_hs__prob3.png]]
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
-**Answer:** 0024
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Media degli ultimi quattro*
+
+> The mean of a list of 21 numbers is 21. The mean of the first 17 numbers in the list is 17. Find the mean of the last 4 numbers in the list.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0038
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2026HSSolutions.pdf#page=2)
+**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Media degli ultimi quattro*
@@ -132,24 +149,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A list of 21 numbers with mean 21, the first 17 with mean 17: the mean of the last 4*
-
-> The mean of a list of 21 numbers is 21. The mean of the first 17 numbers on the list is 17. Determine the mean of the last 4 numbers on the list.
-
-
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0038
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Quattro consecutivi con due primi ciascuno*
+
+> Find the least positive integer $n$ such that $n$, $n + 1$, $n + 2$, and $n + 3$ are each divisible by exactly two different prime numbers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0033
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2026HSSolutions.pdf#page=2)
+**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro consecutivi con due primi ciascuno*
@@ -165,25 +184,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*The smallest positive integer n such that n, n+1, n+2 and n+3 each have exactly two distinct prime factors*
-
-> Determine the smallest positive integer $n$ such that $n$, $n+1$, $n+2$ and $n+3$ are each divisible by exactly two distinct primes.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0033
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Logaritmi di somme*
+
+> For a given positive integer $n$, let $A = 1 + 2 + 3 + \cdots + n$ and $B = 1^2 + 2^2 + 3^2 + \cdots + n^2$. Find the value of $n$ such that $\log_3 A$ and $\log_3 B$ differ by 5.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0364
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
+**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Logaritmi di somme*
@@ -199,25 +219,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*The positive integer n for which log₃ of the sum 1 + … + n and log₃ of the sum of squares differ by 5*
-
-> Given a positive integer $n$, let $A=1+2+3+\cdots+n$ and $B=1^2+2^2+3^2+\cdots+n^2$. Determine the value of $n$ for which $\log_3 A$ and $\log_3 B$ differ by 5.
-
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0364
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*2026 come somma di tre quadrati*
+
+> One way to write 2026 as the sum of three perfect squares is $1^2 + 27^2 + 36^2$. Find the greatest possible value of $s$, where $q$, $r$, and $s$ are positive integers with $q^2 + r^2 + s^2 = 2026$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0044
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
+**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2026 come somma di tre quadrati*
@@ -233,25 +254,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*2026 as a sum of three positive squares: the greatest possible largest square root*
-
-> One way of writing 2026 as a sum of three perfect squares is $1^2+27^2+36^2$. Determine the greatest possible value of $s$, where $q$, $r$ and $s$ are positive integers with $q^2+r^2+s^2=2026$.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0044
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Il treno e la galleria*
+
+> A train traveling at a constant speed takes 15 seconds to pass a point on its track, and 45 seconds to pass completely through a tunnel that is 600 meters long. Find the speed of the train in kilometers per hour.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 0072
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
+**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il treno e la galleria*
@@ -267,24 +289,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A train that passes a point in 15 seconds and a 600-metre tunnel in 45 seconds: its speed in kilometres per hour*
-
-> A train travelling at constant speed takes 15 seconds to pass a point on the track and 45 seconds to pass completely through a tunnel 600 metres long. Determine the speed of the train in kilometres per hour.
-
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** 0072
-
-
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Fogli colorati e adesivi*
+
+> You have three pieces of red paper, three pieces of white paper, and three pieces of blue paper. You have three black stickers, three yellow stickers, and three purple stickers. You randomly place one sticker onto each piece of paper. The probability that you will end up with all nine possible color combinations is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0079
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
+**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fogli colorati e adesivi*
@@ -300,25 +324,25 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Three sheets of each of three colours, one sticker of each of three colours on each sheet: the probability of all nine combinations, as m + n*
-
-> You have three sheets of red paper, three of white paper and three of blue paper. You have three black stickers, three yellow and three purple. You put one sticker at random on each sheet. The probability of obtaining all nine possible colour combinations is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** 0079
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Risparmi per l'auto usata*
+
+> Jacob had 25% more in savings than his son Sawyer, and when they pooled their savings, they were 25% short of having the money they needed to purchase the used car they wanted. After working hard for a week, Jacob saved an additional amount, and Sawyer saved an additional amount that was 25% more than the additional amount Jacob saved. Now when they pooled their savings, they had just enough money to purchase the car. The portion of the purchase price of the car that Jacob contributed was $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0055
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2026HSSolutions.pdf#page=4)
+**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Risparmi per l'auto usata*
@@ -333,24 +357,28 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Jacob and Sawyer save for a second-hand car: the fraction of the price paid by Jacob, as m + n*
-
-> Jacob had 25% more savings than his son Sawyer and, putting their savings together, they were short by 25% of the sum needed to buy the second-hand car they wanted. After a week of hard work, Jacob saved an additional sum, and Sawyer saved an additional sum 25% greater than the sum Jacob saved. Now, putting their savings together, they had exactly the money needed to buy the car. The fraction of the price of the car paid by Jacob is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0055
-
-
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Accoppiamenti e potenze di 63*
+
+> Let $A=\{1,2,3,\ldots,2026\}$. Let $N$ be the number of ways that the 2026 elements of $A$ can be paired into 1013 sets of 2 elements each such as
+> $$\{1,2\},\{3,4\},\{5,6\},\ldots,\{2025,2026\}.$$
+> Find the greatest integer $n$ such that $63^n$ divides $N$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0169
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2026HSSolutions.pdf#page=4)
+**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Accoppiamenti e potenze di 63*
@@ -368,29 +396,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Pairings of {1, …, 2026}: the highest power of 63 that divides the number of pairings*
-
-> Let $A=\{1,2,3,\ldots,2026\}$. Let $N$ be the number of ways in which the 2026 elements of $A$ can be partitioned into 1013 pairs, for example
->
-> $$\{1,2\},\{3,4\},\{5,6\},\ldots,\{2025,2026\}.$$
->
-> Determine the greatest integer $n$ such that $63^n$ divides $N$.
-
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0169
-
-
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_fattorizzazione,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Divisori del prodotto ma non dei fattori*
+
+> Find the number of positive integers that divide neither $2026^2$ nor $6000^2$ but do divide the product $2026^2\cdot 6000^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0498
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2026HSSolutions.pdf#page=5)
+**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisori del prodotto ma non dei fattori*
@@ -406,25 +431,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Positive integers that divide neither 2026² nor 6000², but divide their product*
-
-> Determine how many positive integers divide neither $2026^2$ nor $6000^2$, but divide the product $2026^2\cdot 6000^2$.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0498
-
-
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_aritmetica,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Pedine sulla retta numerica*
+
+> One marker is placed at each of the points 1, 2, 3, and 4 along a horizontal number line. Then a shift takes place where each marker either moves one unit to the left, stays where it began, or moves one unit to the right, where the choices for each marker are made randomly and independently of the choices for the other markers. The probability that after the shift there is at least one location with two or more markers is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0136
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2026HSSolutions.pdf#page=5)
+**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pedine sulla retta numerica*
@@ -440,25 +466,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Four counters on a number line, each moving left, staying or moving right: the probability of a collision, as m + n*
-
-> A counter is placed at each of the points 1, 2, 3 and 4 of a horizontal number line. Then a move takes place: each counter moves one unit to the left, or stays where it is, or moves one unit to the right; the choices for each counter are random and independent of those for the others. The probability that after the move there is at least one position with two or more counters is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0136
-
-
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_aritmetica,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Regione tra due cerchi e una tangente*
+
+> Circles with radii 6 and 18 are externally tangent. The region bounded by the two circles and one of their common external tangents has area $m\sqrt{p}-n\pi$, where $m$, $n$, and $p$ are positive integers, and $p$ is not divisible by the square of any prime. Find $m+n+p$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0213
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.6](https://purplecomet.org/files/2026HSSolutions.pdf#page=6)
+**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regione tra due cerchi e una tangente*
@@ -474,25 +501,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Two externally tangent circles of radii 6 and 18, and a common external tangent: m + n + p for the area of the bounded region*
-
-> Two circles of radii 6 and 18 are externally tangent. The region bounded by the two circles and by one of their common external tangents has area $m\sqrt{p}-n\pi$, where $m$, $n$ and $p$ are positive integers and $p$ is not divisible by the square of any prime. Determine $m+n+p$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0213
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Seno e coseno dell'angolo triplo*
+
+> Let $a$ be a real number for which $20\sin a+21\cos a=29$. Then $20\sin(3a)+21\cos(3a)=\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Risposta:** 0070
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.7](https://purplecomet.org/files/2026HSSolutions.pdf#page=7)
+**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Seno e coseno dell'angolo triplo*
@@ -508,25 +536,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A real a with 20 sin a + 21 cos a = 29: m + n for 20 sin 3a + 21 cos 3a*
-
-> Let $a$ be a real number such that $20\sin a+21\cos a=29$. Then $20\sin(3a)+21\cos(3a)=\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
-**Answer:** 0070
-
-
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_aritmetica,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Diagonali e perimetro del rombo*
+
+> The sum of the lengths of the diagonals of a rhombus is $\frac{17}{26}$ times the perimeter of the rhombus. The cosine of the acute internal angles of the rhombus is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0288
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.8](https://purplecomet.org/files/2026HSSolutions.pdf#page=8)
+**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diagonali e perimetro del rombo*
@@ -542,25 +571,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A rhombus whose diagonals sum to 17/26 of the perimeter: m + n for the cosine of an acute angle*
-
-> The sum of the lengths of the diagonals of a rhombus is $\frac{17}{26}$ of the perimeter of the rhombus. The cosine of the acute interior angles of the rhombus is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** 0288
-
-
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Tre rubinetti per la piscina*
+
+> A swimming pool can be filled using any of three faucets $A$, $B$, and $C$, which when opened individually can fill the pool in 2, 3, and 6 hours, respectively. Suppose that starting when the pool is empty, faucets $A$ and $B$ are opened simultaneously, and after $k$ minutes, when the pool is partially filled, faucet $C$ is opened resulting in the pool being filled in a total of 1 hour and 3 minutes. Find $k$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 0018
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.8](https://purplecomet.org/files/2026HSSolutions.pdf#page=8)
+**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre rubinetti per la piscina*
@@ -576,24 +606,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Three taps that fill a pool in 2, 3 and 6 hours: after how many minutes the third tap is opened so that the pool is full in 1 hour 3 minutes*
-
-> A swimming pool can be filled by any one of three taps $A$, $B$ and $C$ which, opened on their own, fill it in 2, 3 and 6 hours respectively. Suppose that, starting with the pool empty, taps $A$ and $B$ are opened at the same time, and that after $k$ minutes, with the pool partly full, tap $C$ is also opened, so that the pool is full in a total time of 1 hour and 3 minutes. Determine $k$.
-
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** 0018
-
-
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_algebra,topic_geometria_analitica,method_fattorizzazione,method_coordinate,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Baricentro nel piano complesso*
+
+> In the complex plane, the triangle with vertices at $0$, $z$, and $z^2$ has centroid $17+69i$, where $i=\sqrt{-1}$. Find the least possible value of $|z|^2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Risposta:** 0202
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2026HSSolutions.pdf#page=9)
+**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Baricentro nel piano complesso*
@@ -609,25 +641,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A triangle in the complex plane with vertices 0, z and z² and centroid 17 + 69i: the least possible |z|²*
-
-> In the complex plane, the triangle with vertices $0$, $z$ and $z^2$ has centroid $17+69i$, where $i=\sqrt{-1}$. Determine the least possible value of $|z|^2$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** 0202
-
-
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Polinomio minimo di un radicale doppio*
+
+> Let $p(x)$ be the polynomial with minimum degree, with integer coefficients, and with leading coefficient equal to 1 such that $\sqrt{\sqrt{3}-\sqrt{2}}$ is a root of $p$. Find $p(2)$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 0097
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2026HSSolutions.pdf#page=9)
+**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio minimo di un radicale doppio*
@@ -643,25 +676,25 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*The monic integer polynomial of least degree with root √(√3 − √2): the value of p(2)*
-
-> Let $p(x)$ be the polynomial of least degree, with integer coefficients and leading coefficient 1, such that $\sqrt{\sqrt3-\sqrt2}$ is a root of it. Determine $p(2)$.
-
-
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** 0097
-
-
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Più vicino al lato più lungo*
+
+> A point is randomly selected from the inside of a triangle with side lengths 17, 19, and 22. The probability that the point is closer to the longest side of the triangle than to either of the other two sides is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** 0040
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2026HSSolutions.pdf#page=9)
+**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Più vicino al lato più lungo*
@@ -676,24 +709,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A random point in a triangle of sides 17, 19 and 22: the probability it is closer to the longest side than to either of the others, as m + n*
-
-> A point is chosen at random inside a triangle with sides 17, 19 and 22. The probability that the point is closer to the longest side of the triangle than to each of the other two sides is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-**Answer:** 0040
-
-
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_probabilita,method_casework,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*La moneta truccata*
+
+> Bob has two identical-looking coins, but one is a fair coin that is equally likely to come up heads or tails when it is flipped, and the other is an unbalanced coin that comes up heads $\frac{3}{5}$ of the time when it is flipped. Suppose Bob randomly selects one of the coins, flips it, and it comes up heads. The probability that the same coin will come up heads when Bob flips it a second time is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0171
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.10](https://purplecomet.org/files/2026HSSolutions.pdf#page=10)
+**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La moneta truccata*
@@ -709,25 +744,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A fair coin and a coin that lands heads 3/5 of the time: after one head, the probability of heads on the second toss, as m + n*
-
-> Bob has two coins that look the same: one is fair, that is, it lands heads or tails with equal probability when tossed, while the other is biased and lands heads on $\frac35$ of the tosses. Bob chooses one of the coins at random, tosses it, and it lands heads. The probability that the same coin lands heads when Bob tosses it a second time is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** 0171
-
-
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Colorare una griglia 2×4*
+
+> Each cell of a $2\times 4$ grid is colored either red, white, blue, or yellow. Find the number of ways the cells can be colored so that no two cells that share a side have the same color, and each of the four colors is used on at least one cell, such as in the example shown below.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 3480
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.10](https://purplecomet.org/files/2026HSSolutions.pdf#page=10)
+**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colorare una griglia 2×4*
@@ -745,27 +781,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Colourings of a 2×4 grid in four colours, adjacent cells different, every colour used at least once*
-
-> Each cell of a $2\times4$ grid is coloured red, white, blue or yellow. Determine in how many ways the cells can be coloured so that two cells sharing a side do not have the same colour, and so that each of the four colours is used for at least one cell, as in the example in the figure.
-
-![[src_purple_comet_2026_hs__prob22.png]]
-
-
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** 3480
-
-
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Radice complessa di una quartica*
+
+> The equation $x^4-56x+15=0$ has a complex solution of the form $-a+i\sqrt{b}$, where $a$ and $b$ are positive integers and $i=\sqrt{-1}$. Find $a+10b$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 0112
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.11](https://purplecomet.org/files/2026HSSolutions.pdf#page=11)
+**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radice complessa di una quartica*
@@ -781,25 +816,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A complex root of x⁴ − 56x + 15 = 0 of the form −a + i√b: a + 10b*
-
-> The equation $x^4-56x+15=0$ has a complex solution of the form $-a+i\sqrt b$, where $a$ and $b$ are positive integers and $i=\sqrt{-1}$. Determine $a+10b$.
-
-
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** 0112
-
-
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Quattro sfere tangenti*
+
+> Four mutually externally tangent spheres with centers $A$, $B$, $C$, and $D$ have radii 1, 2, 3, and 4, respectively. There are relatively prime positive integers $m$ and $n$ such that the volume of the tetrahedron (triangular pyramid) $ABCD$ is $\sqrt{\frac{m}{n}}$. Find $m+n$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** 0869
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.11](https://purplecomet.org/files/2026HSSolutions.pdf#page=11)
+**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro sfere tangenti*
@@ -815,25 +851,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Four pairwise externally tangent spheres of radii 1, 2, 3 and 4: m + n for the volume of the tetrahedron of centres*
-
-> Four spheres, pairwise externally tangent, with centres $A$, $B$, $C$ and $D$, have radii 1, 2, 3 and 4 respectively. There exist coprime positive integers $m$ and $n$ such that the volume of the tetrahedron (triangular pyramid) $ABCD$ is $\sqrt{\frac{m}{n}}$. Determine $m+n$.
-
-
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
-**Answer:** 0869
-
-
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Biglie distribuite a quattro amici*
+
+> Four red, four white, and four blue marbles are randomly distributed to Alan, Beth, Carl, and Dora, so that each person receives three marbles. The probability that Alan does not receive any red marbles and Dora does not receive any blue marbles is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0038
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.12](https://purplecomet.org/files/2026HSSolutions.pdf#page=12) — l'elenco ufficiale dà 38 (probabilità 3/35); il PDF delle soluzioni riporta «Answer: 35» per un refuso: 3/35 dà m+n = 38, verificato anche per enumerazione
+**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Biglie distribuite a quattro amici*
@@ -849,25 +886,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Twelve marbles, four of each of three colours, dealt three each: the probability that Alan gets no red and Dora no blue, as m + n*
-
-> Four red marbles, four white and four blue are distributed at random among Alan, Beth, Carl and Dora, so that each receives three marbles. The probability that Alan receives no red marbles and that Dora receives no blue marbles is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** 0038 — the official answer list gives 38 (probability 3/35); the solutions PDF prints «Answer: 35», a typo: 3/35 gives m+n = 38, also checked by enumeration
-
-
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="Quesito 26" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Minimo con vincolo sul prodotto*
+
+> Let $x$ and $y$ be the positive real numbers satisfying $xy = 16$ for which the value of $3x + y^3$ is a minimum. Let $m$ be that minimum value. Find $x + y + m$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 0042
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.13](https://purplecomet.org/files/2026HSSolutions.pdf#page=13)
+**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimo con vincolo sul prodotto*
@@ -883,25 +921,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Positive reals with xy = 16 that minimise 3x + y³: x + y plus that minimum*
-
-> Let $x$ and $y$ be the positive real numbers with $xy=16$ for which the value of $3x+y^3$ is least. Let $m$ be that least value. Determine $x+y+m$.
-
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** 0042
-
-
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Sfera tra cono e semisfera*
+
+> A right circular cone has height 12 and base diameter 10. A hemisphere is internally tangent to the side of the cone, and the base of the hemisphere lies in the base of the cone so that hemisphere and the base of the cone have the same center. The largest sphere internally tangent to the side of the cone and externally tangent to the hemisphere has radius $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
+**Risposta:** 0119
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.13](https://purplecomet.org/files/2026HSSolutions.pdf#page=13)
+**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sfera tra cono e semisfera*
@@ -917,25 +956,28 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A cone of height 12 and base diameter 10, a hemisphere in the base, and the largest sphere between them: m + n for the radius*
-
-> A right circular cone has height 12 and base diameter 10. A hemisphere is internally tangent to the lateral surface of the cone, and its base lies in the base of the cone, so that the hemisphere and the base of the cone have the same centre. The largest sphere that is internally tangent to the lateral surface of the cone and externally tangent to the hemisphere has radius $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]]
-**Answer:** 0119
-
-
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_funzionali,topic_algebra,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Somma telescopica di radici*
+
+> For positive integers $n$, define
+> $$a_n = 1 - \frac{2n^2}{1 + \sqrt{1 + 4n^4}}.$$
+> Evaluate $\sqrt{a_1} + 2\sqrt{a_2} + 3\sqrt{a_3} + \cdots + 119\sqrt{a_{119}}$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 0084
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.14](https://purplecomet.org/files/2026HSSolutions.pdf#page=14)
+**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Somma telescopica di radici*
@@ -953,29 +995,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A sequence defined by a rationalised expression: the sum of k√a_k from 1 to 119*
-
-> For every positive integer $n$, define
->
-> $$a_n=1-\frac{2n^2}{1+\sqrt{1+4n^4}}.$$
->
-> Compute $\sqrt{a_1}+2\sqrt{a_2}+3\sqrt{a_3}+\cdots+119\sqrt{a_{119}}$.
-
-
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_telescoping|Telescoping sums]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** 0084
-
-
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="Quesito 29" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Pile di mattoni colorati*
+
+> You have six red bricks, six white bricks, and six blue bricks. You are to put down the bricks in three side-by-side piles of six bricks each so that stacks of red bricks are only at the bottoms of piles, and stacks of blue bricks are only at the tops of piles. Four possible patterns are shown below. Find the number of possible color patterns you can get.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0406
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.15](https://purplecomet.org/files/2026HSSolutions.pdf#page=15)
+**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pile di mattoni colorati*
@@ -993,27 +1032,26 @@ level: Purple Comet High School
 **Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Six red, six white and six blue bricks in three piles of six, red only low and blue only high: how many colourings*
-
-> You have six red bricks, six white and six blue. You must arrange them in three side-by-side piles of six bricks each, so that the red bricks lie only in the lower part of the piles and the blue bricks only in the upper part. The figure shows four possible configurations. Determine how many colour configurations can be obtained.
-
-![[src_purple_comet_2026_hs__prob29.png]]
-
-
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** 0406
-
-
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Cubo e sfere in una sfera*
+
+> Inside a sphere with radius 9 is a cube with edge length 8. The four vertices of the bottom face of the cube rest against the sphere. Two smaller congruent spheres are externally tangent to each other, are both externally tangent to the top face of the cube, and are internally tangent to the larger sphere. The greatest possible radius of the smaller spheres can be written as $\sqrt{m} - n$, where $m$ and $n$ are positive integers. Find $m + n$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** 0190
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.16](https://purplecomet.org/files/2026HSSolutions.pdf#page=16)
+**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubo e sfere in una sfera*
@@ -1027,18 +1065,3 @@ level: Purple Comet High School
 **Risposta:** 0190
 **Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.16](https://purplecomet.org/files/2026HSSolutions.pdf#page=16)
 **Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A cube of edge 8 inside a sphere of radius 9, bottom vertices on the sphere, and two smaller spheres on the top face: m + n for their greatest radius*
-
-> Inside a sphere of radius 9 there is a cube of edge 8. The four vertices of the bottom face of the cube rest on the sphere. Two smaller congruent spheres are externally tangent to each other, both externally tangent to the top face of the cube, and internally tangent to the large sphere. The greatest possible radius of the smaller spheres can be written as $\sqrt m-n$, where $m$ and $n$ are positive integers. Determine $m+n$.
-
-
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
-**Answer:** 0190

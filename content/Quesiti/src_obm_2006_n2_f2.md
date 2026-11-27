@@ -12,12 +12,13 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Position of 2006 in a pyramid arrangement of naturals*
 
-> Esmeralda arranged all natural numbers from 1 to 2006 in the following pyramid arrangement:
+> Esmeralda posicionou todos os números naturais de 1 a 2006 no seguinte arranjo em forma de pirâmide:
+>
 > $$\begin{array}{ccccccccc}
 >  & & & & 21 & & & & \\
 >  & & & 20 & & 13 & & 22 & \\
@@ -25,7 +26,8 @@ level: OBM Nível 2
 >  & 18 & & 11 & & 6 & & 3 & & 8 & & 15 & & 24 \\
 > 17 & & 10 & & 5 & & 2 & & 1 & & 4 & & 9 & & 16 & & 25
 > \end{array}$$
-> On which floor will the number 2006 be found? (For example: the number 1 is on the first floor, 6 is on the second floor, and 23 is on the third floor.)
+>
+> Em qual andar se encontrará o número 2006? (Por exemplo: o número 1 está no primeiro andar, o 6 no segundo andar e o 23 no terceiro).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -56,14 +58,37 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Position of 2006 in a pyramid arrangement of naturals*
+
+> Esmeralda arranged all natural numbers from 1 to 2006 in the following pyramid arrangement:
+> $$\begin{array}{ccccccccc}
+>  & & & & 21 & & & & \\
+>  & & & 20 & & 13 & & 22 & \\
+>  & & 19 & & 12 & & 7 & & 14 & & 23 \\
+>  & 18 & & 11 & & 6 & & 3 & & 8 & & 15 & & 24 \\
+> 17 & & 10 & & 5 & & 2 & & 1 & & 4 & & 9 & & 16 & & 25
+> \end{array}$$
+> On which floor will the number 2006 be found? (For example: the number 1 is on the first floor, 6 is on the second floor, and 23 is on the third floor.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of squares of three consecutive integers equals 302*
 
-> The sum of the squares of three consecutive integers equals 302. What is the sum of those integers?
+> A soma dos quadrados de três inteiros consecutivos é igual a 302. Qual é a soma desses números?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -86,16 +111,29 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of squares of three consecutive integers equals 302*
+
+> The sum of the squares of three consecutive integers equals 302. What is the sum of those integers?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of quadrilateral XYBC from right triangle ABC with special points*
 
-> Let $ABC$ be a right triangle with the right angle at $A$. Consider $M$ and $N$ points on the hypotenuse $BC$ such that $CN = NM = MB$. The points $X$ and $Y$ are such that $XA = AM$ and $YA = AN$. Determine the area of quadrilateral $XYBC$, given that triangle $ABC$ has area $12\text{ cm}^2$.
-
-![[src_obm_2006_n2_f2__Q03.png]]
+> Seja $ABC$ um triângulo retângulo em $A$. Considere $M$ e $N$ pontos sobre a hipotenusa $BC$ tais que $CN = NM = MB$. Os pontos $X$ e $Y$ são tais que $XA = AM$ e $YA = AN$. Determine a área do quadrilátero $XYBC$, sabendo que o triângulo $ABC$ tem área $12\text{ cm}^2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -120,18 +158,39 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of quadrilateral XYBC from right triangle ABC with special points*
+
+> Let $ABC$ be a right triangle with the right angle at $A$. Consider $M$ and $N$ points on the hypotenuse $BC$ such that $CN = NM = MB$. The points $X$ and $Y$ are such that $XA = AM$ and $YA = AN$. Determine the area of quadrilateral $XYBC$, given that triangle $ABC$ has area $12\text{ cm}^2$.
+
+![[src_obm_2006_n2_f2__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_estremalita,method_colorazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum number of rectangles in an 8×8 chessboard decomposition*
 
-> An $8 \times 8$ chessboard is decomposed into rectangles satisfying all of the following properties simultaneously:
-> (i) each rectangle contains an integer number of squares;
-> (ii) the various rectangles contain pairwise distinct numbers of squares;
-> (iii) each rectangle contains the same number of white squares and black squares.
-> What is the maximum number of rectangles into which the board can be decomposed?
+> Um tabuleiro de xadrez $8 \times 8$ será decomposto em retângulos que satisfazem simultaneamente as seguintes propriedades:
+>
+> (i) cada retângulo possui um número inteiro de casas;
+>
+> (ii) os diversos retângulos possuem números de casas distintos entre si;
+>
+> (iii) cada retângulo possui a mesma quantidade de casas brancas e pretas.
+>
+> Qual é o maior número de retângulos que pode ter a decomposição do tabuleiro?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_colorazione|Colouring / parity]]
@@ -154,19 +213,41 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum number of rectangles in an 8×8 chessboard decomposition*
+
+> An $8 \times 8$ chessboard is decomposed into rectangles satisfying all of the following properties simultaneously:
+> (i) each rectangle contains an integer number of squares;
+> (ii) the various rectangles contain pairwise distinct numbers of squares;
+> (iii) each rectangle contains the same number of white squares and black squares.
+> What is the maximum number of rectangles into which the board can be decomposed?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of three terms of sequence after 2006 steps starting from (1,1,1)*
 
-> Starting from an ordered triple $(a, b, c)$, one obtains a sequence of triples by successive transformations of the type:
+> A partir de uma terna ordenada $(a, b, c)$, obtemos uma seqüência de ternas através de sucessivas transformações do tipo:
+>
 > $$(a, b, c) \to (a^2 - b,\; a + b + c,\; b - c).$$
-> For example, starting from the triple $(1, 2, 3)$:
-> $(1, 2, 3) \to (1-2,\; 1+2+3,\; 2-3) = (-1, 6, -1) \to (-64, 12, 7) \to \cdots$
-> If we start with $(1, 1, 1)$ as the first ordered triple of a sequence, what will be the sum of the three terms of the triple that occupies position 2006 in this sequence?
+>
+> Por exemplo, a partir da terna $(1, 2, 3)$, obtemos a seguinte seqüência:
+>
+> $$(1, 2, 3) \to (1 - 2,\; 1 + 2 + 3,\; 2 - 3) = (-1, 6, -1) \to (-1^2 - 6,\; -1 + 6 + (-1),\; 6 - (-1)) = (-7, 4, 7) \to \cdots$$
+>
+> Se começarmos com $(1, 1, 1)$ como a primeira terna ordenada de uma seqüência, qual será a soma dos três termos da terna que ocupará a $2006^{\text{a}}$ posição nesta seqüência?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
@@ -191,18 +272,39 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of three terms of sequence after 2006 steps starting from (1,1,1)*
+
+> Starting from an ordered triple $(a, b, c)$, one obtains a sequence of triples by successive transformations of the type:
+> $$(a, b, c) \to (a^2 - b,\; a + b + c,\; b - c).$$
+> For example, starting from the triple $(1, 2, 3)$:
+> $(1, 2, 3) \to (1-2,\; 1+2+3,\; 2-3) = (-1, 6, -1) \to (-64, 12, 7) \to \cdots$
+> If we start with $(1, 1, 1)$ as the first ordered triple of a sequence, what will be the sum of the three terms of the triple that occupies position 2006 in this sequence?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum houses mayor must demolish for equal street-side digit sums*
 
-> On Gengibre Street, there are $n$ houses numbered from 1 to $n$ ($n \in \mathbb{N}$). The even-numbered houses are on one side of the street, and the odd-numbered houses are on the opposite side. The mayor Ludmilson Amottarim decides to demolish some house(s) so that the sum of the digits of the house numbers on each side becomes equal to the sum of the digits on the other side. To achieve his goal, what is the minimum number of houses the mayor must demolish if:
-> a) the street has $n = 15$ houses?
-> b) the street has $n = 16$ houses?
-> c) the street has $n = 2006$ houses?
+> Na Rua do Gengibre, existem $n$ casas numeradas de 1 a $n$ ($n \in \mathbb{N}$). As casas de numeração par ficam todas de um mesmo lado da rua, com as casas de numeração ímpar do lado oposto. O prefeito Ludmilson Amottarim resolveu derrubar alguma(s) casa(s) a fim de que as somas dos números das casas fossem iguais dos dois lados da rua. Para atingir o seu objetivo, qual é o número mínimo de casas que o prefeito deve derrubar se:
+>
+> a) a rua tem $n = 15$ casas?
+>
+> b) a rua tem $n = 16$ casas?
+>
+> c) a rua tem $n = 2006$ casas?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -228,16 +330,32 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum houses mayor must demolish for equal street-side digit sums*
+
+> On Gengibre Street, there are $n$ houses numbered from 1 to $n$ ($n \in \mathbb{N}$). The even-numbered houses are on one side of the street, and the odd-numbered houses are on the opposite side. The mayor Ludmilson Amottarim decides to demolish some house(s) so that the sum of the digits of the house numbers on each side becomes equal to the sum of the digits on the other side. To achieve his goal, what is the minimum number of houses the mayor must demolish if:
+> a) the street has $n = 15$ houses?
+> b) the street has $n = 16$ houses?
+> c) the street has $n = 2006$ houses?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find angle alpha in isosceles triangle where bisectors meet at I and H*
 
-> In isosceles triangle $ABC$, $I$ is the intersection of the angle bisectors and $H$ is the intersection of the altitudes. It is known that $\angle IAH = \angle IHC = \alpha$. Determine the angle $\alpha$.
-
-![[src_obm_2006_n2_f2__Q07.png]]
+> No triângulo $ABC$ isósceles abaixo, $I$ é o encontro das bissetrizes e $H$ é o encontro das alturas. Sabe-se que $\angle HAI = \angle HBC = \alpha$. Determine o ângulo $\alpha$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
@@ -262,17 +380,35 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find angle alpha in isosceles triangle where bisectors meet at I and H*
+
+> In isosceles triangle $ABC$, $I$ is the intersection of the angle bisectors and $H$ is the intersection of the altitudes. It is known that $\angle IAH = \angle IHC = \alpha$. Determine the angle $\alpha$.
+
+![[src_obm_2006_n2_f2__Q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find a+b and ab given two real equations in a and b*
 
-> Let $a$ and $b$ be distinct real numbers such that $a^2 = 6b + 5ab$ and $b^2 = 6a + 5ab$.
-> a) Determine the value of $a + b$.
-> b) Determine the value of $ab$.
+> Sejam $a$ e $b$ números reais distintos tais que $a^2 = 6b + 5ab$ e $b^2 = 6a + 5ab$.
+>
+> a) Determine o valor de $a + b$.
+>
+> b) Determine o valor de $ab$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
@@ -297,14 +433,31 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find a+b and ab given two real equations in a and b*
+
+> Let $a$ and $b$ be distinct real numbers such that $a^2 = 6b + 5ab$ and $b^2 = 6a + 5ab$.
+> a) Determine the value of $a + b$.
+> b) Determine the value of $ab$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Most frequent digit after substituting integers 1–2006 digit by digit*
 
-> All integers from 1 to 2006 are written in a grid. Then, each of these numbers is replaced by the sum of its digits. These substitutions are repeated until we have 2006 single-digit numbers. Of the numbers remaining in the grid, which appears more often: 1 or 2?
+> Todos os inteiros de 1 a 2006 são escritos num quadro. Então, cada um destes números é substituído pela soma de seus algarismos. Estas substituições são realizadas repetidas vezes até que tenhamos 2006 números com 1 algarismo cada. Dos números que restaram no quadro, qual aparece mais vezes: o 1 ou o 2?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -324,3 +477,18 @@ level: OBM Nível 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Most frequent digit after substituting integers 1–2006 digit by digit*
+
+> All integers from 1 to 2006 are written in a grid. Then, each of these numbers is replaced by the sum of its digits. These substitutions are repeated until we have 2006 single-digit numbers. Of the numbers remaining in the grid, which appears more often: 1 or 2?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)

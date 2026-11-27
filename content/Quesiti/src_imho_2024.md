@@ -139,9 +139,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Rette tangenti all'incircolo di un triangolo, la somma degli angoli è uguale a 180 gradi*
-
+*Rette tangenti al cerchio inscritto di un triangolo; la somma di due angoli vale 180°.*
 > Sia $ABC$ un triangolo con $AB < AC < BC$. Siano $I$ e $\omega$, rispettivamente, il centro dell'incircolo e l'incircolo del triangolo $ABC$. Sia $X$ il punto sulla retta $BC$ diverso da $C$ tale che la retta passante per $X$ e parallela a $AC$ sia tangente a $\omega$. Analogamente, sia $Y$ il punto sulla retta $BC$ diverso da $B$ tale che la retta passante per $Y$ e parallela a $AB$ sia tangente a $\omega$. Sia $AI$ tale che incontri la circonferenza circoscritta al triangolo $ABC$ in $P \neq A$. Siano $K$ e $L$ i punti medi di $AC$ e $AB$, rispettivamente.
 >
 > Dimostrare che $\angle KIL + \angle YPX = 180^\circ$.

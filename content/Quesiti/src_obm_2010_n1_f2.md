@@ -12,12 +12,12 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cups needed to finish filling a jar from 1/4 full to 1/3 full*
 
-> A jar holds $\frac{1}{4}$ of its capacity in water. Pouring one cup full of water into the jar, the volume reaches $\frac{1}{3}$ of its capacity. How many more full cups are still needed to completely fill the jar?
+> Uma jarra contém $\frac{1}{4}$ de sua capacidade em água. Despejando um copo cheio de água na jarra, o volume de água atinge $\frac{1}{3}$ da sua capacidade. Quantos copos cheios mais ainda serão necessários para acabar de encher a jarra?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -41,17 +41,32 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cups needed to finish filling a jar from 1/4 full to 1/3 full*
+
+> A jar holds $\frac{1}{4}$ of its capacity in water. Pouring one cup full of water into the jar, the volume reaches $\frac{1}{3}$ of its capacity. How many more full cups are still needed to completely fill the jar?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 8
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of digits replaced by squares in a multiplication*
 
-> Joãozinho wants to do a multiplication for homework, but he erased some digits from his notebook, which are represented by $\square$ (each erased digit can be different from the others). The partial products and final result are as shown:
+> Joãozinho tem que fazer uma multiplicação como lição de casa, mas a chuva molhou o caderno dele, borrando alguns algarismos, que estão representados por $\square$ (cada algarismo borrado pode ser diferente dos outros).
 > $$\begin{array}{r} \square \; 1 \\ \times \; 2 \; 3 \\ \hline 4 \; \square \\ \square \; \square \; 4 \\ \hline 1 \; \square \; \square \; 0 \; 2 \end{array}$$
-> What is the sum of the digits that were erased?
+> Qual é a soma dos algarismos que foram borrados?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -77,16 +92,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of digits replaced by squares in a multiplication*
+
+> Joãozinho wants to do a multiplication for homework, but he erased some digits from his notebook, which are represented by $\square$ (each erased digit can be different from the others). The partial products and final result are as shown:
+> $$\begin{array}{r} \square \; 1 \\ \times \; 2 \; 3 \\ \hline 4 \; \square \\ \square \; \square \; 4 \\ \hline 1 \; \square \; \square \; 0 \; 2 \end{array}$$
+> What is the sum of the digits that were erased?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 14
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ways to view a cube with three painted faces from visible sides*
 
-> Soninha painted six faces of a cube in the following way: one face preta (black) and the opposite face vermelha (red), one face amarela (yellow) and the opposite face azul (blue), one face branca (white) and the opposite face verde (green). Looking at the cube so as to see three faces at once, and considering only the set of colors of the three visible faces, in how many different ways can this cube be seen?
-
-![[src_obm_2010_n1_f2__Q03.png]]
+> Soninha pintou as seis faces de um cubo da seguinte maneira: uma face preta e a face oposta vermelha, uma face amarela e a face oposta azul, uma face branca e a oposta verde. Ao olhar para o cubo, de modo a ver três faces, como na figura, e considerando apenas o conjunto das cores das três faces visíveis, de quantas maneiras diferentes pode ser visto esse cubo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -112,15 +143,32 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ways to view a cube with three painted faces from visible sides*
+
+> Soninha painted six faces of a cube in the following way: one face preta (black) and the opposite face vermelha (red), one face amarela (yellow) and the opposite face azul (blue), one face branca (white) and the opposite face verde (green). Looking at the cube so as to see three faces at once, and considering only the set of colors of the three visible faces, in how many different ways can this cube be seen?
+
+![[src_obm_2010_n1_f2__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Risposta:** 4
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Last digit when Esmeralda writes positive integers in sequence and stops at the 149162536th digit*
 
-> Esmeralda wrote the positive integers one after another forming a sequence: $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ and stopped when she reached the $149{,}162{,}536$th digit. What was the last digit she wrote?
+> Esmeralda foi escrevendo os quadrados dos números inteiros positivos um em seguida ao outro formando o número $149162536\ldots$ e parou quando chegou no centésimo algarismo. Qual foi o último algarismo que ela escreveu?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -144,14 +192,30 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Last digit when Esmeralda writes positive integers in sequence and stops at the 149162536th digit*
+
+> Esmeralda wrote the positive integers one after another forming a sequence: $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ and stopped when she reached the $149{,}162{,}536$th digit. What was the last digit she wrote?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 6
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of balls in a box given divisibility condition on Mariazinha's picks*
 
-> Carlinhos writes different positive integers less than $1000$ on several balls and places them in a box, so that Mariazinha can draw at random successive balls from the box. How many balls must Carlinhos place in the box at minimum so that Mariazinha is guaranteed, when she draws at most $\frac{1}{7}$ of the total balls in the box, to draw two balls whose numbers have a common divisor greater than $1$?
+> Carlinhos escreve números inteiros positivos diferentes e menores do que $1000$ em várias bolas e coloca-as numa caixa, de modo que Mariazinha possa pegar ao acaso duas dessas bolas. Quantas bolas no máximo Carlinhos irá colocar na caixa se os números das duas bolas deverão ter um divisor comum maior do que $1$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
@@ -175,15 +239,30 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of balls in a box given divisibility condition on Mariazinha's picks*
+
+> Carlinhos writes different positive integers less than $1000$ on several balls and places them in a box, so that Mariazinha can draw at random successive balls from the box. How many balls must Carlinhos place in the box at minimum so that Mariazinha is guaranteed, when she draws at most $\frac{1}{7}$ of the total balls in the box, to draw two balls whose numbers have a common divisor greater than $1$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 162
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum candidates scoring highest in a 10-question contest with given scoring rules*
 
-> A contest has $10$ questions; each correct answer scores $3$ points, each wrong answer scores $-1$ point, and each unanswered question scores $0$ points. No two candidates gave the same set of answers, and corrections were done by the same mark sheet. How many candidates at most could have achieved the highest score in this contest?
+> Num concurso com $10$ questões, cada resposta correta valia $3$ pontos, cada resposta errada valia $1$ ponto negativo e cada questão não respondida valia $0$ ponto. Não houve dois candidatos que apresentassem a mesma nota, feitas as correções. Quantos candidatos no máximo fizeram essa prova?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
@@ -207,23 +286,34 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum candidates scoring highest in a 10-question contest with given scoring rules*
+
+> A contest has $10$ questions; each correct answer scores $3$ points, each wrong answer scores $-1$ point, and each unanswered question scores $0$ points. No two candidates gave the same set of answers, and corrections were done by the same mark sheet. How many candidates at most could have achieved the highest score in this contest?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 14
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_aritmetica,method_ricorsione,method_conteggio,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of gray square in 4th and 5th figures in a sequence of five 27cm squares*
 
-> Using five squares with side $27\,\text{cm}$, we form a sequence of figures, the first four of which are:
-> 
-> (See figure on page 2 for the pattern of nested gray squares.)
-> 
-> a) In the $4$th figure, what is the area of the gray square?
-> 
-> b) In the $5$th figure, what is the area of the gray square?
-
-![[src_obm_2010_n1_f2__Q07.png]]
+> Com cinco quadrados com lados de $27\,\text{cm}$, formamos uma sequência de figuras, das quais as quatro primeiras são
+>
+> a) Na $4^{\text{a}}$ figura, qual é a área do quadrado cinza?
+>
+> b) Na $5^{\text{a}}$ figura, qual é a área do quadrado cinza?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -254,14 +344,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of gray square in 4th and 5th figures in a sequence of five 27cm squares*
+
+> Using five squares with side $27\,\text{cm}$, we form a sequence of figures, the first four of which are:
+> 
+> (See figure on page 2 for the pattern of nested gray squares.)
+> 
+> a) In the $4$th figure, what is the area of the gray square?
+> 
+> b) In the $5$th figure, what is the area of the gray square?
+
+![[src_obm_2010_n1_f2__Q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Card faces: sum of digits on reverse; find cards where one face is double the other*
 
-> Maria has $90$ cards numbered from $10$ to $99$ on one face; on the other face of each card she wrote the sum of the digits of the number on the front. For example, the card with $43$ on the front has $7$ written on the back. In how many cards is the number on one face exactly double the number on the other face?
+> Maria tem $90$ cartões. Ela numerou os cartões de $10$ a $99$ numa das faces e, para cada número escrito, escreveu a soma dos seus algarismos na outra face. Por exemplo, o cartão de número $43$ tem o número $7$ escrito no verso. Em quais cartões um número de uma face é o dobro do número escrito na outra face?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -284,20 +397,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Card faces: sum of digits on reverse; find cards where one face is double the other*
+
+> Maria has $90$ cards numbered from $10$ to $99$ on one face; on the other face of each card she wrote the sum of the digits of the number on the front. For example, the card with $43$ on the front has $7$ written on the back. In how many cards is the number on one face exactly double the number on the other face?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum cuts to merge squares into one; area-preserving cuts of 3x3 and 4x4 into 5x5*
 
-> Making three cuts in a $3\times 3$ square and joining the resulting pieces to a $4\times 4$ square, we obtain a $5\times 5$ square, as indicated in the figure. The cuts must be parallel to the sides of the squares and there must be no overlapping of pieces during assembly.
-> 
-> a) Transform a square of side $8\,\text{cm}$ and a square of side $15\,\text{cm}$ into a single square of side $17\,\text{cm}$, making only four cuts in the $8\,\text{cm}$ square.
-> 
-> b) What is the minimum number of cuts to transform three squares of areas $4\,\text{cm}^2$, $9\,\text{cm}^2$, and $36\,\text{cm}^2$ respectively into a single square?
-
-![[src_obm_2010_n1_f2__Q09.png]]
+> Fazendo três cortes num quadrado $3\times 3$ e juntando as quatro partes resultantes a um quadrado $4\times 4$, obtemos um quadrado $5\times 5$, conforme indicado na figura. Os cortes devem ser paralelos aos lados dos quadrados e não pode haver sobreposição de figuras para a realização dos cortes.
+>
+> a) Transforme um quadrado de lado $8\,\text{cm}$ e um quadrado de lado $15\,\text{cm}$ num único quadrado de lado $17\,\text{cm}$, fazendo quatro cortes apenas no quadrado de $8\,\text{cm}$.
+>
+> b) Qual é o menor número de cortes para transformar três quadrados, de áreas respectivamente iguais a $4\,\text{cm}^2$, $9\,\text{cm}^2$ e $36\,\text{cm}^2$, num único quadrado?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -324,3 +450,23 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum cuts to merge squares into one; area-preserving cuts of 3x3 and 4x4 into 5x5*
+
+> Making three cuts in a $3\times 3$ square and joining the resulting pieces to a $4\times 4$ square, we obtain a $5\times 5$ square, as indicated in the figure. The cuts must be parallel to the sides of the squares and there must be no overlapping of pieces during assembly.
+> 
+> a) Transform a square of side $8\,\text{cm}$ and a square of side $15\,\text{cm}$ into a single square of side $17\,\text{cm}$, making only four cuts in the $8\,\text{cm}$ square.
+> 
+> b) What is the minimum number of cuts to transform three squares of areas $4\,\text{cm}^2$, $9\,\text{cm}^2$, and $36\,\text{cm}^2$ respectively into a single square?
+
+![[src_obm_2010_n1_f2__Q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)

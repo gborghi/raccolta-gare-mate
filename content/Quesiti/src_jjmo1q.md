@@ -197,9 +197,7 @@ level: JJMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Trovare l'area del triangolo DBC dato un punto relativo all'incircolo e le distanze sulla ceviana*
-
+*Trovare l'area del triangolo DBC, dato un punto relativo al cerchio inscritto e le distanze sulla ceviana.*
 > Sia il triangolo $ABC$ tale che valgano $AB = AC = 5$ e $BC = 6$. All'interno del triangolo, si prenda un punto $D$ sull'incirconferenza del triangolo $ABC$. Sia il segmento $AD$ tale che incontri il lato $AB$ in $E$ e il lato $AC$ in $F$ (cosicché $E$ giace su $AB$ e $F$ giace su $AC$, con $D$ compreso tra $E$ e $F$). Dati $DE = 1$ e $DF = 2$, si determini l'area del triangolo $DBC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

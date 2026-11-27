@@ -12,17 +12,17 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Infinite integer sequence with zero sums and nonzero terms*
 
-> Display an infinite sequence $a_1, a_2, \ldots$ of integers with both of the following properties:
-> 
-> - $a_i \neq 0$ for every positive integer $i$; that is, no term of the sequence equals zero;
-> - for every positive integer $i$, $a_i + a_{i+1} + \cdots + a_{i+2024} = 0$.
-> 
-> To earn full marks, you must justify why your sequence has both properties above.
+> Exiba uma sequência infinita $a_1, a_2, \ldots$ de inteiros com ambas as seguintes propriedades:
+>
+> - $a_i \neq 0$ para todo $i$ inteiro positivo, ou seja, nenhum termo da sequência é igual a zero;
+> - para todo $n$ inteiro positivo, $a_n + a_{2n} + \cdots + a_{2023n} = 0$.
+>
+> Para ganhar pontos, você deve justificar por que sua sequência tem as duas propriedades acima.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
@@ -50,15 +50,34 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Infinite integer sequence with zero sums and nonzero terms*
+
+> Display an infinite sequence $a_1, a_2, \ldots$ of integers with both of the following properties:
+> 
+> - $a_i \neq 0$ for every positive integer $i$; that is, no term of the sequence equals zero;
+> - for every positive integer $i$, $a_i + a_{i+1} + \cdots + a_{i+2024} = 0$.
+> 
+> To earn full marks, you must justify why your sequence has both properties above.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Equilateral triangles on hypotenuse; intersection of cevians equals product of segments*
 
-> Let $ABC$ be a right triangle at $B$, with altitude $BT$ on the hypotenuse $AC$. Construct the equilateral triangles $BTX$ and $BTY$ such that $X$ lies on the same side of $BT$ as $A$ with respect to $BT$, and $Y$ lies on the same side of $BT$ as $C$ with respect to $BT$. Let $P$ be the intersection of $AY$ and $CX$. Prove that
+> Seja $ABC$ um triângulo retângulo em $B$, com altura $BT$, $T$ sobre a hipotenusa $AC$. Construa os triângulos equiláteros $BTX$ e $BTY$ de modo que $X$ esteja no mesmo semiplano que $A$ com relação a $BT$ e $Y$ esteja no mesmo semiplano que $C$ com relação a $BT$. O ponto $P$ é a interseção de $AY$ e $CX$. Prove que
 > $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
@@ -83,21 +102,36 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Equilateral triangles on hypotenuse; intersection of cevians equals product of segments*
+
+> Let $ABC$ be a right triangle at $B$, with altitude $BT$ on the hypotenuse $AC$. Construct the equilateral triangles $BTX$ and $BTY$ such that $X$ lies on the same side of $BT$ as $A$ with respect to $BT$, and $Y$ lies on the same side of $BT$ as $C$ with respect to $BT$. Let $P$ be the intersection of $AY$ and $CX$. Prove that
+> $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_estremalita,method_induzione,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Colonizing Mars: agencies alternate trips; determine which agency cannot fail first*
 
-> Let $n$ be a positive integer. Humanity is about to begin colonizing Mars. Agencies SpaceY and SpaceZ are responsible for making the trips between planets. If the rockets do not fail, they will make trips alternately, with SpaceY making the first trip. In each trip, the agency will carry out one of the following types of mission:
-> 
-> (i) choose a positive integer $k$ and send $k$ people to Mars, creating a new colony on the planet and establishing it with those people;
-> 
-> (ii) choose an existing colony on Mars and a positive integer $k$ strictly less than the population of that colony, and bring $k$ people back to Earth.
-> 
-> To maintain organization in the mission, a mission cannot result in two colonies with the same population, and the total number of colonies must be at most $n$. The first agency that cannot carry out a mission will fail. Determine, as a function of $n$, which agency can guarantee that it will not fail first.
+> Seja $n$ um inteiro positivo. A humanidade vai começar a colonizar Marte. As agências SpaceY e SpaceZ serão as responsáveis por fazer as viagens entre os planetas. Para os foguetes não baterem, elas vão realizar viagens de forma alternada, sendo que a SpaceY fará a primeira viagem. Em cada viagem, a agência responsável realizará, conforme for possível, um entre dois tipos de missão:
+>
+> (i) escolher um inteiro positivo $k$ e levar $k$ pessoas para Marte, criando uma nova colônia no planeta e estabelecendo-as nessa colônia;
+>
+> (ii) escolher alguma colônia existente em Marte e um inteiro positivo $k$ estritamente menor que a população dessa colônia, e trazer $k$ pessoas dessa colônia de volta para a Terra.
+>
+> Para manter a organização em Marte, uma missão não pode resultar em duas colônias com a mesma população e a quantidade de colônias deve ser no máximo $n$. A primeira agência que não puder realizar uma missão vai falir. Determine, em função de $n$, qual agência pode garantir que não falirá primeiro.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induction]]
@@ -126,17 +160,37 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Colonizing Mars: agencies alternate trips; determine which agency cannot fail first*
+
+> Let $n$ be a positive integer. Humanity is about to begin colonizing Mars. Agencies SpaceY and SpaceZ are responsible for making the trips between planets. If the rockets do not fail, they will make trips alternately, with SpaceY making the first trip. In each trip, the agency will carry out one of the following types of mission:
+> 
+> (i) choose a positive integer $k$ and send $k$ people to Mars, creating a new colony on the planet and establishing it with those people;
+> 
+> (ii) choose an existing colony on Mars and a positive integer $k$ strictly less than the population of that colony, and bring $k$ people back to Earth.
+> 
+> To maintain organization in the mission, a mission cannot result in two colonies with the same population, and the total number of colonies must be at most $n$. The first agency that cannot carry out a mission will fail. Determine, as a function of $n$, which agency can guarantee that it will not fail first.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induction]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_simmetria,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Three distinct reals satisfying cyclic system; prove all lie in (-1,1)*
 
-> Let $x, y, z$ be three distinct real numbers such that
+> Sejam $x, y, z$ três números reais distintos tais que
 > $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$
-> Prove that $-1 < x, y, z < 1$.
+> Prove que $-1 < x, y, z < 1$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -161,15 +215,31 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three distinct reals satisfying cyclic system; prove all lie in (-1,1)*
+
+> Let $x, y, z$ be three distinct real numbers such that
+> $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$
+> Prove that $-1 < x, y, z < 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *1×2024 board game: Ana and Banana color squares; find min k for Ana to guarantee all-green*
 
-> Let $m$ be a positive integer with $m \leq 2024$. Ana and Banana play a game alternately on a $1 \times 2024$ board, with squares initially painted white. Ana goes first. Each move of Ana consists of choosing $k \leq m$ white squares on the board and painting all of them green. Each move of Banana consists of choosing any sequence of consecutive green squares and painting all of them white. What is the smallest value of $m$ for which Ana can guarantee that, after some of her moves, the board will be entirely painted green?
+> Seja $m$ um inteiro positivo com $m \leq 2024$. Ana e Banana jogam um jogo alternadamente em um tabuleiro $1 \times 2024$, com quadrados inicialmente pintados de branco. Ana começa o jogo. Cada jogada de Ana consiste em escolher $k \leq m$ quadrados brancos quaisquer do tabuleiro e pintá-los todos de verde. Cada jogada de Banana consiste em escolher qualquer sequência de quadrados verdes consecutivos e pintá-los todos de branco. Qual é o menor valor de $m$ para o qual Ana consegue garantir que, após alguma de suas jogadas, o tabuleiro inteiro estará pintado de verde?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -192,20 +262,34 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*1×2024 board game: Ana and Banana color squares; find min k for Ana to guarantee all-green*
+
+> Let $m$ be a positive integer with $m \leq 2024$. Ana and Banana play a game alternately on a $1 \times 2024$ board, with squares initially painted white. Ana goes first. Each move of Ana consists of choosing $k \leq m$ white squares on the board and painting all of them green. Each move of Banana consists of choosing any sequence of consecutive green squares and painting all of them white. What is the smallest value of $m$ for which Ana can guarantee that, after some of her moves, the board will be entirely painted green?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_induzione,method_invarianti,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sequence defined via smallest non-divisor; prove every positive integer appears*
 
-> For $k$ a positive integer, let $p(k)$ denote the smallest prime that does not divide $k$. Given a positive integer $a$, define the infinite sequence $a_0, a_1, \ldots$ by $a_0 = a$ and, for $n > 0$, $a_n \neq a_i$ for $0 \leq i < n$; the sequence has the following properties:
-> 
-> - $a_n$ has not appeared in the sequence before, or equivalently $a_n \neq a_i$ for $0 \leq i < n$;
-> - $(a_{n-1})^{a_n} - 1$ is a multiple of $p(a_{n-1})$.
-> 
-> Prove that every positive integer appears as a term of the sequence; that is, for every positive integer $m$ there exists $i$ such that $a_i = m$.
+> Para $k$ inteiro positivo, seja $p(k)$ o menor primo que não divide $k$. Dado um inteiro positivo $a$, defina a sequência infinita $a_0, a_1, \ldots$ por $a_0 = a$ e, para $n > 0$, $a_n$ é o menor inteiro positivo com as seguintes propriedades:
+>
+> - $a_n$ ainda não apareceu na sequência, ou seja, $a_n \neq a_i$ para $0 \leq i < n$;
+> - $(a_{n-1})^{a_n} - 1$ é múltiplo de $p(a_{n-1})$.
+>
+> Prove que todo inteiro positivo aparece como termo da sequência, ou seja, para todo inteiro positivo $m$ existe $n$ tal que $a_n = m$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
@@ -231,3 +315,22 @@ level: OBM Nível 3
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence defined via smallest non-divisor; prove every positive integer appears*
+
+> For $k$ a positive integer, let $p(k)$ denote the smallest prime that does not divide $k$. Given a positive integer $a$, define the infinite sequence $a_0, a_1, \ldots$ by $a_0 = a$ and, for $n > 0$, $a_n \neq a_i$ for $0 \leq i < n$; the sequence has the following properties:
+> 
+> - $a_n$ has not appeared in the sequence before, or equivalently $a_n \neq a_i$ for $0 \leq i < n$;
+> - $(a_{n-1})^{a_n} - 1$ is a multiple of $p(a_{n-1})$.
+> 
+> Prove that every positive integer appears as a term of the sequence; that is, for every positive integer $m$ there exists $i$ such that $a_i = m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)

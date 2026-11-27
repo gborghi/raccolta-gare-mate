@@ -12,15 +12,15 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute the value of 4^8/8^4.*
 
-> Compute the number
-> $$\frac{4^8}{8^4}.$$
-> 
-> *Only a numerical answer is expected here.*
+> Calculer le nombre
+> $$\frac{4^{8}}{8^{4}}.$$
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -46,15 +46,33 @@ level: Coupe Animath Printemps
 **Risposta:** 16
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute the value of 4^8/8^4.*
+
+> Compute the number
+> $$\frac{4^8}{8^4}.$$
+> 
+> *Only a numerical answer is expected here.*
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** 16
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *In triangle ABC with angle CAB = 20 degrees, D the midpoint of [AB], and angle CDB = 40 degrees; find angle ABC.*
 
-> Let $ABC$ be a triangle satisfying $\widehat{CAB} = 20^\circ$. Let $D$ be the midpoint of the segment $[AB]$. Suppose that $\widehat{CDB} = 40^\circ$. What is the angle $\widehat{ABC}$?
+> Soit $ABC$ un triangle vérifiant $\widehat{CAB} = 20^\circ$. Soit $D$ le milieu du segment $[AB]$. On suppose que $\widehat{CDB} = 40^\circ$. Que vaut l'angle $\widehat{ABC}$ ?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -76,10 +94,55 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*In triangle ABC with angle CAB = 20 degrees, D the midpoint of [AB], and angle CDB = 40 degrees; find angle ABC.*
+
+> Let $ABC$ be a triangle satisfying $\widehat{CAB} = 20^\circ$. Let $D$ be the midpoint of the segment $[AB]$. Suppose that $\widehat{CDB} = 40^\circ$. What is the angle $\widehat{ABC}$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_colorazione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*In a 5x5 grid of 25 white cells, find the smallest number of cells to color red so that every 2x3 and 3x2 rectangle contains at least one red cell.*
+
+> On considère une grille $5 \times 5$, composée de $25$ cases blanches. Vincent souhaite colorier en rouge certaines cases de la grille de telle sorte que tout rectangle $2 \times 3$ ou $3 \times 2$ contienne au moins une case coloriée. Quel est le plus petit nombre de cases qu'il peut colorier ?
+>
+> Ci-dessous, à gauche une grille $5 \times 5$ où un rectangle $2 \times 3$ est hachuré, à droite une grille $5 \times 5$ où un rectangle $3 \times 2$ est hachuré.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*In una griglia 5×5 di 25 caselle bianche, determinare il minimo numero di caselle da colorare di rosso in modo che ogni rettangolo 2×3 e 3×2 contenga almeno una casella rossa.*
+> Si consideri una griglia $5 \times 5$, composta da celle bianche $25$. Vincent vuole colorare alcune cellule della griglia in rosso in modo che ogni rettangolo $2 \times 3$ o $3 \times 2$ contenga almeno una cellula colorata. Qual è il numero più piccolo di cellule che può colorare?
+> 
+> Sotto, a sinistra, una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $2 \times 3$, a destra una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $3 \times 2$.)
+
+![[src_canimath_2023_printemps__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In a 5x5 grid of 25 white cells, find the smallest number of cells to color red so that every 2x3 and 3x2 rectangle contains at least one red cell.*
@@ -97,27 +160,35 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*In una griglia 5x5 di 25 cellule bianche, trovare il numero più piccolo di cellule da colorare in rosso in modo che ogni rettangolo 2x3 e 3x2 contenga almeno una cellula rossa.*
-
-> Si consideri una griglia $5 \times 5$, composta da celle bianche $25$. Vincent vuole colorare alcune cellule della griglia in rosso in modo che ogni rettangolo $2 \times 3$ o $3 \times 2$ contenga almeno una cellula colorata. Qual è il numero più piccolo di cellule che può colorare?
-> 
-> Sotto, a sinistra, una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $2 \times 3$, a destra una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $3 \times 2$.)
-
-![[src_canimath_2023_printemps__Q03.png]]
-
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*In a pentagon ABCDE with all sides equal, with angles BCD and CDE right angles and A not inside quadrilateral BCDE, P the intersection of lines (AC) and (BD); prove AP = PD.*
+
+> Soit $ABCDE$ un pentagone dont tous les côtés sont de même longueur, tel que les angles $\widehat{BCD}$ et $\widehat{CDE}$ soient droits, et tel que le point $A$ n'est pas à l'intérieur du quadrilatère $BCDE$. Soit $P$ le point d'intersection des droites $(AC)$ et $(BD)$. Montrer que $AP = PD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Pentagono ABCDE a lati tutti uguali, con angoli retti in C e in D, e A esterno al quadrilatero BCDE; P intersezione delle rette AC e BD: dimostrare che AP=PD.*
+> Che $ABCDE$ sia un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle linee $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In a pentagon ABCDE with all sides equal, with angles BCD and CDE right angles and A not inside quadrilateral BCDE, P the intersection of lines (AC) and (BD); prove AP = PD.*
@@ -131,28 +202,15 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*In un pentagono ABCDE con tutti i lati uguali, con angoli BCD e CDE angoli rettangolari e A non all'interno di BCDE quadrilaterale, P l'intersezione di linee (AC) e (BD); dimostrare AP = PD.*
-
-> Che $ABCDE$ sia un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle linee $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Theo's grades are integers from 1 to 5 with average at most 3; he replaces every grade equal to 1 with a 3; show the new average remains at most 4.*
 
-> Theo has received his grades for the trimester, which are all integers between $1$ and $5$ (inclusive). He notes that the average of his grades is less than or equal to $3$. Thus, so as not to be deprived of dessert for a week, he intends to replace, on his report, all his grades equal to $1$ by as many grades equal to $3$. Show that after this transformation, the average of the grades remains less than or equal to $4$.
+> Théo a reçu ses notes du trimestre, qui sont toutes des entiers compris entre $1$ et $5$ ($1$ et $5$ inclus). Il constate que la moyenne de ses notes est inférieure ou égale à $3$. Ainsi, pour qu'il ne soit pas privé de dessert pendant une semaine, il compte remplacer sur son relevé de notes toutes ses notes égales à $1$ par autant de notes égales à $3$. Montrer qu'après cette transformation, la moyenne des notes reste inférieure ou égale à $4$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
@@ -174,21 +232,35 @@ level: Coupe Animath Printemps
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Theo's grades are integers from 1 to 5 with average at most 3; he replaces every grade equal to 1 with a 3; show the new average remains at most 4.*
+
+> Theo has received his grades for the trimester, which are all integers between $1$ and $5$ (inclusive). He notes that the average of his grades is less than or equal to $3$. Thus, so as not to be deprived of dessert for a week, he intends to replace, on his report, all his grades equal to $1$ by as many grades equal to $3$. Show that after this transformation, the average of the grades remains less than or equal to $4$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *A pair (x,y) with 1<=y<x is 'joli' if x and y have exactly x-y common positive divisors; with s(n) the number of joli pairs with 1<=y<x<=n, decide whether s(n)=2022 or s(n)=2023 is achievable.*
 
-> Let $x, y$ be positive integers such that $1 \leqslant y < x$. We say that the pair $(x, y)$ is *joli* if $x$ and $y$ have exactly $x - y$ common positive divisors. For example, $30$ and $42$ have exactly $4$ common divisors: $1, 2, 3$ and $6$. Since $42 - 30 = 12 \neq 4$, the pair $(42, 30)$ is therefore not joli. On the other hand, the pair $(8, 6)$ is joli, because $6$ and $8$ have $8 - 6 = 2$ common positive divisors: $1$ and $2$.
-> 
-> For every integer $n \geqslant 2$, let $s(n)$ denote the number of pairs of integers $(x, y)$ such that $1 \leqslant y < x \leqslant n$ and $(x, y)$ is joli.
-> 
-> a) Does there exist an integer $n \geqslant 2$ such that $s(n) = 2022$?
-> 
-> b) Does there exist an integer $n \geqslant 2$ such that $s(n) = 2023$?
+> Soit $x, y$ des entiers positifs tels que $1 \leqslant y < x$, on dit que le couple $(x, y)$ est joli si $x$ et $y$ ont exactement $x - y$ diviseurs positifs en commun. Par exemple, $30$ et $42$ ont exactement $4$ diviseurs en commun : $1$, $2$, $3$ et $6$. Comme $42 - 30 = 12 \neq 4$, le couple $(42, 30)$ n'est donc pas joli. Par contre, le couple $(8, 6)$ est joli, car $6$ et $8$ ont $8 - 6 = 2$ diviseurs positifs en commun : $1$ et $2$.
+>
+> Pour tout entier $n \geqslant 2$, on note $s(n)$ le nombre de couples d'entiers $(x, y)$ tels que $1 \leqslant y < x \leqslant n$ et que $(x, y)$ soit joli.
+>
+> a) Existe-t-il un entier $n \geqslant 2$ tel que $s(n) = 2022$ ?
+>
+> b) Existe-t-il un entier $n \geqslant 2$ tel que $s(n) = 2023$ ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -216,17 +288,37 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A pair (x,y) with 1<=y<x is 'joli' if x and y have exactly x-y common positive divisors; with s(n) the number of joli pairs with 1<=y<x<=n, decide whether s(n)=2022 or s(n)=2023 is achievable.*
+
+> Let $x, y$ be positive integers such that $1 \leqslant y < x$. We say that the pair $(x, y)$ is *joli* if $x$ and $y$ have exactly $x - y$ common positive divisors. For example, $30$ and $42$ have exactly $4$ common divisors: $1, 2, 3$ and $6$. Since $42 - 30 = 12 \neq 4$, the pair $(42, 30)$ is therefore not joli. On the other hand, the pair $(8, 6)$ is joli, because $6$ and $8$ have $8 - 6 = 2$ common positive divisors: $1$ and $2$.
+> 
+> For every integer $n \geqslant 2$, let $s(n)$ denote the number of pairs of integers $(x, y)$ such that $1 \leqslant y < x \leqslant n$ and $(x, y)$ is joli.
+> 
+> a) Does there exist an integer $n \geqslant 2$ such that $s(n) = 2022$?
+> 
+> b) Does there exist an integer $n \geqslant 2$ such that $s(n) = 2023$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *In a 10x10 grid with rows numbered 1 (top) to 10 (bottom) and columns 1 (left) to 10 (right), Martin colors cells so that each colored cell c has at most one other colored cell with both column number and row number greater than or equal to those of c; find the maximum number of colored cells.*
 
-> Consider a $10 \times 10$ grid, made up of $100$ cells. The rows of the grid are numbered from top to bottom in order from $1$ to $10$: the top row has number $1$, the bottom row has number $10$. The columns of the grid are numbered from left to right in order from $1$ to $10$: the leftmost column has number $1$, the rightmost column has number $10$. Martin colors certain cells of the grid in such a way that, for every colored cell $c$, there is at most one colored cell different from $c$ whose column number is greater than or equal to that of the column of $c$ and whose row number is greater than or equal to that of the row of $c$.
-> 
-> What is the maximum number of cells that Martin can color?
+> On considère une grille $10 \times 10$, composée de $100$ cases. Les lignes de la grille sont numérotées de haut en bas dans l'ordre de $1$ à $10$ : la ligne la plus haute a le numéro $1$, la plus basse le numéro $10$. Les colonnes de la grille sont numérotées de gauche à droite dans l'ordre de $1$ à $10$ : la colonne la plus à gauche a le numéro $1$, la plus à droite le numéro $10$. Martin colorie certaines cases de la grille, de sorte que pour toute case coloriée $c$, il existe au plus une case coloriée différente de $c$ dont le numéro de la colonne est supérieur ou égal à celui de la colonne de $c$ et dont le numéro de la ligne est supérieur ou égal à celui de la ligne de $c$.
+>
+> Quel est le nombre maximal de cases que Martin peut colorier ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -250,17 +342,33 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*In a 10x10 grid with rows numbered 1 (top) to 10 (bottom) and columns 1 (left) to 10 (right), Martin colors cells so that each colored cell c has at most one other colored cell with both column number and row number greater than or equal to those of c; find the maximum number of colored cells.*
+
+> Consider a $10 \times 10$ grid, made up of $100$ cells. The rows of the grid are numbered from top to bottom in order from $1$ to $10$: the top row has number $1$, the bottom row has number $10$. The columns of the grid are numbered from left to right in order from $1$ to $10$: the leftmost column has number $1$, the rightmost column has number $10$. Martin colors certain cells of the grid in such a way that, for every colored cell $c$, there is at most one colored cell different from $c$ whose column number is greater than or equal to that of the column of $c$ and whose row number is greater than or equal to that of the row of $c$.
+> 
+> What is the maximum number of cells that Martin can color?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Count the integers n such that n/3 and 3n are both integers between 1 and 1000 inclusive.*
 
-> How many integers $n$ are there such that $\dfrac{n}{3}$ and $3n$ are both integers between $1$ and $1000$ (with $1$ and $1000$ included)?
-> 
-> *Only a numerical answer is expected here.*
+> Combien y a-t-il de nombres entiers $n$ tels que $\dfrac{n}{3}$ et $3n$ soient tous deux des nombres entiers entre $1$ et $1000$ ($1$ et $1000$ inclus) ?
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -286,15 +394,32 @@ level: Coupe Animath Printemps
 **Risposta:** 111
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count the integers n such that n/3 and 3n are both integers between 1 and 1000 inclusive.*
+
+> How many integers $n$ are there such that $\dfrac{n}{3}$ and $3n$ are both integers between $1$ and $1000$ (with $1$ and $1000$ included)?
+> 
+> *Only a numerical answer is expected here.*
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 111
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *In triangle ABC with angle CAB = 20 degrees, D the midpoint of [AB], and angle CDB = 40 degrees; find angle ABC.*
 
-> Let $ABC$ be a triangle satisfying $\widehat{CAB} = 20^\circ$. Let $D$ be the midpoint of the segment $[AB]$. Suppose that $\widehat{CDB} = 40^\circ$. What is the angle $\widehat{ABC}$?
+> Soit $ABC$ un triangle vérifiant $\widehat{CAB} = 20^\circ$. Soit $D$ le milieu du segment $[AB]$. On suppose que $\widehat{CDB} = 40^\circ$. Que vaut l’angle $\widehat{ABC}$ ?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -316,18 +441,33 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*In triangle ABC with angle CAB = 20 degrees, D the midpoint of [AB], and angle CDB = 40 degrees; find angle ABC.*
+
+> Let $ABC$ be a triangle satisfying $\widehat{CAB} = 20^\circ$. Let $D$ be the midpoint of the segment $[AB]$. Suppose that $\widehat{CDB} = 40^\circ$. What is the angle $\widehat{ABC}$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Using the numbers 1 to 22 exactly once each as numerators and denominators, Antoine writes 11 fractions; find the maximum possible number of fractions having integer values.*
 
-> Using the numbers from $1$ to $22$ exactly once each, Antoine writes $11$ fractions: for example, he could write the fractions
-> $$\frac{10}{2},\ \frac{4}{3},\ \frac{15}{5},\ \frac{7}{6},\ \frac{8}{9},\ \frac{11}{19},\ \frac{12}{14},\ \frac{13}{17},\ \frac{22}{21},\ \frac{18}{16}\ \text{and}\ \frac{20}{1}.$$
-> 
-> Antoine wants to have as many fractions with integer values as possible among the fractions he writes: in the example above, it can be seen that he wrote three fractions with integer values, namely $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ and $\frac{20}{1} = 20$. What is the maximum number of fractions that can have integer values?
+> En utilisant les nombres de $1$ à $22$ exactement une fois chacun, Antoine écrit $11$ fractions : par exemple il peut écrire les fractions
+> $$\frac{10}{2},\ \frac{4}{3},\ \frac{15}{5},\ \frac{7}{6},\ \frac{8}{9},\ \frac{11}{19},\ \frac{12}{14},\ \frac{13}{17},\ \frac{22}{21},\ \frac{18}{16}\ \text{et}\ \frac{20}{1}.$$
+> Antoine souhaite avoir autant que possible de fractions à valeurs entières parmi les fractions écrites : dans l’exemple précédent, il a écrit trois fractions à valeurs entières : $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ et $\frac{20}{1} = 20$.
+>
+> Quel est le nombre maximal de fractions qui peuvent être à valeurs entières ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
@@ -351,15 +491,34 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Using the numbers 1 to 22 exactly once each as numerators and denominators, Antoine writes 11 fractions; find the maximum possible number of fractions having integer values.*
+
+> Using the numbers from $1$ to $22$ exactly once each, Antoine writes $11$ fractions: for example, he could write the fractions
+> $$\frac{10}{2},\ \frac{4}{3},\ \frac{15}{5},\ \frac{7}{6},\ \frac{8}{9},\ \frac{11}{19},\ \frac{12}{14},\ \frac{13}{17},\ \frac{22}{21},\ \frac{18}{16}\ \text{and}\ \frac{20}{1}.$$
+> 
+> Antoine wants to have as many fractions with integer values as possible among the fractions he writes: in the example above, it can be seen that he wrote three fractions with integer values, namely $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ and $\frac{20}{1} = 20$. What is the maximum number of fractions that can have integer values?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Given 100 distinct integers 1 <= a_1 < a_2 < ... < a_100 <= 400 with d_i = a_{i+1} - a_i, show that at least 15 of d_1,...,d_99 are equal to one another.*
 
-> Let $a_1, \ldots, a_{100}$ be $100$ distinct integers such that $1 \leqslant a_1 < a_2 < \cdots < a_{100} \leqslant 400$. For every integer $i$ such that $1 \leqslant i \leqslant 99$, set $d_i = a_{i+1} - a_i$. Show that at least $15$ of the numbers among $d_1, d_2, \ldots, d_{99}$ are equal to one another.
+> Soit $a_1, \ldots, a_{100}$ entiers distincts tels que $1 \leqslant a_1 < a_2 < \cdots < a_{100} \leqslant 400$.
+>
+> Pour tout entier $i$ tel que $1 \leqslant i \leqslant 99$, on pose $d_i = a_{i+1} - a_i$. Montrer qu’il y a au moins $15$ nombres parmi $d_1, d_2, \ldots, d_{99}$ qui sont égaux.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
@@ -381,15 +540,29 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Given 100 distinct integers 1 <= a_1 < a_2 < ... < a_100 <= 400 with d_i = a_{i+1} - a_i, show that at least 15 of d_1,...,d_99 are equal to one another.*
+
+> Let $a_1, \ldots, a_{100}$ be $100$ distinct integers such that $1 \leqslant a_1 < a_2 < \cdots < a_{100} \leqslant 400$. For every integer $i$ such that $1 \leqslant i \leqslant 99$, set $d_i = a_{i+1} - a_i$. Show that at least $15$ of the numbers among $d_1, d_2, \ldots, d_{99}$ are equal to one another.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *In a rhombus ABCD with E the intersection of the diagonals, F the midpoint of [BE], G the midpoint of [AD], I the intersection of (FG) and (AC), and K the reflection of A across I; find EK/EA.*
 
-> Let $ABCD$ be a rhombus, and let $E$ be the point of intersection of the diagonals. Let $F$ be the midpoint of the segment $[BE]$, and $G$ the midpoint of the segment $[AD]$. Let $I$ be the point of intersection of the lines $(FG)$ and $(AC)$, and let $K$ be the symmetric point of $A$ with respect to the point $I$. What is the value of $\dfrac{EK}{EA}$?
+> Soit $ABCD$ un losange, et soit $E$ le point d’intersection des diagonales. Soit $F$ le milieu du segment $[BE]$, et $G$ le milieu du segment $[AD]$. Soit $I$ le point d’intersection des droites $(FG)$ et $(AC)$, et soit $K$ le symétrique de $A$ par rapport au point $I$. Que vaut $\dfrac{EK}{EA}$ ?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -411,17 +584,31 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*In a rhombus ABCD with E the intersection of the diagonals, F the midpoint of [BE], G the midpoint of [AD], I the intersection of (FG) and (AC), and K the reflection of A across I; find EK/EA.*
+
+> Let $ABCD$ be a rhombus, and let $E$ be the point of intersection of the diagonals. Let $F$ be the midpoint of the segment $[BE]$, and $G$ the midpoint of the segment $[AD]$. Let $I$ be the point of intersection of the lines $(FG)$ and $(AC)$, and let $K$ be the symmetric point of $A$ with respect to the point $I$. What is the value of $\dfrac{EK}{EA}$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *In a 10x10 grid with rows numbered 1 (top) to 10 (bottom) and columns 1 (left) to 10 (right), Martin colors cells so that each colored cell c has at most one other colored cell with both column number and row number greater than or equal to those of c; find the maximum number of colored cells.*
 
-> Consider a $10 \times 10$ grid, made up of $100$ cells. The rows of the grid are numbered from top to bottom in order from $1$ to $10$: the top row has number $1$, the bottom row has number $10$. The columns of the grid are numbered from left to right in order from $1$ to $10$: the leftmost column has number $1$, the rightmost column has number $10$. Martin colors certain cells of the grid in such a way that, for every colored cell $c$, there is at most one colored cell different from $c$ whose column number is greater than or equal to that of the column of $c$ and whose row number is greater than or equal to that of the row of $c$.
-> 
-> What is the maximum number of cells that Martin can color?
+> On considère une grille $10 \times 10$, composée de $100$ cases. Les lignes de la grille sont numérotées de haut en bas dans l’ordre de $1$ à $10$ : la ligne la plus haute a le numéro $1$, la plus basse le numéro $10$. Les colonnes de la grille sont numérotées de gauche à droite dans l’ordre de $1$ à $10$ : la colonne la plus à gauche a le numéro $1$, la plus à droite le numéro $10$. Martin colorie certaines cases de la grille, de sorte que pour toute case coloriée $c$, il existe au plus une case coloriée différente de $c$ dont le numéro de la colonne est supérieur ou égal à celui de la colonne de $c$ et dont le numéro de la ligne est supérieur ou égal à celui de la ligne de $c$.
+>
+> Quel est le nombre maximal de cases que Martin peut colorier ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -445,10 +632,66 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*In a 10x10 grid with rows numbered 1 (top) to 10 (bottom) and columns 1 (left) to 10 (right), Martin colors cells so that each colored cell c has at most one other colored cell with both column number and row number greater than or equal to those of c; find the maximum number of colored cells.*
+
+> Consider a $10 \times 10$ grid, made up of $100$ cells. The rows of the grid are numbered from top to bottom in order from $1$ to $10$: the top row has number $1$, the bottom row has number $10$. The columns of the grid are numbered from left to right in order from $1$ to $10$: the leftmost column has number $1$, the rightmost column has number $10$. Martin colors certain cells of the grid in such a way that, for every colored cell $c$, there is at most one colored cell different from $c$ whose column number is greater than or equal to that of the column of $c$ and whose row number is greater than or equal to that of the row of $c$.
+> 
+> What is the maximum number of cells that Martin can color?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_simmetria,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*For which positive integers n can Aline write 2n real numbers, not all equal, such that for every choice of n of them the sum of the chosen n equals the product of the other n?*
+
+> Soit $n$ un entier strictement positif. Aline souhaite écrire $2n$ nombres réels au tableau de sorte que
+>
+> $\triangleright$ les $2n$ nombres écrits ne sont pas tous égaux,
+>
+> $\triangleright$ si Aline entoure $n$ nombres écrits au tableau, quel que soit le choix d’Aline, la somme des $n$ nombres entourés est égale au produit des $n$ nombres qui ne sont pas entourés.
+>
+> Pour quelles valeurs de $n$ Aline peut-elle réaliser son souhait ?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Per quali interi positivi n è possibile scrivere 2n reali, non tutti uguali, in modo che per ogni scelta di n di essi la somma dei prescelti uguagli il prodotto degli altri n?*
+
+Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti uguali, in modo tale che per ogni scelta di n di essi la somma della n scelta è uguale al prodotto dell'altro n?
+
+> $n$ sia un numero intero rigorosamente positivo. Aline vuole scrivere $2n$ numeri reali sulla lavagna in modo tale che:
+> 
+> $\triangleright$ i numeri $2n$ scritti non sono tutti uguali;
+> 
+> $\triangleright$ se Aline circonda $n$ dei numeri scritti sulla lavagna, allora, qualunque sia la scelta di Aline, la somma dei numeri circondati $n$ è pari al prodotto dei numeri $n$ non circondati.
+> 
+> Per quali valori di $n$ Aline può realizzare il suo desiderio?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For which positive integers n can Aline write 2n real numbers, not all equal, such that for every choice of n of them the sum of the chosen n equals the product of the other n?*
@@ -468,41 +711,22 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti uguali, in modo tale che per ogni scelta di n di essi la somma della n scelta è uguale al prodotto dell'altro n?
-
-> $n$ sia un numero intero rigorosamente positivo. Aline vuole scrivere $2n$ numeri reali sulla lavagna in modo tale che:
-> 
-> $\triangleright$ i numeri $2n$ scritti non sono tutti uguali;
-> 
-> $\triangleright$ se Aline circonda $n$ dei numeri scritti sulla lavagna, allora, qualunque sia la scelta di Aline, la somma dei numeri circondati $n$ è pari al prodotto dei numeri $n$ non circondati.
-> 
-> Per quali valori di $n$ Aline può realizzare il suo desiderio?
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]]
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_casework,method_estremalita,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *For a fixed integer n>=2, a positive integer S is 'special' if for every k and every ordered decomposition of n into k positive parts n_1<=...<=n_k there exist integers 0<=a_1<a_2<...<a_k with sum a_i n_i = S; show n^2-2n is not special and find all special numbers.*
 
-> Let $n \geqslant 2$ be a fixed integer. A number $S$ is said to be *special* if, for every strictly positive integer $k$ and for every decomposition of $n$ as a sum of $k$ strictly positive integers
-> $$n = n_1 + n_2 + \cdots + n_k,$$
-> with $n_1 \leqslant n_2 \leqslant \cdots \leqslant n_k$, one can find integers $0 \leqslant a_1 < a_2 < \cdots < a_k$ such that
+> Soit $n \geqslant 2$ un entier fixé. Un nombre $S$ est dit spécial si pour tout entier strictement positif $k$ et pour toute décomposition de $n$ en somme de $k$ entiers strictement positifs
+> $$n = n_1 + n_2 + \cdots + n_k$$
+> avec $n_1 \leqslant n_2 \leqslant \cdots \leqslant n_k$, on peut trouver des entiers $0 \leqslant a_1 < a_2 < \cdots < a_k$ tels que
 > $$a_1 n_1 + a_2 n_2 + \cdots + a_k n_k = S.$$
-> 
-> a) Show that $n^2 - 2n$ is **not** special.
-> 
-> b) Find all the special numbers.
+>
+> a) Montrer que $n^2 - 2n$ n’est pas spécial.
+>
+> b) Trouver tous les nombres spéciaux.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -526,3 +750,24 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*For a fixed integer n>=2, a positive integer S is 'special' if for every k and every ordered decomposition of n into k positive parts n_1<=...<=n_k there exist integers 0<=a_1<a_2<...<a_k with sum a_i n_i = S; show n^2-2n is not special and find all special numbers.*
+
+> Let $n \geqslant 2$ be a fixed integer. A number $S$ is said to be *special* if, for every strictly positive integer $k$ and for every decomposition of $n$ as a sum of $k$ strictly positive integers
+> $$n = n_1 + n_2 + \cdots + n_k,$$
+> with $n_1 \leqslant n_2 \leqslant \cdots \leqslant n_k$, one can find integers $0 \leqslant a_1 < a_2 < \cdots < a_k$ such that
+> $$a_1 n_1 + a_2 n_2 + \cdots + a_k n_k = S.$$
+> 
+> a) Show that $n^2 - 2n$ is **not** special.
+> 
+> b) Find all the special numbers.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)

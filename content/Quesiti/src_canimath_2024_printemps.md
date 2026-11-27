@@ -12,14 +12,14 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Three numbers sum to 96 with ratio and difference conditions*
 
-> The sum of three numbers is 96. The first of them is 6 times the third, and the third is 40 less than the second. What is the value of the first number?
-> 
-> *Only a numerical answer is expected.*
+> La somme de trois nombres vaut 96. Le premier d’entre eux vaut 6 fois le troisième, et le troisième vaut 40 de moins que le deuxième. Quelle est la valeur du premier nombre ?
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -43,10 +43,51 @@ level: Coupe Animath Printemps
 **Risposta:** 42
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three numbers sum to 96 with ratio and difference conditions*
+
+> The sum of three numbers is 96. The first of them is 6 times the third, and the third is 40 less than the second. What is the value of the first number?
+> 
+> *Only a numerical answer is expected.*
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** 42
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Parallelogram with equal segments, angle bisector perpendicular to KL*
+
+> Soit $ABCD$ un parallélogramme. Soit $K$ un point du segment $[BC]$ et soit $L$ un point du segment $[CD]$ tels que $CK = CL$. Montrer que la bissectrice de $\widehat{DAB}$ et la droite $(KL)$ sont perpendiculaires.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Parallelogramma con segmenti uguali: la bisettrice di un angolo è perpendicolare a KL.*
+> $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Indicare che il bisettore di $\widehat{DAB}$ e la linea $(KL)$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parallelogram with equal segments, angle bisector perpendicular to KL*
@@ -60,28 +101,15 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Parallelogramma con segmenti uguali, bisettore angolare perpendicolare a KL*
-
-> $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Indicare che il bisettore di $\widehat{DAB}$ e la linea $(KL)$ sono perpendicolari.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,method_cassetti,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Smallest n so product of n consecutive positives always divisible by 45*
 
-> Determine the smallest positive integer $n$ such that the product of $n$ consecutive positive integers is always divisible by 45.
+> Déterminer le plus petit entier $n$ tel que le produit de $n$ entiers positifs consécutifs est toujours divisible par 45.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]], [[method_cassetti|Pigeonhole principle]]
@@ -105,19 +133,34 @@ level: Coupe Animath Printemps
 **Risposta:** 6
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest n so product of n consecutive positives always divisible by 45*
+
+> Determine the smallest positive integer $n$ such that the product of $n$ consecutive positive integers is always divisible by 45.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 6
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Color n positive reals blue/green/red so each color's sum is less than sum of others*
 
-> Baptiste writes $n$ strictly positive real numbers on a board (not necessarily distinct). He then notices that each real number written on the board is strictly less than the sum of the $n-1$ other real numbers. Baptiste would like to color each real number blue, green, or red, so that the sum of the reals of each given color is strictly less than the sum of the other reals. Can Baptiste fulfil his wish:
-> 
-> 1) if $n = 4$?
-> 
-> 2) if $n = 5$?
+> Baptiste écrit $n$ réels strictement positifs au tableau (non nécessairement distincts). Il remarque ensuite que chaque réel écrit au tableau est strictement inférieur à la somme des $n - 1$ autres réels. Baptiste voudrait alors colorier chaque réel en bleu, en vert ou en rouge, de sorte que, la somme des réels d’une même couleur est strictement inférieure à la somme des autres réels. Baptiste peut-il réaliser son souhait :
+>
+> 1) si $n = 4$ ?
+>
+> 2) si $n = 5$ ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -143,17 +186,35 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Color n positive reals blue/green/red so each color's sum is less than sum of others*
+
+> Baptiste writes $n$ strictly positive real numbers on a board (not necessarily distinct). He then notices that each real number written on the board is strictly less than the sum of the $n-1$ other real numbers. Baptiste would like to color each real number blue, green, or red, so that the sum of the reals of each given color is strictly less than the sum of the other reals. Can Baptiste fulfil his wish:
+> 
+> 1) if $n = 4$?
+> 
+> 2) if $n = 5$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Graph connectivity: between any two cities, path via concrete roads with at most 2 intermediates*
 
-> At the Animath camp there are at least four cities. Any two cities are connected either by a concrete road or by a dirt path (but not both at the same time). She does not wish to use any dirt paths. She notices that to travel from her home city to any other city, using only concrete roads, she must always pass through at least two intermediate cities.
-> 
-> Show that between any two cities it is always possible to travel from one to the other using only concrete roads and passing through at most two intermediate cities.
+> Au pays d’Animath se trouvent au moins quatre villes. Deux villes quelconques sont reliées soit par une route en béton, soit par un sentier de terre (mais pas par les deux en même temps). Alice ne souhaite emprunter que des routes en béton. Elle remarque que pour aller à la capitale depuis sa ville natale, quel que soit le chemin, elle devra toujours passer par au moins deux villes intermédiaires.
+>
+> Montrer qu’entre deux villes quelconques, il est toujours possible d’aller de l’une à l’autre en n’empruntant que des sentiers de terre et en passant par au plus deux villes intermédiaires.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -177,19 +238,34 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Graph connectivity: between any two cities, path via concrete roads with at most 2 intermediates*
+
+> At the Animath camp there are at least four cities. Any two cities are connected either by a concrete road or by a dirt path (but not both at the same time). She does not wish to use any dirt paths. She notices that to travel from her home city to any other city, using only concrete roads, she must always pass through at least two intermediate cities.
+> 
+> Show that between any two cities it is always possible to travel from one to the other using only concrete roads and passing through at most two intermediate cities.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all values of symmetric product expression given equal ratios*
 
-> Let $x, y, z$ be three non-zero real numbers (not necessarily positive) such that
-> $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$
-> Find all values that the number
-> $$\frac{(x+y)(y+z)(z+x)}{xyz}$$
-> can take.
+> Soient $x$, $y$, $z$ trois réels non nuls (non nécessairement positifs) tels que
+> $$\frac{x + y}{z} = \frac{y + z}{x} = \frac{z + x}{y}.$$
+> Trouver toutes les valeurs que peut prendre le nombre
+> $$\frac{(x + y)(y + z)(z + x)}{xyz}.$$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -211,17 +287,35 @@ level: Coupe Animath Printemps
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all values of symmetric product expression given equal ratios*
+
+> Let $x, y, z$ be three non-zero real numbers (not necessarily positive) such that
+> $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$
+> Find all values that the number
+> $$\frac{(x+y)(y+z)(z+x)}{xyz}$$
+> can take.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Isosceles triangle geometry: show BH bisects angle GBA*
 
-> Let $ABC$ be an isosceles triangle with apex $A$. Let $D$ be the midpoint of segment $[AC]$ and $G$ the centroid of triangle $ABC$. The line $(BD)$ intersects the circle of diameter $[AC]$ at point $E$, in such a way that $E$ and $B$ are on either side of $(AC)$. The perpendicular bisector of segment $[EC]$ meets the line $(AG)$ at point $H$.
-> 
-> Show that the line $(BH)$ is the bisector of angle $\widehat{GBA}$.
+> Soit $ABC$ un triangle isocèle en $A$. Soit $D$ le milieu du segment $[AC]$ et $G$ le centre de gravité du triangle $ABC$. La droite $(BD)$ coupe le cercle de diamètre $[AC]$ au point $E$, de sorte que $E$ et $B$ sont de part et d’autre de $[AC]$. La médiatrice du segment $[EC]$ recoupe la droite $(AG)$ au point $H$.
+>
+> Montrer que la droite $(BH)$ est la bissectrice de l’angle $\widehat{GBA}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -245,18 +339,34 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Isosceles triangle geometry: show BH bisects angle GBA*
+
+> Let $ABC$ be an isosceles triangle with apex $A$. Let $D$ be the midpoint of segment $[AC]$ and $G$ the centroid of triangle $ABC$. The line $(BD)$ intersects the circle of diameter $[AC]$ at point $E$, in such a way that $E$ and $B$ are on either side of $(AC)$. The perpendicular bisector of segment $[EC]$ meets the line $(AG)$ at point $H$.
+> 
+> Show that the line $(BH)$ is the bisector of angle $\widehat{GBA}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute a simple expression with powers of 3*
 
-> Compute
-> $$\frac{3^3 + 3^3}{54}.$$
-> 
-> *Only a numerical answer is expected.*
+> Calculer
+> $$\frac{3^3 + 3^5}{54}.$$
+>
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -282,15 +392,33 @@ level: Coupe Animath Printemps
 **Risposta:** 1
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute a simple expression with powers of 3*
+
+> Compute
+> $$\frac{3^3 + 3^3}{54}.$$
+> 
+> *Only a numerical answer is expected.*
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 1
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Two linear equations in a,b,c imply a^2+b^2=2c^2*
 
-> Let $a$, $b$ and $c$ be three reals satisfying both equations $4a + 3b = c$ and $3a - 4b = 7c$. Show that $a^2 + b^2 = 2c^2$.
+> Soient $a$, $b$ et $c$ trois réels vérifiant les deux équations $4a + 3b = c$ et $3a - 4b = 7c$. Montrer que $a^2 + b^2 = 2c^2$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -312,15 +440,29 @@ level: Coupe Animath Printemps
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two linear equations in a,b,c imply a^2+b^2=2c^2*
+
+> Let $a$, $b$ and $c$ be three reals satisfying both equations $4a + 3b = c$ and $3a - 4b = 7c$. Show that $a^2 + b^2 = 2c^2$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Triangle with incenter: show angle BID is at least 90 degrees*
 
-> Let $ABC$ be a non-flat triangle. Let $I$ be the center of its inscribed circle and $D$ the point of intersection of the bisector of angle $\widehat{BAC}$ with the segment $[BC]$. Show that $\widehat{BID} \ge 90^\circ$.
+> Soit $ABC$ un triangle non plat. Soit $I$ le centre de son cercle inscrit et soit $D$ le point d’intersection de la bissectrice de l’angle $\widehat{BAC}$ avec le segment $[BC]$. Montrer que $\widehat{BID} \neq 90^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -342,10 +484,57 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle with incenter: show angle BID is at least 90 degrees*
+
+> Let $ABC$ be a non-flat triangle. Let $I$ be the center of its inscribed circle and $D$ the point of intersection of the bisector of angle $\widehat{BAC}$ with the segment $[BC]$. Show that $\widehat{BID} \ge 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Color n positive reals blue/green/red so each color's sum is less than sum of others (lycee)*
+
+> Baptiste écrit $n$ réels strictement positifs au tableau (non nécessairement distincts). Il remarque ensuite que chaque réel écrit au tableau est strictement inférieur à la somme des $n - 1$ autres réels. Baptiste voudrait alors colorier chaque réel en bleu, en vert ou en rouge, de sorte que, la somme des réels d’une même couleur est strictement inférieure à la somme des autres réels. Baptiste peut-il réaliser son souhait :
+>
+> 1) si $n = 4$ ?
+>
+> 2) si $n = 5$ ?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*n reali positivi colorati di blu, verde o rosso in modo che la somma di ciascun colore sia minore della somma degli altri due.*
+> Baptiste scrive $n$ numeri reali rigorosamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ogni dato colore sia strettamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
+> 
+> 1) if $n = 4$?
+> 
+> 2) if $n = 5$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color n positive reals blue/green/red so each color's sum is less than sum of others (lycee)*
@@ -363,32 +552,15 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Colore n positivo reale blu/verde/rosso in modo che la somma di ciascun colore sia inferiore alla somma degli altri (lycee)*
-
-> Baptiste scrive $n$ numeri reali rigorosamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ogni dato colore sia strettamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
-> 
-> 1) if $n = 4$?
-> 
-> 2) if $n = 5$?
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,method_conteggio,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all primes p such that 1..p can be partitioned into groups of equal consecutive sums*
 
-> Determine all prime numbers $p$ satisfying the following property: if one writes the integers from $1$ to $p$ on a board, one can separate them into several groups where the sum of the integers in each group is the same, and within each group the integers form a set of consecutive integers.
+> Déterminer tous les nombres premiers $p$ vérifiant la propriété suivante : si on écrit les entiers de $1$ à $p$ au tableau, on peut les séparer en plusieurs groupes de nombres consécutifs de même somme.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -410,17 +582,31 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all primes p such that 1..p can be partitioned into groups of equal consecutive sums*
+
+> Determine all prime numbers $p$ satisfying the following property: if one writes the integers from $1$ to $p$ on a board, one can separate them into several groups where the sum of the integers in each group is the same, and within each group the integers form a set of consecutive integers.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_invarianti,method_conteggio,method_casework,method_colorazione,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Minimum operations to checkerboard-color a 100x100 grid by recoloring 99 cells per row/column*
 
-> Consider a $100 \times 100$ grid where all cells are initially white. An operation consists of choosing a row or a column of the grid and changing the color of 99 of the cells in that row or column. What is the smallest number of operations needed to go from the all-white configuration to a checkerboard coloring?
-> 
-> A *checkerboard coloring* is a coloring in which any two cells sharing a side always have different colors.
+> On considère une grille $100 \times 100$ dont toutes les cases sont soit blanches soit noires. Une opération consiste à choisir une ligne ou une colonne de la grille, et changer la couleur de $99$ des cases de cette ligne ou de cette colonne. Quel est le plus petit nombre d’opérations qu’il faut effectuer pour passer de la configuration d’une grille dont toutes les cases sont blanches à une grille où les cases sont coloriées selon un coloriage en échiquier ?
+>
+> Un coloriage en échiquier est un coloriage dans lequel deux cases ayant un côté en commun sont toujours de couleur différente.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
@@ -444,10 +630,59 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum operations to checkerboard-color a 100x100 grid by recoloring 99 cells per row/column*
+
+> Consider a $100 \times 100$ grid where all cells are initially white. An operation consists of choosing a row or a column of the grid and changing the color of 99 of the cells in that row or column. What is the smallest number of operations needed to go from the all-white configuration to a checkerboard coloring?
+> 
+> A *checkerboard coloring* is a coloring in which any two cells sharing a side always have different colors.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Isosceles triangle geometry: BH bisects angle GEA; EF parallel to BH*
+
+> Soit $ABC$ un triangle isocèle en $A$. Soit $D$ le milieu du segment $[AC]$ et $G$ le centre de gravité du triangle $ABC$. La droite $(BD)$ coupe le cercle de diamètre $[AC]$ au point $E$, de sorte que $E$ et $B$ sont de part et d’autre de $[AC]$. La médiatrice du segment $[EC]$ recoupe la droite $(AG)$ au point $H$.
+>
+> 1) Montrer que la droite $(BH)$ est la bissectrice de l’angle $\widehat{GBA}$.
+>
+> 2) Soit $F$ le pied de la hauteur issue du sommet $A$ dans le triangle $ABC$. Montrer que les droites $(EF)$ et $(BH)$ sont parallèles.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Geometria di un triangolo isoscele: BH biseca l'angolo GEA ed EF è parallela a BH.*
+> $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Che $D$ sia il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La linea $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettore perpendicolare del segmento $[EC]$ incontra la linea $(AG)$ al punto $H$.
+> 
+> 1) Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GEA}$.
+> 
+> 2) Che $F$ sia il piede dell'altitudine dal vertice $A$ nel triangolo $ABC$. Indicare che le linee $(EF)$ e $(BH)$ sono parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle geometry: BH bisects angle GEA; EF parallel to BH*
@@ -465,34 +700,17 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Geometria triangolare isosceles: BH bisecta angolo GEA; EF parallelo a BH*
-
-> $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Che $D$ sia il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La linea $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettore perpendicolare del segmento $[EC]$ incontra la linea $(AG)$ al punto $H$.
-> 
-> 1) Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GEA}$.
-> 
-> 2) Che $F$ sia il piede dell'altitudine dal vertice $A$ nel triangolo $ABC$. Indicare che le linee $(EF)$ e $(BH)$ sono parallele.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_bigezione,method_estremalita,method_induzione,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find largest c so that sum of 1/z_i < c guarantees Theo can give every student a liked gift*
 
-> At the Animath camp, there are $n$ students, numbered from $1$ to $n$, where $n \ge 2$ is a natural number. Théo has infinitely many different gifts, each existing in only one copy. Moreover, student number $i$ likes a finite number $z_i > 0$ of the gifts proposed by Théo.
-> 
-> Determine, as a function of $n$, the largest real $c > 0$ satisfying the following property: for any positive integers $x_1, x_2, \ldots, x_n$ such that $\dfrac{1}{x_1} + \dfrac{1}{x_2} + \cdots + \dfrac{1}{x_n} < c$, Théo can always arrange things so that each student receives a gift they like (with each gift going to at most one student).
+> Au stage Animath, il y a $n$ élèves, numérotés de $1$ à $n$, où $n \geqslant 2$ est un entier naturel. Théo dispose d’une infinité de cadeaux différents, où chaque cadeau n’existe qu’en un seul exemplaire. De plus, l’élève numéro $i$ aime un nombre fini $x_i > 0$ de cadeaux parmi les cadeaux proposés par Théo.
+>
+> Déterminer, en fonction de $n$, le plus grand réel $c > 0$ vérifiant la propriété suivante : quels que soient les entiers strictement positifs $x_1, \ldots, x_n$, si $\dfrac{1}{x_1} + \dfrac{1}{x_2} + \cdots + \dfrac{1}{x_n} < c$, alors Théo peut s’arranger pour donner un cadeau à chaque élève de sorte que chaque élève a reçu un cadeau qu’il aime.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_bigezione|Biiezione]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
@@ -514,3 +732,19 @@ level: Coupe Animath Printemps
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find largest c so that sum of 1/z_i < c guarantees Theo can give every student a liked gift*
+
+> At the Animath camp, there are $n$ students, numbered from $1$ to $n$, where $n \ge 2$ is a natural number. Théo has infinitely many different gifts, each existing in only one copy. Moreover, student number $i$ likes a finite number $z_i > 0$ of the gifts proposed by Théo.
+> 
+> Determine, as a function of $n$, the largest real $c > 0$ satisfying the following property: for any positive integers $x_1, x_2, \ldots, x_n$ such that $\dfrac{1}{x_1} + \dfrac{1}{x_2} + \cdots + \dfrac{1}{x_n} < c$, Théo can always arrange things so that each student receives a gift they like (with each gift going to at most one student).
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)

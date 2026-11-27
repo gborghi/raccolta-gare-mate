@@ -12,16 +12,17 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,method_estremalita,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Tetrahedron with two pairs of orthogonal edges; minimize a degree-6 expression*
 
-> A tetrahedron $ABCD$ satisfies the following conditions:
-> 1. The edges $AB$, $AC$, and $AD$ are pairwise orthogonal (each pair of these three edges is orthogonal to the other).
-> 2. $AB = 3$ and $CD = \sqrt{2}$.
-> 
-> Determine the minimum value of $BC^6 + BD^6 - AC^6 - AD^6$.
+> Un tétraèdre $ABCD$ vérifie les conditions suivantes :
+>
+> 1. les arêtes $AB$, $AC$ et $AD$ sont deux à deux orthogonales ;
+> 2. $AB = 3$ et $CD = \sqrt{2}$.
+>
+> Déterminer la valeur minimale de $BC^{6} + BD^{6} - AC^{6} - AD^{6}$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -45,19 +46,36 @@ level: Concours Général
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Tetrahedron with two pairs of orthogonal edges; minimize a degree-6 expression*
+
+> A tetrahedron $ABCD$ satisfies the following conditions:
+> 1. The edges $AB$, $AC$, and $AD$ are pairwise orthogonal (each pair of these three edges is orthogonal to the other).
+> 2. $AB = 3$ and $CD = \sqrt{2}$.
+> 
+> Determine the minimum value of $BC^6 + BD^6 - AC^6 - AD^6$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,topic_funzionali,method_invarianti,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Real sequence with floor recurrence; prove periodicity*
 
-> Let $(u_n)_{n \in \mathbb{N}}$ be a real sequence satisfying, for every integer $n$, the relation:
-> $$u_{n+2} = \lfloor u_{n+1} \rfloor - u_n,$$
-> where $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.
-> 
-> Show that there exists a nonzero integer $p$ such that the relation $u_n = u_{n+p}$ holds for every natural number $n$.
+> Soit $(u_n)_{n \in \mathbb{N}}$ une suite réelle vérifiant, pour tout entier $n$, la relation :
+> $$u_{n+2} = \lfloor u_{n+1} \rfloor - u_n.$$
+>
+> Montrer qu'il existe un entier $p$ non nul, tel que la relation $u_n = u_{n+p}$ ait lieu pour tout entier naturel $n$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -81,18 +99,36 @@ level: Concours Général
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Real sequence with floor recurrence; prove periodicity*
+
+> Let $(u_n)_{n \in \mathbb{N}}$ be a real sequence satisfying, for every integer $n$, the relation:
+> $$u_{n+2} = \lfloor u_{n+1} \rfloor - u_n,$$
+> where $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.
+> 
+> Show that there exists a nonzero integer $p$ such that the relation $u_n = u_{n+p}$ holds for every natural number $n$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_casework,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find the range of a function defined by a nested-radical floor expression*
 
-> For every real $x$, let $E(x)$ denote the greatest integer less than or equal to $x$. Let $k$ be a fixed integer greater than or equal to $2$. Consider the function $f$ from $\mathbb{N}$ to $\mathbb{N}$ defined by:
-> $$f(n) = n + E\!\left(\sqrt[k]{n + \sqrt{n}}\right).$$
-> 
-> Determine the set of values taken by the function $f$.
+> Pour tout réel $x$ on note $E(x)$, le plus grand entier relatif inférieur ou égal à $x$. Soit $k$ un entier fixé, supérieur ou égal à $2$. On considère la fonction $f$ de $\mathbb{N}$ dans $\mathbb{N}$ définie par :
+> $$f(n) = n + E\left(\sqrt[k]{n + \sqrt{n}}\right).$$
+>
+> Déterminer l'ensemble des valeurs prises par la fonction $f$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Classical inequalities]]
@@ -116,10 +152,65 @@ level: Concours Général
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find the range of a function defined by a nested-radical floor expression*
+
+> For every real $x$, let $E(x)$ denote the greatest integer less than or equal to $x$. Let $k$ be a fixed integer greater than or equal to $2$. Consider the function $f$ from $\mathbb{N}$ to $\mathbb{N}$ defined by:
+> $$f(n) = n + E\!\left(\sqrt[k]{n + \sqrt{n}}\right).$$
+> 
+> Determine the set of values taken by the function $f$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Point on segment between two lines through O; minimize area then perimeter*
+
+> On considère deux droites $D_1$ et $D_2$ sécantes en $O$, et un point $M$ n'appartenant à aucune de ces deux droites. On considère deux points variables, $A$ sur $D_1$ et $B$ sur $D_2$, tels que le point $M$ appartienne au segment $[A, B]$.
+>
+> (Les questions 1 et 2 sont indépendantes)
+>
+> (1) Montrer qu'il existe une position des points $A$ et $B$ pour laquelle l'aire du triangle $OAB$ est minimale. Construire les points $A$ et $B$ ainsi déterminés.
+>
+> (2) Montrer qu'il existe une position des points $A$ et $B$ pour laquelle le périmètre du triangle $OAB$ est minimal et qu'on a alors l'égalité des périmètres des triangles $OAM$ et $OBM$, ainsi que la relation :
+> $$\frac{AM}{\tan \dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan \dfrac{\widehat{OBM}}{2}}.$$
+>
+> Construire les point $A$ et $B$ ainsi déterminés.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Due rette secanti in O e un punto M esterno a esse: tra i punti A e B sulle due rette tali che M appartenga al segmento AB, minimizzare prima l'area e poi il perimetro del triangolo OAB.*
+> Considera due linee $D_1$ e $D_2$ che si incrociano a $O$ e un punto $M$ che non appartiene a nessuna delle due linee. Considerare due punti variabili $A$ su $D_1$ e $B$ su $D_2$ in modo tale che $M$ appartenga al segmento $[A, B]$. (Le domande 1 e 2 sono indipendenti.)
+> 
+> (1) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale l'area del triangolo $OAB$ è minima. Costruire i punti $A$ e $B$ così determinati.
+> 
+> (2) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Point on segment between two lines through O; minimize area then perimeter*
@@ -139,34 +230,17 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Punto su segmento tra due linee attraverso O; ridurre al minimo la superficie e quindi il perimetro*
-
-> Considera due linee $D_1$ e $D_2$ che si incrociano a $O$ e un punto $M$ che non appartiene a nessuna delle due linee. Considerare due punti variabili $A$ su $D_1$ e $B$ su $D_2$ in modo tale che $M$ appartenga al segmento $[A, B]$. (Le domande 1 e 2 sono indipendenti.)
-> 
-> (1) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale l'area del triangolo $OAB$ è minima. Costruire i punti $A$ e $B$ così determinati.
-> 
-> (2) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Prove existence of a 2n-5 point set piercing all triangles from an n-point set*
 
-> Let $n$ be an integer greater than or equal to $3$. Consider a set $A$ of $n$ points in the plane such that no three points of $A$ are collinear.
-> 
-> Show that there exists a set $S$ of $2n - 5$ points in the plane such that for every triangle whose vertices are points of $A$, there exists at least one point of $S$ that lies strictly inside it.
+> Soit $n$ un entier supérieur ou égal à $3$. On considère un ensemble $A$ de $n$ points du plan, cet ensemble ne contenant pas trois points alignés.
+>
+> Montrer qu'il existe un ensemble $S$ de $2n - 5$ points du plan tel que pour tout triangle dont les sommets sont des points de $A$ il existe au moins un point de $S$ qui lui soit strictement intérieur.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -188,3 +262,19 @@ level: Concours Général
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove existence of a 2n-5 point set piercing all triangles from an n-point set*
+
+> Let $n$ be an integer greater than or equal to $3$. Consider a set $A$ of $n$ points in the plane such that no three points of $A$ are collinear.
+> 
+> Show that there exists a set $S$ of $2n - 5$ points in the plane such that for every triangle whose vertices are points of $A$, there exists at least one point of $S$ that lies strictly inside it.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)

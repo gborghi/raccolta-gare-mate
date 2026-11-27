@@ -12,12 +12,12 @@ level: OBM Nível Universitário
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,topic_geometria_analitica,method_simmetria,method_coordinate,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Line cuts graph of degree-4 polynomial at 4 equally spaced points*
 
-> Let $y = P(x)$ be a polynomial of degree 4. Show that if there exists a line (in $\mathbb{R}^2$) that intersects the graph of $P$ at 4 points, then there exists a line that intersects the graph at 4 equally spaced points.
+> Seja $y = P(x)$ um polinômio de grau 4. Mostre que se existe uma reta (em $\mathbb{R}^2$) que corta o gráfico de $P$ em 4 pontos então existe uma reta que corta o gráfico em 4 pontos igualmente espaçados.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -43,15 +43,29 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Line cuts graph of degree-4 polynomial at 4 equally spaced points*
+
+> Let $y = P(x)$ be a polynomial of degree 4. Show that if there exists a line (in $\mathbb{R}^2$) that intersects the graph of $P$ at 4 points, then there exists a line that intersects the graph at 4 equally spaced points.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Symmetric real matrix with row sums 1 and bounded off-diagonal; prove 0 < det A ≤ 1*
 
-> Let $A = (a_{ij})$ be a real symmetric $n \times n$ matrix such that $a_{ii} = 1$ and $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ for all $i \in \{1, 2, \ldots, n\}$. Prove that $0 < \det A \le 1$.
+> Seja $A = (a_{ij})$ uma matriz real simétrica $n \times n$ tal que $a_{ii} = 1$ e $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ para todo $i \in \{1, 2, \ldots, n\}$. Prove que $0 < \det A \le 1$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
@@ -76,14 +90,29 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Symmetric real matrix with row sums 1 and bounded off-diagonal; prove 0 < det A ≤ 1*
+
+> Let $A = (a_{ij})$ be a real symmetric $n \times n$ matrix such that $a_{ii} = 1$ and $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ for all $i \in \{1, 2, \ldots, n\}$. Prove that $0 < \det A \le 1$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_inclusione_esclusione,method_doppio_conteggio,method_disuguaglianze,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sets with large size and small pairwise intersections; lower bound on union size*
 
-> Let $A_1, A_2, \ldots, A_k \subseteq \{1, 2, \ldots, n\}$ be sets such that $|A_i| \ge \dfrac{n}{2}$ and $|A_i \cap A_j| \le \dfrac{n}{4}$ for all $i, j$ with $i \ne j$. Prove that $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
+> Sejam $A_1, A_2, \ldots, A_k \subset \{1, 2, \ldots, n\}$ conjuntos com $|A_i| \ge \dfrac{n}{2}$ e $|A_i \cap A_j| \le \dfrac{n}{4}$ para todo $i, j$ com $i \ne j$. Prove que $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]]
@@ -108,14 +137,29 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sets with large size and small pairwise intersections; lower bound on union size*
+
+> Let $A_1, A_2, \ldots, A_k \subseteq \{1, 2, \ldots, n\}$ be sets such that $|A_i| \ge \dfrac{n}{2}$ and $|A_i \cap A_j| \le \dfrac{n}{4}$ for all $i, j$ with $i \ne j$. Prove that $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all real solutions of a nested radical equation*
 
-> Find all real solutions of the equation
+> Determine todas as soluções reais da equação
 > $$x = \sqrt{2 + \sqrt{2 - \sqrt{2 + x}}}.$$
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -144,19 +188,34 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all real solutions of a nested radical equation*
+
+> Find all real solutions of the equation
+> $$x = \sqrt{2 + \sqrt{2 - \sqrt{2 + x}}}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Iterated logarithm product defines a_n; determine convergence of sum 1/a_n*
 
-> For $x \in \mathbb{R}$, define $\ln_0(x) = x$, and for each $k \in \mathbb{N}$, if $\ln_k(x) > 0$, define $\ln_{k+1}(x) = \ln(\ln_k(x))$, where $\ln$ is the natural logarithm.
-> 
-> Given a positive integer $n$, define $k(n)$ as the largest $k$ such that $\ln_k(n) \ge 1$, and define $a_n$ as
+> Dado $x \in \mathbb{R}$, definimos $\ln_0(x) = x$ e, para cada $k \in \mathbb{N}$, se $\ln_k(x) > 0$, definimos $\ln_{k+1}(x) = \ln(\ln_k(x))$, onde $\ln$ é o logaritmo natural.
+>
+> Dado $n$ inteiro positivo, definimos $k(n)$ como o maior $k$ tal que $\ln_k(n) \ge 1$, e $a_n$ como
 > $$a_n = \prod_{j=0}^{k(n)} \ln_j(n) = n \cdot \ln(n) \cdot \ln\ln(n) \cdots \ln_{k(n)}(n).$$
-> Determine whether the series $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converges or diverges.
+> Diga se a série $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converge ou diverge.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
@@ -188,15 +247,33 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Iterated logarithm product defines a_n; determine convergence of sum 1/a_n*
+
+> For $x \in \mathbb{R}$, define $\ln_0(x) = x$, and for each $k \in \mathbb{N}$, if $\ln_k(x) > 0$, define $\ln_{k+1}(x) = \ln(\ln_k(x))$, where $\ln$ is the natural logarithm.
+> 
+> Given a positive integer $n$, define $k(n)$ as the largest $k$ such that $\ln_k(n) \ge 1$, and define $a_n$ as
+> $$a_n = \prod_{j=0}^{k(n)} \ln_j(n) = n \cdot \ln(n) \cdot \ln\ln(n) \cdots \ln_{k(n)}(n).$$
+> Determine whether the series $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converges or diverges.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two conics intersecting at 4 points; tangent lines yield a tangent ellipse or circle*
 
-> Consider two ellipses in the plane $\mathbb{R}^2$ that intersect at exactly 4 points. At these 4 points, draw the tangent lines to both ellipses, obtaining 8 lines. Prove that there exists an ellipse (or circle) tangent to all 8 of these lines.
+> Considere duas elipses no plano $\mathbb{R}^2$ que se intersectam em 4 pontos. Nestes 4 pontos trace as retas tangentes às duas elipses, obtendo assim 8 retas. Prove que existe uma elipse (ou circunferência) tangente a estas 8 retas.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -220,3 +297,17 @@ level: OBM Nível Universitário
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two conics intersecting at 4 points; tangent lines yield a tangent ellipse or circle*
+
+> Consider two ellipses in the plane $\mathbb{R}^2$ that intersect at exactly 4 points. At these 4 points, draw the tangent lines to both ellipses, obtaining 8 lines. Prove that there exists an ellipse (or circle) tangent to all 8 of these lines.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)

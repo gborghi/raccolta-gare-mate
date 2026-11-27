@@ -92,9 +92,7 @@ level: IOQM
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Trapezio, la bisettrice interna incontra BC in E, l'incircolo di ABE tocca AB in M, trovare l'angolo DAE*
-
+*Trapezio; la bisettrice interna incontra BC in E, il cerchio inscritto di ABE tocca AB in M; determinare l'angolo DAE.*
 > In un trapezio $ABCD$, la bisettrice interna dell'angolo $A$ interseca la base $BC$ (o il suo prolungamento) nel punto $E$. Nel triangolo $ABE$ è inscritta una circonferenza che tocca il lato $AB$ in $M$ e il lato $BE$ nel punto $P$. Determinare l'angolo $DAE$ in gradi, se $AB \cdot MP = 2$.
 
 

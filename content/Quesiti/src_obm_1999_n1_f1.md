@@ -12,13 +12,13 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Small truck: 50 bags or 400 bricks; how many bricks when 32 bags are loaded?*
 
-> A small truck can carry 50 bags of sand or 400 bricks. If 32 bags of sand were loaded onto the truck, how many bricks can it still carry?
-> 
+> Um pequeno caminhão pode carregar 50 sacos de areia ou 400 tijolos. Se foram colocados no caminhão 32 sacos de areia, quantos tijolos pode ainda ele carregar?
+>
 > (A) 132 \quad (B) 144 \quad (C) 146 \quad (D) 148 \quad (E) 152
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -43,15 +43,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Small truck: 50 bags or 400 bricks; how many bricks when 32 bags are loaded?*
+
+> A small truck can carry 50 bags of sand or 400 bricks. If 32 bags of sand were loaded onto the truck, how many bricks can it still carry?
+> 
+> (A) 132 \quad (B) 144 \quad (C) 146 \quad (D) 148 \quad (E) 152
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Calculator keys D (duplicate units digit) and T (erase units digit); find result for 1999.*
 
-> Juliana's calculator is rather unusual. It has a key $\mathbf{T}$ that erases the units digit of the number on the display, and a key $\mathbf{D}$ that duplicates the units digit of the number on the display. For example, if 123 is on the display and we press $\mathbf{D}$ we get 1233; pressing $\mathbf{T}$ gives 123; pressing $\mathbf{D}$ again gives 1233; pressing $\mathbf{D}$ once more gives 12333. Suppose 1999 is on the display. If we press in order $\mathbf{D}$, $\mathbf{D}$, $\mathbf{T}$, $\mathbf{D}$, the number shown will be:
-> 
+> A calculadora de Juliana é bem diferente. Ela tem uma tecla $\mathbf{D}$, que duplica o número escrito no visor e a tecla $\mathbf{T}$, que apaga o algarismo das unidades do número escrito no visor. Assim, por exemplo, se estiver escrito 123 no visor e apertarmos $\mathbf{D}$, teremos 246; depois, apertando $\mathbf{T}$, teremos 24. Suponha que esteja escrito 1999. Se apertamos $\mathbf{D}$ depois $\mathbf{T}$, em seguida $\mathbf{D}$, depois $\mathbf{T}$, teremos o número:
+>
 > (A) 96 \quad (B) 98 \quad (C) 123 \quad (D) 79 \quad (E) 99
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
@@ -78,20 +95,44 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Calculator keys D (duplicate units digit) and T (erase units digit); find result for 1999.*
+
+> Juliana's calculator is rather unusual. It has a key $\mathbf{T}$ that erases the units digit of the number on the display, and a key $\mathbf{D}$ that duplicates the units digit of the number on the display. For example, if 123 is on the display and we press $\mathbf{D}$ we get 1233; pressing $\mathbf{T}$ gives 123; pressing $\mathbf{D}$ again gives 1233; pressing $\mathbf{D}$ once more gives 12333. Suppose 1999 is on the display. If we press in order $\mathbf{D}$, $\mathbf{D}$, $\mathbf{T}$, $\mathbf{D}$, the number shown will be:
+> 
+> (A) 96 \quad (B) 98 \quad (C) 123 \quad (D) 79 \quad (E) 99
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_lettura_attenta,skill_modellizzazione,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Graph of dollar–real rate over 6 months; find May installment given December value.*
 
-> The graph below shows the approximate value of the dollar in reais on the 15th of each of the last 6 months.
-> 
-> Marcelo bought a car using a financing system called \emph{leasing} indexed to the dollar exchange rate, and his monthly installments fall due exactly on the 15th of each month. In December, Marcelo paid R\$\,600{,}00 as his installment. Based on the graph, we can say that in May the installment was:
-> 
+> O gráfico abaixo mostra o valor aproximado do dólar em reais no dia 15 dos últimos 6 meses.
+>
+> $2{,}0$
+>
+> $1{,}5$
+>
+> $1{,}0$
+>
+> D J F M A M J
+>
+> Marcelo comprou um carro usando um sistema de financiamento chamado leasing corrigido pela variação do dólar e suas prestações vencem exatamente no dia 15 de cada mês. Em dezembro, Marcelo pagou R\$\,600{,}00 de prestação. Com base na tabela, podemos dizer que em maio a prestação foi de:
+>
 > (A) R\$\,700{,}00 \quad (B) R\$\,850{,}00 \quad (C) R\$\,650{,}00 \quad (D) R\$\,900{,}00 \quad (E) R\$\,800{,}00
-
-![[src_obm_1999_n1_f1__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Estimation and approximation]]
@@ -119,17 +160,37 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Graph of dollar–real rate over 6 months; find May installment given December value.*
+
+> The graph below shows the approximate value of the dollar in reais on the 15th of each of the last 6 months.
+> 
+> Marcelo bought a car using a financing system called \emph{leasing} indexed to the dollar exchange rate, and his monthly installments fall due exactly on the 15th of each month. In December, Marcelo paid R\$\,600{,}00 as his installment. Based on the graph, we can say that in May the installment was:
+> 
+> (A) R\$\,700{,}00 \quad (B) R\$\,850{,}00 \quad (C) R\$\,650{,}00 \quad (D) R\$\,900{,}00 \quad (E) R\$\,800{,}00
+
+![[src_obm_1999_n1_f1__Q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Metro line with 12 equally-spaced stations; find total length.*
 
-> In a certain city, the metro has all its 12 stations on a straight line. The distance between any two neighbouring stations is always the same. It is known that the distance between the 3rd and the 6th stations equals 3\,300 metres. What is the total length of this line?
-> 
-> (A) 8.4\,km \quad (B) 12.1\,km \quad (C) 9.9\,km \quad (D) 13.2\,km \quad (E) 9.075\,km
+> Numa certa cidade, o metrô tem todas suas 12 estações em linha reta. A distância entre duas estações vizinhas é sempre a mesma. Sabe-se que a distância entre a terceira e a sexta estações é igual a $3\,300$ metros. Qual é o comprimento dessa linha?
+>
+> (A) $8{,}4$ km \quad (B) $12{,}1$ km \quad (C) $9{,}9$ km \quad (D) $13{,}2$ km \quad (E) $9{,}075$ km
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -153,16 +214,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Metro line with 12 equally-spaced stations; find total length.*
+
+> In a certain city, the metro has all its 12 stations on a straight line. The distance between any two neighbouring stations is always the same. It is known that the distance between the 3rd and the 6th stations equals 3\,300 metres. What is the total length of this line?
+> 
+> (A) 8.4\,km \quad (B) 12.1\,km \quad (C) 9.9\,km \quad (D) 13.2\,km \quad (E) 9.075\,km
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Simplify half of $2^{10} + 4^5$.*
 
-> The value of $\dfrac{2^{10} + 4^5}{2}$ equals:
-> 
-> (A) $2^9 + 4^4$ \quad (B) $2^9 + 2^5$ \quad (C) $1^{10} + 2^5$ \quad (D) $2^{10} + 4^4$ \quad (E) $2^9 + 4^5$
+> A metade do número $2^{11} + 4^{8}$ é igual a:
+>
+> (A) $2^{5} + 4^{4}$ \quad (B) $2^{5} + 2^{8}$ \quad (C) $1^{10} + 2^{8}$ \quad (D) $2^{15} + 4^{5}$ \quad (E) $2^{9} + 4^{7}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -188,16 +266,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Simplify half of $2^{10} + 4^5$.*
+
+> The value of $\dfrac{2^{10} + 4^5}{2}$ equals:
+> 
+> (A) $2^9 + 4^4$ \quad (B) $2^9 + 2^5$ \quad (C) $1^{10} + 2^5$ \quad (D) $2^{10} + 4^4$ \quad (E) $2^9 + 4^5$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count two-digit primes whose predecessor is a perfect square.*
 
-> How many two-digit numbers are prime and have their predecessor (the number immediately before them) be a perfect square?
-> 
-> (A) 2 \quad (B) none \quad (C) 1 \quad (D) 3 \quad (E) 6
+> Quantos números de dois algarismos são primos e têm como antecessor um quadrado perfeito?
+>
+> (A) 2 \quad (B) nenhum \quad (C) 1 \quad (D) 3 \quad (E) 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -223,15 +319,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count two-digit primes whose predecessor is a perfect square.*
+
+> How many two-digit numbers are prime and have their predecessor (the number immediately before them) be a perfect square?
+> 
+> (A) 2 \quad (B) none \quad (C) 1 \quad (D) 3 \quad (E) 6
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many times per day do clock hands form a right angle?*
 
-> How many times in a day (24 hours) do the hands of a clock form a right angle?
-> 
+> Quantas vezes num dia (24 horas) os ponteiros de um relógio formam ângulo reto?
+>
 > (A) 48 \quad (B) 44 \quad (C) 24 \quad (D) 22 \quad (E) 23
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
@@ -258,17 +372,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many times per day do clock hands form a right angle?*
+
+> How many times in a day (24 hours) do the hands of a clock form a right angle?
+> 
+> (A) 48 \quad (B) 44 \quad (C) 24 \quad (D) 22 \quad (E) 23
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Marbles redistributed to boys and girls; find percentage of boys.*
 
-> Dona Zizi bought 2 marbles for each student in a 5th-grade class. Since the boys were rowdy, she decided to redistribute them: giving 3 marbles to each girl and only 1 marble to each boy. We can conclude that in the 5th grade:
-> 
-> (A) 20\% are boys \quad (B) 30\% are boys \quad (C) 50\% are boys \quad (D) 50\% are girls \quad (E) 66.6\ldots\% are boys
+> Dona Zizi comprou 2 balas para cada aluno de uma 5ª série. Mas como os meninos andavam meio barulhentos, ela resolveu redistribuir essas balas, dando 5 para cada menina e apenas 1 para cada menino. Podemos concluir que na 5ª série
+>
+> (A) $20\%$ são meninos \quad (B) $30\%$ são meninas \quad (C) $75\%$ são meninos \quad (D) $50\%$ são meninas \quad (E) $66{,}6\ldots\%$ são meninos
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -294,18 +425,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Marbles redistributed to boys and girls; find percentage of boys.*
+
+> Dona Zizi bought 2 marbles for each student in a 5th-grade class. Since the boys were rowdy, she decided to redistribute them: giving 3 marbles to each girl and only 1 marble to each boy. We can conclude that in the 5th grade:
+> 
+> (A) 20\% are boys \quad (B) 30\% are boys \quad (C) 50\% are boys \quad (D) 50\% are girls \quad (E) 66.6\ldots\% are boys
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Stack of blue plastic cubes exposed to air; count cubes with exactly 3 blue and 3 grey faces.*
 
-> Several blue plastic cubic boxes were stacked in the open air in the position shown in the figure. Over time, the plastic exposed to the air lost its colour, turning grey. When dismantling the stack, we verified that the number of boxes with exactly three blue faces and three grey faces is:
-> 
+> Vários caixotes cúbicos de plástico azul ficaram armazenados ao ar livre, na posição indicada na figura ao lado, na qual apenas um dos caixotes não é visível. Com o tempo, o plástico exposto ao ar perdeu sua cor, tornando-se cinza. Ao desfazer a pilha, verificaremos que o número de caixotes com três faces azuis e três cinzentas será:
+>
 > (A) 4 \quad (B) 5 \quad (C) 3 \quad (D) 2 \quad (E) 1
-
-![[src_obm_1999_n1_f1__Q09.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -333,15 +480,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Stack of blue plastic cubes exposed to air; count cubes with exactly 3 blue and 3 grey faces.*
+
+> Several blue plastic cubic boxes were stacked in the open air in the position shown in the figure. Over time, the plastic exposed to the air lost its colour, turning grey. When dismantling the stack, we verified that the number of boxes with exactly three blue faces and three grey faces is:
+> 
+> (A) 4 \quad (B) 5 \quad (C) 3 \quad (D) 2 \quad (E) 1
+
+![[src_obm_1999_n1_f1__Q09.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *100 coins (50c and R\$1) total 76 reais; find difference in count between the two types.*
 
-> Ronaldo, whenever he can, saves coins of 50 centavos or 1 real. He currently has 100 coins totalling 76 reais. How many more coins of one denomination does he have than the other?
-> 
+> Ronaldo, sempre que pode, guarda moedas de 50 centavos ou 1 real. Atualmente, ele tem 100 moedas, num total de 76 reais. Quantas moedas de um valor ele tem a mais do que a de outro valor?
+>
 > (A) 48 \quad (B) 4 \quad (C) 8 \quad (D) 52 \quad (E) 96
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
@@ -366,18 +533,41 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*100 coins (50c and R\$1) total 76 reais; find difference in count between the two types.*
+
+> Ronaldo, whenever he can, saves coins of 50 centavos or 1 real. He currently has 100 coins totalling 76 reais. How many more coins of one denomination does he have than the other?
+> 
+> (A) 48 \quad (B) 4 \quad (C) 8 \quad (D) 52 \quad (E) 96
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,method_simmetria,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count distinct figures formed by joining three congruent rhombuses side to side.*
 
-> Joining three congruent squares making their sides coincide, we can form two different figures, as the example alongside shows. We will now take three congruent rhombuses (parallelograms with all sides equal) and join them making their sides coincide. How many different figures can we form with the three rhombuses? (Two figures are considered the same if one can be obtained from the other by rotation, translation or reflection.)
-> 
+> Juntando três quadrados congruentes e fazendo coincidir lados comuns, sem superposição, podemos formar duas figuras diferentes, como mostra a figura ao lado. Observe que uma figura obtida de outra por rotação, deslocamento ou reflexão, é congruente à mesma figura (muda apenas a posição). Por exemplo, temos abaixo figura iguais em 4 posições diferentes.
+>
+> Vamos agora pegar três losangos congruentes, um deles representado ao lado.
+>
+> $120^{\circ}$
+>
+> $60^{\circ}$
+>
+> Quantas figuras diferentes podemos formar com os três losangos, fazendo coincidir lados comuns?
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 5 \quad (E) 9
-
-![[src_obm_1999_n1_f1__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -405,15 +595,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count distinct figures formed by joining three congruent rhombuses side to side.*
+
+> Joining three congruent squares making their sides coincide, we can form two different figures, as the example alongside shows. We will now take three congruent rhombuses (parallelograms with all sides equal) and join them making their sides coincide. How many different figures can we form with the three rhombuses? (Two figures are considered the same if one can be obtained from the other by rotation, translation or reflection.)
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 5 \quad (E) 9
+
+![[src_obm_1999_n1_f1__Q11.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Printer replaces zeros with blanks; find minimum number of pages to reprint.*
 
-> Renata typed a 100-page document numbered from 1 to 100 and printed it. While leafing through it, she noticed that her printer was defective, since it replaced every zero with a blank when printing page numbers. After fixing the printer, how many pages must she reprint at minimum?
-> 
+> Renata digitou um trabalho de 100 páginas numerados de 1 a 100 e o imprimiu. Ao folhear o trabalho, percebeu que sua impressora estava com defeito, pois trocava o zero pelo um e o um pelo zero na numeração das páginas. Depois de consertar a impressora, quantas páginas teve que reimprimir, no mínimo?
+>
 > (A) 18 \quad (B) 20 \quad (C) 22 \quad (D) 30 \quad (E) 28
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -440,16 +650,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Printer replaces zeros with blanks; find minimum number of pages to reprint.*
+
+> Renata typed a 100-page document numbered from 1 to 100 and printed it. While leafing through it, she noticed that her printer was defective, since it replaced every zero with a blank when printing page numbers. After fixing the printer, how many pages must she reprint at minimum?
+> 
+> (A) 18 \quad (B) 20 \quad (C) 22 \quad (D) 30 \quad (E) 28
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Letícia sells all CDs at same price to three friends; find minimum number of CDs.*
 
-> Let\'{i}cia sold all her videogame CDs to three friends, charging R\$\,240{,}00, R\$\,180{,}00 and R\$\,320{,}00 respectively. All the CDs had the same price. What is the minimum number of CDs that Let\'{i}cia had?
-> 
-> (A) 20 \quad (B) 37 \quad (C) 21 \quad (D) 41 \quad (E) 25
+> Letícia vendeu todos seus CDs de videogames para três amigos, que lhe pagaram, respectivamente, R$\,240{,}00, R$\,180{,}00 e R$\,320{,}00. Todos os CDs tinham o mesmo preço. Quantos CDs tinha Letícia no mínimo?
+>
+> (A) 20 \quad (B) 37 \quad (C) 28 \quad (D) 21 \quad (E) 25
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -475,18 +703,35 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Letícia sells all CDs at same price to three friends; find minimum number of CDs.*
+
+> Let\'{i}cia sold all her videogame CDs to three friends, charging R\$\,240{,}00, R\$\,180{,}00 and R\$\,320{,}00 respectively. All the CDs had the same price. What is the minimum number of CDs that Let\'{i}cia had?
+> 
+> (A) 20 \quad (B) 37 \quad (C) 21 \quad (D) 41 \quad (E) 25
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cards on a table; mean of all is 5, mean of Y's neighbours is 3; find X.*
 
-> Six cards with numbers on one face are placed face-down on a table, arranged in a $2 \times 3$ grid. Cards $X$ and $Y$ are placed with the numbered face up. The arrangement is:
+> 6 cartões com números somente numa das faces são colocados sobre uma mesa conforme a ilustração. Os cartões $X$ e $Y$ estão com a face numerada voltada para baixo. A média aritmética dos números de todos os cartões é 5. A média aritmética dos números do cartão $Y$ e seus três vizinhos é 3. Qual é o número escrito no cartão $X$?
+>
 > $$\begin{array}{|c|c|c|}\hline 8 & 2 & 4 \\ \hline X & 6 & Y \\ \hline \end{array}$$
-> The arithmetic mean of the numbers on all the cards is 5. The arithmetic mean of the numbers on card $Y$ and its three neighbours is 3. What is the number written on card $X$?
-> 
+>
 > (A) $-4$ \quad (B) 12 \quad (C) 0 \quad (D) 15 \quad (E) 10
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
@@ -513,16 +758,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cards on a table; mean of all is 5, mean of Y's neighbours is 3; find X.*
+
+> Six cards with numbers on one face are placed face-down on a table, arranged in a $2 \times 3$ grid. Cards $X$ and $Y$ are placed with the numbered face up. The arrangement is:
+> $$\begin{array}{|c|c|c|}\hline 8 & 2 & 4 \\ \hline X & 6 & Y \\ \hline \end{array}$$
+> The arithmetic mean of the numbers on all the cards is 5. The arithmetic mean of the numbers on card $Y$ and its three neighbours is 3. What is the number written on card $X$?
+> 
+> (A) $-4$ \quad (B) 12 \quad (C) 0 \quad (D) 15 \quad (E) 10
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Three ages related by fractions; find their sum.*
 
-> Rafael is $\dfrac{2}{3}$ of Roberto's age and is 2 years younger than Reinaldo. Roberto's age is $\dfrac{4}{3}$ of Reinaldo's age. In years, the sum of the three ages is:
-> 
+> Rafael tem $\dfrac{2}{3}$ da idade de Roberto e é 2 anos mais jovem que Reinaldo. A idade de Roberto representa $\dfrac{4}{3}$ da idade de Reinaldo. Em anos, a soma das idades dos três é:
+>
 > (A) 48 \quad (B) 72 \quad (C) 58 \quad (D) 60 \quad (E) 34
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -547,18 +810,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three ages related by fractions; find their sum.*
+
+> Rafael is $\dfrac{2}{3}$ of Roberto's age and is 2 years younger than Reinaldo. Roberto's age is $\dfrac{4}{3}$ of Reinaldo's age. In years, the sum of the three ages is:
+> 
+> (A) 48 \quad (B) 72 \quad (C) 58 \quad (D) 60 \quad (E) 34
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Balance scale with three apples and one 200g block; find total weight of apples.*
 
-> Marcos placed three apples on a two-pan balance scale. He has a single 200-gram block. Observing the balance, he notices: (i) the larger apple weighs as much as the other two apples together; (ii) the block and the smaller apple together weigh as much as the other two apples together; (iii) the smaller apple together with the medium apple weighs as much as the block. What is the total weight of the three apples?
-> 
-> (A) 250\,g \quad (B) 300\,g \quad (C) 350\,g \quad (D) 400\,g \quad (E) 450\,g
-
-![[src_obm_1999_n1_f1__Q16.png]]
+> Marcos quer pesar três maças numa balança de dois pratos, mas ele dispõe de apenas um bloco de 200 gramas. Observando o equilíbrio na balança, ele observa que a maçã maior tem o mesmo peso que as outras duas maçãs juntas; o bloco e a maçã menor pesam tanto quanto as outras duas maçãs juntas; a maçã maior junto com a menor pesam tanto quanto bloco. O peso total das três maçãs é:
+>
+> (A) $250\,\mathrm{g}$ \quad (B) $300\,\mathrm{g}$ \quad (C) $350\,\mathrm{g}$ \quad (D) $400\,\mathrm{g}$ \quad (E) $450\,\mathrm{g}$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -584,18 +862,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Balance scale with three apples and one 200g block; find total weight of apples.*
+
+> Marcos placed three apples on a two-pan balance scale. He has a single 200-gram block. Observing the balance, he notices: (i) the larger apple weighs as much as the other two apples together; (ii) the block and the smaller apple together weigh as much as the other two apples together; (iii) the smaller apple together with the medium apple weighs as much as the block. What is the total weight of the three apples?
+> 
+> (A) 250\,g \quad (B) 300\,g \quad (C) 350\,g \quad (D) 400\,g \quad (E) 450\,g
+
+![[src_obm_1999_n1_f1__Q16.png]]
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two right triangles and a rectangle assembled into a square; find side length.*
 
-> In the drawing alongside, two right triangles and a rectangle are represented with their measurements. By joining all these figures together, we can construct a square. What is the side length of this square?
-> 
+> No desenho ao lado estão representados quatro triângulos retângulos e um retângulo, bem como suas medidas. Juntando todas essas figuras, podemos construir um quadrado. O lado desse quadrado irá medir:
+>
 > (A) 88\,cm \quad (B) 100\,cm \quad (C) 60\,cm \quad (D) 96\,cm \quad (E) 80\,cm
-
-![[src_obm_1999_n1_f1__Q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -621,16 +916,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two right triangles and a rectangle assembled into a square; find side length.*
+
+> In the drawing alongside, two right triangles and a rectangle are represented with their measurements. By joining all these figures together, we can construct a square. What is the side length of this square?
+> 
+> (A) 88\,cm \quad (B) 100\,cm \quad (C) 60\,cm \quad (D) 96\,cm \quad (E) 80\,cm
+
+![[src_obm_1999_n1_f1__Q17.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Plate-rotation system bans each car twice per week Mon–Sat; find average days banned.*
 
-> In a certain city, the following vehicle licence-plate rotation system was adopted: twice a week, from Monday to Saturday, each car is prohibited from circulating according to the last digit of its plate number. On each day, one digit is prohibited from circulation. What is the average number of days per week that a given car is prohibited from circulating?
-> 
-> (A) 4 \quad (B) 1 \quad (C) 3 \quad (D) 2 \quad (E) indefinite
+> Numa certa cidade, foi adotado o seguinte sistema de rodízio de carros: duas vezes por semana, de segunda a sexta, cada carro fica proibido de circular, de acordo com o final de sua placa (algarismo das unidades). O número mêdio de finais de placa proibidos diferentes para cada dia de proibição é:
+>
+> (A) 4 \quad (B) 1 \quad (C) 3 \quad (D) 2 \quad (E) indefinido
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
@@ -654,15 +968,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Plate-rotation system bans each car twice per week Mon–Sat; find average days banned.*
+
+> In a certain city, the following vehicle licence-plate rotation system was adopted: twice a week, from Monday to Saturday, each car is prohibited from circulating according to the last digit of its plate number. On each day, one digit is prohibited from circulation. What is the average number of days per week that a given car is prohibited from circulating?
+> 
+> (A) 4 \quad (B) 1 \quad (C) 3 \quad (D) 2 \quad (E) indefinite
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *VCR records 150-min film on single tape switching from EP (6h) to SP (2h); find elapsed minutes at switch.*
 
-> Alexandre, consulting the film schedule, decided to record \emph{Contato}, whose duration is 150 minutes. To record the entire film on a single tape, he started recording at a slower speed (mode EP, which allows 6 hours of recording) and at some point switched to a faster speed (mode SP, which allows 2 hours of recording). The tape ended exactly at the end of the film. How many minutes elapsed from the start of the film to the moment the recording mode was changed?
-> 
+> Alexandre, consultando a programação de filmes, decidiu gravar Contato, cuja duração é de 150 minutos. Para gravar numa única fita, ele começou com velocidade menor (modo EP, que permite gravar 6 horas) e, num dado momento, mudou para a velocidade maior (modo SP, que permite gravar 2 horas), de forma que a fita acabou exatamente no fim do filme. Do início do filme até o momento da mudança do modo de gravação, quantos minutos se passaram?
+>
 > (A) 60 \quad (B) 30 \quad (C) 15 \quad (D) 45 \quad (E) 105
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -687,15 +1018,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*VCR records 150-min film on single tape switching from EP (6h) to SP (2h); find elapsed minutes at switch.*
+
+> Alexandre, consulting the film schedule, decided to record \emph{Contato}, whose duration is 150 minutes. To record the entire film on a single tape, he started recording at a slower speed (mode EP, which allows 6 hours of recording) and at some point switched to a faster speed (mode SP, which allows 2 hours of recording). The tape ended exactly at the end of the film. How many minutes elapsed from the start of the film to the moment the recording mode was changed?
+> 
+> (A) 60 \quad (B) 30 \quad (C) 15 \quad (D) 45 \quad (E) 105
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count positive integers whose last digit equals the number of digits of the number.*
 
-> You know that there exist 9 one-digit numbers, 90 two-digit numbers, 900 three-digit numbers, and so on. Consider every positive integer whose last digit equals the number of digits of that integer. For example, 9\,074 is one of them, since its last digit is 4 and it has 4 digits. How many such numbers exist?
-> 
+> Você sabe que existem 9 números de um algarismo, 90 números de dois algarismos, 900 números de três algarismos, etc. Considere agora cada número cujo último algarismo à direita representa o número de algarismos desse número. Por exemplo, o número 9\,074 é um deles, pois 4 é o número de seus algarismos. Quantos números desse tipo existem ?
+>
 > (A) 99\,999\,999 \quad (B) 99\,999\,992 \quad (C) 100\,000\,000 \quad (D) 10\,000\,000 \quad (E) 1\,000\,000\,000
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -719,3 +1067,21 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count positive integers whose last digit equals the number of digits of the number.*
+
+> You know that there exist 9 one-digit numbers, 90 two-digit numbers, 900 three-digit numbers, and so on. Consider every positive integer whose last digit equals the number of digits of that integer. For example, 9\,074 is one of them, since its last digit is 4 and it has 4 digits. How many such numbers exist?
+> 
+> (A) 99\,999\,999 \quad (B) 99\,999\,992 \quad (C) 100\,000\,000 \quad (D) 10\,000\,000 \quad (E) 1\,000\,000\,000
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)

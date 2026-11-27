@@ -12,16 +12,16 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Trapezoids formed by midpoints and vertices of a triangle; area ratios*
 
-> Points $X$, $Y$, $Z$ are the midpoints of sides $AB$, $BC$, and $AC$ of triangle $ABC$, respectively. Points $A'$, $B'$, $C'$ are on sides $XZ$, $XY$, and $YZ$ of triangle $XYZ$, respectively, such that $\frac{AB}{A'B'} = \frac{AC}{A'C'} = \frac{BC}{B'C'} = 2$. The quadrilaterals $ABB'A'$, $BCC'B'$, and $ACC'A'$ are trapezoids in which the sides of triangle $ABC$ are the bases.
-> 
-> a) Determine the ratio of the area of trapezoid $ABB'A'$ to the area of triangle $A'B'X$.
-> 
-> b) Determine the ratio of the area of triangle $XYZ$ to the area of triangle $ABC$.
+> Os pontos $X$, $Y$ e $Z$ estão marcados nos lados $AB$, $BC$ e $AC$ do triângulo $ABC$, respectivamente. Os pontos $A'$, $B'$ e $C'$ estão nos lados $XZ$, $XY$ e $YZ$ do triângulo $XYZ$, respectivamente, de modo que $\frac{AB}{A'B'} = \frac{AC}{A'C'} = \frac{BC}{B'C'} = 2$ e $ABB'A'$, $BCC'B'$ e $ACC'A'$ são trapézios em que os lados do triângulo $ABC$ são bases.
+>
+> a) Determine a razão entre a área do trapézio $ABB'A'$ e a área do triângulo $A'B'X$.
+>
+> b) Determine a razão entre a área do triângulo $XYZ$ e a área do triângulo $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -48,19 +48,38 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trapezoids formed by midpoints and vertices of a triangle; area ratios*
+
+> Points $X$, $Y$, $Z$ are the midpoints of sides $AB$, $BC$, and $AC$ of triangle $ABC$, respectively. Points $A'$, $B'$, $C'$ are on sides $XZ$, $XY$, and $YZ$ of triangle $XYZ$, respectively, such that $\frac{AB}{A'B'} = \frac{AC}{A'C'} = \frac{BC}{B'C'} = 2$. The quadrilaterals $ABB'A'$, $BCC'B'$, and $ACC'A'$ are trapezoids in which the sides of triangle $ABC$ are the bases.
+> 
+> a) Determine the ratio of the area of trapezoid $ABB'A'$ to the area of triangle $A'B'X$.
+> 
+> b) Determine the ratio of the area of triangle $XYZ$ to the area of triangle $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Real equation in x,y,z; prove C=-1 and find solution*
 
-> We know that $C$ is a real number and $x$, $y$, $z$ are distinct nonzero real numbers satisfying:
-> $$x + \frac{y}{z} = y + \frac{z}{x} = z + \frac{x}{y} = C.$$
-> 
-> a) Show that $C = -1$.
-> 
-> b) Find at least one solution $(x, y, z)$ for the given equation.
+> Sabemos que o número real $C$ e números reais não-nulos $x$, $y$ e $z$, dois a dois distintos, satisfazem:
+> $$x + \frac{y}{z} + \frac{z}{y} = y + \frac{z}{x} + \frac{x}{z} = z + \frac{x}{y} + \frac{y}{x} = C.$$
+>
+> a) Mostre que $C = -1$;
+>
+> b) Exiba pelo menos uma solução $(x, y, z)$ para a equação dada.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
@@ -88,14 +107,34 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Real equation in x,y,z; prove C=-1 and find solution*
+
+> We know that $C$ is a real number and $x$, $y$, $z$ are distinct nonzero real numbers satisfying:
+> $$x + \frac{y}{z} = y + \frac{z}{x} = z + \frac{x}{y} = C.$$
+> 
+> a) Show that $C = -1$.
+> 
+> b) Find at least one solution $(x, y, z)$ for the given equation.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *n×n table with black/white cells; row and column each contain different counts*
 
-> Let $n > 1$ be a positive integer. Consider an $n \times n$ table in which some of the $n^2$ cells are painted black and the remaining cells are painted white. Prove that it is possible to choose $(n-1)^2$ cells from the table such that, after removing the row and column containing each chosen cell, the number of black cells and white cells remaining is different.
+> Seja $n > 1$ um inteiro e considere um tabuleiro $n \times n$, em que algumas das $n^2$ casas foram pintadas de preto, e as restantes foram pintadas de branco. Prove que é possível escolhermos uma das $n^2$ casas do tabuleiro, de modo que, ao removermos completamente a linha e a coluna que a contém, haja um número diferente de casas pretas e de casas brancas, dentre as $(n-1)^2$ casas restantes.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -118,22 +157,36 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*n×n table with black/white cells; row and column each contain different counts*
+
+> Let $n > 1$ be a positive integer. Consider an $n \times n$ table in which some of the $n^2$ cells are painted black and the remaining cells are painted white. Prove that it is possible to choose $(n-1)^2$ cells from the table such that, after removing the row and column containing each chosen cell, the number of black cells and white cells remaining is different.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_bigezione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Imps' number system (odd digits only); counting and multiplication in Imp language*
 
-> In the Land of the Imps, only odd digits are used to write numbers. So instead of the digits $0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, the Imps use the corresponding numbers $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, 35, \ldots$ (note that the Imp numbers use only the odd digits $1, 3, 5, 7, 9$). For example, if a child is $11$ years old, the Imps would say she is $31$ years old.
-> 
-> a) How do the Imps write the number $207$?
-> 
-> b) In a school, a teacher wrote on the board the multiplication table below. If you were an Imp student, what would you write as the result?
+> Na Terra dos Impas, somente os algarismos ímpares são utilizados para contar e escrever números. Assim, em vez dos números $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ os Impas têm os números correspondentes $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, \ldots$ (note que os números dos Impas têm somente algarismos ímpares). Por exemplo, se uma criança tem $11$ anos, os Impas diriam que ela tem $31$ anos.
+>
+> a) Como os Impas escrevem o nosso número $20$?
+>
+> b) Numa escola desse lugar, a professora escreveu no quadro-negro a continha de multiplicar abaixo. Se você fosse um aluno Impa, o que escreveria como resultado?
 > $$13 \times 5$$
-> 
-> c) Write, in the Imp language, the number whose standard decimal representation is $2017$.
+>
+> c) Escreva, na linguagem dos Impas, o número que na nossa representação decimal é escrito como $2017$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_bigezione|Biiezione]], [[method_congruenze|Congruenze]]
@@ -163,21 +216,42 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Imps' number system (odd digits only); counting and multiplication in Imp language*
+
+> In the Land of the Imps, only odd digits are used to write numbers. So instead of the digits $0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, the Imps use the corresponding numbers $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, 35, \ldots$ (note that the Imp numbers use only the odd digits $1, 3, 5, 7, 9$). For example, if a child is $11$ years old, the Imps would say she is $31$ years old.
+> 
+> a) How do the Imps write the number $207$?
+> 
+> b) In a school, a teacher wrote on the board the multiplication table below. If you were an Imp student, what would you write as the result?
+> $$13 \times 5$$
+> 
+> c) Write, in the Imp language, the number whose standard decimal representation is $2017$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Incenter and circumcircle intersections; collinearity and concyclicity*
 
-> In triangle $ABC$ with $AB \neq AC$, let $I$ be its incenter. Points $P$ and $Q$ are defined as the points where the circumcircle of triangle $BCI$ intersects lines $AB$ and $AC$ again, respectively. Let $D$ be the intersection of lines $AI$ and $BC$.
-> 
-> a) Prove that $P$, $Q$, and $D$ are collinear.
-> 
-> b) Let $T$ be the point of intersection of the circumcircles of triangles $PDB$ and $QDC$; prove that $T$ lies on the circumcircle of triangle $ABC$.
-> 
-> *Observation: The incenter of a triangle is the intersection of its internal angle bisectors, and the circumcircle is the circle passing through all three vertices.*
+> No triângulo $ABC$, com $AB \neq AC$, seja $I$ seu incentro. Os pontos $P$ e $Q$ são definidos como os pontos onde o circuncírculo do triângulo $BCI$ intersecta novamente as retas $AB$ e $AC$, respectivamente. Seja $D$ o ponto de intersecção de $AI$ e $BC$.
+>
+> a) Prove que $P$, $Q$ e $D$ são colineares;
+>
+> b) Sendo $T$, diferente de $P$, o ponto de encontro dos circuncírculos dos triângulos $PDB$ e $QDC$, prove que $T$ está no circuncírculo do triângulo $ABC$.
+>
+> Observação: O Incentro de um triângulo é o ponto de intersecção de suas bissetrizes internas e o Circuncírculo de um triângulo é a circunferência que passa pelos seus três vértices.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -206,14 +280,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Incenter and circumcircle intersections; collinearity and concyclicity*
+
+> In triangle $ABC$ with $AB \neq AC$, let $I$ be its incenter. Points $P$ and $Q$ are defined as the points where the circumcircle of triangle $BCI$ intersects lines $AB$ and $AC$ again, respectively. Let $D$ be the intersection of lines $AI$ and $BC$.
+> 
+> a) Prove that $P$, $Q$, and $D$ are collinear.
+> 
+> b) Let $T$ be the point of intersection of the circumcircles of triangles $PDB$ and $QDC$; prove that $T$ lies on the circumcircle of triangle $ABC$.
+> 
+> *Observation: The incenter of a triangle is the intersection of its internal angle bisectors, and the circumcircle is the circle passing through all three vertices.*
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *For all positive integers n, a^n + 2017b^n has more distinct prime factors than n*
 
-> Prove that for every positive integer $n$, there exist positive integers $a$ and $b$, with $\gcd(a, b) = 1$, such that $a^n + 2017b^n$ has more than $n$ distinct prime factors.
+> Demonstre que, para todo $n$ inteiro positivo, existem inteiros positivos $a$ e $b$, sem fatores primos em comum, de modo que $a^2 + 2017b^2$ possui mais de $n$ fatores primos distintos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -234,3 +329,17 @@ level: OBM Nível 2
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*For all positive integers n, a^n + 2017b^n has more distinct prime factors than n*
+
+> Prove that for every positive integer $n$, there exist positive integers $a$ and $b$, with $\gcd(a, b) = 1$, such that $a^n + 2017b^n$ has more than $n$ distinct prime factors.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)

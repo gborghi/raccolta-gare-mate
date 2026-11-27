@@ -12,12 +12,12 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find angle BFC in right triangle with bisector and perpendicular conditions*
 
-> Let $ABC$ be a right triangle and $D$ a point on $BC$ such that $AD \perp BC$. The bisector of angle $\angle DAC$ meets segment $DC$ at $E$. Let $F$ be the point on line $AE$ such that $BF \perp AE$. Given that $\angle BAE = 45^\circ$, find the measure of $\angle BFC$.
+> Seja $ABC$ um triângulo acutângulo, e $D$ um ponto sobre $BC$ tal que $AD$ é perpendicular a $BC$. A bissetriz do ângulo $\angle DAC$ intersecta o segmento $DC$ em $E$. Seja $F$ o ponto sobre a reta $AE$ tal que $BF$ é perpendicular a $AE$. Se $\angle BAE = 45^\circ$, calcule a medida do ângulo $\angle BFC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -40,19 +40,33 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find angle BFC in right triangle with bisector and perpendicular conditions*
+
+> Let $ABC$ be a right triangle and $D$ a point on $BC$ such that $AD \perp BC$. The bisector of angle $\angle DAC$ meets segment $DC$ at $E$. Let $F$ be the point on line $AE$ such that $BF \perp AE$. Given that $\angle BAE = 45^\circ$, find the measure of $\angle BFC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all equations on a blackboard where erased digits give two integer solutions*
 
-> On a blackboard the following text is found:
-> 
-> $$x^2 - 824x + \blacksquare 43 = 0 \text{ has two integer solutions.}$$
-> 
-> Here $\blacksquare$ represents some number of digits that have been erased from the blackboard. What are all the possible equations that were originally written on the blackboard?
+> Em uma lousa encontra-se o seguinte texto:
+>
+> A equação $x^2 - 824x + \blacksquare 43 = 0$ possui duas soluções inteiras.
+>
+> Onde $\blacksquare$ representa alguma quantidade de algarismos de um número que está borrada na lousa. Quais são as possíveis equações originalmente na lousa?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -79,22 +93,38 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all equations on a blackboard where erased digits give two integer solutions*
+
+> On a blackboard the following text is found:
+> 
+> $$x^2 - 824x + \blacksquare 43 = 0 \text{ has two integer solutions.}$$
+> 
+> Here $\blacksquare$ represents some number of digits that have been erased from the blackboard. What are all the possible equations that were originally written on the blackboard?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_backward,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find smallest x_1 so that an infinite integer sequence contains 2020*
 
-> Consider an infinite sequence $x_1, x_2, \ldots$ of positive integers such that, for every integer $n \ge 1$:
-> 
-> \begin{itemize}
-> \item If $x_n$ is even, then $x_{n+1} = \dfrac{x_n}{2}$.
-> \item If $x_n$ is odd, then $x_{n+1} = \dfrac{x_n - 1}{2} + 2^{k-1}$, where $k$ is the integer such that $2^{k-1} \le x_n < 2^k$.
-> \end{itemize}
-> 
-> Find the smallest possible value of $x_1$ for which the sequence contains some term equal to $2020$.
+> Consideremos uma sequência infinita $x_1, x_2, \ldots$ de números inteiros positivos tais que, para todo inteiro $n \ge 1$:
+>
+> - Se $x_n$ é par, então $x_{n+1} = \dfrac{x_n}{2}$.
+> - Se $x_n$ é ímpar, então $x_{n+1} = \dfrac{x_n - 1}{2} + 2^{k-1}$, onde $k$ é o inteiro tal que $2^{k-1} \le x_n < 2^k$.
+>
+> Determine o menor valor possível de $x_1$ para o qual a sequência contenha algum termo igual a $2020$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
@@ -123,19 +153,40 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find smallest x_1 so that an infinite integer sequence contains 2020*
+
+> Consider an infinite sequence $x_1, x_2, \ldots$ of positive integers such that, for every integer $n \ge 1$:
+> 
+> \begin{itemize}
+> \item If $x_n$ is even, then $x_{n+1} = \dfrac{x_n}{2}$.
+> \item If $x_n$ is odd, then $x_{n+1} = \dfrac{x_n - 1}{2} + 2^{k-1}$, where $k$ is the integer such that $2^{k-1} \le x_n < 2^k$.
+> \end{itemize}
+> 
+> Find the smallest possible value of $x_1$ for which the sequence contains some term equal to $2020$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 4-digit supercylindrical numbers*
 
-> A positive integer is called \textit{cylindrical} if its first and last decimal digits are equal and both are nonzero. For example, $4$ and $4104$ are cylindrical (since their first and last digits are equal and nonzero), but $10$ is not cylindrical since its last digit is $0$.
-> 
-> A positive integer is called \textit{supercylindrical} if it can be written as the sum of two cylindrical numbers. For example, $101 = 99 + 2$ and $22 = 11 + 11$ are supercylindrical, but $561 = 484 + 77$ is not supercylindrical since $484$ is not cylindrical.
-> 
-> How many $4$-digit numbers are supercylindrical?
+> Um número inteiro positivo é dito cilíndrico se o primeiro algarismo e o último algarismo de sua representação decimal são iguais. Por exemplo, $4$ e $4104$ são cilíndricos, pois os seus primeiros e últimos algarismos são $4$, mas $10$ não é cilíndrico, pois o seu primeiro algarismo é $1$, enquanto o seu último algarismo é $0$.
+>
+> Um número cilíndrico é dito supercilíndrico se pode ser escrito como a soma de dois números cilíndricos. Por exemplo $101 = 99 + 2$ e $22 = 11 + 11$ são supercilíndricos, mas $561 = 484 + 77$ não é supercilíndrico, pois não é cilíndrico.
+>
+> Quantos números de $4$ algarismos são supercilíndricos?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -162,14 +213,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 4-digit supercylindrical numbers*
+
+> A positive integer is called \textit{cylindrical} if its first and last decimal digits are equal and both are nonzero. For example, $4$ and $4104$ are cylindrical (since their first and last digits are equal and nonzero), but $10$ is not cylindrical since its last digit is $0$.
+> 
+> A positive integer is called \textit{supercylindrical} if it can be written as the sum of two cylindrical numbers. For example, $101 = 99 + 2$ and $22 = 11 + 11$ are supercylindrical, but $561 = 484 + 77$ is not supercylindrical since $484$ is not cylindrical.
+> 
+> How many $4$-digit numbers are supercylindrical?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove angle equality using circumcircles of two triangles in acute triangle*
 
-> Let $ABC$ be an acute triangle with circumcenter $O$. Let $M$ be the midpoint of $AB$ and $K \ne C$ the second intersection point of the circumcircles of triangles $ACK$ and $OMB$. The lines $CK$ and $OM$ meet at $P$. Prove that $\angle KAP = \angle MCB$.
+> Seja $ABC$ um triângulo acutângulo de circuncentro $O$. Seja $M$ o ponto médio de $AB$ e $K \ne C$ o segundo ponto de interseção dos circuncírculos dos triângulos $ABC$ e $CMO$. As retas $CK$ e $OM$ encontram-se em $P$. Prove que $\angle KAP = \angle MCB$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -192,16 +262,29 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove angle equality using circumcircles of two triangles in acute triangle*
+
+> Let $ABC$ be an acute triangle with circumcenter $O$. Let $M$ be the midpoint of $AB$ and $K \ne C$ the second intersection point of the circumcircles of triangles $ACK$ and $OMB$. The lines $CK$ and $OM$ meet at $P$. Prove that $\angle KAP = \angle MCB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,method_casework,skill_astrazione,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find k for which Arnaldo wins a 2020x2020 coloring board game*
 
-> Let $k$ be a positive integer. Arnaldo and Bernaldo play a game on a $2020 \times 2020$ board. Initially all cells of the board are empty. A move consists of choosing an empty cell and placing either a blue or a red token on it. Bernaldo wins if at any moment there exist $k$ consecutive cells in the same row or column all filled with tokens of the same color. Arnaldo goes first, and from then on the players alternate. Arnaldo wins if at some point the entire board is filled without Bernaldo winning.
-> 
-> Find all values of $k$ for which Arnaldo has a winning strategy.
+> Seja $k$ um número inteiro positivo. Arnaldo e Bernaldo jogam um jogo em um tabuleiro $2020 \times 2020$. Inicialmente todas as casas do tabuleiro estão vazias. Uma jogada consiste em escolher uma casa vazia e colocar nesta uma ficha azul ou uma ficha vermelha. Arnaldo vence o jogo se em algum momento existirem $k$ casas consecutivas em uma mesma linha ou coluna preenchidas com fichas de uma mesma cor. Bernaldo vence se todo o tabuleiro é preenchido sem que Arnaldo vença. Arnaldo é o primeiro a jogar e, a partir de então, cada jogador joga alternadamente. Quais são os valores de $k$ para os quais Arnaldo tem uma estratégia vencedora?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -224,3 +307,19 @@ level: OBM Nível 2
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find k for which Arnaldo wins a 2020x2020 coloring board game*
+
+> Let $k$ be a positive integer. Arnaldo and Bernaldo play a game on a $2020 \times 2020$ board. Initially all cells of the board are empty. A move consists of choosing an empty cell and placing either a blue or a red token on it. Bernaldo wins if at any moment there exist $k$ consecutive cells in the same row or column all filled with tokens of the same color. Arnaldo goes first, and from then on the players alternate. Arnaldo wins if at some point the entire board is filled without Bernaldo winning.
+> 
+> Find all values of $k$ for which Arnaldo has a winning strategy.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)

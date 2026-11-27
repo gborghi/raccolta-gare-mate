@@ -12,12 +12,12 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Fifteen students eat ice cream in groups of three each evening; every pair eats together exactly once; find how many days the camp lasted.*
 
-> Fifteen students take part in a mathematics camp. Each evening, three of them go to eat an ice cream. At the end of the camp, it turns out that any two students have always gone to eat an ice cream at the same time exactly once. How many days did the camp last? Justify your answer.
+> Quinze élèves participent à un stage de mathématiques. Chaque soir, trois d'entre elles vont manger une glace. À la fin du stage, il se trouve que deux élèves quelconques sont toujours allées manger une glace en même temps une et une seule fois. Combien de jours le stage a-t-il duré ? Justifiez votre réponse.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -41,15 +41,30 @@ level: Coupe Animath Automne
 **Risposta:** 35
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fifteen students eat ice cream in groups of three each evening; every pair eats together exactly once; find how many days the camp lasted.*
+
+> Fifteen students take part in a mathematics camp. Each evening, three of them go to eat an ice cream. At the end of the camp, it turns out that any two students have always gone to eat an ice cream at the same time exactly once. How many days did the camp last? Justify your answer.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 35
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Three digits x>y>z>0; sum of the six three-digit permutations equals 4884; find the possible numbers xyz.*
 
-> We take three digits $x, y, z$ such that $x > y > z > 0$. By taking the sum of the six three-digit numbers obtained by permuting these $3$ digits, one finds $4884$ (for example, if $x = 3$, $y = 2$ and $z = 1$ one finds $321 + 312 + 213 + 231 + 123 + 132 = 1332$). What are the possible values of the number formed by the three digits $x, y, z$ (taken in this order)? Justify your answer.
+> On prend trois chiffres $x$, $y$, $z$ tels que $x > y > z > 0$. En faisant la somme des six nombres à trois chiffres obtenus en permutant ces $3$ chiffres on trouve $4884$ (par exemple, si $x = 3$, $y = 2$ et $z = 1$ on aurait trouvé $321 + 312 + 213 + 231 + 123 + 132 = 1332$). Quelles sont les valeurs possibles du nombre formé par les trois chiffres $x$, $y$, $z$ (pris dans cet ordre) ? Justifiez votre réponse.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -71,21 +86,33 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three digits x>y>z>0; sum of the six three-digit permutations equals 4884; find the possible numbers xyz.*
+
+> We take three digits $x, y, z$ such that $x > y > z > 0$. By taking the sum of the six three-digit numbers obtained by permuting these $3$ digits, one finds $4884$ (for example, if $x = 3$, $y = 2$ and $z = 1$ one finds $321 + 312 + 213 + 231 + 123 + 132 = 1332$). What are the possible values of the number formed by the three digits $x, y, z$ (taken in this order)? Justify your answer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Hexagon ABCDEF with rectangle BCEF and given equal sides; its area equals that of a rectangle with consecutive sides a and 36; find a^2.*
 
-> In the figure below, $AB = AF = CD = DE = 18$, $BC = EF = a$ and $BF = 24$. Moreover, the quadrilateral $BCEF$ is a rectangle.
-> 
-> We assume that the area of the hexagon $ABCDEF$ is equal to the area of a rectangle two of whose consecutive sides have length $a$ and $36$. Find $a^2$. Justify your answer.
-> 
-> **Note.** One may use the Pythagorean theorem, which states as follows. If $XYZ$ is a right triangle at $X$, then $XY^2 + XZ^2 = YZ^2$.
-
-![[src_canimath_2015_automne__Q03.png]]
+> Dans la figure ci-dessous, $AB = AF = CD = DE = 18$, $BC = EF = a$ et $BF = 24$. Par ailleurs, le quadrilatère $BCEF$ est un rectangle.
+>
+> On suppose que l'aire de l'hexagone $ABCDEF$ est égale à l'aire d'un rectangle dont deux côtés qui se suivent ont pour longueur $a$ et $36$. Trouver $a^2$. Justifiez votre réponse.
+>
+> **Note.** On pourra utiliser le théorème de Pythagore, qui s'énonce comme suit. Si $XYZ$ est un triangle rectangle en $X$, alors $XY^2 + XZ^2 = YZ^2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -113,17 +140,37 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Hexagon ABCDEF with rectangle BCEF and given equal sides; its area equals that of a rectangle with consecutive sides a and 36; find a^2.*
+
+> In the figure below, $AB = AF = CD = DE = 18$, $BC = EF = a$ and $BF = 24$. Moreover, the quadrilateral $BCEF$ is a rectangle.
+> 
+> We assume that the area of the hexagon $ABCDEF$ is equal to the area of a rectangle two of whose consecutive sides have length $a$ and $36$. Find $a^2$. Justify your answer.
+> 
+> **Note.** One may use the Pythagorean theorem, which states as follows. If $XYZ$ is a right triangle at $X$, then $XY^2 + XZ^2 = YZ^2$.
+
+![[src_canimath_2015_automne__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *A positive integer k on the board may be replaced by a+b where ab=k; starting from n, determine the smallest number reachable after finitely many replacements.*
 
-> For every strictly positive integer $k$, if $k$ is written on the board, one may erase it and replace it by the number $a + b$, provided that $a$ and $b$ are strictly positive integers such that $ab = k$ (for example, it is possible to replace $20$ by $12$, since $12 = 2 + 10$ and $20 = 2 \times 10$).
-> 
-> Initially, the integer $n > 0$ is written on the board. Determine, according to the values of $n$, the smallest number that it is possible to write on the board after a finite number of replacements (possibly none).
+> Pour tout entier strictement positif $k$, si $k$ est inscrit au tableau, on peut l'effacer et le remplacer par le nombre $a + b$, du moment que $a$ et $b$ sont des entiers strictement positifs tels que $ab = k$ (par exemple, il est possible de remplacer $20$ par $12$, car $12 = 2 + 10$ et $20 = 2 \times 10$).
+>
+> Initialement, on a inscrit l'entier $n > 0$ au tableau. Déterminer, selon les valeurs de $n$, le plus petit nombre qu'il est possible d'écrire au tableau après un nombre fini de remplacements (éventuellement aucun).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -147,19 +194,35 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A positive integer k on the board may be replaced by a+b where ab=k; starting from n, determine the smallest number reachable after finitely many replacements.*
+
+> For every strictly positive integer $k$, if $k$ is written on the board, one may erase it and replace it by the number $a + b$, provided that $a$ and $b$ are strictly positive integers such that $ab = k$ (for example, it is possible to replace $20$ by $12$, since $12 = 2 + 10$ and $20 = 2 \times 10$).
+> 
+> Initially, the integer $n > 0$ is written on the board. Determine, according to the values of $n$, the smallest number that it is possible to write on the board after a finite number of replacements (possibly none).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *For n>=2 numbers a_i in [-1/2,1/2], removing any single one leaves an integer sum; prove all equal when n even, and ask whether forced when n odd.*
 
-> We fix an integer $n \ge 2$ and consider numbers $a_1, \ldots, a_n$ such that $-\frac{1}{2} \le a_i \le \frac{1}{2}$ for all $1 \le i \le n$. We assume that one can remove any one of these numbers, the sum of the other $n-1$ always being a relative integer.
-> 
-> (1) If $n$ is even, show that $a_1 = a_2 = \cdots = a_n$.
-> 
-> (2) If $n$ is odd, does one always have $a_1 = a_2 = \cdots = a_n$?
+> On fixe un nombre entier $n \ge 2$ et on considère des nombres $a_1, \ldots, a_n$ tels que $-\dfrac{1}{2} \le a_i \le \dfrac{1}{2}$ pour tout $1 \le i \le n$. On suppose que si on retire n'importe lequel de ces nombres, la somme des $n - 1$ autres est toujours un nombre entier relatif.
+>
+> (1) Si $n$ est pair, montrer que $a_1 = a_2 = \cdots = a_n$.
+>
+> (2) Si $n$ est impair, a-t-on toujours $a_1 = a_2 = \cdots = a_n$ ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -185,15 +248,33 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*For n>=2 numbers a_i in [-1/2,1/2], removing any single one leaves an integer sum; prove all equal when n even, and ask whether forced when n odd.*
+
+> We fix an integer $n \ge 2$ and consider numbers $a_1, \ldots, a_n$ such that $-\frac{1}{2} \le a_i \le \frac{1}{2}$ for all $1 \le i \le n$. We assume that one can remove any one of these numbers, the sum of the other $n-1$ always being a relative integer.
+> 
+> (1) If $n$ is even, show that $a_1 = a_2 = \cdots = a_n$.
+> 
+> (2) If $n$ is odd, does one always have $a_1 = a_2 = \cdots = a_n$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_casework,method_fattorizzazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Students sit so that a square arrangement leaves 5 over, while a rectangle of 7 more rows than columns seats everyone exactly; find the largest possible number of students.*
 
-> A certain number of students take a mathematics test. If one arranges the tables to form a square, there will be $5$ students who have no seat. On the other hand, if one forms a rectangle with $7$ more rows than columns, all the students will have a seat (and there will be no empty seat). What is the largest possible number of students? Justify your answer.
+> Un certain nombre d'élèves passent une épreuve de mathématiques. Si on dispose les tables pour former un carré, il y aura $5$ élèves qui n'auront pas de place. Par contre, si on forme un rectangle avec $7$ rangées de plus que de colonnes, tous les élèves auront une place (et il n'y aura pas de place vide). Quel est le plus grand nombre d'élèves possible ? Justifiez votre réponse.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -215,10 +296,51 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Students sit so that a square arrangement leaves 5 over, while a rectangle of 7 more rows than columns seats everyone exactly; find the largest possible number of students.*
+
+> A certain number of students take a mathematics test. If one arranges the tables to form a square, there will be $5$ students who have no seat. On the other hand, if one forms a rectangle with $7$ more rows than columns, all the students will have a seat (and there will be no empty seat). What is the largest possible number of students? Justify your answer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Each side of a unit square is divided into 3 equal parts; lines drawn from the division points create a grey polygon; find its area.*
+
+> Chaque côté d'un carré unité est partagé en $3$ segments égaux. On trace la figure ci-dessous à partir de ce partage. Quelle est l'aire du polygône grisé ? Justifiez votre réponse.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Ogni lato di un quadrato unitario è diviso in tre parti uguali; le rette tracciate dai punti di divisione formano un poligono grigio: determinarne l'area.*
+> Ogni lato di un quadrato unitario è diviso in segmenti uguali $3$. Si tratti la figura di seguito da questa partizione. Qual è l'area del poligono grigio? Giustifica la tua risposta.
+
+![[src_canimath_2015_automne__Q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Each side of a unit square is divided into 3 equal parts; lines drawn from the division points create a grey polygon; find its area.*
@@ -234,32 +356,17 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Ogni lato di un quadrato unitario è diviso in 3 parti uguali; le linee tracciate dai punti di divisione creano un poligono grigio; trova la sua superficie.*
-
-> Ogni lato di un quadrato unitario è diviso in segmenti uguali $3$. Si tratti la figura di seguito da questa partizione. Qual è l'area del poligono grigio? Giustifica la tua risposta.
-
-![[src_canimath_2015_automne__Q07.png]]
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Sequence a_1=1, a_2=7, a_{n+2}=(a_{n+1}^2-1)/a_n; prove 9 a_n a_{n+1}+1 is a perfect square for all n>=1.*
 
-> We consider a sequence of real numbers $a_1, a_2, a_3, \ldots$ such that $a_1 = 1$, $a_2 = 7$ and
-> $$a_{n+2} = \frac{a_{n+1}^2 - 1}{a_n} \quad \text{for all } n \ge 1.$$
-> For example, $a_3 = \frac{7^2 - 1}{1} = 48$. Show that $9 a_n a_{n+1} + 1$ is the square of an integer for every integer $n \ge 1$.
+> On considère une suite de nombres réels $a_1, a_2, a_3, \ldots$ tels que $a_1 = 1$, $a_2 = 7$ et
+> $$a_{n+2} = \frac{a_{n+1}^2 - 1}{a_n} \quad \text{pour tout } n \ge 1.$$
+> Par exemple, $a_3 = \dfrac{7^2 - 1}{1} = 48$. Montrer que $9a_n a_{n+1} + 1$ est le carré d'un nombre entier pour tout entier $n \ge 1$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
@@ -279,3 +386,19 @@ level: Coupe Animath Automne
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence a_1=1, a_2=7, a_{n+2}=(a_{n+1}^2-1)/a_n; prove 9 a_n a_{n+1}+1 is a perfect square for all n>=1.*
+
+> We consider a sequence of real numbers $a_1, a_2, a_3, \ldots$ such that $a_1 = 1$, $a_2 = 7$ and
+> $$a_{n+2} = \frac{a_{n+1}^2 - 1}{a_n} \quad \text{for all } n \ge 1.$$
+> For example, $a_3 = \frac{7^2 - 1}{1} = 48$. Show that $9 a_n a_{n+1} + 1$ is the square of an integer for every integer $n \ge 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)

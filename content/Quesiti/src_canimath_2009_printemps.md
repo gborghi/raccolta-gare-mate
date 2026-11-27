@@ -12,16 +12,24 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_solida,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find width of ribbon wrapped diagonally around rectangular box*
 
-> A ribbon is stretched over a rectangular box as shown in the figure below. The box has dimensions $5 \times 3$ (length and height visible), with a diagonal strip of width $x$ and a segment of length $4.2$ indicated.
-> 
-> Calculate the width $x$ of the ribbon.
-
-![[src_canimath_2009_printemps__Q02.png]]
+> On a tendu un ruban sur une boîte rectangulaire comme sur la figure ci-dessous :
+>
+> $0{,}7$
+>
+> $4{,}2$
+>
+> $x$
+>
+> $3$
+>
+> $5$
+>
+> Calculer la largeur $x$ du ruban.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -47,17 +55,35 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find width of ribbon wrapped diagonally around rectangular box*
+
+> A ribbon is stretched over a rectangular box as shown in the figure below. The box has dimensions $5 \times 3$ (length and height visible), with a diagonal strip of width $x$ and a segment of length $4.2$ indicated.
+> 
+> Calculate the width $x$ of the ribbon.
+
+![[src_canimath_2009_printemps__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Two-digit numbers: always choose two with distinct units and tens digits*
 
-> a) Consider 11 distinct two-digit numbers. Prove that one can always choose two of them that have distinct units digits and distinct tens digits.
-> 
-> b) Consider 41 distinct two-digit numbers. Prove that one can always choose five of them such that any two of the five have distinct units digits and distinct tens digits.
+> a) On considère 11 nombres distincts à deux chiffres. Prouver qu’on peut toujours en choisir deux d’entre eux qui aient des chiffres des unités distincts, et des chiffres des dizaines distincts.
+>
+> b) On considère 41 nombres distincts à deux chiffres. Prouver qu’on peut toujours en choisir cinq d’entre eux tels que deux quelconques parmi ces cinq aient des chiffres des unités distincts, et des chiffres des dizaines distincts.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
@@ -81,15 +107,31 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two-digit numbers: always choose two with distinct units and tens digits*
+
+> a) Consider 11 distinct two-digit numbers. Prove that one can always choose two of them that have distinct units digits and distinct tens digits.
+> 
+> b) Consider 41 distinct two-digit numbers. Prove that one can always choose five of them such that any two of the five have distinct units digits and distinct tens digits.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_invarianti,method_grafi,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *At a party every guest shakes hands with exactly 7 others; prove even number of guests*
 
-> At a New Year's Eve party at my grandparents' home, every guest shook hands with exactly 7 other guests, and kissed all the others on the cheek. Prove that the number of guests is even.
+> Lors de la soirée du nouvel an chez mes grands parents, chaque convive a serré la main d’exactement 7 autres, et a fait la bise à tous les autres. Montrer que le nombre de convives était pair.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_grafi|Graph theory]]
@@ -111,17 +153,31 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*At a party every guest shakes hands with exactly 7 others; prove even number of guests*
+
+> At a New Year's Eve party at my grandparents' home, every guest shook hands with exactly 7 other guests, and kissed all the others on the cheek. Prove that the number of guests is even.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Four coins touching in sequence; prove angle ABC + angle CDA = 180 degrees*
 
-> Four coins of values $2\,\text{€}$, $1\,\text{€}$, $2\,\text{centimes}$, and $1\,\text{centime}$ lie on a table without overlapping. The $2\,\text{€}$ coin touches the $1\,\text{€}$ coin at point $A$, the $1\,\text{€}$ coin touches the $2\,\text{centime}$ coin at point $B$, the $2\,\text{centime}$ coin touches the $1\,\text{centime}$ coin at point $C$, and the $1\,\text{centime}$ coin touches the $2\,\text{€}$ coin at point $D$.
-> 
-> Prove that $\angle ABC + \angle CDA = 180^\circ$.
+> Quatre pièces de monnaie, à savoir $2\,\text{€}$, $1\,\text{€}$, $2\,\text{centimes}$ et $1\,\text{centime}$ sont sur une table sans chevauchement. La pièce de $2\,\text{€}$ touche la pièce de $1\,\text{€}$ en $A$, la pièce de $1\,\text{€}$ touche la pièce de $2\,\text{centimes}$ en $B$, la pièce de $2\,\text{centimes}$ touche la pièce de $1\,\text{centime}$ en $C$ et la pièce de $1\,\text{centime}$ touche la pièce de $2\,\text{€}$ en $D$.
+>
+> Montrer que $\widehat{ABC}+\widehat{CDA}=180°$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -145,22 +201,41 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four coins touching in sequence; prove angle ABC + angle CDA = 180 degrees*
+
+> Four coins of values $2\,\text{€}$, $1\,\text{€}$, $2\,\text{centimes}$, and $1\,\text{centime}$ lie on a table without overlapping. The $2\,\text{€}$ coin touches the $1\,\text{€}$ coin at point $A$, the $1\,\text{€}$ coin touches the $2\,\text{centime}$ coin at point $B$, the $2\,\text{centime}$ coin touches the $1\,\text{centime}$ coin at point $C$, and the $1\,\text{centime}$ coin touches the $2\,\text{€}$ coin at point $D$.
+> 
+> Prove that $\angle ABC + \angle CDA = 180^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Prove chain of inequalities among four classical means of two positive reals*
 
-> Let $x$ and $y$ be strictly positive real numbers with $0 < x < y$. Define:
+> Soient $x$ et $y$ des nombres réels strictement positifs, avec $0 < x < y$. On pose :
 > $$H = \frac{2xy}{x+y}, \quad G = \sqrt{xy}, \quad A = \frac{x+y}{2}, \quad Q = \sqrt{\frac{x^2+y^2}{2}}.$$
-> Prove that:
+> Montrer que :
+>
 > a) $0 < G - H$
-> b) $Q \ge G < 2A$ (i.e.\ $G \le Q$ and $G < 2A$)
+>
+> b) $Q + G < 2A$
+>
 > c) $G - H < Q - A$
-> 
-> (In summary: $0 < G - H < Q - A \le A - G$.)
+>
+> (soit en définitive : $0 < G - H < Q - A < A - G$).
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -182,3 +257,24 @@ level: Coupe Animath Printemps
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove chain of inequalities among four classical means of two positive reals*
+
+> Let $x$ and $y$ be strictly positive real numbers with $0 < x < y$. Define:
+> $$H = \frac{2xy}{x+y}, \quad G = \sqrt{xy}, \quad A = \frac{x+y}{2}, \quad Q = \sqrt{\frac{x^2+y^2}{2}}.$$
+> Prove that:
+> a) $0 < G - H$
+> b) $Q \ge G < 2A$ (i.e.\ $G \le Q$ and $G < 2A$)
+> c) $G - H < Q - A$
+> 
+> (In summary: $0 < G - H < Q - A \le A - G$.)
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)

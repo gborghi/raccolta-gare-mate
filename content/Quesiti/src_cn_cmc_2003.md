@@ -553,9 +553,7 @@ level: China Mathematical Competition
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Trovare il luogo geometrico di tutte le linee di piega che si formano piegando un cerchio in modo che un punto del bordo coincida con un punto interno.*
-
+*Luogo geometrico di tutte le linee di piega ottenute piegando un cerchio in modo che un punto della circonferenza coincida con un punto interno dato.*
 > Su un foglio di carta viene disegnato un cerchio con centro $O$ e raggio $R$; $A$ è un punto dato all'interno del cerchio, con $OA = a$. Si piega il foglio in modo che un punto $A'$ sulla circonferenza coincida con il punto $A$; poi sul foglio rimane una linea di piega. Si determini l'insieme di tutti i punti che giacciono su tali linee di piega, quando $A'$ passa per ogni punto della circonferenza.
 
 > [!warning] Estratto da verificare con la fonte.

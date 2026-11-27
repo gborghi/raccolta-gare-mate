@@ -12,20 +12,18 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Trisect angle alpha using paper-folding in three steps*
 
-> On a sheet of paper, a line $r$ passes through point $A$ and makes an angle $\alpha$ with the horizontal edge; see Figure 1. To divide this angle $\alpha$ into three equal parts, we perform the following constructions:
-> 
-> a) Initially, we mark two points $B$ and $C$ on the vertical line through $A$ such that $AB = BC$; the point $B$ is drawn on a line $s$ parallel to the edge (Figure 2).
-> 
-> b) Next, we fold the paper, adjusting it so that point $C$ coincides with a point $C'$ on line $r$ (Figure 3); we call $B'$ the image of point $B$ under this fold, and $A'$ the point on line $s$ with the same horizontal coordinate as $B'$.
-> 
-> Show that lines $AA'$ and $AB'$ divide the angle $\alpha$ into three equal parts.
-
-![[src_obm_2000_n3_f3__Q01.png]]
+> Em uma folha de papel a reta $r$ passa pelo canto $A$ da folha e forma um ângulo $\alpha$ com a borda horizontal, como na figura 1. Para dividir este ângulo $\alpha$ em três partes iguais, executaremos as seguintes construções:
+>
+> a) inicialmente, marcamos dois pontos $B$ e $C$ sobre a borda vertical de modo que $AB = BC$; pelo ponto $B$ traçamos a reta $s$ paralela à borda (figura 2);
+>
+> b) a seguir, dobramos o papel, ajustando-o de modo que o ponto $C$ coincida com um ponto $C'$ sobre a reta $r$ e o ponto $A$ coincida com um ponto $A'$ sobre a reta $s$ (figura 3); chamamos de $B'$ o ponto com o qual $B$ coincide.
+>
+> Mostre que as retas $AA'$ e $AB'$ dividem o ângulo $\alpha$ em três partes iguais.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -56,18 +54,41 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trisect angle alpha using paper-folding in three steps*
+
+> On a sheet of paper, a line $r$ passes through point $A$ and makes an angle $\alpha$ with the horizontal edge; see Figure 1. To divide this angle $\alpha$ into three equal parts, we perform the following constructions:
+> 
+> a) Initially, we mark two points $B$ and $C$ on the vertical line through $A$ such that $AB = BC$; the point $B$ is drawn on a line $s$ parallel to the edge (Figure 2).
+> 
+> b) Next, we fold the paper, adjusting it so that point $C$ coincides with a point $C'$ on line $r$ (Figure 3); we call $B'$ the image of point $B$ under this fold, and $A'$ the point on line $s$ with the same horizontal coordinate as $B'$.
+> 
+> Show that lines $AA'$ and $AB'$ divide the angle $\alpha$ into three equal parts.
+
+![[src_obm_2000_n3_f3__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_telescoping,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove sigma(n)=2n-1 iff n is a quasi-perfect number*
 
-> Let $\sigma(n)$ be the sum of all positive divisors of $n$, where $n$ is a positive integer (for example, $\sigma(4) = 12$ and $\sigma(11) = 12$). We say $n$ is **quasi-perfect** if $\sigma(n) = 2n - 1$ (for example, $\sigma(1) = 1 = 2 \cdot 1 - 1$, so $1$ is quasi-perfect, but $\sigma(7) = 8 \neq 2 \cdot 7 - 1 = 13$, so $7$ is not). Let $m$ and $k$ be positive integers, $n$ the remainder of the division of $n$ by $k$, and define
-> $$s(n) = \sum_{k=1}^{n} m \bmod k$$
-> (for example, $s(6) = 0 + 0 + 4 + 0 + 2 + 1 + 0 = 3$ and $s(11) = 0 + 1 + 2 + 3 + 1 + 5 + 4 + 4 + 3 + 2 + 1 + 0 + 0 = 22$).
-> 
-> Prove that $n$ is quasi-perfect if and only if $s(n) = s(n-1)$.
+> Seja $\sigma(n)$ a soma de todos os divisores positivos de $n$, onde $n$ é um inteiro positivo (por exemplo, $\sigma(6) = 12$ e $\sigma(11) = 12$). Dizemos que $n$ é quase perfeito se $\sigma(n) = 2n - 1$ (por exemplo, $4$ é quase perfeito, pois $\sigma(4) = 7$). Sejam $n \bmod k$ o resto da divisão de $n$ por $k$ e
+> $$s(n) = \sum_{k=1}^{n} (n \bmod k)$$
+> (por exemplo: $s(6) = 0 + 0 + 0 + 2 + 1 + 0 = 3$ e $s(11) = 0 + 1 + 2 + 3 + 1 + 5 + 4 + 3 + 2 + 1 + 0 = 22$).
+>
+> Prove que $n$ é quase perfeito se, e somente se, $s(n) = s(n - 1)$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -94,17 +115,37 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove sigma(n)=2n-1 iff n is a quasi-perfect number*
+
+> Let $\sigma(n)$ be the sum of all positive divisors of $n$, where $n$ is a positive integer (for example, $\sigma(4) = 12$ and $\sigma(11) = 12$). We say $n$ is **quasi-perfect** if $\sigma(n) = 2n - 1$ (for example, $\sigma(1) = 1 = 2 \cdot 1 - 1$, so $1$ is quasi-perfect, but $\sigma(7) = 8 \neq 2 \cdot 7 - 1 = 13$, so $7$ is not). Let $m$ and $k$ be positive integers, $n$ the remainder of the division of $n$ by $k$, and define
+> $$s(n) = \sum_{k=1}^{n} m \bmod k$$
+> (for example, $s(6) = 0 + 0 + 4 + 0 + 2 + 1 + 0 = 3$ and $s(11) = 0 + 1 + 2 + 3 + 1 + 5 + 4 + 4 + 3 + 2 + 1 + 0 + 0 = 22$).
+> 
+> Prove that $n$ is quasi-perfect if and only if $s(n) = s(n-1)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,method_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find smallest n such that f(1)+...+f(n) >= 123456*
 
-> Let $f$ be a function defined on the positive integers of the following form: given $n$, write $n = 2^a(2b+1)$ with $a$ and $b$ non-negative integers, and define $f(n) = a^2 + a + 1$.
-> 
-> Determine the smallest positive integer $n$ such that $f(1) + f(2) + \cdots + f(n) \ge 123456$.
+> Seja $f$ uma função definida nos inteiros positivos da seguinte forma:
+>
+> Dado $n$, escrevemos $n = 2^a \cdot (2b + 1)$, com $a$ e $b$ inteiros e definimos $f(n) = a^2 + a + 1$.
+>
+> Determine o menor inteiro positivo $n$ tal que $f(1) + f(2) + \cdots + f(n) \ge 123456$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Combinatorial counting]]
@@ -130,17 +171,34 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find smallest n such that f(1)+...+f(n) >= 123456*
+
+> Let $f$ be a function defined on the positive integers of the following form: given $n$, write $n = 2^a(2b+1)$ with $a$ and $b$ non-negative integers, and define $f(n) = a^2 + a + 1$.
+> 
+> Determine the smallest positive integer $n$ such that $f(1) + f(2) + \cdots + f(n) \ge 123456$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** 24710
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all speeds v so a car never stops at any traffic light*
 
-> Providence Avenue has infinitely many equally spaced and synchronized traffic lights. The distance between two consecutive traffic lights is $1500$ m. The lights are open (green) for $1$ min $30$ s, then closed (red) for $1$ min $30$ s, then open for $1$ min $30$ s, and so on. Suppose a car travels at constant speed $v$ m/s along Providence Avenue.
-> 
-> For which values of $v$ is it possible that the car passes through an arbitrarily large number of traffic lights without stopping at any of them?
+> A avenida Providência tem infinitos semáforos igualmente espaçados e sincronizados. A distância entre dois semáforos consecutivos é de $1.500$ m. Os semáforos ficam abertos por $1$ min $30$ s, depois fechados por $1$ min, depois abertos por $1$ min $30$ s e assim sucessivamente. Suponha que um carro trafegue com velocidade constante igual a $v$, em m/s, pela avenida Providência.
+>
+> Para quais valores de $v$ é possível que o carro passe por uma quantidade arbitrariamente grande de semáforos sem parar em qualquer um deles?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -166,15 +224,32 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all speeds v so a car never stops at any traffic light*
+
+> Providence Avenue has infinitely many equally spaced and synchronized traffic lights. The distance between two consecutive traffic lights is $1500$ m. The lights are open (green) for $1$ min $30$ s, then closed (red) for $1$ min $30$ s, then open for $1$ min $30$ s, and so on. Suppose a car travels at constant speed $v$ m/s along Providence Avenue.
+> 
+> For which values of $v$ is it possible that the car passes through an arbitrarily large number of traffic lights without stopping at any of them?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** $v = \dfrac{20}{k}$ m/s for every positive integer $k$
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_bigezione,method_conteggio,method_casework,method_simmetria,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count distance-preserving functions on a sequence space*
 
-> Let $X$ be the set of all sequences $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ such that $a_i \in \{0,1,2\}$ for $1 \le i \le 1000$ and $a_i \in \{0,1\}$ for $1001 \le i \le 2000$. Given $\underline{a}$ and $\underline{b}$ in $X$, define the distance $d(\underline{a},\underline{b})$ between $\underline{a}$ and $\underline{b}$ as the number of indices $i$, $1 \le i \le 2000$, such that $a_i \ne b_i$. Determine the number of functions $f : X \to X$ that preserve distance, that is, such that $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ for all $\underline{a}$ and $\underline{b}$ in $X$.
+> Seja $X$ o conjunto de todas as seqüências $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ tais que $a_i \in \{0,1,2\}$ se $1 \le i \le 1000$ e $a_i \in \{0,1\}$ se $1001 \le i \le 2000$. Dados $\underline{a}$ e $\underline{b}$ em $X$, definimos a distância $d(\underline{a}, \underline{b})$ entre $\underline{a}$ e $\underline{b}$ como sendo o número de valores de $i$, $1 \le i \le 2000$, tais que $a_i \ne b_i$. Determine o número de funções $f : X \to X$ que preservam distância, isto é, tais que $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$, para quaisquer $\underline{a}$ e $\underline{b}$ em $X$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
@@ -198,10 +273,56 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count distance-preserving functions on a sequence space*
+
+> Let $X$ be the set of all sequences $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ such that $a_i \in \{0,1,2\}$ for $1 \le i \le 1000$ and $a_i \in \{0,1\}$ for $1001 \le i \le 2000$. Given $\underline{a}$ and $\underline{b}$ in $X$, define the distance $d(\underline{a},\underline{b})$ between $\underline{a}$ and $\underline{b}$ as the number of indices $i$, $1 \le i \le 2000$, such that $a_i \ne b_i$. Determine the number of functions $f : X \to X$ that preserve distance, that is, such that $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ for all $\underline{a}$ and $\underline{b}$ in $X$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** $1000! \cdot 1000! \cdot 2^{1000} \cdot (1\times 2^{1000} \cdot 3^{1000})$
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*How many pieces does a cube split into by 28 perpendicular bisector planes?*
+
+> Seja $C$ um cubo de madeira. Para cada um dos $28$ pares de vértices de $C$ cortamos o cubo $C$ pelo plano mediador dos dois vértices do par. Em quantos pedaços fica dividido o cubo?
+>
+> Nota: Dados dois pontos $A$ e $B$ no espaço, o plano mediador de $A$ e $B$ é o conjunto dos pontos do espaço cujas distâncias a $A$ e $B$ são iguais. Em outras palavras: é o plano perpendicular ao segmento $AB$ passando pelo ponto médio de $AB$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** 96
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*In quanti pezzi un cubo è suddiviso dai 28 piani mediatori delle coppie di suoi vertici.*
+> Sia $C$ un cubo di legno. Per ciascuna delle $28$ coppie di vertici di $C$, tagliamo il cubo $C$ con il piano bisettore perpendicolare dei due vertici della coppia. In quante parti viene diviso il cubo?
+>
+> **Note:** Dati due punti $A$ e $B$ nello spazio, il piano mediatore di $A$ e $B$ è l'insieme dei punti dello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ e passante per il punto medio di $AB$.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pieces does a cube split into by 28 perpendicular bisector planes?*
@@ -216,19 +337,3 @@ level: OBM Nível 3
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 96
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*In quanti pezzi un cubo viene suddiviso da 28 piani bisettori perpendicolari?*
-
-> Sia $C$ un cubo di legno. Per ciascuna delle $28$ coppie di vertici di $C$, tagliamo il cubo $C$ con il piano bisettore perpendicolare dei due vertici della coppia. In quante parti viene diviso il cubo?
->
-> **Note:** Dati due punti $A$ e $B$ nello spazio, il piano mediatore di $A$ e $B$ è l'insieme dei punti dello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ e passante per il punto medio di $AB$.
-
-
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]

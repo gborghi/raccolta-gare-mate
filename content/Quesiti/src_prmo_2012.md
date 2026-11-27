@@ -453,9 +453,7 @@ level: PRMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Circocentro interno e incentro sulla circonferenza per B, O e C: misura dell'angolo in A*
-
+*Circocentro interno e incentro sulla circonferenza per B, O e C: misura dell'angolo in A.*
 > $O$ e $I$ sono rispettivamente il circocentro e l'incentro di $\triangle ABC$. Si supponga che $O$ sia interno a $\triangle ABC$ e che $I$ giaccia sulla circonferenza passante per $B$, $O$ e $C$. Qual è la misura di $\angle BAC$ in gradi?
 
 

@@ -28,9 +28,7 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Massimizza i pedoni sulla scacchiera evitando cinque in qualsiasi linea*
-
+*Massimo numero di pedine su una scacchiera 8×8 con al più una per casella, senza cinque o più sulla stessa riga, sulla stessa colonna o su una delle due diagonali lunghe.*
 > Isaac posiziona alcuni segnalini sulle caselle di una scacchiera di dimensioni $8$ per $8$ in modo che in ciascuna delle $64$ caselle vi sia al più un segnalino. Determina, fornendo una giustificazione, il numero massimo di segnalini che può posizionare senza avere cinque o più segnalini nella stessa riga, o nella stessa colonna, o su una qualsiasi delle due diagonali lunghe.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]

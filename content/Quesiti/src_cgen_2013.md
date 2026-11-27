@@ -12,34 +12,38 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Superbe sequences of positive integers where every term divides the sum of all terms; characterize lengths 2-4, distinctness, primes, arithmetic ones, infinite magnifique sequences, and extensions.*
 
-> Problem 1: Of superbe sequences.
-> 
-> In this problem, we consider finite sequences $(a_1, a_2, \ldots, a_n)$ of strictly positive integers, where $n$ is an integer greater than or equal to $2$, called the *length* of the finite sequence.
-> 
-> We say that a finite sequence of strictly positive integers is *superbe* if each of its terms divides the sum of all the terms.
-> 
-> For example, the sequence $(1, 2, 1, 2, 1, 2, 1, 2)$ is superbe of length $8$ because $1+2+1+2+1+2+1+2 = 12$, which is divisible by $1$ and by $2$; the sequence $(3, 3, 6, 12)$ is superbe of length $4$ because the sum of the terms equals $24$, which is a multiple of $3$, $6$, $12$.
-> 
-> **1.** Determine the strictly positive integers $b$ such that the sequence $(21, 7, b)$ is superbe.
-> 
-> **2. a.** Determine the superbe sequences of length $2$, then those of length $3$.
->    **b.** Determine the superbe sequences of length $4$ whose sum of terms equals $2013$.
-> 
-> **3. a.** Show that, for every integer $n \geqslant 3$, there exists a superbe sequence of length $n$ whose terms are all distinct.
->    **b.** Show that, if $n \geqslant 2$, there does not exist a superbe sequence of length $n$ whose terms are pairwise distinct prime numbers.
-> 
-> **4.** Let $(a_1, a_2, \ldots, a_n)$ be a finite arithmetic sequence with strictly positive common difference. Show that if this sequence is superbe then $n = 3$.
-> 
-> **5.** We say that an (infinite) sequence $(a_k)_{k \geqslant 1}$ of strictly positive integers is *magnifique* if, for every integer $n \geqslant 2$, the finite sequence $(a_1, a_2, \ldots, a_n)$ is superbe. Determine the magnifique sequences $(a_k)_{k \geqslant 1}$ satisfying $a_k < a_{k+1}$ for every integer $k \geqslant 2$.
-> 
-> **6.** Let $n$ be an integer greater than or equal to $4$, and let $(a_1, a_2, \ldots, a_n)$ be a finite sequence, not necessarily superbe, of pairwise distinct strictly positive integers.
->    **a.** Show that it is possible to extend the sequence so as to obtain a superbe sequence.
->    **b.** Show that it is possible to extend the sequence so as to obtain a superbe sequence whose terms are all distinct.
+> Problème 1 : De superbes suites
+>
+> Dans ce problème, on considère des suites finies $(a_1, a_2, \ldots, a_n)$ d’entiers strictement positifs, où $n$ est un entier supérieur ou égal à $2$, appelé longueur de la suite finie.
+>
+> On dit qu’une suite finie d’entiers strictement positifs est superbe si chacun de ses termes divise la somme de tous les termes.
+>
+> Par exemple, la suite $(1, 2, 1, 2, 1, 2, 1, 2)$ est superbe de longueur $8$ car $1+2+1+2+1+2+1+2 = 12$, qui est divisible par $1$ et par $2$ ; la suite $(3, 3, 6, 12)$ est superbe de longueur $4$ car la somme des termes vaut $24$, qui est multiple de $3$, $6$, $12$.
+>
+> **1.** Déterminer les entiers strictement positifs $b$ tels que la suite $(21, 7, b)$ soit superbe.
+>
+> **2. a.** Déterminer les suites superbes de longueur $2$, puis celles de longueur $3$.
+>
+> **b.** Déterminer les suites superbes de longueur $4$ et dont la somme des termes vaut $2013$.
+>
+> **3. a.** Montrer que, pour tout entier $n \geqslant 3$, il existe une suite superbe de longueur $n$ dont les termes sont tous distincts.
+>
+> **b.** Montrer que, si $n \geqslant 2$, il n’existe pas de suite superbe de longueur $n$ dont les termes sont des nombres premiers tous distincts.
+>
+> **4.** Soit $(a_1, a_2, \ldots, a_n)$ une suite arithmétique finie de raison strictement positive. Montrer que si cette suite est superbe alors $n = 3$.
+>
+> **5.** On dit qu’une suite (infinie) $(a_k)_{k \geqslant 1}$ d’entiers strictement positifs est magnifique si, pour tout entier $n \geqslant 2$, la suite finie $(a_1, a_2, \ldots, a_n)$ est superbe. Déterminer les suites magnifiques $(a_k)_{k \geqslant 1}$ vérifiant $a_k < a_{k+1}$ pour tout entier $k \geqslant 2$.
+>
+> **6.** Soit $n$ un entier supérieur ou égal à $4$, et soit $(a_1, a_2, \ldots, a_n)$ une suite finie, pas forcément superbe, d’entiers strictement positifs tous distincts.
+>
+> **a.** Montrer qu’il est possible de prolonger la suite de façon à obtenir une suite superbe.
+>
+> **b.** Montrer qu’il est possible de prolonger la suite de façon à obtenir une suite superbe dont les termes sont tous distincts.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
@@ -79,30 +83,66 @@ level: Concours Général
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Superbe sequences of positive integers where every term divides the sum of all terms; characterize lengths 2-4, distinctness, primes, arithmetic ones, infinite magnifique sequences, and extensions.*
+
+> Problem 1: Of superbe sequences.
+> 
+> In this problem, we consider finite sequences $(a_1, a_2, \ldots, a_n)$ of strictly positive integers, where $n$ is an integer greater than or equal to $2$, called the *length* of the finite sequence.
+> 
+> We say that a finite sequence of strictly positive integers is *superbe* if each of its terms divides the sum of all the terms.
+> 
+> For example, the sequence $(1, 2, 1, 2, 1, 2, 1, 2)$ is superbe of length $8$ because $1+2+1+2+1+2+1+2 = 12$, which is divisible by $1$ and by $2$; the sequence $(3, 3, 6, 12)$ is superbe of length $4$ because the sum of the terms equals $24$, which is a multiple of $3$, $6$, $12$.
+> 
+> **1.** Determine the strictly positive integers $b$ such that the sequence $(21, 7, b)$ is superbe.
+> 
+> **2. a.** Determine the superbe sequences of length $2$, then those of length $3$.
+>    **b.** Determine the superbe sequences of length $4$ whose sum of terms equals $2013$.
+> 
+> **3. a.** Show that, for every integer $n \geqslant 3$, there exists a superbe sequence of length $n$ whose terms are all distinct.
+>    **b.** Show that, if $n \geqslant 2$, there does not exist a superbe sequence of length $n$ whose terms are pairwise distinct prime numbers.
+> 
+> **4.** Let $(a_1, a_2, \ldots, a_n)$ be a finite arithmetic sequence with strictly positive common difference. Show that if this sequence is superbe then $n = 3$.
+> 
+> **5.** We say that an (infinite) sequence $(a_k)_{k \geqslant 1}$ of strictly positive integers is *magnifique* if, for every integer $n \geqslant 2$, the finite sequence $(a_1, a_2, \ldots, a_n)$ is superbe. Determine the magnifique sequences $(a_k)_{k \geqslant 1}$ satisfying $a_k < a_{k+1}$ for every integer $k \geqslant 2$.
+> 
+> **6.** Let $n$ be an integer greater than or equal to $4$, and let $(a_1, a_2, \ldots, a_n)$ be a finite sequence, not necessarily superbe, of pairwise distinct strictly positive integers.
+>    **a.** Show that it is possible to extend the sequence so as to obtain a superbe sequence.
+>    **b.** Show that it is possible to extend the sequence so as to obtain a superbe sequence whose terms are all distinct.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Skew lines and transversals in space; a quadric surface S given by xy+yz+zx-(x+y+z)+1=0 containing three cube edges D1,D2,D3; lines meeting S in 0,1,2 points; transversals to four lines.*
 
-> Problem 2: Tire a quatre epingles.
-> 
-> **1.** In space, let $D_1, D_2$ be two non-coplanar (skew) lines and let $M$ be a point belonging neither to $D_1$ nor to $D_2$. Show that there exists at most one line passing through $M$ and cutting both $D_1$ and $D_2$. In which case does none exist?
-> 
-> Space being equipped with an orthonormal frame, let $ABCDEFGH$ be the cube whose vertices have coordinates $A(0,0,0)$, $B(1,0,0)$, $C(1,1,0)$, $D(0,1,0)$, $E(0,0,1)$, $F(1,0,1)$, $G(1,1,1)$, $H(0,1,1)$. Let $D_1, D_2$ and $D_3$ be respectively the lines $(EF)$, $(BC)$ and $(DH)$. Finally, let $\mathscr{S}$ be the set of points with coordinates $M(x,y,z)$ such that:
+> Problème 2 : Tiré à quatre épingles
+>
+> **1.** Dans l’espace, soient $D_1$, $D_2$ deux droites non coplanaires et soit $M$ un point n’appartenant ni à $D_1$ ni à $D_2$. Montrer qu’il existe au plus une droite passant par $M$ et coupant à la fois $D_1$ et $D_2$. Dans quel cas n’en existe-t-il aucune ?
+>
+> L’espace étant muni d’un repère orthonormé, soit $ABCDEFGH$ le cube dont les sommets ont pour coordonnées $A(0, 0, 0)$, $B(1, 0, 0)$, $C(1, 1, 0)$, $D(0, 1, 0)$, $E(0, 0, 1)$, $F(1, 0, 1)$, $G(1, 1, 1)$, $H(0, 1, 1)$. Soient respectivement $D_1$, $D_2$ et $D_3$ les droites $(EF)$, $(BC)$ et $(DH)$. Enfin, soit $\mathscr{S}$ l’ensemble des points de coordonnées $M(x, y, z)$ tels que :
 > $$xy + yz + zx - (x + y + z) + 1 = 0$$
-> 
-> **2.** Give a parametric representation of each of the lines $D_1, D_2$ and $D_3$.
-> 
-> **3.** Show that the lines $D_1, D_2$ and $D_3$ are contained in $\mathscr{S}$.
-> 
-> **4.** Show that every line of space not contained in $\mathscr{S}$ meets $\mathscr{S}$ in $0$, $1$ or $2$ points.
-> 
-> **5.** Deduce that every line cutting the lines $D_1, D_2$ and $D_3$ is contained in $\mathscr{S}$.
-> 
-> **6.** Let $D_4$ be a line that meets none of the lines $D_1, D_2, D_3$ and is not contained in $\mathscr{S}$. Show that there exist at most two lines of space cutting the four lines $D_1, D_2, D_3, D_4$.
+>
+> **2.** Donner une représentation paramétrique de chacune des droites $D_1$, $D_2$ et $D_3$.
+>
+> **3.** Montrer que les droites $D_1$, $D_2$ et $D_3$ sont incluses dans $\mathscr{S}$.
+>
+> **4.** Montrer que toute droite de l’espace non incluse dans $\mathscr{S}$ rencontre $\mathscr{S}$ en $0$, $1$ ou $2$ points.
+>
+> **5.** En déduire que toute droite coupant les droites $D_1$, $D_2$ et $D_3$ est incluse dans $\mathscr{S}$.
+>
+> **6.** Soit $D_4$ une droite qui ne rencontre aucune des droites $D_1$, $D_2$, $D_3$ et qui n’est pas incluse dans $\mathscr{S}$. Montrer qu’il existe au plus deux droites de l’espace coupant les quatre droites $D_1$, $D_2$, $D_3$, $D_4$.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -138,10 +178,108 @@ level: Concours Général
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Skew lines and transversals in space; a quadric surface S given by xy+yz+zx-(x+y+z)+1=0 containing three cube edges D1,D2,D3; lines meeting S in 0,1,2 points; transversals to four lines.*
+
+> Problem 2: Tire a quatre epingles.
+> 
+> **1.** In space, let $D_1, D_2$ be two non-coplanar (skew) lines and let $M$ be a point belonging neither to $D_1$ nor to $D_2$. Show that there exists at most one line passing through $M$ and cutting both $D_1$ and $D_2$. In which case does none exist?
+> 
+> Space being equipped with an orthonormal frame, let $ABCDEFGH$ be the cube whose vertices have coordinates $A(0,0,0)$, $B(1,0,0)$, $C(1,1,0)$, $D(0,1,0)$, $E(0,0,1)$, $F(1,0,1)$, $G(1,1,1)$, $H(0,1,1)$. Let $D_1, D_2$ and $D_3$ be respectively the lines $(EF)$, $(BC)$ and $(DH)$. Finally, let $\mathscr{S}$ be the set of points with coordinates $M(x,y,z)$ such that:
+> $$xy + yz + zx - (x + y + z) + 1 = 0$$
+> 
+> **2.** Give a parametric representation of each of the lines $D_1, D_2$ and $D_3$.
+> 
+> **3.** Show that the lines $D_1, D_2$ and $D_3$ are contained in $\mathscr{S}$.
+> 
+> **4.** Show that every line of space not contained in $\mathscr{S}$ meets $\mathscr{S}$ in $0$, $1$ or $2$ points.
+> 
+> **5.** Deduce that every line cutting the lines $D_1, D_2$ and $D_3$ is contained in $\mathscr{S}$.
+> 
+> **6.** Let $D_4$ be a line that meets none of the lines $D_1, D_2, D_3$ and is not contained in $\mathscr{S}$. Show that there exist at most two lines of space cutting the four lines $D_1, D_2, D_3, D_4$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_aritmetica,method_ricorsione,method_casework,method_disuguaglianze,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Sisyphe's dice game on 106 cells: wins by reaching/passing cell 100, loses on a prime cell below 100. Probabilities p_n, the position variable X, an algorithm for P(X=k), and an estimate of the gain probability via conditional probabilities alpha_p over consecutive primes.*
+
+> Problème 3 : Il faut passer les premiers
+>
+> Pour ce problème, on donne la liste des vingt-cinq nombres premiers inférieurs à $100$ :
+> $$2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97$$
+>
+> Pour faire une réussite, Sisyphe a dessiné au sol $106$ cases numérotées de $0$ à $105$, et il dispose d’un jeton et d’un dé à six faces (équilibré).
+> Sisyphe commence la réussite en posant le jeton sur la case $0$. Il fait ensuite une série de lancers du dé ; lorsque le dé affiche la valeur $k$, il avance le jeton de $k$ cases et :
+> - s’il atteint ou dépasse la case numéro $100$, Sisyphe a gagné ;
+> - s’il arrive à une case dont le numéro est un nombre premier inférieur à $100$, Sisyphe a perdu ;
+> - dans les autres cas, Sisyphe relance le dé et continue la réussite.
+>
+> **1.** Dans cette question, on suppose que Sisyphe recommence une réussite lorsqu’il a perdu. On note $p_n$ la probabilité de gagner au moins une réussite en au plus $n$ lancers du dé.
+>
+> **a.** Déterminer les valeurs de $n$ pour lesquelles $p_n > 0$.
+>
+> **b.** Étudier la convergence de la suite $(p_n)$.
+>
+> Dans la suite du problème, Sisyphe ne recommence plus la réussite s’il perd.
+> Soit $X$ la variable aléatoire représentant la position du jeton à la fin de la réussite. On note $\mathbb{P}(X = k)$ la probabilité de l’événement $X = k$.
+>
+> **2. a.** Déterminer $\mathbb{P}(X = 2)$, $\mathbb{P}(X = 3)$, $\mathbb{P}(X \geqslant 4)$, $\mathbb{P}(X = 5)$.
+>
+> **b.** Proposer un algorithme pour calculer $\mathbb{P}(X = k)$ pour tout $k \in \{0, \ldots, 105\}$.
+>
+> **3.** Muni d’une calculatrice qui n’est pas assez performante pour exécuter l’algorithme précédent, Sisyphe cherche à estimer sa probabilité de gain. Pour cela, étant donné deux nombres premiers consécutifs $p < p'$, il considère $\alpha_p$ la probabilité conditionnelle de l’événement $X = p'$ sachant l’événement $X > p$.
+>
+> **a.** Que valent $\alpha_2$ et $\alpha_3$ ?
+>
+> **b.** Donner l’expression de la probabilité de gain, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, en fonction des nombres réels $\alpha_p$ pour $p = 2, 3, 5, \ldots$
+>
+> **c.** Donner un encadrement des nombres $\alpha_p$ et en déduire un encadrement de $\mathbb{P}(G)$. (Dans cette question, la qualité de l’encadrement sera un élément d’appréciation.)
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+
+Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno tramite probabilità condizionate alfa_p su numeri primi consecutivi.*
+
+> Il problema 3: Il faut passer les premiers (Bisogna lasciare passare i primi).
+> 
+> Per questo problema, ci viene dato l'elenco dei venticinque numeri primi meno $100$: $$2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97$$
+> 
+> Per giocare a un gioco di solitaire (une reussite), Sisyphe ha disegnato sul terreno $106$ cellule numerate da $0$ a $105$, e ha un token e un dado a sei lati (giusto). Sisyphe inizia il gioco mettendo il token sulla cella $0$. Fa poi una serie di rulli di die; quando il dado mostra il valore $k$, muove il token in avanti con le celle $k$ e: - se raggiunge o passa il numero di cellula $100$, Sisyphe ha vinto; - se atterra su una cellula il cui numero è un numero primo inferiore a $100$, Sisyphe ha perso; - negli altri casi, Sisyphe rulla di nuovo il dado e continua il gioco.
+> 
+> In questa domanda, supponiamo che Sisyphe inizia una nuova partita ogni volta che ha perso. $p_n$ indichi la probabilità di vincere almeno una partita in un numero massimo di $n$ die roll. **a.** Determinare i valori di $n$ per i quali $p_n > 0$. **b.** Studiare la convergenza della sequenza $(p_n)$.
+> 
+> Nel resto del problema, Sisyphe non inizia più una nuova partita se perde. Che $X$ sia la variabile casuale che rappresenta la posizione del token alla fine della partita. Indichiamo con $\mathbb{P}(X = k)$ la probabilità dell'evento $X = k$.
+> 
+> **2. a.** Determina $\mathbb{P}(X = 2)$, $\mathbb{P}(X = 3)$, $\mathbb{P}(X \geqslant 4)$, $\mathbb{P}(X = 5)$. **b.** Proporre un algoritmo per calcolare $\mathbb{P}(X = k)$ per ogni $k \in \{0, \ldots, 105\}$.
+> 
+> Dotato di una calcolatrice non abbastanza potente da eseguire l'algoritmo precedente, Sisyphe cerca di stimare la sua probabilità di guadagno. A tal fine, dato due numeri primi consecutivi $p < p'$, egli considera $\alpha_p$ la probabilità condizionale dell'evento $X = p'$ dato l'evento $X > p$. **a.** Quali sono i valori di $\alpha_2$ e $\alpha_3$? **b.** Indicare l'espressione della probabilità di guadagno, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, in termini di numeri reali $\alpha_p$ per $p = 2, 3, 5, \ldots$ **c.** Indicare un allegato (quadramento) dei numeri $\alpha_p$ e dedurre da esso un allegato di $\mathbb{P}(G)$. (In questa domanda, il criterio di valutazione sarà la qualità dell'allegato.)
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sisyphe's dice game on 106 cells: wins by reaching/passing cell 100, loses on a prime cell below 100. Probabilities p_n, the position variable X, an algorithm for P(X=k), and an estimate of the gain probability via conditional probabilities alpha_p over consecutive primes.*
@@ -177,28 +315,3 @@ level: Concours Général
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno tramite probabilità condizionate alfa_p su numeri primi consecutivi.*
-
-> Il problema 3: Il faut passer les premiers (Bisogna lasciare passare i primi).
-> 
-> Per questo problema, ci viene dato l'elenco dei venticinque numeri primi meno $100$: $$2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97$$
-> 
-> Per giocare a un gioco di solitaire (une reussite), Sisyphe ha disegnato sul terreno $106$ cellule numerate da $0$ a $105$, e ha un token e un dado a sei lati (giusto). Sisyphe inizia il gioco mettendo il token sulla cella $0$. Fa poi una serie di rulli di die; quando il dado mostra il valore $k$, muove il token in avanti con le celle $k$ e: - se raggiunge o passa il numero di cellula $100$, Sisyphe ha vinto; - se atterra su una cellula il cui numero è un numero primo inferiore a $100$, Sisyphe ha perso; - negli altri casi, Sisyphe rulla di nuovo il dado e continua il gioco.
-> 
-> In questa domanda, supponiamo che Sisyphe inizia una nuova partita ogni volta che ha perso. $p_n$ indichi la probabilità di vincere almeno una partita in un numero massimo di $n$ die roll. **a.** Determinare i valori di $n$ per i quali $p_n > 0$. **b.** Studiare la convergenza della sequenza $(p_n)$.
-> 
-> Nel resto del problema, Sisyphe non inizia più una nuova partita se perde. Che $X$ sia la variabile casuale che rappresenta la posizione del token alla fine della partita. Indichiamo con $\mathbb{P}(X = k)$ la probabilità dell'evento $X = k$.
-> 
-> **2. a.** Determina $\mathbb{P}(X = 2)$, $\mathbb{P}(X = 3)$, $\mathbb{P}(X \geqslant 4)$, $\mathbb{P}(X = 5)$. **b.** Proporre un algoritmo per calcolare $\mathbb{P}(X = k)$ per ogni $k \in \{0, \ldots, 105\}$.
-> 
-> Dotato di una calcolatrice non abbastanza potente da eseguire l'algoritmo precedente, Sisyphe cerca di stimare la sua probabilità di guadagno. A tal fine, dato due numeri primi consecutivi $p < p'$, egli considera $\alpha_p$ la probabilità condizionale dell'evento $X = p'$ dato l'evento $X > p$. **a.** Quali sono i valori di $\alpha_2$ e $\alpha_3$? **b.** Indicare l'espressione della probabilità di guadagno, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, in termini di numeri reali $\alpha_p$ per $p = 2, 3, 5, \ldots$ **c.** Indicare un allegato (quadramento) dei numeri $\alpha_p$ e dedurre da esso un allegato di $\mathbb{P}(G)$. (In questa domanda, il criterio di valutazione sarà la qualità dell'allegato.)
-
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

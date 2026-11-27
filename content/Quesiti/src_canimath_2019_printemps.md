@@ -12,14 +12,14 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Floor times fractional part equals 2019x; find all x*
 
-> For any real number $x$, we denote by $\lfloor x \rfloor$ its integer part, i.e., the greatest integer less than or equal to $x$, and by $\{x\}$ its fractional part, i.e., $\{x\} = x - \lfloor x \rfloor$. For example, $\lfloor 3.1 \rfloor = 3$, $\lfloor -2.7 \rfloor = -3$, and $\{3.1\} = 0.1$, $\{-2.7\} = 0.3$.
-> 
-> Find all real numbers $x$ such that $\lfloor x \rfloor \times \{x\} = 2019 \times x$.
+> Pour tout nombre réel $x$, on note $\lfloor x \rfloor$ la partie entière de $x$, c’est-à-dire le plus grand entier inférieur ou égal à $x$. On note $\{x\}$ sa partie décimale, c’est-à-dire $\{x\} = x - \lfloor x \rfloor$. Par exemple, on a $\lfloor 3.1 \rfloor = 3$ et $\{3.1\} = 3.1 - 3 = 0.1$. On a aussi $\lfloor -2.7 \rfloor = -3$ et $\{-2.7\} = -2.7 - (-3) = 0.3$.
+>
+> Trouver tous les nombres réels $x$ tels que $\lfloor x \rfloor \times \{x\} = 2019 \times x$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -43,15 +43,31 @@ level: Coupe Animath Printemps
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Floor times fractional part equals 2019x; find all x*
+
+> For any real number $x$, we denote by $\lfloor x \rfloor$ its integer part, i.e., the greatest integer less than or equal to $x$, and by $\{x\}$ its fractional part, i.e., $\{x\} = x - \lfloor x \rfloor$. For example, $\lfloor 3.1 \rfloor = 3$, $\lfloor -2.7 \rfloor = -3$, and $\{3.1\} = 0.1$, $\{-2.7\} = 0.3$.
+> 
+> Find all real numbers $x$ such that $\lfloor x \rfloor \times \{x\} = 2019 \times x$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Count 8-digit numbers ab2019cd divisible by 360*
 
-> How many 8-digit numbers are there whose decimal expansion has the form $\overline{ab2019cd}$ (where $a$, $b$, $c$, $d$ are digits) and which are divisible by $360$?
+> Combien y a-t-il de nombres à 8 chiffres dont l’écriture décimale est de la forme $ab2019cd$ avec $a > 0$, et qui sont divisibles par $360$ ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
@@ -73,17 +89,31 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 8-digit numbers ab2019cd divisible by 360*
+
+> How many 8-digit numbers are there whose decimal expansion has the form $\overline{ab2019cd}$ (where $a$, $b$, $c$, $d$ are digits) and which are divisible by $360$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Rectangle with cevians; show a+b=c for areas of four regions*
 
-> Let $ABCD$ be a rectangle. Let $P$ be a point on segment $[AB]$, and $Q$ a point on segment $[BC]$. The segments $[AQ]$ and $[DP]$ intersect at $X$; the segments $[AQ]$ and $[CP]$ intersect at $Y$; the segments $[DP]$ and $[CP]$ intersect at $Z$. Let $a$, $b$, $c$ be the areas of triangle $APX$, of quadrilateral $BPYQ$, and of triangle $CQZ$ of the quadrilateral $DXYZ$, respectively.
-> 
-> Show that the area of the quadrilateral $DXYZ$ satisfies $a + b = c$.
+> Soit $ABCD$ un rectangle. Soient $P$ un point sur le segment $[AB]$, et $Q$ un point sur le segment $[BC]$. Les segments $[AQ]$ et $[DP]$ s’intersectent en $X$, les segments $[AQ]$ et $[CP]$ s’intersectent en $Y$ et les segments $[CP]$ et $[DQ]$ s’intersectent en $Z$. On note respectivement $a$, $b$ et $c$ les aires du triangle $APX$, du triangle $CQZ$ et du quadrilatère $BPYQ$.
+>
+> Montrer que l’aire du quadrilatère $DXYZ$ vaut $a + b + c$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -107,17 +137,33 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangle with cevians; show a+b=c for areas of four regions*
+
+> Let $ABCD$ be a rectangle. Let $P$ be a point on segment $[AB]$, and $Q$ a point on segment $[BC]$. The segments $[AQ]$ and $[DP]$ intersect at $X$; the segments $[AQ]$ and $[CP]$ intersect at $Y$; the segments $[DP]$ and $[CP]$ intersect at $Z$. Let $a$, $b$, $c$ be the areas of triangle $APX$, of quadrilateral $BPYQ$, and of triangle $CQZ$ of the quadrilateral $DXYZ$, respectively.
+> 
+> Show that the area of the quadrilateral $DXYZ$ satisfies $a + b = c$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Frogs on 10x10 grid; visible sums hit 10^1,...,10^10; find largest k*
 
-> Consider a large square grid of side $10$, divided into unit squares of side $1$. Two unit squares are called neighbors if they share a side. In each unit square a real number is inscribed. Moreover, $5$ frogs are placed on the grid; from one instant to the next each frog can move to a neighboring square. At each instant every frog reads the number in its current square.
-> 
-> We assume that the sum of the numbers visible to all five frogs is $10^1$ at instant $1$, $10^2$ at instant $2$, $10^3$ at instant $3$, and in general $10^k$ at instant $k$. What is the largest possible value of $k$ for which the sum can equal $10^k$?
+> On considère une grande grille carrée de côté $10$, découpée en petits carrés de côté $1$. Deux petits carrés sont dits voisins si ils ont un côté commun. Sur chacun des petits carrés est inscrit un nombre réel positif. De plus, $5$ grenouilles se déplacent sur la grille, et peuvent recouvrir chacune un petit carré. Deux grenouilles ne recouvrent jamais le même carré. Entre deux instants, chaque grenouille saute du carré où elle se trouve vers un carré voisin.
+>
+> On suppose que la somme des nombres visibles vaut $10$ à l’instant $1$, puis $10^2$ à l’instant $2$, puis $10^3$ à l’instant $3$, et ainsi de suite jusqu’à l’instant $k$ où la somme vaut $10^k$. Quelle est la plus grande valeur possible de $k$ ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -141,17 +187,33 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Frogs on 10x10 grid; visible sums hit 10^1,...,10^10; find largest k*
+
+> Consider a large square grid of side $10$, divided into unit squares of side $1$. Two unit squares are called neighbors if they share a side. In each unit square a real number is inscribed. Moreover, $5$ frogs are placed on the grid; from one instant to the next each frog can move to a neighboring square. At each instant every frog reads the number in its current square.
+> 
+> We assume that the sum of the numbers visible to all five frogs is $10^1$ at instant $1$, $10^2$ at instant $2$, $10^3$ at instant $3$, and in general $10^k$ at instant $k$. What is the largest possible value of $k$ for which the sum can equal $10^k$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_induzione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *If floor(x^2)=floor(x)^2, show floor(x^2),floor(x^3),floor(x^4) are perfect squares*
 
-> Recall (see Exercise 1) that $\lfloor x \rfloor$ denotes the integer part of a real number $x$.
-> 
-> Suppose that $x$ is a positive real number such that $\lfloor x^2 \rfloor = \lfloor x \rfloor^2$. Show that $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$, and $\lfloor x^4 \rfloor$ are all perfect squares of integers.
+> On rappelle (voir Exercice 1) que la partie entière $\lfloor x \rfloor$ d’un nombre réel $x$ est le plus grand entier inférieur ou égal à $x$.
+>
+> Soit $x$ un nombre réel positif. On suppose que $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$ et $\lfloor x^4 \rfloor$ sont des carrés d’entiers. Montrer qu’alors $\lfloor x \rfloor$ est aussi le carré d’un entier.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Case analysis]]
@@ -175,17 +237,31 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*If floor(x^2)=floor(x)^2, show floor(x^2),floor(x^3),floor(x^4) are perfect squares*
+
+> Recall (see Exercise 1) that $\lfloor x \rfloor$ denotes the integer part of a real number $x$.
+> 
+> Suppose that $x$ is a positive real number such that $\lfloor x^2 \rfloor = \lfloor x \rfloor^2$. Show that $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$, and $\lfloor x^4 \rfloor$ are all perfect squares of integers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Parallelogram; CP=CB; midpoints M of AP, N of CD; show BP perpendicular to MN*
 
-> Let $ABCD$ be a parallelogram, and let $P$ be a point in the interior of $ABCD$ such that $CP = CB$. Let $M$ and $N$ be the midpoints of $[AP]$ and $[CD]$, respectively.
-> 
-> Show that lines $(BP)$ and $(MN)$ are perpendicular.
+> Soit $ABCD$ un parallélogramme, et $P$ un point à l’intérieur de $ABCD$ tel que $CP = CB$. On note $M$ et $N$ les milieux de $[AP]$ et $[CD]$. Montrer que les droites $(BP)$ et $(MN)$ sont perpendiculaires.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -209,17 +285,33 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Parallelogram; CP=CB; midpoints M of AP, N of CD; show BP perpendicular to MN*
+
+> Let $ABCD$ be a parallelogram, and let $P$ be a point in the interior of $ABCD$ such that $CP = CB$. Let $M$ and $N$ be the midpoints of $[AP]$ and $[CD]$, respectively.
+> 
+> Show that lines $(BP)$ and $(MN)$ are perpendicular.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_funzionali,method_induzione,method_invarianti,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Sequence u_{n+1}=u_n plus its largest proper divisor; show 3^2019 divides u_n eventually*
 
-> Let $(u_n)_{n \geq 0}$ be a sequence of positive integers such that for all $n \geq 0$, $u_{n+1}$ is the sum of $u_n$ and its largest proper divisor (i.e., its largest divisor strictly less than $u_n$ itself). For example, if $u_0 = 12$, then $u_1 = 12 + 6 = 18$.
-> 
-> Show that there exists $N$ such that for all $n > N$, the integer $u_n$ is divisible by $3^{2019}$.
+> Soit $(u_n)$ une suite d’entiers telle que $u_1 > 0$ et, pour tout $n \geqslant 0$, le nombre $u_{n+1}$ est la somme de $u_n$ et de son plus grand diviseur excepté lui-même. Par exemple, si $u_n = 12$, alors $u_{n+1} = 12 + 6 = 18$.
+>
+> Montrer qu’il existe $N$ tel que, pour tout $n > N$, l’entier $u_n$ est divisible par $3^{2019}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_fattorizzazione|Fattorizzazione]]
@@ -243,17 +335,33 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence u_{n+1}=u_n plus its largest proper divisor; show 3^2019 divides u_n eventually*
+
+> Let $(u_n)_{n \geq 0}$ be a sequence of positive integers such that for all $n \geq 0$, $u_{n+1}$ is the sum of $u_n$ and its largest proper divisor (i.e., its largest divisor strictly less than $u_n$ itself). For example, if $u_0 = 12$, then $u_1 = 12 + 6 = 18$.
+> 
+> Show that there exists $N$ such that for all $n > N$, the integer $u_n$ is divisible by $3^{2019}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_stima,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *m x n blue/red grid; maximize rows with blue majority plus columns with red majority*
 
-> Let $m$ and $n$ be integers with $m \geq 3$. In an $m \times n$ grid, each unit square is colored blue or red. Let $A$ be the number of rows in which the blue squares are in the majority, and $B$ the number of columns in which the red squares are in the majority.
-> 
-> What is the largest possible value of $A + B$?
+> Soient $m$ et $n$ deux entiers impairs avec $m, n \geqslant 3$. Dans une grille $m \times n$, on colorie chaque petit carré en bleu ou en rouge. On note $A$ le nombre de lignes où les carrés bleus sont majoritaires, et $B$ le nombre de colonnes où les carrés rouges sont majoritaires.
+>
+> Quelle est la plus grande valeur possible de $A + B$ ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
@@ -275,3 +383,19 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*m x n blue/red grid; maximize rows with blue majority plus columns with red majority*
+
+> Let $m$ and $n$ be integers with $m \geq 3$. In an $m \times n$ grid, each unit square is colored blue or red. Let $A$ be the number of rows in which the blue squares are in the majority, and $B$ the number of columns in which the red squares are in the majority.
+> 
+> What is the largest possible value of $A + B$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)

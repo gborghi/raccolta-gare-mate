@@ -12,7 +12,104 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Weight of a finite sequence of reals defined as the max of absolute partial sums; compare Isabelle's minimal weight I with Clara's greedy weight C.*
+
+> Problème 1 : Petits poids
+>
+> Pour tout entier $n$ supérieur ou égal à $2$, et toute suite finie de $n$ réels $(x_1, x_2, \ldots, x_n)$, on appelle poids de la suite la plus grande des valeurs $|x_1|$, $|x_1 + x_2|$, $\ldots$, $|x_1 + x_2 + \cdots + x_n|$.
+>
+> Par exemple, pour $n = 4$ et $(x_1, x_2, x_3, x_4) = (4, 4, 0, -9)$, le poids de la suite est égal à $8$, car :
+>
+> $$|x_1| = 4,\quad |x_1 + x_2| = 8,\quad |x_1 + x_2 + x_3| = 8\quad \text{et}\quad |x_1 + x_2 + x_3 + x_4| = 1.$$
+>
+> Pour $(x_1, x_2, x_3, x_4) = (-9, 4, 0, 4)$, le poids est égal à $9$, car :
+>
+> $$|x_1| = 9,\quad |x_1 + x_2| = 5,\quad |x_1 + x_2 + x_3| = 5\quad \text{et}\quad |x_1 + x_2 + x_3 + x_4| = 1.$$
+>
+> On remarque que les deux suites finies ci-dessus sont formées des mêmes nombres dans un ordre différent et qu'elles ont des poids différents.
+>
+> 1. Déterminer le poids des suites finies suivantes :
+>
+>    a. $(3, 5, -6, -8, 2)$ (et donc $n = 5$).
+>
+>    b. $(1, 2, 3, \ldots, 2014, 2015, -2015, -2014, \ldots, -2, -1)$ (et donc $n = 4030$).
+>
+>    c. Dans chacun des deux exemples précédents, réordonner les termes de façon à obtenir un poids plus petit.
+>
+> On donne à Isabelle et Clara la même suite finie de $n$ réels $(x_1, x_2, \ldots, x_n)$.
+>
+> Isabelle veut la réordonner de façon à obtenir une suite finie de poids minimal. Pour cela, elle considère tous les ordres possibles de ces $n$ réels, détermine pour chacun le poids de la suite correspondante, et choisit un ordre pour lequel le poids est minimal. On note $I$ ce poids minimal.
+>
+> De son côté, Clara, plus pressée qu'Isabelle, adopte l'algorithme suivant. Elle commence par choisir parmi les $n$ réels un nombre, noté $c_1$, de sorte que la valeur de $|c_1|$ soit la plus petite possible. Elle choisit ensuite le nombre $c_2$ parmi les $n - 1$ réels qui restent, afin que la valeur de $|c_1 + c_2|$ soit la plus petite possible. Plus généralement, après avoir choisi les nombres $c_1, \ldots, c_i$ parmi les $n$ réels donnés au départ, elle choisit $c_{i+1}$ parmi les $n - i$ restants de sorte que la valeur de $|c_1 + \cdots + c_i + c_{i+1}|$ soit la plus petite possible. Elle obtient finalement une suite finie $(c_1, \ldots, c_n)$ de $n$ réels. On note $C$ son poids.
+>
+> 2. Déterminer $I$ et $C$ dans les deux cas suivants.
+>
+>    a. $n = 3$ et $x_1 = 1$, $x_2 = 2$, $x_3 = -4$.
+>
+>    b. $n = 4$ et $x_1 = 1$, $x_2 = -1$, $x_3 = 2$, $x_4 = -2$.
+>
+> 3. Si $n = 2$, montrer que $I = C$.
+>
+> 4. Si $n = 3$, montrer que $C \leqslant \dfrac{3}{2} I$.
+>
+> 5. Soit $n$ un entier supérieur ou égal à $4$ et soit $(x_1, x_2, \ldots, x_n)$ la suite finie donnée à Isabelle et Clara. On pose :
+>
+> $$M = \max(|x_1|, |x_2|, \ldots, |x_n|),\quad S = |x_1 + x_2 + \cdots + x_n|,\quad N = \max(M, S).$$
+>
+> Autrement dit, $M$ est le plus grand des nombres $|x_1|$, $|x_2|$, $\ldots$, $|x_n|$. De même, $N$ est le plus grand des nombres $M$ et $S$.
+>
+>    a. Montrer que $S \leqslant I$.
+>
+>    b. Montrer que $M \leqslant 2I$.
+>
+>    c. Montrer que $C \leqslant N$.
+>
+>    d. En déduire que $C \leqslant 2I$.
+>
+>    e. Déterminer $n$ réels $x_1, x_2, \ldots, x_n$ tels que $C = 2I$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+
+*Peso di una sequenza finita di reali definita come il massimo di somme parziali assolute; confronta il peso minimo di Isabelle I con il peso avido di Clara C.*
+
+> Problema 1: pesi piccoli.
+> 
+> Per ogni numero intero $n \ge 2$ e per ogni sequenza finita di $n$ reale $(x_1, x_2, \ldots, x_n)$, il \emph{peso} della sequenza è il più grande dei valori $|x_1|, |x_1 + x_2|, \ldots, |x_1 + x_2 + \cdots + x_n|$.
+> 
+> Per esempio, per $n = 4$ e $(x_1, x_2, x_3, x_4) = (4, 4, 0, -9)$, il peso della sequenza è uguale a $8$, dal momento che: $$|x_1| = 4, \quad |x_1 + x_2| = 8, \quad |x_1 + x_2 + x_3| = 8, \quad |x_1 + x_2 + x_3 + x_4| = 1.$$ Per $(x_1, x_2, x_3, x_4) = (-9, 4, 0, 4)$, il peso è uguale a $9$, dal momento che: $$|x_1| = 9, \quad |x_1 + x_2| = 5, \quad |x_1 + x_2 + x_3| = 5, \quad |x_1 + x_2 + x_3 + x_4| = 1.$$ Si noti che le due sequenze finite di cui sopra sono formate dai medesimi numeri in un ordine diverso e che hanno pesi diversi.
+> 
+> 1. Determinare i pesi delle seguenti sequenze finite: a. $(3, 5, -6, -8, 2)$ (so $n = 5$). b. $(1, 2, 3, \ldots, 2014, 2015, -2015, -2014, \ldots, -2, -1)$ (so $n = 4030$). c. In ciascuno dei due esempi precedenti, riordinare i termini in modo da ottenere un peso minore.
+> 
+> Isabelle e Clara ricevono la stessa sequenza finita di $n$ reali $(x_1, x_2, \ldots, x_n)$. Isabelle vuole riordinarlo in modo da ottenere una sequenza finita di peso minimo. Per fare ciò, considera tutti gli ordini possibili di questi reali $n$, determina per ciascuno il peso della sequenza corrispondente e sceglie un ordine per il quale il peso è minimo. Indicare $I$ questo peso minimo.
+> 
+> Per sua parte, Clara, più affrettata di Isabelle, adotta l'algoritmo seguente. Inizia scegliendo tra i reali $n$ un numero, indicato $c_1$, in modo che il valore di $|c_1|$ sia il più piccolo possibile. Sceglie quindi il numero $c_2$ tra i reali $n - 1$ rimanenti, in modo che il valore di $|c_1 + c_2|$ sia il più piccolo possibile. Più in generale, dopo aver scelto i numeri $c_1, \ldots, c_i$ tra i reali $n$ dati all'inizio, sceglie $c_{i+1}$ tra i rimanenti $n - i$ in modo che il valore di $|c_1 + \cdots + c_i + c_{i+1}|$ sia il più piccolo possibile. Alla fine ottiene una sequenza finita $(c_1, \ldots, c_n)$ di $n$ reali. Indicare $C$ il suo peso.
+> 
+> 2. Determinare $I$ e $C$ nei due casi seguenti. a. $n = 3$ e $x_1 = 1$, $x_2 = 2$, $x_3 = -4$. b. $n = 4$ e $x_1 = 1$, $x_2 = -1$, $x_3 = 2$, $x_4 = -2$.
+> 
+> 3. Se $n = 2$, indicare che $I = C$.
+> 
+> 4. Se $n = 3$, indicare che $C \le \frac{3}{2} I$.
+> 
+> 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of a finite sequence of reals defined as the max of absolute partial sums; compare Isabelle's minimal weight I with Clara's greedy weight C.*
@@ -61,41 +158,75 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Peso di una sequenza finita di reali definita come il massimo di somme parziali assolute; confronta il peso minimo di Isabelle I con il peso avido di Clara C.*
-
-> Problema 1: pesi piccoli.
-> 
-> Per ogni numero intero $n \ge 2$ e per ogni sequenza finita di $n$ reale $(x_1, x_2, \ldots, x_n)$, il \emph{peso} della sequenza è il più grande dei valori $|x_1|, |x_1 + x_2|, \ldots, |x_1 + x_2 + \cdots + x_n|$.
-> 
-> Per esempio, per $n = 4$ e $(x_1, x_2, x_3, x_4) = (4, 4, 0, -9)$, il peso della sequenza è uguale a $8$, dal momento che: $$|x_1| = 4, \quad |x_1 + x_2| = 8, \quad |x_1 + x_2 + x_3| = 8, \quad |x_1 + x_2 + x_3 + x_4| = 1.$$ Per $(x_1, x_2, x_3, x_4) = (-9, 4, 0, 4)$, il peso è uguale a $9$, dal momento che: $$|x_1| = 9, \quad |x_1 + x_2| = 5, \quad |x_1 + x_2 + x_3| = 5, \quad |x_1 + x_2 + x_3 + x_4| = 1.$$ Si noti che le due sequenze finite di cui sopra sono formate dai medesimi numeri in un ordine diverso e che hanno pesi diversi.
-> 
-> 1. Determinare i pesi delle seguenti sequenze finite: a. $(3, 5, -6, -8, 2)$ (so $n = 5$). b. $(1, 2, 3, \ldots, 2014, 2015, -2015, -2014, \ldots, -2, -1)$ (so $n = 4030$). c. In ciascuno dei due esempi precedenti, riordinare i termini in modo da ottenere un peso minore.
-> 
-> Isabelle e Clara ricevono la stessa sequenza finita di $n$ reali $(x_1, x_2, \ldots, x_n)$. Isabelle vuole riordinarlo in modo da ottenere una sequenza finita di peso minimo. Per fare ciò, considera tutti gli ordini possibili di questi reali $n$, determina per ciascuno il peso della sequenza corrispondente e sceglie un ordine per il quale il peso è minimo. Indicare $I$ questo peso minimo.
-> 
-> Per sua parte, Clara, più affrettata di Isabelle, adotta l'algoritmo seguente. Inizia scegliendo tra i reali $n$ un numero, indicato $c_1$, in modo che il valore di $|c_1|$ sia il più piccolo possibile. Sceglie quindi il numero $c_2$ tra i reali $n - 1$ rimanenti, in modo che il valore di $|c_1 + c_2|$ sia il più piccolo possibile. Più in generale, dopo aver scelto i numeri $c_1, \ldots, c_i$ tra i reali $n$ dati all'inizio, sceglie $c_{i+1}$ tra i rimanenti $n - i$ in modo che il valore di $|c_1 + \cdots + c_i + c_{i+1}|$ sia il più piccolo possibile. Alla fine ottiene una sequenza finita $(c_1, \ldots, c_n)$ di $n$ reali. Indicare $C$ il suo peso.
-> 
-> 2. Determinare $I$ e $C$ nei due casi seguenti. a. $n = 3$ e $x_1 = 1$, $x_2 = 2$, $x_3 = -4$. b. $n = 4$ e $x_1 = 1$, $x_2 = -1$, $x_3 = 2$, $x_4 = -2$.
-> 
-> 3. Se $n = 2$, indicare che $I = C$.
-> 
-> 4. Se $n = 3$, indicare che $C \le \frac{3}{2} I$.
-> 
-> 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
-**Area:** [[Algebra e Analisi]]
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Tetrahedra: centroid and medians, circumscribed sphere, concurrency of altitudes and the orthocentric condition expressed via dot products of line direction vectors.*
+
+> Problème 2 : Tétraèdres
+>
+> On appelle tétraèdre la donnée, dans l'espace, de quatre points non coplanaires $A$, $B$, $C$, $D$. Les arêtes du tétraèdre sont les segments $[AB]$, $[AC]$, $[AD]$, $[BC]$, $[BD]$, $[CD]$.
+>
+> Dans les questions 3. à 3., $ABCD$ désigne un tétraèdre.
+>
+> 1. a. Montrer qu'il existe un unique point $G$ tel que $\overrightarrow{GA} + \overrightarrow{GB} + \overrightarrow{GC} + \overrightarrow{GD} = \vec{0}$.
+>
+>    b. Montrer que $\overrightarrow{AG} = \dfrac{3}{4}\overrightarrow{AG_A}$, où $G_A$ est le centre de gravité du triangle $BCD$.
+>
+>    c. On appelle médiane issue de $A$ la droite reliant $A$ au centre de gravité du triangle $BCD$, et on définit de façon analogue les trois autres médianes, issues de $B$, de $C$ et de $D$. Montrer que les médianes sont concourantes au point $G$.
+>
+> 2. Montrer qu'il existe une unique sphère qui passe par $A$, $B$, $C$, $D$. On l'appelle sphère circonscrite au tétraèdre $ABCD$ et on note $O$ son centre.
+>
+> 3. On appelle hauteur issue de $A$ la droite passant par $A$ et orthogonale au plan $BCD$. On définit de façon analogue les trois autres hauteurs, issues de $B$, de $C$ et de $D$. On dit qu'un tétraèdre de l'espace est régulier si toutes ses arêtes sont de même longueur.
+>
+>    a. Est-il vrai que les hauteurs sont concourantes en $O$ si et seulement si le tétraèdre est régulier ?
+>
+>    b. Les hauteurs sont-elles nécessairement concourantes ?
+>
+>    c. Est-il vrai que les hauteurs sont concourantes en $G$ si et seulement si le tétraèdre est régulier ?
+>
+> 4. Dans ce qui suit, le produit scalaire de deux vecteurs $\vec{v}$ et $\vec{w}$ est noté $\vec{v} \cdot \vec{w}$.
+>
+> Soient $\Delta_1, \ldots, \Delta_4$ quatre droites distinctes non coplanaires concourantes en un point $H$. Pour $1 \leqslant i \leqslant 4$ on choisit un vecteur directeur unitaire $\vec{u}_i$ de $\Delta_i$ et, pour $1 \leqslant i, j \leqslant 4$, on note $c_{ij} = \vec{u}_i \cdot \vec{u}_j$.
+>
+>    a. On suppose qu'il existe un tétraèdre $A_1 A_2 A_3 A_4$ dont les hauteurs sont concourantes en $H$ et tel que $A_j \in \Delta_j$ pour tout $j \in \{1, 2, 3, 4\}$. Montrer que $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$.
+>
+>    b. Réciproquement, si $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \neq 0$, montrer qu'il existe un tétraèdre $A_1 A_2 A_3 A_4$ dont les hauteurs sont concourantes en $H$ et tel que $A_j \in \Delta_j$ pour tout $j \in \{1, 2, 3, 4\}$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Tetraedri: baricentri e mediane, sfera circoscritta, concorrenza delle altezze e condizione di ortocentricità espressa mediante i prodotti scalari dei vettori direzione degli spigoli.*
+> Problema 2: Tetraede.
+> 
+> Chiamiamo i dati, nello spazio, di quattro punti non coplanari $A, B, C, D$ I \emph{edges} del tetraedro sono i segmenti $[AB]$, $[AC]$, $[AD]$, $[BC]$, $[BD]$, $[CD]$.
+> 
+> Nella domanda 3 e 3, $ABCD$ indica un tetraedro.
+> 
+> 1. a. Indicare che esiste un punto unico $G$ tale che $\overrightarrow{GA} + \overrightarrow{GB} + \overrightarrow{GC} + \overrightarrow{GD} = \vec{0}$. b. Indicare che $\overrightarrow{AG} = \frac{3}{4}\overrightarrow{AG_A}$, dove $G_A$ è il centroide del triangolo $BCD$. c. Chiamiamo \emph{median} emesso da $A$ la linea che unisce $A$ al centroide del triangolo $BCD$, e uno definisce analogamente gli altri tre mediani, emessi da $B$, da $C$ e da $D$. Indicare che i mediani sono simultanei al punto $G$.
+> 
+> 2. Mostrare che esiste una sfera unica che passa attraverso $A, B, C, D$. Si chiama sfera circoscritta al tetraedro $ABCD$, e noi denotamo con $O$ il suo centro.
+> 
+> 3. Chiamiamo \emph{altitude} emesso da $A$ la linea che passa attraverso $A$ e ortogonale al piano $BCD$. Si definiscono in modo analogo le altre tre altitudini, emesse da $B$, da $C$ e da $D$. Diciamo che un tetraedro di spazio è regolare se tutti i suoi bordi hanno la stessa lunghezza. a. È vero che le altitudini sono simultanee a $O$ se e solo se il tetraedro è regolare? b. Le altitudini sono necessariamente contemporanee? c. È vero che le altitudini sono simultanee a $G$ se e solo se il tetraedro è regolare?
+> 
+> 4. In quanto segue, il prodotto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v} \cdot \vec{w}$. Le linee $\Delta_1, \ldots, \Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1 \le i \le 4$ si sceglie un vettore di direzione unitario $\vec{u}_i$ di $\Delta_i$ e, per $1 \le i, j \le 4$, un set $c_{ij} = \vec{u}_i \cdot \vec{u}_j$. a. Supponiamo che esista un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$. Mostrare che $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$. b. Al contrario, se $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \ne 0$, dimostrare che esiste un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tetrahedra: centroid and medians, circumscribed sphere, concurrency of altitudes and the orthocentric condition expressed via dot products of line direction vectors.*
@@ -129,60 +260,43 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza delle altitudini e condizione ortocentrica espressa attraverso i prodotti di punti dei vettori di direzione della linea.*
-
-> Problema 2: Tetraede.
-> 
-> Chiamiamo i dati, nello spazio, di quattro punti non coplanari $A, B, C, D$ I \emph{edges} del tetraedro sono i segmenti $[AB]$, $[AC]$, $[AD]$, $[BC]$, $[BD]$, $[CD]$.
-> 
-> Nella domanda 3 e 3, $ABCD$ indica un tetraedro.
-> 
-> 1. a. Indicare che esiste un punto unico $G$ tale che $\overrightarrow{GA} + \overrightarrow{GB} + \overrightarrow{GC} + \overrightarrow{GD} = \vec{0}$. b. Indicare che $\overrightarrow{AG} = \frac{3}{4}\overrightarrow{AG_A}$, dove $G_A$ è il centroide del triangolo $BCD$. c. Chiamiamo \emph{median} emesso da $A$ la linea che unisce $A$ al centroide del triangolo $BCD$, e uno definisce analogamente gli altri tre mediani, emessi da $B$, da $C$ e da $D$. Indicare che i mediani sono simultanei al punto $G$.
-> 
-> 2. Mostrare che esiste una sfera unica che passa attraverso $A, B, C, D$. Si chiama sfera circoscritta al tetraedro $ABCD$, e noi denotamo con $O$ il suo centro.
-> 
-> 3. Chiamiamo \emph{altitude} emesso da $A$ la linea che passa attraverso $A$ e ortogonale al piano $BCD$. Si definiscono in modo analogo le altre tre altitudini, emesse da $B$, da $C$ e da $D$. Diciamo che un tetraedro di spazio è regolare se tutti i suoi bordi hanno la stessa lunghezza. a. È vero che le altitudini sono simultanee a $O$ se e solo se il tetraedro è regolare? b. Le altitudini sono necessariamente contemporanee? c. È vero che le altitudini sono simultanee a $G$ se e solo se il tetraedro è regolare?
-> 
-> 4. In quanto segue, il prodotto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v} \cdot \vec{w}$. Le linee $\Delta_1, \ldots, \Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1 \le i \le 4$ si sceglie un vettore di direzione unitario $\vec{u}_i$ di $\Delta_i$ e, per $1 \le i, j \le 4$, un set $c_{ij} = \vec{u}_i \cdot \vec{u}_j$. a. Supponiamo che esista un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$. Mostrare che $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$. b. Al contrario, se $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \ne 0$, dimostrare che esiste un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$.
-
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,topic_funzionali,method_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Predictive means: sequences of type A where each term equals the average of the next n terms; show such sequences cannot be bounded above or below, and decide if a non-constant bounded one exists.*
 
-> Problem 3: Predictive means.
-> 
-> In this problem, we consider sequences $(u_n)_{n \in \mathbb{N}^*} = (u_1, u_2, \ldots)$ with real values indexed by the nonzero natural numbers. We say that $u_n$ is the predictive mean of the $n$ following terms; the sequence $(u_n)_{n \in \mathbb{N}^*}$ is said to be of type $\mathcal{A}$ if, for every $n \in \mathbb{N}^*$:
+> Problème 3 : Moyennes prévisionnelles
+>
+> Dans ce problème, on considère des suites $(u_n)_{n \in \mathbb{N}^*} = (u_1, u_2, \ldots)$ à valeurs réelles indexées par les entiers naturels non nuls. On dit que la suite $(u_n)_{n \in \mathbb{N}^*}$ est de type $\mathcal{M}$ si, pour tout $n \in \mathbb{N}^*$, $u_n$ est la moyenne des $n$ termes suivants, c'est-à-dire :
+>
 > $$u_n = \frac{u_{n+1} + u_{n+2} + \cdots + u_{2n-1} + u_{2n}}{n}.$$
-> 
-> 1. Let $(u_n)_{n \in \mathbb{N}^*}$ be a sequence of type $\mathcal{A}$ and let $C$ be a real number. Is the sequence $(u_n - C)_{n \in \mathbb{N}^*}$ of type $\mathcal{A}$?
-> 
-> 2. Show that every constant sequence is of type $\mathcal{A}$.
-> 
-> 3. Let $(u_n)_{n \in \mathbb{N}^*}$ be a sequence of type $\mathcal{A}$. Suppose there exist reals $a, b, c$ such that $u_n = an^2 + bn + c$ for every $n \in \mathbb{N}^*$. Show that $a = b = 0$.
-> 
-> 4. The aim of this question 4 is to show that no sequence of type $\mathcal{A}$ is bounded above or bounded below, except constant ones.
-> In this question, suppose $(u_n)_{n \in \mathbb{N}^*}$ is a sequence of type $\mathcal{A}$ with non-negative values, and consider an integer $r \in \mathbb{N}^*$.
->    a. Let $p$ be an integer such that $p > r$. Show that there exist nonzero natural numbers $q$ and $q'$ such that $q < p \le q'$ and $2q\, u_{q'} \le u_r \le u_q$. Deduce that $u_p \le 3 u_r$.
->    b. For all $p \in \mathbb{N}^*$, show that $u_p \le 3 u_r$.
-> Deduce, from questions a, b, c and d, that the sequence $(u_n)_{n \in \mathbb{N}^*}$ of type $\mathcal{A}$ is bounded above.
->    c. Let $D$ be a strictly positive real and let $p \in \mathbb{N}^*$. Show that if $u_p > D$ is not a lower bound (minorant) of the sequence, then so is the appropriate condition.
->    d. Deduce that the sequence $(u_n)_{n \in \mathbb{N}^*}$ is not bounded below.
->    e. Conclude.
-> 
-> 5. Does there exist a non-constant bounded sequence of type $\mathcal{A}$?
+>
+> 1. Soient $(u_n)_{n \in \mathbb{N}^*}$ une suite de type $\mathcal{M}$ et $C$ un nombre réel. Que dire de la suite $(u_n - C)_{n \in \mathbb{N}^*}$ ?
+>
+> 2. Montrer que toute suite croissante de type $\mathcal{M}$ est constante.
+>
+> 3. Soit $(u_n)_{n \in \mathbb{N}^*}$ une suite de type $\mathcal{M}$. On suppose qu'il existe des réels $a$, $b$, $c$ tels que $u_n = an^2 + bn + c$ pour tout $n \in \mathbb{N}^*$. Montrer que $a = b = 0$.
+>
+> 4. L'objectif de cette question 4. est de montrer que toute suite majorée ou minorée de type $\mathcal{M}$ est constante.
+>
+> Dans les questions a. et b., on suppose que $(u_n)_{n \in \mathbb{N}^*}$ est une suite de type $\mathcal{M}$ à valeurs positives ou nulles, et on considère un entier $r \in \mathbb{N}^*$.
+>
+>    a. Soit $p$ un entier tel que $p > r$. Montrer qu'il existe des entiers naturels non nuls $q$ et $q'$ tels que $q < p \leqslant q' \leqslant 2q$ et $u_{q'} \leqslant u_q \leqslant u_r$. En déduire que $u_p \leqslant 3u_r$.
+>
+>    b. Pour tout $p \in \mathbb{N}^*$, montrer que $u_p \leqslant 3u_r$.
+>
+> Dans les questions c. et d., on suppose que $(u_n)_{n \in \mathbb{N}^*}$ est une suite minorée de type $\mathcal{M}$.
+>
+>    c. Soit $D$ un réel strictement positif et soit $p \in \mathbb{N}^*$. Montrer que si $u_p - D$ n'est pas un minorant de la suite $(u_n)$, alors $u_p - \dfrac{3}{2} D$ n'est pas non plus un minorant.
+>
+>    d. En déduire que la suite $(u_n)_{n \in \mathbb{N}^*}$ est constante.
+>
+>    e. Conclure.
+>
+> 5. Existe-t-il une suite non constante de type $\mathcal{M}$ ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
@@ -214,3 +328,37 @@ level: Concours Général
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Predictive means: sequences of type A where each term equals the average of the next n terms; show such sequences cannot be bounded above or below, and decide if a non-constant bounded one exists.*
+
+> Problem 3: Predictive means.
+> 
+> In this problem, we consider sequences $(u_n)_{n \in \mathbb{N}^*} = (u_1, u_2, \ldots)$ with real values indexed by the nonzero natural numbers. We say that $u_n$ is the predictive mean of the $n$ following terms; the sequence $(u_n)_{n \in \mathbb{N}^*}$ is said to be of type $\mathcal{A}$ if, for every $n \in \mathbb{N}^*$:
+> $$u_n = \frac{u_{n+1} + u_{n+2} + \cdots + u_{2n-1} + u_{2n}}{n}.$$
+> 
+> 1. Let $(u_n)_{n \in \mathbb{N}^*}$ be a sequence of type $\mathcal{A}$ and let $C$ be a real number. Is the sequence $(u_n - C)_{n \in \mathbb{N}^*}$ of type $\mathcal{A}$?
+> 
+> 2. Show that every constant sequence is of type $\mathcal{A}$.
+> 
+> 3. Let $(u_n)_{n \in \mathbb{N}^*}$ be a sequence of type $\mathcal{A}$. Suppose there exist reals $a, b, c$ such that $u_n = an^2 + bn + c$ for every $n \in \mathbb{N}^*$. Show that $a = b = 0$.
+> 
+> 4. The aim of this question 4 is to show that no sequence of type $\mathcal{A}$ is bounded above or bounded below, except constant ones.
+> In this question, suppose $(u_n)_{n \in \mathbb{N}^*}$ is a sequence of type $\mathcal{A}$ with non-negative values, and consider an integer $r \in \mathbb{N}^*$.
+>    a. Let $p$ be an integer such that $p > r$. Show that there exist nonzero natural numbers $q$ and $q'$ such that $q < p \le q'$ and $2q\, u_{q'} \le u_r \le u_q$. Deduce that $u_p \le 3 u_r$.
+>    b. For all $p \in \mathbb{N}^*$, show that $u_p \le 3 u_r$.
+> Deduce, from questions a, b, c and d, that the sequence $(u_n)_{n \in \mathbb{N}^*}$ of type $\mathcal{A}$ is bounded above.
+>    c. Let $D$ be a strictly positive real and let $p \in \mathbb{N}^*$. Show that if $u_p > D$ is not a lower bound (minorant) of the sequence, then so is the appropriate condition.
+>    d. Deduce that the sequence $(u_n)_{n \in \mathbb{N}^*}$ is not bounded below.
+>    e. Conclude.
+> 
+> 5. Does there exist a non-constant bounded sequence of type $\mathcal{A}$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)

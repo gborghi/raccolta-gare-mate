@@ -790,9 +790,7 @@ level: Senior Mathematical Challenge
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Due cerchi concentrici divisi da linee radiali in 14 parti uguali; il raggio del cerchio interno è 1; trovare il raggio esterno meno 1*
-
+*Due circonferenze concentriche suddivise da semirette radiali in 14 parti di area uguale; il raggio della circonferenza interna è 1; determinare la lunghezza s del segmento radiale esterno.*
 > Il diagramma mostra due cerchi concentrici suddivisi da linee radiali in 14 settori di uguale area. Il raggio del cerchio più piccolo è 1. Qual è la lunghezza, $s$, di una linea radiale esterna?
 >
 > - **(A)** $\sqrt{14} - 1$

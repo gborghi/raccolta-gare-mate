@@ -12,14 +12,14 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute sum of two arithmetic progressions*
 
-> Compute the number
+> Calculer le nombre
 > $$(1+11+21+31+41+51+61+71+81+91)+(9+19+29+39+49+59+69+79+89+99).$$
-> Only a numerical answer is expected here.
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -43,10 +43,52 @@ level: Coupe Animath Automne
 **Risposta:** 1000
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute sum of two arithmetic progressions*
+
+> Compute the number
+> $$(1+11+21+31+41+51+61+71+81+91)+(9+19+29+39+49+59+69+79+89+99).$$
+> Only a numerical answer is expected here.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 1000
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Isosceles triangle, midpoint symmetric image, find angle MDC in terms of x*
+
+> Soit $ABC$ un triangle isocèle en $A$. Soit $M$ le milieu du segment $[BC]$. Soit $D$ le symétrique du point $M$ par rapport au segment $[AC]$. On note $x$ l'angle $\widehat{BAC}$. Déterminer, en fonction de $x$, la valeur de l'angle $\widehat{MDC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Triangolo isoscele e simmetrico del punto medio: esprimere l'angolo MDC in funzione di x.*
+> $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle, midpoint symmetric image, find angle MDC in terms of x*
@@ -60,28 +102,15 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Triangolo isosceles, immagine simmetrica del punto medio, trovare angolo MDC in termini di x*
-
-> $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Village 5 buildings, each person has ≥2 family members in village; show someone shares building with a family member*
 
-> A village is made up of 5 buildings. In the 5 buildings live 5, 15, 25, 35, and 45 people respectively. Each person counts at least two members of their family (excluding themselves) among the inhabitants of the village. Show that there exists a person who counts a member of their family among the inhabitants of their own building.
+> Un village est composé de 5 immeubles. Dans les 5 immeubles habitent 5, 15, 25, 35 et 45 personnes. Chaque personne compte au moins deux membres de sa famille (excepté lui-même) parmi les habitants du village. Montrer qu'il existe une personne qui compte un membre de sa famille parmi les habitants de son immeuble.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
@@ -103,15 +132,29 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Village 5 buildings, each person has ≥2 family members in village; show someone shares building with a family member*
+
+> A village is made up of 5 buildings. In the 5 buildings live 5, 15, 25, 35, and 45 people respectively. Each person counts at least two members of their family (excluding themselves) among the inhabitants of the village. Show that there exists a person who counts a member of their family among the inhabitants of their own building.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,method_colorazione,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *8×8 chessboard, infernal rooks attack same-color in row and other-color in column; find maximum non-attacking placement*
 
-> We consider an $8 \times 8$ chessboard whose squares are alternately colored black and white. An *infernal rook* is a piece that can attack all squares of its own color situated on its row, as well as the squares of the other color situated on its column. What is the maximum number of infernal rooks one can place on the chessboard such that no two infernal rooks can attack each other?
+> On considère un échiquier de taille $8\times 8$ dont les cases sont alternativement coloriées en blanc et en noir. Une tour infernale est une pièce qui peut attaquer les cases de sa couleur situées sur sa ligne, ainsi que les cases de l'autre couleur situées sur sa colonne. Quel est le nombre maximum de tours infernales que l'on peut placer sur l'échiquier de telle sorte que deux tours infernales ne puissent jamais s'attaquer entre elles ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
@@ -133,15 +176,29 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*8×8 chessboard, infernal rooks attack same-color in row and other-color in column; find maximum non-attacking placement*
+
+> We consider an $8 \times 8$ chessboard whose squares are alternately colored black and white. An *infernal rook* is a piece that can attack all squares of its own color situated on its row, as well as the squares of the other color situated on its column. What is the maximum number of infernal rooks one can place on the chessboard such that no two infernal rooks can attack each other?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *n has divisors a<b with n=a³+b; show n has a divisor d with a<d<b*
 
-> A positive integer $n > 8$ has two distinct positive divisors $a$ and $b$ such that $a < b$ and $n = a^3 + b$. Show that $n$ has at least one divisor $d$ such that $a < d < b$.
+> Un entier positif $n > 8$ possède deux diviseurs positifs distincts $a$ et $b$ de telle sorte que $a < b$ et $n = a^2 + b$. Montrer que $n$ possède au moins un diviseur $d$ tel que $a < d < b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -163,10 +220,49 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*n has divisors a<b with n=a³+b; show n has a divisor d with a<d<b*
+
+> A positive integer $n > 8$ has two distinct positive divisors $a$ and $b$ such that $a < b$ and $n = a^3 + b$. Show that $n$ has at least one divisor $d$ such that $a < d < b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Acute triangle, constructed circle intersections, show Z on perpendicular bisector of BC*
+
+> Soit $ABC$ un triangle aux angles aigus et tel que $AB > BC$ et $AC > BC$. Soit $X$ le point de la demi-droite $[BC)$ tel que $AB = BX$. Soit $Y$ le point de la demi-droite $[CB)$ tel que $AC = CY$. Soit $P$ le point distinct de $A$ de la demi-droite $[AX)$ tel que $CP = CA$. Soit $Q$ le point distinct de $A$ de la demi-droite $[AY)$ tel que $BQ = BA$. On suppose que les droites $(BQ)$ et $(CP)$ se recoupent au point $Z$. Montrer que le point $Z$ appartient à la médiatrice du segment $[BC]$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Triangolo acutangolo e cerchi ausiliari: dimostrare che Z sta sull'asse del segmento BC.*
+> Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB > BC$ e $AC > BC$. Il punto $X$ deve essere il punto della metà della linea $[BC)$ in modo tale che $BX = BA$. Il punto $Y$ deve essere il punto della semilinea $[BA)$ in modo tale che $BY = BC$. Il punto $P$ deve essere il punto distinto da $A$ sulla semilinea $[AX)$ in modo tale che $CP = CA$. Il punto $Q$ deve essere il punto distinto da $A$ sulla semilinea $[AY)$ in modo tale che $BQ = BA$. Supponiamo che le linee $(BQ)$ e $(CP)$ si incontrino in un punto $Z$. Indicare che $Z$ si trova sul bisettore perpendicolare di $[BC]$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Acute triangle, constructed circle intersections, show Z on perpendicular bisector of BC*
@@ -180,28 +276,15 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Triangolo acuto, intersezioni a cerchio costruite, mostrare Z sul bisettore perpendicolare di BC*
-
-> Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB > BC$ e $AC > BC$. Il punto $X$ deve essere il punto della metà della linea $[BC)$ in modo tale che $BX = BA$. Il punto $Y$ deve essere il punto della semilinea $[BA)$ in modo tale che $BY = BC$. Il punto $P$ deve essere il punto distinto da $A$ sulla semilinea $[AX)$ in modo tale che $CP = CA$. Il punto $Q$ deve essere il punto distinto da $A$ sulla semilinea $[AY)$ in modo tale che $BQ = BA$. Supponiamo che le linee $(BQ)$ e $(CP)$ si incontrino in un punto $Z$. Indicare che $Z$ si trova sul bisettore perpendicolare di $[BC]$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_invarianti,method_cassetti,skill_modellizzazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Maena writes 2021 integers per line iterating a counting rule; show she eventually repeats a line*
 
-> On the blackboard, Maena has written 2021 integers on a single line. Then, each minute, starting from the last line $\ell$ she wrote, she writes a new line $\ell'$ of 2021 integers according to the following rule: just below each integer of line $\ell$, she writes the number of times that integer appears in line $\ell$. Show that Maena will necessarily end up writing the same line two minutes in a row.
+> Au tableau, Maena a écrit 2021 nombres entiers sur une ligne. Puis, à chaque minute, en-dessous de la dernière ligne $\ell$ qu'elle a écrite, elle écrit une nouvelle ligne $\ell'$ de 2021 nombres en respectant la règle suivante : juste en-dessous de chaque entier de la ligne $\ell$, elle écrit le nombre de fois que cet entier est présent dans la ligne $\ell$. Montrer que Maena finira nécessairement par écrire la même ligne deux fois d'affilée.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_cassetti|Principio dei cassetti]]
@@ -223,17 +306,31 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maena writes 2021 integers per line iterating a counting rule; show she eventually repeats a line*
+
+> On the blackboard, Maena has written 2021 integers on a single line. Then, each minute, starting from the last line $\ell$ she wrote, she writes a new line $\ell'$ of 2021 integers according to the following rule: just below each integer of line $\ell$, she writes the number of times that integer appears in line $\ell$. Show that Maena will necessarily end up writing the same line two minutes in a row.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Compute 1000^7 divided by 252²−248²*
 
-> Compute the number
-> $$\frac{1000^{7}}{252^{2}-248^{2}}.$$
-> Only a numerical answer is expected here.
+> Calculer le nombre
+> $$\frac{1000^{2}}{252^{2}-248^{2}}.$$
+> Seule une réponse numérique est attendue ici.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -257,10 +354,52 @@ level: Coupe Animath Automne
 **Risposta:** $\frac{1000^6}{2}$
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute 1000^7 divided by 252²−248²*
+
+> Compute the number
+> $$\frac{1000^{7}}{252^{2}-248^{2}}.$$
+> Only a numerical answer is expected here.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** $\frac{1000^6}{2}$
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Isosceles triangle, midpoint symmetric image, find angle MDC (lycée version)*
+
+> Soit $ABC$ un triangle isocèle en $A$. Soit $M$ le milieu du segment $[BC]$. Soit $D$ le symétrique du point $M$ par rapport au segment $[AC]$. On note $x$ l’angle $\widehat{BAC}$. Déterminer, en fonction de $x$, la valeur de l’angle $\widehat{MDC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Triangolo isoscele e simmetrico del punto medio: determinare l'angolo MDC (versione liceo).*
+> $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle, midpoint symmetric image, find angle MDC (lycée version)*
@@ -274,28 +413,15 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Triangolo isosceles, immagine simmetrica del punto medio, angolo di ricerca MDC (versione liceale)*
-
-> $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_cassetti,skill_modellizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Village 5 buildings with 5,15,25,35,45 residents; show someone shares building with family member (lycée)*
 
-> A village is made up of 5 buildings. In the 5 buildings live 5, 15, 25, 35, and 45 people respectively. Each person counts at least two members of their family (excluding themselves) among the inhabitants of the village. Show that there exists a person who counts a member of their family among the inhabitants of their own building.
+> Un village est composé de 5 immeubles. Dans les 5 immeubles habitent 5, 15, 25, 35 et 45 personnes. Chaque personne compte au moins deux membres de sa famille (excepté lui-même) parmi les habitants du village. Montrer qu’il existe une personne qui compte un membre de sa famille parmi les habitants de son immeuble.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
@@ -317,15 +443,29 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Village 5 buildings with 5,15,25,35,45 residents; show someone shares building with family member (lycée)*
+
+> A village is made up of 5 buildings. In the 5 buildings live 5, 15, 25, 35, and 45 people respectively. Each person counts at least two members of their family (excluding themselves) among the inhabitants of the village. Show that there exists a person who counts a member of their family among the inhabitants of their own building.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *n has divisors a<b with n=a³+b; show divisor d with a<d<b exists (lycée version)*
 
-> A positive integer $n > 8$ has two distinct positive divisors $a$ and $b$ such that $a < b$ and $n = a^3 + b$. Show that $n$ has at least one divisor $d$ such that $a < d < b$.
+> Un entier positif $n > 8$ possède deux diviseurs positifs distincts $a$ et $b$ de telle sorte que $a < b$ et $n = a^2 + b$. Montrer que $n$ possède au moins un diviseur $d$ tel que $a < d < b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
@@ -347,15 +487,29 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*n has divisors a<b with n=a³+b; show divisor d with a<d<b exists (lycée version)*
+
+> A positive integer $n > 8$ has two distinct positive divisors $a$ and $b$ such that $a < b$ and $n = a^3 + b$. Show that $n$ has at least one divisor $d$ such that $a < d < b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Acute isosceles triangle, constructed points S,T,D,E; show CE bisects angle DCB*
 
-> Let $ABC$ be a triangle with all angles acute and such that $AB = BC$. Let $S$ be the point on the half-line $[BC)$ such that $AS = BS$. Let $T$ be the point on the half-line $[BA)$ such that $BT = BC$. Let $D$ be the intersection of lines $(AS)$ and $(CT)$. Let $E$ be the point on segment $[BA]$ such that $BE = CD$. Show that line $(CE)$ is the angle bisector of $\widehat{DCB}$.
+> Soit $ABC$ un triangle aux angles aigus et tel que $AB = BC$. Soit $S$ le point sur la demi-droite $[BC)$ tel que $AS = BS$. Soit $T$ le point sur la demi-droite $[BA)$ tel que $BT = CT$. Soit $D$ le point d’intersection des droites $(AS)$ et $(CT)$. Soit $E$ le point sur le segment $[BA]$ tel que $BE = CD$. Montrer que la droite $(CE)$ est la bissectrice de l’angle $\widehat{DCB}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -377,15 +531,29 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute isosceles triangle, constructed points S,T,D,E; show CE bisects angle DCB*
+
+> Let $ABC$ be a triangle with all angles acute and such that $AB = BC$. Let $S$ be the point on the half-line $[BC)$ such that $AS = BS$. Let $T$ be the point on the half-line $[BA)$ such that $BT = BC$. Let $D$ be the intersection of lines $(AS)$ and $(CT)$. Let $E$ be the point on segment $[BA]$ such that $BE = CD$. Show that line $(CE)$ is the angle bisector of $\widehat{DCB}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,topic_disuguaglianze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *100-digit number N; product of 100×99 pairwise digit sums equals N?*
 
-> Anna writes a number $N$ of 100 digits on the board, where the first digit is not zero. These 100 digits form $100 \times 99$ ordered pairs, and Anna computes the sum of the two digits in each pair. Finally, she computes the product of all $100 \times 99$ sums thus obtained. Is it possible that this product equals the number $N$ she started with?
+> Anna a écrit un nombre $N$ à 100 chiffres au tableau, dont le premier chiffre est non nul. Ces 100 chiffres forment $100 \times 99$ couples, et Anna calcule la somme des deux chiffres dans chacun de ces couples. Enfin, elle calcule le produit des $100 \times 99$ sommes ainsi obtenues. Est-il possible que ce produit soit égal au nombre $N$ de départ ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -407,15 +575,29 @@ level: Coupe Animath Automne
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*100-digit number N; product of 100×99 pairwise digit sums equals N?*
+
+> Anna writes a number $N$ of 100 digits on the board, where the first digit is not zero. These 100 digits form $100 \times 99$ ordered pairs, and Anna computes the sum of the two digits in each pair. Finally, she computes the product of all $100 \times 99$ sums thus obtained. Is it possible that this product equals the number $N$ she started with?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_aritmetica,topic_insiemi_funzioni,method_invarianti,method_doppio_conteggio,method_simmetria,method_bigezione,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Non-empty balanced subsets of {1,...,n} are odd in number*
 
-> Let $n$ be a strictly positive integer. Let $T$ be a non-empty subset of $\{1, \ldots, n\}$. A number $m$ (not necessarily an integer) is called a *median* of $T$ if there are at least as many elements of $T$ that are less than or equal to $m$ as there are elements of $T$ greater than or equal to $m$. The set $T$ is called *balanced* if the average of the elements of $T$ is equal to a median of $T$. Show that the number of non-empty balanced subsets of $\{1, \ldots, n\}$ is odd.
+> Soit $n$ un entier strictement positif et soit $T$ un sous-ensemble non vide de $\{1, \ldots, n\}$. On dit qu’un nombre $m$ (non nécessairement entier) est un nombre médian de $T$ s’il y a autant d’éléments de $T$ inférieurs ou égaux à $m$ que d’éléments de $T$ supérieurs ou égaux à $m$. Enfin, on dit que $T$ est équilibré si la moyenne des éléments de $T$ est un nombre médian de $T$. Montrer que le nombre de sous-ensembles équilibrés non vides de $\{1, \ldots, n\}$ est impair.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]], [[method_bigezione|Bijection / correspondence]]
@@ -437,19 +619,33 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Non-empty balanced subsets of {1,...,n} are odd in number*
+
+> Let $n$ be a strictly positive integer. Let $T$ be a non-empty subset of $\{1, \ldots, n\}$. A number $m$ (not necessarily an integer) is called a *median* of $T$ if there are at least as many elements of $T$ that are less than or equal to $m$ as there are elements of $T$ greater than or equal to $m$. The set $T$ is called *balanced* if the average of the elements of $T$ is equal to a median of $T$. Show that the number of non-empty balanced subsets of $\{1, \ldots, n\}$ is odd.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_cassetti,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Test with 3 problems scored 0–7; 61 or 40 students; find A dominating B on all problems*
 
-> Tristan organizes a test. The test consists of three problems, and each of the three problems is scored from $0$ to $7$; the total score is always a whole number.
-> 
-> a) Suppose that 61 students take the test. Show that Tristan can find a student $A$ and a student $B$ such that $A$ has received a score greater than or equal to that of $B$ on each of the three problems.
-> 
-> b) Suppose instead that only 40 students take the test. Show that Tristan can still find a student $A$ and a student $B$ such that $A$ has received a score greater than or equal to that of $B$ on each of the three problems.
+> Tristan organise un test. Ce test est constitué de trois problèmes et chacun de ces problèmes est noté de $0$ à $7$, la note étant toujours un entier.
+>
+> a) On suppose que 64 élèves participent au test. Montrer que Tristan peut trouver un élève $A$ et un élève $B$ tels que $A$ a eu des notes supérieures ou égales à celles de $B$ à chacun des trois problèmes.
+>
+> b) On suppose simplement que 49 élèves participent au test. Montrer que Tristan peut encore trouver un élève $A$ et un élève $B$ tels que $A$ a eu des notes supérieures ou égales à celles de $B$ à chacun des trois problèmes.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
@@ -473,3 +669,21 @@ level: Coupe Animath Automne
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Test with 3 problems scored 0–7; 61 or 40 students; find A dominating B on all problems*
+
+> Tristan organizes a test. The test consists of three problems, and each of the three problems is scored from $0$ to $7$; the total score is always a whole number.
+> 
+> a) Suppose that 61 students take the test. Show that Tristan can find a student $A$ and a student $B$ such that $A$ has received a score greater than or equal to that of $B$ on each of the three problems.
+> 
+> b) Suppose instead that only 40 students take the test. Show that Tristan can still find a student $A$ and a student $B$ such that $A$ has received a score greater than or equal to that of $B$ on each of the three problems.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)

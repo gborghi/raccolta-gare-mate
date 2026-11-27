@@ -260,9 +260,7 @@ level: RMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Un sistema di tre equazioni in x, y, z, da risolvere in funzione del parametro A*
-
+*Risolvere il sistema (x+y)(x+y+z)=18, (y+z)(x+y+z)=30, (z+x)(x+y+z)=24.*
 > Risolvere il sistema
 >
 > $$\begin{cases} (x + y)(x + y + z) = 18 \\ (y + z)(x + y + z) = 30 \\ (z + x)(x + y + z) = 24 \end{cases}$$

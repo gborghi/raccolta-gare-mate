@@ -12,18 +12,18 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_conteggio,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Length (lonjura) defined by iterating the divisor-count operation until reaching 2; count numbers of length 2 and the maximal length in 3..1000*
 
-> A mathematician is having fun with natural numbers and their positive divisors. For each positive integer $n$, he carries out the following sequence of operations: he computes the number of positive divisors of $n$, then, from the number obtained, he again computes its number of positive divisors, and so on successively, until he finally obtains the number $2$, at which point he stops. The *lonjura* of $n$ is defined as the number of operations needed to obtain the number $2$. Note that one always ends up at $2$.
-> 
-> For example, the lonjura of $12$ is $4$, since $12$ has $6$ positive divisors $\{1,2,3,4,6,12\}$, $6$ has $4$ divisors $\{1,2,3,6\}$, $4$ has $3$ divisors $\{1,2,4\}$, and $3$ has $2$ divisors $\{1,3\}$. Note also that $6$ has lonjura $3$, $4$ has lonjura $2$, and $3$ has lonjura $1$.
-> 
-> (a) How many numbers from $3$ to $1000$ have lonjura $2$?
-> 
-> (b) What is the greatest possible lonjura among the numbers from $3$ to $1000$?
+> Um matemático está se divertindo com números naturais e seus divisores positivos. Para cada inteiro positivo $n \geq 3$, ele faz a seguinte sequência de operações: calcula a quantidade de divisores positivos de $n$, depois ele toma o número obtido e calcula a quantidade de divisores positivos e assim sucessivamente, até obter o número $2$, quando ele finalmente para. A lonjura de $n$ é definida como a quantidade de operações necessárias para se obter o número $2$. Note que sempre se chega em $2$.
+>
+> Por exemplo, a lonjura de $12$ é $4$, pois $12$ tem $6$ divisores positivos $\{1, 2, 3, 4, 6, 12\}$, o $6$ tem $4$ divisores positivos $\{1, 2, 3, 6\}$, o $4$ tem $3$ divisores positivos $\{1, 2, 4\}$ e o $3$ tem $2$ divisores positivos $\{1, 3\}$. Note também que $6$ tem lonjura $3$, $4$ tem lonjura $2$, e $3$ tem lonjura $1$.
+>
+> (a) Quantos números de $3$ a $1000$ possuem lonjura $2$?
+>
+> (b) Qual é a maior lonjura possível dentre os números de $3$ a $1000$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -52,18 +52,39 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Length (lonjura) defined by iterating the divisor-count operation until reaching 2; count numbers of length 2 and the maximal length in 3..1000*
+
+> A mathematician is having fun with natural numbers and their positive divisors. For each positive integer $n$, he carries out the following sequence of operations: he computes the number of positive divisors of $n$, then, from the number obtained, he again computes its number of positive divisors, and so on successively, until he finally obtains the number $2$, at which point he stops. The *lonjura* of $n$ is defined as the number of operations needed to obtain the number $2$. Note that one always ends up at $2$.
+> 
+> For example, the lonjura of $12$ is $4$, since $12$ has $6$ positive divisors $\{1,2,3,4,6,12\}$, $6$ has $4$ divisors $\{1,2,3,6\}$, $4$ has $3$ divisors $\{1,2,4\}$, and $3$ has $2$ divisors $\{1,3\}$. Note also that $6$ has lonjura $3$, $4$ has lonjura $2$, and $3$ has lonjura $1$.
+> 
+> (a) How many numbers from $3$ to $1000$ have lonjura $2$?
+> 
+> (b) What is the greatest possible lonjura among the numbers from $3$ to $1000$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Acute triangle; A_1 is the midpoint of the major arc BC, A_2,A_3 feet of perpendiculars onto AB,AC; prove A_2A_3 bisects BC and that the three analogous lines are concurrent*
 
-> Let $ABC$ be an acute triangle. Define $A_1$ as the midpoint of the major arc $BC$ of the circumcircle of $ABC$. Let $A_2$ and $A_3$ be the feet of the perpendiculars from $A_1$ onto the lines $AB$ and $AC$, respectively. Define $B_1$, $B_2$, $B_3$ and $C_1$, $C_2$, $C_3$ analogously.
-> 
-> (a) Prove that $A_2A_3$ bisects $BC$.
-> 
-> (b) Show that the lines $A_2A_3$, $B_2B_3$ and $C_2C_3$ are concurrent.
+> Seja $ABC$ um triângulo acutângulo. Defina $A_1$ como o ponto médio do maior arco $BC$ do circuncírculo de $ABC$. Sejam $A_2$ e $A_3$ os pés das perperdiculares de $A_1$ até as retas $AB$ e $AC$, respectivamente. Defina $B_2$, $B_3$, $C_2$ e $C_3$ de modo análogo.
+>
+> (a) Prove $A_2A_3$ intersecta $BC$ em seu ponto médio.
+>
+> (b) Mostre que as retas $A_2A_3$, $B_2B_3$ e $C_2C_3$ são concorrentes.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -90,14 +111,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangle; A_1 is the midpoint of the major arc BC, A_2,A_3 feet of perpendiculars onto AB,AC; prove A_2A_3 bisects BC and that the three analogous lines are concurrent*
+
+> Let $ABC$ be an acute triangle. Define $A_1$ as the midpoint of the major arc $BC$ of the circumcircle of $ABC$. Let $A_2$ and $A_3$ be the feet of the perpendiculars from $A_1$ onto the lines $AB$ and $AC$, respectively. Define $B_1$, $B_2$, $B_3$ and $C_1$, $C_2$, $C_3$ analogously.
+> 
+> (a) Prove that $A_2A_3$ bisects $BC$.
+> 
+> (b) Show that the lines $A_2A_3$, $B_2B_3$ and $C_2C_3$ are concurrent.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_doppio_conteggio,skill_modellizzazione,skill_casework_accurato,skill_stima,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Round-robin with 2021 teams, 3/1/0 scoring; top two play the final, OBM has the tiebreak advantage and won its first match. Find the minimum final score giving a chance at the final*
 
-> In a football championship with $2021$ teams, the teams play against each other, all of them playing exactly once against each of the others. At the end of each match, in case of a draw, each team earns $1$ point; otherwise, the winner of the match earns $3$ points and the loser $0$ points. At the end of the championship, the two teams with the highest scores dispute the final. In case of a tie in points, the result of the first match played between them decides who has the advantage; that is, in any tie in final points the head-to-head winner has the advantage. The OBM Football Club won its first match, and it is known that, being the champion of the previous edition, it takes the advantage in any tie in final points. What is the minimum final score so that the OBM Football Club has some chance of reaching the final?
+> Em um campeonato de futebol com $2021$ times, todos jogam contra todos exatamente uma vez. Ao final de cada partida, em caso de empate, cada time ganha $1$ ponto e, caso contrário, o vencedor da partida ganha $3$ pontos e o perdedor não ganha e nem perde ponto. Ao final do campeonato, os dois times com as maiores pontuações disputam uma final. O OBM Futebol Clube venceu a sua primeira partida e sabe-se que, por terem vencido o campeonato anterior, eles levam vantagem em qualquer caso de empate na soma de pontos final. Qual é a pontuação final mínima para que o OBM Futebol Clube tenha alguma chance de ir para a final?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
@@ -120,10 +160,56 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Round-robin with 2021 teams, 3/1/0 scoring; top two play the final, OBM has the tiebreak advantage and won its first match. Find the minimum final score giving a chance at the final*
+
+> In a football championship with $2021$ teams, the teams play against each other, all of them playing exactly once against each of the others. At the end of each match, in case of a draw, each team earns $1$ point; otherwise, the winner of the match earns $3$ points and the loser $0$ points. At the end of the championship, the two teams with the highest scores dispute the final. In case of a tie in points, the result of the first match played between them decides who has the advantage; that is, in any tie in final points the head-to-head winner has the advantage. The OBM Football Club won its first match, and it is known that, being the champion of the previous edition, it takes the advantage in any tie in final points. What is the minimum final score so that the OBM Football Club has some chance of reaching the final?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*Right triangle ABC (right angle at B) with inscribed square BDEF; incircles of CFE and EDA have radii c and b; inside the square two circles of radius b are tangent and two of radius a are tangent. Find a/c*
+
+> Na figura a seguir temos um triângulo $ABC$, retângulo em $B$, e $BDEF$ é um quadrado inscrito nesse triângulo. As circunferências inscritas nos triângulos $CFE$ e $EDA$ possuem raios $c$ e $b$, respectivamente. No interior do quadrado desenham-se duas circunferências de raio $b$ e duas circunferências de raio $a$, cada uma tangente a um dos lados do quadrado, como mostra a figura. Sabe-se que as circunferências de raio $b$ no interior do quadrado são tangentes entre si e tangentes às duas de raio $a$. Lembre-se que quando temos duas circunferências tangentes, o centro é colinear com o ponto de tangência.
+>
+> Determine a razão $\dfrac{c}{a}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Triangolo rettangolo in B con quadrato inscritto BDEF; i cerchi inscritti di CFE e EDA hanno raggi c e b; nel quadrato, due circonferenze di raggio b e due di raggio a a due a due tangenti. Determinare a/c.*
+> Nella figura sottostante abbiamo un triangolo $ABC$, rettangolo in $B$, e $BDEF$ è un quadrato inscritto in questo triangolo. I cerchi inscritti nei triangoli $CFE$ e $EDA$ hanno raggi rispettivamente pari a $c$ e $b$. All'interno del quadrato sono tracciati due cerchi di raggio $b$ e due cerchi di raggio $a$. I due cerchi di raggio $b$ sono tangenti tra loro, e i due cerchi di raggio $a$ sono tangenti tra loro. Si ricordi che, quando due cerchi sono tangenti, il centro è allineato con il punto di tangenza.
+>
+> Determinare il rapporto $\dfrac{a}{c}$.
+
+![[src_obm_2021_n2_fx__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Right triangle ABC (right angle at B) with inscribed square BDEF; incircles of CFE and EDA have radii c and b; inside the square two circles of radius b are tangent and two of radius a are tangent. Find a/c*
@@ -141,40 +227,23 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Triangolo rettangolo ABC (angolo retto in B) con quadrato inscritto BDEF; gli incircoli dei triangoli CFE ed EDA hanno raggi c e b; all'interno del quadrato, due circonferenze di raggio b sono tangenti tra loro e due circonferenze di raggio a sono tangenti tra loro. Determinare a/c*
-
-> Nella figura sottostante abbiamo un triangolo $ABC$, rettangolo in $B$, e $BDEF$ è un quadrato inscritto in questo triangolo. I cerchi inscritti nei triangoli $CFE$ e $EDA$ hanno raggi rispettivamente pari a $c$ e $b$. All'interno del quadrato sono tracciati due cerchi di raggio $b$ e due cerchi di raggio $a$. I due cerchi di raggio $b$ sono tangenti tra loro, e i due cerchi di raggio $a$ sono tangenti tra loro. Si ricordi che, quando due cerchi sono tangenti, il centro è allineato con il punto di tangenza.
->
-> Determinare il rapporto $\dfrac{a}{c}$.
-
-![[src_obm_2021_n2_fx__Q04.png]]
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze,method_estremalita,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triples (a,b,c) of positive integers with a|bc+1, b|ca+1, c|ab+1 (miranhas); determine all of them*
 
-> A triple of positive integers $(a,b,c)$ is called *miranha* if:
-> 
-> $\bullet$ $a$ divides $bc+1$;
-> 
-> $\bullet$ $b$ divides $ca+1$;
-> 
-> $\bullet$ $c$ divides $ab+1$.
-> 
-> Determine all miranha triples.
+> Uma tripla de inteiros positivos $(a, b, c)$ é chamada miranha se
+>
+> $\bullet$ $a$ divide $bc + 1$;
+>
+> $\bullet$ $b$ divide $ca + 1$;
+>
+> $\bullet$ $c$ divide $ab + 1$.
+>
+> Determine todas as triplas miranhas.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -205,20 +274,42 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triples (a,b,c) of positive integers with a|bc+1, b|ca+1, c|ab+1 (miranhas); determine all of them*
+
+> A triple of positive integers $(a,b,c)$ is called *miranha* if:
+> 
+> $\bullet$ $a$ divides $bc+1$;
+> 
+> $\bullet$ $b$ divides $ca+1$;
+> 
+> $\bullet$ $c$ divides $ab+1$.
+> 
+> Determine all miranha triples.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_congruenze,method_casework,skill_astrazione,skill_lettura_attenta,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *For real a>=1, A(a)={floor(na)}; suppose every positive integer not in A(a) leaves the same remainder r mod 2021. Find all possible a*
 
-> Let $\alpha \geq 1$ be a real number. Consider the set
-> $$A(\alpha)=\{\lfloor n\alpha \rfloor \mid n \text{ a positive integer}\}=\{\lfloor \alpha \rfloor, \lfloor 2\alpha \rfloor, \lfloor 3\alpha \rfloor, \lfloor 4\alpha \rfloor, \ldots\}.$$
-> 
-> Suppose that all the positive integers that do not belong to the set $A(\alpha)$ leave exactly the same remainder $r$ upon division by $2021$, with $0 \leq r < 2021$. Determine all the possible values of $\alpha$.
-> 
-> *Observation:* the symbol $\lfloor x \rfloor$ denotes the largest integer less than or equal to $x$. For example, if $\alpha=\sqrt{3}$, since $\sqrt{3}=1{,}73\ldots$ we have $\lfloor \sqrt{3} \rfloor=1$, $\lfloor 2\sqrt{3} \rfloor=3$, $\lfloor 3\sqrt{3} \rfloor=5$, $\lfloor 4\sqrt{3} \rfloor=6$ and so on. In this case $A(\alpha)=\{1,3,5,6,\ldots\}$.
+> Seja $\alpha \geq 1$ um número real. Considere o conjunto
+> $$A(\alpha) = \{\lfloor n\alpha \rfloor \mid n \text{ inteiro positivo}\} = \{\lfloor \alpha \rfloor, \lfloor 2\alpha \rfloor, \lfloor 3\alpha \rfloor, \lfloor 4\alpha \rfloor, \ldots\}.$$
+>
+> Suponha que todos os inteiros positivos que não pertencem ao conjunto $A(\alpha)$ são exatamente os inteiros positivos que deixam um determinado resto $r$ na divisão por $2021$, com $0 \leq r < 2021$. Determine todos os possíveis valores de $\alpha$.
+>
+> *Observação:* O símbolo $\lfloor x \rfloor$ é o maior inteiro menor ou igual a $x$. Por exemplo, se $\alpha = \sqrt{3}$, temos $\lfloor \sqrt{3} \rfloor = \lfloor 1{,}73\ldots \rfloor = 1$, $\lfloor 2\sqrt{3} \rfloor = \lfloor 2 \cdot 1{,}73\ldots \rfloor = 3$, $\lfloor 3\sqrt{3} \rfloor = \lfloor 3 \cdot 1{,}73\ldots \rfloor = 5$, $\lfloor 4\sqrt{3} \rfloor = \lfloor 4 \cdot 1{,}73\ldots \rfloor = 6$ e assim por diante. Nesse caso temos $A(\alpha) = \{1, 3, 5, 6, \ldots\}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -244,3 +335,22 @@ level: OBM Nível 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*For real a>=1, A(a)={floor(na)}; suppose every positive integer not in A(a) leaves the same remainder r mod 2021. Find all possible a*
+
+> Let $\alpha \geq 1$ be a real number. Consider the set
+> $$A(\alpha)=\{\lfloor n\alpha \rfloor \mid n \text{ a positive integer}\}=\{\lfloor \alpha \rfloor, \lfloor 2\alpha \rfloor, \lfloor 3\alpha \rfloor, \lfloor 4\alpha \rfloor, \ldots\}.$$
+> 
+> Suppose that all the positive integers that do not belong to the set $A(\alpha)$ leave exactly the same remainder $r$ upon division by $2021$, with $0 \leq r < 2021$. Determine all the possible values of $\alpha$.
+> 
+> *Observation:* the symbol $\lfloor x \rfloor$ denotes the largest integer less than or equal to $x$. For example, if $\alpha=\sqrt{3}$, since $\sqrt{3}=1{,}73\ldots$ we have $\lfloor \sqrt{3} \rfloor=1$, $\lfloor 2\sqrt{3} \rfloor=3$, $\lfloor 3\sqrt{3} \rfloor=5$, $\lfloor 4\sqrt{3} \rfloor=6$ and so on. In this case $A(\alpha)=\{1,3,5,6,\ldots\}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)

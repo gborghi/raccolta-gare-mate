@@ -12,25 +12,23 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *CRT table: sum of highlighted cells (mod 3 × mod 7)*
 
-> Let $m$ and $n$ be two positive integers that are coprime. The Chinese Remainder Theorem states that, for any integers $i$ and $j$ with $0 \le i < m$ and $0 \le j < n$, there exists exactly one integer $a$ with $0 \le a < mn$ such that the remainder of the division of $a$ by $m$ equals $i$ and the remainder of the division of $a$ by $n$ equals $j$. For example, for $m = 3$ and $n = 7$, the number $19$ is the unique integer in $\{0, 1, \ldots, 20\}$ that leaves remainders $1$ and $5$ when divided by $3$ and $7$, respectively.
-> 
-> In the table below (rows = remainder mod $3$, columns = remainder mod $7$), each integer from $0$ to $20$ appears exactly once:
-> 
+> Sejam $m$ e $n$ dois inteiros positivos primos entre si. O Teorema Chinês dos Restos afirma que, dados inteiros $i$ e $j$ com $0 \le i < m$ e $0 \le j < n$, existe exatamente um inteiro $a$, com $0 \le a < m\cdot n$, tal que o resto da divisão de $a$ por $m$ é igual a $i$ e o resto da divisão de $a$ por $n$ é igual a $j$. Por exemplo, para $m = 3$ e $n = 7$, temos que $19$ é o único número que deixa restos $1$ e $5$ quando dividido por $3$ e $7$, respectivamente.
+>
+> Assim, na tabela a seguir, cada número de $0$ a $20$ aparecerá exatamente uma vez.
+>
 > $$\begin{array}{c|ccccccc}
-> \text{Res mod 3} \backslash \text{Res mod 7} & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\ \hline
+> \text{Restos por 3} \backslash \text{Restos por 7} & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\ \hline
 > 0 & 0 & 15 & 9 & 3 & 18 & 12 & 6 \\
 > 1 & 7 & 1 & 16 & 10 & 4 & 19 & 13 \\
 > 2 & 14 & 8 & 2 & 17 & 11 & 5 & 20
 > \end{array}$$
-> 
-> Certain cells in the table are highlighted (shaded). What is the sum of the highlighted numbers?
-
-![[src_obm_2009_n3_f2__Q01.png]]
+>
+> Qual a soma dos números das casas destacadas?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -66,14 +64,42 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*CRT table: sum of highlighted cells (mod 3 × mod 7)*
+
+> Let $m$ and $n$ be two positive integers that are coprime. The Chinese Remainder Theorem states that, for any integers $i$ and $j$ with $0 \le i < m$ and $0 \le j < n$, there exists exactly one integer $a$ with $0 \le a < mn$ such that the remainder of the division of $a$ by $m$ equals $i$ and the remainder of the division of $a$ by $n$ equals $j$. For example, for $m = 3$ and $n = 7$, the number $19$ is the unique integer in $\{0, 1, \ldots, 20\}$ that leaves remainders $1$ and $5$ when divided by $3$ and $7$, respectively.
+> 
+> In the table below (rows = remainder mod $3$, columns = remainder mod $7$), each integer from $0$ to $20$ appears exactly once:
+> 
+> $$\begin{array}{c|ccccccc}
+> \text{Res mod 3} \backslash \text{Res mod 7} & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\ \hline
+> 0 & 0 & 15 & 9 & 3 & 18 & 12 & 6 \\
+> 1 & 7 & 1 & 16 & 10 & 4 & 19 & 13 \\
+> 2 & 14 & 8 & 2 & 17 & 11 & 5 & 20
+> \end{array}$$
+> 
+> Certain cells in the table are highlighted (shaded). What is the sum of the highlighted numbers?
+
+![[src_obm_2009_n3_f2__Q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Incenter distance CI in right triangle ABC*
 
-> In triangle $ABC$, $\angle A = 90^\circ$, $AB = 5$ cm and $BC = 9$ cm. Let $I$ be the incenter of $ABC$. Determine the length of segment $CI$.
+> No triângulo retângulo $ABC$, $\angle A = 90º$, $AB = 5$ cm e $BC = 9$ cm. Se $I$ é o incentro de $ABC$, determine o comprimento do segmento $CI$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -96,16 +122,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Incenter distance CI in right triangle ABC*
+
+> In triangle $ABC$, $\angle A = 90^\circ$, $AB = 5$ cm and $BC = 9$ cm. Let $I$ be the incenter of $ABC$. Determine the length of segment $CI$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest c for quadratic inequality; nearest integer to 2009c*
 
-> Let $c$ be the largest real constant such that
-> $$x^2 + 3y^2 \ge c\,(x^2 + xy + 4y^2)$$
-> for all real numbers $x$ and $y$. Determine the integer nearest to $2009c$.
+> Seja $c$ a maior constante real para a qual
+> $$x^2 + 3y^2 \ge c\cdot(x^2 + xy + 4y^2)$$
+> para todos $x$, $y$ reais.
+>
+> Determine o inteiro mais próximo de $2009\cdot c$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
@@ -130,14 +173,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest c for quadratic inequality; nearest integer to 2009c*
+
+> Let $c$ be the largest real constant such that
+> $$x^2 + 3y^2 \ge c\,(x^2 + xy + 4y^2)$$
+> for all real numbers $x$ and $y$. Determine the integer nearest to $2009c$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum probability of winning a car in Toto Bola; find m+n*
 
-> On the game show *Toto Bola*, the host Ciço Magalhães has two identical boxes. A volunteer from the audience is invited to participate in the following game: he receives ten green balls and two red balls and distributes them among the two boxes (without the host seeing), in such a way that each box contains at least one ball. Then the host chooses one of the boxes and draws one ball. If the ball is RED, the volunteer wins a car. If it is GREEN, the volunteer wins a banana. The maximum probability of winning a car equals $\dfrac{m}{n}$, where $m$ and $n$ are positive integers with $\gcd(m, n) = 1$. Determine the value of $m + n$.
+> No programa de auditório Toto Bola, o apresentador Ciço Magallanes dispõe de duas caixas idênticas. Um voluntário da platéia é chamado a participar da seguinte brincadeira: ele recebe dez bolas verdes e dez bolas vermelhas e as distribui nas duas caixas, sem que o apresentador veja, e de modo que em cada caixa haja pelo menos uma bola. Em seguida, o apresentador escolhe uma das caixas e retira uma bola. Se a bola for VERDE, o voluntário ganha um carro. Se for VERMELHA, ele ganha uma banana. A máxima probabilidade que o voluntário tem de ganhar um carro é igual a $\dfrac{m}{n}$, em que $m$ e $n$ são inteiros positivos primos entre si. Determine o valor de $m + n$.
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -160,14 +220,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum probability of winning a car in Toto Bola; find m+n*
+
+> On the game show *Toto Bola*, the host Ciço Magalhães has two identical boxes. A volunteer from the audience is invited to participate in the following game: he receives ten green balls and two red balls and distributes them among the two boxes (without the host seeing), in such a way that each box contains at least one ball. Then the host chooses one of the boxes and draws one ball. If the ball is RED, the volunteer wins a car. If it is GREEN, the volunteer wins a banana. The maximum probability of winning a car equals $\dfrac{m}{n}$, where $m$ and $n$ are positive integers with $\gcd(m, n) = 1$. Determine the value of $m + n$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest n < 10000 with 2^n + n divisible by 5*
 
-> Determine the largest integer $n$ less than $10000$ such that $2^n + n$ is divisible by $5$.
+> Determine o maior inteiro $n$ menor que $10000$ tal que $2^n + n$ seja divisível por $5$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
@@ -190,18 +265,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest n < 10000 with 2^n + n divisible by 5*
+
+> Determine the largest integer $n$ less than $10000$ such that $2^n + n$ is divisible by $5$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 6-digit numbers from distinct digits satisfying two conditions*
 
-> Determine the number of 6-digit integers $n = \overline{a_1 a_2 a_3 a_4 a_5 a_6}$ that can be formed using six distinct digits from $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ such that the following conditions are satisfied simultaneously:
-> \begin{enumerate}
-> \item[(i)] $a_1 + a_2 = a_3 + a_4 = a_5 + a_6$;
-> \item[(ii)] $n$ is divisible by $9$.
-> \end{enumerate}
+> Determine a quantidade de números $n = a_1 a_2 a_3 a_4 a_5 a_6$, de seis algarismos distintos, que podemos formar utilizando os algarismos $1, 2, 3, 4, 5, 6, 7, 8, 9$ de modo que as seguintes condições sejam satisfeitas simultaneamente:
+>
+> i) $a_1 + a_6 = a_2 + a_5 = a_3 + a_4$;
+>
+> ii) $n$ é divisível por $9$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
@@ -227,14 +317,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 6-digit numbers from distinct digits satisfying two conditions*
+
+> Determine the number of 6-digit integers $n = \overline{a_1 a_2 a_3 a_4 a_5 a_6}$ that can be formed using six distinct digits from $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ such that the following conditions are satisfied simultaneously:
+> \begin{enumerate}
+> \item[(i)] $a_1 + a_2 = a_3 + a_4 = a_5 + a_6$;
+> \item[(ii)] $n$ is divisible by $9$.
+> \end{enumerate}
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all positive integer solutions to 4·3^a = 11 + 5^b*
 
-> Find all integers $a > 0$ and $b > 0$ such that
+> Encontre todos os inteiros $a > 0$ e $b > 0$ tais que
 > $$4 \cdot 3^a = 11 + 5^b.$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -259,19 +368,32 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all positive integer solutions to 4·3^a = 11 + 5^b*
+
+> Find all integers $a > 0$ and $b > 0$ such that
+> $$4 \cdot 3^a = 11 + 5^b.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_insiemi_funzioni,topic_combinatoria,method_conteggio,skill_lettura_attenta,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count elements of union of sets A_n defined via floor function*
 
-> For each positive integer $n$, let
-> $$A_n = \{x \in \mathbb{R}_+ : \lfloor x \rfloor \le n\},$$
-> where $\mathbb{R}_+$ is the set of positive real numbers and $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.
-> 
-> Determine the number of elements of the set
+> Para cada inteiro positivo $n$, seja $A_n = \{x \in \mathbb{R}_+ : x \cdot \lfloor x \rfloor = n\}$, em que $\mathbb{R}_+$ é o conjunto dos reais positivos e $\lfloor x \rfloor$ é o maior inteiro menor ou igual a $x$.
+>
+> Determine a quantidade de elementos do conjunto
 > $$A_1 \cup A_2 \cup A_3 \cup \cdots \cup A_{2009}.$$
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
@@ -300,15 +422,34 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count elements of union of sets A_n defined via floor function*
+
+> For each positive integer $n$, let
+> $$A_n = \{x \in \mathbb{R}_+ : \lfloor x \rfloor \le n\},$$
+> where $\mathbb{R}_+$ is the set of positive real numbers and $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.
+> 
+> Determine the number of elements of the set
+> $$A_1 \cup A_2 \cup A_3 \cup \cdots \cup A_{2009}.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Distance between midpoints of BC and KL in triangle with incircle and diameter circle*
 
-> In triangle $ABC$, we have $\angle A = 120^\circ$ and $BC = 12$ cm. The inscribed circle (incircle) of triangle $ABC$ is tangent to sides $AB$ and $AC$ at points $D$ and $E$, respectively. Let $K$ and $L$ be the points where line $DE$ intersects the circle with diameter $BC$. Determine the distance between the midpoints of segments $BC$ and $KL$.
+> No triângulo $ABC$, temos $\angle A = 120°$ e $BC = 12$ cm. A circunferência inscrita em $ABC$ tangencia os lados $AB$ e $AC$, respectivamente, nos pontos $D$ e $E$. Sejam $K$ e $L$ os pontos onde a reta $DE$ intersecta a circunferência de diâmetro $BC$. Determine a distância entre os pontos médios dos segmentos $BC$ e $KL$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -328,3 +469,18 @@ level: OBM Nível 3
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Distance between midpoints of BC and KL in triangle with incircle and diameter circle*
+
+> In triangle $ABC$, we have $\angle A = 120^\circ$ and $BC = 12$ cm. The inscribed circle (incircle) of triangle $ABC$ is tangent to sides $AB$ and $AC$ at points $D$ and $E$, respectively. Let $K$ and $L$ be the points where line $DE$ intersects the circle with diameter $BC$. Determine the distance between the midpoints of segments $BC$ and $KL$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)

@@ -12,19 +12,19 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of digits of 101 times a repunit with 2007 ones*
 
-> Observe the following multiplications:
+> Observe as multiplicações a seguir:
 > $$101 \times 11 = 1111$$
 > $$101 \times 111 = 11211$$
 > $$101 \times 1111 = 112211$$
 > $$101 \times 11111 = 1122211$$
-> What is the sum of the digits of the number obtained when we multiply $101$ by the number $\underbrace{11111\ldots11}_{2007 \text{ ones}}$?
-> 
-> (A) 1001 $\quad$ (B) 2007 $\quad$ (C) 2009 $\quad$ (D) 4008 $\quad$ (E) 4014
+> Qual é a soma dos algarismos do número obtido quando multiplicamos $101$ pelo número $\underbrace{11111\ldots11}_{2007 \text{ algarismos } 1}$?
+>
+> A) 1001 $\quad$ B) 2007 $\quad$ C) 2009 $\quad$ D) 4008 $\quad$ E) 4014
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -55,19 +55,39 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of digits of 101 times a repunit with 2007 ones*
+
+> Observe the following multiplications:
+> $$101 \times 11 = 1111$$
+> $$101 \times 111 = 11211$$
+> $$101 \times 1111 = 112211$$
+> $$101 \times 11111 = 1122211$$
+> What is the sum of the digits of the number obtained when we multiply $101$ by the number $\underbrace{11111\ldots11}_{2007 \text{ ones}}$?
+> 
+> (A) 1001 $\quad$ (B) 2007 $\quad$ (C) 2009 $\quad$ (D) 4008 $\quad$ (E) 4014
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fraction a/b shown on a number line between 0 and 1, possible a+b*
 
-> The fraction $\dfrac{a}{b}$, where $a$ and $b$ are positive integers, represents a number between $0$ and $1$, in the position indicated in the drawing beside. What is a possible value for the sum $a + b$?
-> 
-> (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
-
-![[src_obm_2007_n2_f1__Q02.png]]
+> A fração $\dfrac{a}{b}$, onde $a$ e $b$ são inteiros positivos, representa um número entre $0$ e $1$, na posição indicada no desenho ao lado. Qual é um possível valor para a soma $a + b$?
+>
+> A) 1 $\quad$ B) 2 $\quad$ C) 3 $\quad$ D) 4 $\quad$ E) 5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Case analysis]]
@@ -95,19 +115,36 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fraction a/b shown on a number line between 0 and 1, possible a+b*
+
+> The fraction $\dfrac{a}{b}$, where $a$ and $b$ are positive integers, represents a number between $0$ and $1$, in the position indicated in the drawing beside. What is a possible value for the sum $a + b$?
+> 
+> (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
+
+![[src_obm_2007_n2_f1__Q02.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Equilateral triangle and square with parallel sides, find angle x*
 
-> In the figure, side $\overline{AB}$ of the equilateral triangle $ABC$ is parallel to side $\overline{DG}$ of the square $DEFG$. What is the value of angle $x$?
-> 
-> (A) $80^\circ$ $\quad$ (B) $90^\circ$ $\quad$ (C) $100^\circ$ $\quad$ (D) $110^\circ$ $\quad$ (E) $120^\circ$
-
-![[src_obm_2007_n2_f1__Q03.png]]
+> Na figura, o lado $\overline{AB}$ do triângulo eqüilátero $ABC$ é paralelo ao lado $\overline{DG}$ do quadrado $DEFG$. Qual é o valor do ângulo $x$?
+>
+> A) $80^\circ$ $\quad$ B) $90^\circ$ $\quad$ C) $100^\circ$ $\quad$ D) $110^\circ$ $\quad$ E) $120^\circ$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -133,16 +170,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Equilateral triangle and square with parallel sides, find angle x*
+
+> In the figure, side $\overline{AB}$ of the equilateral triangle $ABC$ is parallel to side $\overline{DG}$ of the square $DEFG$. What is the value of angle $x$?
+> 
+> (A) $80^\circ$ $\quad$ (B) $90^\circ$ $\quad$ (C) $100^\circ$ $\quad$ (D) $110^\circ$ $\quad$ (E) $120^\circ$
+
+![[src_obm_2007_n2_f1__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ratio of adults to children given men:women and women:children*
 
-> In a certain city, the ratio of the number of men to women is $2:3$ and the ratio of women to children is $8:1$. The ratio of the number of adults to children is:
-> 
-> (A) $5:1$ $\quad$ (B) $16:1$ $\quad$ (C) $12:1$ $\quad$ (D) $40:3$ $\quad$ (E) $13:1$
+> Em uma certa cidade, a razão entre o número de homens e mulheres é $2:3$ e entre o número de mulheres e crianças é $8:1$. A razão entre o número de adultos e crianças é:
+>
+> A) $5:1$ $\quad$ B) $16:1$ $\quad$ C) $12:1$ $\quad$ D) $40:3$ $\quad$ E) $13:1$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -166,16 +222,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ratio of adults to children given men:women and women:children*
+
+> In a certain city, the ratio of the number of men to women is $2:3$ and the ratio of women to children is $8:1$. The ratio of the number of adults to children is:
+> 
+> (A) $5:1$ $\quad$ (B) $16:1$ $\quad$ (C) $12:1$ $\quad$ (D) $40:3$ $\quad$ (E) $13:1$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Total students given percentages and 156 who solved everything*
 
-> In an olympiad exam, $15\%$ of the students did not solve any problem, $25\%$ solved at least one problem but made some error, and the remaining $156$ students solved everything correctly. The number of students who took part in the olympiad was:
-> 
-> (A) 200 $\quad$ (B) 260 $\quad$ (C) 93 $\quad$ (D) 223 $\quad$ (E) 300
+> Em uma prova de olimpíada, $15\%$ dos estudantes não resolveram nenhum problema, $25\%$ resolveram pelo menos um problema, mas cometeram algum erro, e os restantes, $156$ estudantes, resolveram todos os problemas corretamente. O número de estudantes que participaram da olimpíada foi:
+>
+> A) 200 $\quad$ B) 260 $\quad$ C) 93 $\quad$ D) 223 $\quad$ E) 300
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -199,16 +272,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Total students given percentages and 156 who solved everything*
+
+> In an olympiad exam, $15\%$ of the students did not solve any problem, $25\%$ solved at least one problem but made some error, and the remaining $156$ students solved everything correctly. The number of students who took part in the olympiad was:
+> 
+> (A) 200 $\quad$ (B) 260 $\quad$ (C) 93 $\quad$ (D) 223 $\quad$ (E) 300
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest N/12 where N is a fourth power divisible by 12*
 
-> If $N$ is the square of the square of an integer (a fourth power) and has $12$ as a factor, the smallest value for $\dfrac{N}{12}$ is:
-> 
-> (A) 3 $\quad$ (B) 12 $\quad$ (C) 36 $\quad$ (D) 54 $\quad$ (E) 108
+> Se $N$ é o quadrado do quadrado de um número inteiro e tem $12$ como fator, o menor valor para $\dfrac{N}{12}$ é:
+>
+> A) 3 $\quad$ B) 12 $\quad$ C) 36 $\quad$ D) 54 $\quad$ E) 108
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -234,19 +324,34 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest N/12 where N is a fourth power divisible by 12*
+
+> If $N$ is the square of the square of an integer (a fourth power) and has $12$ as a factor, the smallest value for $\dfrac{N}{12}$ is:
+> 
+> (A) 3 $\quad$ (B) 12 $\quad$ (C) 36 $\quad$ (D) 54 $\quad$ (E) 108
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square garden made of five equal-area squares, find total area*
 
-> The garden of Maria's house is formed by five square gardens of equal area and has the shape of a square, as in the figure below. If $AB = 10$ m, then the area of the garden in square meters is:
-> 
-> (A) 200 $\quad$ (B) $10\sqrt{5}$ $\quad$ (C) 100 $\quad$ (D) $\dfrac{500}{3}$ $\quad$ (E) $\dfrac{100}{3}$
-
-![[src_obm_2007_n2_f1__Q07.png]]
+> O jardim da casa de Maria é formado por cinco quadrados de igual área e tem a forma da figura abaixo. Se $AB = 10$ m, então a área do jardim em metros quadrados é:
+>
+> A) 200 $\quad$ B) $10\sqrt{5}$ $\quad$ C) 100 $\quad$ D) $\dfrac{500}{3}$ $\quad$ E) $\dfrac{100}{3}$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
@@ -272,17 +377,35 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square garden made of five equal-area squares, find total area*
+
+> The garden of Maria's house is formed by five square gardens of equal area and has the shape of a square, as in the figure below. If $AB = 10$ m, then the area of the garden in square meters is:
+> 
+> (A) 200 $\quad$ (B) $10\sqrt{5}$ $\quad$ (C) 100 $\quad$ (D) $\dfrac{500}{3}$ $\quad$ (E) $\dfrac{100}{3}$
+
+![[src_obm_2007_n2_f1__Q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of possible values of k in cyclic equal-ratio system*
 
-> Let $a, b, c$ and $k$ be real numbers different from zero satisfying the relations $k = \dfrac{a}{b+c} = \dfrac{b}{c+a} = \dfrac{c}{a+b}$. How many possible values can $k$ assume?
-> 
-> (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
+> Sejam $a$, $b$, $c$ e $k$ números reais diferentes de zero satisfazendo as relações $k = \dfrac{a}{b+c} = \dfrac{b}{c+a} = \dfrac{c}{a+b}$. Qual é o número de possíveis valores que $k$ pode assumir?
+>
+> A) 0 $\quad$ B) 1 $\quad$ C) 2 $\quad$ D) 3 $\quad$ E) 4
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -308,16 +431,33 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of possible values of k in cyclic equal-ratio system*
+
+> Let $a, b, c$ and $k$ be real numbers different from zero satisfying the relations $k = \dfrac{a}{b+c} = \dfrac{b}{c+a} = \dfrac{c}{a+b}$. How many possible values can $k$ assume?
+> 
+> (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of convex polygons from 12 points on a circle*
 
-> Twelve points are marked on a circle. How many convex polygons can we form with vertices at these $12$ points?
-> 
+> Doze pontos estão sobre um círculo. Quantos polígonos convexos podemos formar com vértices nesses $12$ pontos?
+>
 > (A) 4017 $\quad$ (B) 220 $\quad$ (C) 4095 $\quad$ (D) 66 $\quad$ (E) 3572
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -344,16 +484,33 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of convex polygons from 12 points on a circle*
+
+> Twelve points are marked on a circle. How many convex polygons can we form with vertices at these $12$ points?
+> 
+> (A) 4017 $\quad$ (B) 220 $\quad$ (C) 4095 $\quad$ (D) 66 $\quad$ (E) 3572
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of ways to write 2007 as sum of consecutive positive integers*
 
-> In how many ways can we write the number $2007$ as a sum of two or more consecutive positive integers?
-> 
+> De quantas maneiras diferentes podemos escrever o número $2007$ como soma de dois ou mais números inteiros positivos e consecutivos?
+>
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -380,16 +537,33 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of ways to write 2007 as sum of consecutive positive integers*
+
+> In how many ways can we write the number $2007$ as a sum of two or more consecutive positive integers?
+> 
+> (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two quadratics with a common root, product of the two non-common roots*
 
-> The $2$nd degree equations $2007x^2 + 2008x + 1 = 0$ and $x^2 + 2008x + 2007 = 0$ have a common root. What is the value of the product of the two roots that are not common?
-> 
+> As equações do 2º grau $2007x^2 + 2008x + 1 = 0$ e $x^2 + 2008x + 2007 = 0$ têm uma raiz comum. Qual é o valor do produto das duas raízes que não são comuns?
+>
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2007 $\quad$ (D) 2008 $\quad$ (E) 2007
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -416,16 +590,33 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two quadratics with a common root, product of the two non-common roots*
+
+> The $2$nd degree equations $2007x^2 + 2008x + 1 = 0$ and $x^2 + 2008x + 2007 = 0$ have a common root. What is the value of the product of the two roots that are not common?
+> 
+> (A) 0 $\quad$ (B) 1 $\quad$ (C) 2007 $\quad$ (D) 2008 $\quad$ (E) 2007
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum value of a(b+c)-b(a+c) for digits-bounded integers*
 
-> What is the maximum value that the number $a(b+c) - b(a+c)$ can assume if $a, b$ and $c$ are integers satisfying $1 \le a \le 10$, $1 \le b \le 10$ and $1 \le c \le 10$?
-> 
+> Qual é o máximo valor que o número $a(b + c) - b(a + c)$ pode assumir se $a$, $b$ e $c$ são inteiros satisfazendo $1 \le a \le 10$, $1 \le b \le 10$ e $1 \le c \le 10$?
+>
 > (A) 80 $\quad$ (B) 81 $\quad$ (C) 84 $\quad$ (D) 90 $\quad$ (E) 100
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -452,16 +643,33 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum value of a(b+c)-b(a+c) for digits-bounded integers*
+
+> What is the maximum value that the number $a(b+c) - b(a+c)$ can assume if $a, b$ and $c$ are integers satisfying $1 \le a \le 10$, $1 \le b \le 10$ and $1 \le c \le 10$?
+> 
+> (A) 80 $\quad$ (B) 81 $\quad$ (C) 84 $\quad$ (D) 90 $\quad$ (E) 100
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count of 3-digit x with 6x and 7x having the same digit count*
 
-> The quantity of three-digit integers $x$ such that $6x$ and $7x$ have the same quantity of digits is:
-> 
+> A quantidade de inteiros $x$ com três dígitos tais que $6x$ e $7x$ possuem a mesma quantidade de dígitos é:
+>
 > (A) 767 $\quad$ (B) 875 $\quad$ (C) 876 $\quad$ (D) 974 $\quad$ (E) 975
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -488,19 +696,34 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count of 3-digit x with 6x and 7x having the same digit count*
+
+> The quantity of three-digit integers $x$ such that $6x$ and $7x$ have the same quantity of digits is:
+> 
+> (A) 767 $\quad$ (B) 875 $\quad$ (C) 876 $\quad$ (D) 974 $\quad$ (E) 975
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of rectangle surrounding three unit squares*
 
-> The figure below is formed by three squares of side $1$ and a rectangle that surrounds them. The area of the rectangle is:
-> 
+> A figura abaixo é formada por três quadrados de lado $1$ e um retângulo que os contorna. A área do retângulo é:
+>
 > (A) $3\sqrt{2}$ $\quad$ (B) $4\sqrt{2}$ $\quad$ (C) 6 $\quad$ (D) $6\sqrt{2}$ $\quad$ (E) 8
-
-![[src_obm_2007_n2_f1__Q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -526,15 +749,34 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of rectangle surrounding three unit squares*
+
+> The figure below is formed by three squares of side $1$ and a rectangle that surrounds them. The area of the rectangle is:
+> 
+> (A) $3\sqrt{2}$ $\quad$ (B) $4\sqrt{2}$ $\quad$ (C) 6 $\quad$ (D) $6\sqrt{2}$ $\quad$ (E) 8
+
+![[src_obm_2007_n2_f1__Q14.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Given 1+(x^2+x)(x^2+5x+6)=181^2, find x(x+3)*
 
-> If $x$ is a positive real number and $1 + (x^2 + x)(x^2 + 5x + 6) = 181^2$, then the value of $x(x + 3)$ is:
-> 
+> Se $x$ é real positivo e $1 + (x^2 + x)(x^2 + 5x + 6) = 181^2$, então o valor de $x(x + 3)$ é:
+>
 > (A) 180 $\quad$ (B) 150 $\quad$ (C) 120 $\quad$ (D) 182 $\quad$ (E) 75
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -561,19 +803,34 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Given 1+(x^2+x)(x^2+5x+6)=181^2, find x(x+3)*
+
+> If $x$ is a positive real number and $1 + (x^2 + x)(x^2 + 5x + 6) = 181^2$, then the value of $x(x + 3)$ is:
+> 
+> (A) 180 $\quad$ (B) 150 $\quad$ (C) 120 $\quad$ (D) 182 $\quad$ (E) 75
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_insiemi_funzioni,method_inclusione_esclusione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Figure of rectangle, pentagon, triangle, circle: black minus gray area*
 
-> The figure below was made with a rectangle, a pentagon, a triangle and a circle, with areas respectively $121$, $81$, $49$ and $25$ square centimeters. The difference between the black area and the gray area, in square centimeters, is:
-> 
+> A figura abaixo mostra um retângulo, um pentágono, um triângulo e um círculo, com áreas respectivamente $121$, $81$, $49$ e $25$ centímetros quadrados. A diferença entre a área preta e a área cinza, em centímetros quadrados, é:
+>
 > (A) 25 $\quad$ (B) 36 $\quad$ (C) 49 $\quad$ (D) 64 $\quad$ (E) 81
-
-![[src_obm_2007_n2_f1__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -601,19 +858,41 @@ level: OBM Nível 2
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Figure of rectangle, pentagon, triangle, circle: black minus gray area*
+
+> The figure below was made with a rectangle, a pentagon, a triangle and a circle, with areas respectively $121$, $81$, $49$ and $25$ square centimeters. The difference between the black area and the gray area, in square centimeters, is:
+> 
+> (A) 25 $\quad$ (B) 36 $\quad$ (C) 49 $\quad$ (D) 64 $\quad$ (E) 81
+
+![[src_obm_2007_n2_f1__Q16.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Years without accident needed for insurer A to be worthwhile*
 
-> The car insurers A and B charge an annual value (premium) plus a value that the user must pay in case of an accident (deductible, franquia). Jean wants to insure his car and received the following proposals from the insurers:
-> Insurer A: Annual premium of R\$ 1500.00 and deductible of R\$ 1400.00
-> Insurer B: Annual premium of R\$ 1700.00 and deductible of R\$ 700.00
-> For it to be worthwhile for Jean to hire Insurer A, he must not have an accident with the car for at least $N$ years. The value of $N$ is:
-> 
+> As seguradoras de automóveis A e B cobram um valor anual (prêmio) mais um valor que o usuário deve pagar em caso de acidente (franquia). Jean quer fazer um seguro para seu automóvel e recebeu as seguintes propostas das seguradoras:
+>
+> Seguradora A: Prêmio anual de R\$ 1500,00 e franquia de R\$ 1400,00
+>
+> Seguradora B: Prêmio anual de R\$ 1700,00 e franquia de R\$ 700,00
+>
+> Para valer a pena Jean contratar a Seguradora A, ele não deve se acidentar com o carro por pelo menos $N$ anos. O valor de $N$ é:
+>
 > (A) 2 $\quad$ (B) 3 $\quad$ (C) 4 $\quad$ (D) 5 $\quad$ (E) 6
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -638,20 +917,38 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Years without accident needed for insurer A to be worthwhile*
+
+> The car insurers A and B charge an annual value (premium) plus a value that the user must pay in case of an accident (deductible, franquia). Jean wants to insure his car and received the following proposals from the insurers:
+> Insurer A: Annual premium of R\$ 1500.00 and deductible of R\$ 1400.00
+> Insurer B: Annual premium of R\$ 1700.00 and deductible of R\$ 700.00
+> For it to be worthwhile for Jean to hire Insurer A, he must not have an accident with the car for at least $N$ years. The value of $N$ is:
+> 
+> (A) 2 $\quad$ (B) 3 $\quad$ (C) 4 $\quad$ (D) 5 $\quad$ (E) 6
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,topic_logica,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Die with opposite faces summing to 7, direction of face 1 after moves*
 
-> The drawing below shows a common die whose sums of the points on opposite faces are always equal to $7$. It is placed on a horizontal table with face ``1'' turned to the East. The die is then moved four times.
-> A movement consists of a rotation of $90^\circ$ with respect to an edge. After the first movement the face in contact with the table becomes ``1'', then ``2'', then ``3'' and, finally, the face ``5''. In which direction is face ``1'' turned after this sequence of movements?
-> 
-> (A) West $\quad$ (B) East $\quad$ (C) North $\quad$ (D) South $\quad$ (E) Up
-
-![[src_obm_2007_n2_f1__Q18.png]]
+> O desenho abaixo mostra um dado comum cujas somas das pontuações em faces opostas é sempre igual a $7$. Ele é colocado em uma mesa horizontal com a face “1” voltada para Leste. O dado é, então, movido quatro vezes.
+>
+> Um movimento consiste em uma rotação de $90^\circ$ em relação a uma aresta. Depois do primeiro movimento a face em contato com a mesa passa a ser a “1”, depois a “2”, então a “3” e, finalmente, a face “5”. Para que sentido está voltada a face “1” após esta seqüência de movimentos?
+>
+> (A) Oeste $\quad$ (B) Leste $\quad$ (C) Norte $\quad$ (D) Sul $\quad$ (E) Cima
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -678,20 +975,40 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Die with opposite faces summing to 7, direction of face 1 after moves*
+
+> The drawing below shows a common die whose sums of the points on opposite faces are always equal to $7$. It is placed on a horizontal table with face ``1'' turned to the East. The die is then moved four times.
+> A movement consists of a rotation of $90^\circ$ with respect to an edge. After the first movement the face in contact with the table becomes ``1'', then ``2'', then ``3'' and, finally, the face ``5''. In which direction is face ``1'' turned after this sequence of movements?
+> 
+> (A) West $\quad$ (B) East $\quad$ (C) North $\quad$ (D) South $\quad$ (E) Up
+
+![[src_obm_2007_n2_f1__Q18.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Buildings 1-100, floors = digit sum; which statement is true*
 
-> An avenue has $100$ buildings numbered from $1$ to $100$, where buildings with even numbering are on the right side of the street and buildings with odd numbering are on the left side. The quantity of floors (andares) of each building is equal to the sum of the digits of the number corresponding to the building. Thus, we can affirm that:
+> Uma avenida possui $100$ prédios numerados de $1$ a $100$, onde prédios com numeração par se situam do lado direito da rua e prédios com numeração ímpar se situam no lado esquerdo. A quantidade de andares de cada prédio é igual à soma dos algarismos do número correspondente ao prédio. Assim, podemos afirmar que:
 >
-> - **(A)** The quantity of buildings with more than $10$ floors is greater on the right side of the street.
-> - **(B)** The quantity of buildings with fewer than $5$ floors is greater on the right side of the street.
-> - **(C)** At least half of the buildings have $10$ or more floors.
-> - **(D)** On both sides of the street there is the same quantity of buildings with exactly $8$ floors.
-> - **(E)** At least $25\%$ of the buildings have fewer than $5$ floors.
+> - **(A)** A quantidade de prédios com mais de $10$ andares é maior do lado direito da rua.
+> - **(B)** A quantidade de prédios com menos de $5$ andares é maior do lado direito da rua.
+> - **(C)** Pelo menos metade dos prédios possui $10$ ou mais andares.
+> - **(D)** Em ambos os lados da rua há a mesma quantidade de prédios com exatos $8$ andares.
+> - **(E)** Pelo menos $25\%$ dos prédios possui menos de $5$ andares.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -721,16 +1038,37 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Buildings 1-100, floors = digit sum; which statement is true*
+
+> An avenue has $100$ buildings numbered from $1$ to $100$, where buildings with even numbering are on the right side of the street and buildings with odd numbering are on the left side. The quantity of floors (andares) of each building is equal to the sum of the digits of the number corresponding to the building. Thus, we can affirm that:
+>
+> - **(A)** The quantity of buildings with more than $10$ floors is greater on the right side of the street.
+> - **(B)** The quantity of buildings with fewer than $5$ floors is greater on the right side of the street.
+> - **(C)** At least half of the buildings have $10$ or more floors.
+> - **(D)** On both sides of the street there is the same quantity of buildings with exactly $8$ floors.
+> - **(E)** At least $25\%$ of the buildings have fewer than $5$ floors.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest integer perimeter of a triangle with one side 5√3/2*
 
-> What is the smallest possible integer perimeter of a triangle that has one of its sides with measure equal to $\dfrac{5\sqrt{3}}{2}$?
-> 
+> Qual o menor perímetro inteiro possível de um triângulo que possui um dos lados com medida igual a $\dfrac{5\sqrt{3}}{2}$?
+>
 > (A) 8 $\quad$ (B) 9 $\quad$ (C) 10 $\quad$ (D) 11 $\quad$ (E) 12
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
@@ -757,15 +1095,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest integer perimeter of a triangle with one side 5√3/2*
+
+> What is the smallest possible integer perimeter of a triangle that has one of its sides with measure equal to $\dfrac{5\sqrt{3}}{2}$?
+> 
+> (A) 8 $\quad$ (B) 9 $\quad$ (C) 10 $\quad$ (D) 11 $\quad$ (E) 12
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Which clock time gives the smallest angle between the hands*
 
-> Determine at which of the times below the angle determined by the hands of a clock is the smallest.
-> 
+> Determine em qual dos horários abaixo o ângulo determinado pelos ponteiros de um relógio é o menor.
+>
 > (A) 02h30 $\quad$ (B) 06h20 $\quad$ (C) 05h40 $\quad$ (D) 08h50 $\quad$ (E) 09h55
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -792,16 +1148,33 @@ level: OBM Nível 2
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Which clock time gives the smallest angle between the hands*
+
+> Determine at which of the times below the angle determined by the hands of a clock is the smallest.
+> 
+> (A) 02h30 $\quad$ (B) 06h20 $\quad$ (C) 05h40 $\quad$ (D) 08h50 $\quad$ (E) 09h55
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *GCD of the palindromic numbers 1221, 2332, 3443, ..., 8998*
 
-> The greatest common divisor of the numbers $1221, 2332, 3443, 4554, \ldots, 8998$ is:
-> 
+> O máximo divisor comum entre os números $1221, 2332, 3443, 4554, \ldots, 8998$ é:
+>
 > (A) 3 $\quad$ (B) 33 $\quad$ (C) 37 $\quad$ (D) 11 $\quad$ (E) 101
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -828,19 +1201,36 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*GCD of the palindromic numbers 1221, 2332, 3443, ..., 8998*
+
+> The greatest common divisor of the numbers $1221, 2332, 3443, 4554, \ldots, 8998$ is:
+> 
+> (A) 3 $\quad$ (B) 33 $\quad$ (C) 37 $\quad$ (D) 11 $\quad$ (E) 101
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Billiard ball on 3x6 table, distance from P where it hits PQ*
 
-> A billiard table has dimensions of $3$ meters by $6$ meters and has pockets at its four corners $P, Q, R$ and $S$. When a ball hits the edge of the table, its trajectory forms an angle equal to the one the previous trajectory formed. A ball, initially at $1$ meter from pocket $P$, is hit from side $SP$ in the direction of side $PQ$, as the figure shows. At how many meters from $P$ does the ball hit side $PQ$ if the ball falls into pocket $S$ after two bounces off the edge of the table?
-> 
+> Uma mesa de bilhar tem dimensões de $3$ metros por $6$ metros e tem caçapas nos seus quatro cantos $P$, $Q$, $R$ e $S$. Quando uma bola bate na borda da mesa, sua trajetória forma um ângulo igual ao que a trajetória anterior formava.
+>
+> Uma bola, inicialmente a $1$ metro da caçapa $P$, é batida do lado $SP$ em direção ao lado $PQ$, como mostra a figura. A quantos metros de $P$ a bola acerta o lado $PQ$ se a bola cai na caçapa $S$ após duas batidas na borda da mesa?
+>
 > (A) 1 $\quad$ (B) $\dfrac{6}{7}$ $\quad$ (C) $\dfrac{3}{4}$ $\quad$ (D) $\dfrac{2}{3}$ $\quad$ (E) $\dfrac{3}{5}$
-
-![[src_obm_2007_n2_f1__Q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -867,17 +1257,35 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Billiard ball on 3x6 table, distance from P where it hits PQ*
+
+> A billiard table has dimensions of $3$ meters by $6$ meters and has pockets at its four corners $P, Q, R$ and $S$. When a ball hits the edge of the table, its trajectory forms an angle equal to the one the previous trajectory formed. A ball, initially at $1$ meter from pocket $P$, is hit from side $SP$ in the direction of side $PQ$, as the figure shows. At how many meters from $P$ does the ball hit side $PQ$ if the ball falls into pocket $S$ after two bounces off the edge of the table?
+> 
+> (A) 1 $\quad$ (B) $\dfrac{6}{7}$ $\quad$ (C) $\dfrac{3}{4}$ $\quad$ (D) $\dfrac{2}{3}$ $\quad$ (E) $\dfrac{3}{5}$
+
+![[src_obm_2007_n2_f1__Q23.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *3-digit numbers abc with b=a^2+c^2, a≠0: difference max minus min*
 
-> Consider all three-digit numbers $\overline{abc}$ where $b = a^2 + c^2$ and $a \ne 0$. The difference between the largest and the smallest of these numbers is a number:
-> 
-> (A) Multiple of 3 $\quad$ (B) Prime $\quad$ (C) With last digit equal to 7 $\quad$ (D) Whose sum of digits is 10 $\quad$ (E) Multiple of 7
+> Considere todos os números $\overline{abc}$ de três algarismos onde $b = a^2 + c^2$ e $a \ne 0$. A diferença entre o maior e o menor destes números é um número:
+>
+> (A) Múltiplo de 3 $\quad$ (B) Primo $\quad$ (C) Com último algarismo igual a 7 $\quad$ (D) Cuja soma dos algarismos é 10 $\quad$ (E) Múltiplo de 7
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -902,15 +1310,32 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*3-digit numbers abc with b=a^2+c^2, a≠0: difference max minus min*
+
+> Consider all three-digit numbers $\overline{abc}$ where $b = a^2 + c^2$ and $a \ne 0$. The difference between the largest and the smallest of these numbers is a number:
+> 
+> (A) Multiple of 3 $\quad$ (B) Prime $\quad$ (C) With last digit equal to 7 $\quad$ (D) Whose sum of digits is 10 $\quad$ (E) Multiple of 7
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sequence a_{n+1}=2×(digit sum of a_n)+1, sum of terms 31 to 35*
 
-> Let $\{a_n\}$ be a sequence in which each term is defined as double the sum of the digits of the previous term, plus one unit. For example, if $a_n = 234$, then $a_{n+1} = 2(2 + 3 + 4) + 1$. If $a_1 = 1$, the value of $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ is equal to:
-> 
+> Seja $\{a_n\}$ uma seqüência na qual cada termo é definido como o dobro da soma dos algarismos do termo anterior, mais uma unidade. Por exemplo, se $a_n = 234$, então $a_{n+1} = 2(2 + 3 + 4) + 1$. Se $a_1 = 1$, o valor de $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ é igual a:
+>
 > (A) 44 $\quad$ (B) 54 $\quad$ (C) 64 $\quad$ (D) 77 $\quad$ (E) 84
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
@@ -934,3 +1359,19 @@ level: OBM Nível 2
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence a_{n+1}=2×(digit sum of a_n)+1, sum of terms 31 to 35*
+
+> Let $\{a_n\}$ be a sequence in which each term is defined as double the sum of the digits of the previous term, plus one unit. For example, if $a_n = 234$, then $a_{n+1} = 2(2 + 3 + 4) + 1$. If $a_1 = 1$, the value of $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ is equal to:
+> 
+> (A) 44 $\quad$ (B) 54 $\quad$ (C) 64 $\quad$ (D) 77 $\quad$ (E) 84
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)

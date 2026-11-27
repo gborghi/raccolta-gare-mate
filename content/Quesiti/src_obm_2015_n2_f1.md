@@ -12,20 +12,18 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Order of cars arriving in a race from clues*
 
-> Juquinha and his friends organized a race with their cars. The white car (B) arrived before the red one (V) and after the maroon one (M). The yellow car (A) arrived after the maroon one and before the red one. From first to last, what is the order of the cars?
+> Juquinha e seus amigos organizaram uma corrida com seus carrinhos. O carrinho branco (B) chegou antes do vermelho (V) e do marrom (M). O carrinho azul (A) chegou depois do marrom e antes do vermelho. Qual foi a ordem de chegada dos carrinhos?
 >
-> - **(A)** $B - A - V - M$
-> - **(B)** $B - V - A - M$
-> - **(C)** $B - M - A - V$
-> - **(D)** $B - M - V - A$
-> - **(E)** $B - A - M - V$
-
-![[src_obm_2015_n2_f1__Q01.png]]
+> - (A) $B - A - V - M$
+> - (B) $B - V - A - M$
+> - (C) $B - M - A - V$
+> - (D) $B - M - V - A$
+> - (E) $B - A - M - V$
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Case analysis]]
@@ -60,16 +58,40 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Order of cars arriving in a race from clues*
+
+> Juquinha and his friends organized a race with their cars. The white car (B) arrived before the red one (V) and after the maroon one (M). The yellow car (A) arrived after the maroon one and before the red one. From first to last, what is the order of the cars?
+>
+> - **(A)** $B - A - V - M$
+> - **(B)** $B - V - A - M$
+> - **(C)** $B - M - A - V$
+> - **(D)** $B - M - V - A$
+> - **(E)** $B - A - M - V$
+
+![[src_obm_2015_n2_f1__Q01.png]]
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many years this century have digit-mean equal to 2*
 
-> The arithmetic mean of the digits of the year 2015 equals 2, since $\frac{2+0+1+5}{4}=\frac{8}{4}=2$. How many times this century will it happen that the mean of the digits of the year equals 2?
-> 
+> A média aritmética dos algarismos do ano 2015 é igual a 2, pois $\frac{2+0+1+5}{4}=\frac{8}{4}=2$. Quantas vezes em nosso século isto irá acontecer com os algarismos dos próximos anos?
+>
 > (A) 3 (B) 5 (C) 6 (D) 7 (E) 9
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -99,18 +121,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many years this century have digit-mean equal to 2*
+
+> The arithmetic mean of the digits of the year 2015 equals 2, since $\frac{2+0+1+5}{4}=\frac{8}{4}=2$. How many times this century will it happen that the mean of the digits of the year equals 2?
+> 
+> (A) 3 (B) 5 (C) 6 (D) 7 (E) 9
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Angle BAD in a regular dodecagon*
 
-> The figure beside represents a regular dodecagon. What is the measure of the angle $\angle BAD$?
-> 
-> (A) $15^\circ$ (B) $30^\circ$ (C) $45^\circ$ (D) $60^\circ$ (E) $75^\circ$
-
-![[src_obm_2015_n2_f1__Q03.png]]
+> Sabendo que a figura ao lado representa um dodecágono regular, qual a medida do ângulo $\angle BAD$?
+>
+> (A) 15º (B) 30º (C) 45º (D) 60º (E) 75º
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -141,17 +180,37 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Angle BAD in a regular dodecagon*
+
+> The figure beside represents a regular dodecagon. What is the measure of the angle $\angle BAD$?
+> 
+> (A) $15^\circ$ (B) $30^\circ$ (C) $45^\circ$ (D) $60^\circ$ (E) $75^\circ$
+
+![[src_obm_2015_n2_f1__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Possible date of Marta's birthday given Mother's Day constraint*
 
-> Joao is a very thoughtful man and decided to celebrate, on a single day, Mother's Day and his wife Marta's birthday. Knowing that in a given year the two dates coincided, and that the day after, the celebration would no longer coincide (Mother's Day being celebrated on the second Sunday of May), which of the options represents a possible date for Marta's birthday?
-> 
-> (A) 04 May (B) 05 May (C) 06 May (D) 07 May (E) 08 May
+> João é um homem muito esperto e decidiu comemorar de uma só vez o dia das mães e o aniversário da sua esposa Marta. Sabendo que em certo ano as datas coincidiram e que o dia das mães é comemorado no segundo domingo do mês de maio, qual das opções representa um possível dia para o aniversário de Marta?
+>
+> (A) 04 de maio (B) 05 de maio (C) 06 de maio (D) 07 de maio (E) 08 de maio
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -180,19 +239,35 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Possible date of Marta's birthday given Mother's Day constraint*
+
+> Joao is a very thoughtful man and decided to celebrate, on a single day, Mother's Day and his wife Marta's birthday. Knowing that in a given year the two dates coincided, and that the day after, the celebration would no longer coincide (Mother's Day being celebrated on the second Sunday of May), which of the options represents a possible date for Marta's birthday?
+> 
+> (A) 04 May (B) 05 May (C) 06 May (D) 07 May (E) 08 May
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_combinatoria,method_colorazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum number of colors to paint faces of a pentagonal prism*
 
-> Wagner wants to paint the faces of two pentagonal prisms. Since two faces sharing a common edge cannot have the same color, but two faces sharing only a vertex may have the same color, as shown in the figure, what is the minimum possible number of colors? What is this number?
-> 
+> Um bloco de madeira tem faces pentagonais e faces retangulares. Duas faces são vizinhas quando possuem uma aresta comum, como é o caso das duas faces sombreadas na figura. Wagner quer pintar as faces desse bloco de forma que duas faces vizinhas tenham cores diferentes, mas ele quer usar o menor número possível de cores. Qual é esse número?
+>
 > (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
-
-![[src_obm_2015_n2_f1__Q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]]
@@ -223,15 +298,36 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum number of colors to paint faces of a pentagonal prism*
+
+> Wagner wants to paint the faces of two pentagonal prisms. Since two faces sharing a common edge cannot have the same color, but two faces sharing only a vertex may have the same color, as shown in the figure, what is the minimum possible number of colors? What is this number?
+> 
+> (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
+
+![[src_obm_2015_n2_f1__Q05.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Solution set of (x-a)^2 = b^2 with a,b positive reals*
 
-> The solution set of the equation $(x-a)^2=b^2$, with $a,b$ positive real numbers, is:
-> 
+> O conjunto verdade da equação $(x-a)^2=b^2$, sendo $a$, $b$ reais positivos, é:
+>
 > (A) $\{a+b\}$ (B) $\{a-b\}$ (C) $\{a+b,a-b\}$ (D) $\{-a+b,a+b\}$ (E) $\{a+b,-a-b\}$
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -261,26 +357,46 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Solution set of (x-a)^2 = b^2 with a,b positive reals*
+
+> The solution set of the equation $(x-a)^2=b^2$, with $a,b$ positive real numbers, is:
+> 
+> (A) $\{a+b\}$ (B) $\{a-b\}$ (C) $\{a+b,a-b\}$ (D) $\{-a+b,a+b\}$ (E) $\{a+b,-a-b\}$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Election runoff winner from vote-transfer percentages in a table*
 
-> In the table below, we see part of the results of the elections in a certain country, in which the percentages refer to the total number of voters.
+> Na tabela abaixo, vemos uma parte dos resultados das eleições num certo país, na qual os porcentuais se referem ao número total de eleitores.
 >
-> Parties / Rounds | AA | BB | CC | Other parties or null votes
-> 1st round | 39% | 31% | 20% | 10%
-> 2nd round | ? | ? | 0 | ?
+> | Partidos / Turnos | AA | BB | CC | Outros partidos e votos nulos |
+> | --- | --- | --- | --- | --- |
+> | 1º turno | 39% | 31% | 20% | 10% |
+> | 2º turno | ? | ? | 0 | ? |
 >
-> In the second round, all the voters who voted for party AA kept their votes and the same happened with the voters of party BB. Of those who voted for party CC in the first round, 40% voted for party AA in the second round and the rest for party BB. Of those who had voted for other parties or cast null votes, 50% continued voting null and the rest split equally between AA and BB. Which party won the second-round election and with how many votes?
+> No segundo turno, todos os eleitores que votaram no partido AA mantiveram seus votos e o mesmo ocorreu com os eleitores do partido BB. Dos que votaram no partido CC no primeiro turno, 40% votou no partido AA e os demais no partido BB. Dos que haviam votado em outros partidos ou anulado o seu voto, 60% continuou sem votar em AA ou BB e o restante votou parte em AA e parte em BB. Qual partido venceu a eleição do segundo turno e com qual porcentagem do total de votos?
 >
-> - **(A)** AA with more than 47% of the votes.
-> - **(B)** BB with more than 35% of the votes.
-> - **(C)** AA with 51% of the votes.
-> - **(D)** BB with more than 47% of the votes.
-> - **(E)** None of the previous statements follows from the given information.
+> - (A) AA com mais de 47% dos votos.
+> - (B) BB com 47% dos votos.
+> - (C) AA com 51% dos votos.
+> - (D) BB com mais de 43% dos votos.
+> - (E) Nenhuma das afirmações anteriores decorre das informações dadas.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -317,17 +433,45 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Election runoff winner from vote-transfer percentages in a table*
+
+> In the table below, we see part of the results of the elections in a certain country, in which the percentages refer to the total number of voters.
+>
+> Parties / Rounds | AA | BB | CC | Other parties or null votes
+> 1st round | 39% | 31% | 20% | 10%
+> 2nd round | ? | ? | 0 | ?
+>
+> In the second round, all the voters who voted for party AA kept their votes and the same happened with the voters of party BB. Of those who voted for party CC in the first round, 40% voted for party AA in the second round and the rest for party BB. Of those who had voted for other parties or cast null votes, 50% continued voting null and the rest split equally between AA and BB. Which party won the second-round election and with how many votes?
+>
+> - **(A)** AA with more than 47% of the votes.
+> - **(B)** BB with more than 35% of the votes.
+> - **(C)** AA with 51% of the votes.
+> - **(D)** BB with more than 47% of the votes.
+> - **(E)** None of the previous statements follows from the given information.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of squares of vowel and consonant counts in the correct answer*
 
-> What is the sum of the squares of the quantities of vowels and consonants of the correct answer? Note: do not count the letters A, B, C, D, E of the alternatives.
-> 
-> (A) Twenty-six (B) Seventy-three (C) Eighty-five (D) Ninety-six (E) One hundred and sixteen
+> Qual é a soma dos quadrados das quantidades de vogais e consoantes da resposta correta? Não conte as letras A, B, C, D, E das alternativas.
+>
+> (A) Vinte e seis (B) Setenta e três (C) Oitenta e cinco (D) Noventa e sete (E) Cento e dezesseis
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -356,19 +500,35 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of squares of vowel and consonant counts in the correct answer*
+
+> What is the sum of the squares of the quantities of vowels and consonants of the correct answer? Note: do not count the letters A, B, C, D, E of the alternatives.
+> 
+> (A) Twenty-six (B) Seventy-three (C) Eighty-five (D) Ninety-six (E) One hundred and sixteen
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Length GC in figure with equilateral triangle and trisected segment*
 
-> In the figure beside, the sides $CD$ and $AB$ are parallel. $ABC$ is an equilateral triangle, $DG=GF=FE$ and $AB=12$; determine the length of $GC$.
-> 
-> (A) 4 (B) 3 (C) 8 (D) 5 (E) 2
-
-![[src_obm_2015_n2_f1__Q09.png]]
+> Na figura ao lado, as retas $CD$ e $AB$ são paralelas. Se $ABC$ é um triângulo equilátero, $DG=GF=FE$ e $AB=12$, determine o comprimento de $GC$.
+>
+> A) 4 B) 3 C) 8 D) 5 E) 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -397,16 +557,36 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Length GC in figure with equilateral triangle and trisected segment*
+
+> In the figure beside, the sides $CD$ and $AB$ are parallel. $ABC$ is an equilateral triangle, $DG=GF=FE$ and $AB=12$; determine the length of $GC$.
+> 
+> (A) 4 (B) 3 (C) 8 (D) 5 (E) 2
+
+![[src_obm_2015_n2_f1__Q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Next year after 2015 that coincides with it (same days and weekdays)*
 
-> We say that two years coincide if they have the same number of days and the same days of the week on all dates that coincide. The year 2015 coincides with 2009. What is the next year after 2015 that coincides with 2015? Remember that we use multiples of 4 to find the leap years of century XXI (but the multiples of 100 are not leap, except multiples of 400), which have 366 days; the others have 365 days.
-> 
-> (A) 2021 (B) 2022 (C) 2023 (D) 2025 (E) 2026
+> Dizemos que dois anos coincidem se têm a mesma quantidade de dias e os dias da semana de todos os seus dias coincidem. O ano de 2015 coincide com 2009; qual é o próximo ano que coincide com 2015? Lembre-se de que os anos múltiplos de 4 no século XXI (com exceção de 2100) são bissextos e têm 366 dias; os demais anos têm 365 dias.
+>
+> A) 2021 B) 2022 C) 2023 D) 2025 E) 2026
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -435,16 +615,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Next year after 2015 that coincides with it (same days and weekdays)*
+
+> We say that two years coincide if they have the same number of days and the same days of the week on all dates that coincide. The year 2015 coincides with 2009. What is the next year after 2015 that coincides with 2015? Remember that we use multiples of 4 to find the leap years of century XXI (but the multiples of 100 are not leap, except multiples of 400), which have 366 days; the others have 365 days.
+> 
+> (A) 2021 (B) 2022 (C) 2023 (D) 2025 (E) 2026
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest integer that is double a square and triple a cube*
 
-> The number $5^2=25$ is a perfect square and the number $4^3=64$ is a perfect cube. What is the smallest positive integer that is double a perfect square and at the same time triple a perfect cube?
-> 
-> (A) 72 (B) 98 (C) 144 (D) 216 (E) 256
+> O número $5^2=25$ é um quadrado perfeito e o número $4^3=64$ é um cubo perfeito. Qual é o menor número inteiro positivo $n$ cujo dobro é um quadrado perfeito e cujo triplo é um cubo perfeito?
+>
+> A) 72 B) 98 C) 144 D) 216 E) 256
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -473,18 +672,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest integer that is double a square and triple a cube*
+
+> The number $5^2=25$ is a perfect square and the number $4^3=64$ is a perfect cube. What is the smallest positive integer that is double a perfect square and at the same time triple a perfect cube?
+> 
+> (A) 72 (B) 98 (C) 144 (D) 216 (E) 256
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of numbers in white squares under parity and max-odd-sum constraints*
 
-> Violeta wants to write the numbers from 1 to 9 in the squares of the board below, in such a way that the sum of two numbers in neighboring squares is always odd. Moreover, she wants the sum of the numbers written in the gray squares to be the largest possible odd number. What is the sum of the numbers written in the white squares?
-> 
-> (A) 15 (B) 16 (C) 22 (D) 29 (E) 30
-
-![[src_obm_2015_n2_f1__Q12.png]]
+> Violeta quer numerar de 1 a 9 os quadrados do tabuleiro ao lado, de modo que a soma de dois números em quadrados vizinhos (quadrados com lados comuns) seja um número ímpar. Além disso, ela quer que a soma dos números escritos nos quadrados cinza seja a maior soma possível. Qual é a soma dos números escritos nos quadrados brancos?
+>
+> A) 15 B) 16 C) 22 D) 29 E) 30
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -515,17 +731,37 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of numbers in white squares under parity and max-odd-sum constraints*
+
+> Violeta wants to write the numbers from 1 to 9 in the squares of the board below, in such a way that the sum of two numbers in neighboring squares is always odd. Moreover, she wants the sum of the numbers written in the gray squares to be the largest possible odd number. What is the sum of the numbers written in the white squares?
+> 
+> (A) 15 (B) 16 (C) 22 (D) 29 (E) 30
+
+![[src_obm_2015_n2_f1__Q12.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Price of cinema entrance from a shared-payment situation*
 
-> Carlos and his five friends, Danilo and Edson, went to the cinema. Carlos paid the entrance for everyone; Danilo paid back to Carlos his share. So that the amount each one would pay is the same when splitting the common cost, Danilo and Edson paid R\$ 8.00 and R\$ 14.00 respectively. To Carlos, however, since the total per-head value was R\$ 32.00. What is the price of the cinema entrance?
-> 
-> (A) R\$ 10.00 (B) R\$ 12.00 (C) R\$ 15.00 (D) R\$ 18.00 (E) R\$ 20.00
+> Carlos e seus dois amigos, Danilo e Edson, foram ao cinema. Carlos pagou a entrada de todos, Danilo pagou a pipoca e o suco para todos e Edson pagou o estacionamento do carro. Para acertar as contas de forma que cada um tenha pago o mesmo, Danilo e Edson pagaram R$ 8,00 e R$ 14,00, respectivamente, para Carlos, pois a despesa total de cada um foi de R$ 32,00. Qual era o preço da entrada no cinema?
+>
+> A) R$ 10,00 B) R$ 12,00 C) R$ 15,00 D) R$ 18,00 E) R$ 20,00
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
@@ -552,19 +788,34 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Price of cinema entrance from a shared-payment situation*
+
+> Carlos and his five friends, Danilo and Edson, went to the cinema. Carlos paid the entrance for everyone; Danilo paid back to Carlos his share. So that the amount each one would pay is the same when splitting the common cost, Danilo and Edson paid R\$ 8.00 and R\$ 14.00 respectively. To Carlos, however, since the total per-head value was R\$ 32.00. What is the price of the cinema entrance?
+> 
+> (A) R\$ 10.00 (B) R\$ 12.00 (C) R\$ 15.00 (D) R\$ 18.00 (E) R\$ 20.00
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum number of square tiles covering a 7-meter wall without overlap*
 
-> The artist Juliana wants to cover a wall, 7 meters wide, with rectangular tiles, without superposition of the tiles. None of the tiles has a fractional measure (all are whole numbers of meters). In the figure, an arrangement model with square tiles is shown. Suppose Renata wants to do the covering with the largest possible number of tiles. How many tiles fit on the wall?
-> 
-> (A) 10 (B) 14 (C) 18 (D) 20 (E) 24
-
-![[src_obm_2015_n2_f1__Q14.png]]
+> A artista Juliana quer recobrir um mural quadrado de 7 metros de lado com placas retangulares, sem superposição dessas placas. Ela não quer usar nenhuma placa quadrada. Além disso, as medidas das placas são números inteiros de metros. Na figura, um modelo do que poderia ser feito. Entretanto, Renata quer fazer o revestimento com o maior número possível de placas. Quantas placas ela irá usar?
+>
+> A) 10 B) 14 C) 18 D) 20 E) 24
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -595,16 +846,37 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum number of square tiles covering a 7-meter wall without overlap*
+
+> The artist Juliana wants to cover a wall, 7 meters wide, with rectangular tiles, without superposition of the tiles. None of the tiles has a fractional measure (all are whole numbers of meters). In the figure, an arrangement model with square tiles is shown. Suppose Renata wants to do the covering with the largest possible number of tiles. How many tiles fit on the wall?
+> 
+> (A) 10 (B) 14 (C) 18 (D) 20 (E) 24
+
+![[src_obm_2015_n2_f1__Q14.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Max cubes stackable in a tower so neighbors differ in color*
 
-> Fabiana has 55 cubes of the same size, being 10 red ones, 15 blue ones and 30 green ones. She wants to build a single tower stacking these cubes in such a way that two neighboring cubes always have different colors. At most, how many cubes can she stack?
-> 
-> (A) 39 (B) 51 (C) 52 (D) 54 (E) 55
+> Fabiana tem 55 cubos de mesmo tamanho, sendo 10 deles vermelhos, 15 azuis e 30 verdes. Ela quer construir uma torre empilhando esses cubos de modo que dois cubos vizinhos tenham cores diferentes. No máximo, quantos cubinhos ela poderá empilhar?
+>
+> A) 39 B) 51 C) 52 D) 54 E) 55
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -633,18 +905,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max cubes stackable in a tower so neighbors differ in color*
+
+> Fabiana has 55 cubes of the same size, being 10 red ones, 15 blue ones and 30 green ones. She wants to build a single tower stacking these cubes in such a way that two neighboring cubes always have different colors. At most, how many cubes can she stack?
+> 
+> (A) 39 (B) 51 (C) 52 (D) 54 (E) 55
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find x = CP making two gray regions equal in a two-squares figure*
 
-> In the figure, the squares $ABGH$ and $CDEF$ have sides of measures 4 and 6 cm, respectively. The point $P$ belongs to the line containing the points $B,C,G,$ and $F$, and the point $M$ is the midpoint of the side $BG$. The segment $AP$ divides the figure formed by the two squares into two gray regions. If we want these two regions to have equal areas, what must be the value of $x=CP$?
-> 
-> (A) $\frac{2}{5}$ (B) $\frac{18}{25}$ (C) 1 (D) $\frac{26}{25}$ (E) $\frac{3}{2}$
-
-![[src_obm_2015_n2_f1__Q16.png]]
+> Na figura, os quadrados $ABGH$ e $CDEF$ têm lados de medidas 4 e 6 cm, respectivamente. O ponto $P$ pertence à reta contendo os pontos $B$, $C$, $G$, e $F$, sendo $C$ o ponto médio do lado $BG$. A semirreta $AP$ divide a figura formada pelos dois quadrados em duas regiões, uma branca e uma cinza. Para que essas duas regiões tenham áreas iguais, qual deve ser o valor de $x=CP$?
+>
+> A) $\frac{2}{5}$ B) $\frac{18}{25}$ C) 1 D) $\frac{26}{25}$ E) $\frac{3}{2}$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -675,16 +964,37 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find x = CP making two gray regions equal in a two-squares figure*
+
+> In the figure, the squares $ABGH$ and $CDEF$ have sides of measures 4 and 6 cm, respectively. The point $P$ belongs to the line containing the points $B,C,G,$ and $F$, and the point $M$ is the midpoint of the side $BG$. The segment $AP$ divides the figure formed by the two squares into two gray regions. If we want these two regions to have equal areas, what must be the value of $x=CP$?
+> 
+> (A) $\frac{2}{5}$ (B) $\frac{18}{25}$ (C) 1 (D) $\frac{26}{25}$ (E) $\frac{3}{2}$
+
+![[src_obm_2015_n2_f1__Q16.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two distinct integer sides with largest 2015 minimizing triangle area*
 
-> A triangle has all distinct integer sides, the largest of them measuring 2015. What are the measures of the other two sides so that the area of the triangle is the smallest possible?
-> 
-> (A) 2 and 2014 (B) 3 and 2013 (C) 1006 and 1010 (D) 1007 and 1009 (E) 1008 and 1009
+> Um triângulo tem lados inteiros distintos, o maior deles medindo 2015. Quais são as medidas dos dois outros lados se a área do triângulo é a menor possível?
+>
+> (A) 2 e 2014 (B) 3 e 2013 (C) 1006 e 1010 (D) 1007 e 1009 (E) 1008 e 1009
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -713,17 +1023,35 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two distinct integer sides with largest 2015 minimizing triangle area*
+
+> A triangle has all distinct integer sides, the largest of them measuring 2015. What are the measures of the other two sides so that the area of the triangle is the smallest possible?
+> 
+> (A) 2 and 2014 (B) 3 and 2013 (C) 1006 and 1010 (D) 1007 and 1009 (E) 1008 and 1009
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Relation among angles using midpoint of a side in a triangle*
 
-> In the triangle $ABC$, $AB=2$, $BC=\sqrt{2}$. Let $M$ be the midpoint of the side $AB$. If $m(BAC)=\alpha$, $m(\beta)$ and $m(MBC)=\gamma$, then:
-> 
-> (A) $\alpha+\beta=\gamma$ (B) $\alpha+\beta=2\gamma$ (C) $\alpha+\beta+\gamma=180^\circ$ (D) $\alpha+\beta=90^\circ$ (E) $\alpha+\beta=45^\circ$
+> No triângulo $ABC$, $AB=2$, $BC=\sqrt{2}$. Seja $M$ o ponto médio do lado $AB$. Se $m(BAC)=\alpha$, $m(BMC)=\beta$ e $m(MBC)=\gamma$, então:
+>
+> (A) $\alpha+\beta=\gamma$ (B) $\alpha+\beta=2\gamma$ (C) $\alpha+\beta+\gamma=180º$ (D) $\alpha+\beta=90º$ (E) $\alpha+\beta=45º$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -752,16 +1080,34 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Relation among angles using midpoint of a side in a triangle*
+
+> In the triangle $ABC$, $AB=2$, $BC=\sqrt{2}$. Let $M$ be the midpoint of the side $AB$. If $m(BAC)=\alpha$, $m(\beta)$ and $m(MBC)=\gamma$, then:
+> 
+> (A) $\alpha+\beta=\gamma$ (B) $\alpha+\beta=2\gamma$ (C) $\alpha+\beta+\gamma=180^\circ$ (D) $\alpha+\beta=90^\circ$ (E) $\alpha+\beta=45^\circ$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_stima,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest n so mean of n naturals can be strictly between 25.65 and 25.75*
 
-> The mean of $n$ natural numbers is greater than 25.65 and smaller than 25.75. What is the smallest possible value for $n$?
-> 
+> A média de $n$ números naturais é maior que 25,65 e menor que 25,75. Qual o menor valor possível para $n$?
+>
 > (A) 5 (B) 3 (C) 6 (D) 100 (E) 50
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -791,16 +1137,34 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest n so mean of n naturals can be strictly between 25.65 and 25.75*
+
+> The mean of $n$ natural numbers is greater than 25.65 and smaller than 25.75. What is the smallest possible value for $n$?
+> 
+> (A) 5 (B) 3 (C) 6 (D) 100 (E) 50
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many positive integers divide 2032 leaving remainder 17*
 
-> How many positive integers $n$ are there such that dividing 2032 by $n$ leaves remainder 17?
-> 
+> Existem quantos números inteiros positivos tais que ao dividir 2032 por $n$ temos resto 17?
+>
 > (A) 8 (B) 7 (C) 6 (D) 5 (E) 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -830,15 +1194,34 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many positive integers divide 2032 leaving remainder 17*
+
+> How many positive integers $n$ are there such that dividing 2032 by $n$ leaves remainder 17?
+> 
+> (A) 8 (B) 7 (C) 6 (D) 5 (E) 4
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count of digital-clock moments where time encodes or reverses the date in 2015*
 
-> Jonas likes to observe the digital clocks scattered around his city that inform him of the hour and the date. Because they are digital, the time appears in the format (hour : minute) and the date in the format (day / month). On a certain day a coincidence occurred: the hour (hour and minute, e.g. 12:06) coincided with the date in the format day/month (the same digits as day and month). He calls this an encoded moment. It can also occur that the hour coincides with the date read in reverse (e.g. 60:21 read backwards), and he calls this a reverse-encoded moment. Considering the whole year 2015 (taken as a leap year), from 01/01/2015 at 00:00 until 31/12/2015 at 23:59, how many encoded or reverse-encoded moments are there?
-> 
+> Jonas gosta de observar os relógios digitais espalhados por sua cidade que informam a hora e a data. Por coincidência ele viu que hoje é dia 12/06 e naquele momento marcava 12:06, ou seja, data e hora são formados com os mesmos números! Ele ficou encucado com a coincidência e chamou o momento (data e hora) de encucado. Ele pensou que também seria interessante se a hora fosse formada com os mesmos números mas na ordem trocada, por exemplo, no dia 21/06 às 06:21, então chamou esse momento de encucado reverso. Considerando que 2015 não é um ano bissexto, desde 01/01/2015 às 00:00 até 31/12/2015 às 23:59 quantos momentos são encucados ou encucados reversos?
+>
 > (A) 365 (B) 455 (C) 465 (D) 629 (E) 699
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -868,19 +1251,35 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count of digital-clock moments where time encodes or reverses the date in 2015*
+
+> Jonas likes to observe the digital clocks scattered around his city that inform him of the hour and the date. Because they are digital, the time appears in the format (hour : minute) and the date in the format (day / month). On a certain day a coincidence occurred: the hour (hour and minute, e.g. 12:06) coincided with the date in the format day/month (the same digits as day and month). He calls this an encoded moment. It can also occur that the hour coincides with the date read in reverse (e.g. 60:21 read backwards), and he calls this a reverse-encoded moment. Considering the whole year 2015 (taken as a leap year), from 01/01/2015 at 00:00 until 31/12/2015 at 23:59, how many encoded or reverse-encoded moments are there?
+> 
+> (A) 365 (B) 455 (C) 465 (D) 629 (E) 699
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Length CF where CF is tangent to a semicircle on side of a square*
 
-> In the drawing beside, the segment $CF$ is tangent to the semicircle of diameter $AB$. $ABCD$ is a square of side 4; determine the length of $CF$.
-> 
+> No desenho ao lado, o segmento $CF$ é tangente ao semicírculo de diâmetro $AB$. Se $ABCD$ é um quadrado de lado 4, determine o comprimento de $CF$.
+>
 > (A) $9/4$ (B) 3 (C) 4 (D) $5/4$ (E) 5
-
-![[src_obm_2015_n2_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -911,18 +1310,37 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Length CF where CF is tangent to a semicircle on side of a square*
+
+> In the drawing beside, the segment $CF$ is tangent to the semicircle of diameter $AB$. $ABCD$ is a square of side 4; determine the length of $CF$.
+> 
+> (A) $9/4$ (B) 3 (C) 4 (D) $5/4$ (E) 5
+
+![[src_obm_2015_n2_f1__Q22.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,method_doppio_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many of 1-9 can occupy the center cell of an X with equal arm sums*
 
-> Julieta made an X with nine little squares, as in the figure beside. She wants to write the numbers from 1 to 9 in these squares, in such a way that the sums of the four numbers along each of the four arms of the X are equal. How many of the numbers from 1 to 9 can occupy the central cell (in gray) of the X?
-> 
+> Julieta fez um X com nove quadradinhos, conforme figura ao lado. Ela quer escrever os números de 1 a 9 nesses quadradinhos, sem repetição, de forma que as somas dos dois números em cada uma das quatro perninhas do X seja a mesma. Quantos dos números de 1 a 9 podem ocupar a casa central (em cinza) do X?
+>
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
-
-![[src_obm_2015_n2_f1__Q23.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Double counting]]
@@ -953,16 +1371,36 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many of 1-9 can occupy the center cell of an X with equal arm sums*
+
+> Julieta made an X with nine little squares, as in the figure beside. She wants to write the numbers from 1 to 9 in these squares, in such a way that the sums of the four numbers along each of the four arms of the X are equal. How many of the numbers from 1 to 9 can occupy the central cell (in gray) of the X?
+> 
+> (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+![[src_obm_2015_n2_f1__Q23.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Time for Jade to walk from secretariat to Botanical Garden*
 
-> Esmeralda and Jade left the secretariat of the OBM and went to the Botanical Garden. The two left at the same time, Esmeralda by bicycle and Jade walking. The speed of Esmeralda is quadruple the speed of Jade, and the two speeds are constant. Esmeralda arrived at the Botanical Garden, waited 5 minutes and then returned by the same way, meeting Jade, who was at the half of the way. How much time does Jade take to walk from the secretariat to the Botanical Garden?
-> 
+> Esmeralda e Jade saíram da secretaria da OBM e foram para o Jardim Botânico. As duas saíram ao mesmo tempo, Esmeralda de bicicleta e Jade caminhando. A velocidade de Esmeralda é o quádruplo da velocidade de Jade, e as duas velocidades são constantes. Esmeralda chegou ao Jardim Botânico, esperou 5 minutos e depois voltou pelo mesmo caminho, encontrando Jade indo, bem na metade do caminho. Quanto tempo demora a caminhada de Jade da secretaria até o Jardim Botânico?
+>
 > (A) 30 min (B) 35 min (C) 40 min (D) 45 min (E) 50 min
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -990,15 +1428,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Time for Jade to walk from secretariat to Botanical Garden*
+
+> Esmeralda and Jade left the secretariat of the OBM and went to the Botanical Garden. The two left at the same time, Esmeralda by bicycle and Jade walking. The speed of Esmeralda is quadruple the speed of Jade, and the two speeds are constant. Esmeralda arrived at the Botanical Garden, waited 5 minutes and then returned by the same way, meeting Jade, who was at the half of the way. How much time does Jade take to walk from the secretariat to the Botanical Garden?
+> 
+> (A) 30 min (B) 35 min (C) 40 min (D) 45 min (E) 50 min
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count of ways to write 2015 as a sum of three numbers (a parcel repeated)*
 
-> Julieta likes to write the number 2015 as a sum of three numbers. She does not always write it as a sum of three different numbers; for example, $2015=670+671+674$ and $175+920+920=2015$. Note that, in the second example, the number 920 appears twice in the same sum. In this way, in how many possible ways do two numbers appear equal as a same parcel?
-> 
+> Esmeralda brinca de escrever o número 2015 como a soma de três números, todos com três algarismos. Ela sempre os escreve em ordem não decrescente, como, por exemplo, $670+671+674=2015$ e $175+920+920=2015$. Note que, no segundo exemplo, o número 920 aparece duas vezes como parcela. Se ela escrevesse todas as somas possíveis, quantos números apareceriam duas vezes como parcela?
+>
 > (A) 50 (B) 100 (C) 450 (D) 858 (E) 907
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -1026,3 +1482,21 @@ level: OBM Nível 2
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count of ways to write 2015 as a sum of three numbers (a parcel repeated)*
+
+> Julieta likes to write the number 2015 as a sum of three numbers. She does not always write it as a sum of three different numbers; for example, $2015=670+671+674$ and $175+920+920=2015$. Note that, in the second example, the number 920 appears twice in the same sum. In this way, in how many possible ways do two numbers appear equal as a same parcel?
+> 
+> (A) 50 (B) 100 (C) 450 (D) 858 (E) 907
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

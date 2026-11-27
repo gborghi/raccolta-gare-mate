@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest positive integer m so the quadratic has an integer solution*
 
-> The second-degree equation $x^2 - 5x + m = 2011$ has at least one integer solution. What is the smallest positive integer value of $m$?
+> A equação do segundo grau $x^2 - 5x + m = 2011$ tem pelo menos uma solução inteira. Qual é o menor valor inteiro positivo possível de $m$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Extremal principle]]
@@ -40,15 +40,29 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest positive integer m so the quadratic has an integer solution*
+
+> The second-degree equation $x^2 - 5x + m = 2011$ has at least one integer solution. What is the smallest positive integer value of $m$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count anagrams of FELICIDADE that are alternated (consonant/vowel)*
 
-> A sequence of letters, with or without meaning, is called $alternated$ when it is formed by alternating consonants and vowels. For example, EZEQAF, MATEMATICA, LEGAL and ANIMADA are alternated words, whereas DSOIUF, OLIMPIADA and ORDINARIO are not. How many anagrams of the word FELICIDADE (including the word FELICIDADE itself) are alternated sequences?
+> Uma sequência de letras, com ou sem sentido, é dita alternada quando é formada alternadamente por consoantes e vogais. Por exemplo, EZEQAF, MATEMÁTICA, LEGAL e ANIMADA são palavras alternadas, mas DSOIUF, DINHEIRO e ORDINÁRIO não são. Quantos anagramas da palavra FELICIDADE (incluindo a palavra FELICIDADE) são sequências alternadas?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -71,14 +85,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count anagrams of FELICIDADE that are alternated (consonant/vowel)*
+
+> A sequence of letters, with or without meaning, is called $alternated$ when it is formed by alternating consonants and vowels. For example, EZEQAF, MATEMATICA, LEGAL and ANIMADA are alternated words, whereas DSOIUF, OLIMPIADA and ORDINARIO are not. How many anagrams of the word FELICIDADE (including the word FELICIDADE itself) are alternated sequences?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Acute triangle, foot of altitude from A; distances to B and orthocenter equal 10; approximate area*
 
-> The interior angle at vertex $A$ of an acute triangle $ABC$ measures $75$ degrees. The altitude relative to vertex $A$ touches side $BC$ at point $D$. The distances from $D$ to vertex $B$ and to the orthocenter of the triangle are equal to $10$ cm. What is the area of triangle $ABC$, approximated to the nearest integer? If necessary, use $\sqrt{3} \approx 1{,}732$.
+> O ângulo interno do vértice $A$ de um triângulo acutângulo $ABC$ mede 75 graus. A altura relativa ao vértice $A$ toca o lado $BC$ no ponto $D$. As distâncias de $D$ ao vértice $B$ e ao ortocentro do triângulo são ambas iguais a 10 cm. Qual é a área do triângulo $ABC$, aproximada para o inteiro mais próximo? Se necessário, use $\sqrt{3} \approx 1{,}732$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -101,15 +130,29 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangle, foot of altitude from A; distances to B and orthocenter equal 10; approximate area*
+
+> The interior angle at vertex $A$ of an acute triangle $ABC$ measures $75$ degrees. The altitude relative to vertex $A$ touches side $BC$ at point $D$. The distances from $D$ to vertex $B$ and to the orthocenter of the triangle are equal to $10$ cm. What is the area of triangle $ABC$, approximated to the nearest integer? If necessary, use $\sqrt{3} \approx 1{,}732$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_estremalita,skill_riconoscimento_pattern,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest possible gcd of two distinct numbers in {1,...,2011}*
 
-> What is the largest possible value of the greatest common divisor of two distinct numbers belonging to the set $\{1, 2, 3, \ldots, 2011\}$?
+> Qual é o maior valor possível do mdc de dois números distintos pertencentes ao conjunto $\{1, 2, 3, \ldots, 2011\}$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -132,20 +175,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest possible gcd of two distinct numbers in {1,...,2011}*
+
+> What is the largest possible value of the greatest common divisor of two distinct numbers belonging to the set $\{1, 2, 3, \ldots, 2011\}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Odd function on nonzero reals with a squared-sum identity; find nearest integer to f(33)*
 
-> Let $f$ be a function from the nonzero reals to the nonzero reals such that
-> \begin{itemize}
-> \item $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ for all nonzero reals $x, y, z$ such that $x + y + z = 0$;
-> \item $f(-x) = -f(x)$ for every nonzero real $x$;
-> \item $f(2011) = 1$.
-> \end{itemize}
-> Find the integer nearest to $f(33)$.
+> Seja $f$ uma função dos reais não nulos nos reais não nulos tal que
+>
+> - $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ para todos $x, y, z$ reais não nulos tais que $x + y + z = 0$;
+> - $f(-x) = -f(x)$ para todo $x$ real não nulo;
+> - $f(2011) = 1$.
+>
+> Encontre o inteiro mais próximo de $f(33)$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -172,15 +230,35 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Odd function on nonzero reals with a squared-sum identity; find nearest integer to f(33)*
+
+> Let $f$ be a function from the nonzero reals to the nonzero reals such that
+> \begin{itemize}
+> \item $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ for all nonzero reals $x, y, z$ such that $x + y + z = 0$;
+> \item $f(-x) = -f(x)$ for every nonzero real $x$;
+> \item $f(2011) = 1$.
+> \end{itemize}
+> Find the integer nearest to $f(33)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triangle ABC with angle A=45°; circle on diameter BC meets AB, AC at D, E; distance from midpoint of BC to line DE*
 
-> In triangle $ABC$, the angle $B\hat{A}C$ measures $45^\circ$. The circle with diameter $BC$ cuts the sides $AB$ and $AC$ at $D$ and $E$, respectively. Given that $DE = 10$, find the distance from the midpoint $M$ of $BC$ to the line $DE$.
+> No triângulo $ABC$, o ângulo $B\hat{A}C$ mede 45º. O círculo de diâmetro $BC$ corta os lados $AB$ e $AC$ em $D$ e $E$, respectivamente. Dado que $DE = 10$, encontre a distância do ponto médio $M$ de $BC$ à reta $DE$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -203,15 +281,29 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle ABC with angle A=45°; circle on diameter BC meets AB, AC at D, E; distance from midpoint of BC to line DE*
+
+> In triangle $ABC$, the angle $B\hat{A}C$ measures $45^\circ$. The circle with diameter $BC$ cuts the sides $AB$ and $AC$ at $D$ and $E$, respectively. Given that $DE = 10$, find the distance from the midpoint $M$ of $BC$ to the line $DE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all real solutions of a cyclic system 2y=x+1/x, etc.*
 
-> Find all real solutions $(x, y, z)$ of the system
+> Encontre todas as soluções reais $(x, y, z)$ do sistema
 > \[
 > \begin{cases} 2y = x + \dfrac{1}{x} \\ 2z = y + \dfrac{1}{y} \\ 2x = z + \dfrac{1}{z} \end{cases}
 > \]
@@ -239,15 +331,32 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all real solutions of a cyclic system 2y=x+1/x, etc.*
+
+> Find all real solutions $(x, y, z)$ of the system
+> \[
+> \begin{cases} 2y = x + \dfrac{1}{x} \\ 2z = y + \dfrac{1}{y} \\ 2x = z + \dfrac{1}{z} \end{cases}
+> \]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Integer-coeff polynomial: P(x)=2011 has roots 1 and t, P(x)=0 has an integer root; find all t*
 
-> Let $P(x)$ be a polynomial with integer coefficients. It is known that $P(x) = 2011$ has at least two distinct integer roots equal to $1$ and $t$, and that $P(x) = 0$ has at least one integer root. Determine all possible values of $t$.
+> Seja $P(x)$ um polinômio de coeficientes inteiros. Sabe-se que $P(x) = 2011$ tem pelo menos duas raízes inteiras distintas iguais a $1$ e $t$, e que $P(x) = 0$ tem pelo menos uma raiz inteira. Determine todos os possíveis valores de $t$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
@@ -270,14 +379,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integer-coeff polynomial: P(x)=2011 has roots 1 and t, P(x)=0 has an integer root; find all t*
+
+> Let $P(x)$ be a polynomial with integer coefficients. It is known that $P(x) = 2011$ has at least two distinct integer roots equal to $1$ and $t$, and that $P(x) = 0$ has at least one integer root. Determine all possible values of $t$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_ricorsione,method_inclusione_esclusione,method_casework,method_grafi,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Proper colorings of a disk split into n cyclic sectors with k colors*
 
-> Esmeralda has a circle of cardboard divided into $n$ circular sectors, numbered from $1$ to $n$, in clockwise order. In how many ways can Esmeralda paint the cardboard, painting each sector with a single color, having $k$ colors available, so that any two neighboring circular sectors (that is, sectors that share a segment in common, a border) have different colors? Note that this implies that the sectors numbered $1$ and $n$ must have different colors.
+> Esmeralda tem um círculo de cartolina dividido em $n$ setores circulares, numerados de $1$ a $n$, no sentido horário. De quantas maneiras Esmeralda pode pintar a cartolina, pintando cada setor com uma cor, tendo disponíveis $k$ cores e de modo que quaisquer dois setores circulares vizinhos (isto é, que têm um segmento em comum como fronteira) tenham cores diferentes? Note que isso implica que os setores de números $1$ e $n$ devem ter cores diferentes.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
@@ -298,3 +422,17 @@ level: OBM Nível 3
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Proper colorings of a disk split into n cyclic sectors with k colors*
+
+> Esmeralda has a circle of cardboard divided into $n$ circular sectors, numbered from $1$ to $n$, in clockwise order. In how many ways can Esmeralda paint the cardboard, painting each sector with a single color, having $k$ colors available, so that any two neighboring circular sectors (that is, sectors that share a segment in common, a border) have different colors? Note that this implies that the sectors numbered $1$ and $n$ must have different colors.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)

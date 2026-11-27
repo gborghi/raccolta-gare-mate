@@ -229,9 +229,7 @@ level: China Girls' Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Successione di numeri positivi con relazione di ricorrenza; trovare la soglia di monotonicità a*
-
+*Successione di numeri positivi con una relazione di ricorrenza; determinare la soglia a di monotonia.*
 > Si supponga che la successione di numeri positivi $x_1, x_2, \ldots, x_n, \ldots$ soddisfi $(8x_2 - 7x_1)x_1^7 = 8$ e
 > $$x_{k+1}x_{k-1} - x_k^2 = \frac{x_{k-1}^8 - x_k^8}{x_k^7 x_{k-1}^7}, \quad k \ge 2.$$
 > Si determini un numero reale positivo $a$ tale che, quando $x_1 > a$, si abbia $x_1 > x_2 > \cdots > x_n > \cdots$, e, quando $0 < x_1 < a$, tale monotonicità non sussista. (Proposto da Li Shenghong)

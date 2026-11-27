@@ -12,16 +12,14 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Analog clock: count how many times the two hands point in a given configuration over a span*
 
-> Every analog clock has at least two hands: one to show the hour and the other to show the minute. Joaozinho notices that these hands are sometimes very far apart and sometimes very close, as in the figure. How many times, between $5$ hours and $7$ minutes of one morning and $7$ hours of the morning of the following day, does the configuration occur?
-> 
-> (A) $40$ \quad (B) $44$ \quad (C) $45$ \quad (D) $46$ \quad (E) $47$
-
-![[src_obm_2014_n1_f1__Q01.png]]
+> Todo relógio analógico tem pelo menos dois ponteiros: um para mostrar a hora e outro mais comprido para mostrar o minuto. Joãozinho percebeu que esses ponteiros às vezes ficam alinhados, opostos ou então sobrepostos, como na figura. Quantas vezes isto acontece entre as 7 horas da manhã de um dia até as 7 horas da manhã do dia seguinte?
+>
+> A) $40$ \quad B) $44$ \quad C) $45$ \quad D) $46$ \quad E) $47$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -52,18 +50,37 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Analog clock: count how many times the two hands point in a given configuration over a span*
+
+> Every analog clock has at least two hands: one to show the hour and the other to show the minute. Joaozinho notices that these hands are sometimes very far apart and sometimes very close, as in the figure. How many times, between $5$ hours and $7$ minutes of one morning and $7$ hours of the morning of the following day, does the configuration occur?
+> 
+> (A) $40$ \quad (B) $44$ \quad (C) $45$ \quad (D) $46$ \quad (E) $47$
+
+![[src_obm_2014_n1_f1__Q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square cut in half and halves joined into a rectangle; ratio of perimeters*
 
-> Janaina cut a square sheet of paper in half and joined the two halves, making them coincide along their longer sides, obtaining a rectangle. What is the ratio between the perimeter of the square and the perimeter of the rectangle?
-> 
-> (A) $1{:}1$ \quad (B) $4{:}5$ \quad (C) $2{:}3$ \quad (D) $3{:}4$ \quad (E) $1{:}2$
-
-![[src_obm_2014_n1_f1__Q02.png]]
+> Janaína cortou uma folha quadrada ao meio e colou com adesivos as duas metades, fazendo coincidir seus lados menores, obtendo uma folha retangular. Qual é a razão entre o perímetro do quadrado original e o perímetro do retângulo?
+>
+> A) $1{:}1$ \quad B) $4{:}5$ \quad C) $2{:}3$ \quad D) $3{:}4$ \quad E) $1{:}2$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -92,16 +109,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square cut in half and halves joined into a rectangle; ratio of perimeters*
+
+> Janaina cut a square sheet of paper in half and joined the two halves, making them coincide along their longer sides, obtaining a rectangle. What is the ratio between the perimeter of the square and the perimeter of the rectangle?
+> 
+> (A) $1{:}1$ \quad (B) $4{:}5$ \quad (C) $2{:}3$ \quad (D) $3{:}4$ \quad (E) $1{:}2$
+
+![[src_obm_2014_n1_f1__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest positive difference between a five-digit and a four-digit number with all nine digits distinct*
 
-> What is the smallest positive difference between a positive integer with five digits and a positive integer with four digits, with the nine digits all distinct?
-> 
-> (A) $13$ \quad (B) $19$ \quad (C) $29$ \quad (D) $29$ \quad (E) $36$
+> Qual é a menor diferença entre um número inteiro positivo de quatro algarismos e um número inteiro positivo de três algarismos, sendo todos os sete algarismos distintos?
+>
+> A) $1$ \quad B) $13$ \quad C) $19$ \quad D) $29$ \quad E) $36$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
@@ -130,17 +167,35 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest positive difference between a five-digit and a four-digit number with all nine digits distinct*
+
+> What is the smallest positive difference between a positive integer with five digits and a positive integer with four digits, with the nine digits all distinct?
+> 
+> (A) $13$ \quad (B) $19$ \quad (C) $29$ \quad (D) $29$ \quad (E) $36$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Class composition / ratio problem with multiple-choice ratios*
 
-> In a sixth-year class there are boys and girls; the number of boys exceeds the number of girls by a given amount. What is the ratio between the number of girls and the number of boys in this class?
-> 
-> (A) $23$ \quad (B) $13{:}34$ \quad (C) $3{:}5$ \quad (D) $3{:}8$ \quad (E) $1{:}2$
+> Numa classe do sexto ano, a professora sabe que todo grupo que montar com 13 alunos terá pelo menos uma menina e todo grupo que formar com 21 alunos terá pelo menos um menino. Sendo o número de alunos desta classe o maior possível, qual é a razão entre o número de meninos e o número de meninas desta classe?
+>
+> A) $13{:}21$ \quad B) $13{:}34$ \quad C) $3{:}5$ \quad D) $3{:}8$ \quad E) $1{:}2$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -169,18 +224,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Class composition / ratio problem with multiple-choice ratios*
+
+> In a sixth-year class there are boys and girls; the number of boys exceeds the number of girls by a given amount. What is the ratio between the number of girls and the number of boys in this class?
+> 
+> (A) $23$ \quad (B) $13{:}34$ \quad (C) $3{:}5$ \quad (D) $3{:}8$ \quad (E) $1{:}2$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Four equal 20 cm squares stacked corner-to-center; area of the resulting figure*
 
-> Esmeralda has four equal square sheets of paper, each with side $20$ cm. She glues one sheet over another so that one covers half of the other, as in figures $1$ and $2$. She continues gluing in this way, joining the four sheets, as in figures $3$ and $4$. What is the area of figure $4$?
-> 
-> (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
-
-![[src_obm_2014_n1_f1__Q05.png]]
+> Esmeralda tem quatro folhas quadradas iguais, de lado $20$ cm. Ela cola uma folha sobre a outra, fazendo um vértice da folha de cima coincidir com o centro da folha de baixo, de modo que os lados da folha de cima sejam paralelos aos lados da folha de baixo, conforme figuras $1$ e $2$. Ela continua fazendo isto, até colar as quatro folhas, conforme figuras $3$ e $4$. Qual é a área da figura $4$?
+>
+> A) $1200\text{ cm}^2$ \quad B) $1300\text{ cm}^2$ \quad C) $1400\text{ cm}^2$ \quad D) $1500\text{ cm}^2$ \quad E) $1600\text{ cm}^2$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -211,22 +283,45 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four equal 20 cm squares stacked corner-to-center; area of the resulting figure*
+
+> Esmeralda has four equal square sheets of paper, each with side $20$ cm. She glues one sheet over another so that one covers half of the other, as in figures $1$ and $2$. She continues gluing in this way, joining the four sheets, as in figures $3$ and $4$. What is the area of figure $4$?
+> 
+> (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
+
+![[src_obm_2014_n1_f1__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,topic_logica,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cards 1 to 2014 colored yellow/green/black cyclically; which statements are true*
 
-> Ana lines up $2014$ cards and numbers them from $1$ to $2014$. Then, starting from the first one, she colors them with the colors yellow, green and black, one each, always in this order. Consider the following statements:
-> 
-> I) The number of cards is the same for the three colors.
-> II) [statement II]
-> III) [statement III]
-> 
-> Which statements are true?
-> 
-> (A) Only I \quad (B) Only II \quad (C) Only III \quad (D) Only I and II \quad (E) Only II and III
+> Ana enfileira $2014$ cartões e os numera de $1$ até $2014$. Em seguida, ela os pinta, a partir do primeiro, com as cores amarela, verde e preta, um de cada cor, sempre nessa ordem. Considere as seguintes afirmações:
+>
+> I) O número de cartões é igual para as três cores.
+>
+> II) Há mais cartões amarelos ímpares do que verdes pares.
+>
+> III) Há mais cartões pretos ímpares do que verdes ímpares.
+>
+> Quais afirmações são verdadeiras?
+>
+> A) Somente I. \quad B) Somente II. \quad C) Somente III. \quad D) Somente I e II. \quad E) Somente II e III.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
@@ -259,18 +354,43 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cards 1 to 2014 colored yellow/green/black cyclically; which statements are true*
+
+> Ana lines up $2014$ cards and numbers them from $1$ to $2014$. Then, starting from the first one, she colors them with the colors yellow, green and black, one each, always in this order. Consider the following statements:
+> 
+> I) The number of cards is the same for the three colors.
+> II) [statement II]
+> III) [statement III]
+> 
+> Which statements are true?
+> 
+> (A) Only I \quad (B) Only II \quad (C) Only III \quad (D) Only I and II \quad (E) Only II and III
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *15 coins of 25 and 10 centavos totaling a given amount; pick the correct equation*
 
-> Wagner has $15$ coins, some of $25$ centavos and others of $10$ centavos. Let $x$ be the number of $25$-centavo coins. Which of the equations below allows finding this number?
-> 
-> (A) $5x+10(15-x)=27$ \quad (B) $25x+10(15-x)=270$ \quad (C) $x+(15-x)=27$
-> 
-> (D) $5x+10(15-x)=54$ \quad (E) $5x+2(15-x)=135$
+> Wagner tem $15$ moedas, algumas de $25$ centavos e outras de $10$ centavos, no valor total de 2 reais e 70 centavos. Se $x$ é o número de moedas de $25$ centavos que ele tem, qual das equações abaixo permite obter esse número?
+>
+> A) $5x+10(15-x)=27$ \quad B) $25x+10(15-x)=270$ \quad C) $x+(15-x)=27$
+>
+> D) $5x+10(15-x)=54$ \quad E) $5x+2(15-x)=135$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -299,16 +419,38 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*15 coins of 25 and 10 centavos totaling a given amount; pick the correct equation*
+
+> Wagner has $15$ coins, some of $25$ centavos and others of $10$ centavos. Let $x$ be the number of $25$-centavo coins. Which of the equations below allows finding this number?
+> 
+> (A) $5x+10(15-x)=27$ \quad (B) $25x+10(15-x)=270$ \quad (C) $x+(15-x)=27$
+> 
+> (D) $5x+10(15-x)=54$ \quad (E) $5x+2(15-x)=135$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Climbing an 18-step staircase by 2s then by 1s, descending; minimum steps stepped on*
 
-> Ana climbs a staircase with $18$ steps. She climbs going up two steps at a time, skipping one step each time; then she climbs the rest one by one. On the way down, she descends the same steps. Considering the conditions described, what is the minimum number of steps Ana has to step on to reach the last step climbing the staircase?
-> 
-> (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $12$
+> Ana brinca com um jogo no seu tablet que consiste, no início, em subir uma escada com $18$ degraus, pulando por cima de dois, três ou então seis degraus. Ao pular dois ou três degraus, a escada aumenta seu tamanho em um degrau e, ao pular seis degraus, a escada diminui seu tamanho em um degrau. Por exemplo, no início, quando ela está no chão e pula dois degraus, ela vai para o degrau $3$ e, agora, a escada passa a ter $19$ degraus. Quando ela pisa no último degrau, a escada não aumenta e nem diminui e o jogo acaba.
+>
+> No mínimo, quantos saltos Ana deve dar para chegar ao último degrau desta escada virtual?
+>
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $12$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -337,19 +479,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Climbing an 18-step staircase by 2s then by 1s, descending; minimum steps stepped on*
+
+> Ana climbs a staircase with $18$ steps. She climbs going up two steps at a time, skipping one step each time; then she climbs the rest one by one. On the way down, she descends the same steps. Considering the conditions described, what is the minimum number of steps Ana has to step on to reach the last step climbing the staircase?
+> 
+> (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $12$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_grafi,skill_lettura_attenta,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Table of directed fares between five cities; minimum cost to visit all*
 
-> The table gives the price in reais of the tickets for trips between five cities $A$, $B$, $C$, $D$, $E$. Note that the price of going and the price of coming back between two distinct cities are different. Pablo wants to visit all the cities, spending the minimum possible. The table is:
-> 
+> A tabela ao lado mostra o preço em reais das passagens para viagens entre duas das cidades $A$, $B$, $C$, $D$ e $E$. Note que o preço de ida e o preço de volta entre duas mesmas cidades podem ser diferentes. Pablo quer sair de uma dessas cidades e visitar todas as demais gastando o mínimo possível. Quanto Pablo irá gastar?
+>
 > $$\begin{array}{c|ccccc} & A & B & C & D & E \\ \hline A & - & 3 & 1 & 2 & 5 \\ B & 2 & - & 2 & 1 & 4 \\ C & 1 & 3 & - & 2 & 1 \\ D & 2 & 5 & 4 & - & 3 \\ E & 5 & 2 & 1 & 4 & - \end{array}$$
-> 
-> How much will Pablo spend?
-> 
+>
 > (A) $4$ reais \quad (B) $5$ reais \quad (C) $6$ reais \quad (D) $9$ reais \quad (E) $11$ reais
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
@@ -383,16 +542,39 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Table of directed fares between five cities; minimum cost to visit all*
+
+> The table gives the price in reais of the tickets for trips between five cities $A$, $B$, $C$, $D$, $E$. Note that the price of going and the price of coming back between two distinct cities are different. Pablo wants to visit all the cities, spending the minimum possible. The table is:
+> 
+> $$\begin{array}{c|ccccc} & A & B & C & D & E \\ \hline A & - & 3 & 1 & 2 & 5 \\ B & 2 & - & 2 & 1 & 4 \\ C & 1 & 3 & - & 2 & 1 \\ D & 2 & 5 & 4 & - & 3 \\ E & 5 & 2 & 1 & 4 & - \end{array}$$
+> 
+> How much will Pablo spend?
+> 
+> (A) $4$ reais \quad (B) $5$ reais \quad (C) $6$ reais \quad (D) $9$ reais \quad (E) $11$ reais
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_casework,skill_modellizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Buying 20 pens and 20 pencils at two shops with promotions; how much can be saved*
 
-> Joana, to buy $20$ pens and $20$ pencils, compared the prices at two shops. In shop A each pen costs $4$ reais and each pencil $5$ reais; in shop B each pen costs $6$ reais and each pencil $3$ reais. Each shop has a promotion. Buying with the best choice between buying only at shop A or only at shop B, how much can she save?
-> 
-> (A) nothing \quad (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
+> Joana foi comprar $20$ canetas e comparou os preços em duas lojas: na loja A, cada caneta custa $3$ reais, mas há uma promoção de $5$ canetas pelo preço de $4$, e na loja B, cada caneta custa $4$ reais, mas a cada $5$ canetas compradas, como brinde ela pode levar até mais duas de graça. Tentando fazer a melhor escolha entre comprar somente na loja A ou somente na loja B, quanto ela pode economizar?
+>
+> (A) nada \quad (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -421,18 +603,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Buying 20 pens and 20 pencils at two shops with promotions; how much can be saved*
+
+> Joana, to buy $20$ pens and $20$ pencils, compared the prices at two shops. In shop A each pen costs $4$ reais and each pencil $5$ reais; in shop B each pen costs $6$ reais and each pencil $3$ reais. Each shop has a promotion. Buying with the best choice between buying only at shop A or only at shop B, how much can she save?
+> 
+> (A) nothing \quad (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rectangle split by three concurrent segments; given areas 24, 18, 8; find total area*
 
-> The rectangle of the figure was divided into several regions by means of three concurrent segments, one of them being a diagonal of the rectangle and the others parallel to the sides. The numbers indicate the areas, in $\text{m}^2$, of some regions; the values shown are $24$, $18$ and $8$. What is the area of the original rectangle?
-> 
+> O retângulo da figura foi repartido em várias regiões por meio de três segmentos concorrentes, sendo um deles uma de suas diagonais e os outros dois paralelos aos lados do mesmo. Os números indicam as áreas em $\text{m}^2$ das regiões brancas em que se encontram. Qual é a área do retângulo original?
+>
 > (A) $40\text{ m}^2$ \quad (B) $65\text{ m}^2$ \quad (C) $75\text{ m}^2$ \quad (D) $80\text{ m}^2$ \quad (E) $100\text{ m}^2$
-
-![[src_obm_2014_n1_f1__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -461,16 +660,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangle split by three concurrent segments; given areas 24, 18, 8; find total area*
+
+> The rectangle of the figure was divided into several regions by means of three concurrent segments, one of them being a diagonal of the rectangle and the others parallel to the sides. The numbers indicate the areas, in $\text{m}^2$, of some regions; the values shown are $24$, $18$ and $8$. What is the area of the original rectangle?
+> 
+> (A) $40\text{ m}^2$ \quad (B) $65\text{ m}^2$ \quad (C) $75\text{ m}^2$ \quad (D) $80\text{ m}^2$ \quad (E) $100\text{ m}^2$
+
+![[src_obm_2014_n1_f1__Q11.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_invarianti,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Three painters paint three 60 m walls at different rates, helping each other; total time*
 
-> Manuel, Antonio and Joaquim begin to paint, at the same instant, three equal walls of $60$ metres of length, one wall each. In the first $10$ minutes of work, Manuel paints $2$ metres, Antonio $3$ metres and Joaquim $5$ metres. As each one finishes his part, he immediately goes to help the others, until all three together finish all the work, keeping the same rhythm until the end. How much time did they take to finish the work?
-> 
-> (A) $3$ hours \quad (B) $4$ hours \quad (C) $5$ hours \quad (D) $6$ hours \quad (E) $7$ hours
+> Manuel, Antônio e Joaquim começam a pintar, no mesmo instante, três muros iguais de $60$ metros de comprimento, um muro para cada um. Nos $10$ primeiros minutos de trabalho, Manuel pinta $2$ metros, Antônio $3$ metros e Joaquim, $5$ metros. Quem termina a sua parte, imediatamente passa a ajudar os outros, até que os três juntos terminem todo o trabalho, cada um mantendo o seu ritmo até o final. Quanto tempo levou para o trabalho ser feito?
+>
+> (A) $3$ horas \quad (B) $4$ horas \quad (C) $5$ horas \quad (D) $6$ horas \quad (E) $7$ horas
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
@@ -499,16 +718,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three painters paint three 60 m walls at different rates, helping each other; total time*
+
+> Manuel, Antonio and Joaquim begin to paint, at the same instant, three equal walls of $60$ metres of length, one wall each. In the first $10$ minutes of work, Manuel paints $2$ metres, Antonio $3$ metres and Joaquim $5$ metres. As each one finishes his part, he immediately goes to help the others, until all three together finish all the work, keeping the same rhythm until the end. How much time did they take to finish the work?
+> 
+> (A) $3$ hours \quad (B) $4$ hours \quad (C) $5$ hours \quad (D) $6$ hours \quad (E) $7$ hours
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count positive integers with four distinct digits whose sum is 7*
 
-> The number $2014$ has four distinct digits whose sum is $7$. How many positive integers have these properties?
-> 
+> O número $2014$ tem quatro algarismos distintos cuja soma é $7$. Quantos números inteiros positivos têm essas duas propriedades?
+>
 > (A) $12$ \quad (B) $16$ \quad (C) $18$ \quad (D) $20$ \quad (E) $23$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -538,15 +775,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count positive integers with four distinct digits whose sum is 7*
+
+> The number $2014$ has four distinct digits whose sum is $7$. How many positive integers have these properties?
+> 
+> (A) $12$ \quad (B) $16$ \quad (C) $18$ \quad (D) $20$ \quad (E) $23$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rosa distributes among nephews; 10 left over, then 22, finally distributes 240; amount each got*
 
-> Rosa decided to distribute $250$ reais among her nephews, giving the same whole quantity (without centavos) to each one, but she saw that $10$ reais would be left over. Then she decided to give a larger quantity to each one, but then $22$ reais would be left over. Therefore she decided to distribute only $240$ reais. How much did each nephew gain?
-> 
+> Rosa resolveu distribuir $250$ reais para seus sobrinhos, dando a mesma quantia inteira (sem centavos) para cada um e percebeu que sobrariam $10$ reais. Então ela pensou em diminuir em $1$ real a quantia de cada um e descobriu que sobrariam $22$ reais. Por fim, ela resolveu distribuir apenas $240$ reais. Quanto ganhou cada sobrinho?
+>
 > (A) $5$ reais \quad (B) $10$ reais \quad (C) $12$ reais \quad (D) $15$ reais \quad (E) $20$ reais
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -576,19 +832,35 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rosa distributes among nephews; 10 left over, then 22, finally distributes 240; amount each got*
+
+> Rosa decided to distribute $250$ reais among her nephews, giving the same whole quantity (without centavos) to each one, but she saw that $10$ reais would be left over. Then she decided to give a larger quantity to each one, but then $22$ reais would be left over. Therefore she decided to distribute only $240$ reais. How much did each nephew gain?
+> 
+> (A) $5$ reais \quad (B) $10$ reais \quad (C) $12$ reais \quad (D) $15$ reais \quad (E) $20$ reais
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square partitioned into four labeled regions A,B,C,D; which two have equal area*
 
-> The square at the side was partitioned into four regions, represented by the letters $A$, $B$, $C$, $D$. Two of them have the same area. Which two?
-> 
-> (A) $A$ and $B$ \quad (B) $A$ and $C$ \quad (C) $A$ and $D$ \quad (D) $B$ and $C$ \quad (E) $B$ and $D$
-
-![[src_obm_2014_n1_f1__Q15.png]]
+> O quadrado ao lado foi repartido em quatro regiões, representadas pelas letras. Duas delas têm a mesma área. Quais?
+>
+> (A) $A$ e $B$ \quad (B) $A$ e $C$ \quad (C) $A$ e $D$ \quad (D) $B$ e $C$ \quad (E) $B$ e $D$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -617,15 +889,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square partitioned into four labeled regions A,B,C,D; which two have equal area*
+
+> The square at the side was partitioned into four regions, represented by the letters $A$, $B$, $C$, $D$. Two of them have the same area. Which two?
+> 
+> (A) $A$ and $B$ \quad (B) $A$ and $C$ \quad (C) $A$ and $D$ \quad (D) $B$ and $C$ \quad (E) $B$ and $D$
+
+![[src_obm_2014_n1_f1__Q15.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Marble game: Adao lost 5, Bernardo lost 4, Carlos gained them; minimum total*
 
-> Adao, Bernardo and Carlos played a game of marbles. Adao lost $5$ marbles, Bernardo lost $4$, and Carlos gained all the marbles that the others lost. Remembering that with $5$ marbles a person can play, what is the minimum quantity of marbles in the game?
-> 
+> Adão, Bernardo e Carlos jogaram uma partida com bolinhas de gude. Adão perdeu $5$ bolinhas, Bernardo perdeu $4$ e Carlos ganhou todas as bolinhas que eles perderam. Ao final do jogo, todos os meninos acabaram ficando com a mesma quantidade de bolinhas. Lembrando que sem bolinhas ninguém joga, pelo menos quantas bolinhas Adão e Bernardo tinham, juntos, quando começaram a jogar?
+>
 > (A) $11$ \quad (B) $13$ \quad (C) $19$ \quad (D) $29$ \quad (E) $33$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
@@ -655,17 +947,35 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Marble game: Adao lost 5, Bernardo lost 4, Carlos gained them; minimum total*
+
+> Adao, Bernardo and Carlos played a game of marbles. Adao lost $5$ marbles, Bernardo lost $4$, and Carlos gained all the marbles that the others lost. Remembering that with $5$ marbles a person can play, what is the minimum quantity of marbles in the game?
+> 
+> (A) $11$ \quad (B) $13$ \quad (C) $19$ \quad (D) $29$ \quad (E) $33$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Full class, students claim 24 or other numbers; some lie, some tell truth; total students*
 
-> In a full class, the teacher asks how many students studied for the test. Several students answer. Those who studied tell the truth; those who did not study lie. If $32$ told the truth, how many students are there in the room?
-> 
-> (A) $38$ \quad (B) $40$ \quad (C) $42$ \quad (D) $44$ \quad (E) $55$
+> Numa sala completa, quando a professora perguntou se os alunos tinham estudado para a prova, vários alunos disseram que sim e os $15$ restantes disseram que não. Quem não estuda sempre mente, quem estuda às vezes mente, às vezes diz a verdade. Se $23$ alunos estudaram para a prova e $32$ mentiram, quantos alunos tem a sala?
+>
+> (A) $38$    (B) $40$    (C) $42$    (D) $44$    (E) $55$
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -694,18 +1004,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Full class, students claim 24 or other numbers; some lie, some tell truth; total students*
+
+> In a full class, the teacher asks how many students studied for the test. Several students answer. Those who studied tell the truth; those who did not study lie. If $32$ told the truth, how many students are there in the room?
+> 
+> (A) $38$ \quad (B) $40$ \quad (C) $42$ \quad (D) $44$ \quad (E) $55$
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Gray region as union of equal rectangles with no gaps/overlaps; find gray area*
 
-> The gray region in the figure is the union of equal rectangles, without gaps nor overlaps. The dashed line is indicated in the figure. What is the area of the gray region?
-> 
-> (A) $6\text{ cm}^2$ \quad (B) $6{,}5\text{ cm}^2$ \quad (C) $7\text{ cm}^2$ \quad (D) $7{,}5\text{ cm}^2$ \quad (E) $8\text{ cm}^2$
-
-![[src_obm_2014_n1_f1__Q18.png]]
+> A região cinza na figura ao lado é formada pela união de quatro retângulos iguais, sem buracos nem sobreposições. A linha pontilhada é um quadrado. Qual é a área da região cinza?
+>
+> (A) $6\text{ cm}^2$    (B) $6{,}5\text{ cm}^2$    (C) $7\text{ cm}^2$    (D) $7{,}5\text{ cm}^2$    (E) $8\text{ cm}^2$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
@@ -736,17 +1063,37 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Gray region as union of equal rectangles with no gaps/overlaps; find gray area*
+
+> The gray region in the figure is the union of equal rectangles, without gaps nor overlaps. The dashed line is indicated in the figure. What is the area of the gray region?
+> 
+> (A) $6\text{ cm}^2$ \quad (B) $6{,}5\text{ cm}^2$ \quad (C) $7\text{ cm}^2$ \quad (D) $7{,}5\text{ cm}^2$ \quad (E) $8\text{ cm}^2$
+
+![[src_obm_2014_n1_f1__Q18.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *All four-distinct-digit numbers sorted; largest positive difference between neighbors*
 
-> Juca made a list of all the positive integers with four distinct digits, in increasing order. Then he made another list of the positive differences between all the pairs of neighboring numbers. In the second list, what was the largest number that Juca wrote?
-> 
-> (A) $25$ \quad (B) $36$ \quad (C) $47$ \quad (D) $103$ \quad (E) $105$
+> Juca fez uma lista de todos os números inteiros positivos de quatro algarismos distintos, em ordem crescente. Em seguida, fez outra lista das diferenças positivas entre todos os pares de números vizinhos. Na segunda lista, qual foi o maior número que Juca escreveu?
+>
+> (A) $25$    (B) $36$    (C) $47$    (D) $103$    (E) $105$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -775,18 +1122,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*All four-distinct-digit numbers sorted; largest positive difference between neighbors*
+
+> Juca made a list of all the positive integers with four distinct digits, in increasing order. Then he made another list of the positive differences between all the pairs of neighboring numbers. In the second list, what was the largest number that Juca wrote?
+> 
+> (A) $25$ \quad (B) $36$ \quad (C) $47$ \quad (D) $103$ \quad (E) $105$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida,topic_logica,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rectangular block of 6 black and 6 white cubes; identify the view from behind*
 
-> The figure to the right shows a rectangular block assembled with six black little cubes and six white little cubes, all of the same size. Which of the figures below shows the same block seen from behind?
-> 
-> (A) \quad (B) \quad (C) \quad (D) \quad (E)
-
-![[src_obm_2014_n1_f1__Q20.png]]
+> A figura à direita mostra um bloco retangular montado com seis cubinhos pretos e seis cubinhos brancos, todos de mesmo tamanho. Qual das figuras abaixo mostra o mesmo bloco visto por trás?
+>
+> (A)    (B)    (C)    (D)    (E)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -814,3 +1178,24 @@ level: OBM Nível 1
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangular block of 6 black and 6 white cubes; identify the view from behind*
+
+> The figure to the right shows a rectangular block assembled with six black little cubes and six white little cubes, all of the same size. Which of the figures below shows the same block seen from behind?
+> 
+> (A) \quad (B) \quad (C) \quad (D) \quad (E)
+
+![[src_obm_2014_n1_f1__Q20.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

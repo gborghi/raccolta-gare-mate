@@ -12,14 +12,14 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count integer values of a sum expression given root constraints*
 
-> Each of the numbers $x_1, x_2, \ldots, x_{2004}$ can equal $\sqrt{2}-1$ or $\sqrt{2}+1$. How many distinct integer values can the sum
-> $$S = \sum_{k=1}^{2003} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$
-> assume?
+> Cada um dos números $x_1, x_2, \ldots, x_{2004}$ pode ser igual a $\sqrt{2}-1$ ou a $\sqrt{2}+1$. Quantos valores inteiros distintos a soma
+> $$S = \sum_{k=1}^{1002} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$
+> pode assumir?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -44,14 +44,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count integer values of a sum expression given root constraints*
+
+> Each of the numbers $x_1, x_2, \ldots, x_{2004}$ can equal $\sqrt{2}-1$ or $\sqrt{2}+1$. How many distinct integer values can the sum
+> $$S = \sum_{k=1}^{2003} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$
+> assume?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find maximum ratio CD/AD in right-trapezoid with perpendicular diagonal*
 
-> Let $ABCD$ be a right trapezoid with bases $AB$ and $CD$, with right angles at $A$ and $D$. Given that the shorter diagonal $BD$ is perpendicular to side $BC$, find the maximum possible value of the ratio $\dfrac{CD}{AD}$.
+> Seja $ABCD$ um trapézio retângulo de bases $AB$ e $CD$, com ângulos retos em $A$ e $D$. Dado que a diagonal menor $BD$ é perpendicular ao lado $BC$, determine o menor valor possível para a razão $\dfrac{CD}{AD}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
@@ -74,15 +91,29 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find maximum ratio CD/AD in right-trapezoid with perpendicular diagonal*
+
+> Let $ABCD$ be a right trapezoid with bases $AB$ and $CD$, with right angles at $A$ and $D$. Given that the shorter diagonal $BD$ is perpendicular to side $BC$, find the maximum possible value of the ratio $\dfrac{CD}{AD}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count distinct soccer teams formed across a school year*
 
-> The twelve students of a class began to play soccer every day after school, forming two teams of 6 players each and playing among themselves. Each day they formed teams different from those of the previous two days. At the end of the year, they verified that every 5 students had played together on the same team at least once. How many different teams were formed throughout the year?
+> Os doze alunos de uma turma de olimpíada saíam para jogar futebol todos os dias após a aula de matemática, formando dois times de 6 jogadores cada e jogando entre si. A cada dia eles formavam dois times diferentes dos times formados em dias anteriores. Ao final do ano, eles verificaram que cada 5 alunos haviam jogado juntos num mesmo time exatamente uma vez. Quantos times diferentes foram formados ao longo do ano?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
@@ -105,16 +136,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count distinct soccer teams formed across a school year*
+
+> The twelve students of a class began to play soccer every day after school, forming two teams of 6 players each and playing among themselves. Each day they formed teams different from those of the previous two days. At the end of the year, they verified that every 5 students had played together on the same team at least once. How many different teams were formed throughout the year?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all natural number solutions to an exponential Diophantine equation*
 
-> Determine all solutions of the equation
-> $$n \cdot 2^{n+1} + 1 = m^2$$
-> with $n$ and $m$ natural numbers.
+> Determine todas as soluções da equação
+> $$n \cdot 2^{n-1} + 1 = m^2$$
+> com $n$ e $m$ naturais.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -139,14 +185,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all natural number solutions to an exponential Diophantine equation*
+
+> Determine all solutions of the equation
+> $$n \cdot 2^{n+1} + 1 = m^2$$
+> with $n$ and $m$ natural numbers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all 4-digit sinister numbers (sum of primes equals sum of exponents)*
 
-> We say that a positive integer is *sinister* if the sum of its prime factors equals the sum of the exponents in its prime factorization. Find all sinister four-digit numbers.
+> Dizemos que um número inteiro positivo é sinistro quando a soma de seus fatores primos é igual à soma dos expoentes de sua decomposição em fatores primos. Encontre todos os números sinistros de quatro algarismos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -169,14 +232,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all 4-digit sinister numbers (sum of primes equals sum of exponents)*
+
+> We say that a positive integer is *sinister* if the sum of its prime factors equals the sum of the exponents in its prime factorization. Find all sinister four-digit numbers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Determine angles of triangle given orthocenter, incenter, circumcenter collinearity condition*
 
-> Let $H$, $I$, and $O$ be the orthocenter, the incenter, and the circumcenter of triangle $ABC$, respectively. The line $CI$ cuts the circumcircle of $ABC$ at the point $L$, distinct from $C$. It is given that $AB = IL$ and $AH = OH$. Determine the angles of triangle $ABC$.
+> Sejam $H$, $I$ e $O$ o ortocentro, o incentro e o circuncentro do triângulo $ABC$, respectivamente. A reta $CI$ corta o circuncírculo de $ABC$ no ponto $L$, distinto de $C$. Sabe-se que $AB = IL$ e $AH = OH$. Determine os ângulos do triângulo $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -196,3 +274,18 @@ level: OBM Nível 3
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Determine angles of triangle given orthocenter, incenter, circumcenter collinearity condition*
+
+> Let $H$, $I$, and $O$ be the orthocenter, the incenter, and the circumcenter of triangle $ABC$, respectively. The line $CI$ cuts the circumcircle of $ABC$ at the point $L$, distinct from $C$. It is given that $AB = IL$ and $AH = OH$. Determine the angles of triangle $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)

@@ -205,9 +205,7 @@ level: JMO Yosen
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Quanti interi positivi distinti compaiono in un conteggio di coppie coprime*
-
+*Quanti valori distinti assume f(n), numero di m≤n primi con n e tali che anche m+1 e n+1 siano primi tra loro, per n da 1 a 10^10.*
 > Per un intero positivo $n$, sia $f(n)$ il numero di interi positivi $m$ tali che $m$ e $n$ sono coprimi fra loro e anche $m+1$ e $n+1$ sono coprimi fra loro, dove $m$ varia in $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti interi positivi distinti compaiono?
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]

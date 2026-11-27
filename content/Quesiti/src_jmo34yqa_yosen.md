@@ -436,9 +436,7 @@ level: JMO Yosen
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Numero di tuple per cui esiste un'altra tupla con una somma su coppie coprime*
-
+*Numero di tuple (a_1,…,a_2100) modulo 2100 per cui esiste una tuple (b_j) con ciascuna a_i congrua alla somma dei b_j sugli indici j primi con i rispetto a 2100.*
 > Trovare il numero di tuple $(a_1, a_2, \ldots, a_{2100})$ di interi con $0 \le a_i \le 2099$ per tutti i $i$, tali che esista una tupla di interi $(b_1, b_2, \ldots, b_{2100})$ per la quale, per ogni intero $i$ con $1 \le i \le 2100$,
 >
 > $$a_i \equiv \sum_{\substack{\gcd(j-i,\,2100)=1 \\ 1 \le j \le 2100}} b_j \pmod{2100}.$$

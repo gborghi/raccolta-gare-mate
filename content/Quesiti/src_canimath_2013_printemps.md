@@ -12,12 +12,12 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Rhombus with special point K on CD, prove A, K, P collinear*
 
-> Let $ABCD$ be a rhombus. Let $K$ be a point on line $(CD)$, other than $C$ and $D$, such that $AD = BK$. Let $P$ be the intersection point of line $(BD)$ with the perpendicular bisector of segment $[BC]$. Prove that points $A$, $K$, and $P$ are collinear.
+> Soit $ABCD$ un losange. Soit $K$ un point de la droite $(CD)$, autre que $C$ et $D$, tel que $AD = BK$. Soit $P$ le point d’intersection de la droite $(BD)$ avec la médiatrice de $[BC]$. Prouver que les points $A$, $K$ et $P$ sont alignés.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -39,15 +39,29 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rhombus with special point K on CD, prove A, K, P collinear*
+
+> Let $ABCD$ be a rhombus. Let $K$ be a point on line $(CD)$, other than $C$ and $D$, such that $AD = BK$. Let $P$ be the intersection point of line $(BD)$ with the perpendicular bisector of segment $[BC]$. Prove that points $A$, $K$, and $P$ are collinear.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Smallest denominator of sum of two irreducible fractions with denominators 600 and 700*
 
-> The denominators of two irreducible fractions are $600$ and $700$. What is the smallest possible value of the denominator of their sum (when the sum is written as an irreducible fraction)?
+> Les dénominateurs de deux fractions irréductibles sont $600$ et $700$. Quelle est la plus petite valeur possible du dénominateur de leur somme (lorsqu’on l’écrit comme fraction irréductible) ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
@@ -71,17 +85,32 @@ level: Coupe Animath Printemps
 **Risposta:** 168
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest denominator of sum of two irreducible fractions with denominators 600 and 700*
+
+> The denominators of two irreducible fractions are $600$ and $700$. What is the smallest possible value of the denominator of their sum (when the sum is written as an irreducible fraction)?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 168
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_colorazione,method_casework,method_invarianti,method_congruenze,skill_riconoscimento_pattern,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *(m,n)-grasshopper on grid colored in (2,1)-pattern: find m,n so it always changes color*
 
-> Let $m$ and $n$ be strictly positive integers. A grasshopper called an $(m,n)$-grasshopper is placed on a grid with infinitely many rows (infinite upward and downward) and columns (infinite to the left and right). At each step, the grasshopper moves $m$ cells in one direction (horizontal or vertical) and $n$ cells in the perpendicular direction. The grid is colored blue and red in a $(2,1)$-grasshopper pattern (i.e., the coloring repeats with period $2$ in one direction and period $1$ in the other).
-> 
-> For which values of $m$ and $n$ does the grasshopper change color at every step?
+> Soient $m$, $n$ des entiers strictement positifs. Un pion appelé $(m, n)$-condylure se déplace sur un tableau comportant une infinité de lignes (une infinité vers la gauche ainsi que vers la droite) et de colonnes (une infinité vers le haut ainsi que vers le bas). À chaque coup, le condylure se déplace de $m$ cases dans une direction (horizontale ou verticale) et de $n$ cases dans la direction perpendiculaire. Le cheval du jeu d’échecs est donc un $(2, 1)$-condylure.
+>
+> Pour quelles valeurs de $m$ et de $n$ peut-on colorier les cases de ce tableau en bleu et en rouge de sorte qu’à chaque coup, la case sur laquelle se trouve le condylure change de couleur ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -105,21 +134,37 @@ level: Coupe Animath Printemps
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*(m,n)-grasshopper on grid colored in (2,1)-pattern: find m,n so it always changes color*
+
+> Let $m$ and $n$ be strictly positive integers. A grasshopper called an $(m,n)$-grasshopper is placed on a grid with infinitely many rows (infinite upward and downward) and columns (infinite to the left and right). At each step, the grasshopper moves $m$ cells in one direction (horizontal or vertical) and $n$ cells in the perpendicular direction. The grid is colored blue and red in a $(2,1)$-grasshopper pattern (i.e., the coloring repeats with period $2$ in one direction and period $1$ in the other).
+> 
+> For which values of $m$ and $n$ does the grasshopper change color at every step?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *7-digit safe combination: open in at most 6 tries; find minimum tries*
 
-> The secret code of the Animath strongbox consists of $7$ distinct digits. The strongbox opens when one enters a sequence of $7$ digits satisfying both of the following conditions:
-> - the $7$ digits are all distinct,
-> - at least one of the $7$ digits is in the correct position.
-> 
-> a) Is it possible to open the strongbox in at most $6$ tries?
-> 
-> b) What is the minimum number of tries required to guarantee opening the strongbox, regardless of the secret code?
+> Le code secret du coffre fort d’Animath est composé de $7$ chiffres tous différents. Le coffre fort s’ouvre lorsqu’on compose une suite de $7$ chiffres si les deux conditions suivantes sont respectées :
+> - les $7$ chiffres sont tous différents,
+> - au moins l’un des $7$ chiffres est à la bonne place.
+>
+> a) Est-il possible d’ouvrir le coffre en au plus $6$ essais ?
+>
+> b) Quel est le nombre minimal d’essais pour pouvoir ouvrir le coffre, quel que soit le code secret ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
@@ -143,3 +188,23 @@ level: Coupe Animath Printemps
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*7-digit safe combination: open in at most 6 tries; find minimum tries*
+
+> The secret code of the Animath strongbox consists of $7$ distinct digits. The strongbox opens when one enters a sequence of $7$ digits satisfying both of the following conditions:
+> - the $7$ digits are all distinct,
+> - at least one of the $7$ digits is in the correct position.
+> 
+> a) Is it possible to open the strongbox in at most $6$ tries?
+> 
+> b) What is the minimum number of tries required to guarantee opening the strongbox, regardless of the secret code?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)

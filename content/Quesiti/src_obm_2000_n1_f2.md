@@ -12,14 +12,14 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count rectangular parallelepipeds from 24 unit cubes*
 
-> In how many different ways can we build a rectangular parallelepiped using exactly 24 cubic blocks of dimensions $1 \times 1 \times 1$?
-> 
-> **Note:** Blocks of dimensions $2 \times 3 \times 4$ and $2 \times 4 \times 3$ are considered equal.
+> De quantas maneiras diferentes podemos construir um paralelepípedo usando exatamente 24 blocos cúbicos de medidas $1 \times 1 \times 1$?
+>
+> Obs: Blocos de dimensões $2 \times 3 \times 4$ e $2 \times 4 \times 3$ devem ser considerados iguais.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -45,19 +45,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count rectangular parallelepipeds from 24 unit cubes*
+
+> In how many different ways can we build a rectangular parallelepiped using exactly 24 cubic blocks of dimensions $1 \times 1 \times 1$?
+> 
+> **Note:** Blocks of dimensions $2 \times 3 \times 4$ and $2 \times 4 \times 3$ are considered equal.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Risposta:** 6
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find side length of square I in rectangle divided into 9 squares*
 
-> The rectangle shown alongside is divided into $9$ squares $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$, and $I$. Square $A$ has side length $1$ and square $B$ has side length $9$.
-> 
-> What is the side length of square $I$?
-
-![[src_obm_2000_n1_f2__Q02.png]]
+> O retângulo ao lado está dividido em $9$ quadrados, $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$ e $I$. O quadrado $A$ tem lado $1$ e o quadrado $B$ tem lado $9$.
+>
+> Qual é o lado do quadrado $I$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -85,17 +100,38 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find side length of square I in rectangle divided into 9 squares*
+
+> The rectangle shown alongside is divided into $9$ squares $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$, and $I$. Square $A$ has side length $1$ and square $B$ has side length $9$.
+> 
+> What is the side length of square $I$?
+
+![[src_obm_2000_n1_f2__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 18
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_combinatoria,method_invarianti,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Red/blue 100 points on a line; determine colour of rightmost point*
 
-> We paint $100$ points on a line either red or blue. If two neighbouring points are both red, we paint the segment between them red. If two neighbouring points are both blue, we paint the segment between them blue. If two neighbouring points have different colours, we paint the segment between them green. After doing this, there are exactly $20$ green segments.
-> 
-> Is it possible to determine from this data the colour of the point on the right end? If so, what colour is that point?
+> Pintamos de vermelho ou azul $100$ pontos em uma reta. Se dois pontos vizinhos são vermelhos, pintamos o segmento que os une de vermelho. Se dois pontos vizinhos são azuis, pintamos o segmento de azul. Finalmente, se dois pontos vizinhos têm cores distintas, pintamos o segmento de verde. Feito isto, existem exatamente $20$ segmentos verdes.
+>
+> O ponto na ponta esquerda é vermelho.
+>
+> É possível determinar com estes dados a cor do ponto na ponta direita? Em caso afirmativo, qual a cor deste ponto?
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
@@ -121,23 +157,38 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Red/blue 100 points on a line; determine colour of rightmost point*
+
+> We paint $100$ points on a line either red or blue. If two neighbouring points are both red, we paint the segment between them red. If two neighbouring points are both blue, we paint the segment between them blue. If two neighbouring points have different colours, we paint the segment between them green. After doing this, there are exactly $20$ green segments.
+> 
+> Is it possible to determine from this data the colour of the point on the right end? If so, what colour is that point?
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** red
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Place integers 1–10 in star; each row of 4 in increasing or decreasing order*
 
-> We wish to write the integers from $1$ to $10$ in the ten circles of the star diagram below so that any four numbers aligned along the same line of the star appear in increasing or decreasing order.
-> 
-> a) Show that it is possible to arrange the numbers satisfying these conditions.
-> 
-> b) Which numbers can appear at the tips (outer points) of the star?
-> 
-> c) Which numbers can appear in the other five (inner) positions?
-
-![[src_obm_2000_n1_f2__Q04.png]]
+> Desejamos escrever os inteiros de $1$ a $10$ nas casas do desenho ao lado de tal forma que quaisquer quatro números alinhados aparecem em ordem crescente ou decrescente.
+>
+> a) Mostre uma maneira de dispor os números respeitando estas condições.
+>
+> b) Quais números podem aparecer nas pontas da estrela?
+>
+> c) Quais números podem aparecer nas outras cinco posições?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
@@ -168,15 +219,37 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Place integers 1–10 in star; each row of 4 in increasing or decreasing order*
+
+> We wish to write the integers from $1$ to $10$ in the ten circles of the star diagram below so that any four numbers aligned along the same line of the star appear in increasing or decreasing order.
+> 
+> a) Show that it is possible to arrange the numbers satisfying these conditions.
+> 
+> b) Which numbers can appear at the tips (outer points) of the star?
+> 
+> c) Which numbers can appear in the other five (inner) positions?
+
+![[src_obm_2000_n1_f2__Q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest positive integer that is double a cube and quintuple a square*
 
-> What is the smallest positive integer that is both the double of a perfect cube and the quintuple (five times) of a perfect square?
+> Qual é o menor inteiro positivo que é o dobro de um cubo e o quíntuplo de um quadrado?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -200,14 +273,30 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest positive integer that is double a cube and quintuple a square*
+
+> What is the smallest positive integer that is both the double of a perfect cube and the quintuple (five times) of a perfect square?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 2000
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest n giving equal remainders for 154, 238, 334*
 
-> What is the largest positive integer $n$ such that the remainders when $154$, $238$, and $334$ are each divided by $n$ are all equal?
+> Qual é o maior inteiro positivo $n$ tal que os restos das divisões de $154$, $238$ e $334$ por $n$ são iguais?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -229,3 +318,18 @@ level: OBM Nível 1
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest n giving equal remainders for 154, 238, 334*
+
+> What is the largest positive integer $n$ such that the remainders when $154$, $238$, and $334$ are each divided by $n$ are all equal?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 12
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)

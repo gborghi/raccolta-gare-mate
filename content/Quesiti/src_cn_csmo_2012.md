@@ -60,9 +60,7 @@ level: China Southeastern Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Intersezioni delle corde dell'incircolo: dimostrare l'uguaglianza dei prodotti DM·KE = DN·KF*
-
+*Intersezioni delle corde del cerchio inscritto: dimostrare l'uguaglianza dei prodotti DM·KE = DN·KF.*
 > Sia $\odot I$ l'incirconferenza di $\triangle ABC$. La circonferenza $\odot I$ interseca i lati $AB$, $BC$ e $CA$ nei punti $D$, $E$ e $F$, rispettivamente. La retta $EF$ interseca le rette $AB$, $BI$ e $DI$ nei punti $M$, $N$ e $K$, rispettivamente. Dimostrare che $DM \cdot KE = DN \cdot KF$. (proposto da Zhang Pengcheng)
 
 ![[src_cn_csmo_b11_w301__Q02.png]]

@@ -12,13 +12,13 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Truck capacity: bricks given sand sacks count*
 
-> A small truck can carry 50 sacks of sand or 400 bricks. If 32 sacks of sand have already been loaded, how many bricks can still be loaded?
-> 
+> Um pequeno caminhão pode carregar 50 sacos de areia ou 400 tijolos. Se foram colocados no caminhão 32 sacos de areia, quantos tijolos pode ainda ele carregar?
+>
 > A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -43,16 +43,32 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Truck capacity: bricks given sand sacks count*
+
+> A small truck can carry 50 sacks of sand or 400 bricks. If 32 sacks of sand have already been loaded, how many bricks can still be loaded?
+> 
+> A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_inclusione_esclusione,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Hotel guests: maximum eating none of three meats*
 
-> A hotel has 100 guests. 30 eat pork, 60 eat chicken, and 80 eat beef. What is the maximum number of people who eat none of these three types of meat?
-> 
+> Em um hotel há 100 pessoas. 30 comem porco, 60 comem galinha e 80 comem alface. Qual é o maior número possível de pessoas que não comem nenhum desses dois tipos de carne?
+>
 > A) 10 \quad B) 20 \quad C) 30 \quad D) 40 \quad E) 50
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -79,10 +95,58 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Hotel guests: maximum eating none of three meats*
+
+> A hotel has 100 guests. 30 eat pork, 60 eat chicken, and 80 eat beef. What is the maximum number of people who eat none of these three types of meat?
+> 
+> A) 10 \quad B) 20 \quad C) 30 \quad D) 40 \quad E) 50
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*Grasshopper jumping along a line, reach point 5m from A*
+
+> Um gafanhoto pula exatamente 1 metro. Ele está em um ponto $A$ de uma reta, só pula sobre ela, e deseja atingir um ponto $B$ dessa mesma reta que está a 5 metros de distância de $A$ com exatamente 9 pulos. De quantas maneiras ele pode fazer isso?
+>
+> A) 16 \quad B) 18 \quad C) 24 \quad D) 36 \quad E) 48
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Cavalletta che salta esattamente di 1 m lungo una retta: in quanti modi può raggiungere un punto B a 5 m da A in esattamente 9 salti.*
+> Una cavalletta si trova esattamente a 1 metro sopra il punto $A$ su una linea. Si trova sul punto $A$ e vuole raggiungere il punto $B$ sulla stessa linea, in modo che $B$ disti 5 metri da $A$, saltando esattamente 9 passi. In quanti modi può farlo?
+>
+> A) 16 \quad B) 18 \quad C) 24 \quad D) 36 \quad E) 48
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grasshopper jumping along a line, reach point 5m from A*
@@ -99,32 +163,16 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Locusta che salta lungo una linea, raggiungi il punto a 5 m da A*
-
-> Una cavalletta si trova esattamente a 1 metro sopra il punto $A$ su una linea. Si trova sul punto $A$ e vuole raggiungere il punto $B$ sulla stessa linea, in modo che $B$ disti 5 metri da $A$, saltando esattamente 9 passi. In quanti modi può farlo?
->
-> A) 16 \quad B) 18 \quad C) 24 \quad D) 36 \quad E) 48
-
-
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Roots of quadratic: find a-b given product and sum conditions*
 
-> Given $a \neq b$, $b \neq 0$, and knowing that the roots of the equation $x^2 + ax + b = 0$ are exactly $a$ and $b$, then $a - b$ equals:
-> 
+> Sendo $a \neq b$ e $b \neq 0$, sabe-se que as raízes da equação $x^2 + ax + b = 0$ são exatamente $a$ e $b$. Então, $a - b$ é igual a:
+>
 > A) 0 \quad B) 1 \quad C) 2 \quad D) 3 \quad E) 4
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -151,18 +199,36 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Roots of quadratic: find a-b given product and sum conditions*
+
+> Given $a \neq b$, $b \neq 0$, and knowing that the roots of the equation $x^2 + ax + b = 0$ are exactly $a$ and $b$, then $a - b$ equals:
+> 
+> A) 0 \quad B) 1 \quad C) 2 \quad D) 3 \quad E) 4
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rectangle ABCD divided into four smaller rectangles, find area*
 
-> A rectangle $ABCD$ is divided into four smaller rectangles as shown in the figure. The areas of three of them are shown. What is the area of rectangle $ABCD$?
-> 
+> Um retângulo $ABCD$ está dividido em quatro retângulos menores. As áreas de três deles estão na figura abaixo. Qual é a área do retângulo $ABCD$?
+>
+> Na figura: $16$, $12$ e $27$.
+>
 > A) 80 \quad B) 84 \quad C) 86 \quad D) 88 \quad E) 91
-
-![[src_obm_1999_n3_f1__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -190,16 +256,35 @@ level: OBM Nível 3
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangle ABCD divided into four smaller rectangles, find area*
+
+> A rectangle $ABCD$ is divided into four smaller rectangles as shown in the figure. The areas of three of them are shown. What is the area of rectangle $ABCD$?
+> 
+> A) 80 \quad B) 84 \quad C) 86 \quad D) 88 \quad E) 91
+
+![[src_obm_1999_n3_f1__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Soccer ball: count seams from pentagons and hexagons*
 
-> A soccer ball is made with 32 leather pieces. 12 of them are regular pentagons and the other 20 are regular hexagons. The sides of the pentagons are equal to the sides of the hexagons, and each piece is sewn to the others along shared sides. Each seam joins two sides of two pieces. How many seams are made in the manufacture of a soccer ball?
-> 
+> Uma bola de futebol é feita com 32 peças de couro. 12 delas são pentágonos regulares e as outras 20 são hexágonos também regulares. Os lados dos pentágonos são iguais aos dos hexágonos de forma que possam ser costurados. Cada costura une dois lados de duas dessas peças. Quantas são as costuras feitas na fabricação de uma bola de futebol?
+>
 > A) 60 \quad B) 64 \quad C) 90 \quad D) 120 \quad E) 180
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -226,15 +311,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Soccer ball: count seams from pentagons and hexagons*
+
+> A soccer ball is made with 32 leather pieces. 12 of them are regular pentagons and the other 20 are regular hexagons. The sides of the pentagons are equal to the sides of the hexagons, and each piece is sewn to the others along shared sides. Each seam joins two sides of two pieces. How many seams are made in the manufacture of a soccer ball?
+> 
+> A) 60 \quad B) 64 \quad C) 90 \quad D) 120 \quad E) 180
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Larger root minus smaller root of given quadratic*
 
-> The difference between the larger root and the smaller root of the equation $(2x - 45)^2 - (x - 21)^2 = 0$ is:
-> 
+> A diferença entre a maior raiz e a menor raiz da equação $(2x - 45)^2 - (x - 21)^2 = 0$ é:
+>
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -261,15 +364,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Larger root minus smaller root of given quadratic*
+
+> The difference between the larger root and the smaller root of the equation $(2x - 45)^2 - (x - 21)^2 = 0$ is:
+> 
+> A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Integer values of x making (x+99)/(x+19) an integer*
 
-> How many integer values of $x$ are there such that $\dfrac{x+99}{x+19}$ is an integer?
-> 
+> Quantos são os possíveis valores inteiros de $x$ para que $\dfrac{x+99}{x+19}$ seja um número inteiro?
+>
 > A) 5 \quad B) 10 \quad C) 20 \quad D) 30 \quad E) 40
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -296,16 +417,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integer values of x making (x+99)/(x+19) an integer*
+
+> How many integer values of $x$ are there such that $\dfrac{x+99}{x+19}$ is an integer?
+> 
+> A) 5 \quad B) 10 \quad C) 20 \quad D) 30 \quad E) 40
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_trigonometria,method_trigonometria,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Range of x satisfying cos x = 1/4 with 0 < x < 90*
 
-> If $0^\circ < x < 90^\circ$ and $\cos x = \dfrac{1}{4}$, then $x$ lies between:
-> 
-> A) $0^\circ$ and $30^\circ$ \quad B) $30^\circ$ and $45^\circ$ \quad C) $45^\circ$ and $60^\circ$ \quad D) $60^\circ$ and $75^\circ$ \quad E) $75^\circ$ and $90^\circ$
+> Se $0^\circ < x < 90^\circ$ e $\cos x = \dfrac{1}{4}$ então $x$ está entre:
+>
+> A) $0^\circ$ e $30^\circ$ 	B) $30^\circ$ e $45^\circ$ 	C) $45^\circ$ e $60^\circ$ 	D) $60^\circ$ e $75^\circ$ 	E) $75^\circ$ e $90^\circ$
 
 **Topic:** [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
@@ -331,17 +470,34 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Range of x satisfying cos x = 1/4 with 0 < x < 90*
+
+> If $0^\circ < x < 90^\circ$ and $\cos x = \dfrac{1}{4}$, then $x$ lies between:
+> 
+> A) $0^\circ$ and $30^\circ$ \quad B) $30^\circ$ and $45^\circ$ \quad C) $45^\circ$ and $60^\circ$ \quad D) $60^\circ$ and $75^\circ$ \quad E) $75^\circ$ and $90^\circ$
+
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Pedro's spending in four shops, find initial amount*
 
-> Pedro left home and went to four shops, each in a different neighbourhood. In each shop he spent half of what he had plus $\mathrm{R}\$\,2.00$. At the end he had $\mathrm{R}\$\,8.00$. How much did Pedro have when he left home?
-> 
-> A) $\mathrm{R}\$\,220{,}00$ \quad B) $\mathrm{R}\$\,204{,}00$ \quad C) $\mathrm{R}\$\,196{,}00$ \quad D) $\mathrm{R}\$\,188{,}00$ \quad E) $\mathrm{R}\$\,180{,}00$
+> Pedro saiu de casa e fez compras em quatro lojas, cada uma num bairro diferente. Em cada uma gastou a metade do que possuía e a seguir, ainda pagou R$ 2,00 de estacionamento. Se no final ainda tinha R$ 8,00, que quantia tinha Pedro ao sair de casa?
+>
+> A) R$ 220,00 	B) R$ 204,00 	C) R$ 196,00 	D) R$ 188,00 	E) R$ 180,00
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
@@ -367,18 +523,36 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Pedro's spending in four shops, find initial amount*
+
+> Pedro left home and went to four shops, each in a different neighbourhood. In each shop he spent half of what he had plus $\mathrm{R}\$\,2.00$. At the end he had $\mathrm{R}\$\,8.00$. How much did Pedro have when he left home?
+> 
+> A) $\mathrm{R}\$\,220{,}00$ \quad B) $\mathrm{R}\$\,204{,}00$ \quad C) $\mathrm{R}\$\,196{,}00$ \quad D) $\mathrm{R}\$\,188{,}00$ \quad E) $\mathrm{R}\$\,180{,}00$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_insiemi_funzioni,topic_aritmetica,topic_funzionali,method_backward,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Equation f(f(f(n)))=16 with piecewise f, count solutions*
 
-> For every natural number $n$ we define the function $f$ by:
-> $$f(n) = \begin{cases} \dfrac{n}{2} & \text{if } n \text{ is even,} \\ 3n+1 & \text{if } n \text{ is odd.} \end{cases}$$
-> The number of solutions of the equation $f(f(f(n))) = 16$ is:
-> 
-> A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
+> Para todo $n$ natural definimos a função $f$ por:
+> $$f(n) = \begin{cases} \dfrac{n}{2} & \text{se } n \text{ é par,} \\ 3n+1 & \text{se } n \text{ é ímpar.} \end{cases}$$
+> O número de soluções da equação $f(f(f(n))) = 16$ é:
+>
+> A) 2 	B) 3 	C) 4 	D) 5 	E) 6
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
@@ -406,17 +580,36 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Equation f(f(f(n)))=16 with piecewise f, count solutions*
+
+> For every natural number $n$ we define the function $f$ by:
+> $$f(n) = \begin{cases} \dfrac{n}{2} & \text{if } n \text{ is even,} \\ 3n+1 & \text{if } n \text{ is odd.} \end{cases}$$
+> The number of solutions of the equation $f(f(f(n))) = 16$ is:
+> 
+> A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Remainder of 11111...1 (1999 digits) divided by 7*
 
-> The number $N = \underbrace{11111\ldots1}_{1999\text{ digits}}$ consists of 1999 digits, all equal to 1. What is the remainder of the division of $N$ by 7?
-> 
-> A) 1 \quad B) 2 \quad C) 4 \quad D) 5 \quad E) 6
+> O número $N = 11111\ldots11$ possui 1999 dígitos, todos iguais a 1. O resto da divisão de $N$ por 7 é:
+>
+> A) 1 	B) 2 	C) 4 	D) 5 	E) 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
@@ -442,16 +635,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Remainder of 11111...1 (1999 digits) divided by 7*
+
+> The number $N = \underbrace{11111\ldots1}_{1999\text{ digits}}$ consists of 1999 digits, all equal to 1. What is the remainder of the division of $N$ by 7?
+> 
+> A) 1 \quad B) 2 \quad C) 4 \quad D) 5 \quad E) 6
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square ABCD side 40cm, circumscribed circle tangent to chord*
 
-> A square $ABCD$ has side 40 cm. A circle contains the vertices $A$ and $B$ and is tangent to side $CD$. What is the radius of this circle?
-> 
-> A) 20 cm \quad B) 22 cm \quad C) 24 cm \quad D) 25 cm \quad E) 28 cm
+> Um quadrado $ABCD$ possui lado 40cm. Uma circunferência contém os vértices $A$ e $B$ e é tangente ao lado $CD$. O raio desta circunferência é:
+>
+> A) 20cm 	B) 22cm 	C) 24cm 	D) 25cm 	E) 28cm
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -477,17 +688,34 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square ABCD side 40cm, circumscribed circle tangent to chord*
+
+> A square $ABCD$ has side 40 cm. A circle contains the vertices $A$ and $B$ and is tangent to side $CD$. What is the radius of this circle?
+> 
+> A) 20 cm \quad B) 22 cm \quad C) 24 cm \quad D) 25 cm \quad E) 28 cm
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Tangent points on incircle of triangle, arc ratio gives angle*
 
-> Points $S$, $T$, and $U$ are the points of tangency of the inscribed circle of triangle $PQR$ on sides $RQ$, $RP$, and $PQ$ respectively. Given that the arc lengths satisfy $TU : ST : US = 5 : 8 : 11$, find the ratio $\angle TPU : \angle SRT : \angle UQS$.
-> 
-> A) $7:4:1$ \quad B) $8:5:2$ \quad C) $7:3:2$ \quad D) $11:8:5$ \quad E) $9:5:1$
+> Os pontos $S$, $T$ e $U$ são os pontos de tangência do círculo inscrito no triângulo $PQR$ sobre os lados $RQ$, $RP$ e $PQ$ respectivamente. Sabendo que os comprimentos dos arcos $TU$, $ST$ e $US$ estão na razão $TU : ST : US = 5 : 8 : 11$, a razão $\angle TPU : \angle SRT : \angle UQS$ é igual a:
+>
+> A) $7 : 4 : 1$ 	B) $8 : 5 : 2$ 	C) $7 : 3 : 2$ 	D) $11 : 8 : 5$ 	E) $9 : 5 : 1$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -513,16 +741,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Tangent points on incircle of triangle, arc ratio gives angle*
+
+> Points $S$, $T$, and $U$ are the points of tangency of the inscribed circle of triangle $PQR$ on sides $RQ$, $RP$, and $PQ$ respectively. Given that the arc lengths satisfy $TU : ST : US = 5 : 8 : 11$, find the ratio $\angle TPU : \angle SRT : \angle UQS$.
+> 
+> A) $7:4:1$ \quad B) $8:5:2$ \quad C) $7:3:2$ \quad D) $11:8:5$ \quad E) $9:5:1$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_disuguaglianze,method_casework,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Integer x forming acute triangle with sides 12, 10, x*
 
-> For how many integer values of $x$ does a triangle with sides 12, 10, and $x$ exist that is acute-angled?
-> 
-> A) 9 \quad B) 10 \quad C) 12 \quad D) 16 \quad E) 18
+> Para quantos valores inteiros de $x$ existe um triângulo acutângulo de lados 12, 10 e $x$?
+>
+> A) 9 	B) 10 	C) 12 	D) 16 	E) 18
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]]
@@ -548,17 +794,34 @@ level: OBM Nível 3
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integer x forming acute triangle with sides 12, 10, x*
+
+> For how many integer values of $x$ does a triangle with sides 12, 10, and $x$ exist that is acute-angled?
+> 
+> A) 9 \quad B) 10 \quad C) 12 \quad D) 16 \quad E) 18
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of region bounded by two chords and arc in unit circle*
 
-> In a circle of radius 1, arc $AB$ measures $70^\circ$ and arc $BC$ measures $40^\circ$. The area of the region bounded by chords $AB$ and $AC$ and arc $BC$ is:
-> 
-> A) $\pi/8$ \quad B) $\pi/9$ \quad C) $\pi/10$ \quad D) $\pi/12$ \quad E) $\pi/14$
+> A circunferência abaixo tem raio 1, o arco $AB$ mede $70^\circ$ e o arco $BC$ mede $40^\circ$. A área da região limitada pelas cordas $AB$ e $AC$ e pelo arco $BC$ mede:
+>
+> A) $\pi/8$ 	B) $\pi/9$ 	C) $\pi/10$ 	D) $\pi/12$ 	E) $\pi/14$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -584,16 +847,33 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of region bounded by two chords and arc in unit circle*
+
+> In a circle of radius 1, arc $AB$ measures $70^\circ$ and arc $BC$ measures $40^\circ$. The area of the region bounded by chords $AB$ and $AC$ and arc $BC$ is:
+> 
+> A) $\pi/8$ \quad B) $\pi/9$ \quad C) $\pi/10$ \quad D) $\pi/12$ \quad E) $\pi/14$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_analitica,topic_aritmetica,method_coordinate,method_congruenze,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Closest lattice point to line y = (101/3)x - 4 through origin*
 
-> The line $r$ passes through the points $(0, 4)$ and $(7, 7)$. Among the points below, which is closest to line $r$?
-> 
+> A reta $r$ contém os pontos $(0, 4)$ e $(7, 7)$. Dos pontos abaixo, qual é o mais próximo da reta $r$?
+>
 > A) $(1999, 858)$ \quad B) $(1999, 859)$ \quad C) $(1999, 860)$ \quad D) $(1999, 861)$ \quad E) $(1999, 862)$
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Arithmetic / Number theory]]
@@ -620,16 +900,33 @@ level: OBM Nível 3
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Closest lattice point to line y = (101/3)x - 4 through origin*
+
+> The line $r$ passes through the points $(0, 4)$ and $(7, 7)$. Among the points below, which is closest to line $r$?
+> 
+> A) $(1999, 858)$ \quad B) $(1999, 859)$ \quad C) $(1999, 860)$ \quad D) $(1999, 861)$ \quad E) $(1999, 862)$
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count positive integer pairs (x,y) with 2x+3y=101*
 
-> How many pairs $(x, y)$ of positive integers satisfy the equation $2x + 3y = 101$?
-> 
+> Quantos são os pares $(x, y)$ de inteiros positivos que satisfazem a equação $2x + 3y = 101$?
+>
 > A) 13 \quad B) 14 \quad C) 15 \quad D) 16 \quad E) 17
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -656,15 +953,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count positive integer pairs (x,y) with 2x+3y=101*
+
+> How many pairs $(x, y)$ of positive integers satisfy the equation $2x + 3y = 101$?
+> 
+> A) 13 \quad B) 14 \quad C) 15 \quad D) 16 \quad E) 17
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_conteggio,method_casework,method_bigezione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count integers 10-1000 with strictly increasing digits*
 
-> How many integers between 10 and 1000 have their digits in strictly increasing order? (For example, 47 and 126 are of this type; 52 and 566 are not.)
-> 
+> Quantos números inteiros entre 10 e 1000 possuem seus dígitos em ordem estritamente crescente? (Por exemplo, 47 e 126 são números deste tipo; 52 e 566 não).
+>
 > A) 90 \quad B) 98 \quad C) 112 \quad D) 118 \quad E) 120
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -691,17 +1006,34 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count integers 10-1000 with strictly increasing digits*
+
+> How many integers between 10 and 1000 have their digits in strictly increasing order? (For example, 47 and 126 are of this type; 52 and 566 are not.)
+> 
+> A) 90 \quad B) 98 \quad C) 112 \quad D) 118 \quad E) 120
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fish tank disease kills yellow fish; find percentage dying*
 
-> In a fish tank there are 100 fish: 90 are yellow and 10 are red. A mysterious disease killed many yellow fish but no red fish. After the disease was controlled, it was verified that in the tank $75\%$ of the fish were yellow. Approximately, what percentage of the yellow fish died?
-> 
-> A) 15\% \quad B) 37\% \quad C) 50\% \quad D) 67\% \quad E) 84\%
+> Em um aquário há peixes amarelos e vermelhos: $90\%$ são amarelos e $10\%$ são vermelhos. Uma misteriosa doença matou muitos peixes amarelos, mas nenhum vermelho. Depois que a doença foi controlada verificou-se que no aquário, $75\%$ dos peixes vivos eram amarelos. Aproximadamente, que porcentagem dos peixes amarelos morreram?
+>
+> A) $15\%$ \quad B) $37\%$ \quad C) $50\%$ \quad D) $67\%$ \quad E) $84\%$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Careful reading of the text]]
@@ -725,17 +1057,33 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fish tank disease kills yellow fish; find percentage dying*
+
+> In a fish tank there are 100 fish: 90 are yellow and 10 are red. A mysterious disease killed many yellow fish but no red fish. After the disease was controlled, it was verified that in the tank $75\%$ of the fish were yellow. Approximately, what percentage of the yellow fish died?
+> 
+> A) 15\% \quad B) 37\% \quad C) 50\% \quad D) 67\% \quad E) 84\%
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find Maria's current age given age relationship in 1996 and 2002*
 
-> On 12/6/1999, Pedro and Maria celebrate their birthdays. On the same day in 1996, Pedro's age was $\frac{3}{4}$ of Maria's age. On the same day in 2002, Pedro's age will equal Maria's age when she was 20 years old. How old is Maria today?
-> 
-> A) 30 \quad B) 31 \quad C) 33 \quad D) 34 \quad E) 34
+> Hoje, 12/6/1999, Pedro e Maria fazem aniversário. No mesmo dia em 1996, a idade de Pedro era $\frac{3}{4}$ da idade de Maria. No mesmo dia em 2002, a idade de Pedro será igual à de Maria quando ele tinha 20 anos. Quantos anos Maria está fazendo hoje?
+>
+> A) 30 \quad B) 31 \quad C) 32 \quad D) 33 \quad E) 34
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
@@ -759,16 +1107,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find Maria's current age given age relationship in 1996 and 2002*
+
+> On 12/6/1999, Pedro and Maria celebrate their birthdays. On the same day in 1996, Pedro's age was $\frac{3}{4}$ of Maria's age. On the same day in 2002, Pedro's age will equal Maria's age when she was 20 years old. How old is Maria today?
+> 
+> A) 30 \quad B) 31 \quad C) 33 \quad D) 34 \quad E) 34
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Midpoint geometry in square: triangle AEF area as percentage*
 
-> In square $ABCD$, point $E$ is the midpoint of $BC$ and point $F$ on $CD$ is such that angle $\angle AEF$ is a right angle. Approximately, what percentage of the area of the square does triangle $AEF$ represent?
-> 
-> A) 28\% \quad B) 31\% \quad C) 34\% \quad D) 36\% \quad E) 39\%
+> No quadrado $ABCD$ o ponto $E$ é médio de $BC$ e o ponto $F$ do lado $CD$ é tal que o ângulo $\angle AEF$ é reto. Aproximadamente, que porcentagem a área do triângulo $AEF$ representa da área do quadrado?
+>
+> A) $28\%$ \quad B) $31\%$ \quad C) $34\%$ \quad D) $36\%$ \quad E) $39\%$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -794,19 +1159,34 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Midpoint geometry in square: triangle AEF area as percentage*
+
+> In square $ABCD$, point $E$ is the midpoint of $BC$ and point $F$ on $CD$ is such that angle $\angle AEF$ is a right angle. Approximately, what percentage of the area of the square does triangle $AEF$ represent?
+> 
+> A) 28\% \quad B) 31\% \quad C) 34\% \quad D) 36\% \quad E) 39\%
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Right triangle land divided by parallel wall, find BM length*
 
-> Two brothers inherited land $ABC$ in the shape of a right triangle with the right angle at $A$, and with leg $AB = 84\,\text{m}$. They decided to divide the land into two parts of equal area by a wall $MN$ parallel to $AC$, as shown in the figure below. Select the option closest to the length of segment $BM$.
-> 
+> Dois irmãos herdaram o terreno $ABC$ com a forma de um triângulo retângulo em $A$, e com o cateto $AB$ de $84\,\text{m}$ de comprimento. Eles resolveram dividir o terreno em duas partes de mesma área, por um muro $MN$ paralelo a $AC$ como mostra a figura abaixo. Assinale a opção que contém o valor mais aproximado do segmento $BM$.
+>
 > A) 55 m \quad B) 57 m \quad C) 59 m \quad D) 61 m \quad E) 63 m
-
-![[src_obm_1999_n3_f1__Q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
@@ -832,15 +1212,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Right triangle land divided by parallel wall, find BM length*
+
+> Two brothers inherited land $ABC$ in the shape of a right triangle with the right angle at $A$, and with leg $AB = 84\,\text{m}$. They decided to divide the land into two parts of equal area by a wall $MN$ parallel to $AC$, as shown in the figure below. Select the option closest to the length of segment $BM$.
+> 
+> A) 55 m \quad B) 57 m \quad C) 59 m \quad D) 61 m \quad E) 63 m
+
+![[src_obm_1999_n3_f1__Q23.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Total digits when writing 2^1999 and 5^1999 side by side*
 
-> The decimal representations of $2^{1999}$ and $5^{1999}$ are written side by side. The total number of digits written is:
-> 
+> As representações decimais dos números $2^{1999}$ e $5^{1999}$ são escritas lado a lado. O número de algarismos escritos é igual a:
+>
 > A) 1999 \quad B) 2000 \quad C) 2001 \quad D) 3998 \quad E) 3999
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -867,16 +1266,33 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Total digits when writing 2^1999 and 5^1999 side by side*
+
+> The decimal representations of $2^{1999}$ and $5^{1999}$ are written side by side. The total number of digits written is:
+> 
+> A) 1999 \quad B) 2000 \quad C) 2001 \quad D) 3998 \quad E) 3999
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,method_cassetti,method_estremalita,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Min draws from box to guarantee 10 balls of same color*
 
-> A box contains 100 balls of different colours. Of these, 30 are red, 30 are green, 30 are blue, and among the remaining 10, some are white and some are black. What is the minimum number of balls that must be drawn from the box, without seeing their colour, to be certain of having at least 10 balls of the same colour?
-> 
+> Uma caixa contém 100 bolas de cores distintas. Destas, 30 são vermelhas, 30 são verdes, 30 são azuis e entre as 10 restantes, algumas são brancas e outras são pretas. O menor número de bolas que devemos tirar da caixa, sem lhes ver a cor, para termos a certeza de haver pelo menos 10 bolas da mesma cor é:
+>
 > A) 31 \quad B) 33 \quad C) 35 \quad D) 37 \quad E) 38
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -900,3 +1316,21 @@ level: OBM Nível 3
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Min draws from box to guarantee 10 balls of same color*
+
+> A box contains 100 balls of different colours. Of these, 30 are red, 30 are green, 30 are blue, and among the remaining 10, some are white and some are black. What is the minimum number of balls that must be drawn from the box, without seeing their colour, to be certain of having at least 10 balls of the same colour?
+> 
+> A) 31 \quad B) 33 \quad C) 35 \quad D) 37 \quad E) 38
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)

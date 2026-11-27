@@ -12,20 +12,16 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Staircase figures of unit squares; count white squares in figure 13*
 
-> Esmeralda draws unit-side squares to form the sequence of figures below, according to a rule she must discover.
-> 
-> (The sequence shows staircase-shaped figures: figure 1 has 1 gray square; figure 2 has 2 gray squares and 1 white square in an L-shape; figure 3 has 3 gray and 3 white; figure 4 has 4 gray and 6 white, forming growing staircase patterns.)
-> 
-> a) How many white squares does figure 13 have?
-> 
-> b) If it exists, which figure has exactly 100 more white squares than gray squares?
-
-![[src_obm_2014_n1_f3__Q01.png]]
+> Esmeralda desenha quadradinhos de lado unitário para formar a sequência de figuras a seguir, de acordo com uma regra que você deve descobrir.
+>
+> a) Quantos quadradinhos brancos tem a figura 13?
+>
+> b) Se existir, qual é a figura que tem exatamente 100 quadradinhos brancos a mais que quadradinhos cinzentos?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -56,23 +52,45 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Staircase figures of unit squares; count white squares in figure 13*
+
+> Esmeralda draws unit-side squares to form the sequence of figures below, according to a rule she must discover.
+> 
+> (The sequence shows staircase-shaped figures: figure 1 has 1 gray square; figure 2 has 2 gray squares and 1 white square in an L-shape; figure 3 has 3 gray and 3 white; figure 4 has 4 gray and 6 white, forming growing staircase patterns.)
+> 
+> a) How many white squares does figure 13 have?
+> 
+> b) If it exists, which figure has exactly 100 more white squares than gray squares?
+
+![[src_obm_2014_n1_f3__Q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of square and trapezoidal plastic cards; minimum square to tile them*
 
-> Janaina has many plastic cards, some in the shape of equal squares and others in the shape of trapezoids, as shown in the figure. The square card has side $10\,\text{cm}$; the trapezoidal card has parallel sides $10\,\text{cm}$ and $20\,\text{cm}$, and height $10\,\text{cm}$.
-> 
-> a) What is the area of each square card and the area of each trapezoidal card?
-> 
-> b) Using one card of each type, Jade assembles a square. What is the area of the smallest square she can assemble under these conditions?
-> 
-> c) She wants to assemble a square with area $3600\,\text{cm}^2$, using the smallest possible number of cards, equal or not. How many cards are these?
-
-![[src_obm_2014_n1_f3__Q02.png]]
+> Janaína tem muitos cartões de plástico, alguns na forma de quadrados iguais e outros na forma de trapézios iguais, conforme ilustração.
+>
+> a) Qual é a área de cada cartão quadrado e a área de cada cartão trapezoidal?
+>
+> Ela monta figuras maiores sobre uma mesa, juntando os cartões e virando-os, se necessário.
+>
+> b) Usando pelo menos um cartão de cada tipo, Jade monta um quadrado. Qual é a área do menor quadrado que ela pode montar nessas condições?
+>
+> c) Ela quer montar um quadrado com $3600\,\text{cm}^2$ de área, utilizando o menor número possível de cartões, iguais ou não. Quantos são esses cartões?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -103,20 +121,41 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of square and trapezoidal plastic cards; minimum square to tile them*
+
+> Janaina has many plastic cards, some in the shape of equal squares and others in the shape of trapezoids, as shown in the figure. The square card has side $10\,\text{cm}$; the trapezoidal card has parallel sides $10\,\text{cm}$ and $20\,\text{cm}$, and height $10\,\text{cm}$.
+> 
+> a) What is the area of each square card and the area of each trapezoidal card?
+> 
+> b) Using one card of each type, Jade assembles a square. What is the area of the smallest square she can assemble under these conditions?
+> 
+> c) She wants to assemble a square with area $3600\,\text{cm}^2$, using the smallest possible number of cards, equal or not. How many cards are these?
+
+![[src_obm_2014_n1_f3__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_solida,method_casework,method_invarianti,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Dice stacked as pillar; faces in contact and rigid cube with equal face-sums*
 
-> Geraldo has several ordinary dice (the sum of dots on opposite faces is 7). He can see three faces of each die at a time, as shown in the figure.
-> 
-> a) Geraldo uses four dice to build a pillar on a table, so that the faces in contact have the same number of dots. What is the sum of the dots on the faces that cannot be seen (faces in contact with each other or resting on the table)?
-> 
-> b) Geraldo wants to glue some faces of the dice together, forming a rigid cube. The faces in contact must have equal numbers of dots, and the sum of dots on all six faces of the cube must be $116$. Explain how Geraldo should glue these faces.
-
-![[src_obm_2014_n1_f3__Q03.png]]
+> Geraldo possui vários dados iguais comuns, nos quais a soma dos pontos em faces opostas é 7. Você sabe que é possível enxergar apenas três faces desses dados de cada vez.
+>
+> a) Geraldo usa quatro dados para montar uma pilha sobre uma mesa, conforme ilustração, de modo que as faces em contato tenham o mesmo número de pontos. Qual é a soma dos pontos das faces que não podem ser vistas (faces em contato e faces apoiadas na mesa)?
+>
+> b) Geraldo quer colar algumas faces de oito dados, formando um cubo rígido. As faces em contato devem ter pontos iguais e a soma dos pontos de todas as seis faces do cubo deve ser $116$. Explique como Geraldo deve colar essas faces.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -145,21 +184,41 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Dice stacked as pillar; faces in contact and rigid cube with equal face-sums*
+
+> Geraldo has several ordinary dice (the sum of dots on opposite faces is 7). He can see three faces of each die at a time, as shown in the figure.
+> 
+> a) Geraldo uses four dice to build a pillar on a table, so that the faces in contact have the same number of dots. What is the sum of the dots on the faces that cannot be seen (faces in contact with each other or resting on the table)?
+> 
+> b) Geraldo wants to glue some faces of the dice together, forming a rigid cube. The faces in contact must have equal numbers of dots, and the sum of dots on all six faces of the cube must be $116$. Explain how Geraldo should glue these faces.
+
+![[src_obm_2014_n1_f3__Q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cryptarithmetic: six permutations of OBM summed equal OOOX*
 
-> The letters O, B, and M each represent distinct nonzero digits. Thus OBM and BOM are three-digit numbers with distinct nonzero digits; for example, if $O=1$, $B=2$, $M=3$, then $OBM=123$ and $BOM=213$.
-> 
+> A seguir, as letras $O$, $B$ e $M$ representam algarismos todos diferentes e não nulos. Assim, $OBM$ e $BOM$, por exemplo, são números de três algarismos distintos e se $O = 1$, $B = 4$ e $M = 7$, temos $OBM = 147$ e $BOM = 417$.
+>
+> a) Qual é a soma de todos os números de três algarismos dados por $O = 1$, $B = 2$ e $M = 3$?
+>
+> b) Quais são todos os valores do número $OBM$ na adição a seguir, na qual $X$ também é um algarismo?
+>
 > $$\begin{array}{r} OBM \\ OMB \\ MBO \\ + \quad MOB \\ BMO \\ BOM \\ \hline OOOX \end{array}$$
-> 
-> a) What is the sum of all three-digit numbers given by $O=1$, $B=2$, $M=3$?
-> 
-> b) What are all the values of the number OBM such that in the addition above, X is also a digit (i.e.~the result OOOX is a four-digit number)?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -188,25 +247,45 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cryptarithmetic: six permutations of OBM summed equal OOOX*
+
+> The letters O, B, and M each represent distinct nonzero digits. Thus OBM and BOM are three-digit numbers with distinct nonzero digits; for example, if $O=1$, $B=2$, $M=3$, then $OBM=123$ and $BOM=213$.
+> 
+> $$\begin{array}{r} OBM \\ OMB \\ MBO \\ + \quad MOB \\ BMO \\ BOM \\ \hline OOOX \end{array}$$
+> 
+> a) What is the sum of all three-digit numbers given by $O=1$, $B=2$, $M=3$?
+> 
+> b) What are all the values of the number OBM such that in the addition above, X is also a digit (i.e.~the result OOOX is a four-digit number)?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Coin-removal game: winning strategy for 11 and 15 coins on table*
 
-> Ana and Beatriz have many coins. They place some on a table and play according to the following rules:
-> 
-> i. The first player must remove at least one coin, but not all of them;
-> 
-> ii. The next player must remove at least one coin and at most double the number of coins the previous player removed;
-> 
-> iii. The player who removes the last coin wins.
-> 
-> a) Suppose they place $11$ coins on the table. If Ana plays first and removes two coins, show how Beatriz can win the game (regardless of Ana's remaining moves).
-> 
-> b) Now suppose they place $15$ coins on the table. Show that the first player can always win (regardless of the second player's moves).
+> Ana e Beatriz possuem muitas moedas. Elas colocam várias sobre uma mesa e jogam de acordo com as seguintes regras:
+>
+> i. o primeiro a jogar retira no mínimo uma moeda, mas não todas;
+>
+> ii. quem jogar a seguir pode retirar no mínimo uma moeda e no máximo o dobro do número de moedas que o jogador anterior retirou;
+>
+> iii. ganha quem retirar a última moeda.
+>
+> a) Suponha que elas coloquem $11$ moedas sobre a mesa. Se Ana for a primeira a jogar e retirar duas moedas, mostre como Beatriz pode vencer o jogo (não importando quais sejam as demais jogadas de Ana).
+>
+> b) Agora suponha que elas coloquem $15$ moedas sobre a mesa. Mostre como a primeira a jogar pode vencer o jogo sempre (não importando quais sejam as jogadas da segunda).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
@@ -236,3 +315,28 @@ level: OBM Nível 1
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Coin-removal game: winning strategy for 11 and 15 coins on table*
+
+> Ana and Beatriz have many coins. They place some on a table and play according to the following rules:
+> 
+> i. The first player must remove at least one coin, but not all of them;
+> 
+> ii. The next player must remove at least one coin and at most double the number of coins the previous player removed;
+> 
+> iii. The player who removes the last coin wins.
+> 
+> a) Suppose they place $11$ coins on the table. If Ana plays first and removes two coins, show how Beatriz can win the game (regardless of Ana's remaining moves).
+> 
+> b) Now suppose they place $15$ coins on the table. Show that the first player can always win (regardless of the second player's moves).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)

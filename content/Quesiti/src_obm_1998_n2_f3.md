@@ -12,12 +12,12 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_estremalita,method_casework,method_doppio_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Consecutive interior angles in convex pentagon sum over 216°*
 
-> Prove that in any convex pentagon there exist two consecutive interior angles whose sum is greater than or equal to $216^\circ$.
+> Prove que em qualquer pentágono convexo existem dois ângulos internos consecutivos cuja soma é maior ou igual a $216^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
@@ -40,15 +40,29 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Consecutive interior angles in convex pentagon sum over 216°*
+
+> Prove that in any convex pentagon there exist two consecutive interior angles whose sum is greater than or equal to $216^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find angle BAC given midpoints and equal-angle conditions in triangle*
 
-> In triangle $ABC$, $D$ is the midpoint of $AB$ and $E$ is the point on side $BC$ such that $BE = 2 \cdot EC$. Given that angles $ADC$ and $BAE$ are equal, find angle $BAC$.
+> No triângulo $ABC$, $D$ é o ponto médio de $AB$ e $E$ o ponto do lado $BC$ tal que $BE = 2 \cdot EC$. Dado que os ângulos $ADC$ e $BAE$ são iguais, encontre o ângulo $BAC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -71,20 +85,37 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find angle BAC given midpoints and equal-angle conditions in triangle*
+
+> In triangle $ABC$, $D$ is the midpoint of $AB$ and $E$ is the point on side $BC$ such that $BE = 2 \cdot EC$. Given that angles $ADC$ and $BAE$ are equal, find angle $BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_invarianti,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum pins placeable in a row of 20 holes under neighbor rules*
 
-> In a game there are 20 empty holes in a row, and a player must place a pin in each hole according to the following rules:
-> 
-> a) If a pin is placed in a hole and both neighboring holes are empty, the pin stays.
-> b) If a pin is placed in a hole and one of the neighboring holes is occupied, the pin in that neighboring hole must be removed.
-> c) If a pin is placed in a hole and both neighboring holes are occupied, then one of the two neighboring pins must be removed.
-> 
-> Determine the maximum number of pins that can be placed.
+> Em um jogo existem 20 buracos vazios em fila e o jogador deve colocar um pino em cada buraco de acordo com as seguintes regras:
+>
+> a) Se colocar um pino em um buraco e se os dois buracos vizinhos estiverem vazios, o pino permanece.
+>
+> b) Se colocar um pino em um buraco e se um dos buracos vizinhos estiver ocupado, o pino deste buraco vizinho deve ser retirado.
+>
+> c) Se colocar um pino em um buraco e se os dois buracos vizinhos estiverem ocupados, então um dos pinos vizinhos deve ser retirado.
+>
+> Determine qual é o número máximo de pinos que podem ser colocados.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -113,14 +144,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum pins placeable in a row of 20 holes under neighbor rules*
+
+> In a game there are 20 empty holes in a row, and a player must place a pin in each hole according to the following rules:
+> 
+> a) If a pin is placed in a hole and both neighboring holes are empty, the pin stays.
+> b) If a pin is placed in a hole and one of the neighboring holes is occupied, the pin in that neighboring hole must be removed.
+> c) If a pin is placed in a hole and both neighboring holes are occupied, then one of the two neighboring pins must be removed.
+> 
+> Determine the maximum number of pins that can be placed.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_cassetti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Among 15 naturals >1 and <1998 pairwise coprime, at least one is prime*
 
-> Let 15 natural numbers greater than $1$ and less than $1998$ be given such that any two of them are coprime. Prove that at least one of these 15 numbers is prime.
+> São dados 15 números naturais maiores que $1$ e menores que $1998$ tais que dois quaisquer são primos entre si. Mostre que pelo menos um desses 15 números é primo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Pigeonhole principle]]
@@ -141,3 +193,17 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Among 15 naturals >1 and <1998 pairwise coprime, at least one is prime*
+
+> Let 15 natural numbers greater than $1$ and less than $1998$ be given such that any two of them are coprime. Prove that at least one of these 15 numbers is prime.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)

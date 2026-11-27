@@ -12,7 +12,23 @@ level: HMMT February Team Round
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Esagono regolare diviso da OA e OB*
+
+> [20] Let $\mathcal{P}$ be a regular hexagon with center $O$. Distinct points $A$ and $B$ lie on the boundary of $\mathcal{P}$. The segments $OA$ and $OB$ divide the interior of $\mathcal{P}$ into two polygons $R_1$ and $R_2$. Let $a_1$ and $a_2$ be the areas of $R_1$ and $R_2$ respectively, and let $p_1$ and $p_2$ be the perimeters of $R_1$ and $R_2$ respectively. Given that $a_1/p_1=a_2/p_2$, prove that $a_1=a_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** dimostrazione — soluzione ufficiale nel PDF delle soluzioni
+**Fonte risposta:** [soluzione ufficiale PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esagono regolare diviso da OA e OB*
@@ -28,25 +44,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A regular hexagon split by OA and OB*
-
-> [20] Let $\mathcal P$ be a regular hexagon with centre $O$. The distinct points $A$ and $B$ lie on the boundary of $\mathcal P$. The segments $OA$ and $OB$ divide the interior of $\mathcal P$ into two polygons $R_1$ and $R_2$. Let $a_1$ and $a_2$ be the areas of $R_1$ and $R_2$, and $p_1$ and $p_2$ the perimeters of $R_1$ and $R_2$, respectively. Given that $a_1/p_1=a_2/p_2$, prove that $a_1=a_2$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
-**Answer:** proof — official solution in the solutions PDF
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Jessica scende un muro di mattoni*
+
+> [25] Jessica the jackrabbit wants to climb down a wall. The wall consists of 2026 horizontal layers stacked vertically. The $n$th layer from the top is partitioned into $2^n-1$ identical rectangular bricks arranged side by side. Jessica begins in the topmost layer, which contains a single brick. A move consists of Jessica going down one layer to a brick that shares a side with the brick she is currently on. Determine, with proof, the total number of distinct sequences of moves Jessica can take to reach the 2026th layer.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** $3^{2025}$
+**Fonte risposta:** [soluzione ufficiale PDF p.2](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=2)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Jessica scende un muro di mattoni*
@@ -64,27 +81,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Jessica the hare climbing down a brick wall*
-
-![[src_hmmt_2026_feb_team__prob2.png]]
-
-> [25] The hare Jessica wants to climb down a wall. The wall is made of 2026 horizontal layers stacked one on another. The $n$th layer from the top is divided into $2^n-1$ identical rectangular bricks side by side. Jessica starts from the top layer, which contains a single brick. A move consists in going down one layer onto a brick that shares a side with the one she is on. Determine, with proof, the total number of distinct sequences of moves by which Jessica can reach the 2026th layer.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** $3^{2025}$
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Numeri complessi con lo stesso modulo*
+
+> [30] Let $\alpha$ and $\beta$ be complex numbers such that $\alpha\beta+\alpha+\beta+100=0$. Suppose that $|\alpha|=|\beta|=M$ for some nonnegative real number $M$. Determine, with proof, all possible values of $M$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** $M=10$
+**Fonte risposta:** [soluzione ufficiale PDF p.3](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=3)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri complessi con lo stesso modulo*
@@ -100,25 +116,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Complex numbers of equal modulus*
-
-> [30] Let $\alpha$ and $\beta$ be complex numbers such that $\alpha\beta+\alpha+\beta+100=0$. Suppose that $|\alpha|=|\beta|=M$ for some non-negative real number $M$. Determine, with proof, all possible values of $M$.
-
-
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-**Answer:** $M=10$
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,topic_insiemi_funzioni,method_invarianti,method_casework,skill_astrazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Insiemi «inclusivi» di razionali*
+
+> [35] A set of rational numbers $S$ is called *inclusive* if $0$ is not an element of $S$, and for any (not necessarily distinct) elements $x$, $y$, and $z$ of $S$, the number $xy+z$ is also an element of $S$. Determine, with proof, all rational numbers $a$ for which there exists an inclusive set containing $a$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** tutti i razionali tranne $0$ e $-\frac1n$ con $n$ intero positivo
+**Fonte risposta:** [soluzione ufficiale PDF p.6](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=6)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Insiemi «inclusivi» di razionali*
@@ -134,25 +151,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Inclusive sets of rationals*
-
-> [35] A set $S$ of rational numbers is called *inclusive* if $0$ does not belong to $S$ and, for every choice of elements $x$, $y$, $z$ of $S$ (not necessarily distinct), the number $xy+z$ also belongs to $S$. Determine, with proof, all rational numbers $a$ for which there exists an inclusive set containing $a$.
-
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** all rationals except $0$ and $-\frac1n$ with $n$ a positive integer
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_invarianti,method_estremalita,skill_astrazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Rendere uguali i numeri alla lavagna*
+
+> [40] The numbers $1, 2, \dots, 2026$ are written on a blackboard. An operation consists of replacing any number on the blackboard with the positive difference between the largest and smallest numbers currently on the blackboard. Determine, with proof, the least number of operations required to make all the numbers on the blackboard equal.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 3037
+**Fonte risposta:** [soluzione ufficiale PDF p.7](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=7)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rendere uguali i numeri alla lavagna*
@@ -168,25 +186,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Making the numbers on the board equal*
-
-> [40] The numbers $1, 2, \dots, 2026$ are written on the board. An operation consists in replacing any number on the board by the positive difference between the largest and the smallest number present on the board at that moment. Determine, with proof, the least number of operations needed to make all the numbers on the board equal.
-
-
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** 3037
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Quadrilatero ciclico e simmetrico del circocentro*
+
+> [40] Let $ABCD$ be a cyclic quadrilateral with circumcenter $O$, and let $M$ be the midpoint of $AB$. Suppose that $\angle CMD=90^\circ$ and $AD\perp BC$. Prove that the reflection of $O$ over $AB$ lies on line $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** dimostrazione — soluzione ufficiale nel PDF delle soluzioni
+**Fonte risposta:** [soluzione ufficiale PDF p.8](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=8)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero ciclico e simmetrico del circocentro*
@@ -202,25 +221,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A cyclic quadrilateral and the reflection of the circumcentre*
-
-> [40] Let $ABCD$ be a cyclic quadrilateral with circumcentre $O$, and let $M$ be the midpoint of $AB$. Suppose that $\angle CMD=90^\circ$ and $AD\perp BC$. Prove that the reflection of $O$ in $AB$ lies on the line $CD$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
-**Answer:** proof — official solution in the solutions PDF
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,topic_combinatoria,method_invarianti,method_casework,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Successioni r-vicine*
+
+> [50] An infinite sequence $a_1, a_2, a_3, \dots$ of integers is called *$r$-close* if every integer appears in the sequence exactly once and $|a_{n+2}-a_{n+1}|\ge r|a_{n+1}-a_n|$ for all integers $n\ge 1$. Determine, with proof, all nonnegative real numbers $r$ for which an $r$-close sequence exists.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** tutti i reali $r$ con $0\le r<2$
+**Fonte risposta:** [soluzione ufficiale PDF p.9](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=9)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Successioni r-vicine*
@@ -236,25 +256,32 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*r-close sequences*
-
-> [50] An infinite sequence $a_1, a_2, a_3, \dots$ of integers is called *$r$-close* if every integer appears in the sequence exactly once and $|a_{n+2}-a_{n+1}|\ge r|a_{n+1}-a_n|$ for every integer $n\ge1$. Determine, with proof, all non-negative real numbers $r$ for which an $r$-close sequence exists.
-
-
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** all real numbers $r$ with $0\le r<2$
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali,topic_combinatoria,method_induzione,method_invarianti,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Mosse di Marin su una permutazione*
+
+> [50] Let $n\ge 2$ be a positive integer and let $(a_1,\dots,a_n)$ be a permutation of the numbers $1, 2, \dots, n$. Marin makes a single move on this permutation by performing the following steps:
+>
+> - First, he chooses an integer $1\le k\le\lfloor n/2\rfloor$. This integer can be different for different moves.
+> - Then, he picks two nonintersecting sets $I=\{i_1,i_2,\dots,i_k\}$ and $J=\{j_1,j_2,\dots,j_k\}$ such that $1\le i_1<i_2<\cdots<i_k\le n$ and $1\le j_1<j_2<\cdots<j_k\le n$.
+> - Finally, he swaps the numbers $a_{i_s}$ and $a_{j_s}$ in the current permutation for all integers $1\le s\le k$.
+>
+> Let $f(n)$ denote the smallest positive integer such that it is possible for Marin to reach $(1,2,\dots,n)$ from any starting permutation in at most $f(n)$ moves. Prove that $\lceil\log_3 n\rceil\le f(n)\le\lceil\log_2 n\rceil$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** dimostrazione — soluzione ufficiale nel PDF delle soluzioni
+**Fonte risposta:** [soluzione ufficiale PDF p.10](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=10)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mosse di Marin su una permutazione*
@@ -276,31 +303,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Marin's moves on a permutation*
-
-> [50] Let $n\ge2$ be an integer and let $(a_1,\dots,a_n)$ be a permutation of the numbers $1, 2, \dots, n$. Marin makes a move on this permutation by the following steps:
->
-> - First she chooses an integer $1\le k\le\lfloor n/2\rfloor$; the integer may differ from one move to the next.
-> - Then she chooses two disjoint sets $I=\{i_1,i_2,\dots,i_k\}$ and $J=\{j_1,j_2,\dots,j_k\}$ such that $1\le i_1<i_2<\cdots<i_k\le n$ and $1\le j_1<j_2<\cdots<j_k\le n$.
-> - Finally she swaps, in the current permutation, the numbers $a_{i_s}$ and $a_{j_s}$ for every integer $1\le s\le k$.
->
-> Let $f(n)$ be the least positive integer such that Marin can reach $(1,2,\dots,n)$ from any initial permutation in at most $f(n)$ moves. Prove that $\lceil\log_3 n\rceil\le f(n)\le\lceil\log_2 n\rceil$.
-
-
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_induzione|Induction]], [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-**Answer:** proof — official solution in the solutions PDF
-
-
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Triangolo scaleno e angolo BPC*
+
+> Let $ABC$ be an acute scalene triangle. Let $D$ be the foot of the altitude from $A$ to $BC$, and let $M$ be the midpoint of $BC$. There exists a unique point $P$ strictly inside triangle $ABC$ such that $\angle DPM=90^\circ$ and $PB/PC=AB/AC$. Prove that $\angle BPC=180^\circ-|\angle ABC-\angle ACB|$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** dimostrazione — soluzione ufficiale nel PDF delle soluzioni
+**Fonte risposta:** [soluzione ufficiale PDF p.12](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=12)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo scaleno e angolo BPC*
@@ -316,25 +338,26 @@ level: HMMT February Team Round
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A scalene triangle and angle BPC*
-
-> [55] Let $ABC$ be an acute scalene triangle. Let $D$ be the foot of the altitude from $A$ to $BC$, and let $M$ be the midpoint of $BC$. There is a unique point $P$ strictly inside triangle $ABC$ such that $\angle DPM=90^\circ$ and $PB/PC=AB/AC$. Prove that $\angle BPC=180^\circ-|\angle ABC-\angle ACB|$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
-**Answer:** proof — official solution in the solutions PDF
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,skill_stima"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Inversi modulo p in intervalli*
+
+> Prove that there exists a real constant $M$ such that for every prime $p\ge M$ and any positive integer $2\le m\le p-1$, there exist positive integers $a$ and $b$ such that $m\le a\le 1.01m$, $p^{0.99}\le b\le p$, and $p$ divides $ab-1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** dimostrazione — soluzione ufficiale nel PDF delle soluzioni
+**Fonte risposta:** [soluzione ufficiale PDF p.16](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=16)
+**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inversi modulo p in intervalli*
@@ -348,18 +371,3 @@ level: HMMT February Team Round
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF delle soluzioni
 **Fonte risposta:** [soluzione ufficiale PDF p.16](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/solutions.pdf#page=16)
 **Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2026/feb/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Modular inverses in intervals*
-
-> [55] Prove that there exists a real constant $M$ such that, for every prime $p\ge M$ and every positive integer $2\le m\le p-1$, there exist positive integers $a$ and $b$ with $m\le a\le1.01m$, $p^{0.99}\le b\le p$, such that $p$ divides $ab-1$.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_stima|Estimation and approximation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Answer:** proof — official solution in the solutions PDF

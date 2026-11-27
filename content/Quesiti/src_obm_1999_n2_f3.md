@@ -12,14 +12,12 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of inner quadrilateral in regular pentagon of area 1*
 
-> Let $ABCDE$ be a regular pentagon with area $1$. Let $P$ be the intersection of $AC$ and $BD$, and let $Q$ be the intersection of $BD$ and $CE$. Determine the area of $APQD$.
-
-![[src_obm_1999_n2_f3__Q01.png]]
+> Seja $ABCDE$ um pentágono regular tal que a estrela $ACEBD$ tem área $1$. Sejam $P$ interseção entre $AC$ e $BE$ e $Q$ a interseção entre $BD$ e $CE$. Determine a área de $APQD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -44,16 +42,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of inner quadrilateral in regular pentagon of area 1*
+
+> Let $ABCDE$ be a regular pentagon with area $1$. Let $P$ be the intersection of $AC$ and $BD$, and let $Q$ be the intersection of $BD$ and $CE$. Determine the area of $APQD$.
+
+![[src_obm_1999_n2_f3__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_invarianti,method_casework,method_estremalita,method_grafi,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Can a banished citizen ever return to his original city?*
 
-> A kingdom consists of ten cities. A very troublesome citizen was banished from city $A$ to city $B$, which is the farthest city in the kingdom from $A$. After some time, he was banished from city $B$ to city $C$, which is the farthest city in the kingdom from $B$. He knows that city $C$ is not city $A$, and that city $D$ is the farthest city from $C$. If he continues to be banished in this way, is it possible for him to eventually return to city $A$?
-> 
-> **Note:** All distances between cities are distinct.
+> Um reino é formado por dez cidades. Um cidadão muito chato foi exilado da cidade $A$ para a cidade $B$, que é a cidade do reino mais longe de $A$. Após um tempo, ele foi expulso da cidade $B$ para a cidade $C$ do reino mais longe de $B$. Sabe-se que a cidade $C$ não é a mesma cidade $A$. Se ele continuar sendo exilado dessa maneira, é possível que ele retorne à cidade $A$?
+>
+> Nota: as distâncias entre as cidades são todas diferentes.
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
@@ -78,15 +93,31 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Can a banished citizen ever return to his original city?*
+
+> A kingdom consists of ten cities. A very troublesome citizen was banished from city $A$ to city $B$, which is the farthest city in the kingdom from $A$. After some time, he was banished from city $B$ to city $C$, which is the farthest city in the kingdom from $B$. He knows that city $C$ is not city $A$, and that city $D$ is the farthest city from $C$. If he continues to be banished in this way, is it possible for him to eventually return to city $A$?
+> 
+> **Note:** All distances between cities are distinct.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,skill_lettura_attenta,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many times did Adriano and Bruno face each other in ping-pong?*
 
-> Adriano, Bruno, and Carlos played a series of table tennis matches. Each time a player lost, he was replaced by the player who was waiting. The first match was played between Adriano and Bruno. It is known that Adriano won 12 matches and Bruno won 21 matches. How many times did Adriano and Bruno play against each other?
+> Adriano, Bruno e Carlos disputaram uma série de partidas de tênis de mesa. Cada vez que um jogador perdia, era substituído pelo que estava a esperar. A primeira partida foi disputada por Adriano e Bruno. Sabe-se que Adriano venceu 12 partidas e Bruno 21. Quantas vezes Adriano e Bruno se enfrentaram?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -109,15 +140,29 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many times did Adriano and Bruno face each other in ping-pong?*
+
+> Adriano, Bruno, and Carlos played a series of table tennis matches. Each time a player lost, he was replaced by the player who was waiting. The first match was played between Adriano and Bruno. It is known that Adriano won 12 matches and Bruno won 21 matches. How many times did Adriano and Bruno play against each other?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_disuguaglianze,skill_astrazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove sqrt(2) has a nonzero decimal digit between positions 1,000,000 and 3,000,000*
 
-> Prove that there is at least one decimal digit different from zero among the $1{,}000{,}000$-th to the $3{,}000{,}000$-th decimal places of $\sqrt{2}$ after the decimal point.
+> Prove que há pelo menos um algarismo diferente de zero entre a $1.000.000^{\mathrm{a}}$ e a $3.000.000^{\mathrm{a}}$ casa decimal de $\sqrt{2}$ após a vírgula.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Classical inequalities]]
@@ -138,3 +183,17 @@ level: OBM Nível 2
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove sqrt(2) has a nonzero decimal digit between positions 1,000,000 and 3,000,000*
+
+> Prove that there is at least one decimal digit different from zero among the $1{,}000{,}000$-th to the $3{,}000{,}000$-th decimal places of $\sqrt{2}$ after the decimal point.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)

@@ -12,12 +12,12 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Circumscribed circle intersections and hexagon area ratio*
 
-> Let $ABC$ be a triangle with three acute angles, and let $O$ be the centre of its circumscribed circle $\Gamma$. The lines $(AO)$, $(BO)$, $(CO)$ meet $\Gamma$ again at $A'$, $B'$, $C'$ respectively. Prove that the area of the hexagon $ACB'A'C'B$ is twice the area of triangle $ABC$.
+> Soit $ABC$ un triangle ayant trois angles aigus, et soit $O$ le centre de son cercle circonscrit $\Gamma$. Les droites $(AO)$, $(BO)$, $(CO)$ rencontrent $\Gamma$ une seconde fois en $A'$, $B'$, $C'$ respectivement. Démontrer que l'aire de l'hexagone $AC'BA'CB'$ est deux fois plus grande que l'aire du triangle $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -39,17 +39,35 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Circumscribed circle intersections and hexagon area ratio*
+
+> Let $ABC$ be a triangle with three acute angles, and let $O$ be the centre of its circumscribed circle $\Gamma$. The lines $(AO)$, $(BO)$, $(CO)$ meet $\Gamma$ again at $A'$, $B'$, $C'$ respectively. Prove that the area of the hexagon $ACB'A'C'B$ is twice the area of triangle $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Fencing a square field with two perimeter constraints*
 
-> A farmer owns a square field with side $33$ m, fenced along its entire perimeter. He wishes to partition it into three rectangular plots of equal area. Is such a partition possible with:
-> a) at most $55$ m of additional fencing?
-> b) at most $54$ m of additional fencing?
+> Un paysan possède un pré carré de $33$ m de côté, clôturé sur tout son périmètre. Il désire le partager en trois parcelles de même aire. Un tel partage est-il possible avec :
+>
+> a) au plus $55$ m de clôture ?
+>
+> b) au plus $54$ m de clôture ?
+>
+> c)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -71,15 +89,31 @@ level: Coupe Animath Printemps
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fencing a square field with two perimeter constraints*
+
+> A farmer owns a square field with side $33$ m, fenced along its entire perimeter. He wishes to partition it into three rectangular plots of equal area. Is such a partition possible with:
+> a) at most $55$ m of additional fencing?
+> b) at most $54$ m of additional fencing?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,method_conteggio,method_doppio_conteggio,method_simmetria,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Round-table dinner seatings with two new neighbours each*
 
-> Seventeen people dine every Saturday evening around a round table. How many Saturdays is it possible to dine together if each person wishes to have two new neighbours every time? What is the result for eighteen people?
+> Dix-sept personnes dînent chaque samedi soir autour d'une table ronde. Combien de fois est-il possible d'aller dîner si chacun veut avoir deux nouveaux voisins à chaque fois ? Quel est le résultat pour dix-huit personnes ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Using symmetry]]
@@ -101,15 +135,29 @@ level: Coupe Animath Printemps
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Round-table dinner seatings with two new neighbours each*
+
+> Seventeen people dine every Saturday evening around a round table. How many Saturdays is it possible to dine together if each person wishes to have two new neighbours every time? What is the result for eighteen people?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Quadratic with small-coefficient perturbation and root gap exceeding 10000*
 
-> Let $p$ and $q$ be two real numbers such that the degree-$2$ equation $x^2 + px + q = 0$ has two distinct real roots $u$ and $v$ (with $u > v$). The coefficients $p$ and $q$ are modified by less than $0.01$: we suppose that the equation $x^2 + p' x + q' = 0$ (where $|p' - p| < 0.01$ and $|q' - q| < 0.01$) also has two distinct real roots $u'$ and $v'$ (with $u' > v'$). Do there exist values of $p$, $q$, $p'$, $q'$ for which $|u' - u| > 10000$?
+> Soient $p$ et $q$ deux nombres réels tels que l'équation du second degré : $x^2 + px + q = 0$ admette deux racines réelles distinctes $u$ et $v$ ($u > v$). On modifie légèrement les coefficients $p$ et $q$, de moins de $0{,}01$, et on suppose que l'équation modifiée : $x^2 + p'x + q' = 0$ (où : $|p' - p| < 0{,}01$ et $|q' - q| < 0{,}01$) admet elle aussi deux racines réelles distinctes, $u'$ et $v'$ ($u' > v'$). Existe-t-il de telles valeurs de $p$, $q$, $p'$, $q'$ pour lesquelles $|u' - u| > 10\,000$ ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -129,3 +177,17 @@ level: Coupe Animath Printemps
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Quadratic with small-coefficient perturbation and root gap exceeding 10000*
+
+> Let $p$ and $q$ be two real numbers such that the degree-$2$ equation $x^2 + px + q = 0$ has two distinct real roots $u$ and $v$ (with $u > v$). The coefficients $p$ and $q$ are modified by less than $0.01$: we suppose that the equation $x^2 + p' x + q' = 0$ (where $|p' - p| < 0.01$ and $|q' - q| < 0.01$) also has two distinct real roots $u'$ and $v'$ (with $u' > v'$). Do there exist values of $p$, $q$, $p'$, $q'$ for which $|u' - u| > 10000$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)

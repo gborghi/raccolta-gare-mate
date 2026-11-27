@@ -67,9 +67,7 @@ level: China Mathematical Competition
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Intervallo di b per la linea ellittica che interseca sempre*
-
+*Intervallo dei valori di b tali che la retta y=mx+b intersechi sempre l'ellisse x^2+2y^2=3, per ogni m reale.*
 > Si assuma che $M = \{(x,\, y) \mid x^2 + 2y^2 = 3\}$ e $N = \{(x,\, y) \mid y = mx + b\}$. Se $M \cap N \neq \varnothing$ per tutti gli $m \in \mathbf{R}$, allora $b$ assume valori da ( ).
 >
 > (A) $\left[-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (B) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right)$ \quad (C) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (D) $\left[-\dfrac{2\sqrt{3}}{3},\, \dfrac{2\sqrt{3}}{3}\right]$

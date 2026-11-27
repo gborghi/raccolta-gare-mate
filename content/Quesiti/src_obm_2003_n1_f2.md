@@ -12,12 +12,12 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *How many times does digit 9 appear in 10^100 minus 2003*
 
-> How many times does the digit $9$ appear in the result of the operation $10^{100} - 2003$?
+> Quantas vezes aparece o algarismo $9$ no resultado da operação $10^{100} - 2003$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -44,14 +44,32 @@ level: OBM Nível 1
 
 
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many times does digit 9 appear in 10^100 minus 2003*
+
+> How many times does the digit $9$ appear in the result of the operation $10^{100} - 2003$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 98
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count integers less than 2003^2 and 2004^2 that are multiples of 100*
 
-> How many positive integers greater than $2003^2$ and less than $2004^2$ are multiples of $100$?
+> Quantos números inteiros maiores do que $2003^2$ e menores do que $2004^2$ são múltiplos de $100$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -78,16 +96,32 @@ level: OBM Nível 1
 
 
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count integers less than 2003^2 and 2004^2 that are multiples of 100*
+
+> How many positive integers greater than $2003^2$ and less than $2004^2$ are multiples of $100$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 40
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count triangles formed by segments in a figure*
 
-> How many triangles are there whose sides lie on some of the segments drawn in the figure to the side?
-
-![[src_obm_2003_n1_f2__Q03.png]]
+> Quantos triângulos existem cujos lados estão sobre alguns dos segmentos traçados na figura ao lado?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -117,16 +151,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count triangles formed by segments in a figure*
+
+> How many triangles are there whose sides lie on some of the segments drawn in the figure to the side?
+
+![[src_obm_2003_n1_f2__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Risposta:** 17
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Student marks X on digital clock showing 7 every minute; find half of total marks*
 
-> A student with lots of free time and curiosity decided to do the following: every minute, when changing the hour on his digital clock, he would mark an $X$ in his notebook for each digit $7$ that appeared on the display. So if his clock showed $\mathbf{02{:}07}$ he marked $X$, and when it showed $\mathbf{07{:}17}$ he marked $XX$. He started doing this when the clock showed $\mathbf{01{:}00}$ and stopped almost twelve hours later, when the clock showed $\mathbf{12{:}59}$. Calculate half the number of $X$'s he marked in his notebook.
-
-![[src_obm_2003_n1_f2__Q04.png]]
+> Um estudante, com muito tempo livre e muita curiosidade, resolveu fazer o seguinte: a cada minuto, ao mudar o horário em seu relógio digital, marcava em seu caderno um $X$ para cada algarismo $7$ que aparecia no visor. Assim, se seu relógio mostrava $\mathbf{02{:}07}$ ele marcava $X$ e quando seu relógio mostrou $\mathbf{07{:}17}$ ele marcou $XX$. Começou a fazer isso quando seu relógio mostrava $\mathbf{01{:}00}$ e parou quase doze horas depois, quando o relógio mostrava $\mathbf{12{:}59}$. Calcule a metade da quantidade de $X$ que ele marcou em seu caderno.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -156,16 +206,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Student marks X on digital clock showing 7 every minute; find half of total marks*
+
+> A student with lots of free time and curiosity decided to do the following: every minute, when changing the hour on his digital clock, he would mark an $X$ in his notebook for each digit $7$ that appeared on the display. So if his clock showed $\mathbf{02{:}07}$ he marked $X$, and when it showed $\mathbf{07{:}17}$ he marked $XX$. He started doing this when the clock showed $\mathbf{01{:}00}$ and stopped almost twelve hours later, when the clock showed $\mathbf{12{:}59}$. Calculate half the number of $X$'s he marked in his notebook.
+
+![[src_obm_2003_n1_f2__Q04.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 66
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ferris wheel with 25 cabins; how many cabins total*
 
-> The great attraction of OBM Park is a giant Ferris wheel (the figure shows a giant Ferris wheel, but with a smaller number of cabins). The cabins are numbered $1, 2, 3, \ldots$ in clockwise order. When cabin $25$ is at the lowest position of the Ferris wheel, cabin $8$ is at the highest position. How many cabins does the Ferris wheel have?
-
-![[src_obm_2003_n1_f2__Q05.png]]
+> A grande atração do OBM Parque é uma roda gigante (a figura mostra uma roda gigante similar, porém com um número menor de cabines). As cabines são numeradas com $1, 2, 3, \ldots$, no sentido horário. Quando a cabine $25$ está na posição mais baixa da roda-gigante, a de número $8$ está na posição mais alta. Quantas cabines tem a roda-gigante?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -194,14 +260,34 @@ level: OBM Nível 1
 
 
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ferris wheel with 25 cabins; how many cabins total*
+
+> The great attraction of OBM Park is a giant Ferris wheel (the figure shows a giant Ferris wheel, but with a smaller number of cabins). The cabins are numbered $1, 2, 3, \ldots$ in clockwise order. When cabin $25$ is at the lowest position of the Ferris wheel, cabin $8$ is at the highest position. How many cabins does the Ferris wheel have?
+
+![[src_obm_2003_n1_f2__Q05.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** 34
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count leap years from 1889 to today*
 
-> Leap years are multiples of $4$, except those that are multiples of $100$ but not of $400$. How many leap years have there been since the Proclamation of the Republic of Brazil in $1889$ until today (2003)?
+> Anos bissextos são múltiplos de $4$, exceto aqueles que são múltiplos de $100$ mas não de $400$. Quantos anos bissextos houve desde a Proclamação da República, em $1889$, até hoje?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -229,16 +315,30 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count leap years from 1889 to today*
+
+> Leap years are multiples of $4$, except those that are multiples of $100$ but not of $400$. How many leap years have there been since the Proclamation of the Republic of Brazil in $1889$ until today (2003)?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 27
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Dice tower: minimize visible face dots sum*
 
-> On a standard die the sum of dots on opposite faces is always $7$. Beatriz built a tower with $4$ identical dice, gluing the faces together as shown in the figure. What is the minimum number of dots that Beatriz can obtain by summing all the dots on the exposed faces of the tower?
-
-![[src_obm_2003_n1_f2__Q07.png]]
+> Em um dado comum a soma dos pontos sobre faces opostas é sempre $7$. Beatriz construiu uma torre com $4$ dados comuns iguais, colando as faces como mostrado na figura. Qual é o menor número de pontos que Beatriz pode obter somando todos os pontos das dezoito faces da superfície da torre?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -267,16 +367,36 @@ level: OBM Nível 1
 
 
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Dice tower: minimize visible face dots sum*
+
+> On a standard die the sum of dots on opposite faces is always $7$. Beatriz built a tower with $4$ identical dice, gluing the faces together as shown in the figure. What is the minimum number of dots that Beatriz can obtain by summing all the dots on the exposed faces of the tower?
+
+![[src_obm_2003_n1_f2__Q07.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** 58
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Multiplication 45 times a3 equals 3bcd; find b+c+d*
 
-> In the following multiplication, $a$, $b$, $c$, and $d$ are digits:
+> Na multiplicação a seguir $a$, $b$, $c$ e $d$ são algarismos.
 > $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
-> Calculate $b + c + d$.
+> Calcule $b + c + d$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -311,14 +431,34 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Multiplication 45 times a3 equals 3bcd; find b+c+d*
+
+> In the following multiplication, $a$, $b$, $c$, and $d$ are digits:
+> $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
+> Calculate $b + c + d$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 15
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Five different positive integers with mean 11; maximize the largest*
 
-> The mean of five different positive integers is $11$. Determine the maximum possible value of the largest of the five integers.
+> A média de cinco inteiros positivos diferentes é $11$. Determine o maior valor possível para o maior dos cinco inteiros.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -346,16 +486,30 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Five different positive integers with mean 11; maximize the largest*
+
+> The mean of five different positive integers is $11$. Determine the maximum possible value of the largest of the five integers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 45
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_casework,method_invarianti,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Domino pieces partially covered by paper; find hidden dots total*
 
-> Nine different domino pieces are placed on a table, partially covered by a piece of paper. The dominoes touch each other so that $1$ dot is adjacent to $1$ dot, $2$ dots are adjacent to $2$ dots, etc. What is the total number of dots hidden by the paper?
-
-![[src_obm_2003_n1_f2__Q10.png]]
+> Nove peças diferentes de dominó estão sobre uma mesa, parcialmente cobertos por um pedaço de papel. Os dominós se tocam de modo que $1$ ponto é vizinho a $1$ ponto, $2$ pontos são vizinhos a $2$ pontos, etc. Qual o total de pontos escondidos pelo papel?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -385,14 +539,32 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Domino pieces partially covered by paper; find hidden dots total*
+
+> Nine different domino pieces are placed on a table, partially covered by a piece of paper. The dominoes touch each other so that $1$ dot is adjacent to $1$ dot, $2$ dots are adjacent to $2$ dots, etc. What is the total number of dots hidden by the paper?
+
+![[src_obm_2003_n1_f2__Q10.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 22
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Positive integers less than 120 expressible as sum of two or more distinct powers of 3*
 
-> Which positive integers less than $120$ can be written as a sum of two or more distinct powers of $3$ with non-negative exponents? For example, $12 = 3^1 + 3^2$ is one such number, but $18 = 3^1 + 3^2 + 3^1$ is not (the exponent $1$ is repeated). Find all such numbers.
+> Quais números inteiros positivos menores que $120$ podem ser escritos como soma de duas ou mais potências distintas de base $3$ e exponente positivo? Por exemplo, $12 = 3^{2} + 3^{1}$ é um número deste tipo mas $18 = 3^{2} + 3^{2}$ não é.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_bigezione|Bijection / correspondence]]
@@ -418,17 +590,29 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Positive integers less than 120 expressible as sum of two or more distinct powers of 3*
+
+> Which positive integers less than $120$ can be written as a sum of two or more distinct powers of $3$ with non-negative exponents? For example, $12 = 3^1 + 3^2$ is one such number, but $18 = 3^1 + 3^2 + 3^1$ is not (the exponent $1$ is repeated). Find all such numbers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two squares ABCD and FHIJ share a side line; find area of square BEFG*
 
-> In the figure, square $ABCD$ has area $64\text{ cm}^2$ and square $FHIJ$ has area $36\text{ cm}^2$. The vertices $A$, $D$, $E$, $H$, and $I$ lie on the same straight line. Calculate the area of square $BEFG$.
-
-![[src_obm_2003_n1_f2__Q12.png]]
+> No desenho ao lado, o quadrado $ABCD$ tem área de $64\text{ cm}^2$ e o quadrado $FHIJ$ tem área de $36\text{ cm}^2$. Os vértices $A$, $D$, $E$, $H$ e $I$ dos três quadrados pertencem a uma mesma reta. Calcule a área do quadrado $BEFG$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -458,14 +642,32 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two squares ABCD and FHIJ share a side line; find area of square BEFG*
+
+> In the figure, square $ABCD$ has area $64\text{ cm}^2$ and square $FHIJ$ has area $36\text{ cm}^2$. The vertices $A$, $D$, $E$, $H$, and $I$ lie on the same straight line. Calculate the area of square $BEFG$.
+
+![[src_obm_2003_n1_f2__Q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** 100
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all powerful numbers less than 100*
 
-> Consider the product of all positive divisors of a positive integer $N$, different from $N$ itself. We say $N$ is \emph{powerful} if the product of these divisors is equal to the square of $N$. For example, $12$ is powerful, since its positive divisors different from $12$ are $1, 2, 3, 4, 6$ and $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Find all powerful numbers less than $100$.
+> Considere o produto de todos os divisores positivos de um número inteiro positivo, diferentes desse número. Dizemos que o número é poderoso se o produto desses divisores for igual ao quadrado do número. Por exemplo, o número $12$ é poderoso, pois seus divisores positivos menores do que ele são $1, 2, 3, 4$ e $6$ e $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Apresente todos os números poderosos menores do que $100$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -487,3 +689,18 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all powerful numbers less than 100*
+
+> Consider the product of all positive divisors of a positive integer $N$, different from $N$ itself. We say $N$ is \emph{powerful} if the product of these divisors is equal to the square of $N$. For example, $12$ is powerful, since its positive divisors different from $12$ are $1, 2, 3, 4, 6$ and $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Find all powerful numbers less than $100$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)

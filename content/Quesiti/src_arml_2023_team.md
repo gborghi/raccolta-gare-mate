@@ -12,7 +12,23 @@ level: ARML Team Round
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Numeri «quasi decrescenti»*
+
+> A six-digit natural number is “sort-of-decreasing” if its first three digits are in strictly decreasing order and its last three digits are in strictly decreasing order. For example, 821950 and 631631 are sort-of-decreasing but 853791 and 911411 are not. Compute the number of sort-of-decreasing six-digit natural numbers.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 14400
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=4)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri «quasi decrescenti»*
@@ -28,24 +44,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Quasi decrescenti numbers*
-
-> A six-digit natural number is called *quasi decrescent* if its first three digits are in strictly decreasing order and also its last three digits are in strictly decreasing order. For example, 821950 and 631631 are quasi decrescent, while 853791 and 911411 are not. Calculate how many six-digit natural numbers are quasi decrescent.
-
-
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Prodotto delle cifre*
+
+> For each positive integer $N$, let $P(N)$ denote the product of the digits of $N$. For example, $P(8)=8$, $P(451)=20$, and $P(2023)=0$. Compute the least positive integer $n$ such that $P(n+23)=P(n)+23$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0034
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=4)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto delle cifre*
@@ -61,24 +79,28 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Product of the digits*
-
-> For every positive integer $N$, let $P(N)$ be the product of the digits of $N$. For example, $P(8)=8$, $P(451)=20$ and $P(2023)=0$. Find the smallest positive integer $n$ such that $P(n+23)=P(n)+23$.
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Minimo intero di una funzione razionale*
+
+> Compute the least integer value of the function
+> $$f(x)=\frac{x^4-6x^3+2x^2-6x+2}{x^2+1},$$
+> whose domain is the set of all real numbers.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** $-7$
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=4)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimo intero di una funzione razionale*
@@ -96,26 +118,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Minimum integer value of a rational function*
-
-> Calculate the minimum integer value taken by the function
-> $$f(x)=\frac{x^4-6x^3+2x^2-6x+2}{x^2+1},$$
-> whose domain is the set of all real numbers.
-
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Due triangoli non congruenti*
+
+> Suppose that noncongruent triangles $ABC$ and $XYZ$ are given such that $AB=XY=10$, $BC=YZ=9$, and $m\angle CAB=m\angle ZXY=30^\circ$. Compute $[ABC]+[XYZ]$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** $25\sqrt{3}$
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.5](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=5)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli non congruenti*
@@ -131,24 +153,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Two non-congruent triangles*
-
-> Suppose that the non-congruent triangles $ABC$ and $XYZ$ are such that $AB=XY=10$, $BC=YZ=9$ and $m\angle CAB=m\angle ZXY=30^\circ$. Calculate $[ABC]+[XYZ]$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,method_casework,method_estremalita,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Media, mediana e moda consecutive*
+
+> The mean, median, and unique mode of a list of positive integers are three consecutive integers in some order. Compute the least possible sum of the integers in the original list.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0012
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.5](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=5)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Media, mediana e moda consecutive*
@@ -164,24 +188,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Consecutive mean, median and mode*
-
-> The mean, the median and the only mode of a list of positive integers are, in some order, three consecutive integers. Calculate the minimum possible sum of the integers in the original list.
-
-
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_simmetria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Il tavolo rotondo di David*
+
+> David builds a circular table; he then carves one or more positive integers into the table at points equally spaced around its circumference. He considers two tables to be the same if one can be rotated so that it has the same numbers in the same positions as the other. For example, a table with the numbers 8, 4, 5 (in clockwise order) is considered the same as a table with the numbers 4, 5, 8 (in clockwise order), but both tables are different from a table with the numbers 8, 5, 4 (in clockwise order). Given that the numbers he carves sum to 17, compute the number of different tables he can make.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 7711
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.6](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=6)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il tavolo rotondo di David*
@@ -197,24 +223,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*The round table of David*
-
-> David builds a round table; then he carves one or more positive integers into the table, at points equally spaced along its circumference. He considers two tables equal if one can be rotated so that it has the same numbers in the same positions as the other. For example, a table with the numbers 8, 4, 5 (clockwise) is considered equal to a table with the numbers 4, 5, 8 (clockwise), but both are different from a table with the numbers 8, 5, 4 (clockwise). Knowing that the carved numbers have sum 17, calculate how many different tables he can make.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_simmetria|Using symmetry]], [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Diametro di una circonferenza circoscritta*
+
+> In quadrilateral $ABCD$, $m\angle B+m\angle D=270^\circ$. The circumcircle of $\triangle ABD$ intersects $CD$ at point $E$, distinct from $D$. Given that $BC=4$, $CE=5$, and $DE=7$, compute the diameter of the circumcircle of $\triangle ABD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** $\sqrt{130}$
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.6](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=6)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diametro di una circonferenza circoscritta*
@@ -230,24 +258,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Diameter of a circumscribed circle*
-
-> In quadrilateral $ABCD$, $m\angle B+m\angle D=270^\circ$. The circle circumscribed about $\triangle ABD$ intersects $\overline{CD}$ at the point $E$, distinct from $D$. Given that $BC=4$, $CE=5$ and $DE=7$, calculate the diameter of the circle circumscribed about $\triangle ABD$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
-
-
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_combinatoria,method_grafi,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*I percorsi di Xena*
+
+> Suppose that Xena traces a path along the segments in the figure shown, starting and ending at point $A$. The path passes through each of the eleven vertices besides $A$ exactly once, and only visits $A$ at the beginning and end of the path. Compute the number of possible paths Xena could trace.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0016
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.7](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=7)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I percorsi di Xena*
@@ -265,26 +295,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Xena's paths*
-
-> ![[src_arml_2023_team__prob8.png]]
->
-> Xena traces a path along the segments of the figure, starting and ending at point $A$. The path passes exactly once through each of the eleven vertices different from $A$ and touches $A$ only at the beginning and at the end. Calculate how many different paths Xena can trace.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_grafi|Graph theory]], [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Fattorizzazioni di un numero complesso*
+
+> Let $i=\sqrt{-1}$. The complex number $z=-142+333\sqrt{5}\,i$ can be expressed as a product of two complex numbers in multiple different ways, two of which are $(57-8\sqrt{5}\,i)(-6+5\sqrt{5}\,i)$ and $(24+\sqrt{5}\,i)(-3+14\sqrt{5}\,i)$. Given that $z=-142+333\sqrt{5}\,i$ can be written as $(a+b\sqrt{5}\,i)(c+d\sqrt{5}\,i)$, where $a$, $b$, $c$, and $d$ are positive integers, compute the lesser of $a+b$ and $c+d$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 0017
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.8](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=8)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fattorizzazioni di un numero complesso*
@@ -300,23 +330,26 @@ level: ARML Team Round
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Factorisations of a complex number*
-
-> Let $i=\sqrt{-1}$. The complex number $z=-142+333\sqrt5\,i$ can be written in more than one way as a product of two complex numbers; two of these are $(57-8\sqrt5\,i)(-6+5\sqrt5\,i)$ and $(24+\sqrt5\,i)(-3+14\sqrt5\,i)$. Knowing that $z=-142+333\sqrt5\,i$ can be written as $(a+b\sqrt5\,i)(c+d\sqrt5\,i)$, where $a$, $b$, $c$ and $d$ are *positive* integers, find the smaller of $a+b$ and $c+d$.
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+<div class="qlang-switch" data-default="en"></div>
+
+
+*Parallelogramma ruotato*
+
+> Parallelogram $ABCD$ is rotated about $A$ in the plane, resulting in $AB'C'D'$, with $D$ on $AB'$. Suppose that $[B'CD]=[ABD']=[BCC']$. Compute $\tan\angle ABD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** $\sqrt{2}-1$
+**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.8](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=8)
+**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+
+
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma ruotato*
@@ -330,17 +363,3 @@ level: ARML Team Round
 **Risposta:** $\sqrt{2}-1$
 **Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.8](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=8)
 **Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Rotated parallelogram*
-
-> The parallelogram $ABCD$ is rotated about $A$ in the plane, obtaining $AB'C'D'$, with $D$ on the segment $\overline{AB'}$. Suppose that $[B'CD]=[ABD']=[BCC']$. Calculate $\tan\angle ABD$.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]

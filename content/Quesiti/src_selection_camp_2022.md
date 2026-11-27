@@ -169,9 +169,7 @@ level: CAMP Selection Camp
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Gioco di spostamento delle perle su una linea con rapporto r; trova r in modo che la perla rossa raggiunga B in al massimo 2021 mosse*
-
+*Gioco di spostamento di perle su una retta con rapporto r; determinare r in modo che la perla rossa raggiunga B in al più 2021 mosse.*
 > Sia $r > 1$ un numero razionale, e siano $B$ e $R$ due punti distinti su una retta. Inizialmente, una perla blu viene posta in $B$ e una perla rossa viene posta in $R$. Taro esegue ripetutamente l'operazione seguente:
 >
 > > Scegli un intero $k$ e un punto $X$ in cui viene collocata una delle perle. Sia $Y$ il punto in cui viene collocata l'altra perla. Sul raggio $YX$, scegli il punto $X'$ tale che $YX' = r^k \cdot YX$. Poi sposta la perla in $X$ in $X'$.

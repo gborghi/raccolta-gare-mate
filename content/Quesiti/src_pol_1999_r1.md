@@ -370,9 +370,7 @@ level: Olimpiade Polacca Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Vertici di un cubo di spigolo a sulla superficie di un tetraedro regolare di spigolo 1: valori possibili di a*
-
+*Tutti i vertici di un cubo di spigolo a giacciono sulla superficie di un tetraedro regolare di spigolo 1: determinare i possibili valori di a.*
 > Tutti i vertici di un cubo di spigolo $a$ giacciono sulla superficie di un tetraedro regolare di spigolo $1$. Trovare tutti i valori possibili di $a$.
 
 

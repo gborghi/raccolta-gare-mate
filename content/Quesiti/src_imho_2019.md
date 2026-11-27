@@ -207,9 +207,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Le rette DI e PQ si incontrano sull'altezza passante per A in un triangolo acutangolo con i punti di tangenza dell'incircolo*
-
+*Le rette DI e PQ si incontrano sull'altezza uscente da A in un triangolo acutangolo, con i punti di tangenza del cerchio inscritto.*
 > Sia $I$ l'incentro del triangolo acuto $ABC$ con $AB \neq AC$. La circonferenza inscritta $\omega$ di $ABC$ è tangente ai lati $BC$, $CA$ e $AB$ rispettivamente nei punti $D$, $E$ e $F$. La retta passante per $D$ e perpendicolare a $EF$ incontra nuovamente $\omega$ in $R$. La retta $AR$ incontra nuovamente $\omega$ in $P$. Le circonferenze circoscritte ai triangoli $PCE$ e $PBF$ si intersecano nuovamente in $Q$.
 >
 > Dimostrare che le rette $DI$ e $PQ$ si incontrano sulla retta passante per $A$ e perpendicolare a $AI$.

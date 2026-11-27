@@ -12,14 +12,14 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_invarianti,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Book page sum parity: show total pages cannot equal 1998*
 
-> João bought a book and noticed it had 200 pages. His younger brother then tore out about 25 leaves (sheets), summing the page numbers on those 25 leaves to the page numbers of the 50 pages. Explain why the sum of the page numbers of those 25 leaves cannot equal 1998.
-> 
-> Note: each leaf has two pages. The first leaf has pages 1 and 2, the second leaf has pages 3 and 4, and so on.
+> João comprou um livro e reparou que ele tinha 200 páginas. Seu irmão mais novo arrancou ao acaso 25 folhas e somou os números das 50 páginas.
+> Explique porque o resultado desta soma não pode ser igual a 1998.
+> Atenção: cada folha tem duas páginas. A primeira folha tem as páginas 1 e 2, a segunda folha tem as páginas 3 e 4, e assim por diante.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -44,17 +44,33 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Book page sum parity: show total pages cannot equal 1998*
+
+> João bought a book and noticed it had 200 pages. His younger brother then tore out about 25 leaves (sheets), summing the page numbers on those 25 leaves to the page numbers of the 50 pages. Explain why the sum of the page numbers of those 25 leaves cannot equal 1998.
+> 
+> Note: each leaf has two pages. The first leaf has pages 1 and 2, the second leaf has pages 3 and 4, and so on.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Remove fractions from sum so remaining sum equals 1*
 
-> Which fractions must be removed from the sum
+> Que frações devem ser retiradas da soma
 > $$\frac{1}{2}+\frac{1}{4}+\frac{1}{6}+\frac{1}{8}+\frac{1}{10}+\frac{1}{12}$$
-> so that the sum of the remaining fractions equals $1$?
+> para que a soma das restantes seja igual a $1$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -80,14 +96,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Remove fractions from sum so remaining sum equals 1*
+
+> Which fractions must be removed from the sum
+> $$\frac{1}{2}+\frac{1}{4}+\frac{1}{6}+\frac{1}{8}+\frac{1}{10}+\frac{1}{12}$$
+> so that the sum of the remaining fractions equals $1$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** $\frac{1}{8}$ and $\frac{1}{10}$
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find two 3-digit numbers with digits 1–6 minimising their difference*
 
-> Find two three-digit numbers, each using each of the digits $1, 2, 3, 4, 5, 6$ exactly once (one digit per number per position, six digits total across both numbers), such that their difference is as small as possible (the larger minus the smaller). What is that minimum difference?
+> Encontre dois números de três algarismos cada um, usando cada um dos dígitos $1, 2, 3, 4, 5, 6$ exatamente uma vez, de forma que a diferença entre eles (o maior menos o menor) seja a menor possível.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -111,14 +145,30 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find two 3-digit numbers with digits 1–6 minimising their difference*
+
+> Find two three-digit numbers, each using each of the digits $1, 2, 3, 4, 5, 6$ exactly once (one digit per number per position, six digits total across both numbers), such that their difference is as small as possible (the larger minus the smaller). What is that minimum difference?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 47
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Houses around a square: find positions of João and Pedro*
 
-> There are houses around a town square. João and Pedro each walk one lap around the square, walking in the same direction and counting houses. They start counting from their own house. João's 5th house is Pedro's 30th house, and Pedro's 5th house is João's 30th house. How many houses are there in total around the square?
+> Existem casas em volta de uma praça. João e Pedro dão uma volta na praça, caminhando no mesmo sentido e contando as casas. Como não começaram a contar da mesma casa, a 5ª. casa de João é a 12ª. de Pedro e a 5ª. casa de Pedro é a 30ª. de João. Quantas casas existem em volta da praça?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -142,14 +192,30 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Houses around a square: find positions of João and Pedro*
+
+> There are houses around a town square. João and Pedro each walk one lap around the square, walking in the same direction and counting houses. They start counting from their own house. João's 5th house is Pedro's 30th house, and Pedro's 5th house is João's 30th house. How many houses are there in total around the square?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 35
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_induzione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Game with 20 balls on table: which player wins?*
 
-> There are 20 balls on a table and two children take turns eating them, one child at a time. In each turn, a child must eat at least one ball but is forbidden to eat more than half the balls currently on the table. In this game, the child who is forced to eat the last ball loses. Determine which child wins — the first or the second — and describe a winning strategy.
+> Existem 20 balas sobre uma mesa e duas crianças começam a comê-las, uma criança de cada vez. Em cada vez, cada criança deve comer pelo menos uma bala e está proibida de comer mais que a metade das balas que existem sobre a mesa. Nesta brincadeira, ganha a criança que deixar apenas uma bala sobre a mesa. Qual das duas crianças pode sempre ganhar na brincadeira: a primeira ou a segunda a jogar? Como deve fazer para ganhar?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
@@ -173,19 +239,34 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Game with 20 balls on table: which player wins?*
+
+> There are 20 balls on a table and two children take turns eating them, one child at a time. In each turn, a child must eat at least one ball but is forbidden to eat more than half the balls currently on the table. In this game, the child who is forced to eat the last ball loses. Determine which child wins — the first or the second — and describe a winning strategy.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** The first player wins.
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Wooden cube 10 cm painted, cut into 1 cm³ cubes: count by painted faces*
 
-> The faces of a wooden cube whose edges measure 10 centimetres are painted black. The cube is then divided into 1000 small cubes, each with edges measuring 1 centimetre. Determine:
-> a) the number of small cubes that have no painted face;
-> b) the number of small cubes that have exactly one painted face;
-> c) the number of small cubes that have exactly two painted faces;
-> d) the number of small cubes that have exactly three painted faces.
+> Pintam-se de preto todas as faces de um cubo de madeira cujas arestas medem 10 centímetros. Por cortes paralelos às faces, o cubo é dividido em 1000 cubos pequenos, cada um com arestas medindo 1 centímetro. Determine:
+> a) o número de cubos que não possuem nenhuma face pintada de preto.
+> b) o número de cubos que possuem uma única face pintada de preto.
+> c) o número de cubos que possuem exatamente duas faces pintadas de preto.
+> d) o número de cubos que possuem três faces pintadas de preto.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -210,3 +291,23 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Wooden cube 10 cm painted, cut into 1 cm³ cubes: count by painted faces*
+
+> The faces of a wooden cube whose edges measure 10 centimetres are painted black. The cube is then divided into 1000 small cubes, each with edges measuring 1 centimetre. Determine:
+> a) the number of small cubes that have no painted face;
+> b) the number of small cubes that have exactly one painted face;
+> c) the number of small cubes that have exactly two painted faces;
+> d) the number of small cubes that have exactly three painted faces.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** a) $512$; b) $384$; c) $96$; d) $8$
+**Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)

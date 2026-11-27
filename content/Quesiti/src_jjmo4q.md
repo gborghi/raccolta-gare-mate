@@ -300,9 +300,7 @@ level: JJMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Conta le terne (x,y,z) coprime per cui le cifre delle decine di x·z e y·z sono uguali alle cifre delle decine di x e y*
-
+*Contare le terne (x,y,z) di interi a due a due coprimi per cui le cifre delle decine di x·z e y·z coincidono con quelle di x e y.*
 > Siano $x$, $y$, $z$ numeri interi positivi a due cifre, a due a due coprimi. La cifra delle decine di $x \cdot z$ è uguale alla cifra delle decine di $x$, la cifra delle decine di $y \cdot z$ è uguale alla cifra delle decine di $y$, e la cifra delle unità di $x \cdot z$ è uguale alla cifra delle unità di $y \cdot z$. Quante triple $(x, y, z)$ di questo tipo esistono?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]

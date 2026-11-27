@@ -12,17 +12,16 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square of side 12 split into 7 rectangles; identify and find area of highlighted square*
 
-> A square of side 12 was divided into seven non-overlapping rectangular regions, as shown in the figure. One of them has vertex $C$, whose area is half the area of each of the two neighbouring rectangles; another is a square with vertex $A$, whose area is half the area of each of the two neighbouring rectangles.
-> 
-> a) Show that the highlighted quadrilateral is a square.
-> b) Calculate the area of the highlighted square.
-
-![[src_obm_2008_n1_f3__Q01.png]]
+> Um quadrado de lado 12 foi dividido em sete regiões retangulares que não se sobrepõem, conforme a figura. Uma delas é um quadrado de vértice $C$, cuja área é metade da área de cada um dos dois retângulos vizinhos; outra é um quadrado de vértice $A$, cuja área é metade da área de cada um dos dois retângulos vizinhos.
+>
+> a) Mostre que o quadrilátero destacado é um quadrado.
+>
+> b) Calcule a área do quadrado destacado.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -50,20 +49,41 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square of side 12 split into 7 rectangles; identify and find area of highlighted square*
+
+> A square of side 12 was divided into seven non-overlapping rectangular regions, as shown in the figure. One of them has vertex $C$, whose area is half the area of each of the two neighbouring rectangles; another is a square with vertex $A$, whose area is half the area of each of the two neighbouring rectangles.
+> 
+> a) Show that the highlighted quadrilateral is a square.
+> b) Calculate the area of the highlighted square.
+
+![[src_obm_2008_n1_f3__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Operation replacing each digit with its successor mod 9, eliminating leading zeros; sequence and fixed-point analysis*
 
-> Esmeralda chooses any positive integer and applies the following operation to it: each of its digits is replaced by its successor, except the digit 9, which is replaced by 0. Afterwards, any zeros that appear on the left are eliminated. For example, applying the operation to the number 990003953 gives 1114064 (note that the two zeros on the left, produced by the first two digits 9, are eliminated).
-> 
-> The operation is repeated indefinitely. For example, starting from 889, we obtain the sequence of numbers
+> Esmeralda escolhe um número inteiro positivo qualquer e realiza a seguinte operação com ele: cada um de seus algarismos é trocado pelo seu sucessor, com exceção do 9, que é trocado por 0. Em seguida, os eventuais zeros que aparecem à esquerda são eliminados. Por exemplo, ao se realizar a operação no número 990003953 obtém-se 1114064 (note que os dois zeros à esquerda gerados pelos dois primeiros algarismos 9 foram eliminados).
+>
+> A operação é repetida até que se obtenha 0. Por exemplo, começando com 889, obtemos a seqüência de números
 > $$889,\ 990,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 0.$$
-> 
-> a) Write the sequence of numbers when the first number is 2008.
-> b) Show that, regardless of the starting number, after a finite number of applications of Esmeralda's operation, she obtains 0.
+>
+> a) Apresente a seqüência de números quando o primeiro número é 2008.
+>
+> b) Mostre que, independente do número inicial, após uma quantidade finita de operações Esmeralda obtém 0.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
@@ -92,22 +112,39 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Operation replacing each digit with its successor mod 9, eliminating leading zeros; sequence and fixed-point analysis*
+
+> Esmeralda chooses any positive integer and applies the following operation to it: each of its digits is replaced by its successor, except the digit 9, which is replaced by 0. Afterwards, any zeros that appear on the left are eliminated. For example, applying the operation to the number 990003953 gives 1114064 (note that the two zeros on the left, produced by the first two digits 9, are eliminated).
+> 
+> The operation is repeated indefinitely. For example, starting from 889, we obtain the sequence of numbers
+> $$889,\ 990,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 0.$$
+> 
+> a) Write the sequence of numbers when the first number is 2008.
+> b) Show that, regardless of the starting number, after a finite number of applications of Esmeralda's operation, she obtains 0.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count ways to tile a 3×n board with 3×1 pieces; specific values and n=15*
 
-> Jade has $n$ pieces of size $3 \times 1$ and wants to use them to cover a $3 \times n$ board. For example, for $n = 4$ she can cover the board in the following way:
-> 
-> [A $3 \times 4$ board covered by four $3 \times 1$ pieces is shown.]
-> 
-> a) Determine in how many ways Jade can make a covering for $n = 1, 2, 3, 4, 5, 6, 7$.
-> b) In how many ways can Jade cover the board for $n = 15$?
-
-![[src_obm_2008_n1_f3__Q03.png]]
+> Jade tem $n$ peças iguais $3 \times 1$ e quer utilizá-las para cobrir um tabuleiro $3 \times n$, sendo $n$ um inteiro positivo. Por exemplo, para $n = 4$ ela pode cobrir o tabuleiro da seguinte maneira:
+>
+> a) Determine de quantas maneiras Jade pode fazer a cobertura para $n = 1, 2, 3, 4, 5, 6, 7$.
+>
+> b) De quantas maneiras Jade pode cobrir o tabuleiro para $n = 15$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -136,29 +173,44 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count ways to tile a 3×n board with 3×1 pieces; specific values and n=15*
+
+> Jade has $n$ pieces of size $3 \times 1$ and wants to use them to cover a $3 \times n$ board. For example, for $n = 4$ she can cover the board in the following way:
+> 
+> [A $3 \times 4$ board covered by four $3 \times 1$ pieces is shown.]
+> 
+> a) Determine in how many ways Jade can make a covering for $n = 1, 2, 3, 4, 5, 6, 7$.
+> b) In how many ways can Jade cover the board for $n = 15$?
+
+![[src_obm_2008_n1_f3__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Regular hexagon tiles the plane; show regular pentagon with specific angle condition also tiles the plane*
 
-> Consider the following hexagon:
-> 
-> [A regular hexagon is shown.]
-> 
-> With copies of this polygon we can tile the plane without overlaps, as the following figure shows.
-> 
-> [A tiling of the plane by regular hexagons is shown.]
-> 
-> a) Is it possible to tile the plane with copies of a regular pentagon?
-> 
-> *Observation:* A polygon is regular when all its sides have the same length and all its interior angles are equal.
-> 
-> b) Let $ABCDE$ be a pentagon with all sides equal and such that the measure of the interior angle at vertices $A$ and $B$ is $m(\hat{A}) = 100^\circ$ and $m(\hat{B}) = 80^\circ$. Show that it is possible to tile the plane with copies of this pentagon, without overlaps.
-
-![[src_obm_2008_n1_f3__Q04.png]]
+> Considere o seguinte hexágono:
+>
+> Com cópias desse polígono podemos cobrir todo o plano, sem sobreposições, como mostra a figura a seguir.
+>
+> a) É possível cobrir o plano com cópias de um pentágono regular?
+>
+> *Observação:* um polígono é regular quando todos os seus lados são de mesma medida e todos os seus ângulos internos são iguais.
+>
+> b) Seja $ABCDE$ um pentágono com todos os lados iguais e tal que a medida do ângulo interno nos vértices $A$ e $B$ são $m(\hat{A}) = 100^\circ$ e $m(\hat{B}) = 80^\circ$. Mostre como é possível cobrir todo o plano com cópias desse pentágono, sem sobreposições.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -195,17 +247,47 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Regular hexagon tiles the plane; show regular pentagon with specific angle condition also tiles the plane*
+
+> Consider the following hexagon:
+> 
+> [A regular hexagon is shown.]
+> 
+> With copies of this polygon we can tile the plane without overlaps, as the following figure shows.
+> 
+> [A tiling of the plane by regular hexagons is shown.]
+> 
+> a) Is it possible to tile the plane with copies of a regular pentagon?
+> 
+> *Observation:* A polygon is regular when all its sides have the same length and all its interior angles are equal.
+> 
+> b) Let $ABCDE$ be a pentagon with all sides equal and such that the measure of the interior angle at vertices $A$ and $B$ is $m(\hat{A}) = 100^\circ$ and $m(\hat{B}) = 80^\circ$. Show that it is possible to tile the plane with copies of this pentagon, without overlaps.
+
+![[src_obm_2008_n1_f3__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_cassetti,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *'Garbosy' numbers: positive multiples whose first four decimal digits are 2008; show 17 is garbosy and all positives are*
 
-> We call a positive integer $n$ *garbosy* if it has a multiple whose four leading digits of its decimal representation are 2008. For example, 7 is garbosy because 200858 is a multiple of 7 and starts with 2008. Note that $200858 = 28694 \times 7$.
-> 
-> a) Show that 17 is garbosy.
-> b) Show that every positive integer is garbosy.
+> Vamos chamar de garboso o número que possui um múltiplo cujas quatro primeiras casas de sua representação decimal são 2008. Por exemplo, 7 é garboso pois 200858 é múltiplo de 7 e começa com 2008. Observe que $200858 = 28694 \times 7$.
+>
+> a) Mostre que 17 é garboso.
+>
+> b) Mostre que todos os inteiros positivos são garbosos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
@@ -228,3 +310,21 @@ level: OBM Nível 1
 **Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*'Garbosy' numbers: positive multiples whose first four decimal digits are 2008; show 17 is garbosy and all positives are*
+
+> We call a positive integer $n$ *garbosy* if it has a multiple whose four leading digits of its decimal representation are 2008. For example, 7 is garbosy because 200858 is a multiple of 7 and starts with 2008. Note that $200858 = 28694 \times 7$.
+> 
+> a) Show that 17 is garbosy.
+> b) Show that every positive integer is garbosy.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)

@@ -12,12 +12,12 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Positive integer sequence with even/odd rule; find 2014th term*
 
-> Carolina writes a sequence of positive integers in which: if a number is even, the next number is half of it; if it is odd, the next number is seven units greater. The first number of the sequence is 10, so the first three numbers of this sequence are 10, 5, 12, $\ldots$ What is the 2014th number in this sequence?
+> Carolina escreve uma sequência de números inteiros positivos, na qual, se um número é par, o número seguinte é a sua metade e, se o número é ímpar, o número seguinte é sete unidades maior. O primeiro número da sequência é 10 e, então, os três primeiros números desta sequência são 10, 5, 12, $\ldots$ . Qual é o 2014º número desta sequência?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
@@ -40,15 +40,29 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Positive integer sequence with even/odd rule; find 2014th term*
+
+> Carolina writes a sequence of positive integers in which: if a number is even, the next number is half of it; if it is odd, the next number is seven units greater. The first number of the sequence is 10, so the first three numbers of this sequence are 10, 5, 12, $\ldots$ What is the 2014th number in this sequence?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ten children in line; minimum neighbor swaps to move tallest to position of shortest*
 
-> Ten children form a line from the shortest to the tallest. It is known that in this line no two children have the same height. By some motion, the tallest child moves to the position of the shortest one, using only swaps between neighboring children. What is the minimum number of position swaps that must be made?
+> Dez crianças formam uma fila da menor criança para a maior. Sabe-se que nessa fila não existem duas crianças com a mesma altura. Por algum motivo, a fila tem que ser refeita da maior criança para a menor, através da troca de posição somente entre crianças vizinhas. No mínimo, quantas trocas de posição deverão ser feitas?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -71,17 +85,29 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ten children in line; minimum neighbor swaps to move tallest to position of shortest*
+
+> Ten children form a line from the shortest to the tallest. It is known that in this line no two children have the same height. By some motion, the tallest child moves to the position of the shortest one, using only swaps between neighboring children. What is the minimum number of position swaps that must be made?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fill 5x5 grid with distinct positive integers; minimize sum of marked cells*
 
-> Fill in the table with different positive integers, all greater than zero, so that for each of the five grey squares, the sum of the two numbers in its row is equal to the sum of the two numbers in its column. Note that the sum of a row does not need to equal the sum of another row. Find the smallest possible sum of the numbers that can be written in the three grey small squares.
-
-![[src_obm_2014_n1_f2__Q03.png]]
+> Preencha a tabela ao lado com nove números inteiros diferentes, maiores do que zero, de modo que para cada um dos quadradinhos cinzentos, a soma dos números da linha e da coluna em que se encontram é a mesma. Note que a soma de uma linha não precisa ser igual à soma de outra linha. Sendo assim, qual é a menor soma possível dos números que podem ser escritos nos três quadradinhos cinzentos?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -106,17 +132,31 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fill 5x5 grid with distinct positive integers; minimize sum of marked cells*
+
+> Fill in the table with different positive integers, all greater than zero, so that for each of the five grey squares, the sum of the two numbers in its row is equal to the sum of the two numbers in its column. Note that the sum of a row does not need to equal the sum of another row. Find the smallest possible sum of the numbers that can be written in the three grey small squares.
+
+![[src_obm_2014_n1_f2__Q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rectangle ABCD cut parallel to AD; rotated piece fits; find area*
 
-> Carla makes a cut $MN$ parallel to side $AD$ in rectangle $ABCD$. She then rotates rectangle $AMND$ to obtain rectangle $MBCN$, since it is possible to make sides $CN$ and $AD$ coincide, as shown in the figure. If rectangle $AMND$ has $AD = 8$ cm and $AM = 4$ cm, what is the area of rectangle $ABCD$, in $\mathrm{cm}^2$?
-
-![[src_obm_2014_n1_f2__Q04.png]]
+> Carla fez um corte $MN$ paralelo ao lado $AD$ no retângulo $ABCD$ ao lado. Em seguida, girou o retângulo $AMND$ e juntou-o ao retângulo $MBCN$, pois é possível fazer coincidir os lados $CN$ e $AD$, conforme a ilustração. Sabendo que no retângulo $AMND$ temos $AD = 8$ cm e $AM = 4$ cm, qual é a área do retângulo $ABCD$, em $\mathrm{cm}^2$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -141,16 +181,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangle ABCD cut parallel to AD; rotated piece fits; find area*
+
+> Carla makes a cut $MN$ parallel to side $AD$ in rectangle $ABCD$. She then rotates rectangle $AMND$ to obtain rectangle $MBCN$, since it is possible to make sides $CN$ and $AD$ coincide, as shown in the figure. If rectangle $AMND$ has $AD = 8$ cm and $AM = 4$ cm, what is the area of rectangle $ABCD$, in $\mathrm{cm}^2$?
+
+![[src_obm_2014_n1_f2__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count pairs of positive integers under 100 where sum equals twice the difference*
 
-> The set $\{18, 54\}$ has the property that the sum of its elements, 72, equals twice their difference, 36. How many sets of two positive integers, both less than 100, have this property?
-> 
-> *Note: The sets $\{18, 54\}$ and $\{54, 18\}$ are equal.*
+> O conjunto de números $\{18, 54\}$ tem a seguinte propriedade: a soma dos seus elementos, 72, é igual ao dobro de sua diferença, 36. Quantos conjuntos de dois números inteiros positivos, ambos menores do que 100, possuem esta propriedade?
+>
+> Observação: os conjuntos $\{18, 54\}$ e $\{54, 18\}$ são iguais.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -175,19 +232,35 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count pairs of positive integers under 100 where sum equals twice the difference*
+
+> The set $\{18, 54\}$ has the property that the sum of its elements, 72, equals twice their difference, 36. How many sets of two positive integers, both less than 100, have this property?
+> 
+> *Note: The sets $\{18, 54\}$ and $\{54, 18\}$ are equal.*
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *3x3 board filled with integers 1-9; four 2x2 subboard products minus 100 given; find border sum*
 
-> Juliana writes in the cells of a $3 \times 3$ board nine integers from 1 to 9, one in each cell. She then copies the four numbers written in each of the four $2 \times 2$ sub-boards contained in the $3 \times 3$ board, and notes down the result of the product of those four numbers minus 100, as indicated in the figure. The four results shown are 30, 19, 12, and 21.
-> 
-> What is the sum of the numbers written in the border cells of the board, represented by the grey cells in the figure?
-
-![[src_obm_2014_n1_f2__Q06.png]]
+> Juliana escreveu nas casas de um tabuleiro os números inteiros de 1 a 9, um em cada casa. Depois disto, ela somou os quatro números escritos em cada um dos quatro tabuleiros contidos no tabuleiro e anotou o resultado abaixo de cada tabuleiro, conforme indicado a seguir:
+>
+> 30 19 12 21
+>
+> Qual é a soma dos números escritos nas casas da borda do tabuleiro, representadas na cor cinza na figura a seguir?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -214,17 +287,37 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*3x3 board filled with integers 1-9; four 2x2 subboard products minus 100 given; find border sum*
+
+> Juliana writes in the cells of a $3 \times 3$ board nine integers from 1 to 9, one in each cell. She then copies the four numbers written in each of the four $2 \times 2$ sub-boards contained in the $3 \times 3$ board, and notes down the result of the product of those four numbers minus 100, as indicated in the figure. The four results shown are 30, 19, 12, and 21.
+> 
+> What is the sum of the numbers written in the border cells of the board, represented by the grey cells in the figure?
+
+![[src_obm_2014_n1_f2__Q06.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number 2014: even, no repeated digits, digit sum prime; find smallest and largest with same properties*
 
-> The number 2014 is even, has no repeated digits in its representation, and the sum of its digits is a prime number.
-> a) What is the smallest positive integer with these three properties?
-> b) What is the largest positive integer with these three properties?
+> O número 2014 é par, não possui algarismos repetidos em sua representação e a soma desses algarismos é um número primo.
+>
+> a) Qual é o menor inteiro positivo que tem essas três características?
+>
+> b) Qual é o maior número inteiro com essas três características?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -249,21 +342,37 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number 2014: even, no repeated digits, digit sum prime; find smallest and largest with same properties*
+
+> The number 2014 is even, has no repeated digits in its representation, and the sum of its digits is a prime number.
+> a) What is the smallest positive integer with these three properties?
+> b) What is the largest positive integer with these three properties?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square EFGH inscribed in square ABCD with midpoints I,J,K,L; find three areas*
 
-> In the figure, we have $AF = 12$ cm and $AE = 16$ cm. The vertices of square $EFGH$ lie on the sides of square $ABCD$, and the points $I$, $J$, $K$, $L$ are midpoints of the sides of $EFGH$.
-> 
-> a) What is the area of square $ABCD$?
-> b) What is the area of square $EFGH$?
-> c) What is the area of the grey square in the interior of square $EFGH$?
-
-![[src_obm_2014_n1_f2__Q08.png]]
+> Na figura ao lado, temos $AF = 12$ cm, $AE = 16$ cm. Os vértices do quadrado $EFGH$ pertencem aos lados do quadrado $ABCD$ e os pontos $I$, $J$, $K$, $L$ são pontos médios dos lados de $EFGH$.
+>
+> a) Qual é a área do quadrado $ABCD$?
+>
+> b) Qual é a área do quadrado $EFGH$?
+>
+> c) Qual é a área do quadrado cinza no interior do quadrado $EFGH$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -292,20 +401,43 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square EFGH inscribed in square ABCD with midpoints I,J,K,L; find three areas*
+
+> In the figure, we have $AF = 12$ cm and $AE = 16$ cm. The vertices of square $EFGH$ lie on the sides of square $ABCD$, and the points $I$, $J$, $K$, $L$ are midpoints of the sides of $EFGH$.
+> 
+> a) What is the area of square $ABCD$?
+> b) What is the area of square $EFGH$?
+> c) What is the area of the grey square in the interior of square $EFGH$?
+
+![[src_obm_2014_n1_f2__Q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Place +, -, x signs between digits of 2014; count integer and distinct results*
 
-> By placing signs $+$, $-$, or $\times$ between the digits of 2014 and computing the value of the expression, we can obtain different results. For example, $2 + 0 - 1 \times 4 = -2$, $2 - 0 + 1 \times 4 = 6$.
-> 
-> *Note: Remember that division by zero is not permitted, so expressions that require this operation are not allowed.*
-> 
-> a) Which of these results are not integers?
-> b) In how many ways can we place the signs between the digits?
-> c) How many different results are possible?
+> Colocando sinais de $+$ ou $-$ ou $\times$ ou $\div$ entre os algarismos de 2014 e calculando o valor da expressão, podemos obter muitos resultados diferentes. Por exemplo, $2 + 0 - 1 \times 4 = -2$, $2 - 0 \div 1 \times 4 = 2$ e $2 + 0 + 1 \times 4 = 6$.
+>
+> Observação: lembre-se de que não existe divisão por zero, por isso não é permitido formar expressões que tenham esta operação.
+>
+> a) Quantos desses resultados não são números inteiros?
+>
+> b) De quantas maneiras podemos colocar os sinais entre os algarismos?
+>
+> c) Quantos resultados diferentes são possíveis?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -332,3 +464,23 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Place +, -, x signs between digits of 2014; count integer and distinct results*
+
+> By placing signs $+$, $-$, or $\times$ between the digits of 2014 and computing the value of the expression, we can obtain different results. For example, $2 + 0 - 1 \times 4 = -2$, $2 - 0 + 1 \times 4 = 6$.
+> 
+> *Note: Remember that division by zero is not permitted, so expressions that require this operation are not allowed.*
+> 
+> a) Which of these results are not integers?
+> b) In how many ways can we place the signs between the digits?
+> c) How many different results are possible?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)

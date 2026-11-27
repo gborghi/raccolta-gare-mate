@@ -127,7 +127,57 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Existence of 2n+1 consecutive integers satisfying sum / sum-of-squares / sum-of-cubes equality*
+
+> Soit $n$ un entier strictement positif donné.
+>
+> **1.** Existe-t-il $2n+1$ entiers naturels consécutifs $a_0, a_1, \ldots, a_{2n}$, rangés dans l'ordre croissant, vérifiant :
+> $$a_0 + a_1 + \cdots + a_n = a_{n+1} + \cdots + a_{2n}\,?$$
+>
+> **2.** Existe-t-il $2n+1$ entiers naturels consécutifs $a_0, a_1, \ldots, a_{2n}$, rangés dans l'ordre croissant, vérifiant :
+> $$a_0^2 + a_1^2 + \cdots + a_n^2 = a_{n+1}^2 + \cdots + a_{2n}^2\,?$$
+>
+> **3.** Existe-t-il $2n+1$ entiers naturels consécutifs $a_0, a_1, \ldots, a_{2n}$, rangés dans l'ordre croissant, vérifiant :
+> $$a_0^3 + a_1^3 + \cdots + a_n^3 = a_{n+1}^3 + \cdots + a_{2n}^3\,?$$
+>
+> Pour cette question, on pourra étudier les variations de la fonction $f$ définie sur $\mathbb{R}$ par :
+> $$f(x) = (x - n)^3 + (x - n + 1)^3 + \cdots + x^3 - (x + 1)^3 - \cdots - (x + n)^3.$$
+> On montrera que l'équation $f(x) = 0$ admet une solution unique $x_n$ vérifiant :
+> $$3n(n + 1) < x_n < 3n(n + 1) + 1.$$
+> On pourra utiliser l'égalité : $1^3 + 2^3 + \cdots + n^3 = \left[\dfrac{n(n + 1)}{2}\right]^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Esistenza di 2n+1 interi naturali consecutivi per i quali la somma, la somma dei quadrati o la somma dei cubi dei primi n+1 termini uguaglia quella dei rimanenti.*
+> $n$ sia un dato numero intero rigorosamente positivo.
+> 
+> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, disposti in ordine crescente, che soddisfano: $$a_0 + a_1 + \cdots + a_n = a_{n+1} + \cdots + a_{2n}?$$
+> 
+> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, ordinati in ordine crescente, che soddisfano: $$a_0^2 + a_1^2 + \cdots + a_n^2 = a_{n+1}^2 + \cdots + a_{2n}^2?$$
+> 
+> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, disposti in ordine crescente, che soddisfano: $$a_0^3 + a_1^3 + \cdots + a_n^3 = a_{n+1}^3 + \cdots + a_{2n}^3?$$
+> 
+> Per quest'ultima domanda, si possono studiare le variazioni della funzione $f$ definita su $\mathbb{R}$ da: $$f(x) = (x-n)^3 + (x-n+1)^3 + \cdots + x^3 - (x+1)^3 - \cdots - (x+n)^3.$$ Si mostrerà che l'equazione $f(x) = 0$ ammette una soluzione unica $x_n$ soddisfacente $3n(n+1) < x_n < 3n(n+1) + 1$.
+> 
+> Si può usare l'identità $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Existence of 2n+1 consecutive integers satisfying sum / sum-of-squares / sum-of-cubes equality*
@@ -154,29 +204,6 @@ level: Concours Général
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Esistenza di 2n+1 interi consecutivi che soddisfano la somma / somma di quadrati / somma di cubi uguale*
-
-> $n$ sia un dato numero intero rigorosamente positivo.
-> 
-> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, disposti in ordine crescente, che soddisfano: $$a_0 + a_1 + \cdots + a_n = a_{n+1} + \cdots + a_{2n}?$$
-> 
-> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, ordinati in ordine crescente, che soddisfano: $$a_0^2 + a_1^2 + \cdots + a_n^2 = a_{n+1}^2 + \cdots + a_{2n}^2?$$
-> 
-> Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, disposti in ordine crescente, che soddisfano: $$a_0^3 + a_1^3 + \cdots + a_n^3 = a_{n+1}^3 + \cdots + a_{2n}^3?$$
-> 
-> Per quest'ultima domanda, si possono studiare le variazioni della funzione $f$ definita su $\mathbb{R}$ da: $$f(x) = (x-n)^3 + (x-n+1)^3 + \cdots + x^3 - (x+1)^3 - \cdots - (x+n)^3.$$ Si mostrerà che l'equazione $f(x) = 0$ ammette una soluzione unica $x_n$ soddisfacente $3n(n+1) < x_n < 3n(n+1) + 1$.
-> 
-> Si può usare l'identità $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 

@@ -172,9 +172,7 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Dimostrare l'esistenza di un insieme infinito di interi della forma $2^n - 3$ con proprietà di coppie coprime*
-
+*Dimostrare l'esistenza di un insieme infinito di interi della forma 2^n−3 a due a due coprimi; a partire da un insieme finito con tale proprietà se ne costruisce uno più grande.*
 > Esiste un insieme infinito di interi positivi della forma $2^n - 3$ con la proprietà $Q$: nessun due membri dell'insieme hanno un fattore primo in comune.
 > 
 > Supponiamo che esista un insieme finito $S = \{2^{r_1} - 3,\; 2^{r_2} - 3,\; \ldots,\; 2^{r_k} - 3\}$ con la proprietà $Q$ e $k$ membri. Siano $p_1, p_2, \ldots, p_s$ i fattori primi di questi $k$ numeri. Consideriamo il numero $N = 2^{(p_1 - 1)(p_2 - 1)\cdots(p_s - 1)} - 1 \equiv 1 \pmod{P}$ per ogni primo $P$ che non divide $n$. Per il teorema di Fermat $2^{p_j - 1} \equiv 1 \pmod{p_j}$ per ogni primo $p_j$ che non divide $n$. Quindi $K - 3 \equiv -1 \pmod{p_j}$, $r + 1$ a $t$, e $K - 3$ può essere aggiunto a $S$ per dare un insieme più grande con la proprietà $Q$.

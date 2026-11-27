@@ -162,9 +162,7 @@ level: JMO Honsen
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Se certe somme sono multiple di un intero, allora tutti i termini lo sono*
-
+*Se le somme di potenze x_i^k per k≤672 sono tutte multiple di 2017, allora tutti i termini x_i sono multipli di 2017.*
 > Siano $x_1, x_2, \ldots, x_{1000}$ interi tali che per ogni intero positivo $k$ con $k \le 672$ la somma $\displaystyle\sum_{i=1}^{1000} x_i^k$ è un multiplo di $2017$. Dimostrare che $x_1, x_2, \ldots, x_{1000}$ sono tutti multipli di $2017$. (Nota: $2017$ è primo.)
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]

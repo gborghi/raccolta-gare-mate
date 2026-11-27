@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_lettura_attenta,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest N whose product by 3 has all digits 7; find digit sum of N*
 
-> Let $N$ be the smallest positive integer such that multiplying $N$ by $3$ gives a number whose digits are all equal to $7$. Determine the sum of the digits of $N$.
+> Seja $N$ o menor número inteiro positivo que multiplicado por $33$ resulta em um número cujos algarismos são todos iguais a $7$. Determine a soma dos algarismos de $N$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -40,16 +40,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest N whose product by 3 has all digits 7; find digit sum of N*
+
+> Let $N$ be the smallest positive integer such that multiplying $N$ by $3$ gives a number whose digits are all equal to $7$. Determine the sum of the digits of $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Integer quadratic with parameters r,s; count possible values of |r-s|*
 
-> Let $r$ and $s$ be integers. Suppose that the equation of the second degree
+> Sejam $r$ e $s$ números inteiros. Sabe-se que a equação do segundo grau
 > $$x^2 - (r+s)x + rs + 2010 = 0$$
-> has two integer solutions. How many possible values does $|r - s|$ have?
+> tem as duas soluções inteiras. Quantos são os possíveis valores de $|r - s|$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -74,16 +89,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integer quadratic with parameters r,s; count possible values of |r-s|*
+
+> Let $r$ and $s$ be integers. Suppose that the equation of the second degree
+> $$x^2 - (r+s)x + rs + 2010 = 0$$
+> has two integer solutions. How many possible values does $|r - s|$ have?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Three mutually tangent circles and quadrilateral; find inscribed circle radius*
 
-> In the figure below, three circles drawn in continuous trace are all tangent to both lines $r$ and $s$ passing through points $A$, $B$, $C$, $D$. Moreover, the smaller circle is also tangent to $AD$, the larger circle is also tangent to $BC$, and the inscribed circle in the quadrilateral $ABCD$ is also tangent to $AD$. The radii of the two external circles tangent to the quadrilateral $ABCD$ are $8$ and $18$. Calculate the radius $R$ of the circle inscribed in $ABCD$.
-
-![[src_obm_2010_n3_f2__Q03.png]]
+> Na figura a seguir, as três circunferências em traço contínuo são tangentes às retas $r$ e $s$ e a circunferência tracejada passa pelos pontos $A$, $B$, $C$ e $D$. Além disso, a circunferência menor é tangente também a $AD$ e a circunferência maior é também tangente a $BC$. Se os raios das circunferências externas ao quadrilátero $ABCD$ são $8$ e $18$, calcule o raio $R$ da circunferência inscrita em $ABCD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -108,14 +138,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three mutually tangent circles and quadrilateral; find inscribed circle radius*
+
+> In the figure below, three circles drawn in continuous trace are all tangent to both lines $r$ and $s$ passing through points $A$, $B$, $C$, $D$. Moreover, the smaller circle is also tangent to $AD$, the larger circle is also tangent to $BC$, and the inscribed circle in the quadrilateral $ABCD$ is also tangent to $AD$. The radii of the two external circles tangent to the quadrilateral $ABCD$ are $8$ and $18$. Calculate the radius $R$ of the circle inscribed in $ABCD$.
+
+![[src_obm_2010_n3_f2__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *2×4 grid painted with 3 colors; count paintings with exactly one cut column*
 
-> Each of the eight cells of a $2$-row, $4$-column rectangle is painted with one of three colors. A column is called a \emph{cut} if its two cells are the same color. In how many ways is it possible to paint the rectangle so that there is exactly one cut?
+> Cada uma das oito casas de um retângulo de duas linhas e quatro colunas é pintada de uma entre três cores. Uma coluna é chamada de corte se as suas duas casas são da mesma cor. De quantas maneiras é possível pintar o retângulo de modo que haja exatamente um corte?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -138,14 +185,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*2×4 grid painted with 3 colors; count paintings with exactly one cut column*
+
+> Each of the eight cells of a $2$-row, $4$-column rectangle is painted with one of three colors. A column is called a \emph{cut} if its two cells are the same color. In how many ways is it possible to paint the rectangle so that there is exactly one cut?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Compute telescoping product of (n^4+n^2+1) for even over odd indices*
 
-> Compute
+> Calcule
 > $$\frac{(2^4+2^2+1)(4^4+4^2+1)(6^4+6^2+1)\cdots(32^4+32^2+1)}{(1^4+1^2+1)(3^4+3^2+1)(5^4+5^2+1)\cdots(31^4+31^2+1)}.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -170,14 +232,30 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute telescoping product of (n^4+n^2+1) for even over odd indices*
+
+> Compute
+> $$\frac{(2^4+2^2+1)(4^4+4^2+1)(6^4+6^2+1)\cdots(32^4+32^2+1)}{(1^4+1^2+1)(3^4+3^2+1)(5^4+5^2+1)\cdots(31^4+31^2+1)}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Angle bisectors of triangle meet at I; find angle ABC given AI=BC and m(ICA)=2m(IAC)*
 
-> The internal angle bisectors of angles $\hat{A}$ and $\hat{C}$ of triangle $ABC$ meet at point $I$. Suppose that $AI = BC$ and $m(\angle ICA) = 2\,m(\angle IAC)$. Determine the measure of angle $\angle ABC$.
+> As bissetrizes internas dos ângulos $\hat{A}$ e $\hat{C}$ do triângulo $ABC$ cortam-se no ponto $I$. Sabe-se que $AI = BC$ e que $m(I\hat{C}A) = 2\, m(I\hat{A}C)$. Determine a medida do ângulo $A\hat{B}C$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -200,14 +278,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Angle bisectors of triangle meet at I; find angle ABC given AI=BC and m(ICA)=2m(IAC)*
+
+> The internal angle bisectors of angles $\hat{A}$ and $\hat{C}$ of triangle $ABC$ meet at point $I$. Suppose that $AI = BC$ and $m(\angle ICA) = 2\,m(\angle IAC)$. Determine the measure of angle $\angle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Diamantino's football schedule: how many ways to choose 2 of 10 days avoiding two consecutive*
 
-> Diamantino likes to play football, but if he plays two days in a row he gets muscle pain. In how many ways can Diamantino choose which of ten days he will play football so that after playing he does not get muscle pain? (One way is to not play football on any of the days.)
+> Diamantino gosta de jogar futebol, mas se jogar dois dias seguidos ele fica com dores musculares. De quantas maneiras Diamantino pode escolher em quais de dez dias seguidos ele vai jogar bola sem ter dores musculares? Uma maneira é não jogar futebol em nenhum dos dias.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -230,16 +323,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Diamantino's football schedule: how many ways to choose 2 of 10 days avoiding two consecutive*
+
+> Diamantino likes to play football, but if he plays two days in a row he gets muscle pain. In how many ways can Diamantino choose which of ten days he will play football so that after playing he does not get muscle pain? (One way is to not play football on any of the days.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Solve integer system x+y+z=77, xy+yz+2x+xyz=946 with x≤y≤z non-negative*
 
-> Solve the system
-> $$\begin{cases} x + y + z = 77 \\ xy + yz + 2x + xyz = 946 \end{cases}$$
-> where $x \le y \le z$ are non-negative integers.
+> Resolva o sistema
+> $$\begin{cases} x + y + z = 77 \\ xy + yz + zx + xyz = 946 \end{cases}$$
+> sendo $x \le y \le z$ inteiros não negativos.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -264,20 +372,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Solve integer system x+y+z=77, xy+yz+2x+xyz=946 with x≤y≤z non-negative*
+
+> Solve the system
+> $$\begin{cases} x + y + z = 77 \\ xy + yz + 2x + xyz = 946 \end{cases}$$
+> where $x \le y \le z$ are non-negative integers.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,topic_geometria_analitica,topic_aritmetica,method_invarianti,method_casework,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Billiard ball on ABCD square table; find angles for ball to return to vertex after 2010 bounces*
 
-> A billiard table has the shape of a square $ABCD$. SuperPablo has a special mission: starting from vertex $A$ with a billiard ball, he must shoot it so that, after bouncing exactly $2010$ times on the sides of the square, the ball arrives for the first time at a vertex of the square.
-> 
-> What are the possible values of the angle formed by side $AB$ with the initial trajectory of the ball?
-> 
-> \emph{Observation}: When hitting the sides, the ball undergoes a perfect reflection, that is, the angle of incidence equals the angle of reflection. Also assume that the ball is a point.
-
-![[src_obm_2010_n3_f2__Q09.png]]
+> Uma mesa de bilhar tem o formato de um quadrado $ABCD$. SuperPablo tem uma missão especial: ele deve dar uma tacada em uma bola de bilhar, inicialmente colocada no vértice $A$, de modo que, após bater exatamente $2010$ vezes nos lados do quadrado, a bola chegue, pela primeira vez, a um vértice do quadrado.
+>
+> Quantos são os possíveis valores do ângulo formado pelo lado $AB$ com a trajetória inicial da bola?
+>
+> *Observação*: ao bater nos lados do quadrado, a bola sofre reflexão perfeita, ou seja, o ângulo de incidência é igual ao ângulo de reflexão. Suponha também que a bola seja um ponto.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
@@ -304,3 +427,23 @@ level: OBM Nível 3
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Billiard ball on ABCD square table; find angles for ball to return to vertex after 2010 bounces*
+
+> A billiard table has the shape of a square $ABCD$. SuperPablo has a special mission: starting from vertex $A$ with a billiard ball, he must shoot it so that, after bouncing exactly $2010$ times on the sides of the square, the ball arrives for the first time at a vertex of the square.
+> 
+> What are the possible values of the angle formed by side $AB$ with the initial trajectory of the ball?
+> 
+> \emph{Observation}: When hitting the sides, the ball undergoes a perfect reflection, that is, the angle of incidence equals the angle of reflection. Also assume that the ball is a point.
+
+![[src_obm_2010_n3_f2__Q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)

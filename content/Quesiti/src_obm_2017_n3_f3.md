@@ -12,16 +12,16 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Decimal digits of two rationals combined into an irrational; index-counting bound*
 
-> For each real number $r$ between $0$ and $1$ we can represent $r$ with the infinite decimal $r = 0{,}r_1 r_2 r_3 \ldots$ with $0 \le r_i \le 9$. For example, $\frac{1}{4} = 0{,}25000\ldots$, $\frac{1}{3} = 0{,}333\ldots$ and $\frac{1}{\sqrt{2}} = 0{,}707106\ldots$
-> 
-> a) Show that we can choose two rationals $p$ and $q$ between $0$ and $1$ so that, starting from their decimal representations $p = 0{,}p_1 p_2 p_3 \ldots$ and $q = 0{,}q_1 q_2 q_3 \ldots$, it is possible to construct an irrational number $\alpha = 0{,}a_1 a_2 a_3 \ldots$ such that for each $i = 1, 2, 3, \ldots$ we have $a_i = p_i$ or $a_i = q_i$.
-> 
-> b) Show that there exist a rational $s = 0{,}s_1 s_2 s_3 \ldots$ and an irrational $\beta = 0{,}b_1 b_2 b_3 \ldots$ such that for all $N \ge 2017$ the number of indices $1 \le i \le N$ for which $s_i \ne b_i$ is less than or equal to $\frac{N}{2017}$.
+> Para cada número real $r$ entre $0$ e $1$ podemos representar $r$ com decimal infinito $r = 0{,}r_1 r_2 r_3 \ldots$ com $0 \le r_i \le 9$. Por exemplo, $\frac{1}{4} = 0{,}25000\ldots$, $\frac{1}{3} = 0{,}333\ldots$ e $\frac{1}{\sqrt{2}} = 0{,}707106\ldots$.
+>
+> a) Mostre que podemos escolher dois racionais $p$ e $q$ entre $0$ e $1$ de modo que a partir das representações decimais deles $p = 0{,}p_1 p_2 p_3 \ldots$ e $q = 0{,}q_1 q_2 q_3 \ldots$ é possível construir um número irracional $\alpha = 0{,}a_1 a_2 a_3 \ldots$ tal que para cada $i = 1, 2, 3, \ldots$ temos $a_i = p_i$ ou $a_i = q_i$.
+>
+> b) Mostre que existem um racional $s = 0{,}s_1 s_2 s_3 \ldots$ e um irracional $\beta = 0{,}b_1 b_2 b_3 \ldots$ tais que para todo $N \ge 2017$ o número de índices $1 \le i \le N$ tais que $s_i \ne b_i$ é menor ou igual a $\frac{N}{2017}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
@@ -48,16 +48,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Decimal digits of two rationals combined into an irrational; index-counting bound*
+
+> For each real number $r$ between $0$ and $1$ we can represent $r$ with the infinite decimal $r = 0{,}r_1 r_2 r_3 \ldots$ with $0 \le r_i \le 9$. For example, $\frac{1}{4} = 0{,}25000\ldots$, $\frac{1}{3} = 0{,}333\ldots$ and $\frac{1}{\sqrt{2}} = 0{,}707106\ldots$
+> 
+> a) Show that we can choose two rationals $p$ and $q$ between $0$ and $1$ so that, starting from their decimal representations $p = 0{,}p_1 p_2 p_3 \ldots$ and $q = 0{,}q_1 q_2 q_3 \ldots$, it is possible to construct an irrational number $\alpha = 0{,}a_1 a_2 a_3 \ldots$ such that for each $i = 1, 2, 3, \ldots$ we have $a_i = p_i$ or $a_i = q_i$.
+> 
+> b) Show that there exist a rational $s = 0{,}s_1 s_2 s_3 \ldots$ and an irrational $\beta = 0{,}b_1 b_2 b_3 \ldots$ such that for all $N \ge 2017$ the number of indices $1 \le i \le N$ for which $s_i \ne b_i$ is less than or equal to $\frac{N}{2017}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_estremalita,method_induzione,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Set of n positive integers whose pairwise GCDs form a set of exactly k elements*
 
-> Let $n \ge 3$ be an integer. Prove that for every integer $k$ with $1 \le k \le \binom{n}{2}$, there exists a set $A$ of $n$ distinct positive integers such that the set
-> $$B = \{\gcd(x,y) : x, y \in A,\; x \ne y\}$$
-> (obtained from the greatest common divisors of all pairs of distinct elements of $A$) contains exactly $k$ distinct elements.
+> Seja $n \ge 3$ um inteiro. Prove que, para todo $k$ inteiro com $1 \le k \le \binom{n}{2}$, existe um conjunto $A$ com $n$ elementos inteiros positivos distintos tais que o conjunto
+> $$B = \{\operatorname{mdc}(x,y) : x, y \in A,\; x \ne y\}$$
+> (obtido a partir do máximo divisor comum de todos os pares de elementos distintos de $A$) contém exatamente $k$ elementos distintos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_induzione|Induction]]
@@ -82,15 +101,31 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Set of n positive integers whose pairwise GCDs form a set of exactly k elements*
+
+> Let $n \ge 3$ be an integer. Prove that for every integer $k$ with $1 \le k \le \binom{n}{2}$, there exists a set $A$ of $n$ distinct positive integers such that the set
+> $$B = \{\gcd(x,y) : x, y \in A,\; x \ne y\}$$
+> (obtained from the greatest common divisors of all pairs of distinct elements of $A$) contains exactly $k$ distinct elements.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_induzione|Induction]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Tangential quadrilateral with inscribed circle; line RT passes through incenter of triangle PQC*
 
-> A quadrilateral $ABCD$ has an inscribed circle $\omega$ and is such that the rays $AB$ and $DC$ meet at a point $P$ and the rays $AD$ and $BC$ meet at a point $Q$. The lines $AC$ and $PQ$ meet at a point $R$. Let $T$ be the point of $\omega$ closest to the line $PQ$. Prove that the line $RT$ passes through the incenter of triangle $PQC$.
+> Um quadrilátero $ABCD$ tem círculo inscrito $\omega$ e é tal que as semirretas $AB$ e $DC$ se cortam no ponto $P$ e as semirretas $AD$ e $BC$ se cortam no ponto $Q$. As retas $AC$ e $PQ$ se cortam no ponto $R$. Seja $T$ o ponto de $\omega$ mais próximo da reta $PQ$. Prove que a reta $RT$ passa pelo incentro do triângulo $PQC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -113,28 +148,41 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Tangential quadrilateral with inscribed circle; line RT passes through incenter of triangle PQC*
+
+> A quadrilateral $ABCD$ has an inscribed circle $\omega$ and is such that the rays $AB$ and $DC$ meet at a point $P$ and the rays $AD$ and $BC$ meet at a point $Q$. The lines $AC$ and $PQ$ meet at a point $R$. Let $T$ be the point of $\omega$ closest to the line $PQ$. Prove that the line $RT$ passes through the incenter of triangle $PQC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,method_estremalita,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Phone unlock pattern on a 3x3 grid: find smallest n so any n-subset of digits admits a valid path*
 
-> In Figures 1 and 2 below we see examples of unlocking a cell-phone screen with a password that is not typed but drawn with line segments. These segments form a polygonal line whose vertices lie on a grid. While drawing the pattern corresponding to the password, the finger must stay in contact with the screen the whole time. The whole polygonal line corresponds to a sequence of digits, and this sequence is in fact the password. The drawing of the polygonal lines obeys the following rules:
-> 
-> i. The drawing starts at one of the highlighted points, which correspond to the digits $1$ to $9$ (Figure 3).
-> 
-> ii. Each segment of the pattern must have, as one of its endpoints (the one where we finish drawing the segment), a point that has not yet been used.
-> 
-> iii. If a segment joins two points and contains a third point (its midpoint), then the digit corresponding to that third point is included in the password. This does not happen when that point/digit has already been used.
-> 
-> iv. Every password has at least four digits.
-> 
-> Thus, every polygonal line is associated with a sequence of four or more digits, which appear in the password in the same order in which they are visited. In Figure 1 above, for example, the password is $218369$, in the case where the first point visited was $2$. Note that the segment joining the points associated with the digits $3$ and $9$ includes the point associated with the digit $6$. If the first point visited were $9$, then the password would be $963812$. If the first point visited were $6$, then the password would be $693812$. Note that $6$ would be skipped, since it could not be repeated. On the other hand, the polygonal line of Figure 2 is associated with a single password.
-> 
-> Determine the smallest $n$ ($n \ge 4$) such that, given any subset of $n$ digits from $1$ to $9$, it is possible to elaborate a password that involves exactly those digits in some order.
-
-![[src_obm_2017_n3_f3__Q04.png]]
+> Vemos, nas figuras 1 e 2 a seguir, exemplos de bloqueio de tela de um telefone celular que só funciona com uma senha que não é digitada, mas desenhada com segmentos de reta. Esses segmentos formam uma linha poligonal com vértices em um reticulado. Ao desenhar o padrão correspondente à senha, o dedo deve permanecer todo o tempo tocando a tela. Toda a linha poligonal corresponde a uma sequência de algarismos e essa sequência é que é, de fato, a senha. O traçado das poligonais obedece às regras a seguir:
+>
+> i. O traçado começa por um dos pontos destacados, os quais correspondem aos algarismos de $1$ a $9$ (figura 3).
+>
+> ii. Cada segmento do padrão deve ter como um dos seus extremos (aquele em que terminamos de traçar o segmento) um ponto que ainda não foi usado.
+>
+> iii. Se um segmento liga dois pontos e contém um terceiro (o seu ponto médio), então o algarismo correspondente a esse terceiro ponto é incluído na senha. Isso não acontece quando esse ponto/algarismo já foi usado.
+>
+> iv. Toda senha tem pelo menos quatro algarismos.
+>
+> Assim, toda linha poligonal é associada a uma sequência de quatro ou mais algarismos, os quais aparecem na senha na mesma ordem em que são visitados. Na figura 1 acima, por exemplo, a senha é $218369$, caso o primeiro ponto visitado tenha sido o $2$. Note que o segmento ligando os pontos associados aos algarismos $3$ e $9$ inclui o ponto associado ao algarismo $6$. Se o primeiro ponto visitado fosse o $9$, então a senha seria $963812$. Se o primeiro ponto visitado fosse o $6$, então a senha seria $693812$. Note que o $6$ seria pulado, já que não poderia repetir. Por outro lado, a linha poligonal da figura 2 é associada a uma única senha.
+>
+> Determine o menor $n$ ($n \ge 4$) tal que dado qualquer subconjunto de $n$ algarismos de $1$ a $9$ é possível elaborar uma senha que envolva exatamente esses algarismos em alguma ordem.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
@@ -171,15 +219,43 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Phone unlock pattern on a 3x3 grid: find smallest n so any n-subset of digits admits a valid path*
+
+> In Figures 1 and 2 below we see examples of unlocking a cell-phone screen with a password that is not typed but drawn with line segments. These segments form a polygonal line whose vertices lie on a grid. While drawing the pattern corresponding to the password, the finger must stay in contact with the screen the whole time. The whole polygonal line corresponds to a sequence of digits, and this sequence is in fact the password. The drawing of the polygonal lines obeys the following rules:
+> 
+> i. The drawing starts at one of the highlighted points, which correspond to the digits $1$ to $9$ (Figure 3).
+> 
+> ii. Each segment of the pattern must have, as one of its endpoints (the one where we finish drawing the segment), a point that has not yet been used.
+> 
+> iii. If a segment joins two points and contains a third point (its midpoint), then the digit corresponding to that third point is included in the password. This does not happen when that point/digit has already been used.
+> 
+> iv. Every password has at least four digits.
+> 
+> Thus, every polygonal line is associated with a sequence of four or more digits, which appear in the password in the same order in which they are visited. In Figure 1 above, for example, the password is $218369$, in the case where the first point visited was $2$. Note that the segment joining the points associated with the digits $3$ and $9$ includes the point associated with the digit $6$. If the first point visited were $9$, then the password would be $963812$. If the first point visited were $6$, then the password would be $693812$. Note that $6$ would be skipped, since it could not be repeated. On the other hand, the polygonal line of Figure 2 is associated with a single password.
+> 
+> Determine the smallest $n$ ($n \ge 4$) such that, given any subset of $n$ digits from $1$ to $9$, it is possible to elaborate a password that involves exactly those digits in some order.
+
+![[src_obm_2017_n3_f3__Q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Lines through midpoints perpendicular to internal bisectors; circumcenter of resulting triangle is midpoint of HI*
 
-> In triangle $ABC$, let $r_A$ be the line passing through the midpoint of $BC$ and perpendicular to the internal bisector of $\angle BAC$. Define $r_B$ and $r_C$ in the same way. Let $H$ and $I$ be the orthocenter and the incenter of $ABC$, respectively. Suppose that the three lines $r_A$, $r_B$, $r_C$ define a triangle. Prove that the circumcenter of this triangle is the midpoint of $HI$.
+> No triângulo $ABC$, seja $r_A$ a reta que passa pelo ponto médio de $BC$ e é perpendicular à bissetriz interna de $\angle BAC$. Defina $r_B$ e $r_C$ da mesma forma. Sejam $H$ e $I$ o ortocentro e o incentro de $ABC$, respectivamente. Suponha que as três retas $r_A$, $r_B$, $r_C$ definam um triângulo. Prove que o circuncentro desse triângulo é o ponto médio de $HI$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -202,14 +278,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Lines through midpoints perpendicular to internal bisectors; circumcenter of resulting triangle is midpoint of HI*
+
+> In triangle $ABC$, let $r_A$ be the line passing through the midpoint of $BC$ and perpendicular to the internal bisector of $\angle BAC$. Define $r_B$ and $r_C$ in the same way. Let $H$ and $I$ be the orthocenter and the incenter of $ABC$, respectively. Suppose that the three lines $r_A$, $r_B$, $r_C$ define a triangle. Prove that the circumcenter of this triangle is the midpoint of $HI$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prime divisor p of a^3-3a+1 with p not 3 has the form 9k+1 or 9k-1*
 
-> Let $a$ be a positive integer and $p$ a prime divisor of $a^3 - 3a + 1$ with $p \ne 3$. Prove that $p$ is of the form $9k + 1$ or $9k - 1$, with $k$ an integer.
+> Seja $a$ inteiro positivo e $p$ um divisor primo de $a^3 - 3a + 1$ com $p \ne 3$. Prove que $p$ é da forma $9k + 1$ ou $9k - 1$, sendo $k$ inteiro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
@@ -229,3 +320,18 @@ level: OBM Nível 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prime divisor p of a^3-3a+1 with p not 3 has the form 9k+1 or 9k-1*
+
+> Let $a$ be a positive integer and $p$ a prime divisor of $a^3 - 3a + 1$ with $p \ne 3$. Prove that $p$ is of the form $9k + 1$ or $9k - 1$, with $k$ an integer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)

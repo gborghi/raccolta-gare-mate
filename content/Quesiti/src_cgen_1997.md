@@ -67,14 +67,14 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Maximize the volume of a right cylinder inscribed in a capsule formed by a sphere and a cone sharing the same axis*
 
-> A space capsule has the shape of the solid of revolution bounded by a sphere of center $O$ and radius $R$, and a cone with apex $O$ which meets this sphere along a circle of radius $r$.
-> 
-> What is the maximal volume of a right cylinder contained in this capsule, the cylinder and the capsule having the same axis of revolution?
+> Une capsule spatiale a la forme du solide de révolution délimité par une sphère de centre $O$, de rayon $R$, et un cône de sommet $O$ qui rencontre cette sphère selon un cercle de rayon $r$.
+>
+> Quel est le volume maximal d’un cylindre droit contenu dans cette capsule, le cylindre et la capsule ayant même axe de révolution ?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -96,6 +96,22 @@ level: Concours Général
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximize the volume of a right cylinder inscribed in a capsule formed by a sphere and a cone sharing the same axis*
+
+> A space capsule has the shape of the solid of revolution bounded by a sphere of center $O$ and radius $R$, and a cone with apex $O$ which meets this sphere along a circle of radius $r$.
+> 
+> What is the maximal volume of a right cylinder contained in this capsule, the cylinder and the capsule having the same axis of revolution?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
 
@@ -223,7 +239,40 @@ level: Concours Général
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*For a fixed oriented angle alpha, find the locus Gamma of point C seeing AB under that angle, show the centroid G and incenter I describe arcs, then choose C minimizing GI and maximize that minimum over alpha*
+
+> Dans le plan, soient $A$ et $B$ deux points distincts. Pour tout point $C$ extérieur à la droite $(AB)$, on note $G$ l’isobarycentre du triangle $ABC$ et $I$ le centre de son cercle inscrit.
+>
+> 1. Soit $\alpha$ un réel tel que $0 < \alpha < \pi$. Quel est l’ensemble $\Gamma$ des points $C$ tels que
+> $$\left(\overrightarrow{CA},\ \overrightarrow{CB}\right) = \alpha + 2k\pi,$$
+> $k$ étant un entier ? Lorsque $C$ décrit $\Gamma$, montrer que $G$ et $I$ décrivent deux arcs de cercle que l’on précisera.
+>
+> 2. On suppose désormais que $\dfrac{\pi}{3} < \alpha < \pi$. Comment doit-on choisir $C$ dans $\Gamma$ pour que la distance $GI$ soit minimale ?
+>
+> 3. On note $f(\alpha)$ la distance minimale $GI$ de la question précédente. Expliciter $f(\alpha)$ en fonction de $a = AB$ et $\alpha$. Déterminer la valeur maximale de $f(\alpha)$ lorsque $\alpha$ décrit $\left]\dfrac{\pi}{3};\ \pi\right[$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Fissati A, B e un angolo orientato α, luogo del punto C che vede il segmento AB sotto l'angolo α; archi descritti dal baricentro G e dall'incentro I; scelta di C che minimizza GI e massimo di tale minimo al variare di α.*
+> Nel piano, $A$ e $B$ siano due punti distinti. Per ogni punto $C$ esterno alla linea $(AB)$, indicare con $G$ l'isobaricentro (centroid) del triangolo $ABC$ e con $I$ il centro del suo cerchio inciso. \textbf{1.} $\alpha$ sia un numero reale tale che $0 < \alpha < \pi$. Qual è l'insieme $\Gamma$ dei punti $C$ in modo che $$\left(\overrightarrow{CA},\ \overrightarrow{CB}\right) = \alpha + 2k\pi,$$ $k$ sia un numero intero? Quando $C$ descrive $\Gamma$, mostrare che $G$ e $I$ descrivono due archi di un cerchio, che si specificherà. \textbf{2.} Supponiamo ora che $\dfrac{\pi}{3} < \alpha < \pi$. Come si deve scegliere $C$ in $\Gamma$ in modo che la distanza $GI$ sia minima? \textbf{3.} Denotare con $f(\alpha)$ la distanza minima $GI$ della domanda precedente. Esprimere $f(\alpha)$ in termini di $a = AB$ e $\alpha$. Determinare il valore massimo di $f(\alpha)$ quando $\alpha$ descrive $\left]\dfrac{\pi}{3};\ \pi\right[$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For a fixed oriented angle alpha, find the locus Gamma of point C seeing AB under that angle, show the centroid G and incenter I describe arcs, then choose C minimizing GI and maximize that minimum over alpha*
@@ -240,16 +289,3 @@ level: Concours Général
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Per un angolo alfa orientato fisso, trovare il locus Gamma del punto C vedendo AB sotto quell'angolo, mostrare il centroid G e incenter descrivo archi, quindi scegliere C minimizzando GI e massimizzare quel minimo su alfa*
-
-> Nel piano, $A$ e $B$ siano due punti distinti. Per ogni punto $C$ esterno alla linea $(AB)$, indicare con $G$ l'isobaricentro (centroid) del triangolo $ABC$ e con $I$ il centro del suo cerchio inciso. \textbf{1.} $\alpha$ sia un numero reale tale che $0 < \alpha < \pi$. Qual è l'insieme $\Gamma$ dei punti $C$ in modo che $$\left(\overrightarrow{CA},\ \overrightarrow{CB}\right) = \alpha + 2k\pi,$$ $k$ sia un numero intero? Quando $C$ descrive $\Gamma$, mostrare che $G$ e $I$ descrivono due archi di un cerchio, che si specificherà. \textbf{2.} Supponiamo ora che $\dfrac{\pi}{3} < \alpha < \pi$. Come si deve scegliere $C$ in $\Gamma$ in modo che la distanza $GI$ sia minima? \textbf{3.} Denotare con $f(\alpha)$ la distanza minima $GI$ della domanda precedente. Esprimere $f(\alpha)$ in termini di $a = AB$ e $\alpha$. Determinare il valore massimo di $f(\alpha)$ quando $\alpha$ descrive $\left]\dfrac{\pi}{3};\ \pi\right[$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]

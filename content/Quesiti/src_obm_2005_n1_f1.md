@@ -12,15 +12,16 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Divisibility by 13 from a product identity*
 
-> Knowing that $9{,}174{,}532 \times 13 = 119{,}268{,}916$, one can conclude that $13$ divides the number:
-> 
-> A) $119{,}268{,}903$ \quad B) $119{,}268{,}907$ \quad C) $119{,}268{,}911$
-> D) $119{,}268{,}913$ \quad E) $119{,}268{,}923$
+> Sabendo-se que $9\,174\,532 \times 13 = 119\,268\,916$, pode-se concluir que é divisível por 13 o número:
+>
+> A) $119\,268\,903$ \quad B) $119\,268\,907$ \quad C) $119\,268\,911$
+>
+> D) $119\,268\,913$ \quad E) $119\,268\,923$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -47,20 +48,43 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Divisibility by 13 from a product identity*
+
+> Knowing that $9{,}174{,}532 \times 13 = 119{,}268{,}916$, one can conclude that $13$ divides the number:
+> 
+> A) $119{,}268{,}903$ \quad B) $119{,}268{,}907$ \quad C) $119{,}268{,}911$
+> D) $119{,}268{,}913$ \quad E) $119{,}268{,}923$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Deducing color of removed marbles from a box*
 
-> A box contains 3 red marbles, 2 white marbles, and 1 black marble. Professor Piraldo removed 3 marbles from the box. Knowing that none of the removed marbles is black, we can say about the 3 removed marbles that:
-> 
-> A) they are all the same color.
-> B) they are all red.
-> C) one is red and two are white.
-> D) one is white and two are red.
-> E) at least one is red.
+> Numa caixa havia 3 meias vermelhas, 2 brancas e 1 preta. Professor Piraldo retirou 3 meias da caixa. Sabendo-se que nenhuma delas era preta, podemos afirmar sobre as 3 meias retiradas que:
+>
+> A) são da mesma cor.
+>
+> B) são vermelhas.
+>
+> C) uma é vermelha e duas são brancas.
+>
+> D) uma é branca e duas são vermelhas.
+>
+> E) pelo menos uma é vermelha.
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -90,17 +114,38 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Deducing color of removed marbles from a box*
+
+> A box contains 3 red marbles, 2 white marbles, and 1 black marble. Professor Piraldo removed 3 marbles from the box. Knowing that none of the removed marbles is black, we can say about the 3 removed marbles that:
+> 
+> A) they are all the same color.
+> B) they are all red.
+> C) one is red and two are white.
+> D) one is white and two are red.
+> E) at least one is red.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Percentage of pulp after mixing juice and water*
 
-> Diamantino placed three litres of water and one litre of juice (composed of $20\%$ pulp and $80\%$ water) into a container. After mixing everything, what percentage of the total volume is pulp?
-> 
-> A) $5\%$ \quad B) $7\%$ \quad C) $8\%$ \quad D) $20\%$ \quad E) $60\%$
+> Diamantino colocou em um recipiente três litros de água e um litro de suco composto de 20% de polpa e 80% de água. Depois de misturar tudo, que porcentagem do volume final é polpa?
+>
+> A) 5% \quad B) 7% \quad C) 8% \quad D) 20% \quad E) 60%
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
@@ -124,17 +169,33 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Percentage of pulp after mixing juice and water*
+
+> Diamantino placed three litres of water and one litre of juice (composed of $20\%$ pulp and $80\%$ water) into a container. After mixing everything, what percentage of the total volume is pulp?
+> 
+> A) $5\%$ \quad B) $7\%$ \quad C) $8\%$ \quad D) $20\%$ \quad E) $60\%$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Difference between one billion and one million of millions*
 
-> Asked, Arnaldo says that one billion is the same as one million of millions. Professor Piraldo corrects him and says that $1$ billion equals one thousand of millions. What is the difference between these two quantities?
-> 
-> A) $1{,}000$ \quad B) $999{,}000$ \quad C) $1{,}000{,}000$ \quad D) $999{,}000{,}000$ \quad E) $999{,}000{,}000{,}000$
+> Perguntado, Arnaldo diz que 1 bilhão é o mesmo que um milhão de milhões. Professor Piraldo o corrigiu e disse que 1 bilhão é o mesmo que mil milhões. Qual é a diferença entre essas duas respostas?
+>
+> A) $1\,000$ \quad B) $999\,000$ \quad C) $1\,000\,000$ \quad D) $999\,000\,000$ \quad E) $999\,000\,000\,000$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -158,16 +219,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Difference between one billion and one million of millions*
+
+> Asked, Arnaldo says that one billion is the same as one million of millions. Professor Piraldo corrects him and says that $1$ billion equals one thousand of millions. What is the difference between these two quantities?
+> 
+> A) $1{,}000$ \quad B) $999{,}000$ \quad C) $1{,}000{,}000$ \quad D) $999{,}000{,}000$ \quad E) $999{,}000{,}000{,}000$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sixth term of a sequence where each term equals sum of two previous*
 
-> In a sequence, each term from the third onward is the sum of the two preceding terms. The second term equals $1$ and the fifth term equals $2005$. What is the sixth term?
-> 
-> A) $3{,}002$ \quad B) $3{,}008$ \quad C) $3{,}010$ \quad D) $4{,}002$ \quad E) $5{,}004$
+> Numa seqüência, cada termo, a partir do terceiro, é a soma dos dois termos anteriores mais próximos. O segundo termo é igual a 1 e o quinto termo vale 2005. Qual é o sexto termo?
+>
+> A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
@@ -193,17 +271,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sixth term of a sequence where each term equals sum of two previous*
+
+> In a sequence, each term from the third onward is the sum of the two preceding terms. The second term equals $1$ and the fifth term equals $2005$. What is the sixth term?
+> 
+> A) $3{,}002$ \quad B) $3{,}008$ \quad C) $3{,}010$ \quad D) $4{,}002$ \quad E) $5{,}004$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of bees if 10 gallons shared among 7 million km trips*
 
-> One gallon of honey provides enough energy for one bee to fly $7$ million kilometres. If $10$ gallons of honey were shared among all the bees, how many bees could share them?
-> 
-> A) $7{,}000$ \quad B) $70{,}000$ \quad C) $700{,}000$ \quad D) $7{,}000{,}000$ \quad E) $70{,}000{,}000$
+> Um galão de mel fornece energia suficiente para uma abelha voar 7 milhões de quilômetros. Quantas abelhas iguais a ela conseguiriam voar mil quilômetros se houvesse 10 galões de mel para serem compartilhados entre elas?
+>
+> A) $7\,000$ \quad B) $70\,000$ \quad C) $700\,000$ \quad D) $7\,000\,000$ \quad E) $70\,000\,000$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -227,16 +322,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of bees if 10 gallons shared among 7 million km trips*
+
+> One gallon of honey provides enough energy for one bee to fly $7$ million kilometres. If $10$ gallons of honey were shared among all the bees, how many bees could share them?
+> 
+> A) $7{,}000$ \quad B) $70{,}000$ \quad C) $700{,}000$ \quad D) $7{,}000{,}000$ \quad E) $70{,}000{,}000$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Population sum three years ago given current growth data*
 
-> Three years ago, the population of Pirajussara was equal to the population of Tucupira today. Since then, the population of Pirajussara has not changed, while the population of Tucupira grew by $50\%$. Currently, both cities together have $9{,}000$ inhabitants. What was the sum of the populations of the two cities three years ago?
-> 
-> A) $3{,}600$ \quad B) $4{,}500$ \quad C) $5{,}000$ \quad D) $6{,}000$ \quad E) $7{,}500$
+> Três anos atrás, a população de Pirajussaraí era igual à população que Tucupira tem hoje. De lá para cá, a população de Pirajussaraí não mudou mas a população de Tucupira cresceu 50%. Atualmente, as duas cidades somam 9000 habitantes. Há três anos, qual era a soma das duas populações?
+>
+> A) $3\,600$ \quad B) $4\,500$ \quad C) $5\,000$ \quad D) $6\,000$ \quad E) $7\,500$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -260,17 +372,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Population sum three years ago given current growth data*
+
+> Three years ago, the population of Pirajussara was equal to the population of Tucupira today. Since then, the population of Pirajussara has not changed, while the population of Tucupira grew by $50\%$. Currently, both cities together have $9{,}000$ inhabitants. What was the sum of the populations of the two cities three years ago?
+> 
+> A) $3{,}600$ \quad B) $4{,}500$ \quad C) $5{,}000$ \quad D) $6{,}000$ \quad E) $7{,}500$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_disuguaglianze,method_casework,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Loss value from a fraction of total crop revenue*
 
-> A farmer expected to receive about $100{,}000$ reais from the sale of his harvest. However, a lack of rain caused a loss in the harvest valued at $\frac{1}{5}$ to $\frac{1}{4}$ of the total expected. Which of the following values could represent the farmer's loss?
-> 
-> A) R\$\,21{,}987.53 \quad B) R\$\,34{,}000.00 \quad C) R\$\,44{,}999.99
-> D) R\$\,21{,}987.53 \quad E) R\$\,60{,}000.00
+> Um agricultor esperava receber cerca de 100 mil reais pela venda de sua safra. Entretanto, a falta de chuva provocou uma perda da safra avaliada entre $\frac{1}{5}$ e $\frac{1}{4}$ do total previsto. Qual dos valores a seguir pode representar a perda do agricultor?
+>
+> A) R\$ 21.987,53 \quad B) R\$ 34.900,00 \quad C) R\$ 44.999,99
+>
+> D) R\$ 51.987,53 \quad E) R\$ 60.000,00
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Case analysis]]
@@ -297,16 +427,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Loss value from a fraction of total crop revenue*
+
+> A farmer expected to receive about $100{,}000$ reais from the sale of his harvest. However, a lack of rain caused a loss in the harvest valued at $\frac{1}{5}$ to $\frac{1}{4}$ of the total expected. Which of the following values could represent the farmer's loss?
+> 
+> A) R\$\,21{,}987.53 \quad B) R\$\,34{,}000.00 \quad C) R\$\,44{,}999.99
+> D) R\$\,21{,}987.53 \quad E) R\$\,60{,}000.00
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Blank pages in a 600-page book printed in multiples of 3 and 5*
 
-> Due to a printing defect, in a $600$-page book all pages whose numbers are multiples of $3$ or $5$ appear blank. How many pages are blank?
-> 
+> Devido a um defeito de impressão, um livro de $600$ páginas apresenta em branco todas as páginas cujos números são múltiplos de $3$ ou de $4$. Quantas páginas estão impressas?
+>
 > A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -333,18 +481,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Blank pages in a 600-page book printed in multiples of 3 and 5*
+
+> Due to a printing defect, in a $600$-page book all pages whose numbers are multiples of $3$ or $5$ appear blank. How many pages are blank?
+> 
+> A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of large rectangle formed by six identical small rectangles*
 
-> Six identical rectangles are put together to form a larger rectangle as shown in the figure. What is the area of the larger rectangle?
-> 
+> Seis retângulos idênticos são reunidos para formar um retângulo maior conforme indicado na figura. Qual é a área deste retângulo maior?
+>
 > A) $210\text{ cm}^2$ \quad B) $280\text{ cm}^2$ \quad C) $430\text{ cm}^2$ \quad D) $504\text{ cm}^2$ \quad E) $588\text{ cm}^2$
-
-![[src_obm_2005_n1_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -372,19 +536,36 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of large rectangle formed by six identical small rectangles*
+
+> Six identical rectangles are put together to form a larger rectangle as shown in the figure. What is the area of the larger rectangle?
+> 
+> A) $210\text{ cm}^2$ \quad B) $280\text{ cm}^2$ \quad C) $430\text{ cm}^2$ \quad D) $504\text{ cm}^2$ \quad E) $588\text{ cm}^2$
+
+![[src_obm_2005_n1_f1__Q10.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_logica,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Mirror image of clock showing 2h23min*
 
-> Professor Piraldo's clock is precise but different: its hands move counter-clockwise. If you look at the clock in a mirror when it shows $2{:}23$, which of the following images would you see?
-> 
+> O relógio do professor Piraldo, embora preciso, é diferente, pois seus ponteiros se movem no sentido anti-horário. Se você olhar no espelho o relógio quando ele estiver marcando 2h23min, qual das seguintes imagens você verá?
+>
 > A) \quad B) \quad C) \quad D) \quad E)
-
-![[src_obm_2005_n1_f1__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -412,18 +593,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Mirror image of clock showing 2h23min*
+
+> Professor Piraldo's clock is precise but different: its hands move counter-clockwise. If you look at the clock in a mirror when it shows $2{:}23$, which of the following images would you see?
+> 
+> A) \quad B) \quad C) \quad D) \quad E)
+
+![[src_obm_2005_n1_f1__Q11.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fraction of square decorative plate that is painted*
 
-> A decorative plate consists of a square with side $4$ metres, painted in a symmetric pattern with some stripes, as shown in the figure. What fraction of the plate's area is painted?
-> 
+> Uma placa decorativa consiste num quadrado de $4$ metros de lado, pintada de forma simétrica com algumas faixas, conforme indicações no desenho ao lado. Qual é a fração da área da placa que foi pintada?
+>
 > A) $\dfrac{1}{2}$ \quad B) $\dfrac{1}{3}$ \quad C) $\dfrac{3}{8}$ \quad D) $\dfrac{6}{13}$ \quad E) $\dfrac{7}{11}$
-
-![[src_obm_2005_n1_f1__Q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -451,16 +650,35 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fraction of square decorative plate that is painted*
+
+> A decorative plate consists of a square with side $4$ metres, painted in a symmetric pattern with some stripes, as shown in the figure. What fraction of the plate's area is painted?
+> 
+> A) $\dfrac{1}{2}$ \quad B) $\dfrac{1}{3}$ \quad C) $\dfrac{3}{8}$ \quad D) $\dfrac{6}{13}$ \quad E) $\dfrac{7}{11}$
+
+![[src_obm_2005_n1_f1__Q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Transparency reduction combining two solar-film layers*
 
-> Insulation films are used on windows of buildings and vehicle glass to reduce solar radiation. Films are rated by their transparency percentage, i.e., the percentage of solar radiation they let through. Placing a film of $70\%$ transparency on a glass of $90\%$ transparency, the resulting reduction in radiation equals:
-> 
+> Películas de insulfilm são utilizadas em janelas de edifícios e vidros de veículos para reduzir a radiação solar. As películas são classificadas de acordo com seu grau de transparência, ou seja, com o percentual da radiação solar que ela deixa passar. Colocando-se uma película de $70\%$ de transparência sobre um vidro com $90\%$ de transparência, obtém-se uma redução de radiação solar igual a:
+>
 > A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -485,19 +703,33 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Transparency reduction combining two solar-film layers*
+
+> Insulation films are used on windows of buildings and vehicle glass to reduce solar radiation. Films are rated by their transparency percentage, i.e., the percentage of solar radiation they let through. Placing a film of $70\%$ transparency on a glass of $90\%$ transparency, the resulting reduction in radiation equals:
+> 
+> A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Angle x between two equilateral triangles sharing a side*
 
-> In the figure, the two triangles are equilateral. What is the value of angle $x$?
-> 
+> Na figura, os dois triângulos são eqüiláteros. Qual é o valor do ângulo $x$?
+>
 > A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
-
-![[src_obm_2005_n1_f1__Q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -525,19 +757,36 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Angle x between two equilateral triangles sharing a side*
+
+> In the figure, the two triangles are equilateral. What is the value of angle $x$?
+> 
+> A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
+
+![[src_obm_2005_n1_f1__Q14.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Final shape of a repeating metal-strip panel*
 
-> A blacksmith welds metal strips to produce identical pieces that will be joined to make the panel shown below. The drawing gives the measurements, in centimetres, of one of the pieces. The blacksmith uses exactly $20$ metres of strip to make his work. Which of the drawings below represents the final panel?
-> 
+> Um serralheiro solda varetas de metal para produzir peças iguais que serão juntadas para formar o painel abaixo. O desenho ao lado apresenta as medidas, em centímetros, de uma dessas peças. O serralheiro usa exatamente $20$ metros de vareta para fazer o seu trabalho. Qual dos desenhos abaixo representa o final do painel?
+>
 > A) \quad B) \quad C) \quad D) \quad E)
-
-![[src_obm_2005_n1_f1__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -565,20 +814,38 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Final shape of a repeating metal-strip panel*
+
+> A blacksmith welds metal strips to produce identical pieces that will be joined to make the panel shown below. The drawing gives the measurements, in centimetres, of one of the pieces. The blacksmith uses exactly $20$ metres of strip to make his work. Which of the drawings below represents the final panel?
+> 
+> A) \quad B) \quad C) \quad D) \quad E)
+
+![[src_obm_2005_n1_f1__Q15.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_grafi,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of numbers in white circles with adjacency and square constraints*
 
-> From the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9, 10$, choose some and place them in the white circles so that the sum of the two numbers in any two neighbouring circles is always a perfect square. Note: $2$ has already been placed in one of the circles and it is not allowed to place repeated numbers; also, circles separated by the black rectangle are not neighbours.
-> 
-> What is the sum of the numbers placed in all the white circles?
-> 
+> Dentre os números $1, 2, 3, 4, 5, 6, 7, 8, 9$ e $10$, escolha alguns e coloque-os nos círculos brancos de tal forma que a soma dos números em dois círculos vizinhos seja sempre um quadrado perfeito. Atenção: o $2$ já foi colocado em um dos círculos e não é permitido colocar números repetidos; além disso, círculos separados pelo retângulo preto não são vizinhos.
+>
+> A soma dos números colocados em todos os círculos brancos é:
+>
 > A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
-
-![[src_obm_2005_n1_f1__Q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -608,19 +875,38 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of numbers in white circles with adjacency and square constraints*
+
+> From the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9, 10$, choose some and place them in the white circles so that the sum of the two numbers in any two neighbouring circles is always a perfect square. Note: $2$ has already been placed in one of the circles and it is not allowed to place repeated numbers; also, circles separated by the black rectangle are not neighbours.
+> 
+> What is the sum of the numbers placed in all the white circles?
+> 
+> A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
+
+![[src_obm_2005_n1_f1__Q16.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_logica,method_backward,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of squares needed to balance the last scale*
 
-> Figures of the same shape represent objects of the same mass. How many squares are needed to balance the last scale?
-> 
+> Figuras com mesma forma representam objetos de mesma massa. Quantos quadrados são necessários para que a última balança fique em equilíbrio?
+>
 > A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
-
-![[src_obm_2005_n1_f1__Q17.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
 **Metodo:** [[method_backward|Working backwards]]
@@ -648,16 +934,35 @@ level: OBM Nível 1
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of squares needed to balance the last scale*
+
+> Figures of the same shape represent objects of the same mass. How many squares are needed to balance the last scale?
+> 
+> A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
+
+![[src_obm_2005_n1_f1__Q17.png]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of two consecutive two-digit perfect-square numbered chairs*
 
-> The $10$ chairs of a round table were numbered with consecutive two-digit numbers, among which there are exactly two that are perfect squares. Carlos sat in the chair with the largest number and Janaína, his girlfriend, sat in the chair with the smallest number. What is the sum of the numbers of these two chairs?
-> 
+> As $10$ cadeiras de uma mesa circular foram numeradas com números consecutivos de dois algarismos, entre os quais há dois que são quadrados perfeitos. Carlos sentou-se na cadeira com o maior número e Janaína, sua namorada, sentou-se na cadeira com o menor número. Qual é a soma dos números dessas duas cadeiras?
+>
 > A) $29$ \quad B) $36$ \quad C) $37$ \quad D) $41$ \quad E) $64$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -684,15 +989,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of two consecutive two-digit perfect-square numbered chairs*
+
+> The $10$ chairs of a round table were numbered with consecutive two-digit numbers, among which there are exactly two that are perfect squares. Carlos sat in the chair with the largest number and Janaína, his girlfriend, sat in the chair with the smallest number. What is the sum of the numbers of these two chairs?
+> 
+> A) $29$ \quad B) $36$ \quad C) $37$ \quad D) $41$ \quad E) $64$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum number of months in a year with five Sundays*
 
-> In a year, at most how many months can have five Sundays?
-> 
+> Em um ano, no máximo quantos meses têm cinco domingos?
+>
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -719,15 +1042,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum number of months in a year with five Sundays*
+
+> In a year, at most how many months can have five Sundays?
+> 
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_logica,method_colorazione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum colors to paint 3x3 grid with no row/column/diagonal repeat*
 
-> The nine cells of a $3 \times 3$ board must be painted so that no two cells of the same colour appear in the same column, the same row, or either of the two main diagonals. What is the minimum number of colours needed?
-> 
+> As nove casas de um tabuleiro $3 \times 3$ devem ser pintadas de foram que cada coluna, cada linha e cada uma das duas diagonais não tenham duas casas de mesma cor. Qual é o menor número de cores necessárias para isso?
+>
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
@@ -751,3 +1092,21 @@ level: OBM Nível 1
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum colors to paint 3x3 grid with no row/column/diagonal repeat*
+
+> The nine cells of a $3 \times 3$ board must be painted so that no two cells of the same colour appear in the same column, the same row, or either of the two main diagonals. What is the minimum number of colours needed?
+> 
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)

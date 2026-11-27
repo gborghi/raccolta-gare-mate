@@ -294,9 +294,7 @@ level: CAMP Selection Camp
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Due circonferenze circoscritte tangenti in una configurazione incentro/excentro A*
-
+*Due circonferenze circoscritte tangenti in una configurazione con incentro e excentro relativo ad A.*
 > Sia $\triangle ABC$ un triangolo acuto con $AB < AC$. Sia $I$ il suo incentro e sia $I_A$ l'escentro che giace all'interno dell'angolo $A$ (l'escentro relativo a $A$). L'incirconferenza di $\triangle ABC$ tocca il lato $BC$ nel punto $D$. La retta $AD$ incontra la retta $BI_A$ in $E$ e la retta $CI_A$ in $F$. Dimostrare che la circonferenza circoscritta di $\triangle AID$ e la circonferenza circoscritta di $\triangle I_A E F$ sono tangenti tra loro. (Qui $XY$ denota la lunghezza del segmento $XY$; l'incirconferenza è la circonferenza che, tra le circonferenze tangenti alla retta $BC$, alla retta $AB$ e alla retta $AC$, è tangente internamente.)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]

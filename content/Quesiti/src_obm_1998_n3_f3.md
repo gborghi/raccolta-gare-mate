@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_cassetti,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *15 pairwise-coprime integers in (1,1998); show one is prime*
 
-> Fifteen natural numbers greater than $1$ and less than $1998$ are given such that any two of them are relatively prime. Show that at least one of these fifteen numbers is prime.
+> São dados 15 números naturais maiores que 1 e menores que 1998 tais que dois quaisquer são primos entre si. Mostre que pelo menos um desses 15 números é primo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Principio dei cassetti]]
@@ -40,14 +40,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*15 pairwise-coprime integers in (1,1998); show one is prime*
+
+> Fifteen natural numbers greater than $1$ and less than $1998$ are given such that any two of them are relatively prime. Show that at least one of these fifteen numbers is prime.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triangle with D midpoint of AB, E on BC with BE=2EC, equal angles; find angle BAC*
 
-> In triangle $ABC$, $D$ is the midpoint of $AB$ and $E$ is the point on side $BC$ such that $BE = 2 \cdot EC$. Given that the angles $\widehat{ADC}$ and $\widehat{BAE}$ are equal, find the angle $\widehat{BAC}$.
+> No triângulo $ABC$, $D$ é o ponto médio de $AB$ e $E$ o ponto do lado $BC$ tal que $BE = 2 \cdot EC$. Dado que os ângulos $\widehat{ADC}$ e $\widehat{BAE}$ são iguais, encontre o ângulo $\widehat{BAC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -70,15 +85,37 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle with D midpoint of AB, E on BC with BE=2EC, equal angles; find angle BAC*
+
+> In triangle $ABC$, $D$ is the midpoint of $AB$ and $E$ is the point on side $BC$ such that $BE = 2 \cdot EC$. Given that the angles $\widehat{ADC}$ and $\widehat{BAE}$ are equal, find the angle $\widehat{BAC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,topic_logica,method_casework,method_estremalita,method_congruenze,method_backward,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two-player number game with n rounds and increment t; gcd scoring; determine the winner*
 
-> Two people play a game described as follows. Initially they choose two natural numbers $n \ge 2$ (the number of rounds) and $t \ge 1$ (the maximum increment). In the first round, player $A$ chooses a natural number $m_1 > 0$ and, afterwards, player $B$ chooses a natural number $n_1$ with $0 < n_1 < m_1$. In round $k$, for $2 \le k \le n$, player $A$ chooses a natural number $m_k$ with $n_{k-1} < m_k \le n_{k-1} + t$ and, afterwards, player $B$ chooses a natural number $n_k$ with $m_k < n_k \le m_k + t$. After these choices, in round $k$, player $A$ gains $\mathrm{mdc}(m_k, n_{k-1})$ points and player $B$ gains $\mathrm{mdc}(m_k, n_k)$ points. The player who gains the larger total number of points at the end of the $n$ rounds is considered the winner. In case of equal total scores, player $A$ is considered the winner. For each choice of $n$ and $t$, determine which of the two players has a winning strategy.
+> Duas pessoas disputam um jogo da maneira descrita a seguir.
+>
+> Inicialmente escolhem dois números naturais: $n \ge 2$ (o número de rodadas) e $t \ge 1$ (o incremento máximo).
+>
+> Na primeira rodada o jogador $A$ escolhe um natural $m_1 > 0$ e, posteriormente, o jogador $B$ escolhe um natural positivo $n_1 \neq m_1$.
+>
+> Para $2 \le k \le n$, na rodada $k$ o jogador $A$ escolhe um natural $m_k$ com $m_{k-1} < m_k \le m_{k-1} + t$ e posteriormente o jogador $B$ escolhe um natural $n_k$ com $n_{k-1} < n_k \le n_{k-1} + t$. Após essas escolhas, nessa $k$-ésima rodada, o jogador $A$ ganha $\mathrm{mdc}(m_k, n_{k-1})$ pontos e o jogador $B$ ganha $\mathrm{mdc}(m_k, n_k)$ pontos. Ganha o jogo o jogador com maior pontuação total ao fim das $n$ rodadas. Em caso de pontuações totais iguais o jogador $A$ é considerado vencedor.
+>
+> Para cada escolha de $n$ e $t$, determine qual dos jogadores possui estratégia vencedora.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_backward|Working backwards]]
@@ -101,15 +138,33 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two-player number game with n rounds and increment t; gcd scoring; determine the winner*
+
+> Two people play a game described as follows. Initially they choose two natural numbers $n \ge 2$ (the number of rounds) and $t \ge 1$ (the maximum increment). In the first round, player $A$ chooses a natural number $m_1 > 0$ and, afterwards, player $B$ chooses a natural number $n_1$ with $0 < n_1 < m_1$. In round $k$, for $2 \le k \le n$, player $A$ chooses a natural number $m_k$ with $n_{k-1} < m_k \le n_{k-1} + t$ and, afterwards, player $B$ chooses a natural number $n_k$ with $m_k < n_k \le m_k + t$. After these choices, in round $k$, player $A$ gains $\mathrm{mdc}(m_k, n_{k-1})$ points and player $B$ gains $\mathrm{mdc}(m_k, n_k)$ points. The player who gains the larger total number of points at the end of the $n$ rounds is considered the winner. In case of equal total scores, player $A$ is considered the winner. For each choice of $n$ and $t$, determine which of the two players has a winning strategy.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_logica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two-player quadratic-coefficient game using two integers and 1998; first player forces two distinct rational roots*
 
-> Two boys play the following game. The first chooses two distinct nonzero integers and the second writes a second-degree equation using as coefficients the two numbers chosen by the first player together with $1998$, in whatever order he wishes (for example, with $a$ and $b$ he may write the equation $1998x^2 + ax + b = 0$, or $bx^2 + 1998x + a = 0$, etc.). The first player is considered the winner if the equation has two distinct rational roots. Show that the first player can always win.
+> Dois meninos jogam o seguinte jogo. O primeiro escolhe dois números inteiros diferentes de zero e o segundo monta uma equação do segundo grau usando como coeficientes os dois números escolhidos pelo primeiro jogador e $1998$, na ordem que quiser (ou seja, se o primeiro jogador escolhe $a$ e $b$ o segundo jogador pode montar a equação $1998x^2 + ax + b = 0$, ou $bx^2 + 1998x + a = 0$, etc.).
+>
+> O primeiro jogador é considerado vencedor se a equação tiver duas raízes racionais diferentes.
+>
+> Mostre que o primeiro jogador pode ganhar sempre.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -132,15 +187,29 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two-player quadratic-coefficient game using two integers and 1998; first player forces two distinct rational roots*
+
+> Two boys play the following game. The first chooses two distinct nonzero integers and the second writes a second-degree equation using as coefficients the two numbers chosen by the first player together with $1998$, in whatever order he wishes (for example, with $a$ and $b$ he may write the equation $1998x^2 + ax + b = 0$, or $bx^2 + 1998x + a = 0$, etc.). The first player is considered the winner if the equation has two distinct rational roots. Show that the first player can always win.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all f: N->N with f(2f(x)) = x + 1998*
 
-> Determine all functions $f : \mathbb{N} \to \mathbb{N}$ that satisfy $f(2f(x)) = x + 1998$ for every $x \in \mathbb{N} = \{0, 1, 2, \ldots\}$.
+> Determine todas as funções $f : \mathbb{N} \to \mathbb{N}$ que satisfazem $f(2f(x)) = x + 1998$ para todo $x \in \mathbb{N} = \{0, 1, 2, \ldots\}$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -163,15 +232,31 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all f: N->N with f(2f(x)) = x + 1998*
+
+> Determine all functions $f : \mathbb{N} \to \mathbb{N}$ that satisfy $f(2f(x)) = x + 1998$ for every $x \in \mathbb{N} = \{0, 1, 2, \ldots\}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Worst-case path length to reach a Berlin corner with unknown side and unknown distance*
 
-> Two mathematicians, lost in Berlin, arrive at the corner of Barbarossa Street and Martin Luther Street, and need to reach the corner of Meininger Street and Martin Luther Street. Unfortunately they do not know on which side of Martin Luther Street the corner with Meininger Street is, nor at what distance it lies; that is, they do not know whether they are obliged to turn right or left and how far to walk along Martin Luther Street until they reach the desired corner. What is the smallest positive value $X$ such that they can be certain of reaching the corner of Barbarossa Street and Meininger Street walking at most $X$ blocks (quarters)?
+> Dois matemáticos, perdidos em Berlim, chegam à esquina da rua Barbarossa com a rua Martin Luther, e precisam chegar à esquina da rua Meininger com a rua Martin Luther. Infelizmente eles não sabem para que lado fica a rua Meininger, nem a que distância ela está, e eles são obrigados portanto a ir e voltar ao longo da rua Martin Luther até chegaram à esquina desejada.
+>
+> Qual é o menor valor para o número positivo $K$ tal que eles podem ter certeza de que se há $N$ quarteirões (ou quadras) entre as ruas Barbarossa e Meininger então eles conseguem chegar ao destino andando no máximo $KN$ quarteirões (ou quadras)?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -192,3 +277,17 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Worst-case path length to reach a Berlin corner with unknown side and unknown distance*
+
+> Two mathematicians, lost in Berlin, arrive at the corner of Barbarossa Street and Martin Luther Street, and need to reach the corner of Meininger Street and Martin Luther Street. Unfortunately they do not know on which side of Martin Luther Street the corner with Meininger Street is, nor at what distance it lies; that is, they do not know whether they are obliged to turn right or left and how far to walk along Martin Luther Street until they reach the desired corner. What is the smallest positive value $X$ such that they can be certain of reaching the corner of Barbarossa Street and Meininger Street walking at most $X$ blocks (quarters)?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)

@@ -12,14 +12,12 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find the area of square BEFG given the areas of squares ABCD and FHIJ*
 
-> In the drawing alongside, square $ABCD$ has area $30\,\text{cm}^2$ and square $FHIJ$ has area $20\,\text{cm}^2$. The vertices $A$, $D$, $E$, $H$ and $I$ of the two squares lie on a same straight line. Calculate the area of square $BEFG$.
-
-![[src_obm_2003_n2_f2__Q01.png]]
+> No desenho ao lado, o quadrado $ABCD$ tem área de $30\,\text{cm}^2$ e o quadrado $FHIJ$ tem área de $20\,\text{cm}^2$. Os vértices $A$, $D$, $E$, $H$ e $I$ dos três quadrados pertencem a uma mesma reta. Calcule a área do quadrado $BEFG$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -49,17 +47,35 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find the area of square BEFG given the areas of squares ABCD and FHIJ*
+
+> In the drawing alongside, square $ABCD$ has area $30\,\text{cm}^2$ and square $FHIJ$ has area $20\,\text{cm}^2$. The vertices $A$, $D$, $E$, $H$ and $I$ of the two squares lie on a same straight line. Calculate the area of square $BEFG$.
+
+![[src_obm_2003_n2_f2__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Choose 13 integers from 1 to 26 containing 4 such that no chosen number divides another*
 
-> Among the integers from $1$ to $26$, choose $13$ of them in such a way that:
-> 1) the number $4$ is among the chosen numbers;
-> 2) no chosen number is a divisor of another chosen number.
+> Dados os números inteiros de $1$ a $26$, escolha $13$ dentre eles de forma que:
+> 1) O número $4$ está entre os números escolhidos.
+> 2) Nenhum número escolhido é divisor de outro número escolhido.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -88,16 +104,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Choose 13 integers from 1 to 26 containing 4 such that no chosen number divides another*
+
+> Among the integers from $1$ to $26$, choose $13$ of them in such a way that:
+> 1) the number $4$ is among the chosen numbers;
+> 2) no chosen number is a divisor of another chosen number.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find the area of a paper region after folding and unfolding a rectangle three times*
 
-> A rectangular sheet $ABCD$ of area $300\,\text{cm}^2$ was folded in half and then unfolded (segment $MN$); it was folded again and unfolded (segment $MC$) and finally folded and unfolded along the diagonal $BD$. Calculate the area of the piece of paper bounded by the dotted lines (the dark region in the figure).
-
-![[src_obm_2003_n2_f2__Q03.png]]
+> Uma folha retangular $ABCD$ de área $1000\,\text{cm}^2$ foi dobrada ao meio e em seguida desdobrada (segmento $MN$); foi dobrada e desdobrada novamente (segmento $MC$) e finalmente, dobrada e desdobrada segundo a diagonal $BD$. Calcule a área do pedaço de papel limitado pelos três vincos (região escura no desenho).
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
@@ -127,15 +160,33 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find the area of a paper region after folding and unfolding a rectangle three times*
+
+> A rectangular sheet $ABCD$ of area $300\,\text{cm}^2$ was folded in half and then unfolded (segment $MN$); it was folded again and unfolded (segment $MC$) and finally folded and unfolded along the diagonal $BD$. Calculate the area of the piece of paper bounded by the dotted lines (the dark region in the figure).
+
+![[src_obm_2003_n2_f2__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all 'powerful' numbers less than 100, where a number equals the product of its proper divisors*
 
-> Consider the product of all positive divisors of a positive integer, different from this number itself. We say that a number is $\textit{powerful}$ if it is equal to that product. For example, the number $12$ is powerful, since its positive divisors smaller than it are $1$, $2$, $3$, $4$, $6$ and $1\cdot 2\cdot 3\cdot 4\cdot 6 = 144 = 12^2$. Present all powerful numbers less than $100$.
+> Considere o produto de todos os divisores positivos de um número inteiro positivo, diferentes desse número. Dizemos que o número é poderoso se o produto desses divisores for igual ao quadrado do número. Por exemplo, o número $12$ é poderoso, pois seus divisores positivos menores do que ele são $1$, $2$, $3$, $4$ e $6$ e $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^{2}$. Apresente todos os números poderosos menores do que $100$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -162,16 +213,35 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all 'powerful' numbers less than 100, where a number equals the product of its proper divisors*
+
+> Consider the product of all positive divisors of a positive integer, different from this number itself. We say that a number is $\textit{powerful}$ if it is equal to that product. For example, the number $12$ is powerful, since its positive divisors smaller than it are $1$, $2$, $3$, $4$, $6$ and $1\cdot 2\cdot 3\cdot 4\cdot 6 = 144 = 12^2$. Present all powerful numbers less than $100$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Functional equation f(x)-f(xy)=x/y+y/x: find f(1) and a formula for f(x)*
 
-> Let $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ be a function such that $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, for any $x$ and $y$.
-> (a) Calculate $f(1)$.
-> (b) Find a formula for $f(x)$.
+> Seja $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ uma função tal que $f(x)\,f(y) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, quaisquer que sejam os reais não nulos $x$ e $y$.
+>
+> (a) Calcule $f(1)$.
+>
+> (b) Encontre uma fórmula para $f(x)$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -200,17 +270,37 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Functional equation f(x)-f(xy)=x/y+y/x: find f(1) and a formula for f(x)*
+
+> Let $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ be a function such that $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, for any $x$ and $y$.
+> (a) Calculate $f(1)$.
+> (b) Find a formula for $f(x)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find another four-digit 'biquadrado' number, equal to the sum of squares of its two two-digit halves*
 
-> We say that a four-digit number $N$ is $\textit{biquadrado}$ when it is equal to the sum of the squares of the two numbers formed by its two halves: one formed by the first two digits of $N$, in order, and the other formed by the last two digits of $N$, also in the order in which they appear in $N$. For example, $1233$ is biquadrado since $1233 = 12^2 + 33^2$. Find another biquadrado number.
-> 
-> Remark: recall that a four-digit number cannot begin with zero.
+> Dizemos que um número $N$ de quatro algarismos é biquadrado quando é igual à soma dos quadrados de dois números: um é formado pelos dois primeiros algarismos de $N$, na ordem em que aparecem em $N$ e o outro, pelos dois últimos algarismos de $N$, também na ordem em que aparecem em $N$.
+>
+> Por exemplo, $1233$ é biquadrado pois $1233 = 12^2 + 33^2$. Encontre um outro número biquadrado.
+>
+> Observação: Lembre-se de que um número de quatro algarismos não pode começar com zero.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -236,3 +326,22 @@ level: OBM Nível 2
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find another four-digit 'biquadrado' number, equal to the sum of squares of its two two-digit halves*
+
+> We say that a four-digit number $N$ is $\textit{biquadrado}$ when it is equal to the sum of the squares of the two numbers formed by its two halves: one formed by the first two digits of $N$, in order, and the other formed by the last two digits of $N$, also in the order in which they appear in $N$. For example, $1233$ is biquadrado since $1233 = 12^2 + 33^2$. Find another biquadrado number.
+> 
+> Remark: recall that a four-digit number cannot begin with zero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

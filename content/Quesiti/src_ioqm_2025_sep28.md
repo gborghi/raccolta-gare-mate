@@ -246,9 +246,7 @@ level: IOQM
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Riempi una griglia 2×3 con numeri da 1 a 6 in modo che le celle adiacenti siano coprime; conta le possibilità*
-
+*Riempire una griglia 2×3 con i numeri da 1 a 6 in modo che le caselle adiacenti siano prime tra loro; contare le possibilità.*
 > Si consideri un rettangolo $2 \times 3$ composto da 6 quadrati unitari. In quanti modi si possono riempire le sei celle usando i numeri $1, 2, 3, 4, 5, 6$, uno per cella, in modo che due numeri qualsiasi in celle adiacenti (ossia in celle che condividono un lato comune) siano coprimi tra loro?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

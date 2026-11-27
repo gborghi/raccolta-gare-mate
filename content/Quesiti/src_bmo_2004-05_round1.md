@@ -175,9 +175,7 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*S di Prove contiene tutti i numeri razionali in (0,1), data la chiusura delle proprietà*
-
+*Dimostrare che l'insieme S di razionali, contenente 1/2 e chiuso rispetto alle mappe x → 1/(x+1) e x → x/(x+1), contiene tutti i razionali dell'intervallo (0,1).*
 > Sia $S$ un insieme di numeri razionali con le seguenti proprietà:
 >
 > i) $\frac{1}{2} \in S$;

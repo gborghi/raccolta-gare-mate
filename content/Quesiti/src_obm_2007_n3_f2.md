@@ -118,14 +118,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Right triangle with incenter I and midpoint O of hypotenuse; given angle AOI find angle ACB*
 
-> The triangle $ABC$ is right-angled at $B$. Let $I$ be the center of the circle inscribed in $ABC$ and let $O$ be the midpoint of the side $AC$. If $\angle AOI = 45^\circ$, how many degrees does the angle $\angle ACB$ measure?
-
-![[src_obm_2007_n3_f2__Q04.png]]
+> O triângulo $ABC$ é retângulo em $B$. Sejam $I$ o centro da circunferência inscrita em $ABC$ e $O$ o ponto médio do lado $AC$. Se $\angle AOI = 45°$, quanto mede, em graus, o ângulo $\angle ACB$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate method]]
@@ -153,6 +151,25 @@ level: OBM Nível 3
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Right triangle with incenter I and midpoint O of hypotenuse; given angle AOI find angle ACB*
+
+> The triangle $ABC$ is right-angled at $B$. Let $I$ be the center of the circle inscribed in $ABC$ and let $O$ be the midpoint of the side $AC$. If $\angle AOI = 45^\circ$, how many degrees does the angle $\angle ACB$ measure?
+
+![[src_obm_2007_n3_f2__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** 30
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 

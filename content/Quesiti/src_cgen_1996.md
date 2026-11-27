@@ -76,16 +76,16 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,topic_funzionali,method_invarianti,method_ricorsione,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Periodic real sequence defined by piecewise recurrence*
 
-> Let $a$ be a positive integer and $b$ a strictly positive integer. Consider the real sequence $(u_n)_{n \in \mathbb{N}}$ defined as follows:
-> $$\begin{cases} u_0 = b \\ u_{n+1} = \dfrac{1}{2} u_n & \text{if } u_n \text{ is an even integer,} \\ u_{n+1} = a + u_n & \text{otherwise.} \end{cases}$$
-> 
-> 1. Show that one can find a positive integer $n$ such that $u_n \le a$.
-> 2. Show that the sequence is eventually periodic.
+> Soient $a$ un entier naturel impair et $b$ un entier strictement positif. On considère la suite réelle $(u_n)_{n \in \mathbb{N}}$ ainsi définie :
+> $$\begin{cases} u_0 = b \text{ et pour tout entier naturel } n : \\ u_{n+1} = \dfrac{1}{2} u_n & \text{si } u_n \text{ est un entier pair,} \\ u_{n+1} = a + u_n & \text{sinon.} \end{cases}$$
+>
+> 1. Démontrer qu’on peut trouver un entier naturel $n$ tel que : $u_n \leqslant a$.
+> 2. Démontrer que la suite est périodique à partir d’un certain rang.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -107,6 +107,24 @@ level: Concours Général
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Periodic real sequence defined by piecewise recurrence*
+
+> Let $a$ be a positive integer and $b$ a strictly positive integer. Consider the real sequence $(u_n)_{n \in \mathbb{N}}$ defined as follows:
+> $$\begin{cases} u_0 = b \\ u_{n+1} = \dfrac{1}{2} u_n & \text{if } u_n \text{ is an even integer,} \\ u_{n+1} = a + u_n & \text{otherwise.} \end{cases}$$
+> 
+> 1. Show that one can find a positive integer $n$ such that $u_n \le a$.
+> 2. Show that the sequence is eventually periodic.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
 

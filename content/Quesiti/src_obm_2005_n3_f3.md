@@ -12,16 +12,16 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Palindrome products of repunit numbers*
 
-> A natural number is called a palindrome if it reads the same forwards and backwards. For example, 481184, 131, and 2 are palindromes.
-> 
-> Find all pairs of positive integers $(m, n)$ such that
-> $$\underbrace{11\!1\ldots1}_{m\text{ ones}}\cdot\underbrace{11\!1\ldots1}_{n\text{ ones}}$$
-> is a palindrome.
+> Um número natural é palíndromo quando se obtém o mesmo número ao escrevermos os seus dígitos na ordem inversa. Por exemplo, 481184, 131 e 2 são palíndromos.
+>
+> Determine todos os pares de inteiros positivos $(m, n)$ tais que
+> $$\underbrace{111\ldots1}_{m\text{ uns}}\cdot\underbrace{111\ldots1}_{n\text{ uns}}$$
+> é palíndromo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -48,16 +48,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Palindrome products of repunit numbers*
+
+> A natural number is called a palindrome if it reads the same forwards and backwards. For example, 481184, 131, and 2 are palindromes.
+> 
+> Find all pairs of positive integers $(m, n)$ such that
+> $$\underbrace{11\!1\ldots1}_{m\text{ ones}}\cdot\underbrace{11\!1\ldots1}_{n\text{ ones}}$$
+> is a palindrome.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest constant C in symmetric power inequality for five variables*
 
-> Find the smallest real number $C$ for which the inequality
-> $$C\!\left(x_1^{2005}+x_2^{2005}+x_3^{2005}+x_4^{2005}+x_5^{2005}\right)\ge x_1 x_2 x_3 x_4 x_5\left(x_1^{125}+x_2^{125}+x_3^{125}+x_4^{125}+x_5^{125}\right)^{16}$$
-> holds for all positive real numbers $x_1, x_2, x_3, x_4, x_5$.
+> Determine o menor número real $C$ para o qual a desigualdade
+> $$C\left(x_1^{2005}+x_2^{2005}+x_3^{2005}+x_4^{2005}+x_5^{2005}\right)\ge x_1 x_2 x_3 x_4 x_5\left(x_1^{125}+x_2^{125}+x_3^{125}+x_4^{125}+x_5^{125}\right)^{16}$$
+> é válida para todos os números reais positivos $x_1, x_2, x_3, x_4, x_5$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
@@ -82,15 +101,31 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest constant C in symmetric power inequality for five variables*
+
+> Find the smallest real number $C$ for which the inequality
+> $$C\!\left(x_1^{2005}+x_2^{2005}+x_3^{2005}+x_4^{2005}+x_5^{2005}\right)\ge x_1 x_2 x_3 x_4 x_5\left(x_1^{125}+x_2^{125}+x_3^{125}+x_4^{125}+x_5^{125}\right)^{16}$$
+> holds for all positive real numbers $x_1, x_2, x_3, x_4, x_5$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest square fitting inside a unit cube*
 
-> We say that a square is contained in a cube if all of its points lie on the faces or in the interior of the cube. Find the largest value $\ell > 0$ such that there exists a square of side $\ell$ contained in a cube of edge length $1$.
+> Dizemos que um quadrado está contido em um cubo quando todos os seus pontos estão nas faces ou no interior do cubo. Determine o maior $\ell > 0$ tal que existe um quadrado de lado $\ell$ contido num cubo de aresta $1$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
@@ -113,9 +148,54 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest square fitting inside a unit cube*
+
+> We say that a square is contained in a cube if all of its points lie on the faces or in the interior of the cube. Find the largest value $\ell > 0$ such that there exists a square of side $\ell$ contained in a cube of edge length $1$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*Minimum trials to guarantee radio works with unknown batteries*
+
+> Temos quatro baterias carregadas, quatro baterias descarregadas e um rádio que necessita de duas baterias carregadas para funcionar.
+>
+> Supondo que não sabemos quais baterias estão carregadas e quais estão descarregadas, determine o menor número de tentativas suficiente para garantirmos que o rádio funcione.
+>
+> Uma tentativa consiste em colocar duas das baterias no rádio e verificar se ele, então, funciona.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Numero minimo di prove sufficienti a garantire che la radio funzioni, avendo batterie cariche e scariche non distinte.*
+> Abbiamo quattro batterie cariche, quattro batterie scariche e una radio che necessita di due batterie cariche per funzionare. Supponiamo di non sapere quali batterie siano cariche e quali scariche. Determinare il numero minimo di prove sufficiente a garantire che la radio funzioni, dove una prova consiste nel inserire due batterie nella radio e nel verificare se questa funziona.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum trials to guarantee radio works with unknown batteries*
@@ -129,28 +209,17 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Numero minimo di prove per garantire che la radio funzioni con batterie sconosciute*
-
-> Abbiamo quattro batterie cariche, quattro batterie scariche e una radio che necessita di due batterie cariche per funzionare. Supponiamo di non sapere quali batterie siano cariche e quali scariche. Determinare il numero minimo di prove sufficiente a garantire che la radio funzioni, dove una prova consiste nel inserire due batterie nella radio e nel verificare se questa funziona.
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Euler lines of three sub-triangles at Fermat point are concurrent*
 
-> Let $ABC$ be an acute triangle and $F$ its Fermat point, that is, the interior point of triangle $ABC$ such that the three angles $\widehat{AFB}$, $\widehat{BFC}$, and $\widehat{CFA}$ each measure $120^\circ$. For each of the triangles $ABF$, $ACF$, and $BCF$, trace its Euler line (the line joining its circumcenter and its centroid). Prove that these three lines are concurrent.
+> Sejam $ABC$ um triângulo acutângulo e $F$ o seu ponto de Fermat, isto é, o ponto interior ao triângulo $ABC$ tal que os três ângulos $\widehat{AFB}$, $\widehat{BFC}$ e $\widehat{CFA}$ medem $120$ graus. Para cada um dos triângulos $ABF$, $ACF$ e $BCF$ trace a sua reta de Euler, ou seja, a reta que liga o seu circuncentro e o seu baricentro.
+>
+> Prove que essas três retas concorrem em um ponto.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
@@ -173,17 +242,31 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Euler lines of three sub-triangles at Fermat point are concurrent*
+
+> Let $ABC$ be an acute triangle and $F$ its Fermat point, that is, the interior point of triangle $ABC$ such that the three angles $\widehat{AFB}$, $\widehat{BFC}$, and $\widehat{CFA}$ each measure $120^\circ$. For each of the triangles $ABF$, $ACF$, and $BCF$, trace its Euler line (the line joining its circumcenter and its centroid). Prove that these three lines are concurrent.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Existence of positive integer x with a^x + x ≡ b (mod c)*
 
-> Given positive integers $a$ and $c$ and an integer $b$, prove that there exists a positive integer $x$ such that
+> Dados $a$, $c$ inteiros positivos e $b$ inteiro, prove que existe $x$ inteiro positivo tal que
 > $$a^x + x \equiv b \pmod{c},$$
-> that is, there exists a positive integer $x$ such that $c$ divides $a^x + x - b$.
+> ou seja, existe $x$ inteiro positivo tal que $c$ é um divisor de $a^x + x - b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Case analysis]]
@@ -206,3 +289,19 @@ level: OBM Nível 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Existence of positive integer x with a^x + x ≡ b (mod c)*
+
+> Given positive integers $a$ and $c$ and an integer $b$, prove that there exists a positive integer $x$ such that
+> $$a^x + x \equiv b \pmod{c},$$
+> that is, there exists a positive integer $x$ such that $c$ divides $a^x + x - b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)

@@ -12,14 +12,14 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count vowels in the correct answer to this problem*
 
-> How many vowels does the correct answer to this problem have? Do not count the letter A nor the letter E of the alternatives A) and E).
-> 
-> **A)** Six $\quad$ **B)** Five $\quad$ **C)** Four $\quad$ **D)** Three $\quad$ **E)** Two
+> Quantas vogais têm a resposta correta desse problema? Não conte a letra A ou E das alternativas A e E.
+>
+> **A)** Seis $\quad$ **B)** Cinco $\quad$ **C)** Quatro $\quad$ **D)** Três $\quad$ **E)** Duas
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -44,15 +44,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count vowels in the correct answer to this problem*
+
+> How many vowels does the correct answer to this problem have? Do not count the letter A nor the letter E of the alternatives A) and E).
+> 
+> **A)** Six $\quad$ **B)** Five $\quad$ **C)** Four $\quad$ **D)** Three $\quad$ **E)** Two
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximize value of cryptarithm fraction with distinct digits*
 
-> In the expression $\dfrac{M \times A \times T \times E \times M}{A \times T \times I \times C \times A}$, different letters represent different digits and equal letters represent equal digits. What is the greatest possible value of this expression?
-> 
+> Na expressão $\dfrac{M \times A \times T \times E \times M}{A \times T \times I \times C \times A}$, letras diferentes representam dígitos diferentes e letras iguais representam dígitos iguais. Qual é o maior valor possível desta expressão?
+>
 > **A)** 38 $\quad$ **B)** 96 $\quad$ **C)** 108 $\quad$ **D)** 576 $\quad$ **E)** 648
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -78,16 +95,32 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximize value of cryptarithm fraction with distinct digits*
+
+> In the expression $\dfrac{M \times A \times T \times E \times M}{A \times T \times I \times C \times A}$, different letters represent different digits and equal letters represent equal digits. What is the greatest possible value of this expression?
+> 
+> **A)** 38 $\quad$ **B)** 96 $\quad$ **C)** 108 $\quad$ **D)** 576 $\quad$ **E)** 648
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum interviewees so two answer all four questions identically*
 
-> In a street survey, each interviewee answered four questions, and could give only one answer to each question. Thus, the same person can give equal or different answers to the questions. What is the minimum number of interviewees that guarantees that at least two people answered all the questions in the same way?
-> 
+> Em uma pesquisa de rua, cada entrevistado respondeu a quatro perguntas, podendo sua resposta ser sim ou não, para cada uma das perguntas. Qual o número mínimo de entrevistados para garantirmos que duas pessoas responderam igualmente a todas as perguntas?
+>
 > **A)** 16 $\quad$ **B)** 17 $\quad$ **C)** 9 $\quad$ **D)** 5 $\quad$ **E)** 33
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -113,18 +146,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum interviewees so two answer all four questions identically*
+
+> In a street survey, each interviewee answered four questions, and could give only one answer to each question. Thus, the same person can give equal or different answers to the questions. What is the minimum number of interviewees that guarantees that at least two people answered all the questions in the same way?
+> 
+> **A)** 16 $\quad$ **B)** 17 $\quad$ **C)** 9 $\quad$ **D)** 5 $\quad$ **E)** 33
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Shaded area in parallelogram ABCD of area 84 divided by grid segments*
 
-> The sides $AB$ and $DC$ of the parallelogram $ABCD$ were divided into 4 equal segments. The sides $AD$ and $BC$ were divided into 3 equal segments. The division points were connected as indicated in the figure below. If the area of $ABCD$ is 84, determine the shaded area.
-> 
+> Os lados $AB$ e $DC$ do paralelogramo $ABCD$ foram divididos em 4 segmentos iguais. Os lados $AD$ e $BC$ foram divididos em 3 segmentos iguais. Os pontos de divisão foram conectados como indica a figura abaixo. Se a área de $ABCD$ é 84, determine a área sombreada.
+>
 > **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 7 $\quad$ **E)** 12
-
-![[src_obm_2012_n3_f1__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -151,15 +199,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Shaded area in parallelogram ABCD of area 84 divided by grid segments*
+
+> The sides $AB$ and $DC$ of the parallelogram $ABCD$ were divided into 4 equal segments. The sides $AD$ and $BC$ were divided into 3 equal segments. The division points were connected as indicated in the figure below. If the area of $ABCD$ is 84, determine the shaded area.
+> 
+> **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 7 $\quad$ **E)** 12
+
+![[src_obm_2012_n3_f1__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_estremalita,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Greatest possible value of a quantity related to year 2012 and OBM edition*
 
-> In 2012 we are holding the 34th OBM, and $\gcd(2012, 34) = 2$. Supposing that the OBM has always been held every year, and that it will continue to be held every year, what is the greatest possible value of [the quantity sought, as in the original]?
-> 
+> Em 2012 estamos realizando a edição 34 da OBM, e $\operatorname{mdc}(2012, 34) = 2$. Supondo que a OBM sempre será realizada todo ano, qual é o maior valor possível para o mdc do ano e da edição da OBM realizada no ano?
+>
 > **A)** 12 $\quad$ **B)** 28 $\quad$ **C)** 38 $\quad$ **D)** 1978 $\quad$ **E)** 2012
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -185,16 +252,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Greatest possible value of a quantity related to year 2012 and OBM edition*
+
+> In 2012 we are holding the 34th OBM, and $\gcd(2012, 34) = 2$. Supposing that the OBM has always been held every year, and that it will continue to be held every year, what is the greatest possible value of [the quantity sought, as in the original]?
+> 
+> **A)** 12 $\quad$ **B)** 28 $\quad$ **C)** 38 $\quad$ **D)** 1978 $\quad$ **E)** 2012
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 3-digit numbers ABC with ABC + BCA + CAB = AAA times 10*
 
-> The digits $A$, $B$, $C$ are nonzero and form the numbers $\overline{ABC}$, $\overline{BCA}$ and $\overline{CAB}$ such that $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. How many numbers $\overline{ABC}$ exist?
-> 
-> **A)** 6 $\quad$ **B)** 8 $\quad$ **C)** 9 $\quad$ **D)** 15 $\quad$ **E)** none
+> Os algarismos não nulos $A$, $B$ e $C$ formam os números $\overline{ABC}$, $\overline{BCA}$ e $\overline{CAB}$ tais que $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. Quantos números $\overline{ABC}$ desse tipo existem?
+>
+> **A)** 6 $\quad$ **B)** 8 $\quad$ **C)** 9 $\quad$ **D)** 15 $\quad$ **E)** nenhum
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -219,18 +303,33 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 3-digit numbers ABC with ABC + BCA + CAB = AAA times 10*
+
+> The digits $A$, $B$, $C$ are nonzero and form the numbers $\overline{ABC}$, $\overline{BCA}$ and $\overline{CAB}$ such that $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. How many numbers $\overline{ABC}$ exist?
+> 
+> **A)** 6 $\quad$ **B)** 8 $\quad$ **C)** 9 $\quad$ **D)** 15 $\quad$ **E)** none
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ways to tile 4x4 board with one 2x2 square and four L-pieces*
 
-> In how many ways can we cover a $4 \times 4$ board with a square of side 2 and four identical L-shaped pieces, each occupying three cells of the board? The board cannot be rotated, that is, all the possibilities shown below must be considered distinct.
-> 
+> De quantas maneiras podemos cobrir um tabuleiro $4 \times 4$ com um quadrado de lado 2 e quatro peças idênticas no formato de L que ocupam três casinhas do tabuleiro? O tabuleiro não pode ser rotacionado, ou seja, as duas possibilidades a seguir devem ser consideradas distintas:
+>
 > **A)** 2 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 5 $\quad$ **E)** 6
-
-![[src_obm_2012_n3_f1__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -257,16 +356,34 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ways to tile 4x4 board with one 2x2 square and four L-pieces*
+
+> In how many ways can we cover a $4 \times 4$ board with a square of side 2 and four identical L-shaped pieces, each occupying three cells of the board? The board cannot be rotated, that is, all the possibilities shown below must be considered distinct.
+> 
+> **A)** 2 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 5 $\quad$ **E)** 6
+
+![[src_obm_2012_n3_f1__Q07.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Evaluate expression given x^2 = 2x + 1*
 
-> If $x^2 = 2x + 1$, then $(x + 1)^{-1}$ is equal to
-> 
+> Se $x^2 = 2x + 4$, então $(x + 1)^{-1}$ é igual a
+>
 > **A)** $x + 2$ $\quad$ **B)** $x - 3$ $\quad$ **C)** $x - 1$ $\quad$ **D)** $2x + 5$ $\quad$ **E)** $3x + 5$
 
 **Topic:** [[topic_algebra|Algebra]]
@@ -292,15 +409,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Evaluate expression given x^2 = 2x + 1*
+
+> If $x^2 = 2x + 1$, then $(x + 1)^{-1}$ is equal to
+> 
+> **A)** $x + 2$ $\quad$ **B)** $x - 3$ $\quad$ **C)** $x - 1$ $\quad$ **D)** $2x + 5$ $\quad$ **E)** $3x + 5$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_casework,method_trigonometria,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count convex quadrilaterals with AB=BC=CD=1, integer angles, angle condition*
 
-> Let $ABCD$ be a convex quadrilateral such that $AB = BC = CD = 1$ and $m(A\hat{B}D) = m(A\hat{C}B)$. Knowing that the angle measures, in degrees, are integers, determine how many quadrilaterals $ABCD$ can be constructed satisfying the above conditions.
-> 
+> Seja $ABCD$ um quadrilátero convexo tal que $AB = BC = CD = 1$ e $m(A\hat{B}D) = m(A\hat{C}B)$. Sabendo que as medidas, em graus, dos ângulos $A\hat{B}D$ e $A\hat{C}D$ são inteiras, determine quantos quadriláteros $ABCD$ podem ser construídos satisfazendo as condições acima.
+>
 > **A)** 20 $\quad$ **B)** 21 $\quad$ **C)** 22 $\quad$ **D)** 23 $\quad$ **E)** 24
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
@@ -326,16 +460,32 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count convex quadrilaterals with AB=BC=CD=1, integer angles, angle condition*
+
+> Let $ABCD$ be a convex quadrilateral such that $AB = BC = CD = 1$ and $m(A\hat{B}D) = m(A\hat{C}B)$. Knowing that the angle measures, in degrees, are integers, determine how many quadrilaterals $ABCD$ can be constructed satisfying the above conditions.
+> 
+> **A)** 20 $\quad$ **B)** 21 $\quad$ **C)** 22 $\quad$ **D)** 23 $\quad$ **E)** 24
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_casework|Casework]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find intermediate student mass from pairwise sums of 5 students*
 
-> The masses of all possible pairs that can be formed from 5 students are 89 kg, 92 kg, 93 kg, 94 kg, 95 kg, 96 kg, 96 kg, 97 kg, 98 kg, 100 kg and 101 kg. What is the mass of the student of intermediate mass?
-> 
+> As massas de todos os pares possíveis formados com 5 estudantes são 90 kg, 92 kg, 93 kg, 94 kg, 95 kg, 96 kg, 97 kg, 98 kg, 100 kg e 101 kg. Qual é a massa do estudante de massa intermediária?
+>
 > **A)** 52 kg $\quad$ **B)** 51 kg $\quad$ **C)** 49 kg $\quad$ **D)** 48 kg $\quad$ **E)** 46 kg
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
@@ -361,24 +511,40 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find intermediate student mass from pairwise sums of 5 students*
+
+> The masses of all possible pairs that can be formed from 5 students are 89 kg, 92 kg, 93 kg, 94 kg, 95 kg, 96 kg, 96 kg, 97 kg, 98 kg, 100 kg and 101 kg. What is the mass of the student of intermediate mass?
+> 
+> **A)** 52 kg $\quad$ **B)** 51 kg $\quad$ **C)** 49 kg $\quad$ **D)** 48 kg $\quad$ **E)** 46 kg
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_insiemi_funzioni,topic_aritmetica,topic_funzionali,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Compute f(2012) from recursive base-3 functional equations*
 
-> Let $N = \{0, 1, 2, \ldots\}$ and consider the function $f \colon N \to N$ such that $f(0) = 1$, $f(1) = 2$, $f(2) = 0$, and for every natural $n \ge 1$ satisfies the following conditions:
-> 
-> i) $f(3n) = 3f(n) + 1$;
-> 
-> ii) $f(3n + 1) = 3f(n) + 2$;
-> 
-> iii) $f(3n + 2) = 3f(n)$.
-> 
-> Then $f(2012)$ is equal to
-> 
+> Seja $N = \{0, 1, 2, \ldots\}$ e considere a função $f \colon N \to N$ tal que $f(0) = 1$, $f(1) = 2$, $f(2) = 0$ e, para todo natural $n \ge 1$, satisfaz as seguintes condições:
+>
+> i) $f(3n) = 3\cdot f(n) + 1$;
+>
+> ii) $f(3n + 1) = 3\cdot f(n) + 2$;
+>
+> iii) $f(3n + 2) = 3\cdot f(n)$;
+>
+> Então $f(2012)$ é igual a:
+>
 > **A)** 101 $\quad$ **B)** 102 $\quad$ **C)** 103 $\quad$ **D)** 104 $\quad$ **E)** 105
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
@@ -412,21 +578,43 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compute f(2012) from recursive base-3 functional equations*
+
+> Let $N = \{0, 1, 2, \ldots\}$ and consider the function $f \colon N \to N$ such that $f(0) = 1$, $f(1) = 2$, $f(2) = 0$, and for every natural $n \ge 1$ satisfies the following conditions:
+> 
+> i) $f(3n) = 3f(n) + 1$;
+> 
+> ii) $f(3n + 1) = 3f(n) + 2$;
+> 
+> iii) $f(3n + 2) = 3f(n)$.
+> 
+> Then $f(2012)$ is equal to
+> 
+> **A)** 101 $\quad$ **B)** 102 $\quad$ **C)** 103 $\quad$ **D)** 104 $\quad$ **E)** 105
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find angle PBQ given right angle ABC and angle between CD, AE equal to 40 degrees*
 
-> In the figure to follow, the angle $A\hat{B}C$ is right, a line $r$ cuts the segments $\overline{AB}$ and $\overline{BC}$ at $D$ and $E$ respectively; let $F$ be the intersection point of the segments $\overline{CD}$ and $\overline{AE}$, and $P$ and $Q$ are the orthogonal projections of $A$ and $C$ onto the line $r$, respectively.
-> 
-> Given that the angle between the lines $\overline{CD}$ and $\overline{AE}$ is $m(A\hat{F}D) = 40^\circ$, the measure of $P\hat{B}Q$, in degrees, is
-> 
+> Na figura a seguir, o ângulo $A\hat{B}C$ é reto; a reta $r$ corta os segmentos $\overline{AB}$ e $\overline{BC}$ em $D$ e $E$, respectivamente; as retas $CD$ e $AE$ se cortam em $F$; $P$ e $Q$ são as projeções ortogonais de $A$ e $C$ sobre a reta $r$, respectivamente.
+>
+> Sendo o ângulo entre as retas $CD$ e $AE$ igual a $m(A\hat{F}D) = 40^\circ$, a medida de $P\hat{B}Q$, em graus, é
+>
 > **A)** 110 $\quad$ **B)** 120 $\quad$ **C)** 130 $\quad$ **D)** 140 $\quad$ **E)** 160
-
-![[src_obm_2012_n3_f1__Q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -453,15 +641,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find angle PBQ given right angle ABC and angle between CD, AE equal to 40 degrees*
+
+> In the figure to follow, the angle $A\hat{B}C$ is right, a line $r$ cuts the segments $\overline{AB}$ and $\overline{BC}$ at $D$ and $E$ respectively; let $F$ be the intersection point of the segments $\overline{CD}$ and $\overline{AE}$, and $P$ and $Q$ are the orthogonal projections of $A$ and $C$ onto the line $r$, respectively.
+> 
+> Given that the angle between the lines $\overline{CD}$ and $\overline{AE}$ is $m(A\hat{F}D) = 40^\circ$, the measure of $P\hat{B}Q$, in degrees, is
+> 
+> **A)** 110 $\quad$ **B)** 120 $\quad$ **C)** 130 $\quad$ **D)** 140 $\quad$ **E)** 160
+
+![[src_obm_2012_n3_f1__Q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Birth year of someone born Feb 29 on a Sunday given Feb 29 2012 was Wednesday*
 
-> Leap years have one more day, February 29, which occurs every 4 years. Esmeralda was born on February 29 on a Sunday. Knowing that February 29, 2012 fell on a Wednesday, in which year was Esmeralda born?
-> 
+> Anos bissextos têm um dia a mais, 29 de fevereiro, que os demais anos e ocorrem a cada 4 anos. Esmeralda nasceu no dia 29 de fevereiro, em um domingo. Sabendo que 29 de fevereiro de 2012 caiu em uma quarta-feira, em qual ano Esmeralda pode ter nascido?
+>
 > **A)** 1972 $\quad$ **B)** 1976 $\quad$ **C)** 1980 $\quad$ **D)** 1984 $\quad$ **E)** 1988
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -487,18 +695,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Birth year of someone born Feb 29 on a Sunday given Feb 29 2012 was Wednesday*
+
+> Leap years have one more day, February 29, which occurs every 4 years. Esmeralda was born on February 29 on a Sunday. Knowing that February 29, 2012 fell on a Wednesday, in which year was Esmeralda born?
+> 
+> **A)** 1972 $\quad$ **B)** 1976 $\quad$ **C)** 1980 $\quad$ **D)** 1984 $\quad$ **E)** 1988
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Similarity ratio between two square-based pyramids sharing apex V*
 
-> Consider a pyramid $VABCD$ with square base. Let $P$ be the center of the base $ABCD$ and $X$, $Y$, $Z$, $W$ the midpoints of the lateral sides; $VXYZW$ is a pyramid similar to $VABCD$, with the diagonals of the base $XZ$ and $YW$ parallel to $BC$ and $CD$ respectively. The ratio of similarity between the two pyramids is
-> 
+> Considere uma pirâmide $VABCD$ de base quadrada. Seja $P$ o centro da base $ABCD$ e $X$, $Y$, $Z$ e $W$ pontos sobre as faces laterais tais que $PXYWZ$ é uma pirâmide semelhante a $VABCD$, com as diagonais da base $XZ$ e $YW$ paralelos a $BC$ e $CD$, respectivamente.
+>
+> A razão de semelhança entre as duas pirâmides é
+>
 > **A)** $1 : (\sqrt{2} + 1)$ $\quad$ **B)** $1 : 3$ $\quad$ **C)** $1 : 2$ $\quad$ **D)** $1 : \sqrt{2}$ $\quad$ **E)** $1 : (2\sqrt{2} + 3)$
-
-![[src_obm_2012_n3_f1__Q14.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
@@ -525,16 +750,34 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Similarity ratio between two square-based pyramids sharing apex V*
+
+> Consider a pyramid $VABCD$ with square base. Let $P$ be the center of the base $ABCD$ and $X$, $Y$, $Z$, $W$ the midpoints of the lateral sides; $VXYZW$ is a pyramid similar to $VABCD$, with the diagonals of the base $XZ$ and $YW$ parallel to $BC$ and $CD$ respectively. The ratio of similarity between the two pyramids is
+> 
+> **A)** $1 : (\sqrt{2} + 1)$ $\quad$ **B)** $1 : 3$ $\quad$ **C)** $1 : 2$ $\quad$ **D)** $1 : \sqrt{2}$ $\quad$ **E)** $1 : (2\sqrt{2} + 3)$
+
+![[src_obm_2012_n3_f1__Q14.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ways to light lamps in 10 circles so consecutive circles differ in color*
 
-> A luminous panel is formed by 10 large circles. Inside each large circle there are four lamps: one yellow, one green, one red and one blue. We light one lamp of each large circle so that two consecutive large circles do not have the same color lit. In how many ways can this be done, knowing that it is allowed for non-consecutive lamps to have the same color lit?
-> 
+> Um painel luminoso é formado por 10 círculos grandes. Dentro de cada círculo há quatro lâmpadas: uma amarela, uma verde, uma vermelha e uma azul. De quantos modos podemos acender o painel de modo que pelo menos uma lâmpada de cada cor fique acesa? Cada círculo pode ter de zero a quatro lâmpadas acesas, ou seja, é permitido duas lâmpadas acesas no mesmo círculo.
+>
 > **A)** $(2^{10} - 1)^4$ $\quad$ **B)** $(2^4 - 1)^{10}$ $\quad$ **C)** $2^{10} - 1$ $\quad$ **D)** $2^4 - 1$ $\quad$ **E)** $2^{10} - 2^4$
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -560,15 +803,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ways to light lamps in 10 circles so consecutive circles differ in color*
+
+> A luminous panel is formed by 10 large circles. Inside each large circle there are four lamps: one yellow, one green, one red and one blue. We light one lamp of each large circle so that two consecutive large circles do not have the same color lit. In how many ways can this be done, knowing that it is allowed for non-consecutive lamps to have the same color lit?
+> 
+> **A)** $(2^{10} - 1)^4$ $\quad$ **B)** $(2^4 - 1)^{10}$ $\quad$ **C)** $2^{10} - 1$ $\quad$ **D)** $2^4 - 1$ $\quad$ **E)** $2^{10} - 2^4$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Difference of max and min product of two nonneg integers summing to 2012*
 
-> The sum of two non-negative integers is 2012. The difference between the greatest and the smallest possible values of the product of these numbers is
-> 
+> A soma de dois inteiros positivos é 2012. A diferença entre o maior e o menor valores possíveis do produto dos dois números é
+>
 > **A)** $1006^2$ $\quad$ **B)** $1005^2$ $\quad$ **C)** $1005 \cdot 1007$ $\quad$ **D)** $1005 \cdot 1006$ $\quad$ **E)** $1006 \cdot 1007$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -594,17 +854,35 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Difference of max and min product of two nonneg integers summing to 2012*
+
+> The sum of two non-negative integers is 2012. The difference between the greatest and the smallest possible values of the product of these numbers is
+> 
+> **A)** $1006^2$ $\quad$ **B)** $1005^2$ $\quad$ **C)** $1005 \cdot 1007$ $\quad$ **D)** $1005 \cdot 1006$ $\quad$ **E)** $1006 \cdot 1007$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Compare probabilities of nearest vertex for random point in 6-8-10 triangle*
 
-> Triangle $ABC$ has sides $AB = 6$, $AC = 8$ and $BC = 10$. A point $X$ is chosen at random in the interior of triangle $ABC$. Let $p_A$, $p_B$, $p_C$ be the probabilities that $X$ is closest to vertex $A$, $B$ or $C$ respectively. Then
-> 
-> **A)** $p_A > p_B = p_C$ $\quad$ **B)** $p_A > p_B > p_C$ $\quad$ **C)** $p_A > p_C > p_B$ $\quad$ **D)** $p_A < p_B = p_C$ $\quad$ **E)** $p_A = p_B = p_C$
+> O triângulo $ABC$ tem lados $AB = 6$, $AC = 8$ e $BC = 10$. Escolhe-se um ponto $X$ ao acaso no interior do triângulo $ABC$. Sejam $p_A$, $p_B$ e $p_C$ as probabilidades de que o vértice do triângulo $ABC$ mais próximo de $X$ seja $A$, $B$ e $C$, respectivamente. Então
+>
+> **A)** $p_A > p_B = p_C$ $\quad$ **B)** $p_A > p_B > p_C$ $\quad$ **C)** $p_A > p_C > p_B$
+>
+> **D)** $p_A < p_B < p_C$ $\quad$ **E)** $p_A = p_B = p_C$
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -629,23 +907,40 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Compare probabilities of nearest vertex for random point in 6-8-10 triangle*
+
+> Triangle $ABC$ has sides $AB = 6$, $AC = 8$ and $BC = 10$. A point $X$ is chosen at random in the interior of triangle $ABC$. Let $p_A$, $p_B$, $p_C$ be the probabilities that $X$ is closest to vertex $A$, $B$ or $C$ respectively. Then
+> 
+> **A)** $p_A > p_B = p_C$ $\quad$ **B)** $p_A > p_B > p_C$ $\quad$ **C)** $p_A > p_C > p_B$ $\quad$ **D)** $p_A < p_B = p_C$ $\quad$ **E)** $p_A = p_B = p_C$
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ways for clown to distribute 21 balls to 5 children under constraints*
 
-> At a children's party, the clown Macaxeira will distribute 21 balls to 5 children playing a game. Macaxeira must make the distribution satisfying the following conditions:
-> 
-> 1) Each child can receive only whole balls (no fractions);
-> 
-> 2) Each child must receive at least one ball;
-> 
-> 3) The number of balls received decreases according to height, that is, no child receives a number of balls larger than another child who is taller.
-> 
-> Supposing the children all have different heights, in how many ways can this distribution be made?
-> 
+> Numa festa de criança, o palhaço Macaxeira irá distribuir 21 balas para 5 crianças que participam de uma brincadeira. Macaxeira quer fazer a distribuição satisfazendo às seguintes condições:
+>
+> 1) Cada criança deve receber pelo menos uma bala;
+>
+> 2) Cada criança recebe um número diferente de balas;
+>
+> 3) O número de balas é feito em ordem decrescente, de acordo com sua altura (a menor criança recebe mais balas e a maior recebe menos balas).
+>
+> Supondo que todas as crianças tem alturas diferentes, de quantos modos ele pode fazer essa distribuição?
+>
 > **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
@@ -679,15 +974,40 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ways for clown to distribute 21 balls to 5 children under constraints*
+
+> At a children's party, the clown Macaxeira will distribute 21 balls to 5 children playing a game. Macaxeira must make the distribution satisfying the following conditions:
+> 
+> 1) Each child can receive only whole balls (no fractions);
+> 
+> 2) Each child must receive at least one ball;
+> 
+> 3) The number of balls received decreases according to height, that is, no child receives a number of balls larger than another child who is taller.
+> 
+> Supposing the children all have different heights, in how many ways can this distribution be made?
+> 
+> **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 3-element subsets of {1,...,25} containing two whose product is a perfect square*
 
-> How many subsets with three distinct elements of $\{1, 2, 3, \ldots, 25\}$ contain two distinct numbers whose product is a perfect square?
-> 
+> Quantos elementos tem o maior subconjunto de $\{1, 2, 3, \ldots, 25\}$ que não contém dois números distintos cujo produto é um quadrado perfeito?
+>
 > **A)** 15 $\quad$ **B)** 16 $\quad$ **C)** 17 $\quad$ **D)** 18 $\quad$ **E)** 19
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -713,22 +1033,39 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 3-element subsets of {1,...,25} containing two whose product is a perfect square*
+
+> How many subsets with three distinct elements of $\{1, 2, 3, \ldots, 25\}$ contain two distinct numbers whose product is a perfect square?
+> 
+> **A)** 15 $\quad$ **B)** 16 $\quad$ **C)** 17 $\quad$ **D)** 18 $\quad$ **E)** 19
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Evaluate sum of (n+1)^2/n! in terms of e*
 
-> The number $e$, one of the most important constants in Mathematics, can be defined by
+> O número $e$, uma das constantes mais importantes da Matemática, pode ser definido por
 > $$e = \sum_{n=0}^{\infty} \frac{1}{n!} = \frac{1}{0!} + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \cdots$$
-> where $0! = 1$ and $n! = 1 \cdot 2 \cdot 3 \cdots n$ for $n \ge 0$.
-> 
-> Then the number
+> em que $0! = 1$ e $n! = 1 \cdot 2 \cdot 3 \cdots n$ para $n > 0$.
+>
+> Então o número
 > $$\sum_{n=0}^{\infty} \frac{(n+1)^2}{n!} = \frac{1^2}{0!} + \frac{2^2}{1!} + \frac{3^2}{2!} + \frac{4^2}{3!} + \cdots$$
-> is equal to
-> 
-> **A)** $2e$ $\quad$ **B)** $4e$ $\quad$ **C)** $5e$ $\quad$ **D)** $5e^2$ $\quad$ **E)** $(e + 1)^2$
+> é igual a
+>
+> **A)** $2e$ $\quad$ **B)** $4e$ $\quad$ **C)** $5e$ $\quad$ **D)** $e^2$ $\quad$ **E)** $(e + 1)^2$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -759,16 +1096,38 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Evaluate sum of (n+1)^2/n! in terms of e*
+
+> The number $e$, one of the most important constants in Mathematics, can be defined by
+> $$e = \sum_{n=0}^{\infty} \frac{1}{n!} = \frac{1}{0!} + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \cdots$$
+> where $0! = 1$ and $n! = 1 \cdot 2 \cdot 3 \cdots n$ for $n \ge 0$.
+> 
+> Then the number
+> $$\sum_{n=0}^{\infty} \frac{(n+1)^2}{n!} = \frac{1^2}{0!} + \frac{2^2}{1!} + \frac{3^2}{2!} + \frac{4^2}{3!} + \cdots$$
+> is equal to
+> 
+> **A)** $2e$ $\quad$ **B)** $4e$ $\quad$ **C)** $5e$ $\quad$ **D)** $5e^2$ $\quad$ **E)** $(e + 1)^2$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest power of 2 dividing 2011^2012 - 1*
 
-> What is the greatest power of 2 that divides $2011^{2012} - 1$?
-> 
+> Qual é a maior potência de 2 que divide $2011^{2012} - 1$?
+>
 > **A)** 2 $\quad$ **B)** 4 $\quad$ **C)** 8 $\quad$ **D)** 16 $\quad$ **E)** 32
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -794,20 +1153,37 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest power of 2 dividing 2011^2012 - 1*
+
+> What is the greatest power of 2 that divides $2011^{2012} - 1$?
+> 
+> **A)** 2 $\quad$ **B)** 4 $\quad$ **C)** 8 $\quad$ **D)** 16 $\quad$ **E)** 32
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Side of Morley triangle of isosceles right triangle with legs 2*
 
-> The *theorem of Morley* states that, by drawing the lines that divide each interior angle of a triangle into three equal angles, we obtain an equilateral triangle called the *Morley triangle of $ABC$*, as highlighted in detail in the figure to follow.
-> 
-> What is the measure of the side of the Morley triangle of an isosceles right triangle whose legs measure 2?
-> 
-> **A)** $2\sqrt{2} - \sqrt{6}$ $\quad$ **B)** $\sqrt{3} - \sqrt{2}$ $\quad$ **C)** $\sqrt{6} - 2$ $\quad$ **D)** $2 - \sqrt{3}$ $\quad$ **E)** $2\sqrt{3} - \sqrt{6}$
-
-![[src_obm_2012_n3_f1__Q22.png]]
+> O teorema de Morley diz que, ao traçarmos as retas que dividem cada ângulo interno de um triângulo $ABC$ em três ângulos iguais, obtemos um triângulo equilátero chamado triângulo de Morley de $ABC$, como o que está destacado na figura a seguir.
+>
+> Qual é a medida do lado do triângulo de Morley de um triângulo retângulo isósceles cujos catetos medem 2?
+>
+> **A)** $2\sqrt{2} - \sqrt{6}$ $\quad$ **B)** $\sqrt{3} - \sqrt{2}$ $\quad$ **C)** $\sqrt{6} - 2$
+>
+> **D)** $2 - \sqrt{3}$ $\quad$ **E)** $2\sqrt{3} - \sqrt{6}$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -836,15 +1212,36 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Side of Morley triangle of isosceles right triangle with legs 2*
+
+> The *theorem of Morley* states that, by drawing the lines that divide each interior angle of a triangle into three equal angles, we obtain an equilateral triangle called the *Morley triangle of $ABC$*, as highlighted in detail in the figure to follow.
+> 
+> What is the measure of the side of the Morley triangle of an isosceles right triangle whose legs measure 2?
+> 
+> **A)** $2\sqrt{2} - \sqrt{6}$ $\quad$ **B)** $\sqrt{3} - \sqrt{2}$ $\quad$ **C)** $\sqrt{6} - 2$ $\quad$ **D)** $2 - \sqrt{3}$ $\quad$ **E)** $2\sqrt{3} - \sqrt{6}$
+
+![[src_obm_2012_n3_f1__Q22.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Largest attractive number below 2012 built from sums of 1,3,13,31*
 
-> For Mariazinha, there exist only some numbers that she considers attractive: 1, 3, 13 and 31. A number, however, will only be considered attractive if it can be expressed as a sum of one or more of these attractive numbers. For example, $1 + 3 + 3 + 13 + 31 = 51$ is quite attractive. If some attractive numbers are summed in order to make up 2012, what is the largest attractive number (smaller than 2012)?
-> 
+> Para Mariazinha, existem somente quatro números que ela considera atraentes: 1, 3, 13 e 31. Um outro número será quase atraente somente se puder ser expresso como soma de pelo menos um de cada um dos quatro números atraentes. Por exemplo, $1 + 3 + 3 + 3 + 13 + 31 = 54$ é quase atraente. No mínimo, quantos números atraentes devem ser somados para mostrar que 2012 é um número quase atraente?
+>
 > **A)** 68 $\quad$ **B)** 70 $\quad$ **C)** 71 $\quad$ **D)** 99 $\quad$ **E)** 2011
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
@@ -870,17 +1267,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest attractive number below 2012 built from sums of 1,3,13,31*
+
+> For Mariazinha, there exist only some numbers that she considers attractive: 1, 3, 13 and 31. A number, however, will only be considered attractive if it can be expressed as a sum of one or more of these attractive numbers. For example, $1 + 3 + 3 + 13 + 31 = 51$ is quite attractive. If some attractive numbers are summed in order to make up 2012, what is the largest attractive number (smaller than 2012)?
+> 
+> **A)** 68 $\quad$ **B)** 70 $\quad$ **C)** 71 $\quad$ **D)** 99 $\quad$ **E)** 2011
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of real solutions to cyclic system with 1/x^2 etc*
 
-> How many real solutions does the system have?
+> Quantas soluções reais têm o sistema
 > $$\begin{cases} x + y = \dfrac{1}{z^2} \\[6pt] y + z = \dfrac{1}{x^2} \\[6pt] z + x = \dfrac{1}{y^2} \end{cases}$$
-> 
-> **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 3 $\quad$ **E)** infinitely many
+>
+> **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 4 $\quad$ **E)** infinitas
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -906,17 +1320,34 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of real solutions to cyclic system with 1/x^2 etc*
+
+> How many real solutions does the system have?
+> $$\begin{cases} x + y = \dfrac{1}{z^2} \\[6pt] y + z = \dfrac{1}{x^2} \\[6pt] z + x = \dfrac{1}{y^2} \end{cases}$$
+> 
+> **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 3 $\quad$ **E)** infinitely many
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Product of all entries in a 100x100 table of gcd(i,j) values*
 
-> Esmeralda drew a table with 100 rows and 100 columns and wrote, in row $i$ and column $j$ of the table, $\gcd(i, j)$. For example, she wrote $\gcd(4, 6) = 2$ in row 4, column 6, and she wrote $\gcd(15, 10) = 5$ in row 15, column 10. What is the product of all the numbers in the table?
-> 
-> **A)** $100!^{99}$ $\quad$ **B)** $100!^{100}$ $\quad$ **C)** $100!^{101}$ $\quad$ **D)** $\text{mmc}(1,2,3,\ldots,100)^{99}$ $\quad$ **E)** $\text{mdc}(1,2,3,\ldots,100)^{99}$
+> Esmeralda desenhou uma tabela com 100 linhas e 100 colunas e escreveu, na linha $i$ e coluna $j$ da tabela, $\text{mdc}(i, j)$ se $i < j$ e $\text{mmc}(i, j)$ se $i \geq j$. Por exemplo, na linha 4, coluna 6 ela escreveu $\text{mdc}(4,6) = 2$ e na linha 15, coluna 10 ela escreveu $\text{mmc}(15,10) = 30$. Qual é o produto de todos os $100^{2}$ números da tabela?
+>
+> **A)** $100!^{99}$ $\quad$ **B)** $100!^{100}$ $\quad$ **C)** $100!^{101}$ $\quad$ **D)** $\text{mmc}(1,2,3,\ldots,100)^{100}$ $\quad$ **E)** $\text{mdc}(1,2,3,\ldots,100)^{100}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]]
@@ -938,3 +1369,20 @@ level: OBM Nível 3
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Product of all entries in a 100x100 table of gcd(i,j) values*
+
+> Esmeralda drew a table with 100 rows and 100 columns and wrote, in row $i$ and column $j$ of the table, $\gcd(i, j)$. For example, she wrote $\gcd(4, 6) = 2$ in row 4, column 6, and she wrote $\gcd(15, 10) = 5$ in row 15, column 10. What is the product of all the numbers in the table?
+> 
+> **A)** $100!^{99}$ $\quad$ **B)** $100!^{100}$ $\quad$ **C)** $100!^{101}$ $\quad$ **D)** $\text{mmc}(1,2,3,\ldots,100)^{99}$ $\quad$ **E)** $\text{mdc}(1,2,3,\ldots,100)^{99}$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)

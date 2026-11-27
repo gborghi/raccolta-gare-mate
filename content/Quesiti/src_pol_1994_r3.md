@@ -124,9 +124,7 @@ level: Olimpiade Polacca Round 3
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Tre recipienti, con capacità m e n coprime, versano per ottenere k litri qualsiasi*
-
+*Tre recipienti, due di capacità m e n primi tra loro e il terzo di capacità m+n pieno d'acqua; dimostrare che, travasando, si può ottenere qualsiasi quantità intera di k litri nel terzo recipiente.*
 > Ci vengono dati tre recipienti senza la scala: due di essi, con capacità rispettive di $m$ e $n$ litri, sono vuoti, mentre il terzo, con capacità di $m + n$ litri, è pieno d'acqua, dove $m$ e $n$ sono interi positivi coprimi. Dimostrare che, per ogni $k = 1, 2, \ldots, m + n - 1$, versando da un recipiente all'altro, si possono ottenere esattamente $k$ litri d'acqua nel terzo recipiente.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]

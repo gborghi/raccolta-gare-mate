@@ -12,14 +12,14 @@ level: OBM Nível Universitário
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,method_induzione,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Iterated composition f∘f∘…∘f=0 has real solution given ac<0*
 
-> Consider the function $f:\mathbb{R}\to\mathbb{R}$ given by $f(x)=ax^2+bx+c$, with $a,b,c\in\mathbb{R}$ and $ac<0$. Prove that, for every positive integer $n$, the equation
-> $$\underbrace{f(f(\cdots(f(x))\cdots))}_{n}=0$$
-> has at least one real solution.
+> Considere a função $f:\mathbb{R}\to\mathbb{R}$ dada por $f(x)=ax^2+bx+c$, com $a,b,c\in\mathbb{R}$ e $ac<0$. Prove que, para todo inteiro positivo $n$, a equação
+> $$\underbrace{f(f(\cdots(f(x))\cdots))}_{n\ \text{vezes}}=0$$
+> tem pelo menos uma solução real.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
@@ -44,17 +44,33 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Iterated composition f∘f∘…∘f=0 has real solution given ac<0*
+
+> Consider the function $f:\mathbb{R}\to\mathbb{R}$ given by $f(x)=ax^2+bx+c$, with $a,b,c\in\mathbb{R}$ and $ac<0$. Prove that, for every positive integer $n$, the equation
+> $$\underbrace{f(f(\cdots(f(x))\cdots))}_{n}=0$$
+> has at least one real solution.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_cassetti,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Large subset of {1,…,N} contains a shifted arithmetic-density subinterval*
 
-> Given a positive integer $n$, show that there exists a positive integer $N$ with the following property: if $A$ is a subset of $\{1,2,\ldots,N\}$ with at least $N/2$ elements, then there exists a positive integer $m\le N-n$ such that
+> Dado um inteiro positivo $n$, mostre que existe um inteiro positivo $N$ com a seguinte propriedade: se $A$ é um subconjunto de $\{1,2,\ldots,N\}$ com pelo menos $N/2$ elementos, então existe um inteiro positivo $m\le N-n$ tal que
 > $$|A\cap\{m+1,m+2,\ldots,m+k\}|\ge\frac{k}{2}$$
-> for all $k=1,2,\ldots,n$.
+> para todo $k=1,2,\ldots,n$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -79,19 +95,36 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Large subset of {1,…,N} contains a shifted arithmetic-density subinterval*
+
+> Given a positive integer $n$, show that there exists a positive integer $N$ with the following property: if $A$ is a subset of $\{1,2,\ldots,N\}$ with at least $N/2$ elements, then there exists a positive integer $m\le N-n$ such that
+> $$|A\cap\{m+1,m+2,\ldots,m+k\}|\ge\frac{k}{2}$$
+> for all $k=1,2,\ldots,n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,method_estremalita,method_fattorizzazione,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Limit of supremum of largest root modulus over normalized monic polynomials*
 
-> Consider the set $P_n$ of monic polynomials of degree $n>0$ with complex coefficients
+> Considere o conjunto $P_n$ dos polinômios mônicos de grau $n>0$ e coeficientes complexos
 > $$p(x)=x^n+a_{n-1}x^{n-1}+\cdots+a_0$$
-> satisfying $|a_{n-1}|^2+|a_{n-2}|^2+\cdots+|a_0|^2=1$.
-> 
-> For $p(x)\in P_n$, let $r(p(x))$ be the maximum of the moduli of the roots of $p(x)$, and let
-> $$s(n)=\sup_{p\in P_n}r(p(x)).$$
+> satisfazendo $|a_0|^2+|a_1|^2+\cdots+|a_{n-1}|^2=1$.
+>
+> Para $p(x)\in P_n$, seja $r(p(x))$ o máximo entre os módulos das raízes de $p(x)$ e
+> $$s(n)=\sup_{p(x)\in P_n}r(p(x)).$$
 > Determine $\displaystyle\lim_{n\to\infty}s(n)$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
@@ -121,15 +154,35 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Limit of supremum of largest root modulus over normalized monic polynomials*
+
+> Consider the set $P_n$ of monic polynomials of degree $n>0$ with complex coefficients
+> $$p(x)=x^n+a_{n-1}x^{n-1}+\cdots+a_0$$
+> satisfying $|a_{n-1}|^2+|a_{n-2}|^2+\cdots+|a_0|^2=1$.
+> 
+> For $p(x)\in P_n$, let $r(p(x))$ be the maximum of the moduli of the roots of $p(x)$, and let
+> $$s(n)=\sup_{p\in P_n}r(p(x)).$$
+> Determine $\displaystyle\lim_{n\to\infty}s(n)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Continuous f with f∘f=exp grows faster than any polynomial*
 
-> Let $f:\mathbb{R}\to\mathbb{R}$ be a continuous function such that $f(f(x))=e^x$ for all $x\in\mathbb{R}$. Prove that, for every positive integer $n$,
+> Seja $f:\mathbb{R}\to\mathbb{R}$ uma função contínua tal que $f(f(x))=e^x$ para todo $x\in\mathbb{R}$. Prove que, para todo inteiro positivo $n$,
 > $$\lim_{x\to+\infty}\frac{f(x)}{x^n}=+\infty.$$
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
@@ -154,19 +207,34 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Continuous f with f∘f=exp grows faster than any polynomial*
+
+> Let $f:\mathbb{R}\to\mathbb{R}$ be a continuous function such that $f(f(x))=e^x$ for all $x\in\mathbb{R}$. Prove that, for every positive integer $n$,
+> $$\lim_{x\to+\infty}\frac{f(x)}{x^n}=+\infty.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count real symmetric square roots of a real symmetric matrix*
 
-> Let $A$ be a real symmetric matrix of order $n$, with eigenvalues $\lambda_1\le\lambda_2\le\cdots\le\lambda_n$ (counted with multiplicity). Determine, in terms of $\lambda_1,\lambda_2,\ldots,\lambda_n$:
-> 
-> a) The number of real symmetric matrices $B$ of order $n$ such that $B^2=A$.
-> 
-> b) The number of real matrices $B$ of order $n$ such that $B^2=A$.
+> Seja $A$ uma matriz real simétrica de ordem $n$, e $\lambda_1\le\lambda_2\le\cdots\le\lambda_n$ seus autovalores (contados com multiplicidade). Determine, em função de $\lambda_1,\lambda_2,\ldots,\lambda_n$:
+>
+> a) O número de matrizes reais simétricas $B$ de ordem $n$ tais que $B^2=A$.
+>
+> b) O número de matrizes reais $B$ de ordem $n$ tais que $B^2=A$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -193,17 +261,35 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count real symmetric square roots of a real symmetric matrix*
+
+> Let $A$ be a real symmetric matrix of order $n$, with eigenvalues $\lambda_1\le\lambda_2\le\cdots\le\lambda_n$ (counted with multiplicity). Determine, in terms of $\lambda_1,\lambda_2,\ldots,\lambda_n$:
+> 
+> a) The number of real symmetric matrices $B$ of order $n$ such that $B^2=A$.
+> 
+> b) The number of real matrices $B$ of order $n$ such that $B^2=A$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *S(a,b)=S(c,d) iff ab/cd is a rational square and S(a,b)∩S(c,d) contains nonzero rational*
 
-> For $a,b\in\mathbb{Q}$, define the set
+> Para $a,b\in\mathbb{Q}$, definimos o conjunto
 > $$S(a,b)=\{ax^2+by^2\mid x,y\in\mathbb{Q}\}$$
-> of rationals that can be written in the form $ax^2+by^2$ with $x,y\in\mathbb{Q}$. Given rationals $a,b,c,d$ all nonzero, show that $S(a,b)=S(c,d)$ if and only if $\dfrac{ab}{cd}$ is the square of a rational number and there exists a nonzero rational $q\in S(a,b)\cap S(c,d)$.
+> dos números racionais que podem ser escritos na forma $ax^2+by^2$ com $x,y\in\mathbb{Q}$. Dados $a,b,c,d$ racionais não nulos, mostre que $S(a,b)=S(c,d)$ se, e somente se, $\dfrac{ab}{cd}$ é o quadrado de um racional e existe um racional não nulo $q\in S(a,b)\cap S(c,d)$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -225,3 +311,20 @@ level: OBM Nível Universitário
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*S(a,b)=S(c,d) iff ab/cd is a rational square and S(a,b)∩S(c,d) contains nonzero rational*
+
+> For $a,b\in\mathbb{Q}$, define the set
+> $$S(a,b)=\{ax^2+by^2\mid x,y\in\mathbb{Q}\}$$
+> of rationals that can be written in the form $ax^2+by^2$ with $x,y\in\mathbb{Q}$. Given rationals $a,b,c,d$ all nonzero, show that $S(a,b)=S(c,d)$ if and only if $\dfrac{ab}{cd}$ is the square of a rational number and there exists a nonzero rational $q\in S(a,b)\cap S(c,d)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)

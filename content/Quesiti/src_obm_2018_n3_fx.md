@@ -12,22 +12,20 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_solida,method_casework,method_conteggio,method_coordinate,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Unit-cube coloring/numbering in n×n×n cube; count by day number*
 
-> A cube $n \times n \times n$ is formed by $n^3$ unit cubes. Initially, one red unit cube is placed at one of the vertices. Each day the red region spreads to face-adjacent unit cubes, and each newly red cube is numbered with the day on which it turned red (the initial cube is numbered on day 1).
-> 
-> For example, in the $2 \times 2 \times 2$ cube: on day 1 there is one red cube (number 1); on day 2 there are four red cubes (one numbered 1, three numbered 2); on day 3 there are seven (one with 1, three with 2, three with 3); on day 4 all eight are red.
-> 
-> a) In the figure we have the four layers of the $4 \times 4 \times 4$ cube, with the unit cubes numbered 1 and 2 already filled in. Copy these four tables onto the answer sheet and fill in the number for each unit cube.
-> 
-> b) In a $10 \times 10 \times 10$ cube, how many unit cubes are numbered $7$? And how many are numbered $13$?
-> 
-> c) In the cube $n \times n \times n$ with $n = 2018$, what number appears most often in the numbering of the unit cubes? (If there is more than one number that appears the maximum number of times, list all of them.)
-
-![[src_obm_2018_n3_fx__Q01.png]]
+> Um cubo $n \times n \times n$ é formado por $n^3$ cubinhos unitários e tem, inicialmente, um cubinho vermelho em somente um de seus vértices. Numeramos esse cubinho com o número 1. A cada dia a partir do dia 2, os cubinhos vizinhos (cubinhos com faces comuns) a cubinhos vermelhos também ficam vermelhos e são numerados com o número do dia.
+>
+> Por exemplo, o cubo $2 \times 2 \times 2$ acima, no primeiro dia, tem um cubinho vermelho com o número 1, no segundo dia tem quatro cubinhos vermelhos, um com o número 1 e três com o número 2, no terceiro dia tem sete, um cubinho com o número 1, três com o número 2 e três com o número 3, e somente no quarto dia terá todos os seus cubinhos na cor vermelha. Para representar a numeração final podemos usar $n$ tabuleiros representando cada uma das $n$ camadas do cubo vistas de frente. Por exemplo, para o cubo $2 \times 2 \times 2$ acima temos as seguintes camadas:
+>
+> a) Na figura a seguir temos as quatro camadas do cubo $4 \times 4 \times 4$ e os cubos numerados com 1 e 2. Copie esses 4 tabuleiros no caderno de respostas e preencha os números de cada cubinho.
+>
+> b) Em um cubo $10 \times 10 \times 10$, quantos cubinhos são numerados com 7? E quantos são numerados com 13?
+>
+> c) Em um cubo $2018 \times 2018 \times 2018$, qual o número que aparece mais vezes na numeração dos cubinhos? (Se houver mais de um número que aparece o maior número de vezes liste todos.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate method]]
@@ -60,25 +58,49 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Unit-cube coloring/numbering in n×n×n cube; count by day number*
+
+> A cube $n \times n \times n$ is formed by $n^3$ unit cubes. Initially, one red unit cube is placed at one of the vertices. Each day the red region spreads to face-adjacent unit cubes, and each newly red cube is numbered with the day on which it turned red (the initial cube is numbered on day 1).
+> 
+> For example, in the $2 \times 2 \times 2$ cube: on day 1 there is one red cube (number 1); on day 2 there are four red cubes (one numbered 1, three numbered 2); on day 3 there are seven (one with 1, three with 2, three with 3); on day 4 all eight are red.
+> 
+> a) In the figure we have the four layers of the $4 \times 4 \times 4$ cube, with the unit cubes numbered 1 and 2 already filled in. Copy these four tables onto the answer sheet and fill in the number for each unit cube.
+> 
+> b) In a $10 \times 10 \times 10$ cube, how many unit cubes are numbered $7$? And how many are numbered $13$?
+> 
+> c) In the cube $n \times n \times n$ with $n = 2018$, what number appears most often in the numbering of the unit cubes? (If there is more than one number that appears the maximum number of times, list all of them.)
+
+![[src_obm_2018_n3_fx__Q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all 'dobralho' quadruples (A,B,C,D) satisfying divisibility conditions*
 
-> A quadruple $(A, B, C, D)$ is called a \emph{dobralho} when $A$, $B$, $C$ are non-zero digits and $D$ is a positive integer such that:
-> 
-> 1. $A \le 8$;
-> 
-> 2. $D > 1$;
-> 
-> 3. $D$ divides all six of the following numbers: $\overline{ABC}$, $\overline{BCA}$, $\overline{CAB}$, $\overline{(A+1)CB}$, $\overline{CB(A+1)}$, $\overline{B(A+1)C}$.
-> 
-> Determine all \emph{dobralho} quadruples.
-> 
-> \textbf{Note:} We use a bar to denote the number formed by concatenating the digits. For example, $\overline{ABC} = 126$ means $A = 1$, $B = 2$, $C = 6$.
+> Uma quádrupla $(A, B, C, D)$ é dita dobarulho quando $A$, $B$ e $C$ são algarismos não nulos e $D$ é um inteiro positivo tais que:
+>
+> 1. $A \le 8$.
+>
+> 2. $D > 1$.
+>
+> 3. $D$ divide os seis números de três algarismos $\overline{ABC}$, $\overline{BCA}$, $\overline{CAB}$, $\overline{(A+1)CB}$, $\overline{CB(A+1)}$ e $\overline{B(A+1)C}$.
+>
+> Determine todas as quádruplas dobarulho.
+>
+> Observação: Estamos usando uma barra para distinguir a representação decimal do número de três algarismos $\overline{ABC}$ do produto $A \cdot B \cdot C$. Por exemplo, se $\overline{ABC} = 126$, então $A = 1$, $B = 2$ e $C = 6$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -111,15 +133,39 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all 'dobralho' quadruples (A,B,C,D) satisfying divisibility conditions*
+
+> A quadruple $(A, B, C, D)$ is called a \emph{dobralho} when $A$, $B$, $C$ are non-zero digits and $D$ is a positive integer such that:
+> 
+> 1. $A \le 8$;
+> 
+> 2. $D > 1$;
+> 
+> 3. $D$ divides all six of the following numbers: $\overline{ABC}$, $\overline{BCA}$, $\overline{CAB}$, $\overline{(A+1)CB}$, $\overline{CB(A+1)}$, $\overline{B(A+1)C}$.
+> 
+> Determine all \emph{dobralho} quadruples.
+> 
+> \textbf{Note:} We use a bar to denote the number formed by concatenating the digits. For example, $\overline{ABC} = 126$ means $A = 1$, $B = 2$, $C = 6$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Acute triangle, circles through A and H tangent to circumcircle, reflections of O over sides; prove three lines concurrent*
 
-> Let $ABC$ be an acute triangle with circumcenter $O$ and orthocenter $H$. The circle with center $X_A$ passes through points $A$ and $H$ and is tangent to the circumcircle of triangle $ABC$. Define points $X_B$ and $X_C$ analogously. Let $O_A$, $O_B$, $O_C$ be the reflections of $O$ over the sides $BC$, $CA$ and $AB$, respectively. Prove that the lines $O_A X_A$, $O_B X_B$ and $O_C X_C$ are concurrent.
+> Seja $ABC$ um triângulo acutângulo de circuncentro $O$ e ortocentro $H$. A circunferência de centro $X_A$ passa pelos pontos $A$ e $H$ e tangencia o circuncírculo do triângulo $ABC$. Defina de maneira análoga os pontos $X_B$ e $X_C$. Sejam $O_A$, $O_B$ e $O_C$ os simétricos de $O$ em relação aos lados $BC$, $CA$ e $AB$, respectivamente. Prove que as retas $O_A X_A$, $O_B X_B$ e $O_C X_C$ são concorrentes.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -142,21 +188,36 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangle, circles through A and H tangent to circumcircle, reflections of O over sides; prove three lines concurrent*
+
+> Let $ABC$ be an acute triangle with circumcenter $O$ and orthocenter $H$. The circle with center $X_A$ passes through points $A$ and $H$ and is tangent to the circumcircle of triangle $ABC$. Define points $X_B$ and $X_C$ analogously. Let $O_A$, $O_B$, $O_C$ be the reflections of $O$ over the sides $BC$, $CA$ and $AB$, respectively. Prove that the lines $O_A X_A$, $O_B X_B$ and $O_C X_C$ are concurrent.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Incircle tangency in XYZ; then congruent triangles and cyclic quad for altitude/incenters*
 
-> a) In triangle $XYZ$, the incircle is tangent to sides $XY$ and $XZ$ at points $T$ and $W$, respectively. Prove that
+> a) Num triângulo $XYZ$, o incírculo tangencia os lados $XY$ e $XZ$ nos pontos $T$ e $W$, respectivamente. Prove que
 > $$XT = XW = \frac{XY + XZ - YZ}{2}.$$
-> 
-> Let $ABC$ be a triangle and $D$ the foot of the altitude from $A$. Let $I$ and $J$ be the incenters of triangles $ABD$ and $ACD$, respectively. The incircles of $ABD$ and $ACD$ are tangent to $AD$ at points $M$ and $N$, respectively. Let $P$ be the point of tangency of the incircle of $ABC$ with side $AB$. The circle with center $A$ and radius $AP$ intersects the altitude $AD$ at $K$.
-> 
-> b) Show that triangles $IMK$ and $KNJ$ are congruent.
-> 
-> c) Show that the quadrilateral $IDJK$ is cyclic.
+>
+> Seja $ABC$ um triângulo e $D$ o pé da altura relativa ao lado $A$. Sejam $I$ e $J$ os incentros dos triângulos $ABD$ e $ACD$, respectivamente. Os incírculos de $ABD$ e $ACD$ tangenciam $AD$ nos pontos $M$ e $N$, respectivamente. Seja $P$ o ponto de tangência do incírculo inscrito de $ABC$ com o lado $AB$. O círculo de centro $A$ e raio $AP$ intersecta a altura $AD$ em $K$.
+>
+> b) Mostre que os triângulos $IMK$ e $KNJ$ são congruentes.
+>
+> c) Mostre que o quadrilátero $IDJK$ é inscritível.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -186,20 +247,42 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Incircle tangency in XYZ; then congruent triangles and cyclic quad for altitude/incenters*
+
+> a) In triangle $XYZ$, the incircle is tangent to sides $XY$ and $XZ$ at points $T$ and $W$, respectively. Prove that
+> $$XT = XW = \frac{XY + XZ - YZ}{2}.$$
+> 
+> Let $ABC$ be a triangle and $D$ the foot of the altitude from $A$. Let $I$ and $J$ be the incenters of triangles $ABD$ and $ACD$, respectively. The incircles of $ABD$ and $ACD$ are tangent to $AD$ at points $M$ and $N$, respectively. Let $P$ be the point of tangency of the incircle of $ABC$ with side $AB$. The circle with center $A$ and radius $AP$ intersects the altitude $AD$ at $K$.
+> 
+> b) Show that triangles $IMK$ and $KNJ$ are congruent.
+> 
+> c) Show that the quadrilateral $IDJK$ is cyclic.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,method_invarianti,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Board with 1–10; erase a,b write a+b+ab/S; find operation count and max remaining value*
 
-> On a board the numbers $1, 2, \ldots, 10$ are written. At each step we choose two numbers $a$ and $b$ on the board, erase them, and write the number
-> $$a + b + \frac{ab}{S_{a,b}}$$
-> in their place, where $S_{a,b}$ is the sum of all numbers on the board other than $a$ and $b$. After performing this operation several times, only two numbers $x$ and $y$ remain on the board, with $x \ge y$.
-> 
-> a) How many operations were performed?
-> 
-> b) Determine the maximum possible value of $x$.
+> Numa lousa estão escritos inicialmente os números $1, 2, \ldots, 10$. Para quaisquer dois números $a$ e $b$ na lousa chamamos de $S_{a,b}$ a soma de todos os números na lousa com exceção de $a$ e $b$. Uma operação permitida é escolher dois números $a$ e $b$ na lousa, apagá-los e escrever o número
+> $$a + b + \frac{ab}{S_{a,b}}.$$
+> Após realizar essa operação algumas vezes restam na lousa apenas dois números $x$ e $y$, com $x \ge y$.
+>
+> a) Quantas operações foram realizadas?
+>
+> b) Determine o maior valor possível para $x$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -228,17 +311,37 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Board with 1–10; erase a,b write a+b+ab/S; find operation count and max remaining value*
+
+> On a board the numbers $1, 2, \ldots, 10$ are written. At each step we choose two numbers $a$ and $b$ on the board, erase them, and write the number
+> $$a + b + \frac{ab}{S_{a,b}}$$
+> in their place, where $S_{a,b}$ is the sum of all numbers on the board other than $a$ and $b$. After performing this operation several times, only two numbers $x$ and $y$ remain on the board, with $x \ge y$.
+> 
+> a) How many operations were performed?
+> 
+> b) Determine the maximum possible value of $x$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Digit sum s(n): find all positive integer pairs (a,b) making s(an+b)−s(n) finitely valued*
 
-> For every positive integer $n$, define $s(n)$ as the sum of the digits of $n$. Determine all pairs $(a, b)$ of positive integers for which
+> Para todo inteiro positivo $n$ definimos $s(n)$ como a soma dos dígitos de $n$. Determine todos os pares $(a, b)$ de inteiros positivos para os quais
 > $$s(an + b) - s(n)$$
-> takes only finitely many values as $n$ ranges over all positive integers.
+> assume um número finito de valores ao variar $n$ nos inteiros positivos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Casework]]
@@ -261,3 +364,19 @@ level: OBM Nível 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Digit sum s(n): find all positive integer pairs (a,b) making s(an+b)−s(n) finitely valued*
+
+> For every positive integer $n$, define $s(n)$ as the sum of the digits of $n$. Determine all pairs $(a, b)$ of positive integers for which
+> $$s(an + b) - s(n)$$
+> takes only finitely many values as $n$ ranges over all positive integers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)

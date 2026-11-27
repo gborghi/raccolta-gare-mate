@@ -214,9 +214,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*I conteggi di bilanciamento dei punti interi bicolori lungo linee parallele agli assi*
-
+*Colorazione bicolore di un insieme finito di punti interi del piano in modo che, su ogni retta parallela agli assi, i due colori differiscano al più di 1.*
 > Si ha a disposizione un insieme finito di punti nel piano, ciascuno con coordinate intere. È sempre possibile colorare di rosso alcuni dei punti dell'insieme e di bianco i restanti in modo che, per ogni retta L parallela a uno dei due assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e il numero di punti rossi su L non sia superiore a 1?
 
 

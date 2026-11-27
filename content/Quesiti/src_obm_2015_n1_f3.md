@@ -12,20 +12,18 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_solida,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count cubes in cubic frames (skeletons); find special frame size*
 
-> Zuleica glues equal polystyrene cubes to build \"skeletons\" of cubes (cubic frames), as in the example shown in the figure.
-> 
-> a) How many cubes did she use to build the skeleton shown in the figure?
-> 
-> b) If she wants to complete the largest cube that contains the skeleton, filling all the empty spaces and continuing to build the skeleton, how many cubes in total will she need? How many additional cubes will she have to use?
-> 
-> c) There exists a cube whose skeleton, once built, requires a number of cubes equal to the number of cubes needed to fill the empty spaces of that skeleton. If Zuleica wants to build the skeleton of this cube, how many cubes will she need to use?
-
-![[src_obm_2015_n1_f3__Q01.png]]
+> Zuleica cola cubinhos iguais de isopor para montar “esqueletos” de cubos, estruturas conforme o exemplo dado.
+>
+> a) Quantos cubinhos ela usou para montar o esqueleto da figura?
+>
+> b) Se ela quiser completar o maior cubo maciço com este esqueleto, preenchendo os espaços vazios com cubinhos iguais aos usados e continuando a ver o esqueleto, quantos cubinhos a mais deverá usar?
+>
+> c) Existe um cubo cujo esqueleto, para ser montado, precisa de uma quantidade de cubinhos igual à quantidade de cubinhos necessários para completar os espaços vazios do esqueleto desse cubo. Se Zuleica quiser montar esse esqueleto, quantos cubinhos terá que usar?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -56,23 +54,43 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count cubes in cubic frames (skeletons); find special frame size*
+
+> Zuleica glues equal polystyrene cubes to build \"skeletons\" of cubes (cubic frames), as in the example shown in the figure.
+> 
+> a) How many cubes did she use to build the skeleton shown in the figure?
+> 
+> b) If she wants to complete the largest cube that contains the skeleton, filling all the empty spaces and continuing to build the skeleton, how many cubes in total will she need? How many additional cubes will she have to use?
+> 
+> c) There exists a cube whose skeleton, once built, requires a number of cubes equal to the number of cubes needed to fill the empty spaces of that skeleton. If Zuleica wants to build the skeleton of this cube, how many cubes will she need to use?
+
+![[src_obm_2015_n1_f3__Q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Nine cards 1–9 stacked; three people draw two each; analyse remaining sums*
 
-> Nine cards numbered $1$ to $9$ were shuffled and stacked. Ana, Beto, and C\u00e9lio each drew two cards, leaving three cards on the pile.
-> 
-> a) What is the greatest possible sum of the numbers on the cards that remained on the table?
-> 
-> b) If the sum of the numbers on each person's pair of cards is the same for all three people, what is the smallest possible sum of the numbers on the cards left on the table?
-> 
-> c) In how many different ways can the situation described in (b) occur (i.e., in how many ways can the $6$ drawn cards be divided into three pairs all having the same sum)?
-
-![[src_obm_2015_n1_f3__Q02.png]]
+> Nove cartões numerados de $1$ a $9$ em uma de suas faces foram misturados e empilhados. Ana, Beto e Célio pegaram dois cartões cada um, deixando três cartões na pilha.
+>
+> a) Qual é a maior soma possível dos números dos cartões que sobraram sobre a mesa?
+>
+> b) Se a soma dos números dos cartões de cada um deles for um número par, qual é a menor soma possível dos números dos cartões deixados sobre a mesa?
+>
+> c) De quantas maneiras diferentes ocorre a situação em que a soma dos números dos cartões de cada uma das três pessoas é um número par?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -103,21 +121,43 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Nine cards 1–9 stacked; three people draw two each; analyse remaining sums*
+
+> Nine cards numbered $1$ to $9$ were shuffled and stacked. Ana, Beto, and C\u00e9lio each drew two cards, leaving three cards on the pile.
+> 
+> a) What is the greatest possible sum of the numbers on the cards that remained on the table?
+> 
+> b) If the sum of the numbers on each person's pair of cards is the same for all three people, what is the smallest possible sum of the numbers on the cards left on the table?
+> 
+> c) In how many different ways can the situation described in (b) occur (i.e., in how many ways can the $6$ drawn cards be divided into three pairs all having the same sum)?
+
+![[src_obm_2015_n1_f3__Q02.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_backward,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Truck driver measures log length via uphill/downhill pace counts*
 
-> Coming down from a hill, a truck driver found a log blocking the road. To measure the length of the log, he did the following: starting from the base of the log he walked to the top, counting $20$ paces; then immediately turned around and walked from the top of the log back to the base, counting $140$ paces. His paces are $80$ centimetres long, and each pace he takes moves him forward by the same distance.
-> 
-> a) Let $\ell$ be the length of the log in metres. How many metres did the truck driver walk while taking his $20$ paces up to the top of the log? (The letter $\ell$ must appear in your answer.)
-> 
-> b) What is the value of $\ell$?
-
-![[src_obm_2015_n1_f3__Q03.png]]
+> Descendo por uma estradinha, Paco encontrou um caminhão carregando um enorme tronco de árvore. Querendo calcular o comprimento do tronco, ele fez o seguinte: a partir da base do tronco ele caminhou a passos largos até o topo do tronco, contando $20$ passos, e, imediatamente, voltou e andou até a base do tronco, contando $140$ passos. Seus passos medem $80$ centímetros e o tempo para dar cada passo é sempre o mesmo.
+>
+> a) Seja $\ell$ o comprimento do tronco, em metros. Quantos metros andou o caminhão enquanto Paco deu os $20$ passos até o topo do tronco?
+>
+> Como o tamanho do tronco é $\ell$, na sua resposta deve aparecer a letra $\ell$.
+>
+> b) Qual é o valor de $\ell$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
@@ -146,22 +186,43 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Truck driver measures log length via uphill/downhill pace counts*
+
+> Coming down from a hill, a truck driver found a log blocking the road. To measure the length of the log, he did the following: starting from the base of the log he walked to the top, counting $20$ paces; then immediately turned around and walked from the top of the log back to the base, counting $140$ paces. His paces are $80$ centimetres long, and each pace he takes moves him forward by the same distance.
+> 
+> a) Let $\ell$ be the length of the log in metres. How many metres did the truck driver walk while taking his $20$ paces up to the top of the log? (The letter $\ell$ must appear in your answer.)
+> 
+> b) What is the value of $\ell$?
+
+![[src_obm_2015_n1_f3__Q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cryptarithmetic expression with 8 distinct nonzero digits; prove and solve*
 
-> In the expression below, each letter represents a nonzero digit and two different letters represent different digits:
-> $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O )$$
-> 
-> a) If the values of the letters are assigned in alphabetical order (i.e., $A \le E \le F$, etc.), what is the value of the expression?
-> 
-> b) Show that the value of the expression can never equal $2015$.
-> 
-> c) Find the value of each letter in the equality:
-> $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O ) = 1715$$
+> Na expressão abaixo, cada letra representa um algarismo diferente de zero e duas letras diferentes representam algarismos diferentes:
+> $$(F + E + L + I + Z) \times (A + N + O) \times (N + O + V + O)$$
+>
+> a) Se os valores das letras aumentam de acordo com a ordem alfabética (isto é, $A < E < F$, etc.), qual é o valor da expressão?
+>
+> b) Mostre que o valor da expressão nunca poderá ser igual a $2015$.
+>
+> c) Ache o valor de cada uma das letras na igualdade:
+> $$(F + E + L + I + Z) \times (A + N + O) \times (N + O + V + O) = 1715$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -192,21 +253,41 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cryptarithmetic expression with 8 distinct nonzero digits; prove and solve*
+
+> In the expression below, each letter represents a nonzero digit and two different letters represent different digits:
+> $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O )$$
+> 
+> a) If the values of the letters are assigned in alphabetical order (i.e., $A \le E \le F$, etc.), what is the value of the expression?
+> 
+> b) Show that the value of the expression can never equal $2015$.
+> 
+> c) Find the value of each letter in the equality:
+> $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O ) = 1715$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triangle areas with midpoint, squares built on sides, and nested squares figure*
 
-> a) Point $M$ belongs to side $BC$ of triangle $ABC$ in such a way that $BM = MC$. If the area of triangle $AMC$ is equal to $5\text{ cm}^2$, what is the area of triangle $ABC$?
-> 
-> b) On each side of a triangle of area $10\text{ cm}^2$, a square was constructed using one vertex of the triangle and two vertices of the squares, as shown in Figure 1. Then the squares were removed and each of the triangles constructed using one side of the initial triangle and two vertices of the squares was rotated $180^\circ$ about the midpoint of the corresponding side, to coincide with that side of the initial triangle, as shown in Figure 2. What is the area of the figure formed by the four triangles?
-> 
-> c) In the figure below, there are squares $ABCD$, $EFGH$, $CHIJ$, $LDJM$, and $JGON$. It is known that $AB = 5$ cm, $BI = 5$ cm, $IE = 5$ cm, and $EF = 12$ cm. What is the area of triangle $MNJ$?
-
-![[src_obm_2015_n1_f3__Q05.png]]
+> a) O ponto $M$ pertence ao lado $BC$ do triângulo $ABC$ ao lado de modo que $BM = MC$. Se a área do triângulo $AMC$ é igual a $5\text{ cm}^2$, qual é a área do triângulo $ABC$?
+>
+> b) Sobre cada lado de um triângulo de área $10\text{ cm}^2$ foi construído um quadrado. Em seguida, foram construídos três triângulos usando um vértice do triângulo e dois vértices dos quadrados, como mostrado na Figura 1. Depois, os quadrados foram retirados e cada um dos triângulos construídos foi girado até um de seus lados coincidir com um lado do triângulo inicial. Qual é a área da Figura 2, formada pelos quatro triângulos?
+>
+> c) Na figura a seguir, temos os quadrados $ABCD$, $EFGH$, $CIHJ$, $LDJM$ e $JGON$. Sabe-se que $AB = 5$ cm, $BI = 12$ cm, $IE = 5$ cm e $EF = 12$ cm. Qual é a área do triângulo $MNJ$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
@@ -233,3 +314,23 @@ level: OBM Nível 1
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle areas with midpoint, squares built on sides, and nested squares figure*
+
+> a) Point $M$ belongs to side $BC$ of triangle $ABC$ in such a way that $BM = MC$. If the area of triangle $AMC$ is equal to $5\text{ cm}^2$, what is the area of triangle $ABC$?
+> 
+> b) On each side of a triangle of area $10\text{ cm}^2$, a square was constructed using one vertex of the triangle and two vertices of the squares, as shown in Figure 1. Then the squares were removed and each of the triangles constructed using one side of the initial triangle and two vertices of the squares was rotated $180^\circ$ about the midpoint of the corresponding side, to coincide with that side of the initial triangle, as shown in Figure 2. What is the area of the figure formed by the four triangles?
+> 
+> c) In the figure below, there are squares $ABCD$, $EFGH$, $CHIJ$, $LDJM$, and $JGON$. It is known that $AB = 5$ cm, $BI = 5$ cm, $IE = 5$ cm, and $EF = 12$ cm. What is the area of triangle $MNJ$?
+
+![[src_obm_2015_n1_f3__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)

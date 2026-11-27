@@ -12,31 +12,29 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_grafi,method_invarianti,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Islands with each island on exactly two routes; swapping routes to connect them; number of cycles and minimum months.*
 
-![[src_obm_2026_n2_fx__Q01.png]]
-
-> Maria owns $n$ islands. Some pairs of distinct islands are joined by sea routes, on which ships sail in both directions. Each island belongs to exactly two routes and there are no two routes between the same pair of islands.
+> Maria possui $n$ ilhas. Alguns pares de ilhas distintas são ligados por rotas marítimas, nas quais circulam navios em ambos os sentidos. Cada ilha pertence a exatamente duas rotas e não há duas rotas entre o mesmo par de ilhas.
 >
-> A *cycle* is a ship journey that starts and ends at the same island without repeating islands or routes, except for the starting island. In the map below there are the cycles $F-G-K-F$, $A-B-J-D-A$ and $C-E-H-I-C$. Cycles that differ only in the starting island or in the direction are considered equal; for example, the cycles $F-G-K-F$ and $G-F-K-G$ are equal.
+> Um ciclo é um trajeto de um navio que começa e termina na mesma ilha não repetindo ilhas nem rotas, exceto pela ilha inicial. No mapa abaixo, há os ciclos $F-G-K-F$, $A-B-J-D-A$ e $C-E-H-I-C$. Ciclos que diferem apenas pela ilha inicial ou pelo sentido são considerados iguais. Por exemplo, os ciclos $F-G-K-F$ e $G-F-K-G$ são iguais.
 >
-> Maria wants to modify the routes until a ship can sail from any island to any other along the routes. Each month she chooses four distinct islands $X, Y, Z, W$ such that the routes $X-Y$ and $Z-W$ exist but the routes $X-Z$ and $Y-W$ do not. The routes $X-Y$ and $Z-W$ are then removed and replaced by the new routes $X-Z$ and $Y-W$.
+> Maria quer modificar as rotas até que um navio possa navegar de qualquer ilha a qualquer outra através das rotas. A cada mês, ela escolhe quatro ilhas distintas $X$, $Y$, $Z$, $W$ tais que existam as rotas $X-Y$ e $Z-W$, mas não existam as rotas $X-Z$ nem $Y-W$. As rotas $X-Y$ e $Z-W$ serão então removidas e substituídas pelas novas rotas $X-Z$ e $Y-W$.
 >
-> (a) In the case $n=11$ with the route map above, Maria makes the following replacements:
+> (a) Considerando o caso $n=11$ com o mapa de rotas acima, Maria fará as seguintes substituições:
 >
-> | | Month 1 | Month 2 | Month 3 |
+> | | Mês 1 | Mês 2 | Mês 3 |
 > |---|---|---|---|
-> | Routes removed | $F-G$, $H-E$ | $I-C$, $G-K$ | $A-B$, $F-H$ |
-> | Routes added | $F-H$, $G-E$ | $I-G$, $C-K$ | $A-F$, $B-H$ |
+> | Rotas Excluídas | $F-G$, $H-E$ | $I-C$, $G-K$ | $A-B$, $F-H$ |
+> | Rotas Adicionadas | $F-H$, $G-E$ | $I-G$, $C-K$ | $A-F$, $B-H$ |
 >
-> How many cycles are there after each replacement?
+> Qual a quantidade de ciclos após cada substituição?
 >
-> (b) For arbitrary $n$, explain why, in any month of the reorganisation, the routes can be split into cycles so that each route and each island belongs to exactly one of them.
+> (b) Para um $n$ qualquer, explique por que, em qualquer mês da reformulação, as rotas poderão ser divididas em ciclos de modo que cada rota e cada ilha pertençam a exatamente um deles.
 >
-> (c) For an arbitrary initial map with $n=2026$ and 314 cycles, what is the smallest number of months Maria needs to reach her goal? You must prove why this number suffices and why it is not possible with fewer.
+> (c) Em um mapa inicial qualquer com $n=2026$ e $314$ ciclos, qual é o menor número de meses necessário para Maria cumprir seu objetivo? Você deve demonstrar por que essa quantidade é suficiente e por que não é possível com uma quantidade menor.
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_grafi|Graph theory]], [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
@@ -80,15 +78,50 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Islands with each island on exactly two routes; swapping routes to connect them; number of cycles and minimum months.*
+
+![[src_obm_2026_n2_fx__Q01.png]]
+
+> Maria owns $n$ islands. Some pairs of distinct islands are joined by sea routes, on which ships sail in both directions. Each island belongs to exactly two routes and there are no two routes between the same pair of islands.
+>
+> A *cycle* is a ship journey that starts and ends at the same island without repeating islands or routes, except for the starting island. In the map below there are the cycles $F-G-K-F$, $A-B-J-D-A$ and $C-E-H-I-C$. Cycles that differ only in the starting island or in the direction are considered equal; for example, the cycles $F-G-K-F$ and $G-F-K-G$ are equal.
+>
+> Maria wants to modify the routes until a ship can sail from any island to any other along the routes. Each month she chooses four distinct islands $X, Y, Z, W$ such that the routes $X-Y$ and $Z-W$ exist but the routes $X-Z$ and $Y-W$ do not. The routes $X-Y$ and $Z-W$ are then removed and replaced by the new routes $X-Z$ and $Y-W$.
+>
+> (a) In the case $n=11$ with the route map above, Maria makes the following replacements:
+>
+> | | Month 1 | Month 2 | Month 3 |
+> |---|---|---|---|
+> | Routes removed | $F-G$, $H-E$ | $I-C$, $G-K$ | $A-B$, $F-H$ |
+> | Routes added | $F-H$, $G-E$ | $I-G$, $C-K$ | $A-F$, $B-H$ |
+>
+> How many cycles are there after each replacement?
+>
+> (b) For arbitrary $n$, explain why, in any month of the reorganisation, the routes can be split into cycles so that each route and each island belongs to exactly one of them.
+>
+> (c) For an arbitrary initial map with $n=2026$ and 314 cycles, what is the smallest number of months Maria needs to reach her goal? You must prove why this number suffices and why it is not possible with fewer.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=1)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Acute triangle with orthocentre H, angle PHQ = 90°, BX ∥ PH, CX ∥ QH; prove HX ⊥ PQ.*
 
-> Let $ABC$ be an acute triangle with orthocentre $H$. Let $P$ and $Q$ be points in the interiors of sides $AB$ and $AC$, respectively, such that $\angle PHQ=90^\circ$. Let $X$ be a point such that $BX$ is parallel to $PH$ and $CX$ is parallel to $QH$. Show that $HX$ and $PQ$ are perpendicular.
+> Seja $ABC$ um triângulo acutângulo com ortocentro $H$. Sejam $P$ e $Q$ pontos nos interiores dos lados $AB$ e $AC$, respectivamente, tais que $\angle PHQ=90^\circ$. Seja $X$ um ponto tal que $BX$ é paralelo a $PH$ e $CX$ é paralelo a $QH$. Mostre que $HX$ e $PQ$ são perpendiculares.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
@@ -113,19 +146,35 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangle with orthocentre H, angle PHQ = 90°, BX ∥ PH, CX ∥ QH; prove HX ⊥ PQ.*
+
+> Let $ABC$ be an acute triangle with orthocentre $H$. Let $P$ and $Q$ be points in the interiors of sides $AB$ and $AC$, respectively, such that $\angle PHQ=90^\circ$. Let $X$ be a point such that $BX$ is parallel to $PH$ and $CX$ is parallel to $QH$. Show that $HX$ and $PQ$ are perpendicular.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=1)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest c such that floor(x√n) > floor(x√(n−1)) > … > floor(x√1) for all x ≥ c.*
 
-> Let $n$ be a positive integer. Determine, as a function of $n$, the smallest real number $c$ such that, for every real number $x\ge c$,
+> Seja $n$ um inteiro positivo. Determine, em função de $n$, o menor número real $c$ tal que, para todo número real $x\ge c$, temos
 >
 > $$\lfloor x\sqrt n\rfloor>\lfloor x\sqrt{n-1}\rfloor>\cdots>\lfloor x\sqrt2\rfloor>\lfloor x\sqrt1\rfloor.$$
 >
-> *Remark:* for a real number $y$, $\lfloor y\rfloor$ denotes the largest integer less than or equal to $y$. For example, $\lfloor2\rfloor=2$, $\lfloor\sqrt5\rfloor=2$ and $\lfloor-\pi\rfloor=-4$.
+> Observação: para um número real $y$, define-se $\lfloor y\rfloor$ como o maior inteiro que é menor ou igual a $y$. Por exemplo, $\lfloor 2\rfloor=2$, $\lfloor\sqrt5\rfloor=2$ e $\lfloor-\pi\rfloor=-4$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Classical inequalities]]
@@ -154,15 +203,35 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest c such that floor(x√n) > floor(x√(n−1)) > … > floor(x√1) for all x ≥ c.*
+
+> Let $n$ be a positive integer. Determine, as a function of $n$, the smallest real number $c$ such that, for every real number $x\ge c$,
+>
+> $$\lfloor x\sqrt n\rfloor>\lfloor x\sqrt{n-1}\rfloor>\cdots>\lfloor x\sqrt2\rfloor>\lfloor x\sqrt1\rfloor.$$
+>
+> *Remark:* for a real number $y$, $\lfloor y\rfloor$ denotes the largest integer less than or equal to $y$. For example, $\lfloor2\rfloor=2$, $\lfloor\sqrt5\rfloor=2$ and $\lfloor-\pi\rfloor=-4$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=1)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_colorazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *2027 distinct primes around a circle: can all adjacent sums be perfect squares?*
 
-> Agnes wrote 2027 pairwise distinct prime numbers around a circle. Is it possible that all 2027 sums of pairs of adjacent primes on the circle are perfect squares?
+> Agnes escreveu $2027$ números primos distintos dois a dois ao redor de uma circunferência. É possível que todas as $2027$ somas de pares de primos adjacentes na circunferência sejam quadrados perfeitos?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_colorazione|Colouring / parity]]
@@ -187,25 +256,41 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*2027 distinct primes around a circle: can all adjacent sums be perfect squares?*
+
+> Agnes wrote 2027 pairwise distinct prime numbers around a circle. Is it possible that all 2027 sums of pairs of adjacent primes on the circle are perfect squares?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=2)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *√(12x+13) ≥ ax + a + 1 on [−1, 1]; then prove √(12x+13) + √(12y+13) − 1 ≥ (x+y+1)².*
 
-> (a) Determine all real numbers $a$ for which the inequality
+> (a) Determine todos os números reais $a$ para os quais vale a desigualdade
 >
 > $$\sqrt{12x+13}\ge ax+a+1$$
 >
-> holds for every real $x$ with $-1\le x\le1$.
+> para qualquer $x$ real com $-1\le x\le 1$.
 >
-> (b) Prove that
+> (b) Prove que
 >
 > $$\sqrt{12x+13}+\sqrt{12y+13}-1\ge(x+y+1)^2$$
 >
-> for all real $x, y$ with $-1\le x\le1$ and $-1\le y\le1$.
+> para quaisquer $x$, $y$ reais com $-1\le x\le 1$ e $-1\le y\le 1$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Classical inequalities]]
@@ -240,23 +325,47 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*√(12x+13) ≥ ax + a + 1 on [−1, 1]; then prove √(12x+13) + √(12y+13) − 1 ≥ (x+y+1)².*
+
+> (a) Determine all real numbers $a$ for which the inequality
+>
+> $$\sqrt{12x+13}\ge ax+a+1$$
+>
+> holds for every real $x$ with $-1\le x\le1$.
+>
+> (b) Prove that
+>
+> $$\sqrt{12x+13}+\sqrt{12y+13}-1\ge(x+y+1)^2$$
+>
+> for all real $x, y$ with $-1\le x\le1$ and $-1\le y\le1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=2)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_grafi,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *100 × 100 board with 50 numbered diagonal cells; maximum number of extra cells filled with no adjacent distinct numbers.*
 
-![[src_obm_2026_n2_fx__Q06.png]]
-
-> On a $100\times100$ board, 50 cells are already numbered as shown in the figure.
+> Em um tabuleiro $100\times 100$, há $50$ casas previamente numeradas da seguinte forma:
 >
-> Esmeralda wants to write positive integers in some of the empty cells. She wants the final filling of the board to satisfy the following property:
+> Esmeralda deseja escrever números inteiros positivos em algumas das casas vazias. Ela quer que o preenchimento final do tabuleiro satisfaça a seguinte propriedade:
 >
-> *"no two cells sharing a side have distinct numbers written in them".*
+> “não há duas casas que compartilham um lado e possuem números distintos escritos”.
 >
-> Apart from the 50 cells already filled, what is the largest number of cells Esmeralda can fill while satisfying this rule?
+> Além das $50$ casas já preenchidas, qual é o maior número de casas que Esmeralda pode preencher satisfazendo essa regra?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_grafi|Graph theory]]
@@ -287,3 +396,27 @@ level: OBM Nível 2
 **Metodo:** [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*100 × 100 board with 50 numbered diagonal cells; maximum number of extra cells filled with no adjacent distinct numbers.*
+
+![[src_obm_2026_n2_fx__Q06.png]]
+
+> On a $100\times100$ board, 50 cells are already numbered as shown in the figure.
+>
+> Esmeralda wants to write positive integers in some of the empty cells. She wants the final filling of the board to satisfy the following property:
+>
+> *"no two cells sharing a side have distinct numbers written in them".*
+>
+> Apart from the 50 cells already filled, what is the largest number of cells Esmeralda can fill while satisfying this rule?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=2)

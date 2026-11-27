@@ -161,9 +161,7 @@ level: JEGMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*I circocentri di ABC e PQR coincidono; condizione di tangenza dell'incircolo nel triangolo acutangolo*
-
+*I circocentri di ABC e PQR coincidono; condizione di tangenza del cerchio inscritto in un triangolo acutangolo.*
 > Sia $ABC$ un triangolo acutangolo con $AB < AC$. Sia $O$ il circocentro di $\triangle ABC$, e sia $XY$ la lunghezza del segmento $XY$. Sia $J$ il secondo punto d'intersezione della retta $AO$ (prolungata oltre $O$) con la circonferenza circoscritta a $\triangle BCJ$; più precisamente, sia $P$ un punto sul segmento $BC$ tale che $A$, $O$, $P$ siano allineati (cioè $P$ è il piede dell'altezza relativa a $A$ condotta da $O$ a $BC$, oppure è l'intersezione della retta $AO$ con $BC$). Sul segmento $BP$, si scelga un punto $Q$ tale che $AQ = AB$; sul segmento $CP$, si scelga un punto $R$ tale che $AR = AC$.
 >
 > Dimostrare che il circocentro di $\triangle ABC$ coincide con il circocentro di $\triangle PQR$.

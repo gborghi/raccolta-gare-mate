@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest positive integer that is double a cube and quintuple a square*
 
-> What is the smallest positive integer that is the double of a perfect cube and the quintuple of a perfect square?
+> Qual é o menor inteiro positivo que é o dobro de um cubo e o quíntuplo de um quadrado?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -40,16 +40,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest positive integer that is double a cube and quintuple a square*
+
+> What is the smallest positive integer that is the double of a perfect cube and the quintuple of a perfect square?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rectangle divided into 9 squares; find side of square I given side of A is 1*
 
-> A rectangle is divided into 9 squares $A, B, C, D, E, F, G, H$ and $I$. Square $A$ has side length $1$. What is the side length of square $I$?
-
-![[src_obm_2001_n3_f2__Q02.png]]
+> O retângulo ao lado está dividido em 9 quadrados, $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$ e $I$. O quadrado $A$ tem lado $1$. Qual é o lado do quadrado $I$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -74,17 +87,31 @@ level: OBM Nível 3
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rectangle divided into 9 squares; find side of square I given side of A is 1*
+
+> A rectangle is divided into 9 squares $A, B, C, D, E, F, G, H$ and $I$. Square $A$ has side length $1$. What is the side length of square $I$?
+
+![[src_obm_2001_n3_f2__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Trapezoid ABCD with AB∥CD; find angle DAB given angle sum condition*
 
-> Trapezoid $ABCD$ has bases $AB \parallel CD$. Side $DA$ has length $x$ and side $BC$ has length $2x$. The sum of angles $\angle DAB + \angle ABC = 120^\circ$. Determine angle $\angle DAB$.
-
-![[src_obm_2001_n3_f2__Q03.png]]
+> O trapézio $ABCD$ tem bases $AB$ e $CD$. O lado $DA$ mede $x$ e o lado $BC$ mede $2x$. A soma dos ângulos $\angle DAB$ e $\angle ABC$ é $120^\circ$. Determine o ângulo $\angle DAB$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -109,18 +136,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trapezoid ABCD with AB∥CD; find angle DAB given angle sum condition*
+
+> Trapezoid $ABCD$ has bases $AB \parallel CD$. Side $DA$ has length $x$ and side $BC$ has length $2x$. The sum of angles $\angle DAB + \angle ABC = 120^\circ$. Determine angle $\angle DAB$.
+
+![[src_obm_2001_n3_f2__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,method_conteggio,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Venusiano football championship; find minimum points for Vulcano FC to guarantee final*
 
-> The Venusiano football championship is contested by 10 teams over 10 games played in two rounds. In each round every team plays once against each of the other teams. Suppose that Vulcano FC wins all the games of the 1st round. If it does not win the 2nd round game, Vulcano FC will play a tiebreaker match against the winner of the 2nd round. Otherwise (i.e.~if it wins the 2nd round game as well), Vulcano FC goes straight to the final. For each round game the winning team earns 3 points and the losing team earns 0 points; in case of a draw each team earns 1 point. The scores obtained during the tiebreaker match do not count towards the championship standings. It is guaranteed that the team with the most points in each round advances to the final (there are no tiebreakers for points).
-> 
-> a) Determine the smallest $n$ such that if Vulcano FC accumulates \emph{exactly} $n$ points in the second round, this guarantees Vulcano FC a place in the final (independent of how many points the opponent accumulates and what the scores of the other teams are).
-> 
-> b) Determine the smallest $n$ such that if Vulcano FC accumulates \emph{at least} $n$ points in the second round, this guarantees Vulcano FC a place in the final (independent of how many points the opponent accumulates and what the scores of the other teams are).
+> O campeonato Venusiano de futebol é disputado por 10 times, em dois turnos. Em cada turno cada equipe joga uma vez contra cada uma das outras. Suponha que o Vulcano FC vença todas as partidas do $1^\circ$ turno. Caso não vença o $2^\circ$ turno, o Vulcano FC jogará uma final contra o vencedor do $2^\circ$ turno, na qual terá vantagem caso faça mais pontos que o adversário durante todo o campeonato (vitória vale 3 pontos, empate vale 1 ponto e derrota 0 pontos).
+>
+> a) Determine o menor $n$ tal que, se o Vulcano FC fizer exatamente $n$ pontos no segundo turno, garantirá pelo menos a vantagem na final (independente de contra quem e com que placares conquiste os $n$ pontos).
+>
+> b) Determine o menor $n$ tal que, se o Vulcano FC fizer pelo menos $n$ pontos no segundo turno, garantirá pelo menos a vantagem na final (independente de contra quem e com que placares conquiste os $n$ pontos).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Combinatorial counting]]
@@ -147,17 +191,35 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Venusiano football championship; find minimum points for Vulcano FC to guarantee final*
+
+> The Venusiano football championship is contested by 10 teams over 10 games played in two rounds. In each round every team plays once against each of the other teams. Suppose that Vulcano FC wins all the games of the 1st round. If it does not win the 2nd round game, Vulcano FC will play a tiebreaker match against the winner of the 2nd round. Otherwise (i.e.~if it wins the 2nd round game as well), Vulcano FC goes straight to the final. For each round game the winning team earns 3 points and the losing team earns 0 points; in case of a draw each team earns 1 point. The scores obtained during the tiebreaker match do not count towards the championship standings. It is guaranteed that the team with the most points in each round advances to the final (there are no tiebreakers for points).
+> 
+> a) Determine the smallest $n$ such that if Vulcano FC accumulates \emph{exactly} $n$ points in the second round, this guarantees Vulcano FC a place in the final (independent of how many points the opponent accumulates and what the scores of the other teams are).
+> 
+> b) Determine the smallest $n$ such that if Vulcano FC accumulates \emph{at least} $n$ points in the second round, this guarantees Vulcano FC a place in the final (independent of how many points the opponent accumulates and what the scores of the other teams are).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Evaluate nested radical sum expression and express as rational p/q*
 
-> The number
-> $$S = \sum_{a=1}^{2000} \sqrt{1 + \frac{1}{a^2} + \frac{1}{(a+1)^2}}$$
-> is rational; express it in the form $\dfrac{p}{q}$, where $p$ and $q$ are positive integers.
+> O número
+> $$\sum_{a=1}^{2000}\sqrt{1+\frac{1}{a^2}+\frac{1}{(a+1)^2}}$$
+> é racional; escreva-o na forma $\dfrac{p}{q}$, $p$ e $q$ inteiros.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione]]
@@ -182,18 +244,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Evaluate nested radical sum expression and express as rational p/q*
+
+> The number
+> $$S = \sum_{a=1}^{2000} \sqrt{1 + \frac{1}{a^2} + \frac{1}{(a+1)^2}}$$
+> is rational; express it in the form $\dfrac{p}{q}$, where $p$ and $q$ are positive integers.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Circle elimination procedure on n students; find chosen student position*
 
-> To draw a lottery among $n$ students of a school ($n > 1$), the following procedure is adopted. The students are placed in a circle and a count begins with one student in the form: "one, TWO, one, TWO, $\ldots$". Each time TWO is said, the corresponding student is eliminated and the count resumes with the next remaining student. The count continues until only one student remains, and that student is the one chosen.
-> 
-> a) For which values of $n$ is the first student in the circle (the one who begins the count) the one chosen?
-> 
-> b) If there are $192$ students in the initial circle, what is the position in the circle of the chosen student?
+> Para efetuar um sorteio entre os $n$ alunos de uma escola ($n > 1$) se adota o seguinte procedimento. Os alunos são colocados em roda e inicia-se uma contagem da forma "um, DOIS, um, DOIS, $\ldots$". Cada vez que se diz DOIS o aluno correspondente é eliminado e sai da roda. A contagem prossegue até que sobre um único aluno, que é o escolhido.
+>
+> a) Para que valores de $n$ o aluno escolhido é aquele por quem começou o sorteio?
+>
+> b) Se há $192$ alunos na roda inicial, qual é a posição na roda do aluno escolhido?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
@@ -217,3 +296,22 @@ level: OBM Nível 3
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Circle elimination procedure on n students; find chosen student position*
+
+> To draw a lottery among $n$ students of a school ($n > 1$), the following procedure is adopted. The students are placed in a circle and a count begins with one student in the form: "one, TWO, one, TWO, $\ldots$". Each time TWO is said, the corresponding student is eliminated and the count resumes with the next remaining student. The count continues until only one student remains, and that student is the one chosen.
+> 
+> a) For which values of $n$ is the first student in the circle (the one who begins the count) the one chosen?
+> 
+> b) If there are $192$ students in the initial circle, what is the position in the circle of the chosen student?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)

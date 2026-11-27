@@ -12,14 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Angle in regular pentagon with internal equilateral triangle point*
 
-> In the figure, $ABCDE$ is a regular pentagon and $AEF$ is an equilateral triangle. Let $P$ be a point on segment $BF$, in the interior of $ABCDE$, such that the angle $\widehat{PEA}$ measures $12^\circ$, as shown in the figure below. Find the measure, in degrees, of angle $\widehat{PAC}$.
-
-![[src_obm_2005_n3_f2__Q01.png]]
+> Na figura, $ABCDE$ é um pentágono regular e $AEF$ é um triângulo eqüilátero. Seja $P$ um ponto sobre o segmento $BF$, no interior de $ABCDE$, e tal que o ângulo $\widehat{PEA}$ mede $12º$, como mostra a figura abaixo. Calcule a medida, em graus, do ângulo $\widehat{PAC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -44,14 +42,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Angle in regular pentagon with internal equilateral triangle point*
+
+> In the figure, $ABCDE$ is a regular pentagon and $AEF$ is an equilateral triangle. Let $P$ be a point on segment $BF$, in the interior of $ABCDE$, such that the angle $\widehat{PEA}$ measures $12^\circ$, as shown in the figure below. Find the measure, in degrees, of angle $\widehat{PAC}$.
+
+![[src_obm_2005_n3_f2__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest positive integer multiple conditions modulo 5,7,9,11*
 
-> Let $a$ be a positive integer such that $a$ is a multiple of $5$, $a+1$ is a multiple of $7$, $a+2$ is a multiple of $9$, and $a+3$ is a multiple of $11$. Determine the smallest value that $a$ can take.
+> Seja $a$ um número inteiro positivo tal que $a$ é múltiplo de $5$, $a+1$ é múltiplo de $7$, $a+2$ é múltiplo de $9$ e $a+3$ é múltiplo de $11$. Determine o menor valor que $a$ pode assumir.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -74,16 +89,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest positive integer multiple conditions modulo 5,7,9,11*
+
+> Let $a$ be a positive integer such that $a$ is a multiple of $5$, $a+1$ is a multiple of $7$, $a+2$ is a multiple of $9$, and $a+3$ is a multiple of $11$. Determine the smallest value that $a$ can take.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Area of fourth lot when quadrangular land divided into four lots*
 
-> A quadrangular plot of land was divided into four smaller lots by two straight lines joining the midpoints of opposite sides of the plot. The areas of three of the lots are indicated in the figure (in square meters on the map): $250$, $200$, and $210$. What is the area of the fourth lot, represented by the shaded region in the figure?
-
-![[src_obm_2005_n3_f2__Q03.png]]
+> Um terreno quadrangular foi dividido em quatro lotes menores por duas cercas retas unindo os pontos médios dos lados do terreno. As áreas de três dos lotes estão indicadas em metros quadrados no mapa ao lado: $250$, $200$ e $210$. Qual é a área do quarto lote, representado pela região destacada no mapa?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -108,15 +136,31 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of fourth lot when quadrangular land divided into four lots*
+
+> A quadrangular plot of land was divided into four smaller lots by two straight lines joining the midpoints of opposite sides of the plot. The areas of three of the lots are indicated in the figure (in square meters on the map): $250$, $200$, and $210$. What is the area of the fourth lot, represented by the shaded region in the figure?
+
+![[src_obm_2005_n3_f2__Q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_funzionali,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Functional equation f(x+f(y))=x+f(f(y)), find f(2005)*
 
-> A function $f:\mathbb{R}\to\mathbb{R}$ satisfies $f(x+f(y))=x+f(f(y))$ for all real numbers $x$ and $y$. Given that $f(2)=8$, find the numerical value of $f(2005)$.
+> A função $f:\mathbb{R}\to\mathbb{R}$ satisfaz $f(x+f(y))=x+f(f(y))$ para todos os números reais $x$ e $y$. Sabendo que $f(2)=8$, calcule $f(2005)$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
 **Metodo:** [[method_backward|Backward]]
@@ -139,15 +183,29 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Functional equation f(x+f(y))=x+f(f(y)), find f(2005)*
+
+> A function $f:\mathbb{R}\to\mathbb{R}$ satisfies $f(x+f(y))=x+f(f(y))$ for all real numbers $x$ and $y$. Given that $f(2)=8$, find the numerical value of $f(2005)$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_backward,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum questions to determine polynomial with positive integer coefficients*
 
-> You want to determine a polynomial $p(x)$ with positive integer coefficients by asking questions of the form "What is the numerical value of $p(k)$?", where $k$ is an integer of your choice. What is the minimum number of questions sufficient to guarantee that the polynomial is determined?
+> Você tem que determinar o polinômio $p(x)$ de coeficientes inteiros positivos fazendo perguntas da forma “Qual é o valor numérico de $p(k)$?”, sendo $k$ um inteiro positivo à sua escolha. Qual é o menor número de perguntas suficiente para garantir que se descubra o polinômio?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
@@ -170,15 +228,29 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum questions to determine polynomial with positive integer coefficients*
+
+> You want to determine a polynomial $p(x)$ with positive integer coefficients by asking questions of the form "What is the numerical value of $p(k)$?", where $k$ is an integer of your choice. What is the minimum number of questions sufficient to guarantee that the polynomial is determined?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *All integer pairs (x,y) satisfying 9xy - x^2 - 8y^2 = 2005*
 
-> Determine all pairs of integers $(x,\,y)$ such that $9xy - x^2 - 8y^2 = 2005$.
+> Determine todos os pares de inteiros $(x; y)$ tais que $9xy-x^2-8y^2=2005$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
@@ -201,15 +273,29 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*All integer pairs (x,y) satisfying 9xy - x^2 - 8y^2 = 2005*
+
+> Determine all pairs of integers $(x,\,y)$ such that $9xy - x^2 - 8y^2 = 2005$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cross-section of right prism with equilateral triangle base cut by plane*
 
-> A prism is right and has an equilateral triangle as its base. A plane cuts the prism but does not cut any of its bases, determining a triangular cross-section with sides $a$, $b$, and $c$. Find the side of the base of the prism as a function of $a$, $b$, and $c$.
+> Um prisma é reto e tem como base um triângulo equilátero. Um plano corta o prisma mas não corta nenhuma de suas bases, determinando uma secção triangular de lados $a$, $b$ e $c$. Calcule o lado da base do prisma em função de $a$, $b$ e $c$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -232,14 +318,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cross-section of right prism with equilateral triangle base cut by plane*
+
+> A prism is right and has an equilateral triangle as its base. A plane cuts the prism but does not cut any of its bases, determining a triangular cross-section with sides $a$, $b$, and $c$. Find the side of the base of the prism as a function of $a$, $b$, and $c$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ordered sequences of Flamengo results with 20 points, no defeat*
 
-> In a soccer championship, each victory is worth three points, each draw is worth one point, and each defeat is worth zero points. It is known that Flamengo suffered no defeat and finished with $20$ points, but the number of games played is unknown. Representing a victory by $V$, a draw by $E$, and a defeat by $D$, two possibilities are $(V,\,E,\,V,\,E,\,V)$ and $(E,\,V,\,V,\,V,\,E,\,V)$. How many ordered sequences of results can Flamengo have obtained?
+> No campeonato tumboliano de futebol, cada vitória vale três pontos, cada empate vale um ponto e cada derrota vale zero ponto. Um resultado é uma vitória, empate ou derrota. Sabe-se que o Flameiras não sofreu nenhuma derrota e tem $20$ pontos, mas não se sabe quantas partidas esse time jogou. Quantas seqüências ordenadas de resultados o Flameiras pode ter obtido? Representando vitória por $V$, empate por $E$ e derrota por $D$, duas possibilidades, por exemplo, são $(V, E, E, V, E, V, V, V, E, E)$ e $(E, V, V, V, V, V, E, V)$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -262,16 +363,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ordered sequences of Flamengo results with 20 points, no defeat*
+
+> In a soccer championship, each victory is worth three points, each draw is worth one point, and each defeat is worth zero points. It is known that Flamengo suffered no defeat and finished with $20$ points, but the number of games played is unknown. Representing a victory by $V$, a draw by $E$, and a defeat by $D$, two possibilities are $(V,\,E,\,V,\,E,\,V)$ and $(E,\,V,\,V,\,V,\,E,\,V)$. How many ordered sequences of results can Flamengo have obtained?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest possible maximum term of AP with six distinct prime terms*
 
-> Determine the smallest possible value of the maximum term of an arithmetic progression with all six terms $a_1,\,a_2,\,a_3,\,a_4,\,a_5,\,a_6$ being distinct positive prime numbers.
-> 
-> *Curiosity:* In the past, former Olympians Terence Tao (Australia, gold at IMO 1988) and Ben Green (United Kingdom, silver at IMO 1994) proved that there exist arbitrarily long arithmetic progressions with all terms prime. This question dates back to the eighteenth century and appears in the research of Lagrange and Waring.
+> Determine o menor valor possível do maior termo de uma progressão aritmética com todos os seus sete termos $a_1,\,a_2,\,a_3,\,a_4,\,a_5,\,a_6,\,a_7$ primos positivos distintos.
+>
+> *Curiosidade:* No ano passado, os ex-olímpicos Terence Tao (Austrália, ouro na IMO 1988) e Ben Green (Reino Unido, prata na IMO 1994) provaram que existem progressões aritméticas arbitrariamente grandes com todos os termos primos positivos. Tal questão remonta ao século XVIII, aparecendo nas pesquisas de Lagrange e Waring.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -294,3 +410,19 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest possible maximum term of AP with six distinct prime terms*
+
+> Determine the smallest possible value of the maximum term of an arithmetic progression with all six terms $a_1,\,a_2,\,a_3,\,a_4,\,a_5,\,a_6$ being distinct positive prime numbers.
+> 
+> *Curiosity:* In the past, former Olympians Terence Tao (Australia, gold at IMO 1988) and Ben Green (United Kingdom, silver at IMO 1994) proved that there exist arbitrarily long arithmetic progressions with all terms prime. This question dates back to the eighteenth century and appears in the research of Lagrange and Waring.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)

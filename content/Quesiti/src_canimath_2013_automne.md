@@ -12,12 +12,12 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Count integers between 1 and 10000 divisible by 7 but not 5*
 
-> What is the number of integers between $1$ and $10000$ that are divisible by $7$ but not divisible by $5$?
+> Quel est le nombre d’entiers compris entre $1$ et $10000$ qui sont divisibles par $7$ et non divisibles par $5$ ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
@@ -41,17 +41,34 @@ level: Coupe Animath Automne
 **Risposta:** 1143
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count integers between 1 and 10000 divisible by 7 but not 5*
+
+> What is the number of integers between $1$ and $10000$ that are divisible by $7$ but not divisible by $5$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 1143
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_aritmetica,method_casework,method_casi_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Count afternoon naps given constraints over 15-day observation*
 
-> During a certain number of days, it was observed that each day on which it rained in the morning it also rained in the afternoon, and that each day on which it rained in the afternoon it had been fine in the morning. During the observation period, it rained on $15$ days, there were $8$ fine mornings, and $13$ fine afternoons.
-> 
-> How many afternoon naps did it rain? (i.e., how many rainy afternoons were there?)
+> Au cours d’un certain nombre de jours, on a observé que chacun des jours où il a plu le matin, il a fait beau l’après-midi, et que chacun des jours où il a plu l’après-midi, il avait fait beau le matin.
+>
+> Durant la période d’observation, il a plu lors de $15$ jours, et il a fait beau $8$ matins et $13$ après-midis.
+>
+> Combien de matins a-t-il plu ?
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
@@ -77,23 +94,42 @@ level: Coupe Animath Automne
 **Risposta:** 7
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count afternoon naps given constraints over 15-day observation*
+
+> During a certain number of days, it was observed that each day on which it rained in the morning it also rained in the afternoon, and that each day on which it rained in the afternoon it had been fine in the morning. During the observation period, it rained on $15$ days, there were $8$ fine mornings, and $13$ fine afternoons.
+> 
+> How many afternoon naps did it rain? (i.e., how many rainy afternoons were there?)
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 7
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_conteggio,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Light bulbs and three switches; count bulbs on after random switch*
 
-> We have $100$ bulbs, numbered $1$ to $100$, each of which can be either on or off. These bulbs are connected to three switches $A$, $B$, and $C$.
-> 
-> By pressing $A$, the state of all bulbs changes: those that were on turn off, and those that were off turn on.
-> By pressing $B$, the state of all bulbs with odd numbers changes.
-> By pressing $C$, the state of all bulbs with numbers of the form $3n+1$ changes.
-> 
-> At the start of the evening, all bulbs were on. But during the party, Igor pressed the switches a total of $1000$ times, choosing at random, and at the end it turned out that bulbs numbered $95$ and $96$ were off.
-> 
-> How many bulbs are still on?
+> On dispose de $100$ ampoules, numérotées de $1$ à $100$, chacune pouvant être soit allumée soit éteinte. Ces ampoules sont reliées à trois commutateurs $A$, $B$ et $C$.
+>
+> En appuyant sur $A$, on change l’état de toutes les ampoules : celles qui étaient allumées s’éteignent, et celles qui étaient éteintes s’allument.
+>
+> En appuyant sur $B$, on ne change l’état que des ampoules de numéros impairs.
+>
+> En appuyant sur $C$, on ne change l’état que des ampoules de numéros de la forme $3n+1$.
+>
+> Au début de la soirée, toutes les ampoules étaient allumées. Mais, au cours de la fête et emporté par son enthousiasme, Igor a appuyé au total $1000$ fois, de façon aléatoire, sur les commutateurs. Il se trouve qu’alors les ampoules portant les numéros $95$ et $96$ sont éteintes.
+>
+> Combien d’ampoules sont encore allumées ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -121,15 +157,37 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Light bulbs and three switches; count bulbs on after random switch*
+
+> We have $100$ bulbs, numbered $1$ to $100$, each of which can be either on or off. These bulbs are connected to three switches $A$, $B$, and $C$.
+> 
+> By pressing $A$, the state of all bulbs changes: those that were on turn off, and those that were off turn on.
+> By pressing $B$, the state of all bulbs with odd numbers changes.
+> By pressing $C$, the state of all bulbs with numbers of the form $3n+1$ changes.
+> 
+> At the start of the evening, all bulbs were on. But during the party, Igor pressed the switches a total of $1000$ times, choosing at random, and at the end it turned out that bulbs numbered $95$ and $96$ were off.
+> 
+> How many bulbs are still on?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Four concentric circles with equal-radius tangent circles; find r/R*
 
-> Four circles $C_1, C_2, C_3, C_4$ with identical radii $r$ are each inscribed inside a circle of radius $R$. We set $C_5 = C_1$. We suppose that for each $i = 1, 2, 3, 4$, the circles $C_i$ and $C_{i+1}$ are tangent to each other. Determine the value of the ratio $r/R$.
+> Quatre cercles $C_1$, $C_2$, $C_3$, $C_4$ de rayons identiques $r$ sont tangents intérieurement à un cercle de rayon $R$. On pose $C_5 = C_1$. On suppose que pour tout $i = 1, 2, 3, 4$, les cercles $C_i$ et $C_{i+1}$ sont tangents. Déterminer la valeur du rapport $r/R$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -153,19 +211,34 @@ level: Coupe Animath Automne
 **Risposta:** \frac{\sqrt{2}}{2+\sqrt{2}}
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four concentric circles with equal-radius tangent circles; find r/R*
+
+> Four circles $C_1, C_2, C_3, C_4$ with identical radii $r$ are each inscribed inside a circle of radius $R$. We set $C_5 = C_1$. We suppose that for each $i = 1, 2, 3, 4$, the circles $C_i$ and $C_{i+1}$ are tangent to each other. Determine the value of the ratio $r/R$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** $\frac{\sqrt{2}}{2+\sqrt{2}}$
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,method_grafi,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Club of 100: popular member and maximum size of club*
 
-> In a club of $100$ members, for each group of four people there is at least one who knows all three others (a member who knows all the others will be called \textit{popular}).
-> 
-> 1) Prove that there exists at least one member who knows all the others.
-> 
-> 2) How many members can a club satisfying this condition contain?
+> Dans un club de $100$ membres, dans tout groupe de quatre personnes il y en a au moins une qui connaît les trois autres (si $A$ connaît $B$ alors $B$ connaît $A$).
+>
+> 1) Prouver qu’il existe au moins un membre qui connaît tous les autres (un tel membre sera dit populaire).
+>
+> 2) Combien de membres populaires un tel club peut-il contenir ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Grafi]]
@@ -191,17 +264,35 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Club of 100: popular member and maximum size of club*
+
+> In a club of $100$ members, for each group of four people there is at least one who knows all three others (a member who knows all the others will be called \textit{popular}).
+> 
+> 1) Prove that there exists at least one member who knows all the others.
+> 
+> 2) How many members can a club satisfying this condition contain?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_geometria_analitica,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Four collinear points: every circle through A,B meets circle through C,D*
 
-> Let $A$, $B$, $C$, $D$ be four distinct points in the plane. It is found that every circle passing through $A$ and $B$ intersects every circle passing through $C$ and $D$.
-> 
-> Prove that $A$, $B$, $C$, $D$ are collinear or all lie on a common circle.
+> Soit $A$, $B$, $C$ et $D$ quatre points distincts dans le plan. Il se trouve que tout cercle qui passe par $A$ et $B$ rencontre tout cercle qui passe par $C$ et $D$.
+>
+> Prouver que $A$, $B$, $C$ et $D$ sont alignés ou qu’ils sont tous sur un même cercle.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]]
@@ -225,16 +316,32 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four collinear points: every circle through A,B meets circle through C,D*
+
+> Let $A$, $B$, $C$, $D$ be four distinct points in the plane. It is found that every circle passing through $A$ and $B$ intersects every circle passing through $C$ and $D$.
+> 
+> Prove that $A$, $B$, $C$, $D$ are collinear or all lie on a common circle.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find best constants a,b in inequality a(x+y+z)^2 ≤ x²+y²+z²+yz ≤ b(x+y+z)^2*
 
-> Determine the largest real number $a$ and the smallest real number $b$ such that for all $x, y, z$ positive or zero:
-> $$a(x+y+z)^2 \le x^2 + y^2 + z^2 + yz \le b(x+y+z)^2.$$
+> Déterminer le plus grand nombre réel $a$ et le plus petit nombre réel $b$ tels que pour tous $x, y, z$ positifs ou nuls on ait
+> $$a(x + y + z)^2 \le x^2 + y^2 + z^2 + yz \le b(x + y + z)^2.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
@@ -258,17 +365,33 @@ level: Coupe Animath Automne
 **Risposta:** a=\frac{1}{3},\; b=1
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find best constants a,b in inequality a(x+y+z)^2 ≤ x²+y²+z²+yz ≤ b(x+y+z)^2*
+
+> Determine the largest real number $a$ and the smallest real number $b$ such that for all $x, y, z$ positive or zero:
+> $$a(x+y+z)^2 \le x^2 + y^2 + z^2 + yz \le b(x+y+z)^2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** $a=\frac{1}{3},\; b=1$
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Positive integer a with 5 times more positive divisors than a itself*
 
-> Let $a$ be a strictly positive integer such that $a^3$ has $5$ times as many positive divisors as $a$.
-> 
-> How many positive divisors can $a$ have?
+> Soit $a$ un entier strictement positif, tel que $a^3$ possède $5$ fois plus de diviseurs positifs que $a$.
+>
+> Combien de diviseurs positifs possède $a$ ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -290,3 +413,19 @@ level: Coupe Animath Automne
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Positive integer a with 5 times more positive divisors than a itself*
+
+> Let $a$ be a strictly positive integer such that $a^3$ has $5$ times as many positive divisors as $a$.
+> 
+> How many positive divisors can $a$ have?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)

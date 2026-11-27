@@ -12,12 +12,14 @@ level: OBM Nível Universitário
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_funzionali,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Existence of N with p(n)>2 for all n>N, potency function*
 
-> Let $p$ be the *potency function* of positive integers, defined by $p(1)=1$ and $p(n+1)=p(n)$ if $n+1$ is a perfect power, and $p(n+1)=(n+1)\cdot p(n)$ otherwise. A positive integer $n$ is a *perfect power* if there exist integers $a,b\ge 2$ such that $n=a^b$. Does there exist a positive integer $N$ such that $p(n)>2^n$ for all $n>N$? Prove your answer.
+> Seja $p$ a função potencioral, dos inteiros positivos nos inteiros positivos, definida por $p(1) = 1$ e $p(n + 1) = p(n)$, se $n + 1$ não é uma potência perfeita e $p(n + 1) = (n + 1) \cdot p(n)$, caso contrário. Existe $N$ inteiro positivo tal que, para todo $n > N$, $p(n) > 2^n$?
+>
+> Obs.: Um inteiro $n$ é uma potência perfeita se existem inteiros $a, b \ge 2$ tais que $n = a^b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
@@ -40,19 +42,33 @@ level: OBM Nível Universitário
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Existence of N with p(n)>2 for all n>N, potency function*
+
+> Let $p$ be the *potency function* of positive integers, defined by $p(1)=1$ and $p(n+1)=p(n)$ if $n+1$ is a perfect power, and $p(n+1)=(n+1)\cdot p(n)$ otherwise. A positive integer $n$ is a *perfect power* if there exist integers $a,b\ge 2$ such that $n=a^b$. Does there exist a positive integer $N$ such that $p(n)>2^n$ for all $n>N$? Prove your answer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_telescoping,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Power series satisfying a differential equation; evaluate a series*
 
-> Let $a_n = \dfrac{1}{\binom{2n}{n}}$ for all $n \ge 1$.
-> 
-> (a) Prove that $\displaystyle\sum_{n=0}^{\infty} a_n x^n$ converges for all $x \in (-4,4)$ and that the function $f(x)=\displaystyle\sum_{n=0}^{\infty} a_n x^n$ satisfies the differential equation $x(x-4)f''(x)+(x+2)f(x)=-x$.
-> 
-> (b) Prove that $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n\binom{2n}{n}} = \frac{1}{3} + \frac{2\pi\sqrt{3}}{27}$.
+> Seja $a_n = \dfrac{1}{\binom{2n}{n}}$, $\forall n \ge 1$.
+>
+> (a) Prove que $\displaystyle\sum_{n=1}^{\infty} a_n x^n$ converge para todo $x \in (-4, 4)$ e que a função $f(x) = \displaystyle\sum_{n=1}^{\infty} a_n x^n$ satisfaz a equação diferencial $x(x - 4) f'(x) + (x + 2) f(x) = -x$.
+>
+> (b) Prove que $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{n\binom{2n}{n}} = \dfrac{1}{3} + \dfrac{2\pi\sqrt{3}}{27}$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
@@ -79,15 +95,34 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Power series satisfying a differential equation; evaluate a series*
+
+> Let $a_n = \dfrac{1}{\binom{2n}{n}}$ for all $n \ge 1$.
+> 
+> (a) Prove that $\displaystyle\sum_{n=0}^{\infty} a_n x^n$ converges for all $x \in (-4,4)$ and that the function $f(x)=\displaystyle\sum_{n=0}^{\infty} a_n x^n$ satisfies the differential equation $x(x-4)f''(x)+(x+2)f(x)=-x$.
+> 
+> (b) Prove that $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n\binom{2n}{n}} = \frac{1}{3} + \frac{2\pi\sqrt{3}}{27}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Constant C>0 bounding a sum of k-th roots over log x*
 
-> Prove that there exists a constant $C>0$ such that, for any integers $m,n$ with $n\ge 2m>1$ and any real number $x>1$,
-> $$\sum_{k=m}^{n} \sqrt[k]{x} \le C\left(\frac{m^2 - \sqrt[m]{x}}{\log x} + n\right).$$
+> Prove que existe uma constante $C > 0$ tal que, para quaisquer números inteiros $m, n$ com $n \ge m > 1$ e qualquer número real $x > 1$,
+> $$\sum_{k=m}^{n} \sqrt[k]{x} \le C\left(m^2 \cdot \frac{\sqrt[m-1]{x}}{\log x} + n\right).$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
@@ -111,17 +146,33 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Constant C>0 bounding a sum of k-th roots over log x*
+
+> Prove that there exists a constant $C>0$ such that, for any integers $m,n$ with $n\ge 2m>1$ and any real number $x>1$,
+> $$\sum_{k=m}^{n} \sqrt[k]{x} \le C\left(\frac{m^2 - \sqrt[m]{x}}{\log x} + n\right).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Invertible matrix C in M_2(Z) with given CAC^{-1} forms*
 
-> Let $M_2(\mathbb{Z})$ be the set of $2\times 2$ matrices with integer entries. Let $A\in M_2(\mathbb{Z})$ be such that
-> $$A^2+5I=0,$$
-> where $I\in M_2(\mathbb{Z})$ and $0\in M_2(\mathbb{Z})$ denote the identity and zero matrices, respectively. Prove that there exists an invertible matrix $C\in M_2(\mathbb{Z})$ with $C^{-1}\in M_2(\mathbb{Z})$ such that
-> $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
+> Seja $M_2(\mathbb{Z})$ o conjunto das matrizes $2 \times 2$ com entradas inteiras. Seja $A \in M_2(\mathbb{Z})$ tal que
+> $$A^2 + 5I = 0,$$
+> onde $I \in M_2(\mathbb{Z})$ e $0 \in M_2(\mathbb{Z})$ denotam as matrizes identidade e nula, respectivamente. Prove que existe uma matriz inversível $C \in M_2(\mathbb{Z})$ com $C^{-1} \in M_2(\mathbb{Z})$ tal que
+> $$CAC^{-1} = \begin{pmatrix} 1 & 2 \\ -3 & -1 \end{pmatrix} \quad \text{ou} \quad CAC^{-1} = \begin{pmatrix} 0 & 1 \\ -5 & 0 \end{pmatrix}.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -147,17 +198,34 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Invertible matrix C in M_2(Z) with given CAC^{-1} forms*
+
+> Let $M_2(\mathbb{Z})$ be the set of $2\times 2$ matrices with integer entries. Let $A\in M_2(\mathbb{Z})$ be such that
+> $$A^2+5I=0,$$
+> where $I\in M_2(\mathbb{Z})$ and $0\in M_2(\mathbb{Z})$ denote the identity and zero matrices, respectively. Prove that there exists an invertible matrix $C\in M_2(\mathbb{Z})$ with $C^{-1}\in M_2(\mathbb{Z})$ such that
+> $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_congruenze,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Drunk knight on infinite board; probability of reaching specific cell after 2023 moves*
 
-> A drunk knight moves on an infinite board whose squares are labeled by pairs $(a,b)\in\mathbb{Z}^2$. At each move, the 8 possibilities
-> $$(a,b)\to(a\pm 1,\, b\pm 2),\qquad (a,b)\to(a\pm 2,\, b\pm 1)$$
-> are equally likely. Knowing that the knight starts at $(0,0)$, compute the probability that after $2023$ moves it is at a square $(a,b)$ with $a\equiv 4\pmod{8}$ and $b\equiv 5\pmod{8}$.
+> Um cavalo bêbado se move em um tabuleiro infinito cujas casas são numeradas por pares $(a, b) \in \mathbb{Z}^2$. Em cada movimento, as 8 possibilidades
+> $$(a, b) \to (a \pm 1, b \pm 2), \qquad (a, b) \to (a \pm 2, b \pm 1)$$
+> são igualmente prováveis. Sabendo que o cavalo sai de $(0, 0)$, calcule a probabilidade de que, após $2023$ movimentos, ele esteja em uma casa $(a, b)$ com $a \equiv 4 \pmod{8}$ e $b \equiv 5 \pmod{8}$.
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -182,16 +250,32 @@ level: OBM Nível Universitário
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Drunk knight on infinite board; probability of reaching specific cell after 2023 moves*
+
+> A drunk knight moves on an infinite board whose squares are labeled by pairs $(a,b)\in\mathbb{Z}^2$. At each move, the 8 possibilities
+> $$(a,b)\to(a\pm 1,\, b\pm 2),\qquad (a,b)\to(a\pm 2,\, b\pm 1)$$
+> are equally likely. Knowing that the knight starts at $(0,0)$, compute the probability that after $2023$ moves it is at a square $(a,b)$ with $a\equiv 4\pmod{8}$ and $b\equiv 5\pmod{8}$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,topic_disuguaglianze,method_ricorsione,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all pairs (c,d) in R^2 such that a sequence with given recurrence of positive reals exists*
 
-> Determine all pairs $(c,d)\in\mathbb{R}^2$ of real constants such that there exists a sequence $(a_n)_{n\ge 1}$ of positive real numbers satisfying, for all $n\ge 1$,
-> $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
+> Determine todos os pares $(c, d) \in \mathbb{R}^2$ de constantes reais tais que existe uma sequência $(a_n)_{n\ge 1}$ de reais positivos tal que, para todo $n \ge 1$,
+> $$a_n \ge c \cdot a_{n+1} + d \cdot \sum_{1 \le j < n} a_j.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
@@ -213,3 +297,18 @@ level: OBM Nível Universitário
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all pairs (c,d) in R^2 such that a sequence with given recurrence of positive reals exists*
+
+> Determine all pairs $(c,d)\in\mathbb{R}^2$ of real constants such that there exists a sequence $(a_n)_{n\ge 1}$ of positive real numbers satisfying, for all $n\ge 1$,
+> $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)

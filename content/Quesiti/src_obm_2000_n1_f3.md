@@ -12,14 +12,12 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_solida,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Three touching dice on table: find sum of three hidden faces*
 
-> Paulo has three dice with the same markings, such that on each die the sum of the numbers on opposite faces is always $7$. He glues the dice together so that each pair of touching faces has the same number, then places them on a transparent table as shown in the figure. The sum of all numbers on the eleven visible faces is $36$. What is the sum of the numbers on the three faces that are in contact with the table?
-
-![[src_obm_2000_n1_f3__Q01.png]]
+> Paulo tem três dados comuns idênticos nos quais a soma dos números em duas faces opostas é sempre igual a $7$. Ele cola os dados, de modo que cada par de faces coladas tenha o mesmo número, e depois os coloca sobre uma mesa não transparente, conforme indica a figura. A soma dos números em todas as onze faces visíveis é $36$. Qual é a soma dos números das três faces que estão em contato com a mesa?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]]
@@ -44,17 +42,31 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three touching dice on table: find sum of three hidden faces*
+
+> Paulo has three dice with the same markings, such that on each die the sum of the numbers on opposite faces is always $7$. He glues the dice together so that each pair of touching faces has the same number, then places them on a transparent table as shown in the figure. The sum of all numbers on the eleven visible faces is $36$. What is the sum of the numbers on the three faces that are in contact with the table?
+
+![[src_obm_2000_n1_f3__Q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Show equilateral triangle can be cut into 20 smaller equilateral triangles*
 
-> An equilateral triangle can be cut into smaller equilateral triangles. The figure below shows how to cut an equilateral triangle into $7$ smaller equilateral triangles. Show how to cut an equilateral triangle into $20$ smaller equilateral triangles.
-
-![[src_obm_2000_n1_f3__Q02.png]]
+> Um triângulo equilátero pode ser recortado em triângulos equiláteros menores. A figura abaixo mostra como recortar um triângulo equilátero em $7$ triângulos equiláteros. Mostre como recortar um triângulo equilátero em $20$ triângulos equiláteros menores.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -79,14 +91,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Show equilateral triangle can be cut into 20 smaller equilateral triangles*
+
+> An equilateral triangle can be cut into smaller equilateral triangles. The figure below shows how to cut an equilateral triangle into $7$ smaller equilateral triangles. Show how to cut an equilateral triangle into $20$ smaller equilateral triangles.
+
+![[src_obm_2000_n1_f3__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_bigezione,method_casework,method_grafi,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two card decks: arrange 100 cards face-down showing all numbers 1–100*
 
-> Isabel has two decks, each with $50$ cards. In each of the two decks, the numbers from $1$ to $100$ are written, one number on each face of the cards (so two numbers per card). Due to a defect in the printing, the distribution of numbers on the cards is not the same in both decks (for example, in one deck the number $1$ appears on the same card as $2$; in the other, $1$ appears with $0$). Show how Isabel can arrange the $100$ cards face-down on a table so that, when the cards are turned face-up, all the numbers from $1$ to $100$ are shown.
+> Isabel tem dois baralhos, cada um com $50$ cartas. Em cada um dos baralhos estão escritos os números de $1$ a $100$ (em cada carta estão escritos dois números, um em cada face da carta). Por um defeito de fabricação, a distribuição dos números nas cartas não é a mesma nos dois baralhos (por exemplo, em um dos baralhos o $1$ aparece na mesma carta do $2$; no outro, o $1$ aparece com o $76$).
+>
+> Mostre como Isabel deve fazer para que, ao colocar as $100$ cartas sobre uma mesa, as faces voltadas para cima mostrem todos os números de $1$ a $100$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
@@ -109,17 +140,33 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two card decks: arrange 100 cards face-down showing all numbers 1–100*
+
+> Isabel has two decks, each with $50$ cards. In each of the two decks, the numbers from $1$ to $100$ are written, one number on each face of the cards (so two numbers per card). Due to a defect in the printing, the distribution of numbers on the cards is not the same in both decks (for example, in one deck the number $1$ appears on the same card as $2$; in the other, $1$ appears with $0$). Show how Isabel can arrange the $100$ cards face-down on a table so that, when the cards are turned face-up, all the numbers from $1$ to $100$ are shown.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_casework,method_invarianti,method_simmetria,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *5×5 table with numbers 1–25; find all possible sums after sign-swaps*
 
-> Consider the following $5 \times 5$ table filled with the numbers from $1$ to $25$:
+> Considere a seguinte tabela $5 \times 5$, preenchida com os números de $1$ a $25$:
 > $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline 21 & 22 & 23 & 24 & 25 \\ \hline \end{array}$$
-> In each horizontal row and each vertical column, we change the sign of $2$ numbers, so that afterwards every row and every column contains exactly $3$ positive numbers and $2$ negative numbers. Calculate all possible values of the resulting sum of all entries in the table.
+> Em cada fileira horizontal e em cada fileira vertical, trocamos o sinal de $2$ números, de forma que, em cada fileira horizontal e em cada fileira vertical, haja $3$ números positivos e $2$ números negativos. Somamos, então, todos os números da tabela.
+>
+> Calcule os possíveis valores dessa soma.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
@@ -142,3 +189,21 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*5×5 table with numbers 1–25; find all possible sums after sign-swaps*
+
+> Consider the following $5 \times 5$ table filled with the numbers from $1$ to $25$:
+> $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline 21 & 22 & 23 & 24 & 25 \\ \hline \end{array}$$
+> In each horizontal row and each vertical column, we change the sign of $2$ numbers, so that afterwards every row and every column contains exactly $3$ positive numbers and $2$ negative numbers. Calculate all possible values of the resulting sum of all entries in the table.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Risposta:** 65
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)

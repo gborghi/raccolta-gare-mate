@@ -12,14 +12,34 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Which of the letters O, B, M can occupy a given (gray) cell of a 3x3 grid*
 
-> In a $3\times 3$ grid one fills the cells with the letters O, B, M (subject to the rules of the problem). The examples below show that any one of the letters may appear in the highlighted (gray) cell. Which letters can occupy that cell? [Reconstructed from the answer key; the original option list is not reproduced in the source. Answer key indicates: O, B and M.]
-
-![[src_obm_2016_n3_f1__Q01.png]]
+> Os seguintes exemplos mostram que qualquer uma das letras pode figurar na casa cinza:
+>
+> $$
+> \begin{array}{ccc}
+> O & B & O \\
+> M & O & B \\
+> O & B & O
+> \end{array}
+> \qquad
+> \begin{array}{ccc}
+> O & B & O \\
+> M & O & B \\
+> O & B & M
+> \end{array}
+> \qquad
+> \begin{array}{ccc}
+> O & B & O \\
+> M & O & M \\
+> O & M & B
+> \end{array}
+> $$
+>
+> Quais letras podem ocupar essa casa?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -45,14 +65,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Which of the letters O, B, M can occupy a given (gray) cell of a 3x3 grid*
+
+> In a $3\times 3$ grid one fills the cells with the letters O, B, M (subject to the rules of the problem). The examples below show that any one of the letters may appear in the highlighted (gray) cell. Which letters can occupy that cell? [Reconstructed from the answer key; the original option list is not reproduced in the source. Answer key indicates: O, B and M.]
+
+![[src_obm_2016_n3_f1__Q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Josias's position in a line, with the number ahead one quarter of the number behind*
 
-> Josias is standing in a line. Let $x$ be his position, so $x-1$ people arrived before him and the people who arrived after him number $2016-x$. They satisfy $x-1=\frac{2016-x}{4}$, equivalently $4(x-1)=2016-x$. What is Josias's position $x$ in the line? [Answer key value: $x=404$.]
+> Sendo $x$ a posição de Josias, $x-1$ pessoas chegaram antes dele e $2016-x$ pessoas chegaram depois dele. Assim, $x-1=\dfrac{2016-x}{4}$, ou seja, $4(x-1)=2016-x$. Qual é a posição $x$ de Josias na fila?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
@@ -74,14 +112,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Josias's position in a line, with the number ahead one quarter of the number behind*
+
+> Josias is standing in a line. Let $x$ be his position, so $x-1$ people arrived before him and the people who arrived after him number $2016-x$. They satisfy $x-1=\frac{2016-x}{4}$, equivalently $4(x-1)=2016-x$. What is Josias's position $x$ in the line? [Answer key value: $x=404$.]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Side of a square equal in area to a rectangle of integer dimensions with perimeter 58 and square product*
 
-> Let $x$ and $y$ be the integer dimensions of a rectangle whose perimeter is $58$, so $x+y=29$. The possible pairs are $(1,28),(2,27),(3,26),\dots,(14,15)$. Exactly one such pair has product $x\cdot y$ equal to a perfect square, namely $4\cdot 25=100$. Find the side $n$ of a square having the same area as that rectangle, i.e. $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Answer key value: $n=10$.]
+> Sejam $x$ e $y$ as dimensões inteiras de um retângulo de perímetro $58$, de modo que $x+y=29$. As dimensões possíveis são $(1,28),(2,27),(3,26),\dots,(14,15)$. Dentre esses pares, apenas um tem produto $x\cdot y$ igual a um quadrado perfeito, a saber $4\cdot 25=100$. Qual é o lado $n$ do quadrado de mesma área que esse retângulo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -105,15 +158,30 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Side of a square equal in area to a rectangle of integer dimensions with perimeter 58 and square product*
+
+> Let $x$ and $y$ be the integer dimensions of a rectangle whose perimeter is $58$, so $x+y=29$. The possible pairs are $(1,28),(2,27),(3,26),\dots,(14,15)$. Exactly one such pair has product $x\cdot y$ equal to a perfect square, namely $4\cdot 25=100$. Find the side $n$ of a square having the same area as that rectangle, i.e. $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Answer key value: $n=10$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_combinatoria,topic_geometria_piana,method_cassetti,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Whether a pyramid over a regular 2016-gon can have 1008 congruent lateral faces; conclusion it cannot*
 
-> Let $A_1A_2\dots A_{2016}$ be a regular polygon forming the base of a pyramid, and let the apex lie on the line perpendicular to the base through the diagonal $A_1A_{1009}$, so positioned that the orthogonal projection of the apex onto the base plane is distinct from the center of the polygon. The pyramid has $2016$ congruent-or-not triangular lateral faces; one asks whether it is possible to choose $1008$ lateral faces that are pairwise congruent and not sharing a common edge in pairs. The solution shows that there are at most $1008$ classes of congruent faces, and by the pigeonhole principle the configuration forcing the projection of the apex to be the circumcenter is absurd, since the pyramid is not regular. Is such a choice of $1008$ congruent lateral faces possible? [Answer key indicates the conclusion (option B).]
+> Seja $A_1A_2\dots A_{2016}$ o polígono regular da base de uma pirâmide cujo vértice está no plano perpendicular à base que passa pela diagonal $A_1A_{1009}$, de modo que a projeção do vértice sobre o plano da base seja distinta do centro do polígono. É possível escolher $1008$ faces laterais congruentes duas a duas?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Using symmetry]]
@@ -135,6 +203,21 @@ level: OBM Nível 3
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Whether a pyramid over a regular 2016-gon can have 1008 congruent lateral faces; conclusion it cannot*
+
+> Let $A_1A_2\dots A_{2016}$ be a regular polygon forming the base of a pyramid, and let the apex lie on the line perpendicular to the base through the diagonal $A_1A_{1009}$, so positioned that the orthogonal projection of the apex onto the base plane is distinct from the center of the polygon. The pyramid has $2016$ congruent-or-not triangular lateral faces; one asks whether it is possible to choose $1008$ lateral faces that are pairwise congruent and not sharing a common edge in pairs. The solution shows that there are at most $1008$ classes of congruent faces, and by the pigeonhole principle the configuration forcing the projection of the apex to be the circumcenter is absurd, since the pyramid is not regular. Is such a choice of $1008$ congruent lateral faces possible? [Answer key indicates the conclusion (option B).]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
 
@@ -529,12 +612,14 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_aritmetica,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of solutions of abc=b^2+c^2=c^2+a^2=a^2+b^2 with a,b,c nonzero*
 
-> The system can be rewritten as $abc=b^2+c^2=c^2+a^2=a^2+b^2$, with $a,b,c$ non-null. This forces $a^2=b^2=c^2$. Supposing $a=b=c$ gives $a=b=c=2$, the solution $(2,2,2)$. If $a=b=-c$ then $a=b=-c=2$, giving $(2,2,-2)$; permuting this triple gives also $(-2,2,-2)$ and $(2,-2,-2)$, for a total of $4$ solutions. How many solutions does the system have? [Answer key value: $4$.]
+> O sistema pode ser reescrito como $abc=b^{2}+c^{2}=c^{2}+a^{2}=a^{2}+b^{2}$, com $a$, $b$, $c$ não nulos. Quantas soluções possui o sistema?
+>
+> (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) $6$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -558,14 +643,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of solutions of abc=b^2+c^2=c^2+a^2=a^2+b^2 with a,b,c nonzero*
+
+> The system can be rewritten as $abc=b^2+c^2=c^2+a^2=a^2+b^2$, with $a,b,c$ non-null. This forces $a^2=b^2=c^2$. Supposing $a=b=c$ gives $a=b=c=2$, the solution $(2,2,2)$. If $a=b=-c$ then $a=b=-c=2$, giving $(2,2,-2)$; permuting this triple gives also $(-2,2,-2)$ and $(2,-2,-2)$, for a total of $4$ solutions. How many solutions does the system have? [Answer key value: $4$.]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *First year after 2016 in which a given date is again a Saturday*
 
-> Note that every month has $4$ or $5$ Saturdays and that $365=7\cdot 52+1$. A non-leap year has $52$ complete weeks and $1$ extra day, while a leap year has $52$ weeks and $2$ extra days. Letting $x$ be the number of leap years, the analysis uses $5x+4(12-x)=52\Rightarrow x=8$ and $5x+4(12-x)=53\Rightarrow x=5$. January 1 was a Saturday in $2016$ (wait: the table starts with sexta for 2016); the table of the weekday of 1 January reads: 2016 sexta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 sexta, 2022 sabado. Thus the next year in which the date is again a Saturday (sabado) is $2022$. In which next year is the date again a Saturday? [Answer key value: $2022$.]
+> Um ano é chamado sabadoso quando possui $53$ sábados. O próximo ano sabadoso será
+>
+> (A) $2020$ (B) $2021$ (C) $2024$ (D) $2027$ (E) $2022$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -589,14 +692,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*First year after 2016 in which a given date is again a Saturday*
+
+> Note that every month has $4$ or $5$ Saturdays and that $365=7\cdot 52+1$. A non-leap year has $52$ complete weeks and $1$ extra day, while a leap year has $52$ weeks and $2$ extra days. Letting $x$ be the number of leap years, the analysis uses $5x+4(12-x)=52\Rightarrow x=8$ and $5x+4(12-x)=53\Rightarrow x=5$. January 1 was a Saturday in $2016$ (wait: the table starts with sexta for 2016); the table of the weekday of 1 January reads: 2016 sexta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 sexta, 2022 sabado. Thus the next year in which the date is again a Saturday (sabado) is $2022$. In which next year is the date again a Saturday? [Answer key value: $2022$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_estremalita,method_fattorizzazione,skill_astrazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Maximum size of a set in {1,...,2016} whose elements satisfy a_i | a_j+1 / coprimality property*
 
-> The set $\{1,2,3,5,29,869\}$ has the property described in the statement (it has $6$ elements). One proves $X$ has at most $7$ elements. Suppose by contradiction $X=\{a_1,a_2,a_3,a_4,a_5,a_6,a_7\}$ with $a_1<a_2<\dots$. One shows $\gcd(a_i,a_j)=1$ for $i\neq j$: if a prime $p\mid a_i$ and $p\mid a_j$ with $i<j$ then $a_i\mid a_j+1$ forces $p\nmid a_j$, a contradiction. Then $a_2$ is a multiple of the product $a_3a_4a_5a_6a_7\geq 1\cdot 2\cdot 3\cdot 5\cdot 7\cdot 11=2310$, so $a_2\geq 2309$, absurd since $a_2\leq 2016$. Find the maximum number of elements of such a set. [Answer key value corresponds to option D.]
+> Seja $X$ um subconjunto de $\{1,2,\ldots,2016\}$ com a seguinte propriedade: se $a,b\in X$ e $a<b$, então $a$ divide $b+1$. Qual é o número máximo de elementos que $X$ pode ter?
+>
+> (A) $4$ (B) $5$ (C) $6$ (D) $7$ (E) $8$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
@@ -620,14 +741,32 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum size of a set in {1,...,2016} whose elements satisfy a_i | a_j+1 / coprimality property*
+
+> The set $\{1,2,3,5,29,869\}$ has the property described in the statement (it has $6$ elements). One proves $X$ has at most $7$ elements. Suppose by contradiction $X=\{a_1,a_2,a_3,a_4,a_5,a_6,a_7\}$ with $a_1<a_2<\dots$. One shows $\gcd(a_i,a_j)=1$ for $i\neq j$: if a prime $p\mid a_i$ and $p\mid a_j$ with $i<j$ then $a_i\mid a_j+1$ forces $p\nmid a_j$, a contradiction. Then $a_2$ is a multiple of the product $a_3a_4a_5a_6a_7\geq 1\cdot 2\cdot 3\cdot 5\cdot 7\cdot 11=2310$, so $a_2\geq 2309$, absurd since $a_2\leq 2016$. Find the maximum number of elements of such a set. [Answer key value corresponds to option D.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Counting 'sagaz' numbers abcd where the number minus its digit sum is at most 999*
 
-> Consider a number of up to four digits $\overline{abcd}$ and note $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. If $a\geq 1$ the result is at least $1000$, and any number with $5$ or more digits gives a difference at least $1000$. So a 'sagaz' number must satisfy $a=0$, giving $10$ options for $b$ etc.; the analysis shows the smaller term is $b=c=0$ with the product less than $1000$, and counting carefully there are $99+1=100$ sagaz numbers less than $1000$. How many sagaz numbers are there? [Answer key value: $100$.]
+> Dizemos que um número natural $n$ é sagaz quando a diferença entre $n$ e a soma dos seus algarismos é maior que $0$ e menor que $1000$. Quantos números sagazes existem?
+>
+> (A) $90$ (B) $100$ (C) $110$ (D) $120$ (E) $130$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -649,6 +788,21 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Counting 'sagaz' numbers abcd where the number minus its digit sum is at most 999*
+
+> Consider a number of up to four digits $\overline{abcd}$ and note $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. If $a\geq 1$ the result is at least $1000$, and any number with $5$ or more digits gives a difference at least $1000$. So a 'sagaz' number must satisfy $a=0$, giving $10$ options for $b$ etc.; the analysis shows the smaller term is $b=c=0$ with the product less than $1000$, and counting carefully there are $99+1=100$ sagaz numbers less than $1000$. How many sagaz numbers are there? [Answer key value: $100$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
 

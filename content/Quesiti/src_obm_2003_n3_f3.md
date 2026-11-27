@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest prime dividing x^2+5x+23 for some integer x*
 
-> Find the smallest positive prime that divides $x^2 + 5x + 23$ for some integer $x$.
+> Determine o menor número primo positivo que divide $x^2 + 5x + 23$ para algum inteiro $x$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
@@ -40,17 +40,31 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest prime dividing x^2+5x+23 for some integer x*
+
+> Find the smallest positive prime that divides $x^2 + 5x + 23$ for some integer $x$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,method_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest k so k subsets cover S via signed unions*
 
-> Let $S$ be a set with $n$ elements. Find the smallest positive integer $k$ with the following property: given any $k$ distinct subsets $A_1, A_2, \ldots, A_k$ of $S$, there exists a suitable choice of signs $+$ and $-$ such that
+> Seja $S$ um conjunto de $n$ elementos. Determine o menor inteiro positivo $k$ com a seguinte propriedade: dados quaisquer $k$ subconjuntos distintos $A_1, A_2, \ldots, A_k$ de $S$, existe uma escolha adequada dos sinais $+$ e $-$ de modo que
 > $$S = A_1^{\pm} \cup A_2^{\pm} \cup \cdots \cup A_k^{\pm},$$
-> where $A_i^{+} = A_i$ and $A_i^{-} = S \setminus A_i$ is the complement of $A_i$ with respect to $S$.
+> onde $A_i^{+} = A_i$ e $A_i^{-} = S - A_i$ é o complementar de $A_i$ em relação a $S$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -75,14 +89,31 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest k so k subsets cover S via signed unions*
+
+> Let $S$ be a set with $n$ elements. Find the smallest positive integer $k$ with the following property: given any $k$ distinct subsets $A_1, A_2, \ldots, A_k$ of $S$, there exists a suitable choice of signs $+$ and $-$ such that
+> $$S = A_1^{\pm} \cup A_2^{\pm} \cup \cdots \cup A_k^{\pm},$$
+> where $A_i^{+} = A_i$ and $A_i^{-} = S \setminus A_i$ is the complement of $A_i$ with respect to $S$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Lines EH and FG parallel in rhombus with tangent lines*
 
-> Let $ABCD$ be a rhombus. Let $E$, $F$, $G$, and $H$ be points on sides $AB$, $BC$, $CD$, and $DA$, respectively, such that lines $EF$ and $GH$ are tangent to the inscribed circle of the rhombus. Prove that lines $EH$ and $FG$ are parallel.
+> Seja $ABCD$ um losango. Sejam $E$, $F$, $G$ e $H$ pontos sobre os lados $AB$, $BC$, $CD$ e $DA$, respectivamente, e tais que as retas $EF$ e $GH$ são tangentes à circunferência inscrita no losango. Prove que as retas $EH$ e $FG$ são paralelas.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -105,14 +136,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Lines EH and FG parallel in rhombus with tangent lines*
+
+> Let $ABCD$ be a rhombus. Let $E$, $F$, $G$, and $H$ be points on sides $AB$, $BC$, $CD$, and $DA$, respectively, such that lines $EF$ and $GH$ are tangent to the inscribed circle of the rhombus. Prove that lines $EH$ and $FG$ are parallel.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Points on circle maximizing quadrilateral ABCD area*
 
-> A circumference $K$ and a point $A$ interior to it, fixed and distinct from the centre, are given. Find points $B$, $C$, and $D$ on the circumference such that the area of the quadrilateral $ABCD$ is as large as possible.
+> São dados: uma circunferência $K$ e um ponto $A$ interior, fixo, distinto do centro. Determine os pontos $B$, $C$ e $D$ sobre a circunferência de forma que a área do quadrilátero $ABCD$ seja a maior possível.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
@@ -135,19 +181,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Points on circle maximizing quadrilateral ABCD area*
+
+> A circumference $K$ and a point $A$ interior to it, fixed and distinct from the centre, are given. Find points $B$, $C$, and $D$ on the circumference such that the area of the quadrilateral $ABCD$ is as large as possible.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,topic_funzionali,method_backward,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Functional inequality implying f(x_0)<0 for some x_0*
 
-> Suppose $f:(0,+\infty) \to \mathbb{R}$ satisfies:
-> \begin{enumerate}
-> \item[(i)] $x < y \Rightarrow f(x) < f(y)$,
-> \item[(ii)] $f\!\left(\dfrac{2xy}{x+y}\right) \ge \dfrac{f(x)+f(y)}{2}$, for all $x, y \in (0,+\infty)$.
-> \end{enumerate}
-> Prove that there exists $x_0 \in (0,+\infty)$ such that $f(x_0) < 0$.
+> Suponha que $f:(0,+\infty) \to \mathbb{R}$ satisfaz:
+>
+> (i) $x < y \Rightarrow f(x) < f(y)$
+>
+> (ii) $f\!\left(\dfrac{2xy}{x+y}\right) \ge \dfrac{f(x)+f(y)}{2}$, para todo $x, y \in (0,+\infty)$.
+>
+> Prove que existe $x_0 \in (0,+\infty)$ tal que $f(x_0) < 0$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Classical inequalities]]
@@ -174,19 +236,38 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Functional inequality implying f(x_0)<0 for some x_0*
+
+> Suppose $f:(0,+\infty) \to \mathbb{R}$ satisfies:
+> \begin{enumerate}
+> \item[(i)] $x < y \Rightarrow f(x) < f(y)$,
+> \item[(ii)] $f\!\left(\dfrac{2xy}{x+y}\right) \ge \dfrac{f(x)+f(y)}{2}$, for all $x, y \in (0,+\infty)$.
+> \end{enumerate}
+> Prove that there exists $x_0 \in (0,+\infty)$ such that $f(x_0) < 0$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,method_estremalita,method_grafi,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum n_0 so n>=n_0 implies no bacana graph exists*
 
-> A graph with vertex set $V$ having $n$ elements is called *bacana* if there exists a set $D \subset N$ and an injective function $f: V \to \lfloor 1, n^2/4 \rfloor \cap N$ such that two vertices $p$ and $q$ are connected by an edge if and only if $f(p) - f(q) \in D$.
-> 
-> Show that there exists $n_0 \in N$ such that for every $n \ge n_0$ there exist graphs with $n$ vertices that are not bacana.
-> 
-> **Observation:** A graph with vertex set $V$ is a pair $(V, E)$ where $E$ is a set of subsets of $V$, each with exactly two elements. A subset $\{p, q\}$ is called an *edge*; we say this edge connects vertices $p$ and $q$.
+> Um grafo cujo conjunto de vértices $V$ tem $n$ elementos é bacana se existir um conjunto $D \subset N$ e uma função injetiva $f: V \to \lfloor 1, n^2/4 \rfloor \cap N$ tal que os vértices $p$ e $q$ são ligados por uma aresta se e somente se $f(p) - f(q) \in D$.
+>
+> Mostre que existe $n_0 \in N$ tal que para todo $n \ge n_0$ existem grafos com $n$ vértices que não são bacanas.
+>
+> Observação: Um grafo com conjunto de vértices $V$ é um par $(V, E)$ onde $E$ é um conjunto de subconjuntos de $V$, todos com exatamente dois elementos. Um conjunto $\{p, q\}$ é chamado de aresta se pertencer a $E$ e neste caso dizemos que esta aresta liga os vértices $p$ e $q$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
@@ -211,3 +292,21 @@ level: OBM Nível 3
 **Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum n_0 so n>=n_0 implies no bacana graph exists*
+
+> A graph with vertex set $V$ having $n$ elements is called *bacana* if there exists a set $D \subset N$ and an injective function $f: V \to \lfloor 1, n^2/4 \rfloor \cap N$ such that two vertices $p$ and $q$ are connected by an edge if and only if $f(p) - f(q) \in D$.
+> 
+> Show that there exists $n_0 \in N$ such that for every $n \ge n_0$ there exist graphs with $n$ vertices that are not bacana.
+> 
+> **Observation:** A graph with vertex set $V$ is a pair $(V, E)$ where $E$ is a set of subsets of $V$, each with exactly two elements. A subset $\{p, q\}$ is called an *edge*; we say this edge connects vertices $p$ and $q$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)

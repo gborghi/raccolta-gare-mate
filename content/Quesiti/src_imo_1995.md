@@ -33,9 +33,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Prove AM, DN, XY concorrenti nella configurazione dei cerchi a due diametri*
-
+*Dimostrare che le rette AM, DN e XY sono concorrenti nella configurazione delle due circonferenze di diametri AC e BD.*
 > Siano A, B, C, D quattro punti distinti allineati, in tale ordine. Le circonferenze aventi come diametri AC e BD si intersecano nei punti X e Y. La retta XY incontra BC nel punto Z. Sia P un punto della retta XY diverso da Z. La retta CP interseca la circonferenza avente come diametro AC nei punti C e M, e la retta BP interseca la circonferenza avente come diametro BD nei punti B e N. Dimostrare che le rette AM, DN, XY sono concorrenti.
 
 

@@ -102,9 +102,7 @@ level: China Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Dimostrare che l'unione di k sottoinsiemi contiene meno di k/n della frazione degli elementi di A*
-
+*In un insieme finito A di somma nulla, con n sottoinsiemi non vuoti da cui ogni scelta di n elementi ha somma strettamente positiva: esistono k sottoinsiemi la cui unione contiene meno di k/n degli elementi di A.*
 > Siano $A_1, A_2, \ldots, A_n$ $n$ sottoinsiemi non vuoti di un insieme finito $A$ di numeri reali che soddisfano le seguenti condizioni: (1) La somma degli elementi di $A$ è uguale a 0; (2) Si scelga arbitrariamente un numero da ciascun $A_i$, e la loro somma è strettamente positiva. Dimostrare che esistono insiemi $A_{i_1}, A_{i_2}, \ldots, A_{i_k}$, $1 \le i_1 < i_2 < \cdots < i_k \le n$ tali che
 > $$|A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k}| < \frac{k}{n} |A|.$$
 > ($|X|$ denota il numero di elementi di un insieme finito $X$.)

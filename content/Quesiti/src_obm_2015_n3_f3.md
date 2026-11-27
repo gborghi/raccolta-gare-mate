@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Collinearity of A, D, N iff angle BAC = 45 degrees*
 
-> Let $ABC$ be a scalene acute triangle and $N$ the center of the circle passing through the feet of the three altitudes of the triangle. Let $D$ be the intersection of the tangent lines to the circumcircle of $ABC$ at $B$ and $C$. Prove that $A$, $D$, and $N$ are collinear if and only if $\angle BAC = 45^\circ$.
+> Seja $ABC$ um triângulo escaleno e acutângulo e $N$ o centro do círculo que passa pelos pés das três alturas do triângulo. Seja $D$ a interseção das retas tangentes ao circuncírculo de $ABC$ e que passam por $B$ e $C$. Prove que $A$, $D$ e $N$ são colineares se, e somente se, $\angle BAC = 45º$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -40,9 +40,50 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Collinearity of A, D, N iff angle BAC = 45 degrees*
+
+> Let $ABC$ be a scalene acute triangle and $N$ the center of the circle passing through the feet of the three altitudes of the triangle. Let $D$ be the intersection of the tangent lines to the circumcircle of $ABC$ at $B$ and $C$. Prove that $A$, $D$, and $N$ are collinear if and only if $\angle BAC = 45^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
+
+
+*Largest k so every 4n-element subset contains k pairs {a,b} with b multiple of a*
+
+> Seja $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Encontre o maior valor de $k$ para o qual a seguinte afirmação é verdadeira: todo subconjunto $A$ de $S$ com $4n$ elementos tem pelo menos $k$ subconjuntos $\{a, b\}$ com $a < b$ e $b$ múltiplo de $a$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Valore massimo di k tale che ogni sottoinsieme di 4n elementi contenga k coppie {a,b} in cui b è multiplo di a.*
+> Siano $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Determinare il valore massimo di $k$ per cui vale la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi possiede almeno $k$ sottoinsiemi a due elementi $\{a, b\}$ tali che $a < b$ e $b$ siano multipli di $a$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Largest k so every 4n-element subset contains k pairs {a,b} with b multiple of a*
@@ -56,30 +97,17 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Valore massimo di k tale che ogni sottoinsieme di 4n elementi contenga k coppie {a,b} in cui b è multiplo di a*
-
-> Siano $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Determinare il valore massimo di $k$ per cui vale la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi possiede almeno $k$ sottoinsiemi a due elementi $\{a, b\}$ tali che $a < b$ e $b$ siano multipli di $a$.
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_fattorizzazione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Infinitely many n with f(n) = f(n-1)+1 for the false derivative*
 
-> Given a natural number $n > 1$ with prime factorization $n = p_1^{\alpha_1} p_2^{\alpha_2} \cdots p_k^{\alpha_k}$, its \emph{false derivative} is defined by
+> Dado um natural $n > 1$ e sua fatoração em primos $n = p_1^{\alpha_1} p_2^{\alpha_2} \cdots p_k^{\alpha_k}$, sua falsa derivada é definida por
 > $$f(n) = \alpha_1 p_1^{\alpha_1 - 1} \alpha_2 p_2^{\alpha_2 - 1} \cdots \alpha_k p_k^{\alpha_k - 1}.$$
-> Prove that there are infinitely many natural numbers $n$ such that $f(n) = f(n-1) + 1$.
+> Prove que existem infinitos naturais $n$ tais que $f(n) = f(n - 1) + 1$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
@@ -104,21 +132,38 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Infinitely many n with f(n) = f(n-1)+1 for the false derivative*
+
+> Given a natural number $n > 1$ with prime factorization $n = p_1^{\alpha_1} p_2^{\alpha_2} \cdots p_k^{\alpha_k}$, its \emph{false derivative} is defined by
+> $$f(n) = \alpha_1 p_1^{\alpha_1 - 1} \alpha_2 p_2^{\alpha_2 - 1} \cdots \alpha_k p_k^{\alpha_k - 1}.$$
+> Prove that there are infinitely many natural numbers $n$ such that $f(n) = f(n-1) + 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Divisors alternating sum identity and characterization, find three solutions*
 
-> Let $n$ be a positive integer and let $n = d_1 > d_2 > \cdots > d_k = 1$ be its positive divisors.
-> 
-> (a) Prove that
+> Seja $n$ um inteiro positivo e sejam $n = d_1 > d_2 > \cdots > d_k = 1$ seus divisores positivos.
+>
+> (a) Prove que
 > $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 1$$
-> if and only if $n$ is prime or $n = 4$.
-> 
-> (b) Determine the three positive integers $n$ for which
-> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 4.$$
+> se, e somente se, $n$ é primo ou $n = 4$.
+>
+> (b) Determine os três inteiros positivos $n$ para os quais
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 4$$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
@@ -148,14 +193,36 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Divisors alternating sum identity and characterization, find three solutions*
+
+> Let $n$ be a positive integer and let $n = d_1 > d_2 > \cdots > d_k = 1$ be its positive divisors.
+> 
+> (a) Prove that
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 1$$
+> if and only if $n$ is prime or $n = 4$.
+> 
+> (b) Determine the three positive integers $n$ for which
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 4.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_insiemi_funzioni,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Polynomial f with rational coefficients and integer-valued set S of size n+1 forcing g(t)=f(t) for all t*
 
-> Is it true that for every polynomial $f(x)$ with rational coefficients, not all integer coefficients, of degree $n > 0$, and for every polynomial $g(x)$ with all integer coefficients, there exists a set $S$ with $n + 1$ integers such that $g(t) = f(t)$ for all $t \in S$?
+> É verdade que existem um polinômio $f(x)$ de coeficientes racionais, nem todos inteiros, de grau $n > 0$, um polinômio $g(x)$, com todos os coeficientes inteiros, e um conjunto $S$ com $n + 1$ inteiros tais que $g(t) = f(t)$ para todo $t \in S$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -178,14 +245,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Polynomial f with rational coefficients and integer-valued set S of size n+1 forcing g(t)=f(t) for all t*
+
+> Is it true that for every polynomial $f(x)$ with rational coefficients, not all integer coefficients, of degree $n > 0$, and for every polynomial $g(x)$ with all integer coefficients, there exists a set $S$ with $n + 1$ integers such that $g(t) = f(t)$ for all $t \in S$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Circumcircles of BXZ and CXY meet at P on circle with diameter through H and G*
 
-> Let $ABC$ be a scalene triangle and $X$, $Y$, $Z$ points on lines $BC$, $CA$, $AB$, respectively, such that $\angle AXB = \angle BYC = \angle CZA$. The circumcircles of $BXZ$ and $CXY$ intersect at a point $P \neq X$. Prove that $P$ lies on the circle whose diameter has endpoints at the orthocenter $H$ and the centroid $G$ of $ABC$.
+> Seja $ABC$ um triângulo escaleno e $X$, $Y$ e $Z$ pontos sobre as retas $BC$, $CA$, $AB$, respectivamente, tais que $\angle AXB = \angle BYC = \angle CZA$. Os circuncírculos de $BXZ$ e $CXY$ se cortam em $P \neq X$. Prove que $P$ está sobre a circunferência cujo diâmetro tem extremidades no ortocentro $H$ e no baricentro $G$ de $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -205,3 +287,18 @@ level: OBM Nível 3
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Circumcircles of BXZ and CXY meet at P on circle with diameter through H and G*
+
+> Let $ABC$ be a scalene triangle and $X$, $Y$, $Z$ points on lines $BC$, $CA$, $AB$, respectively, such that $\angle AXB = \angle BYC = \angle CZA$. The circumcircles of $BXZ$ and $CXY$ intersect at a point $P \neq X$. Prove that $P$ lies on the circle whose diameter has endpoints at the orthocenter $H$ and the centroid $G$ of $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)

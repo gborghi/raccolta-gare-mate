@@ -12,12 +12,12 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count positive integers below 1000 whose digit sum is 7*
 
-> How many positive integers less than $1000$ have the sum of their digits equal to $7$?
+> Quantos inteiros positivos menores que $1000$ têm a soma de seus algarismos igual a $7$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -42,18 +42,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count positive integers below 1000 whose digit sum is 7*
+
+> How many positive integers less than $1000$ have the sum of their digits equal to $7$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_funzionali,method_backward,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Longest sequence ending in 103 where each term plus its digit sum gives the next term*
 
-> Consider the sequences of positive integers such that each term plus the sum of its digits is equal to the following term. For example: $6, 12, 15, 21, 24, 30, 33, 39$ is a sequence under these conditions.
-> 
-> Write the longest sequence whose last term is $103$ and that satisfies such conditions.
-> 
-> **Note:** the longest sequence is the one with the greatest number of terms.
+> Considere as seqüências de inteiros positivos tais que cada termo mais a soma dos seus algarismos é igual ao termo seguinte. Por exemplo: $6, 12, 15, 21, 24, 30, 33, 39$ é uma seqüência nessas condições.
+>
+> Escreva a maior seqüência cujo último termo é $103$ e que satisfaz tais condições.
+>
+> Observação: maior seqüência é aquela com o maior número de termos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
@@ -83,19 +98,37 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Longest sequence ending in 103 where each term plus its digit sum gives the next term*
+
+> Consider the sequences of positive integers such that each term plus the sum of its digits is equal to the following term. For example: $6, 12, 15, 21, 24, 30, 33, 39$ is a sequence under these conditions.
+> 
+> Write the longest sequence whose last term is $103$ and that satisfies such conditions.
+> 
+> **Note:** the longest sequence is the one with the greatest number of terms.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,method_conteggio,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Divide a square of side 2003 into 6364 squares whose sides are powers of 2*
 
-> The numbers $1, 2, 4, 8, 16, 32, 64, \ldots$ are powers of $2$.
-> 
-> One wishes to divide a square of side $2003$ into other squares whose sides are powers of $2$.
-> 
-> Show one way to perform the division and obtain $6364$ squares whose sides are powers of $2$.
+> Os números $1, 2, 4, 8, 16, 32, 64, \ldots$ são potências de $2$.
+>
+> Deseja-se dividir um quadrado de lado $2003$ em outros quadrados cujos lados são potências de $2$.
+>
+> Mostre uma maneira de se fazer a divisão e obter $6364$ quadrados cujos lados são potências de $2$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -125,21 +158,37 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Divide a square of side 2003 into 6364 squares whose sides are powers of 2*
+
+> The numbers $1, 2, 4, 8, 16, 32, 64, \ldots$ are powers of $2$.
+> 
+> One wishes to divide a square of side $2003$ into other squares whose sides are powers of $2$.
+> 
+> Show one way to perform the division and obtain $6364$ squares whose sides are powers of $2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Common area of two squares sharing a center-vertex; area of square formed by centers of squares on a parallelogram's sides*
 
-> a) Two squares are positioned so that the center of the first is a vertex of the second, as shown in the figure below.
-> 
-> If the side of the first square measures $12$ cm, what is the area common to the two squares?
-> 
-> b) In the following figure, the parallelogram has sides of measure $12$ cm and $4$ cm and area $40$ cm$^2$. Let $P$, $Q$, $R$ and $S$ be the centers of the squares constructed externally on the four sides of this parallelogram. Knowing that the quadrilateral $PQRS$ is a square, calculate its area.
-
-![[src_obm_2003_n1_f3__Q04.png]]
+> a) Dois quadrados estão posicionados de modo que o centro do primeiro é vértice do segundo, como mostra a figura abaixo.
+>
+> Se o lado do primeiro quadrado mede $12$ cm, quanto mede a área comum aos dois quadrados?
+>
+> b) Na figura a seguir, o paralelogramo tem lados de medida $12$ cm e $4$ cm e área $40$ cm$^2$. Sejam $P$, $Q$, $R$ e $S$ os centros dos quadrados construídos externamente sobre os quatro lados desse paralelogramo. Sabendo que o quadrilátero $PQRS$ é um quadrado, calcule a sua área.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -170,18 +219,39 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Common area of two squares sharing a center-vertex; area of square formed by centers of squares on a parallelogram's sides*
+
+> a) Two squares are positioned so that the center of the first is a vertex of the second, as shown in the figure below.
+> 
+> If the side of the first square measures $12$ cm, what is the area common to the two squares?
+> 
+> b) In the following figure, the parallelogram has sides of measure $12$ cm and $4$ cm and area $40$ cm$^2$. Let $P$, $Q$, $R$ and $S$ be the centers of the squares constructed externally on the four sides of this parallelogram. Knowing that the quadrilateral $PQRS$ is a square, calculate its area.
+
+![[src_obm_2003_n1_f3__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Building a rectangle's perimeter from 2003 integer-length rods by breaking some: one break not always enough, two breaks always suffice*
 
-> We want to construct the perimeter of a rectangle using $2003$ rods whose measures are positive integers. To do this we will sometimes have to break some of them, but all rods and pieces of rods must be used in the construction of the rectangle.
-> 
-> a) Show that with a single break it is not always possible to construct the rectangle.
-> 
-> b) Show that with two breaks it is always possible to construct the rectangle.
+> Queremos construir o perímetro de um retângulo utilizando $2003$ varetas cujas medidas são inteiros positivos. Para isso às vezes teremos de quebrar algumas delas, mas todas as varetas e pedaços de varetas devem ser utilizados na construção do retângulo.
+>
+> a) Mostre que com uma única quebra nem sempre é possível construir o retângulo.
+>
+> b) Mostre que com duas quebras sempre é possível construir o retângulo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -207,3 +277,22 @@ level: OBM Nível 1
 
 **Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Building a rectangle's perimeter from 2003 integer-length rods by breaking some: one break not always enough, two breaks always suffice*
+
+> We want to construct the perimeter of a rectangle using $2003$ rods whose measures are positive integers. To do this we will sometimes have to break some of them, but all rods and pieces of rods must be used in the construction of the rectangle.
+> 
+> a) Show that with a single break it is not always possible to construct the rectangle.
+> 
+> b) Show that with two breaks it is always possible to construct the rectangle.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)

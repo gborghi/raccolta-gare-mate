@@ -12,16 +12,14 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two overlapping squares; find x+y in degrees*
 
-> The figure shows two overlapping squares. What is the value of $x+y$, in degrees?
-> 
-> (A) $270$ \quad (B) $300$ \quad (C) $330$ \quad (D) $360$ \quad (E) $390$
-
-![[src_obm_2007_n3_f1__Q01.png]]
+> A figura mostra dois quadrados sobrepostos. Qual é o valor de $x+y$, em graus?
+>
+> A) $270$ 	B) $300$ 	C) $330$ 	D) $360$ 	E) $390$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -49,16 +47,36 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two overlapping squares; find x+y in degrees*
+
+> The figure shows two overlapping squares. What is the value of $x+y$, in degrees?
+> 
+> (A) $270$ \quad (B) $300$ \quad (C) $330$ \quad (D) $360$ \quad (E) $390$
+
+![[src_obm_2007_n3_f1__Q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 4-digit 'peroba' numbers: at least two neighboring digits of same parity*
 
-> A four-digit number is called a \textit{peroba} if it has at least two neighboring (adjacent) digits with the same parity. How many \textit{perobas} are there?
-> 
-> (A) $8999$ \quad (B) $8874$ \quad (C) $7875$ \quad (D) $8000$ \quad (E) $7750$
+> Um número de quatro dígitos é dito peroba se possui pelo menos dois dígitos vizinhos com a mesma paridade. Quantos números perobas existem?
+>
+> A) $8999$ 	B) $8874$ 	C) $7875$ 	D) $8000$ 	E) $7750$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -84,16 +102,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 4-digit 'peroba' numbers: at least two neighboring digits of same parity*
+
+> A four-digit number is called a \textit{peroba} if it has at least two neighboring (adjacent) digits with the same parity. How many \textit{perobas} are there?
+> 
+> (A) $8999$ \quad (B) $8874$ \quad (C) $7875$ \quad (D) $8000$ \quad (E) $7750$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *If 1+(x^2+x)(x^2+5x+6)=181^2 find x(x+3)*
 
-> If $x$ is a positive real number and $1+(x^2+x)(x^2+5x+6)=181^2$, then the value of $x(x+3)$ is:
-> 
-> (A) $180$ \quad (B) $150$ \quad (C) $120$ \quad (D) $182$ \quad (E) $75$
+> Se $x$ é real positivo e $1+(x^2+x)(x^2+5x+6)=181^2$, então o valor de $x(x+3)$ é:
+>
+> A) $180$ 	B) $150$ 	C) $120$ 	D) $182$ 	E) $75$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -119,18 +155,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*If 1+(x^2+x)(x^2+5x+6)=181^2 find x(x+3)*
+
+> If $x$ is a positive real number and $1+(x^2+x)(x^2+5x+6)=181^2$, then the value of $x(x+3)$ is:
+> 
+> (A) $180$ \quad (B) $150$ \quad (C) $120$ \quad (D) $182$ \quad (E) $75$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_logica,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Die with opposite faces summing 7 rolled four times; find direction of face 1*
 
-> The drawing below shows an ordinary die whose sums of the points on opposite faces are always equal to 7. It is placed on a horizontal table with face ``1'' facing East (Leste). The die is then moved four times. A movement consists of a $90^\circ$ rotation about an edge. After the first movement the face in contact with the table becomes ``1'', then ``2'', and finally face ``5''. In which direction is face ``1'' facing after this sequence of movements? (The figure indicates the North and East directions.)
-> 
-> (A) West \quad (B) East \quad (C) North \quad (D) South \quad (E) Up
-
-![[src_obm_2007_n3_f1__Q04.png]]
+> O desenho abaixo mostra um dado comum cujas somas das pontuações em faces opostas é sempre igual a 7. Ele é colocado em uma mesa horizontal com a face “1” voltada para Leste. O dado é, então, movido quatro vezes. Um movimento consiste em uma rotação de 90° em relação a uma aresta. Depois do primeiro movimento a face em contato com a mesa passa a ser a “1”, depois a “2”, então a “3” e, finalmente, a face “5”. Para que sentido está voltada a face “1” após esta seqüência de movimentos?
+>
+> A) Oeste 	B) Leste 	C) Norte 	D) Sul 	E) Cima
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -158,17 +210,36 @@ level: OBM Nível 3
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Die with opposite faces summing 7 rolled four times; find direction of face 1*
+
+> The drawing below shows an ordinary die whose sums of the points on opposite faces are always equal to 7. It is placed on a horizontal table with face ``1'' facing East (Leste). The die is then moved four times. A movement consists of a $90^\circ$ rotation about an edge. After the first movement the face in contact with the table becomes ``1'', then ``2'', and finally face ``5''. In which direction is face ``1'' facing after this sequence of movements? (The figure indicates the North and East directions.)
+> 
+> (A) West \quad (B) East \quad (C) North \quad (D) South \quad (E) Up
+
+![[src_obm_2007_n3_f1__Q04.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Numbers grouped into pairs with equal product; which pairs with 10*
 
-> The numbers $72$, $8$, $24$, $10$, $5$, $45$, $36$, $15$ are grouped into pairs so that the product of each pair is the same. Which number is paired with $10$?
-> 
-> (A) $36$ \quad (B) $45$ \quad (C) $24$ \quad (D) $15$ \quad (E) $72$
+> Os números $72$, $8$, $24$, $10$, $5$, $45$, $36$, $15$ são agrupados em duplas de modo que o produto de cada dupla é o mesmo. Qual número fica com o $10$?
+>
+> A) $36$ 	B) $45$ 	C) $24$ 	D) $15$ 	E) $72$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -194,16 +265,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Numbers grouped into pairs with equal product; which pairs with 10*
+
+> The numbers $72$, $8$, $24$, $10$, $5$, $45$, $36$, $15$ are grouped into pairs so that the product of each pair is the same. Which number is paired with $10$?
+> 
+> (A) $36$ \quad (B) $45$ \quad (C) $24$ \quad (D) $15$ \quad (E) $72$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *New coating reflects 1/10 of light reflected by black paint; find % absorbed*
 
-> Opaque black paints absorb $97\%$ of light, reflecting the rest. Scientists developed a new coating, ``ten times blacker'' than opaque black paints, meaning that it reflects $1/10$ of the light reflected by opaque black paints. What percentage of light does the new coating absorb?
-> 
-> (A) $9.7$ \quad (B) $90.3$ \quad (C) $99.7$ \quad (D) $99.9$ \quad (E) $970$
+> Tintas pretas opacas absorvem 97% da luz, refletindo o restante. Cientistas desenvolveram uma nova cobertura superpreta que é “dez vezes mais preta” que tintas pretas opacas, querendo dizer que ela reflete $1/10$ da luz refletida pelas tintas pretas opacas. Que porcentagem de luz a nova cobertura absorve?
+>
+> A) 9,7 	B) 90,3 	C) 99,7 	D) 99,9 	E) 970
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
@@ -227,19 +316,35 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*New coating reflects 1/10 of light reflected by black paint; find % absorbed*
+
+> Opaque black paints absorb $97\%$ of light, reflecting the rest. Scientists developed a new coating, ``ten times blacker'' than opaque black paints, meaning that it reflects $1/10$ of the light reflected by opaque black paints. What percentage of light does the new coating absorb?
+> 
+> (A) $9.7$ \quad (B) $90.3$ \quad (C) $99.7$ \quad (D) $99.9$ \quad (E) $970$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sequence 27,207,2007,...; which listed integer is a multiple of 81*
 
-> Consider the following sequence:
+> Considere a seguinte seqüência:
 > $$27=3\times3\times3,\quad 207=3\times3\times23,\quad 2007=3\times3\times223,\quad 20007=3\times3\times2223,\ \ldots$$
-> Which of the following integers is a multiple of $81$?
-> 
-> (A) $200.007$ \quad (B) $20.000.007$ \quad (C) $2.000.000.007$ \quad (D) $200.000.000.007$ \quad (E) $20.000.000.000.007$
+> Qual dos seguintes inteiros é um múltiplo de $81$?
+>
+> A) $200.007$ 	B) $20.000.007$ 	C) $2.000.000.007$ 	D) $200.000.000.007$ 	E) $20.000.000.000.007$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
@@ -267,18 +372,37 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence 27,207,2007,...; which listed integer is a multiple of 81*
+
+> Consider the following sequence:
+> $$27=3\times3\times3,\quad 207=3\times3\times23,\quad 2007=3\times3\times223,\quad 20007=3\times3\times2223,\ \ldots$$
+> Which of the following integers is a multiple of $81$?
+> 
+> (A) $200.007$ \quad (B) $20.000.007$ \quad (C) $2.000.000.007$ \quad (D) $200.000.000.007$ \quad (E) $20.000.000.000.007$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_telescoping,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Which positive integer n makes the sum of fractions equal to 309*
 
-> Which of the positive integers below satisfies the following equation:
+> Qual dos inteiros positivos abaixo satisfaz a seguinte equação:
 > $$\frac{4}{n^4}+\frac{5}{n^4}+\frac{6}{n^4}+\cdots+\frac{n^4-6}{n^4}+\frac{n^4-5}{n^4}+\frac{n^4-4}{n^4}=309\,?$$
-> 
-> (A) $2007$ \quad (B) $309$ \quad (C) $155$ \quad (D) $25$ \quad (E) $5$
+>
+> A) $2007$ 	B) $309$ 	C) $155$ 	D) $25$ 	E) $5$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_simmetria|Using symmetry]]
@@ -305,19 +429,35 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Which positive integer n makes the sum of fractions equal to 309*
+
+> Which of the positive integers below satisfies the following equation:
+> $$\frac{4}{n^4}+\frac{5}{n^4}+\frac{6}{n^4}+\cdots+\frac{n^4-6}{n^4}+\frac{n^4-5}{n^4}+\frac{n^4-4}{n^4}=309\,?$$
+> 
+> (A) $2007$ \quad (B) $309$ \quad (C) $155$ \quad (D) $25$ \quad (E) $5$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Semicircle and isosceles triangle of same area; find tan(x)*
 
-> The drawing below shows a semicircle and an isosceles triangle of the same area. What is the value of $\tan x^\circ$?
-> 
-> (A) $1$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\pi}{\sqrt{3}}$ \quad (D) $\dfrac{2}{\pi}$ \quad (E) $\dfrac{\pi}{2}$
-
-![[src_obm_2007_n3_f1__Q09.png]]
+> O desenho abaixo mostra um semicírculo e um triângulo isósceles de mesma área. Qual é o valor de $\operatorname{tg} x^\circ$?
+>
+> A) $1$ \quad B) $\dfrac{\sqrt{3}}{2}$ \quad C) $\dfrac{\pi}{\sqrt{3}}$ \quad D) $\dfrac{2}{\pi}$ \quad E) $\dfrac{\pi}{2}$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -345,21 +485,40 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Semicircle and isosceles triangle of same area; find tan(x)*
+
+> The drawing below shows a semicircle and an isosceles triangle of the same area. What is the value of $\tan x^\circ$?
+> 
+> (A) $1$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\pi}{\sqrt{3}}$ \quad (D) $\dfrac{2}{\pi}$ \quad (E) $\dfrac{\pi}{2}$
+
+![[src_obm_2007_n3_f1__Q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest positive integer = sum of two positive squares in two ways*
 
-> A well-known episode in Mathematics happened when, visiting the great mathematician Ramanujan in the hospital, the other great mathematician Hardy said that the number of the taxi he took, $1729$, was a number without grace; Ramanujan responded promptly: ``Don't say that, Hardy! $1729$ is the smallest positive integer that can be written as a sum of two perfect cubes of positive integers in two different ways!'' In fact, $1729=10^3+9^3=12^3+1^3$.
-> 
-> A lesser-known episode happened when the little mathematician Muralijam was visited by the little mathematician Sofy, who said that the number of his locker was a number without grace. Muralijam responded immediately: ``No, Sofy, it is the smallest positive integer that can be written as a sum of two perfect squares of positive integers in two different ways!''
-> 
-> To which number do Muralijam and Sofy refer?
-> 
-> (A) $18$ \quad (B) $41$ \quad (C) $45$ \quad (D) $50$ \quad (E) $65$
+> Um episódio muito conhecido na Matemática foi quando ao visitar o grande matemático Ramanujam no hospital, o outro grande matemático Hardy disse que o número do táxi que o trouxe, $1729$, era um número sem graça; Ramanujam respondeu prontamente: “Não diga isso, Hardy! $1729$ é o menor número inteiro positivo que pode ser escrito como soma de dois cubos perfeitos positivos de duas maneiras diferentes!” De fato, $1729 = 10^3 + 9^3 = 12^3 + 1^3$.
+>
+> Um outro episódio não muito conhecido na Matemática foi quando o pequeno matemático Muralijam foi visitado pelo outro pequeno matemático Softy, que disse que o número do lotação que o trouxe era um número sem graça. Muralijam responde imediatamente: “Não, Softy, ele é o menor inteiro positivo que pode ser escrito como soma de dois quadrados perfeitos positivos de duas maneiras diferentes!”
+>
+> A que número Muralijam e Softy se referem?
+>
+> A) $18$ \quad B) $41$ \quad C) $45$ \quad D) $50$ \quad E) $65$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -389,18 +548,40 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest positive integer = sum of two positive squares in two ways*
+
+> A well-known episode in Mathematics happened when, visiting the great mathematician Ramanujan in the hospital, the other great mathematician Hardy said that the number of the taxi he took, $1729$, was a number without grace; Ramanujan responded promptly: ``Don't say that, Hardy! $1729$ is the smallest positive integer that can be written as a sum of two perfect cubes of positive integers in two different ways!'' In fact, $1729=10^3+9^3=12^3+1^3$.
+> 
+> A lesser-known episode happened when the little mathematician Muralijam was visited by the little mathematician Sofy, who said that the number of his locker was a number without grace. Muralijam responded immediately: ``No, Sofy, it is the smallest positive integer that can be written as a sum of two perfect squares of positive integers in two different ways!''
+> 
+> To which number do Muralijam and Sofy refer?
+> 
+> (A) $18$ \quad (B) $41$ \quad (C) $45$ \quad (D) $50$ \quad (E) $65$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count quasi-anagrams of BACANA that start with A*
 
-> We say a word $Q$ is a \textit{quasi-anagram} of another word $P$ when $Q$ can be obtained by removing one letter from $P$ and shuffling the order of the remaining letters, resulting in a word with one letter fewer than $P$. A quasi-anagram word need not have meaning in any language. For example, RARO, RACR and ARCO are quasi-anagrams of CARRO.
-> 
-> How many quasi-anagrams of the word BACANA begin with A?
-> 
-> (A) $48$ \quad (B) $60$ \quad (C) $72$ \quad (D) $96$ \quad (E) $120$
+> Dizemos que uma palavra $Q$ é quase-anagrama de outra palavra $P$ quando $Q$ pode ser obtida retirando-se uma letra de $P$ e trocando a ordem das letras restantes, resultando em uma palavra com uma letra a menos do que $P$. Um quase-anagrama pode ter sentido em algum idioma ou não. Por exemplo, RARO, RACR e ARCO são quase-anagramas de CARRO.
+>
+> Quantos são os quase-anagramas da palavra BACANA que começam com A?
+>
+> A) $48$ \quad B) $60$ \quad C) $72$ \quad D) $96$ \quad E) $120$
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -428,18 +609,38 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count quasi-anagrams of BACANA that start with A*
+
+> We say a word $Q$ is a \textit{quasi-anagram} of another word $P$ when $Q$ can be obtained by removing one letter from $P$ and shuffling the order of the remaining letters, resulting in a word with one letter fewer than $P$. A quasi-anagram word need not have meaning in any language. For example, RARO, RACR and ARCO are quasi-anagrams of CARRO.
+> 
+> How many quasi-anagrams of the word BACANA begin with A?
+> 
+> (A) $48$ \quad (B) $60$ \quad (C) $72$ \quad (D) $96$ \quad (E) $120$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Right-triangle road network; detour 24% longer; bound tan of smallest angle*
 
-> The cities A\'opolis, Be\'opolis and Ce\'opolis are linked by straight roads. It is known that the road that links A\'opolis and Be\'opolis is perpendicular to the road that links A\'opolis and Ce\'opolis. Rubens lives in Be\'opolis and has a commitment in Ce\'opolis. However, the road that links Be\'opolis to Ce\'opolis is closed, so he must travel the route Be\'opolis-A\'opolis-Ce\'opolis. In order to arrive at the commitment on time, Rubens travels at a speed $24\%$ greater than that he would use on the closed road.
-> 
-> If $\alpha$ is the smallest angle of the triangle determined by the three roads, then:
-> 
-> (A) $0<\tan\alpha<\dfrac{1}{6}$ \quad (B) $\dfrac{1}{6}<\tan\alpha<\dfrac{1}{5}$ \quad (C) $\dfrac{1}{5}<\tan\alpha<\dfrac{1}{4}$ \quad (D) $\dfrac{1}{4}<\tan\alpha<\dfrac{1}{3}$ \quad (E) $\dfrac{1}{3}<\tan\alpha<1$
+> As cidades Aópolis, Beópolis e Ceópolis são ligadas por estradas retas. Sabe-se a estrada que liga Aópolis e Beópolis é perpendicular à estrada que liga Aópolis e Ceópolis. Rubens mora em Beópolis e tem um compromisso em Ceópolis. Todavia, a estrada que liga Beópolis a Ceópolis está interditada, de modo que Rubens é obrigado a fazer o trajeto Beópolis-Aópolis-Ceópolis. Para chegar ao compromisso na hora certa, Rubens trafega com uma velocidade $24\%$ maior do que trafegaria se utilizasse a estrada interditada.
+>
+> Se $\alpha$ é o menor ângulo do triângulo determinado pelas três estradas, então
+>
+> A) $0 < \operatorname{tg}\alpha < \dfrac{1}{6}$ \quad B) $\dfrac{1}{6} < \operatorname{tg}\alpha < \dfrac{1}{5}$ \quad C) $\dfrac{1}{5} < \operatorname{tg}\alpha < \dfrac{1}{4}$ \quad D) $\dfrac{1}{4} < \operatorname{tg}\alpha < \dfrac{1}{3}$ \quad E) $\dfrac{1}{3} < \operatorname{tg}\alpha < 1$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -467,18 +668,38 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Right-triangle road network; detour 24% longer; bound tan of smallest angle*
+
+> The cities A\'opolis, Be\'opolis and Ce\'opolis are linked by straight roads. It is known that the road that links A\'opolis and Be\'opolis is perpendicular to the road that links A\'opolis and Ce\'opolis. Rubens lives in Be\'opolis and has a commitment in Ce\'opolis. However, the road that links Be\'opolis to Ce\'opolis is closed, so he must travel the route Be\'opolis-A\'opolis-Ce\'opolis. In order to arrive at the commitment on time, Rubens travels at a speed $24\%$ greater than that he would use on the closed road.
+> 
+> If $\alpha$ is the smallest angle of the triangle determined by the three roads, then:
+> 
+> (A) $0<\tan\alpha<\dfrac{1}{6}$ \quad (B) $\dfrac{1}{6}<\tan\alpha<\dfrac{1}{5}$ \quad (C) $\dfrac{1}{5}<\tan\alpha<\dfrac{1}{4}$ \quad (D) $\dfrac{1}{4}<\tan\alpha<\dfrac{1}{3}$ \quad (E) $\dfrac{1}{3}<\tan\alpha<1$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *System with integer and fractional parts; find x-y+z*
 
-> Every real number $a$ can be written in a unique way as $a=\lfloor a\rfloor+\{a\}$, where $\lfloor a\rfloor$ is an integer and $0\le\{a\}<1$. We call $\lfloor a\rfloor$ the \textit{integer part} of $a$ and $\{a\}$ the \textit{fractional part} of $a$.
-> 
-> If $x+\lfloor y\rfloor+\{z\}=4.2$, $\;y+\lfloor z\rfloor+\{x\}=3.6$ and $\;z+\lfloor x\rfloor+\{y\}=2$, what is the value of $x-y+z$?
-> 
-> (A) $-1$ \quad (B) $-0.5$ \quad (C) $0$ \quad (D) $0.5$ \quad (E) $2$
+> Todo número real $a$ pode ser escrito de forma única como $a = \lfloor a \rfloor + \{a\}$, em que $\lfloor a \rfloor$ é inteiro e $0 \le \{a\} < 1$. Chamamos $\lfloor a \rfloor$ a parte inteira de $a$ e $\{a\}$ a parte fracionária de $a$.
+>
+> Se $x + \lfloor y \rfloor + \{z\} = 4{,}2$, $y + \lfloor z \rfloor + \{x\} = 3{,}6$ e $z + \lfloor x \rfloor + \{y\} = 2$, quanto vale $x - y + z$?
+>
+> A) $-1$ \quad B) $-0{,}5$ \quad C) $0$ \quad D) $0{,}5$ \quad E) $1$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
@@ -506,19 +727,38 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*System with integer and fractional parts; find x-y+z*
+
+> Every real number $a$ can be written in a unique way as $a=\lfloor a\rfloor+\{a\}$, where $\lfloor a\rfloor$ is an integer and $0\le\{a\}<1$. We call $\lfloor a\rfloor$ the \textit{integer part} of $a$ and $\{a\}$ the \textit{fractional part} of $a$.
+> 
+> If $x+\lfloor y\rfloor+\{z\}=4.2$, $\;y+\lfloor z\rfloor+\{x\}=3.6$ and $\;z+\lfloor x\rfloor+\{y\}=2$, what is the value of $x-y+z$?
+> 
+> (A) $-1$ \quad (B) $-0.5$ \quad (C) $0$ \quad (D) $0.5$ \quad (E) $2$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Repunits; find possible q with pX^2+qX+r a repunit for every repunit X*
 
-> We say a natural number $X$ is a \textit{repunit} when all its digits are equal to 1, i.e., when $X$ is of the form $11\ldots1$.
-> 
-> Let $p$, $q$, $r$ be integers, $p>0$, such that $pX^2+qX+r$ is a repunit whenever $X$ is a repunit. Which of the values below is a possible value of $q$?
-> 
-> (A) $-2$ \quad (B) $-1$ \quad (C) $0$ \quad (D) $1$ \quad (E) $2$
+> Dizemos que um natural $X$ é um repunit quando os seus algarismos são todos iguais a 1, ou seja, quando $X$ é da forma $11\ldots 1$.
+>
+> Sejam $p$, $q$ e $r$ inteiros, $p > 0$, tais que $pX^2 + qX + r$ é um repunit sempre que $X$ é um repunit. Qual dos valores a seguir é um possível valor de $q$?
+>
+> A) $-2$ \quad B) $-1$ \quad C) $0$ \quad D) $1$ \quad E) $2$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
@@ -546,17 +786,36 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Repunits; find possible q with pX^2+qX+r a repunit for every repunit X*
+
+> We say a natural number $X$ is a \textit{repunit} when all its digits are equal to 1, i.e., when $X$ is of the form $11\ldots1$.
+> 
+> Let $p$, $q$, $r$ be integers, $p>0$, such that $pX^2+qX+r$ is a repunit whenever $X$ is a repunit. Which of the values below is a possible value of $q$?
+> 
+> (A) $-2$ \quad (B) $-1$ \quad (C) $0$ \quad (D) $1$ \quad (E) $2$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_insiemi_funzioni,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Set of c for which sqrt(x)=sqrt(sqrt(x)+c) has a real solution*
 
-> The set of values of $c$ for which the equation $\sqrt{x}=\sqrt{\sqrt{x}+c}$ has a real solution is contained in:
-> 
-> (A) $[-1,+\infty[$ \quad (B) $]-\infty,1]$ \quad (C) $[-3,2]$ \quad (D) $[-2,3]$ \quad (E) $\mathbb{Z}$
+> O conjunto dos valores de $c$ para os quais a equação $\sqrt{x} = \sqrt{\sqrt{x} + c}$ possui solução real está contido em:
+>
+> A) $[-1; +\infty[$ \quad B) $]-\infty; 1]$ \quad C) $[-3; 2]$ \quad D) $[-2; 3]$ \quad E) $\mathbb{Z}$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -582,17 +841,34 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Set of c for which sqrt(x)=sqrt(sqrt(x)+c) has a real solution*
+
+> The set of values of $c$ for which the equation $\sqrt{x}=\sqrt{\sqrt{x}+c}$ has a real solution is contained in:
+> 
+> (A) $[-1,+\infty[$ \quad (B) $]-\infty,1]$ \quad (C) $[-3,2]$ \quad (D) $[-2,3]$ \quad (E) $\mathbb{Z}$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triangle ABC with altitude AD, AB=DC=1; maximum area*
 
-> In triangle $ABC$, $AD$ is the altitude relative to side $BC$. If $AB=DC=1$, indicate the alternative that corresponds to the maximum area of triangle $ABC$.
-> 
-> (A) $\dfrac{3\sqrt{3}}{8}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\sqrt{2}}{3}$ \quad (D) $\dfrac{\sqrt{2}}{2}$ \quad (E) $\dfrac{1}{2}$
+> No triângulo $ABC$, $AD$ é a altura relativa ao lado $BC$. Se $AB = DC = 1$, assinale a alternativa que corresponde à área máxima do triângulo $ABC$.
+>
+> A) $\dfrac{3\sqrt{3}}{8}$ \quad B) $\dfrac{\sqrt{3}}{2}$ \quad C) $\dfrac{\sqrt{2}}{3}$ \quad D) $\dfrac{\sqrt{2}}{2}$ \quad E) $\dfrac{1}{2}$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
@@ -618,18 +894,36 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle ABC with altitude AD, AB=DC=1; maximum area*
+
+> In triangle $ABC$, $AD$ is the altitude relative to side $BC$. If $AB=DC=1$, indicate the alternative that corresponds to the maximum area of triangle $ABC$.
+> 
+> (A) $\dfrac{3\sqrt{3}}{8}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\sqrt{2}}{3}$ \quad (D) $\dfrac{\sqrt{2}}{2}$ \quad (E) $\dfrac{1}{2}$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count integer pairs with x^8+3y^4=4x^2 y^3 and 1<=y<=2007*
 
-> The number of pairs $(x,y)$ of positive integers that satisfy the equation
-> $$x^8+3y^4=4x^2y^3,$$
-> with $1\le y\le 2007$, is equal to:
-> 
-> (A) $40$ \quad (B) $41$ \quad (C) $42$ \quad (D) $43$ \quad (E) $44$
+> O número de pares $(x, y)$ de inteiros positivos que satisfazem a equação
+> $$x^8 + 3y^4 = 4x^2 y^3,$$
+> com $1 \le y \le 2007$, é igual a:
+>
+> (A) $40$   (B) $41$   (C) $42$   (D) $43$   (E) $44$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -657,18 +951,40 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count integer pairs with x^8+3y^4=4x^2 y^3 and 1<=y<=2007*
+
+> The number of pairs $(x,y)$ of positive integers that satisfy the equation
+> $$x^8+3y^4=4x^2y^3,$$
+> with $1\le y\le 2007$, is equal to:
+> 
+> (A) $40$ \quad (B) $41$ \quad (C) $42$ \quad (D) $43$ \quad (E) $44$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *System a^2-ab=1, b^2-bc=1, c^2-ca=1; find abc(a+b+c)*
 
-> Let $a$, $b$, $c$ be numbers such that
-> $$a^2-ab=1,\quad b^2-bc=1,\quad c^2-ca=1.$$
-> The value of $abc(a+b+c)$ is equal to:
-> 
-> (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $-1$ \quad (E) $-3$
+> Sejam $a$, $b$ e $c$ números tais que
+> $$a^2 - ab = 1$$
+> $$b^2 - bc = 1$$
+> $$c^2 - ac = 1.$$
+> O valor de $abc\cdot(a + b + c)$ é igual a:
+>
+> (A) $0$   (B) $1$   (C) $2$   (D) $-1$   (E) $-3$
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
@@ -696,20 +1012,40 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*System a^2-ab=1, b^2-bc=1, c^2-ca=1; find abc(a+b+c)*
+
+> Let $a$, $b$, $c$ be numbers such that
+> $$a^2-ab=1,\quad b^2-bc=1,\quad c^2-ca=1.$$
+> The value of $abc(a+b+c)$ is equal to:
+> 
+> (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $-1$ \quad (E) $-3$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *100 buildings, floors = digit sum; which statement is true*
 
-> An avenue has $100$ buildings numbered from $1$ to $100$, where buildings with even numbering are on the right side of the street and buildings with odd numbering are on the left side. The number of floors of each building is equal to the sum of the digits of the number corresponding to the building. Thus, we can affirm that:
+> Uma avenida possui $100$ prédios numerados de $1$ a $100$, onde prédios com numeração par se situam do lado direito da rua e prédios com numeração ímpar se situam no lado esquerdo. A quantidade de andares de cada prédio é igual à soma dos algarismos do número correspondente ao prédio. Assim, podemos afirmar que:
 >
-> - **(A)** The quantity of buildings with more than $10$ floors is greater on the right side of the street.
-> - **(B)** The quantity of buildings with fewer than $5$ floors is greater on the right side of the street.
-> - **(C)** At least half of the buildings have $10$ or more floors.
-> - **(D)** On both sides of the street there is the same quantity of buildings with exactly $8$ floors.
-> - **(E)** At least $25\%$ of the buildings have fewer than $5$ floors.
+> - **(A)** A quantidade de prédios com mais de $10$ andares é maior do lado direito da rua.
+> - **(B)** A quantidade de prédios com menos de $5$ andares é maior do lado direito da rua.
+> - **(C)** Pelo menos metade dos prédios possui $10$ ou mais andares.
+> - **(D)** Em ambos os lados da rua há a mesma quantidade de prédios com exatos $8$ andares.
+> - **(E)** Pelo menos $25\%$ dos prédios possui menos de $5$ andares.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -739,16 +1075,38 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*100 buildings, floors = digit sum; which statement is true*
+
+> An avenue has $100$ buildings numbered from $1$ to $100$, where buildings with even numbering are on the right side of the street and buildings with odd numbering are on the left side. The number of floors of each building is equal to the sum of the digits of the number corresponding to the building. Thus, we can affirm that:
+>
+> - **(A)** The quantity of buildings with more than $10$ floors is greater on the right side of the street.
+> - **(B)** The quantity of buildings with fewer than $5$ floors is greater on the right side of the street.
+> - **(C)** At least half of the buildings have $10$ or more floors.
+> - **(D)** On both sides of the street there is the same quantity of buildings with exactly $8$ floors.
+> - **(E)** At least $25\%$ of the buildings have fewer than $5$ floors.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,method_estremalita,skill_stima,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest integer perimeter of a triangle with one side 5sqrt3/2*
 
-> What is the smallest possible integer perimeter of a triangle that has one of its sides with measure equal to $\dfrac{5\sqrt{3}}{2}$?
-> 
-> (A) $8$ \quad (B) $9$ \quad (C) $10$ \quad (D) $11$ \quad (E) $12$
+> Qual o menor perímetro inteiro possível de um triângulo que possui um dos lados com medida igual a $\dfrac{5\sqrt{3}}{2}$?
+>
+> (A) $8$   (B) $9$   (C) $10$   (D) $11$   (E) $12$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -774,16 +1132,34 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest integer perimeter of a triangle with one side 5sqrt3/2*
+
+> What is the smallest possible integer perimeter of a triangle that has one of its sides with measure equal to $\dfrac{5\sqrt{3}}{2}$?
+> 
+> (A) $8$ \quad (B) $9$ \quad (C) $10$ \quad (D) $11$ \quad (E) $12$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_stima,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *At which listed time is the angle between clock hands smallest*
 
-> Determine at which of the times below the angle determined by the hands of a clock is smallest.
-> 
-> (A) $02\mathrm{h}30$ \quad (B) $06\mathrm{h}20$ \quad (C) $05\mathrm{h}40$ \quad (D) $08\mathrm{h}50$ \quad (E) $09\mathrm{h}55$
+> Determine em qual dos horários abaixo o ângulo determinado pelos ponteiros de um relógio é o menor.
+>
+> (A) $02\mathrm{h}30$   (B) $06\mathrm{h}20$   (C) $05\mathrm{h}40$   (D) $08\mathrm{h}50$   (E) $09\mathrm{h}55$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Case analysis]]
@@ -809,17 +1185,34 @@ level: OBM Nível 3
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*At which listed time is the angle between clock hands smallest*
+
+> Determine at which of the times below the angle determined by the hands of a clock is smallest.
+> 
+> (A) $02\mathrm{h}30$ \quad (B) $06\mathrm{h}20$ \quad (C) $05\mathrm{h}40$ \quad (D) $08\mathrm{h}50$ \quad (E) $09\mathrm{h}55$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Greatest common divisor of 1221,2332,3443,...,8998*
 
-> The greatest common divisor of the numbers $1221$, $2332$, $3443$, $4554$, $\ldots$, $8998$ is:
-> 
-> (A) $3$ \quad (B) $33$ \quad (C) $37$ \quad (D) $11$ \quad (E) $101$
+> O máximo divisor comum entre os números $1221$, $2332$, $3443$, $4554$, $\ldots$, $8998$ é:
+>
+> (A) $3$   (B) $33$   (C) $37$   (D) $11$   (E) $101$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -845,21 +1238,36 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Greatest common divisor of 1221,2332,3443,...,8998*
+
+> The greatest common divisor of the numbers $1221$, $2332$, $3443$, $4554$, $\ldots$, $8998$ is:
+> 
+> (A) $3$ \quad (B) $33$ \quad (C) $37$ \quad (D) $11$ \quad (E) $101$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,topic_geometria_analitica,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Ball on 3x6 table bounces twice and falls in S; distance from P on side PQ*
 
-> A billiard table has dimensions $3$ meters by $6$ meters with pockets at its four corners $P$, $Q$, $R$ and $S$. When a ball hits the edge of the table, its trajectory forms an angle with the edge equal to that of the arriving trajectory.
-> 
-> A ball, initially $1$ meter from pocket $P$, is hit from side $SP$ in the direction of side $PQ$, as the figure shows. At how many meters from $P$ does the ball hit side $PQ$ if the ball falls into pocket $S$ after two bounces on the edge of the table?
-> 
-> (A) $1$ \quad (B) $\dfrac{6}{7}$ \quad (C) $\dfrac{3}{4}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{3}{5}$
-
-![[src_obm_2007_n3_f1__Q23.png]]
+> Uma mesa de bilhar tem dimensões de $3$ metros por $6$ metros e tem caçapas nos seus quatro cantos $P$, $Q$, $R$ e $S$. Quando uma bola bate na borda da mesa, sua trajetória forma um ângulo igual ao que a trajetória anterior formava.
+>
+> Uma bola, inicialmente a $1$ metro da caçapa $P$, é batida do lado $SP$ em direção ao lado $PQ$, como mostra a figura. A quantos metros de $P$ a bola acerta o lado $PQ$ se a bola cai na caçapa $S$ após duas batidas na borda da mesa?
+>
+> (A) $1$   (B) $\dfrac{6}{7}$   (C) $\dfrac{3}{4}$   (D) $\dfrac{2}{3}$   (E) $\dfrac{3}{5}$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -889,16 +1297,38 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ball on 3x6 table bounces twice and falls in S; distance from P on side PQ*
+
+> A billiard table has dimensions $3$ meters by $6$ meters with pockets at its four corners $P$, $Q$, $R$ and $S$. When a ball hits the edge of the table, its trajectory forms an angle with the edge equal to that of the arriving trajectory.
+> 
+> A ball, initially $1$ meter from pocket $P$, is hit from side $SP$ in the direction of side $PQ$, as the figure shows. At how many meters from $P$ does the ball hit side $PQ$ if the ball falls into pocket $S$ after two bounces on the edge of the table?
+> 
+> (A) $1$ \quad (B) $\dfrac{6}{7}$ \quad (C) $\dfrac{3}{4}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{3}{5}$
+
+![[src_obm_2007_n3_f1__Q23.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Three-digit numbers abc with b=a^2+c^2; difference of largest and smallest*
 
-> Consider all the three-digit numbers $\overline{abc}$ where $b=a^2+c^2$ and $a\ne0$. The difference between the largest and the smallest of these numbers is a number:
-> 
-> (A) Multiple of $3$ \quad (B) Prime \quad (C) With last digit equal to $7$ \quad (D) Whose sum of digits is $10$ \quad (E) Multiple of $7$
+> Considere todos os números $abc$ de três algarismos onde $b = a^2 + c^2$ e $a \neq 0$. A diferença entre o maior e o menor destes números é um número:
+>
+> (A) Múltiplo de $3$   (B) Primo   (C) Com último algarismo igual a $7$   (D) Cuja soma dos algarismos é $10$   (E) Múltiplo de $7$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -924,17 +1354,35 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Three-digit numbers abc with b=a^2+c^2; difference of largest and smallest*
+
+> Consider all the three-digit numbers $\overline{abc}$ where $b=a^2+c^2$ and $a\ne0$. The difference between the largest and the smallest of these numbers is a number:
+> 
+> (A) Multiple of $3$ \quad (B) Prime \quad (C) With last digit equal to $7$ \quad (D) Whose sum of digits is $10$ \quad (E) Multiple of $7$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Recurrence a_{n+1}=2×digitsum(a_n)+1, a_1=1; find a_31+...+a_35*
 
-> Let $\{a_n\}$ be a sequence in which each term is defined as double the sum of the digits of the previous term, plus one unit. For example, if $a_n=234$, then $a_{n+1}=2(2+3+4)+1$.
-> 
-> If $a_1=1$, the value of $a_{31}+a_{32}+a_{33}+a_{34}+a_{35}$ is equal to:
-> 
+> Seja $\{a_n\}$ uma seqüência na qual cada termo é definido como o dobro da soma dos algarismos do termo anterior, mais uma unidade. Por exemplo, se $a_n = 234$, então $a_{n+1} = 2(2 + 3 + 4) + 1$.
+>
+> Se $a_1 = 1$, o valor de $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ é igual a:
+>
 > (A) $44$ \quad (B) $54$ \quad (C) $64$ \quad (D) $75$ \quad (E) $84$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
@@ -961,3 +1409,22 @@ level: OBM Nível 3
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Recurrence a_{n+1}=2×digitsum(a_n)+1, a_1=1; find a_31+...+a_35*
+
+> Let $\{a_n\}$ be a sequence in which each term is defined as double the sum of the digits of the previous term, plus one unit. For example, if $a_n=234$, then $a_{n+1}=2(2+3+4)+1$.
+> 
+> If $a_1=1$, the value of $a_{31}+a_{32}+a_{33}+a_{34}+a_{35}$ is equal to:
+> 
+> (A) $44$ \quad (B) $54$ \quad (C) $64$ \quad (D) $75$ \quad (E) $84$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)

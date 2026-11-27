@@ -12,16 +12,16 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_conteggio,method_congruenze,method_fattorizzazione,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Years whose last two digits divide the year exactly: find the next three after 2025, and count them between 1900 and 1999.*
 
-> A year $A$ is called *inteiro* (whole) when its last two digits are not both $0$ and the number formed by the last two digits of $A$ divides $A$ exactly, that is, gives an integer result. For example, $2025$ and $2002$ are whole years, since $\frac{2025}{25}=81$ and $\frac{2002}{2}=1001$ are integers. On the other hand, $2000$ and $2003$ are not whole years, since $2000$ ends in $00$ and $\frac{2003}{3}$ is not an integer.
-> 
-> (a) Which are the next three whole years after $2025$? Justify your answer.
-> 
-> (b) How many whole years are there between $1900$ and $1999$? Justify your answer.
+> Um ano $A$ é dito *inteiraço* quando os dois últimos algarismos de $A$ não são $00$ e a divisão de $A$ pelo número formado pelos dois últimos dígitos de $A$ tem como resultado um número inteiro. Por exemplo, $2025$ e $2002$ são anos inteiraços, pois $\frac{2025}{25}=81$ e $\frac{2002}{2}=1001$ são inteiros. Já $2000$ e $2003$ não são inteiraços, pois $2000$ termina em $00$ e $\frac{2003}{3}$ não é inteiro.
+>
+> (a) Quais são os próximos três anos inteiraços depois de $2025$? Justifique sua resposta.
+>
+> (b) Há quantos anos inteiraços entre $1900$ e $1999$? Justifique sua resposta.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -52,19 +52,37 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Years whose last two digits divide the year exactly: find the next three after 2025, and count them between 1900 and 1999.*
+
+> A year $A$ is called *inteiro* (whole) when its last two digits are not both $0$ and the number formed by the last two digits of $A$ divides $A$ exactly, that is, gives an integer result. For example, $2025$ and $2002$ are whole years, since $\frac{2025}{25}=81$ and $\frac{2002}{2}=1001$ are integers. On the other hand, $2000$ and $2003$ are not whole years, since $2000$ ends in $00$ and $\frac{2003}{3}$ is not an integer.
+> 
+> (a) Which are the next three whole years after $2025$? Justify your answer.
+> 
+> (b) How many whole years are there between $1900$ and $1999$? Justify your answer.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Square of side x with diagonal 2 cm decomposed into four triangles; then area of quadrilateral IJKL formed by squares built inside a regular octagon.*
 
-> (a) The figure below shows a square of side $x$ with diagonal $2$ cm. We obtain an equation for $x$ in two ways: directly through the area of the square, or by summing the four areas of the triangles formed by the sides and by the diagonals. Find this equation and compute the value of $x$.
-> 
-> (b) The figure below shows a regular octagon $ABCDEFGH$ of side $2$ cm. Each of the interior angles of a regular octagon measures $135^\circ$. In the interior of the octagon, the squares $ABIJ$ and $EFKL$ were built over the sides $AB$ and $EF$, respectively. What is the area of the quadrilateral $IJKL$?
-
-![[src_obm_2025_n1_fx__Q02.png]]
+> (a) A figura a seguir mostra um quadrado de lado $x$ de diagonal $2$ cm. Obtemos uma equação ao calcular a área do quadrado de duas formas: diretamente usando o lado do quadrado ou somando as quatro áreas dos triângulos formados pelos lados e pelas diagonais. Encontre essa equação e calcule o valor de $x$.
+>
+> (b) A figura a seguir apresenta um octógono regular $ABCDEFGH$ de lado $2$ cm. Cada um dos ângulos internos do octógono regular mede $135^\circ$. No interior do octógono, sobre os lados $AB$ e $EF$ foram construídos dois quadrados $ABIJ$ e $EFKL$, respectivamente. Qual é a área do quadrilátero $IJKL$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
@@ -95,19 +113,39 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square of side x with diagonal 2 cm decomposed into four triangles; then area of quadrilateral IJKL formed by squares built inside a regular octagon.*
+
+> (a) The figure below shows a square of side $x$ with diagonal $2$ cm. We obtain an equation for $x$ in two ways: directly through the area of the square, or by summing the four areas of the triangles formed by the sides and by the diagonals. Find this equation and compute the value of $x$.
+> 
+> (b) The figure below shows a regular octagon $ABCDEFGH$ of side $2$ cm. Each of the interior angles of a regular octagon measures $135^\circ$. In the interior of the octagon, the squares $ABIJ$ and $EFKL$ were built over the sides $AB$ and $EF$, respectively. What is the area of the quadrilateral $IJKL$?
+
+![[src_obm_2025_n1_fx__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_casework,method_congruenze,method_invarianti,method_backward,skill_casework_accurato,skill_astrazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two players alternately cross out numbers from 1 to 25; you lose if your move leaves three remaining numbers with sum divisible by 3. Analyze a position and decide who wins from the start.*
 
-> Ana and Beto decide to play a game. Initially the $25$ numbers, the integers from $1$ to $25$, are written on a blackboard. They play alternately crossing out a number from the blackboard, with Ana crossing out first. On each turn, a player chooses a number that has not yet been crossed out and crosses it out. A configuration is said to lose the game if the sum of the three numbers that remain (not crossed out) is divisible by $3$. The player who, with their move, leaves a configuration that loses the game, loses.
-> 
-> (a) Suppose the numbers crossed out so far are $3$, $2$ and $4$. Now it is Beto's turn to play. How must Beto play to win? Justify your answer.
-> 
-> (b) Considering the game from its initial state, in which no number has yet been crossed out and Ana will make the first move, which of the players has a winning strategy, that is, can play so as to always win, no matter the moves made by the opponent? Remember to explain how the player who has a winning strategy must play to guarantee the victory.
+> Ana e Beto decidem disputar um jogo. Inicialmente estão escritos numa lousa os $25$ números inteiros de $1$ até $25$ e nenhum deles está circulado. Eles jogam alternadamente com Ana jogando primeiro. Na sua vez, o jogador escolhe um número não circulado e o circula. Uma configuração é dita final se há três números circulados tal que a soma dos três é divisível por $3$. O primeiro jogador que após sua jogada deixar uma configuração final perde o jogo.
+>
+> (a) Suponha que os números circulados são $1$, $2$ e $4$. Agora é a vez de Beto jogar. Como Beto deve jogar para vencer o jogo? Justifique!
+>
+> (b) Considerando o jogo no estado inicial em que nenhum número está circulado e Ana fará a primeira jogada, qual dos dois jogadores possui uma estratégia vencedora, ou seja, consegue vencer não importando quais sejam as jogadas de seu oponente? Lembre-se de explicar como o jogador que possui estratégia vencedora deve fazer suas jogadas para garantir a vitória.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]], [[method_backward|Working backwards]]
@@ -138,21 +176,41 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two players alternately cross out numbers from 1 to 25; you lose if your move leaves three remaining numbers with sum divisible by 3. Analyze a position and decide who wins from the start.*
+
+> Ana and Beto decide to play a game. Initially the $25$ numbers, the integers from $1$ to $25$, are written on a blackboard. They play alternately crossing out a number from the blackboard, with Ana crossing out first. On each turn, a player chooses a number that has not yet been crossed out and crosses it out. A configuration is said to lose the game if the sum of the three numbers that remain (not crossed out) is divisible by $3$. The player who, with their move, leaves a configuration that loses the game, loses.
+> 
+> (a) Suppose the numbers crossed out so far are $3$, $2$ and $4$. Now it is Beto's turn to play. How must Beto play to win? Justify your answer.
+> 
+> (b) Considering the game from its initial state, in which no number has yet been crossed out and Ana will make the first move, which of the players has a winning strategy, that is, can play so as to always win, no matter the moves made by the opponent? Remember to explain how the player who has a winning strategy must play to guarantee the victory.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Supersum S(N): sum of all distinct numbers formed by the orderings of the digits of N. Find a multiple of 9 with S(N) a multiple of 9, prove the implication, and find the smallest N with S(N) a multiple of 2025.*
 
-> We will call the *supersum* of a positive integer $N$ the sum of all the numbers formed by the orderings of the digits of $N$. We will denote the supersum by $S(N)$. For example, if $N=\overline{AB}$ has the digits $A$ and $B$ (with $A\neq 0$), then the supersum of $N$ is $S(N)=AB+BA$; if $N=\overline{ABC}$ has the digits $A$, $B$ and $C$ (with $A\neq 0$), then the supersum of $N$ is $S(N)=ABC+ACB+BAC+BCA+CAB+CBA$. Observe that when $N$ has repeated digits we make all the orderings possible as long as they form distinct numbers. For example, $100$ has supersum $S(100)=100+010+001=111$, and $111$ has supersum $S(111)=111$. Note that we can also consider $N=010$ with three significant digits, but for $N$ to have three significant digits, $010$ is not allowed; the supersum is defined for $N$ different from zero.
-> 
-> (a) Find a number $N$ multiple of $9$, with supersum $S(N)$ also a multiple of $9$.
-> 
-> (b) Prove that if $N$ is a multiple of $9$, then $S(N)$ is also a multiple of $9$.
-> 
-> (c) What is the smallest positive integer $N$ such that $S(N)$ is a multiple of $2025$?
+> Vamos chamar de *supersoma* de um número inteiro positivo $N$ a soma de todos os números formados pelas ordenações dos algarismos de $N$. Vamos denotar a supersoma por $S(N)$. Por exemplo, se $N=\overline{AB}$ tem dois algarismos ($A\neq 0$), então a supersoma de $N$ é dada por $S(N)=AB+BA$, e se $N=\overline{ABC}$ tem três algarismos ($A\neq 0$), então a supersoma de $N$ é dada por $S(N)=ABC+ACB+BAC+BCA+CAB+CBA$. Observe que mesmo que $N$ tenha algarismos repetidos fazemos todas as ordenações possíveis como se fossem algarismos todos distintos. Por exemplo, $100$ tem supersoma $S(100)=100+100+010+010+001+001=222$. Veja que não podemos considerar $N=010$ com três algarismos, pois se $N$ tem três algarismos, então é da forma $ABC$ com $A$ diferente de zero.
+>
+> (a) Encontre um $N$ que não é múltiplo de $9$, mas sua supersoma $S(N)$ é igual a um múltiplo de $9$.
+>
+> (b) Prove que se $N$ é múltiplo de $9$, então a sua supersoma $S(N)$ é também um múltiplo de $9$.
+>
+> (c) Qual é o menor número inteiro positivo $N$ tal que $S(N)$ é um múltiplo de $2025$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -185,27 +243,48 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Supersum S(N): sum of all distinct numbers formed by the orderings of the digits of N. Find a multiple of 9 with S(N) a multiple of 9, prove the implication, and find the smallest N with S(N) a multiple of 2025.*
+
+> We will call the *supersum* of a positive integer $N$ the sum of all the numbers formed by the orderings of the digits of $N$. We will denote the supersum by $S(N)$. For example, if $N=\overline{AB}$ has the digits $A$ and $B$ (with $A\neq 0$), then the supersum of $N$ is $S(N)=AB+BA$; if $N=\overline{ABC}$ has the digits $A$, $B$ and $C$ (with $A\neq 0$), then the supersum of $N$ is $S(N)=ABC+ACB+BAC+BCA+CAB+CBA$. Observe that when $N$ has repeated digits we make all the orderings possible as long as they form distinct numbers. For example, $100$ has supersum $S(100)=100+010+001=111$, and $111$ has supersum $S(111)=111$. Note that we can also consider $N=010$ with three significant digits, but for $N$ to have three significant digits, $010$ is not allowed; the supersum is defined for $N$ different from zero.
+> 
+> (a) Find a number $N$ multiple of $9$, with supersum $S(N)$ also a multiple of $9$.
+> 
+> (b) Prove that if $N$ is a multiple of $9$, then $S(N)$ is also a multiple of $9$.
+> 
+> (c) What is the smallest positive integer $N$ such that $S(N)$ is a multiple of $2025$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *The 'arrumadinho' game on a 2xn board: each first-row number must reappear in an adjacent second-row column, and no left prefix of the second row equals {1,...,k} except k=n. Give an example for n=8 and count the 2x2025 cards.*
 
-> A card of the game *arrumadinho* (tidy) is a $2\times n$ board that must satisfy the following rules:
-> 
-> (I) Each number written in the first row must appear in the second row in one of the two columns closest to the one it occupies in the first row. Note that the same number can appear in the same column in the two rows, that is, the column may contain two equal numbers.
-> 
-> (II) The set of numbers written in the first $k$ consecutive cells of the second row, counting from left to right, never equals the set $\{1,2,3,\ldots,k\}$, except for $k=n$.
-> 
-> For example, in the figure, tableaux $1$ to $4$ are not cards: Tableau $1$ does not satisfy rule (I); Tableau $2$ does not satisfy rule (II) (in the second row the set of the first numbers reaching column $4$ equals $\{1,2,3,4\}$); Tableau $3$ does not satisfy rule (I) (a rule (I) is disrespected twice); Tableau $4$ does not satisfy either rule (I) or rule (II).
-> 
-> (a) Copy the card below onto your solution sheet and give an example of a filling so that it becomes part of the game.
+> Uma cartela do jogo *arrumadinho caótico* é um tabuleiro $2\times n$ em que na primeira fila aparecem os números $1, 2, \ldots, n$, nessa mesma ordem, e, na segunda fila, aparecem os mesmos números arrumados de forma diferente, satisfazendo as seguintes regras:
+>
+> (I) Um número escrito na primeira fila só pode aparecer na segunda fila em uma das duas colunas mais próximas que ficam à esquerda ou à direita da coluna em que ele está na primeira fila. Note que ele não pode aparecer na mesma coluna nas duas filas, ou seja, não há coluna com dois números iguais.
+>
+> (II) O conjunto de números escritos nas $k$ primeiras casas consecutivas da segunda fila, contando da esquerda para a direita, nunca é igual ao conjunto $\{1, 2, 3, \ldots, k\}$, exceto se $k=n$.
+>
+> Por exemplo, na figura a seguir, os tabuleiros $1$ a $4$ não são cartelas do jogo. O Tabuleiro $1$ não satisfaz a regra (I): o número $4$ da segunda fila está três colunas à esquerda da quarta coluna. O Tabuleiro $2$ não satisfaz a regra (II): as três primeiras casas da segunda fila formam o conjunto $\{1, 2, 3\}$. O Tabuleiro $3$ não satisfaz a regra (I): temos uma coluna com dois números iguais e também o número $1$ da segunda fila está três colunas à direita da primeira coluna (ou seja, a regra foi desrespeitada duas vezes). O Tabuleiro $4$ não satisfaz nem a regra (I) nem a regra (II).
+>
+> (a) Copie a cartela a seguir na sua folha de solução e dê um exemplo de preenchimento para ela fazer parte do jogo.
 > $$\begin{array}{|c|c|c|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} \\ \hline\end{array}$$
-> 
-> (b) What is the number of $2\times 2025$ cards of this game?
-
-![[src_obm_2025_n1_fx__Q05.png]]
+>
+> (b) Qual o número de cartelas $2\times 2025$ desse jogo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
@@ -242,3 +321,33 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*The 'arrumadinho' game on a 2xn board: each first-row number must reappear in an adjacent second-row column, and no left prefix of the second row equals {1,...,k} except k=n. Give an example for n=8 and count the 2x2025 cards.*
+
+> A card of the game *arrumadinho* (tidy) is a $2\times n$ board that must satisfy the following rules:
+> 
+> (I) Each number written in the first row must appear in the second row in one of the two columns closest to the one it occupies in the first row. Note that the same number can appear in the same column in the two rows, that is, the column may contain two equal numbers.
+> 
+> (II) The set of numbers written in the first $k$ consecutive cells of the second row, counting from left to right, never equals the set $\{1,2,3,\ldots,k\}$, except for $k=n$.
+> 
+> For example, in the figure, tableaux $1$ to $4$ are not cards: Tableau $1$ does not satisfy rule (I); Tableau $2$ does not satisfy rule (II) (in the second row the set of the first numbers reaching column $4$ equals $\{1,2,3,4\}$); Tableau $3$ does not satisfy rule (I) (a rule (I) is disrespected twice); Tableau $4$ does not satisfy either rule (I) or rule (II).
+> 
+> (a) Copy the card below onto your solution sheet and give an example of a filling so that it becomes part of the game.
+> $$\begin{array}{|c|c|c|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} \\ \hline\end{array}$$
+> 
+> (b) What is the number of $2\times 2025$ cards of this game?
+
+![[src_obm_2025_n1_fx__Q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
+
+> [!warning] Estratto/tradotto da verificare con la fonte.

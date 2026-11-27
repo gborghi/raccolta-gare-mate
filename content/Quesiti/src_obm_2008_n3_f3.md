@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_induzione,method_congruenze,method_cassetti,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove every positive integer is 'gaudy' (has multiple starting with 2008)*
 
-> We call a positive integer *gaudy* if it has a multiple whose first four decimal digits are $2008$. For example, $7$ is gaudy because $200858$ is a multiple of $7$ and begins with $2008$ (note that $200858 = 28694 \times 7$). Prove that every positive integer is gaudy.
+> Vamos chamar de garboso o número que possui um múltiplo cujas quatro primeiras casas de sua representação decimal são $2008$. Por exemplo, $7$ é garboso pois $200858$ é múltiplo de $7$ e começa com $2008$. Observe que $200858 = 28694 \times 7$. Mostre que todos os inteiros positivos são garbosos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_cassetti|Pigeonhole principle]]
@@ -40,15 +40,29 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove every positive integer is 'gaudy' (has multiple starting with 2008)*
+
+> We call a positive integer *gaudy* if it has a multiple whose first four decimal digits are $2008$. For example, $7$ is gaudy because $200858$ is a multiple of $7$ and begins with $2008$ (note that $200858 = 28694 \times 7$). Prove that every positive integer is gaudy.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_invarianti,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Segment covering 3n of 6n coloured points on a line*
 
-> On a line there is a set $S$ of $6n$ points. Of these, $4n$ are chosen at random and coloured blue; the remaining $2n$ are coloured green. Prove that there exists a segment containing exactly $3n$ points of $S$, of which $2n$ are blue and $n$ are green.
+> Sobre uma reta há um conjunto $S$ de $6n$ pontos. Destes, $4n$ são escolhidos ao acaso e pintados de azul; os $2n$ demais são pintados de verde. Prove que existe um segmento que contém exatamente $3n$ pontos de $S$, sendo $2n$ pintados de azul e $n$ pintados de verde.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -71,14 +85,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Segment covering 3n of 6n coloured points on a line*
+
+> On a line there is a set $S$ of $6n$ points. Of these, $4n$ are chosen at random and coloured blue; the remaining $2n$ are coloured green. Prove that there exists a segment containing exactly $3n$ points of $S$, of which $2n$ are blue and $n$ are green.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_simmetria,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum of symmetric rational expression under constraint x+y+z=xy+yz+zx*
 
-> Let $x, y, z$ be real numbers satisfying $x + y + z = xy + yz + zx$. Find the minimum value of
+> Sejam $x$, $y$, $z$ reais quaisquer tais que $x + y + z = xy + yz + zx$. Encontre o valor mínimo de
 > $$\frac{x}{x^2+1} + \frac{y}{y^2+1} + \frac{z}{z^2+1}.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
@@ -103,14 +132,30 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum of symmetric rational expression under constraint x+y+z=xy+yz+zx*
+
+> Let $x, y, z$ be real numbers satisfying $x + y + z = xy + yz + zx$. Find the minimum value of
+> $$\frac{x}{x^2+1} + \frac{y}{y^2+1} + \frac{z}{z^2+1}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cyclic quadrilateral: OP perpendicular to CD via angle bisector reflections*
 
-> Let $ABCD$ be a cyclic quadrilateral, and let $r$ and $s$ be the reflections of line $AB$ across the internal bisectors of angles $\angle CAD$ and $\angle CBD$, respectively. Let $P$ be the intersection of $r$ and $s$, and let $O$ be the circumcentre of $ABCD$. Prove that $OP$ is perpendicular to $CD$.
+> Seja $ABCD$ um quadrilátero cíclico e $r$ e $s$ as retas simétricas à reta $AB$ em relação às bissetrizes internas dos ângulos $\angle CAD$ e $\angle CBD$, respectivamente. Sendo $P$ a interseção de $r$ e $s$ e $O$ o centro do círculo circunscrito a $ABCD$, prove que $OP$ é perpendicular a $CD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -133,14 +178,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cyclic quadrilateral: OP perpendicular to CD via angle bisector reflections*
+
+> Let $ABCD$ be a cyclic quadrilateral, and let $r$ and $s$ be the reflections of line $AB$ across the internal bisectors of angles $\angle CAD$ and $\angle CBD$, respectively. Let $P$ be the intersection of $r$ and $s$, and let $O$ be the circumcentre of $ABCD$. Prove that $OP$ is perpendicular to $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_casework,method_induzione,method_ricorsione,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Existence of f: Z+→Z+ satisfying f(a·f(n))=b·n for all n*
 
-> Prove that for any integers $a > 1$ and $b > 1$ there exists a function $f$ from the positive integers to the positive integers such that $f(a \cdot f(n)) = b \cdot n$ for every positive integer $n$.
+> Prove que para quaisquer inteiros $a > 1$ e $b > 1$ existe uma função $f$ dos inteiros positivos nos inteiros positivos tal que $f(a \cdot f(n)) = b \cdot n$ para todo $n$ inteiro positivo.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
@@ -163,15 +223,29 @@ level: OBM Nível 3
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Existence of f: Z+→Z+ satisfying f(a·f(n))=b·n for all n*
+
+> Prove that for any integers $a > 1$ and $b > 1$ there exists a function $f$ from the positive integers to the positive integers such that $f(a \cdot f(n)) = b \cdot n$ for every positive integer $n$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,method_casework,method_grafi,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_stima,skill_lettura_attenta,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Max number of prophetic words of length 10 in a binary word of length 10000*
 
-> The Venusian prophet Zabruberson sent his disciples a word of $10000$ letters, each letter being either A or E: the *Zabrubic Word*. His followers considered, for each $1 \le k \le 10000$, every word formed by $k$ consecutive letters of the Zabrubic Word to be a *prophetic word* of length $k$. It is known that there are at most $7$ prophetic words of length $3$. Determine the maximum number of prophetic words of length $10$.
+> O profeta venusiano Zabruberson enviou a seus discípulos uma palavra de $10000$ letras, sendo cada uma delas A ou E: a Palavra Zabrúbica. Seus seguidores passaram a considerar, para $1 \le k \le 10000$, cada palavra formada por $k$ letras consecutivas da Palavra Zabrúbica uma palavra profética de tamanho $k$. Sabe-se que há no máximo $7$ palavras proféticas de tamanho $3$. Determine o número máximo de palavras proféticas de tamanho $10$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
@@ -192,3 +266,17 @@ level: OBM Nível 3
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Max number of prophetic words of length 10 in a binary word of length 10000*
+
+> The Venusian prophet Zabruberson sent his disciples a word of $10000$ letters, each letter being either A or E: the *Zabrubic Word*. His followers considered, for each $1 \le k \le 10000$, every word formed by $k$ consecutive letters of the Zabrubic Word to be a *prophetic word* of length $k$. It is known that there are at most $7$ prophetic words of length $3$. Determine the maximum number of prophetic words of length $10$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)

@@ -12,16 +12,16 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Logic: who broke the window among four children*
 
-> Alice, Bernard, Cédric and Diane were playing tennis in the courtyard. Suddenly the ball broke the neighbour's window. Furious, the neighbour approached the four children.
-> 
-> Alice said: "It wasn't me!". Cédric said: "It was Diane.". Diane said: "Bernard is lying."
-> 
-> Assuming that exactly one of the four children has told the truth, which of them broke the window?
+> Alice, Bernard, Cédric et Diane jouaient au tennis dans la cour. Soudain, la balle brisa la fenêtre du voisin. Furieux, celui-ci s’approcha des quatre enfants.
+>
+> Alice dit : “Ce n’est pas moi !”. Bernard dit : “C’était Diane”. Cédric dit : “Non, c’était Bernard”. Diane dit : “Bernard a menti”.
+>
+> En supposant qu’exactement un des quatre enfants a dit la vérité, lequel d’entre eux a-t-il cassé la vitre du voisin ?
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -49,17 +49,34 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Risposta:** Cédric
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Logic: who broke the window among four children*
+
+> Alice, Bernard, Cédric and Diane were playing tennis in the courtyard. Suddenly the ball broke the neighbour's window. Furious, the neighbour approached the four children.
+> 
+> Alice said: "It wasn't me!". Cédric said: "It was Diane.". Diane said: "Bernard is lying."
+> 
+> Assuming that exactly one of the four children has told the truth, which of them broke the window?
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** Cédric
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Area of triangle AOF given isosceles right triangles with OA=8 cm*
 
-> In the figure below, the triangles $ABO$, $BCO$, $CDO$, $DEO$ and $FEO$ are isosceles right triangles. We are given that $OA = 8$ cm. Determine the area of triangle $AOF$ in cm$^2$.
-
-![[src_canimath_2016_automne__Q02.png]]
+> Dans la figure ci-dessous, les triangles $ABO$, $BCO$, $CDO$, $DEO$ et $FEO$ sont rectangles isocèles. On suppose que $OA = 8$ cm. Déterminer l’aire de $AOF$ en cm$^2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -85,15 +102,32 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Risposta:** 32
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Area of triangle AOF given isosceles right triangles with OA=8 cm*
+
+> In the figure below, the triangles $ABO$, $BCO$, $CDO$, $DEO$ and $FEO$ are isosceles right triangles. We are given that $OA = 8$ cm. Determine the area of triangle $AOF$ in cm$^2$.
+
+![[src_canimath_2016_automne__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Risposta:** 32
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_ricorsione,method_induzione,method_inclusione_esclusione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Colour 2016 collinear points in 3 colours, count ways*
 
-> 2016 points are aligned on a line. In how many ways can one colour them red, green or blue, so that any two adjacent points are of different colours and each colour is used at least once?
+> 2016 points sont alignés sur une droite. De combien de manières peut-on les colorier en rouge, vert ou bleu, de sorte que deux points voisins quelconques soient de couleur différente, et que chaque couleur soit utilisée au moins une fois ?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_inclusione_esclusione|Inclusione-esclusione]]
@@ -117,15 +151,30 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Risposta:** 6
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Colour 2016 collinear points in 3 colours, count ways*
+
+> 2016 points are aligned on a line. In how many ways can one colour them red, green or blue, so that any two adjacent points are of different colours and each colour is used at least once?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 6
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Two externally tangent circles; common tangent meets circles; show T,X,Z collinear*
 
-> Two circles $C_1$ and $C_2$ are externally tangent at a point $X$. A common tangent to both circles meets $C_1$ at $Y$ and $C_2$ at $Z$ (with $Y \neq Z$). Let $T$ be a point such that $[YT]$ is a diameter of $C_2$. Show that $T$, $X$ and $Z$ are collinear.
+> Deux cercles $C_1$ et $C_2$ sont tangents extérieurement en un point $X$. Une tangente commune aux deux cercles rencontre $C_1$ en $Y$ et $C_2$ en $Z$ (avec $Y \neq Z$). Soit $T$ tel que $[YT]$ est un diamètre de $C_1$. Montrer que $T$, $X$, $Z$ sont alignés.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate method]]
@@ -147,17 +196,31 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two externally tangent circles; common tangent meets circles; show T,X,Z collinear*
+
+> Two circles $C_1$ and $C_2$ are externally tangent at a point $X$. A common tangent to both circles meets $C_1$ at $Y$ and $C_2$ at $Z$ (with $Y \neq Z$). Let $T$ be a point such that $[YT]$ is a diameter of $C_2$. Show that $T$, $X$ and $Z$ are collinear.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all balanced four-digit palindromes that are sums of two four-digit palindromes*
 
-> A palindrome is a number whose decimal representation does not change when the digits are reversed. For example, 3773 is a palindrome. A number $\overline{abcd}$ is called *balanced* if $a + b = c + d$ (for example, 2736 is balanced). Determine all balanced four-digit numbers that are the sum of two four-digit palindromes.
-> 
-> *Note: a palindrome cannot start with a zero. For example, 0770 is not a palindrome.*
+> Un palindrome est un nombre dont l’écriture décimale ne change pas si on inverse l’ordre des chiffres. Par exemple, 3773 est un palindrome. Un nombre à quatre chiffres $abcd$ est dit équilibré si $a + b = c + d$ (par exemple, 2736 est équilibré). Déterminer tous les nombres équilibrés à quatre chiffres qui sont somme de deux palindromes à quatre chiffres.
+>
+> Note : un palindrome ne peut pas commencer par un zéro. Par exemple, 0770 n’est pas un palindrome.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -181,10 +244,51 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all balanced four-digit palindromes that are sums of two four-digit palindromes*
+
+> A palindrome is a number whose decimal representation does not change when the digits are reversed. For example, 3773 is a palindrome. A number $\overline{abcd}$ is called *balanced* if $a + b = c + d$ (for example, 2736 is balanced). Determine all balanced four-digit numbers that are the sum of two four-digit palindromes.
+> 
+> *Note: a palindrome cannot start with a zero. For example, 0770 is not a palindrome.*
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_casework,method_simmetria,method_ricorsione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Find all n≥3 integers placeable on a circle so each equals product of two neighbours*
+
+> Déterminer tous les entiers $n \geq 3$ tels que l’on puisse placer $n$ nombres réels deux à deux distincts sur un cercle de sorte que chacun de ces nombres soit le produit de ses deux voisins.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Determinare tutti gli interi n≥3 per i quali si possono disporre su una circonferenza n reali a due a due distinti, in modo che ciascuno sia il prodotto dei due vicini.*
+> Determinare tutti i numeri interi $n \geq 3$ in modo tale che si possano posizionare $n$ numeri reali distinti su un cerchio in modo che ciascuno di questi numeri sia uguale al prodotto dei suoi due vicini.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find all n≥3 integers placeable on a circle so each equals product of two neighbours*
@@ -198,30 +302,17 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Ricerca tutti n≥3 integri posizionabili su un cerchio in modo che ciascuno sia uguale al prodotto di due vicini*
-
-> Determinare tutti i numeri interi $n \geq 3$ in modo tale che si possano posizionare $n$ numeri reali distinti su un cerchio in modo che ciascuno di questi numeri sia uguale al prodotto dei suoi due vicini.
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
-
-
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Game: replace n on board; who wins?*
 
-> The number "3" is written on a board. Alice and Bernard play the following game: each in turn, one designates by $n$ the number written on the board; the player replaces it by an integer $m$ such that $n < m < n^2$, and such that $m$ has no common divisor with $n$ other than 1. The first player to reach a number greater than or equal to 2016 loses the round. Alice goes first.
-> 
-> Determine which player has a winning strategy and describe that strategy.
+> Le nombre “3” est écrit sur un tableau. Alice et Bernard jouent au jeu suivant : chacun leur tour, si on désigne par $n$ le nombre écrit au tableau, le joueur le remplace par un entier $m$ tel que $n < m < n^2$, et tel que $m$ n’a pas de diviseur commun avec $n$ autre que 1. Le premier joueur qui atteint un nombre plus grand ou égal à 2016 perd la partie. Alice commence.
+>
+> Déterminer quel est le joueur pour lequel il existe une stratégie lui permettant de gagner à coup sûr, et décrire cette stratégie.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
@@ -245,15 +336,31 @@ Gioco: sostituire n a bordo; chi vince?
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Game: replace n on board; who wins?*
+
+> The number "3" is written on a board. Alice and Bernard play the following game: each in turn, one designates by $n$ the number written on the board; the player replaces it by an integer $m$ such that $n < m < n^2$, and such that $m$ has no common divisor with $n$ other than 1. The first player to reach a number greater than or equal to 2016 loses the round. Alice goes first.
+> 
+> Determine which player has a winning strategy and describe that strategy.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Minimum integers equal to 1 in a 'jolie' list of 100 positive integers*
 
-> A list of numbers is called *jolie* if it consists of strictly positive integers such that the sum of these integers equals their product. Determine the smallest number of integers equal to 1 that a jolie list of 100 numbers can contain.
+> Une liste de nombres est dite jolie si elle est constituée de nombres entiers strictement positifs tels que la somme de ces entiers est égale à leur produit. Déterminer le plus petit nombre d’entiers égaux à un que peut contenir une jolie liste de 100 nombres.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -275,3 +382,18 @@ Gioco: sostituire n a bordo; chi vince?
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 95
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum integers equal to 1 in a 'jolie' list of 100 positive integers*
+
+> A list of numbers is called *jolie* if it consists of strictly positive integers such that the sum of these integers equals their product. Determine the smallest number of integers equal to 1 that a jolie list of 100 numbers can contain.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** 95
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)

@@ -12,13 +12,13 @@ level: OBM Nível Universitário
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Limit of average of n(k) over R^{1/2} as R tends to infinity*
 
-> For $R > 0$ an integer, let $n(R)$ denote the number of triples $(x, y, z) \in \mathbb{Z}^3$ such that $2x^2 + 3y^2 + 5z^2 = R$. Find the value of
-> $$\lim_{R \to +\infty} \frac{n(1) + n(2) + \cdots + n(R)}{R^{1/2}}.$$
+> Para $R > 0$ inteiro, denote por $n(R)$ a quantidade de triplas $(x, y, z) \in \mathbb{Z}^3$ tais que $2x^2 + 3y^2 + 5z^2 = R$. Qual o valor de
+> $$\lim_{R \to +\infty} \frac{n(1) + n(2) + \cdots + n(R)}{R^{3/2}}?$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Telescoping]]
@@ -42,14 +42,30 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Limit of average of n(k) over R^{1/2} as R tends to infinity*
+
+> For $R > 0$ an integer, let $n(R)$ denote the number of triples $(x, y, z) \in \mathbb{Z}^3$ such that $2x^2 + 3y^2 + 5z^2 = R$. Find the value of
+> $$\lim_{R \to +\infty} \frac{n(1) + n(2) + \cdots + n(R)}{R^{1/2}}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_induzione,method_fattorizzazione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Infinitely many non-Fibonacci positive integers exist*
 
-> For $a$ a positive integer, define $F_1^{(a)} = 1$, $F_2^{(a)} = a$, and for $n > 2$, $F_n^{(a)} = F_{n-1}^{(a)} + F_{n-2}^{(a)}$. A positive integer is called *fibonatic* if it equals $F_n^{(a)}$ for some positive integer $a$ and some $n > 3$. Prove that there exist infinitely many positive integers that are not fibonatic.
+> Para $a$ inteiro positivo, defina $F_1^{(a)} = 1$, $F_2^{(a)} = a$ e, para $n > 2$, $F_n^{(a)} = F_{n-1}^{(a)} + F_{n-2}^{(a)}$. Um inteiro positivo é fibonático quando é igual a $F_n^{(a)}$ para algum $a$ inteiro positivo e algum $n > 3$. Prove que existem infinitos números inteiros que não são fibonáticos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Recursion]]
@@ -72,17 +88,31 @@ level: OBM Nível Universitário
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Infinitely many non-Fibonacci positive integers exist*
+
+> For $a$ a positive integer, define $F_1^{(a)} = 1$, $F_2^{(a)} = a$, and for $n > 2$, $F_n^{(a)} = F_{n-1}^{(a)} + F_{n-2}^{(a)}$. A positive integer is called *fibonatic* if it equals $F_n^{(a)}$ for some positive integer $a$ and some $n > 3$. Prove that there exist infinitely many positive integers that are not fibonatic.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 5x5 matrices over F_{13} satisfying A^5 = I*
 
-> Let $\mathbb{F}_{13} = \{\bar{0}, \bar{1}, \ldots, \overline{12}\}$ be the finite field with 13 elements (with addition and multiplication modulo 13). Determine the number of $5 \times 5$ matrices $A$ with entries in $\mathbb{F}_{13}$ such that
-> $$A^5 = I,$$
-> where $I$ denotes the $5 \times 5$ identity matrix.
+> Seja $\mathbb{F}_{13} = \{0, 1, \ldots, 12\}$ o corpo finito com 13 elementos (com soma e produto módulo 13). Determine a quantidade de matrizes $A$ de tamanho $5 \times 5$ com entradas em $\mathbb{F}_{13}$ tais que
+> $$A^5 = I$$
+> em que $I$ denota a matriz identidade de ordem 5.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -107,19 +137,35 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 5x5 matrices over F_{13} satisfying A^5 = I*
+
+> Let $\mathbb{F}_{13} = \{\bar{0}, \bar{1}, \ldots, \overline{12}\}$ be the finite field with 13 elements (with addition and multiplication modulo 13). Determine the number of $5 \times 5$ matrices $A$ with entries in $\mathbb{F}_{13}$ such that
+> $$A^5 = I,$$
+> where $I$ denotes the $5 \times 5$ identity matrix.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Prove/disprove every real 2x2 and 3x3 matrix is sum of two squares*
 
-> For each item, prove or give a counterexample.
-> 
-> (a) (5 points) Every real $2 \times 2$ matrix can be written as the sum of the squares of two real $2 \times 2$ matrices.
-> 
-> (b) (5 points) Every real $3 \times 3$ matrix can be written as the sum of the squares of two real $3 \times 3$ matrices.
+> Em cada item, prove ou dê contraexemplo:
+>
+> (a) (5 pontos) Toda matriz real $2 \times 2$ pode ser escrita como soma dos quadrados de duas matrizes reais $2 \times 2$.
+>
+> (b) (5 pontos) Toda matriz real $3 \times 3$ pode ser escrita como soma dos quadrados de duas matrizes reais $3 \times 3$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -146,14 +192,33 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Prove/disprove every real 2x2 and 3x3 matrix is sum of two squares*
+
+> For each item, prove or give a counterexample.
+> 
+> (a) (5 points) Every real $2 \times 2$ matrix can be written as the sum of the squares of two real $2 \times 2$ matrices.
+> 
+> (b) (5 points) Every real $3 \times 3$ matrix can be written as the sum of the squares of two real $3 \times 3$ matrices.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_grafi,method_invarianti,method_bigezione,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Game on spaceship: show 2n people can be split into n friendly pairs*
 
-> Let $n$ be a positive integer. On a space ship there are $2n$ people, and any two of them are either friends or enemies (the relation is symmetric). Two aliens play the following game: alternately, each player chooses one person per turn, such that the person chosen each turn is a friend of the person chosen on the immediately preceding turn (in the first turn, the first player may choose anyone). Whoever cannot play loses (a person may only be chosen once). Prove that the second player has a winning strategy if and only if the $2n$ people can be partitioned into $n$ pairs such that both members of each pair are friends.
+> Seja $n$ um inteiro positivo. Numa nave espacial estão $2n$ pessoas, e quaisquer duas delas são amigas ou inimigas (a amizade/inimizade é simétrica). Dois alienígenas fazem a seguinte brincadeira: Alternadamente, cada jogador escolhe uma pessoa por vez, de modo que a pessoa escolhida a cada turno seja amiga da pessoa escolhida pelo adversário no turno anterior (no primeiro turno, o primeiro jogador pode escolher qualquer pessoa). Quem não puder mais jogar, perde (uma pessoa só pode ser escolhida uma vez). Prove que o segundo jogador possui estratégia vencedora se, e somente se, as $2n$ pessoas podem ser divididas em $n$ pares, de modo que quaisquer duas pessoas num mesmo par sejam amigas.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
@@ -176,18 +241,33 @@ level: OBM Nível Universitário
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Game on spaceship: show 2n people can be split into n friendly pairs*
+
+> Let $n$ be a positive integer. On a space ship there are $2n$ people, and any two of them are either friends or enemies (the relation is symmetric). Two aliens play the following game: alternately, each player chooses one person per turn, such that the person chosen each turn is a friend of the person chosen on the immediately preceding turn (in the first turn, the first player may choose anyone). Whoever cannot play loses (a person may only be chosen once). Prove that the second player has a winning strategy if and only if the $2n$ people can be partitioned into $n$ pairs such that both members of each pair are friends.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_ricorsione,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count real solutions of iterated f for f(x)=2x^2+x-1*
 
-> Let $f(x) = 2x^2 + x - 1$, $f^1(x) = x$ and $f^{n+1}(x) = f(f^n(x))$ for all real $x$ and all $n \geq 0$ (i.e., $f^n$ is the $n$-th iterate of $f$).
-> 
-> (a) (2 points) Determine the number of distinct real solutions of the equation $f^2(x) = x$.
-> 
-> (b) (8 points) Determine, for each $n \geq 0$ integer, the number of distinct real solutions of the equation $f^n(x) = 0$.
+> Sejam $f(x) = 2x^2 + x - 1$, $f^0(x) = x$ e $f^{n+1}(x) = f(f^n(x))$ para todo $x$ real e $n \geq 0$ inteiro (ou seja, $f^n$ é a $n$-ésima iterada de $f$).
+>
+> (a) (2 pontos) Determine o número de soluções reais distintas da equação de $f^3(x) = x$.
+>
+> (b) (8 pontos) Determine, para cada $n \geq 0$ inteiro, o número de soluções reais distintas da equação $f^n(x) = 0$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -212,3 +292,21 @@ level: OBM Nível Universitário
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count real solutions of iterated f for f(x)=2x^2+x-1*
+
+> Let $f(x) = 2x^2 + x - 1$, $f^1(x) = x$ and $f^{n+1}(x) = f(f^n(x))$ for all real $x$ and all $n \geq 0$ (i.e., $f^n$ is the $n$-th iterate of $f$).
+> 
+> (a) (2 points) Determine the number of distinct real solutions of the equation $f^2(x) = x$.
+> 
+> (b) (8 points) Determine, for each $n \geq 0$ integer, the number of distinct real solutions of the equation $f^n(x) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)

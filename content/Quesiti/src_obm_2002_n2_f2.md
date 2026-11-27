@@ -12,16 +12,14 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_backward,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two walkers leave simultaneously toward each other; find each travel time*
 
-> Geraldinho and Magrão left their houses at the same instant, walking toward each other along the same path. Geraldinho was thinking about an olympiad problem and Magrão was reflecting on philosophical ideas; they did not notice each other when they crossed. Ten minutes later, Geraldinho arrived at Magrão's house, and Magrão arrived at Geraldinho's house half an hour later still. How long did each of them walk?
-> 
-> **Note:** Each walks at constant speed.
-
-![[src_obm_2002_n2_f2__Q01.png]]
+> Geraldinho e Magrão saíram de suas casas no mesmo instante com a intenção de um visitar o outro, caminhando pelo mesmo percurso. Geraldinho ia pensando num problema de olimpíada e Magrão ia refletindo sobre questões filosóficas e nem perceberam quando se cruzaram. Dez minutos depois, Geraldinho chegava à casa de Magrão e meia hora mais tarde, Magrão chegava à casa de Geraldinho. Quanto tempo cada um deles andou?
+>
+> Observação: Cada um deles anda com velocidade constante.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
@@ -48,16 +46,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two walkers leave simultaneously toward each other; find each travel time*
+
+> Geraldinho and Magrão left their houses at the same instant, walking toward each other along the same path. Geraldinho was thinking about an olympiad problem and Magrão was reflecting on philosophical ideas; they did not notice each other when they crossed. Ten minutes later, Geraldinho arrived at Magrão's house, and Magrão arrived at Geraldinho's house half an hour later still. How long did each of them walk?
+> 
+> **Note:** Each walks at constant speed.
+
+![[src_obm_2002_n2_f2__Q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Quarter-circle panel in 4 colors; which color covers the largest area?*
 
-> A large panel in the shape of a quarter circle was composed of $4$ colors, as indicated in the figure alongside, where the segment divides the sector into two equal parts and the inner arc is a semicircle. What is the color that covers the largest area?
-
-![[src_obm_2002_n2_f2__Q02.png]]
+> Um grande painel na forma de um quarto de círculo foi composto com $4$ cores, conforme indicado na figura ao lado, onde o segmento divide o setor em duas partes iguais e o arco interno é uma semicircunferência. Qual é a cor que cobre a maior área?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
@@ -82,15 +97,31 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Quarter-circle panel in 4 colors; which color covers the largest area?*
+
+> A large panel in the shape of a quarter circle was composed of $4$ colors, as indicated in the figure alongside, where the segment divides the sector into two equal parts and the inner arc is a semicircle. What is the color that covers the largest area?
+
+![[src_obm_2002_n2_f2__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_colorazione,method_invarianti,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *8×8 table with neighbor-difference 1, entries 17 and 3 present; find sum of main diagonals*
 
-> In the cells of an $8 \times 8$ table, positive integers are written such that the difference between numbers written in neighboring cells (cells that share a common side) is $1$. It is known that in one of the cells the number $17$ is written, and in another cell the number $3$ is written. Calculate the sum of all numbers written on the two main diagonals of the table.
+> Nas casas de um tabuleiro $8 \times 8$ foram escritos números inteiros positivos de forma que a diferença entre números escritos em casas vizinhas (quadrados com um lado comum) é $1$. Sabe-se que numa das casas está escrito $17$ e, em outra, está escrito $3$. Calcule a soma dos números escritos nas duas diagonais do tabuleiro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
@@ -113,18 +144,31 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*8×8 table with neighbor-difference 1, entries 17 and 3 present; find sum of main diagonals*
+
+> In the cells of an $8 \times 8$ table, positive integers are written such that the difference between numbers written in neighboring cells (cells that share a common side) is $1$. It is known that in one of the cells the number $17$ is written, and in another cell the number $3$ is written. Calculate the sum of all numbers written on the two main diagonals of the table.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Four birds equidistant from observer post; find distance given BD=16 and angle BAD=45°*
 
-> Professor Pardal is studying the behavior of a family of a certain bird species. Points $A$, $B$, $C$, and $D$ in the figure alongside represent the positions of four baby birds. The professor built an observation post equidistant from the four baby birds.
-> 
-> All the nests and the observation post are at the same height above the ground. The distance from $B$ to $D$ is $16$ metres, and $\widehat{BAD} = 45^\circ$. Determine the distance from the post to each bird.
-
-![[src_obm_2002_n2_f2__Q04.png]]
+> O professor Pardal está estudando o comportamento familiar de uma espécie de pássaro. Os pontos $A$, $B$, $C$ e $D$ da figura ao lado representam a disposição de quatro ninhos desses pássaros. O professor construiu um posto de observação equidistante dos quatro ninhos.
+>
+> Todos os ninhos e o posto de observação estão em um mesmo nível de altura a partir do solo, a distância de $B$ a $D$ é de $16$ metros e $\widehat{BAD} = 45^\circ$. Determine a distância que o posto guarda de cada ninho.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -151,14 +195,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four birds equidistant from observer post; find distance given BD=16 and angle BAD=45°*
+
+> Professor Pardal is studying the behavior of a family of a certain bird species. Points $A$, $B$, $C$, and $D$ in the figure alongside represent the positions of four baby birds. The professor built an observation post equidistant from the four baby birds.
+> 
+> All the nests and the observation post are at the same height above the ground. The distance from $B$ to $D$ is $16$ metres, and $\widehat{BAD} = 45^\circ$. Determine the distance from the post to each bird.
+
+![[src_obm_2002_n2_f2__Q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sequence starting at 7; each next term is the digit sum of the previous term squared, plus 1; find the 2002nd element*
 
-> The first number of a sequence is $7$. The next one is obtained in the following way: we compute the square of the previous number, $7^2 = 49$, and then we take the sum of its digits and add $1$, that is, the second number is $4 + 9 + 1 = 14$. We repeat this process, obtaining $14^2 = 196$ and the third number of the sequence is $1 + 9 + 6 + 1 = 17$, and so on successively. What is the $2002^\circ$ element of this sequence?
+> O primeiro número de uma seqüência é $7$. O próximo é obtido da seguinte maneira: Calculamos o quadrado do número anterior $7^2 = 49$ e a seguir efetuamos a soma de seus algarismos e adicionamos $1$, isto é, o segundo número é $4 + 9 + 1 = 14$. Repetimos este processo, obtendo $14^2 = 196$ e o terceiro número da seqüência é $1 + 9 + 6 + 1 = 17$ e assim sucessivamente. Qual o $2002^\circ$ elemento desta seqüência?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -181,21 +244,35 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence starting at 7; each next term is the digit sum of the previous term squared, plus 1; find the 2002nd element*
+
+> The first number of a sequence is $7$. The next one is obtained in the following way: we compute the square of the previous number, $7^2 = 49$, and then we take the sum of its digits and add $1$, that is, the second number is $4 + 9 + 1 = 14$. We repeat this process, obtaining $14^2 = 196$ and the third number of the sequence is $1 + 9 + 6 + 1 = 17$, and so on successively. What is the $2002^\circ$ element of this sequence?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Palindrome years: next four after 2002, next odd palindrome, next prime palindrome after 929*
 
-> The year $2002$ is a palindrome, that is, it reads the same from left to right and from right to left.
-> 
-> a) From $2002$, what will be the next four palindrome years?
-> 
-> b) The last odd palindrome year was $1991$, which was odd. When will the next odd palindrome year occur?
-> 
-> c) The last prime palindrome year occurred more than $1000$ years ago, in $929$. Determine which is the next prime palindrome year.
+> O ano $2002$ é palíndromo, ou seja, continua o mesmo se lido da direita para a esquerda.
+>
+> a) Depois de $2002$, quais serão os próximos quatro anos palíndromos?
+>
+> b) O último ano palíndromo, $1991$, era ímpar. Quando será o próximo ano palíndromo ímpar?
+>
+> c) O último ano palíndromo primo aconteceu há mais de $1000$ anos, em $929$. Determine qual será o próximo ano palíndromo primo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -222,3 +299,23 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Palindrome years: next four after 2002, next odd palindrome, next prime palindrome after 929*
+
+> The year $2002$ is a palindrome, that is, it reads the same from left to right and from right to left.
+> 
+> a) From $2002$, what will be the next four palindrome years?
+> 
+> b) The last odd palindrome year was $1991$, which was odd. When will the next odd palindrome year occur?
+> 
+> c) The last prime palindrome year occurred more than $1000$ years ago, in $929$. Determine which is the next prime palindrome year.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)

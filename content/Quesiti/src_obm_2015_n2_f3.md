@@ -12,14 +12,14 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_conteggio,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count representations of integers as sums of squares of naturals*
 
-> Prove that there exists a number that can be represented in at least 2015 different ways as a sum of squares of non-negative integers (not necessarily all distinct), where the order of the summands does not matter. Two sums that differ only in the arrangement of their terms are considered to represent the same way.
-> 
-> For example, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2 + 5^2 + 12^2$ and $1^2 + 3^2 + 1^2 + 3^2 + 7^2 + 5^2 + 10^2 + 12^2$ are two different orderings of writing 169 as a sum of squares.
+> Prove que existe um número que pode ser representado de pelo menos 2015 maneiras diferentes como soma de quadrados de números naturais não nulos, não necessariamente todos distintos. Considera-se que duas somas que alteram apenas a ordem das parcelas constituem uma mesma representação.
+>
+> Por exemplo, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2$ e $5^2 + 12^2$ são duas maneiras distintas de escrevermos 169 como soma de quadrados.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
@@ -44,19 +44,35 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count representations of integers as sums of squares of naturals*
+
+> Prove that there exists a number that can be represented in at least 2015 different ways as a sum of squares of non-negative integers (not necessarily all distinct), where the order of the summands does not matter. Two sums that differ only in the arrangement of their terms are considered to represent the same way.
+> 
+> For example, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2 + 5^2 + 12^2$ and $1^2 + 3^2 + 1^2 + 3^2 + 7^2 + 5^2 + 10^2 + 12^2$ are two different orderings of writing 169 as a sum of squares.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Convex quadrilateral with perpendiculars; concyclic points and tangent circle*
 
-> Let $ABCD$ be a convex quadrilateral. The lines $AB$ and $CD$ meet at $E$, and the lines $BC$ and $AD$ meet at $F$. Let $P$ and $Q$ be the feet of the perpendiculars from $E$ to the lines $AB$ and $BC$ respectively, and let $R$ and $S$ be the feet of the perpendiculars from $F$ to the lines $AB$ and $CD$ respectively. The lines $ER$ and $FS$ meet at $T$.
-> 
-> a) Show that there is a circle passing through the points $E$, $F$, $P$, $Q$, $R$, and $S$.
-> 
-> b) Prove that the circumcircle of triangle $RST$ is tangent to the circumcircle of triangle $QRB$.
+> Seja $ABCD$ um quadrilátero convexo. As retas $AB$ e $CD$ cortam-se em $E$ e as retas $BC$ e $AD$ cortam-se em $F$. Sejam $P$ e $Q$ os pés das perpendiculares de $E$ sobre as retas $AD$ e $BC$, respectivamente, e sejam $R$ e $S$ os pés das perpendiculares de $F$ sobre as retas $AB$ e $CD$, respectivamente. As retas $ER$ e $FS$ se cortam em $T$.
+>
+> a) Mostre que há uma circunferência que passa pelos pontos $E$, $F$, $P$, $Q$, $R$ e $S$.
+>
+> b) Prove que a circunferência que passa pelos vértices do triângulo $RST$ é tangente à circunferência que passa pelos vértices do triângulo $QRB$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -83,14 +99,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Convex quadrilateral with perpendiculars; concyclic points and tangent circle*
+
+> Let $ABCD$ be a convex quadrilateral. The lines $AB$ and $CD$ meet at $E$, and the lines $BC$ and $AD$ meet at $F$. Let $P$ and $Q$ be the feet of the perpendiculars from $E$ to the lines $AB$ and $BC$ respectively, and let $R$ and $S$ be the feet of the perpendiculars from $F$ to the lines $AB$ and $CD$ respectively. The lines $ER$ and $FS$ meet at $T$.
+> 
+> a) Show that there is a circle passing through the points $E$, $F$, $P$, $Q$, $R$, and $S$.
+> 
+> b) Prove that the circumcircle of triangle $RST$ is tangent to the circumcircle of triangle $QRB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triangle subdivided by cevians from n equal divisions; count regions*
 
-> Let $ABC$ be a triangle and $n$ a positive integer. On side $BC$ consider the points $A_1, A_2, \ldots, A_{2^n - 1}$ that divide $BC$ into $2^n$ equal parts, so that $BA_1 = A_1A_2 = \cdots = A_{2^n-1}C$. Define the points $B_1, B_2, \ldots, B_{2^n-1}$ on sides $CA$ and $AB$ analogously. Draw the segments $AA_1, AA_2, \ldots, AA_{2^n-1}$, $BB_1, BB_2, \ldots, BB_{2^n-1}$, $CC_1, CC_2, \ldots, CC_{2^n-1}$. Determine, as a function of $n$, into how many regions the region bounded by triangle $ABC$ is divided by these segments.
+> Seja $ABC$ um triângulo e $n$ um inteiro positivo. Sobre o lado $BC$ considere os pontos $A_1$, $A_2$, $\ldots$, $A_{2^n-1}$ que dividem o lado em $2^n$ partes iguais, ou seja, $BA_1 = A_1A_2 = \cdots = A_{2^n-2}A_{2^n-1} = A_{2^n-1}C$. Defina os pontos $B_1$, $B_2$, $\ldots$, $B_{2^n-1}$ e $C_1$, $C_2$, $\ldots$, $C_{2^n-1}$ sobre os lados $CA$ e $AB$, respectivamente, de maneira análoga. Trace os segmentos $AA_1$, $AA_2$, $\ldots$, $AA_{2^n-1}$, $BB_1$, $BB_2$, $\ldots$, $BB_{2^n-1}$ e $CC_1$, $CC_2$, $\ldots$, $CC_{2^n-1}$. Determine, em função de $n$, em quantas regiões foi dividida a região delimitada pelo triângulo $ABC$ por esses segmentos.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -113,23 +148,37 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle subdivided by cevians from n equal divisions; count regions*
+
+> Let $ABC$ be a triangle and $n$ a positive integer. On side $BC$ consider the points $A_1, A_2, \ldots, A_{2^n - 1}$ that divide $BC$ into $2^n$ equal parts, so that $BA_1 = A_1A_2 = \cdots = A_{2^n-1}C$. Define the points $B_1, B_2, \ldots, B_{2^n-1}$ on sides $CA$ and $AB$ analogously. Draw the segments $AA_1, AA_2, \ldots, AA_{2^n-1}$, $BB_1, BB_2, \ldots, BB_{2^n-1}$, $CC_1, CC_2, \ldots, CC_{2^n-1}$. Determine, as a function of $n$, into how many regions the region bounded by triangle $ABC$ is divided by these segments.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_grafi,method_invarianti,method_casework,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimize leaves in road-reform process on a tree of n cities*
 
-> In the country of Arnaldópolis, there are cities connected by $n - 1$ roads, and from any city it is possible to reach the capital Arnaldópolis using the roads.
-> 
-> During the first $n - 1$ days of the year, one road is chosen each day and its traffic is interrupted for a period that will last at least $n$ days. During this process, we call a city a *leaf* if it is neither the capital nor connected to exactly one other city to which it is connected. Because of this, a road may only be reformed at most once; that is, only when one of the cities it connects is a leaf.
-> 
-> For example, in the map below with $n = 9$ cities, determine an appropriate order of reforms for the 8 roads and, subsequently, determine the number of days in which the number of leaves is not altered during the reform process.
-> 
-> Suppose now that $n = 230$ and there are initially 69 leaves. Determine the number of days in which the number of leaves is not altered during any reform process involving all roads in the first 229 days.
-
-![[src_obm_2015_n2_f3__Q04.png]]
+> No país Arnaldos Unidos, existem $n$ cidades conectadas por $n - 1$ estradas e, a partir de qualquer cidade, é possível chegar até a capital Arnaldópolis usando as estradas.
+>
+> Durante os $n - 1$ primeiros dias do ano, uma das estradas é escolhida em cada dia e tem o seu tráfego interrompido para passar por uma reforma que durará pelo menos $n$ dias. Durante qualquer momento desse processo, chamaremos uma cidade de folha se ela não for a capital e estiver conectada a apenas uma outra cidade por uma estrada que não teve seu tráfego interrompido. Para minimizar os transtornos, uma estrada só pode ser reformada uma única vez e, além disso, apenas quando uma das cidades que ela conecta é uma folha.
+>
+> Por exemplo, no mapa a seguir em que a cidade 0 é a capital Arnaldópolis, as cidades 2, 3, 6, 7 e 8 são folhas. Veja que uma reforma iniciada na estrada entre as cidades 1 e 2 reduz o número de folhas de 5 para 4 e que uma reforma no dia seguinte na estrada entre as cidades 1 e 3 mantém o número de folhas constante e igual a 4.
+>
+> a) No mapa acima, com $n = 9$ cidades, determine uma ordem apropriada de reformas para as 8 estradas e, em seguida, determine o número de dias em que a quantidade de folhas não é alterada durante o processo de reformas.
+>
+> b) Supondo agora que $n = 230$ e que existem inicialmente 69 folhas, determine o número de dias em que a quantidade de folhas não é alterada durante um processo qualquer de reformas envolvendo todas as estradas nos primeiros 229 dias do ano.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -160,21 +209,43 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimize leaves in road-reform process on a tree of n cities*
+
+> In the country of Arnaldópolis, there are cities connected by $n - 1$ roads, and from any city it is possible to reach the capital Arnaldópolis using the roads.
+> 
+> During the first $n - 1$ days of the year, one road is chosen each day and its traffic is interrupted for a period that will last at least $n$ days. During this process, we call a city a *leaf* if it is neither the capital nor connected to exactly one other city to which it is connected. Because of this, a road may only be reformed at most once; that is, only when one of the cities it connects is a leaf.
+> 
+> For example, in the map below with $n = 9$ cities, determine an appropriate order of reforms for the 8 roads and, subsequently, determine the number of days in which the number of leaves is not altered during the reform process.
+> 
+> Suppose now that $n = 230$ and there are initially 69 leaves. Determine the number of days in which the number of leaves is not altered during any reform process involving all roads in the first 229 days.
+
+![[src_obm_2015_n2_f3__Q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Divisors sum alternating formula; find n with given alternating sum*
 
-> Let $n$ be a positive integer and let $n = d_1 > d_2 > \cdots > d_k = 1$ be its positive divisors.
-> 
-> a) Prove that
+> Seja $n$ um inteiro positivo e sejam $n = d_1 > d_2 > \cdots > d_k = 1$ seus divisores positivos.
+>
+> a) Prove que
 > $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 1$$
-> if and only if $n$ is prime or $n = 4$.
-> 
-> b) Determine the three smallest integers $n$ for which
+> apenas se $n$ é primo ou $n = 4$.
+>
+> b) Determine os três inteiros positivos $n$ para os quais
 > $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 4.$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -205,14 +276,36 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Divisors sum alternating formula; find n with given alternating sum*
+
+> Let $n$ be a positive integer and let $n = d_1 > d_2 > \cdots > d_k = 1$ be its positive divisors.
+> 
+> a) Prove that
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 1$$
+> if and only if $n$ is prime or $n = 4$.
+> 
+> b) Determine the three smallest integers $n$ for which
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 4.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Scalene triangle with internal bisectors; compute angle BCA*
 
-> Let $ABC$ be a scalene triangle with $AD$, $BE$, and $CF$ as internal bisectors, with $D$ on $BC$, $E$ on $AC$, and $F$ on $AB$. It is given that $\angle AFE = \angle ADC$. Compute the measure of the angle $\angle BCA$.
+> Seja $ABC$ um triângulo escaleno e $AD$, $BE$ e $CF$ as bissetrizes internas, com $D$ sobre $BC$, $E$ sobre $AC$ e $F$ sobre $AB$. É dado que $\angle AFE = \angle ADC$. Calcule a medida do ângulo $\angle BCA$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -233,3 +326,17 @@ level: OBM Nível 2
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Scalene triangle with internal bisectors; compute angle BCA*
+
+> Let $ABC$ be a scalene triangle with $AD$, $BE$, and $CF$ as internal bisectors, with $D$ on $BC$, $E$ on $AC$, and $F$ on $AB$. It is given that $\angle AFE = \angle ADC$. Compute the measure of the angle $\angle BCA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)

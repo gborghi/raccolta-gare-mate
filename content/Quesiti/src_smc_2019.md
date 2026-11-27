@@ -840,9 +840,7 @@ level: Senior Mathematical Challenge
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Trovare l'angolo a quando un foglio di carta quadrato viene piegato in modo che un vertice vada a cadere sulla linea di piega centrale*
-
+*Determinare l'angolo a quando un foglio di carta quadrato viene piegato in modo che un vertice cada sulla piega centrale.*
 > Alison piega a metà un foglio di carta quadrato lungo la linea tratteggiata mostrata nel diagramma. Dopo aver riaperto il foglio, piega poi uno degli angoli in modo che vada a cadere sulla linea tratteggiata.
 >
 > Qual è il valore di $a$?

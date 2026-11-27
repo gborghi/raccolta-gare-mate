@@ -12,18 +12,18 @@ level: OBM Nível Universitário
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *f(λx) = λf(x) with |λ| ≠ 0, 1 and finite limit f(x)/x at 0 imply f linear.*
 
-> Let $\lambda\in\mathbb R$ with $\lambda\ne0$ and $|\lambda|\ne1$, and let $f:\mathbb R\to\mathbb R$ be a function such that
+> Sejam $\lambda\in\mathbb R$ com $\lambda\ne 0$ e $|\lambda|\ne 1$, e $f:\mathbb R\to\mathbb R$ uma função tal que
 >
-> (i) $f(\lambda x)=\lambda f(x)$ for every $x\in\mathbb R$;
+> (i) $f(\lambda x)=\lambda f(x)$ para todo $x\in\mathbb R$;
 >
-> (ii) the limit $\displaystyle\lim_{x\to0}\frac{f(x)}{x}$ exists and is finite.
+> (ii) existe e é finito o limite $\displaystyle\lim_{x\to 0}\frac{f(x)}{x}$.
 >
-> Prove that there exists $a\in\mathbb R$ such that $f(x)=ax$ for every $x\in\mathbb R$.
+> Prove que existe $a\in\mathbb R$ tal que $f(x)=ax$ para todo $x\in\mathbb R$.
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]]
@@ -54,17 +54,39 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*f(λx) = λf(x) with |λ| ≠ 0, 1 and finite limit f(x)/x at 0 imply f linear.*
+
+> Let $\lambda\in\mathbb R$ with $\lambda\ne0$ and $|\lambda|\ne1$, and let $f:\mathbb R\to\mathbb R$ be a function such that
+>
+> (i) $f(\lambda x)=\lambda f(x)$ for every $x\in\mathbb R$;
+>
+> (ii) the limit $\displaystyle\lim_{x\to0}\frac{f(x)}{x}$ exists and is finite.
+>
+> Prove that there exists $a\in\mathbb R$ such that $f(x)=ax$ for every $x\in\mathbb R$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Riemann-integrable f on [0,1] with ∫₀ˣ f = f(x)^k + f(x), k odd.*
 
-> Let $k$ be a positive odd integer. Determine all Riemann-integrable functions $f:[0,1]\to\mathbb R$ such that
+> Seja $k$ um inteiro ímpar positivo. Determine todas as funções $f:[0,1]\to\mathbb R$, integráveis (a Riemann), tais que
 >
-> $$\int_0^x f(t)\,dt=f(x)^k+f(x)\quad\text{for every } x\in[0,1].$$
+> $$\int_0^x f(t)\,dt=f(x)^k+f(x),\quad\text{para todo }x\in[0,1].$$
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
@@ -91,19 +113,37 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Riemann-integrable f on [0,1] with ∫₀ˣ f = f(x)^k + f(x), k odd.*
+
+> Let $k$ be a positive odd integer. Determine all Riemann-integrable functions $f:[0,1]\to\mathbb R$ such that
+>
+> $$\int_0^x f(t)\,dt=f(x)^k+f(x)\quad\text{for every } x\in[0,1].$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_disuguaglianze,method_conteggio,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Rational points with rational polynomial values of bounded height: count ≤ c·n^(3/k).*
 
-> For a rational number $x=\frac pq$, with $p, q$ integers, $q>0$ and $\gcd(p,q)=1$, define $\operatorname{den}(x)=q$.
+> Dado um racional $x=\frac{p}{q}$, com $p$, $q$ inteiros, $q>0$ e $\operatorname{mdc}(p,q)=1$, definimos $\operatorname{den}(x)=q$.
 >
-> Let $k$ be a positive integer and $P(x)\in\mathbb R[x]$ a polynomial of degree $k$.
+> Sejam $k$ um inteiro positivo e $P(x)\in\mathbb R[x]$ um polinômio de grau $k$.
 >
-> Prove that there is a constant $c>0$ such that, for every positive integer $n$,
+> Prove que existe uma constante $c>0$ tal que, para todo inteiro positivo $n$,
 >
 > $$\#\{x\in\mathbb Q:\ P(x)\in\mathbb Q,\ |P(x)|\le n,\ \operatorname{den}(P(x))\le n\}\le c\cdot n^{3/k}.$$
 
@@ -136,25 +176,45 @@ level: OBM Nível Universitário
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Rational points with rational polynomial values of bounded height: count ≤ c·n^(3/k).*
+
+> For a rational number $x=\frac pq$, with $p, q$ integers, $q>0$ and $\gcd(p,q)=1$, define $\operatorname{den}(x)=q$.
+>
+> Let $k$ be a positive integer and $P(x)\in\mathbb R[x]$ a polynomial of degree $k$.
+>
+> Prove that there is a constant $c>0$ such that, for every positive integer $n$,
+>
+> $$\#\{x\in\mathbb Q:\ P(x)\in\mathbb Q,\ |P(x)|\le n,\ \operatorname{den}(P(x))\le n\}\le c\cdot n^{3/k}.$$
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,topic_combinatoria,method_simmetria,method_conteggio,method_congruenze,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Light ray entering an equilateral triangle at a vertex, n reflections, exiting at a vertex; number of paths for n = 2026, 2027.*
 
-![[src_obm_2026_nu_fx__Q04.png]]
-
-> Consider an equilateral triangle $ABC$.
+> Considere um triângulo equilátero $ABC$.
 >
-> A ray of light enters the interior of the triangle through vertex $A$ and undergoes $n$ elastic reflections on the sides of the triangle, until it leaves through one of the vertices of the triangle.
+> Um raio de luz entra no interior do triângulo pelo vértice $A$ e realiza $n$ reflexões elásticas nos lados do triângulo, até sair por um dos vértices do triângulo.
 >
-> (a) Compute the number of possible trajectories for $n=2026$.
+> (a) Calcule o número de trajetórias possíveis para $n=2026$.
 >
-> (b) Compute the number of possible trajectories for $n=2027$.
+> (b) Calcule o número de trajetórias possíveis para $n=2027$.
 >
-> *Remark.* An elastic reflection is one in which the angle of incidence equals the angle of reflection, as illustrated in the figure.
+> Observação. Uma reflexão elástica é aquela em que o ângulo de incidência é igual ao ângulo de reflexão. A figura abaixo ilustra esse fenômeno.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -189,19 +249,45 @@ level: OBM Nível Universitário
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Light ray entering an equilateral triangle at a vertex, n reflections, exiting at a vertex; number of paths for n = 2026, 2027.*
+
+![[src_obm_2026_nu_fx__Q04.png]]
+
+> Consider an equilateral triangle $ABC$.
+>
+> A ray of light enters the interior of the triangle through vertex $A$ and undergoes $n$ elastic reflections on the sides of the triangle, until it leaves through one of the vertices of the triangle.
+>
+> (a) Compute the number of possible trajectories for $n=2026$.
+>
+> (b) Compute the number of possible trajectories for $n=2027$.
+>
+> *Remark.* An elastic reflection is one in which the angle of incidence equals the angle of reflection, as illustrated in the figure.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two distinct roots of the truncated exponential series of degree p: their difference is irrational.*
 
-> Let $p$ be a prime and let $\alpha,\beta\in\mathbb C$ be two distinct roots of the equation
+> Seja $p$ um número primo e sejam $\alpha,\beta\in\mathbb C$ duas raízes distintas da equação
 >
 > $$1+x+\frac{x^2}{2!}+\cdots+\frac{x^p}{p!}=0.$$
 >
-> Prove that $\alpha-\beta\notin\mathbb Q$.
+> Prove que $\alpha-\beta\notin\mathbb Q$.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -230,27 +316,47 @@ level: OBM Nível Universitário
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two distinct roots of the truncated exponential series of degree p: their difference is irrational.*
+
+> Let $p$ be a prime and let $\alpha,\beta\in\mathbb C$ be two distinct roots of the equation
+>
+> $$1+x+\frac{x^2}{2!}+\cdots+\frac{x^p}{p!}=0.$$
+>
+> Prove that $\alpha-\beta\notin\mathbb Q$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,method_ricorsione,method_disuguaglianze,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Contracting linear map T(x,y) = (λx, Uy) and a T-invariant set X near the origin; prove |y| ≤ C|x|^α.*
 
-> Let $k\ge2$ be an integer and $0<\lambda<1$. We identify $\mathbb R^k=\mathbb R\times\mathbb R^{k-1}$ and consider on $\mathbb R^k$ the Euclidean norm $|\cdot|$. For $s>0$, let $B[s]=\{z\in\mathbb R^k:\ |z|\le s\}$.
+> Sejam $k\ge 2$ um inteiro e $0<\lambda<1$. Identificamos $\mathbb R^k=\mathbb R\times\mathbb R^{k-1}$ e consideramos em $\mathbb R^k$ a norma euclidiana $|\cdot|$. Para $s>0$, seja $B[s]=\{z\in\mathbb R^k:\ |z|\le s\}$.
 >
-> Let $T:\mathbb R^k\to\mathbb R^k$ be a map of the form $T(x,y)=(\lambda x,Uy)$, where $U:\mathbb R^{k-1}\to\mathbb R^{k-1}$ is a linear map such that
+> Seja $T:\mathbb R^k\to\mathbb R^k$ uma transformação da forma $T(x,y)=(\lambda x,Uy)$, onde $U:\mathbb R^{k-1}\to\mathbb R^{k-1}$ é uma transformação linear tal que
 >
-> $$0<|Uv|<\lambda|v|\quad\text{for every } v\in\mathbb R^{k-1}\setminus\{0\}.$$
+> $$0<|Uv|<\lambda|v|,\quad\text{para todo }v\in\mathbb R^{k-1}\setminus\{0\}.$$
 >
-> Let $X\subset B[1]$ be a set satisfying:
+> Seja $X\subset B[1]$ um conjunto satisfazendo:
 >
-> (i) there is $r\in(0,1)$ such that $T(X)\cap B[r]=X\cap B[r]$;
+> (i) existe $r\in(0,1)$ tal que $T(X)\cap B[r]=X\cap B[r]$;
 >
-> (ii) for every $\varepsilon>0$ there is $\delta(\varepsilon)>0$ such that, for every $(x,y)\in X$, if $|y|\ge\varepsilon$ then $|x|\ge\delta(\varepsilon)$.
+> (ii) para todo $\varepsilon>0$ existe $\delta(\varepsilon)>0$ tal que, para todo $(x,y)\in X$, se $|y|\ge\varepsilon$ então $|x|\ge\delta(\varepsilon)$.
 >
-> Prove that there are constants $C>0$ and $\alpha>1$ such that $|y|\le C|x|^\alpha$ for every $(x,y)\in X$.
+> Prove que existem constantes $C>0$ e $\alpha>1$ tais que $|y|\le C|x|^\alpha$ para todo $(x,y)\in X$.
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]], [[method_disuguaglianze|Classical inequalities]]
@@ -285,3 +391,31 @@ level: OBM Nível Universitário
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Contracting linear map T(x,y) = (λx, Uy) and a T-invariant set X near the origin; prove |y| ≤ C|x|^α.*
+
+> Let $k\ge2$ be an integer and $0<\lambda<1$. We identify $\mathbb R^k=\mathbb R\times\mathbb R^{k-1}$ and consider on $\mathbb R^k$ the Euclidean norm $|\cdot|$. For $s>0$, let $B[s]=\{z\in\mathbb R^k:\ |z|\le s\}$.
+>
+> Let $T:\mathbb R^k\to\mathbb R^k$ be a map of the form $T(x,y)=(\lambda x,Uy)$, where $U:\mathbb R^{k-1}\to\mathbb R^{k-1}$ is a linear map such that
+>
+> $$0<|Uv|<\lambda|v|\quad\text{for every } v\in\mathbb R^{k-1}\setminus\{0\}.$$
+>
+> Let $X\subset B[1]$ be a set satisfying:
+>
+> (i) there is $r\in(0,1)$ such that $T(X)\cap B[r]=X\cap B[r]$;
+>
+> (ii) for every $\varepsilon>0$ there is $\delta(\varepsilon)>0$ such that, for every $(x,y)\in X$, if $|y|\ge\varepsilon$ then $|x|\ge\delta(\varepsilon)$.
+>
+> Prove that there are constants $C>0$ and $\alpha>1$ such that $|y|\le C|x|^\alpha$ for every $(x,y)\in X$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)

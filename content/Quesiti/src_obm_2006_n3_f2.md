@@ -12,12 +12,12 @@ level: OBM Nível 3
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count ordered pairs (83;89) called 'century pairs'*
 
-> An ordered pair $(83; 89)$ is called a *century pair* because $83 + 8 + 9 = 83 - 8 + 9 + 8 + 3 = 100$; that is, the sum of each number with the digits of the other number equals 100. How many century pairs of positive integers are there?
+> O par ordenado $(83;89)$ é chamado de par centenário porque $83 + 8 + 9 = 89 + 8 + 3 = 100$, isto é, a soma de cada número com os dígitos do outro número é 100. Quantos são os pares centenários?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -40,19 +40,29 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count ordered pairs (83;89) called 'century pairs'*
+
+> An ordered pair $(83; 89)$ is called a *century pair* because $83 + 8 + 9 = 83 - 8 + 9 + 8 + 3 = 100$; that is, the sum of each number with the digits of the other number equals 100. How many century pairs of positive integers are there?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Pentagon and triangle inscribed in circle; find angle α for similarity*
 
-> In the figure, the regular pentagon $ABCDE$ and the triangle $EFG$ are inscribed in the circumference $C_o$, and $M$ is the midpoint of $BC$. For what value of $\alpha$, in degrees, are the triangles $EFG$ and $HIG$ similar?
-> 
-> (The diagram shows points $H$, $I$ on the figure; $\alpha$ is the angle at $F$ in triangle $EFG$, and $H$, $I$ are intersections with the pentagon sides.)
-
-![[src_obm_2006_n3_f2__Q02.png]]
+> Na figura a seguir, o pentágono regular $ABCDE$ e o triângulo $EFG$ estão inscritos na circunferência $C_o$, e $M$ é ponto médio de $BC$. Para qual valor de $\alpha$, em graus, os triângulos $EFG$ e $HIG$ são semelhantes?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -79,15 +89,33 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Pentagon and triangle inscribed in circle; find angle α for similarity*
+
+> In the figure, the regular pentagon $ABCDE$ and the triangle $EFG$ are inscribed in the circumference $C_o$, and $M$ is the midpoint of $BC$. For what value of $\alpha$, in degrees, are the triangles $EFG$ and $HIG$ similar?
+> 
+> (The diagram shows points $H$, $I$ on the figure; $\alpha$ is the angle at $F$ in triangle $EFG$, and $H$, $I$ are intersections with the pentagon sides.)
+
+![[src_obm_2006_n3_f2__Q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Two runners on circular track, find track length from two crossings*
 
-> Esmeralda and Jade run in opposite directions on a circular track, starting from diametrically opposite points. The first crossing between them occurs after Esmeralda has run 200 meters. The second crossing occurs after Jade has run 350 meters from the first crossing point. The speeds of the girls are constant. What is the length of the track, in meters?
+> Esmeralda e Jade correm em sentidos opostos em uma pista circular, começando em pontos diametralmente opostos. O primeiro cruzamento entre elas ocorre depois de Esmeralda ter percorrido 200 metros. O segundo cruzamento ocorre após Jade ter percorrido 350 metros entre o primeiro e o segundo ponto de encontro. As velocidades das moças são constantes. Qual é o tamanho da pista, em metros?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -110,14 +138,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Two runners on circular track, find track length from two crossings*
+
+> Esmeralda and Jade run in opposite directions on a circular track, starting from diametrically opposite points. The first crossing between them occurs after Esmeralda has run 200 meters. The second crossing occurs after Jade has run 350 meters from the first crossing point. The speeds of the girls are constant. What is the length of the track, in meters?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_estremalita,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Side length of cross-section of regular octahedron by a plane*
 
-> What is the largest side length that a cross-section determined by a plane of a regular octahedron can have?
+> Qual a maior quantidade de lados que pode ter uma secção determinada por um plano em um octaedro regular?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
@@ -140,15 +183,29 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Side length of cross-section of regular octahedron by a plane*
+
+> What is the largest side length that a cross-section determined by a plane of a regular octahedron can have?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_simmetria,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Dice: probability of sum 2006 equals probability of sum S; find min S*
 
-> We roll a certain number of cubic dice with faces numbered 1 to 6. The probability of obtaining a sum of 2006 is equal to the probability of obtaining a sum of $S$. What is the smallest possible value of $S$?
+> Ao jogarmos uma certa quantidade de dados cúbicos com faces numeradas de 1 a 6, a probabilidade de obtermos soma dos pontos 2006 é igual à probabilidade de obtermos soma dos pontos $S$. Qual é o menor valor possível de $S$?
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -171,14 +228,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Dice: probability of sum 2006 equals probability of sum S; find min S*
+
+> We roll a certain number of cubic dice with faces numbered 1 to 6. The probability of obtaining a sum of 2006 is equal to the probability of obtaining a sum of $S$. What is the smallest possible value of $S$?
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Distribute n+1 distinct toys to n children, each gets at least one*
 
-> Let $n$ be a positive integer. In how many ways can we distribute $n+1$ distinct toys among $n$ children so that every child receives at least one toy?
+> Seja $n$ inteiro positivo. De quantas maneiras podemos distribuir $n + 1$ brinquedos distintos para $n$ crianças de modo que toda criança receba pelo menos um brinquedo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
@@ -201,14 +273,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Distribute n+1 distinct toys to n children, each gets at least one*
+
+> Let $n$ be a positive integer. In how many ways can we distribute $n+1$ distinct toys among $n$ children so that every child receives at least one toy?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all positive integer pairs (a,b) with (a+1)(b+1) divisible by ab+1*
 
-> Find all pairs of positive integers $(a, b)$ such that $(a+1)(b+1)$ is a multiple of $ab + 1$.
+> Encontre todos os pares de inteiros positivos $(a;b)$ tais que $(a + 1)(b + 1)$ é múltiplo de $ab + 1$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
@@ -231,14 +318,29 @@ level: OBM Nível 3
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all positive integer pairs (a,b) with (a+1)(b+1) divisible by ab+1*
+
+> Find all pairs of positive integers $(a, b)$ such that $(a+1)(b+1)$ is a multiple of $ab + 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Triangle ABC with AB=4, AC=3, angle BAC=60°; distance between orthocenters*
 
-> In triangle $ABC$ we have $AB = 4$, $AC = 3$, and the angle $\widehat{BAC} = 60^\circ$. Let $D$ be the intersection point of the line perpendicular to $AB$ passing through $B$ and the line perpendicular to $AC$ passing through $C$. Determine the distance between the orthocenters of triangles $ABC$ and $BCD$.
+> No triângulo $ABC$ tem-se $AB = 4$, $AC = 3$ e o ângulo $\widehat{BAC}$ mede $60^\circ$. Seja $D$ o ponto de intersecção entre a reta perpendicular a $AB$ passando por $B$ e a reta perpendicular a $AC$ passando por $C$. Determine a distância entre os ortocentros dos triângulos $ABC$ e $BCD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -261,15 +363,29 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangle ABC with AB=4, AC=3, angle BAC=60°; distance between orthocenters*
+
+> In triangle $ABC$ we have $AB = 4$, $AC = 3$, and the angle $\widehat{BAC} = 60^\circ$. Let $D$ be the intersection point of the line perpendicular to $AB$ passing through $B$ and the line perpendicular to $AC$ passing through $C$. Determine the distance between the orthocenters of triangles $ABC$ and $BCD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_casework,method_induzione,method_estremalita,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Fibonacci sequence: find all positive integer pairs (m,n) with F_m·F_n=mn*
 
-> The sequence $F_n$ is defined by $F_1 = F_2 = 1$ and $F_n = F_{n-1} + F_{n-2}$ for $n \ge 3$. Find all pairs of positive integers $(m, n)$ such that $F_m \cdot F_n = mn$.
+> A seqüência $F_n$ é definida por $F_1 = F_2 = 1$ e $F_n = F_{n-1} + F_{n-2}$ para $n \ge 3$. Encontre todos os pares de inteiros positivos $(m, n)$ tais que $F_m \cdot F_n = mn$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Recursion]]
@@ -290,3 +406,17 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Fibonacci sequence: find all positive integer pairs (m,n) with F_m·F_n=mn*
+
+> The sequence $F_n$ is defined by $F_1 = F_2 = 1$ and $F_n = F_{n-1} + F_{n-2}$ for $n \ge 3$. Find all pairs of positive integers $(m, n)$ such that $F_m \cdot F_n = mn$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)

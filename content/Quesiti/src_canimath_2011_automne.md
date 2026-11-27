@@ -12,7 +12,30 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
+
+
+*Isosceles triangle, point on minor arc, circumcircle of BDE gives parallel lines*
+
+> Soit $ABC$ un triangle isocèle dans lequel $AB = AC$. Sur le cercle circonscrit à ce triangle on prend un point $D$ appartenant au plus petit arc joignant $A$ à $B$ ; enfin on prend un point $E$ appartenant à la droite $(AD)$, extérieur au segment $[AD]$ et tel que les points $A$ et $E$ soient dans le même demi plan limité par la droite $(BC)$. Le cercle circonscrit au triangle $BDE$ recoupe la droite $(AB)$ en $F$ ; montrer que les droites $(EF)$ et $(BC)$ sont parallèles.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+*Triangolo isoscele ABC con AB=AC; un punto D sul minore degli archi AB della circonferenza circoscritta e un punto E sulla retta AD: il cerchio circoscritto a BDE determina rette parallele.*
+> $ABC$ sia un triangolo di uguali dimensioni in cui $AB = AC$. Sul cerchio circonscritto di questo triangolo, prendere un punto $D$ appartenente all'arco più piccolo che unisce $A$ a $B$; infine prendere un punto $E$ appartenente alla linea $(AD)$, al di fuori del segmento $[AD]$, e tale che i punti $A$ e $E$ si trovino nello stesso semiplano delimitato dalla linea $(BC)$. Il cerchio circonscritto del triangolo $BDE$ incontra di nuovo la linea $(AB)$ a $F$; mostra che le linee $(EF)$ e $(BC)$ sono parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle, point on minor arc, circumcircle of BDE gives parallel lines*
@@ -25,27 +48,17 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Triangolo isosceles, punto su arco minore, circoncircolo di BDE dà linee parallele*
-
-> $ABC$ sia un triangolo di uguali dimensioni in cui $AB = AC$. Sul cerchio circonscritto di questo triangolo, prendere un punto $D$ appartenente all'arco più piccolo che unisce $A$ a $B$; infine prendere un punto $E$ appartenente alla linea $(AD)$, al di fuori del segmento $[AD]$, e tale che i punti $A$ e $E$ si trovino nello stesso semiplano delimitato dalla linea $(BC)$. Il cerchio circonscritto del triangolo $BDE$ incontra di nuovo la linea $(AB)$ a $F$; mostra che le linee $(EF)$ e $(BC)$ sono parallele.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
-
-
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Quadratic f with f(t)=f(f(f(t)))=0, show f(0)×f(1)=0*
 
-> Let $a$, $b$ be two real numbers and $f$ the function from $\mathbb{R}$ to $\mathbb{R}$ which to $x$ associates $x^2 + ax + b$. Suppose that there exists a real number $t$ such that $f(t) = f(f(f(t))) = 0$. Show that $f(0) \times f(1) = 0$.
+> Soit $a$, $b$ deux nombres réels et $f$ la fonction de $\mathbb{R}$ dans $\mathbb{R}$ qui à $x$ associe $x^2 + ax + b$. On suppose qu’il existe un réel $t$ tel que $f(t) = f(f(f(t))) = 0$.
+>
+> Montrer que $f(0) \times f(1) = 0$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -67,16 +80,31 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Quadratic f with f(t)=f(f(f(t)))=0, show f(0)×f(1)=0*
+
+> Let $a$, $b$ be two real numbers and $f$ the function from $\mathbb{R}$ to $\mathbb{R}$ which to $x$ associates $x^2 + ax + b$. Suppose that there exists a real number $t$ such that $f(t) = f(f(f(t))) = 0$. Show that $f(0) \times f(1) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Twelve candidates each announcing cumulative number of lies, determine total lies*
 
-> Twelve candidates for the post of mayor take part in a televised debate. After a while, one of them declares "so far, we have lied once". A second one then says "Now, that makes twice". A third one then exclaims "Three times, now", and so on up to the twelfth, who states that before him there have been twelve lies. The presenter then stops the discussion.
-> Knowing that at least one of the candidates correctly announced how many times one had lied before his turn to speak, determine how many candidates lied in total.
+> Douze candidats au poste de maire participent à un débat télévisé. Au bout d’un moment, l’un d’eux déclare « jusque là, on a menti une seule fois ». Un deuxième dit alors « Maintenant, cela fait deux fois ». Un troisième s’exclame alors « Trois fois, maintenant » et ainsi de suite jusqu’au douzième qui affirme qu’avant lui on a menti douze fois. Le présentateur arrête alors la discussion.
+>
+> Sachant qu’au moins un des candidats a correctement annoncé combien de fois on avait menti avant sa prise de parole, déterminer combien de candidats ont menti au total.
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -98,15 +126,30 @@ level: Coupe Animath Automne
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Twelve candidates each announcing cumulative number of lies, determine total lies*
+
+> Twelve candidates for the post of mayor take part in a televised debate. After a while, one of them declares "so far, we have lied once". A second one then says "Now, that makes twice". A third one then exclaims "Three times, now", and so on up to the twelfth, who states that before him there have been twelve lies. The presenter then stops the discussion.
+> Knowing that at least one of the candidates correctly announced how many times one had lied before his turn to speak, determine how many candidates lied in total.
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find all f from R∗ to R∗ with x f(x/2) - f(2/x) = 1*
 
-> Find all functions $f : \mathbb{R}^* \to \mathbb{R}^*$ that satisfy $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ for every nonzero real number $x$.
+> Trouver toutes les fonctions $f : \mathbb{R}^* \to \mathbb{R}^*$ qui vérifient $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ pour tout nombre réel non nul $x$.
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_simmetria|Using symmetry]]
@@ -128,15 +171,31 @@ level: Coupe Animath Automne
 **Area:** [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all f from R∗ to R∗ with x f(x/2) - f(2/x) = 1*
+
+> Find all functions $f : \mathbb{R}^* \to \mathbb{R}^*$ that satisfy $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ for every nonzero real number $x$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Right triangle, midpoint, perpendiculars; triangles AEM and MCA similar iff angle ABC=60*
 
-> Let $ABC$ be a right triangle at $A$ with $AB < AC$, $M$ the midpoint of $[BC]$, $D$ the intersection of $(AC)$ with the perpendicular to $(BC)$ passing through $M$, and $E$ the point of intersection of the line parallel to $(AC)$ passing through $M$ with the perpendicular to $(BD)$ passing through $B$. Show that the triangles $AEM$ and $MCA$ are similar if and only if $\angle ABC = 60^\circ$.
+> Soit $ABC$ un triangle rectangle en $A$ avec $AB < AC$, $M$ le milieu de $[BC]$, $D$ l’intersection de $(AC)$ avec la droite perpendiculaire à $(BC)$ passant par $M$ et $E$ le point d’intersection de la droite parallèle à $(AC)$ passant par $M$ avec la droite perpendiculaire à $(BD)$ passant par $B$.
+>
+> Montrer que les triangles $AEM$ et $MCA$ sont semblables si, et seulement si, $\angle ABC = 60^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -158,15 +217,29 @@ level: Coupe Animath Automne
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Right triangle, midpoint, perpendiculars; triangles AEM and MCA similar iff angle ABC=60*
+
+> Let $ABC$ be a right triangle at $A$ with $AB < AC$, $M$ the midpoint of $[BC]$, $D$ the intersection of $(AC)$ with the perpendicular to $(BC)$ passing through $M$, and $E$ the point of intersection of the line parallel to $(AC)$ passing through $M$ with the perpendicular to $(BD)$ passing through $B$. Show that the triangles $AEM$ and $MCA$ are similar if and only if $\angle ABC = 60^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_grafi,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Ball: no boy danced with all girls; find a crossing pair of boys and girls*
 
-> At a ball, no boy has danced with all the girls, and each girl has danced with at least one boy. Prove that one can find boys $g$ and $g'$, and girls $f$ and $f'$, such that $g$ has danced with $f$ but not with $f'$, and $g'$ has danced with $f'$ but not with $f$.
+> Lors d’un bal, aucun garçon n’a dansé avec toutes les filles, et chaque fille a dansé avec au moins un garçon. Prouver que l’on peut trouver des garçons $g$ et $g'$, et des filles $f$ et $f'$, tels que $g$ ait dansé avec $f$ mais pas avec $f'$, et que $g'$ ait dansé avec $f'$ mais pas avec $f$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
@@ -188,15 +261,29 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ball: no boy danced with all girls; find a crossing pair of boys and girls*
+
+> At a ball, no boy has danced with all the girls, and each girl has danced with at least one boy. Prove that one can find boys $g$ and $g'$, and girls $f$ and $f'$, such that $g$ has danced with $f$ but not with $f'$, and $g'$ has danced with $f'$ but not with $f$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *Find positive integer triples (p,n,m) with p prime and p^n+144=m^2*
 
-> Find all triples of positive integers $(p, n, m)$ such that $p$ is prime and $p^n + 144 = m^2$.
+> Trouver tous les triplets d’entiers positifs $(p, n, m)$ tels que $p$ soit premier et $p^n + 144 = m^2$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
@@ -218,18 +305,32 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find positive integer triples (p,n,m) with p prime and p^n+144=m^2*
+
+> Find all triples of positive integers $(p, n, m)$ such that $p$ is prime and $p^n + 144 = m^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
 *x,y,z in [0,1] with (1-x)(1-y)(1-z)=xyz; one of three products >=1/4 and one <=1/4*
 
-> Let $x$, $y$, $z$ be three real numbers belonging to the interval $[0, 1]$ satisfying
-> $$(1-x)(1-y)(1-z) = xyz.$$
-> 1. Show that, among the three real numbers $(1-x)y$, $(1-y)z$, $(1-z)x$, at least one is greater than or equal to $\frac{1}{4}$.
-> 2. Show that, among the three real numbers $(1-x)y$, $(1-y)z$, $(1-z)x$, at least one is less than or equal to $\frac{1}{4}$.
+> Soit $x$, $y$, $z$ trois réels appartenant à l’intervalle $[0, 1]$ vérifiant
+> $$(1 - x)(1 - y)(1 - z) = xyz.$$
+> 1. Montrer que, au moins, l’un des trois réels $(1 - x)y$, $(1 - y)z$, $(1 - z)x$ est supérieur ou égal à $\dfrac{1}{4}$.
+> 2. Montrer que, au moins, l’un des trois réels $(1 - x)y$, $(1 - y)z$, $(1 - z)x$ est inférieur ou égal à $\dfrac{1}{4}$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -249,3 +350,20 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*x,y,z in [0,1] with (1-x)(1-y)(1-z)=xyz; one of three products >=1/4 and one <=1/4*
+
+> Let $x$, $y$, $z$ be three real numbers belonging to the interval $[0, 1]$ satisfying
+> $$(1-x)(1-y)(1-z) = xyz.$$
+> 1. Show that, among the three real numbers $(1-x)y$, $(1-y)z$, $(1-z)x$, at least one is greater than or equal to $\frac{1}{4}$.
+> 2. Show that, among the three real numbers $(1-x)y$, $(1-y)z$, $(1-z)x$, at least one is less than or equal to $\frac{1}{4}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)

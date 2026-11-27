@@ -848,9 +848,7 @@ level: IOQM
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Il bug si muove lungo le linee della griglia da A=(-3,2) a B=(3,-2), con lunghezza del percorso al massimo 14; conta i punti interi sui percorsi*
-
+*Un insetto si muove lungo i lati di una griglia da A=(−3,2) a B=(3,−2), con percorsi di lunghezza al più 14; contare i punti a coordinate intere toccati.*
 > Un insetto si muove nel piano cartesiano spostandosi solo lungo le rette parallele all'asse $x$ o all'asse $y$. Siano $A = (-3, 2)$ e $B = (3, -2)$. Si considerino tutti i possibili percorsi dell'insetto da $A$ a $B$ di lunghezza al più 14. Quanti punti a coordinate intere giacciono su almeno uno di questi percorsi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]

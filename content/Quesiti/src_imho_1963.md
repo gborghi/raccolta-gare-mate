@@ -154,9 +154,6 @@ level: IMO
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_trigonometria,topic_algebra,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
-
-
 *Provare cos(pi/7)-cos(2pi/7)+cos(3pi/7)=1/2*
 
 > Prove that $\cos \dfrac{\pi}{7} - \cos \dfrac{2\pi}{7} + \cos \dfrac{3\pi}{7} = \dfrac{1}{2}$.
@@ -166,20 +163,6 @@ level: IMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*A cosine identity at multiples of π/7*
-
-> Prove that $\cos \dfrac{\pi}{7} - \cos \dfrac{2\pi}{7} + \cos \dfrac{3\pi}{7} = \dfrac{1}{2}$.
-
-
-**Topic:** [[topic_trigonometria|Trigonometry]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 

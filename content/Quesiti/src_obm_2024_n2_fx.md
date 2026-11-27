@@ -12,18 +12,20 @@ level: OBM Nível 2
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_fattorizzazione,method_induzione,method_casework,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sequence formed by repeated prime-factorization operation; three sub-parts*
 
-> Consider a sequence whose first term is a given positive integer $N > 1$. Given a term $N$ of the sequence, if $N$ is a power of a single prime, the sequence ends at $N$. Otherwise, the next term is obtained by taking the largest prime factor $p$ of $N$ and replacing $p$ with $p+1$ in the prime factorization; if the resulting number is not a power of a prime, the process is repeated on the new number, giving rise to the next term; and so on. For example, if the first term of the sequence is $N = 300 = 2^2 \cdot 3 \cdot 5^2$, since its largest prime factor is $p = 5$, the second term is $2^2 \cdot 3 \cdot (5+1)^2 = 2^4 \cdot 3^3$. Since $p = 3$ and thus the third term is $2^4 \cdot (3+1)^3 = 2^{10}$. We have obtained a power of $2$, so the sequence terminates. For example, the sequence $2^2 \cdot 3 \cdot 5^2, \; 2^4 \cdot 3^3, \; 2^{10}$ has $3$ terms.
-> 
-> (a) How many terms does the sequence whose first term is $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$ have?
-> 
-> (b) Show that if a prime $p$ leaves remainder $1$ on division by $3$, then $\frac{p+1}{2}$ is also an integer that leaves remainder $1$ on division by $3$.
-> 
-> (c) Find an initial value $N$ less than $1{,}000{,}000$ (one million) such that the sequence starting at $N$ has exactly $11$ terms.
+> Considere uma sequência cujo primeiro termo é um inteiro positivo dado $N > 1$. Considere a fatoração de $N$ em primos. Se $N$ é uma potência de $2$, a sequência é formada por um único termo: $N$. Caso contrário, o segundo termo da sequência é obtido trocando o maior fator primo $p$ de $N$ por $p + 1$ na fatoração em primos. Se o novo número não é uma potência de $2$, repetimos o mesmo procedimento com ele, lembrando de fatorá-lo novamente em primos. Caso contrário, a sequência numérica termina. E assim sucessivamente.
+>
+> Por exemplo, se o primeiro termo da sequência é $N = 300 = 2^2 \cdot 3 \cdot 5^2$, como o seu maior fator primo é $p = 5$, o segundo termo é $2^2 \cdot 3 \cdot (5 + 1)^2 = 2^4 \cdot 3^3$. Repetindo o procedimento, o maior fator primo do segundo termo é $p = 3$ e então o terceiro termo é $2^4 \cdot (3 + 1)^3 = 2^{10}$. Como obtivemos uma potência de $2$, a sequência tem $3$ termos: $2^2 \cdot 3 \cdot 5^2$, $2^4 \cdot 3^3$ e $2^{10}$.
+>
+> (a) Quantos termos tem a sequência cujo primeiro termo é $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$?
+>
+> (b) Mostre que se um fator primo $p$ deixa resto $1$ na divisão por $3$, então $\frac{p+1}{2}$ é um número inteiro que também deixa resto $1$ na divisão por $3$.
+>
+> (c) Apresente um termo inicial $N$ menor do que $1.000.000$ (um milhão) tal que a sequência iniciada por $N$ tem exatamente $11$ termos.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]]
@@ -52,15 +54,35 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sequence formed by repeated prime-factorization operation; three sub-parts*
+
+> Consider a sequence whose first term is a given positive integer $N > 1$. Given a term $N$ of the sequence, if $N$ is a power of a single prime, the sequence ends at $N$. Otherwise, the next term is obtained by taking the largest prime factor $p$ of $N$ and replacing $p$ with $p+1$ in the prime factorization; if the resulting number is not a power of a prime, the process is repeated on the new number, giving rise to the next term; and so on. For example, if the first term of the sequence is $N = 300 = 2^2 \cdot 3 \cdot 5^2$, since its largest prime factor is $p = 5$, the second term is $2^2 \cdot 3 \cdot (5+1)^2 = 2^4 \cdot 3^3$. Since $p = 3$ and thus the third term is $2^4 \cdot (3+1)^3 = 2^{10}$. We have obtained a power of $2$, so the sequence terminates. For example, the sequence $2^2 \cdot 3 \cdot 5^2, \; 2^4 \cdot 3^3, \; 2^{10}$ has $3$ terms.
+> 
+> (a) How many terms does the sequence whose first term is $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$ have?
+> 
+> (b) Show that if a prime $p$ leaves remainder $1$ on division by $3$, then $\frac{p+1}{2}$ is also an integer that leaves remainder $1$ on division by $3$.
+> 
+> (c) Find an initial value $N$ less than $1{,}000{,}000$ (one million) such that the sequence starting at $N$ has exactly $11$ terms.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Cyclic concyclicity result in triangle with circumscribed circles and midpoints*
 
-> Let $ABC$ be a triangle and let $E$ and $F$ be the midpoints of sides $AC$ and $AB$, respectively. Let $D$ be any point on segment $BC$. The circumscribed circles of triangles $BDF$ and $CDE$ intersect each other at a point $X \neq D$. The point $Y$ lies on line $DX$ such that $AY$ is parallel to $BC$. Prove that the points $K$, $L$, $X$, and $Y$ all lie on the same circle, where $K$ and $L$ are the second intersection points (other than $X$) of the circumcircles of $BDF$ and $CDE$ with the line $EF$.
+> Seja $ABC$ um triângulo escaleno. Sejam $E$ e $F$ os pontos médios dos lados $AC$ e $AB$, respectivamente, e seja $D$ um ponto qualquer no segmento $BC$. As circunferências circunscritas aos triângulos $BDF$ e $CDE$ intersectam a reta $EF$ em $K \neq F$ e $L \neq E$, respectivamente, e intersectam-se em $X \neq D$. O ponto $Y$ está sobre a reta $DX$ de modo que $AY$ é paralelo a $BC$. Prove que os pontos $K$, $L$, $X$ e $Y$ estão sobre uma mesma circunferência.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -83,20 +105,34 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cyclic concyclicity result in triangle with circumscribed circles and midpoints*
+
+> Let $ABC$ be a triangle and let $E$ and $F$ be the midpoints of sides $AC$ and $AB$, respectively. Let $D$ be any point on segment $BC$. The circumscribed circles of triangles $BDF$ and $CDE$ intersect each other at a point $X \neq D$. The point $Y$ lies on line $DX$ such that $AY$ is parallel to $BC$. Prove that the points $K$, $L$, $X$, and $Y$ all lie on the same circle, where $K$ and $L$ are the second intersection points (other than $X$) of the circumcircles of $BDF$ and $CDE$ with the line $EF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_casework,method_invarianti,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Longest guaranteed increasing path in 10×10 grid with 1–100*
 
-> The numbers $1$ to $100$ are placed without repetition, one in each cell of a $10 \times 10$ grid. An *increasing path of length $k$* in this grid is a sequence of cells $c_1, c_2, \ldots, c_k$ such that, for each $i = 2, 3, \ldots, k$, the following properties hold:
-> 
-> - cells $c_i$ and $c_{i-1}$ share a side or a vertex;
-> - the number in $c_i$ is greater than the number in $c_{i-1}$.
-> 
-> What is the largest positive integer $k$ such that we can always find an increasing path of length $k$, regardless of how the numbers $1$ to $100$ are arranged in the grid?
+> Os números de $1$ a $100$ são colocados sem repetição em cada casinha de um tabuleiro $10 \times 10$. Um caminho crescente de tamanho $k$ nesse tabuleiro é uma sequência de casinhas $c_1, c_2, \ldots, c_k$ tal que, para cada $i = 2, 3, \ldots, k$, as seguintes propriedades são satisfeitas:
+>
+> - as casinhas $c_i$ e $c_{i-1}$ compartilham um lado ou um vértice;
+> - o número em $c_i$ é maior que o número em $c_{i-1}$.
+>
+> Qual é o maior inteiro positivo $k$ para o qual sempre podemos encontrar um caminho crescente de tamanho $k$, independentemente de como os números de $1$ a $100$ estão dispostos no tabuleiro?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_cassetti|Pigeonhole principle]]
@@ -124,15 +160,34 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Longest guaranteed increasing path in 10×10 grid with 1–100*
+
+> The numbers $1$ to $100$ are placed without repetition, one in each cell of a $10 \times 10$ grid. An *increasing path of length $k$* in this grid is a sequence of cells $c_1, c_2, \ldots, c_k$ such that, for each $i = 2, 3, \ldots, k$, the following properties hold:
+> 
+> - cells $c_i$ and $c_{i-1}$ share a side or a vertex;
+> - the number in $c_i$ is greater than the number in $c_{i-1}$.
+> 
+> What is the largest positive integer $k$ such that we can always find an increasing path of length $k$, regardless of how the numbers $1$ to $100$ are arranged in the grid?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count 10-digit numbers with digits in {1,2,3} divisible by 99*
 
-> A number is called *trilegal* if all its digits belong to the set $\{1, 2, 3\}$ and it is divisible by $99$. How many trilegal numbers have exactly $10$ digits?
+> Um número é chamado trilegal se seus algarismos pertencem ao conjunto $\{1, 2, 3\}$ e se ele é divisível por $99$. Quantos são os números trilegais de $10$ algarismos?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -155,18 +210,33 @@ level: OBM Nível 2
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count 10-digit numbers with digits in {1,2,3} divisible by 99*
+
+> A number is called *trilegal* if all its digits belong to the set $\{1, 2, 3\}$ and it is divisible by $99$. How many trilegal numbers have exactly $10$ digits?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_fattorizzazione,method_ricorsione,method_backward,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Esmeralda's iterated quadratic equations with distinct positive integer roots*
 
-> Esmeralda chooses two distinct positive integers $a$ and $b$, with $a > b$, and writes the equation $x^2 - ax + b = 0$ on the board. If the equation has distinct positive integer roots $c$ and $d$, with $c > d$, she then writes the equation $x^2 - cx + d = 0$ on the board. She repeats this procedure as long as she keeps obtaining distinct positive integer roots. If she writes an equation for which this does not happen, she stops.
-> 
-> (a) Show that Esmeralda can choose $a$ and $b$ such that she writes exactly $2024$ equations on the board.
-> 
-> (b) What is the greatest number of equations she can write knowing that one of the numbers she initially chose is $2024$?
+> Esmeralda escolhe dois inteiros positivos distintos $a$ e $b$, com $b > a$, e escreve a equação $x^2 - ax + b = 0$ no quadro. Se a equação possui raízes inteiras positivas distintas $c$ e $d$, com $d > c$, ela escreve a equação $x^2 - cx + d = 0$ no quadro. Ela repete o procedimento enquanto obtiver raízes inteiras positivas distintas. Caso ela escreva uma equação na qual isso não ocorre, ela para.
+>
+> (a) Mostre que Esmeralda pode escolher $a$ e $b$ de modo que ela vá escrever exatamente $2024$ equações no quadro.
+>
+> (b) Qual é a maior quantidade de equações que ela pode escrever sabendo que um dos números escolhidos inicialmente é $2024$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]], [[method_backward|Backward]], [[method_induzione|Induction]]
@@ -193,15 +263,33 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Esmeralda's iterated quadratic equations with distinct positive integer roots*
+
+> Esmeralda chooses two distinct positive integers $a$ and $b$, with $a > b$, and writes the equation $x^2 - ax + b = 0$ on the board. If the equation has distinct positive integer roots $c$ and $d$, with $c > d$, she then writes the equation $x^2 - cx + d = 0$ on the board. She repeats this procedure as long as she keeps obtaining distinct positive integer roots. If she writes an equation for which this does not happen, she stops.
+> 
+> (a) Show that Esmeralda can choose $a$ and $b$ such that she writes exactly $2024$ equations on the board.
+> 
+> (b) What is the greatest number of equations she can write knowing that one of the numbers she initially chose is $2024$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]], [[method_backward|Backward]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Perpendicularity result in isosceles triangle with special cevian configuration*
 
-> Let $ABC$ be an isosceles triangle with $AB = BC$. Let $D$ be a point on segment $AB$, $E$ a point on segment $BC$, and $P$ a point on segment $DE$ such that $AD = DP$ and $CE = PE$. Let $M$ be the midpoint of $DE$. The line parallel to $AB$ through $M$ intersects $AC$ at $X$, and the line parallel to $BC$ through $M$ intersects $AC$ at $Y$. The lines $DX$ and $EY$ intersect at $F$. Prove that $FP$ is perpendicular to $DE$.
+> Seja $ABC$ um triângulo isósceles com $AB = BC$. Seja $D$ um ponto sobre o segmento $AB$, $E$ um ponto sobre o segmento $BC$ e $P$ um ponto sobre o segmento $DE$, tal que $AD = DP$ e $CE = PE$. Seja $M$ o ponto médio de $DE$. A reta paralela a $AB$ por $M$ intersecta $AC$ em $X$ e a reta paralela a $BC$ por $M$ intersecta $AC$ em $Y$. As retas $DX$ e $EY$ intersectam-se em $F$. Prove que $FP$ é perpendicular a $DE$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -221,3 +309,18 @@ level: OBM Nível 2
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Perpendicularity result in isosceles triangle with special cevian configuration*
+
+> Let $ABC$ be an isosceles triangle with $AB = BC$. Let $D$ be a point on segment $AB$, $E$ a point on segment $BC$, and $P$ a point on segment $DE$ such that $AD = DP$ and $CE = PE$. Let $M$ be the midpoint of $DE$. The line parallel to $AB$ through $M$ intersects $AC$ at $X$, and the line parallel to $BC$ through $M$ intersects $AC$ at $Y$. The lines $DX$ and $EY$ intersect at $F$. Prove that $FP$ is perpendicular to $DE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)

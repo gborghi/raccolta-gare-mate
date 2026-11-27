@@ -12,12 +12,14 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Alcohol-gasoline mixture equalized by adding pure alcohol*
 
-> Esmeralda's car tank has a capacity of 60 litres and contains a mixture of 20% alcohol and 80% gasoline, half-full. Esmeralda asked to add alcohol to the tank until the mixture became equal quantities of alcohol and gasoline. How many litres of alcohol should be added?
+> O tanque do carro de Esmeralda, com capacidade de 60 litros, contém uma mistura de 20% de álcool e 80% de gasolina ocupando metade de sua capacidade.
+>
+> Esmeralda pediu para colocar álcool no tanque até que a mistura ficasse com quantidades iguais de álcool e gasolina. Quantos litros de álcool devem ser colocados?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,15 +42,31 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Alcohol-gasoline mixture equalized by adding pure alcohol*
+
+> Esmeralda's car tank has a capacity of 60 litres and contains a mixture of 20% alcohol and 80% gasoline, half-full. Esmeralda asked to add alcohol to the tank until the mixture became equal quantities of alcohol and gasoline. How many litres of alcohol should be added?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Arithmetic sequence: find the 2005th term*
 
-> In the sequence of numbers $1, a, 2, b, c, d, \ldots$ the first term is $1$, the second term is $a$, the third term is $2$, the fourth term is $b$, and so on. It is known that this sequence has 2005 terms and that each term, from the third onward, is the arithmetic mean of the two preceding terms. What is the last (2005th) term of this sequence?
+> Na seqüência de números $1, a, 2, b, c, d, \ldots$ dizemos que o primeiro termo é $1$, o segundo termo é $a$, o terceiro termo é $2$, o quarto termo é $b$, e assim por diante.
+>
+> Sabe-se que esta seqüência tem 2005 termos e que cada termo, a partir do terceiro, é a média aritmética de todos os termos anteriores. Qual é o último termo dessa seqüência?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
@@ -71,15 +89,31 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Arithmetic sequence: find the 2005th term*
+
+> In the sequence of numbers $1, a, 2, b, c, d, \ldots$ the first term is $1$, the second term is $a$, the third term is $2$, the fourth term is $b$, and so on. It is known that this sequence has 2005 terms and that each term, from the third onward, is the arithmetic mean of the two preceding terms. What is the last (2005th) term of this sequence?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Natasha crosses out 1 and 3 from diary pages up to 200*
 
-> Natasha is superstitious and, starting from page 1 of her diary of 200 pages, she crossed out all the numbers in which the digits 1 and 3 appear together (in any order). For example, the numbers 31 and 137 do not appear in the diary, but 103 does appear. What is the number that Natasha wrote on the last page of her diary?
+> Natasha é supersticiosa e, ao numerar as 200 páginas de seu diário, começou do 1 mas pulou todos os números nos quais os algarismos 1 e 3 aparecem juntos, em qualquer ordem. Por exemplo, os números 31 e 137 não aparecem no diário, porém 103 aparece.
+>
+> Qual foi o número que Natasha escreveu na última página do seu diário?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -102,20 +136,38 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Natasha crosses out 1 and 3 from diary pages up to 200*
+
+> Natasha is superstitious and, starting from page 1 of her diary of 200 pages, she crossed out all the numbers in which the digits 1 and 3 appear together (in any order). For example, the numbers 31 and 137 do not appear in the diary, but 103 does appear. What is the number that Natasha wrote on the last page of her diary?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count adhesive tape pieces to border a staircase of positive integers up to 105*
 
-> Juliana stuck adhesive tape represented by dark rectangles in the figure below to border the successive positive integers arranged in square grids, side by side, where each row of squares has one more square than the row above it. She wrote up to the number 105 and stopped. How many pieces of adhesive tape did she use?
-> 
-> $$\begin{array}{ccccc} & & 1 & & \\ & 2 & 3 & 4 & \\ 5 & 6 & 7 & 8 & \\ & & \cdots & & \end{array}$$
-> 
-> (The arrangement is a staircase: row $k$ has $k$ squares, and she surrounds groups of rows with adhesive tape strips.)
-
-![[src_obm_2005_n1_f2__Q04.png]]
+> Juliana foi escrevendo os números inteiros positivos em quadrados de papelão, colados lado a lado por fitas adesivas representadas pelos retângulos escuros no desenho abaixo. Note que cada fila de quadrados tem um quadrado a mais que a fila de cima. Ela escreveu até o número 105 e parou. Quantos pedaços de fita adesiva ela usou?
+>
+> $$
+> \begin{array}{cccc}
+>  & & 1 & \\
+>  & 2 & 3 & \\
+> 4 & 5 & 6 & \\
+> 7 & 8 & 9 & 10
+> \end{array}
+> $$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -144,14 +196,39 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count adhesive tape pieces to border a staircase of positive integers up to 105*
+
+> Juliana stuck adhesive tape represented by dark rectangles in the figure below to border the successive positive integers arranged in square grids, side by side, where each row of squares has one more square than the row above it. She wrote up to the number 105 and stopped. How many pieces of adhesive tape did she use?
+> 
+> $$\begin{array}{ccccc} & & 1 & & \\ & 2 & 3 & 4 & \\ 5 & 6 & 7 & 8 & \\ & & \cdots & & \end{array}$$
+> 
+> (The arrangement is a staircase: row $k$ has $k$ squares, and she surrounds groups of rows with adhesive tape strips.)
+
+![[src_obm_2005_n1_f2__Q04.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count ways to paint equal cubes with orange faces, no two identical*
 
-> Lara has equal cubes and wants to paint them in different ways, using the colour orange to paint each of the 6 faces. For two cubes that cannot be confused (i.e., one cannot be rotated to look identical to the other), for example, there is only one way to paint a cube with one orange face. How many differently painted cubes can she obtain?
+> Lara tem cubos iguais e quer pintá-los de maneiras diferentes, utilizando as cores laranja ou azul para colorir cada uma de suas faces.
+>
+> Para que dois cubos não se confundam, não deve ser possível girar um deles de forma que fique idêntico ao outro. Por exemplo, há uma única maneira de pintar o cubo com uma face laranja e cinco azuis.
+>
+> Quantos cubos pintados de modos diferentes ela consegue obter?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -174,17 +251,31 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count ways to paint equal cubes with orange faces, no two identical*
+
+> Lara has equal cubes and wants to paint them in different ways, using the colour orange to paint each of the 6 faces. For two cubes that cannot be confused (i.e., one cannot be rotated to look identical to the other), for example, there is only one way to paint a cube with one orange face. How many differently painted cubes can she obtain?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Volume of open wooden box from rectangular planks*
 
-> A carpenter makes wooden open boxes (open at the top) using two rectangular planks of $600\,\text{cm}^2$ each, two rectangular planks of $1200\,\text{cm}^2$ each, and one rectangular plank of $800\,\text{cm}^2$, as shown in the figure. What is the volume, in litres, of the box? Note that $1\,\text{litre} = 1000\,\text{cm}^3$.
-
-![[src_obm_2005_n1_f2__Q06.png]]
+> Um carpinteiro fabrica caixas de madeira abertas na parte de cima, pregando duas placas retangulares de $600\,\text{cm}^2$ cada uma, duas placas retangulares de $1200\,\text{cm}^2$ cada uma e uma placa retangular de $800\,\text{cm}^2$, conforme representado no desenho.
+>
+> Qual é o volume, em litros, da caixa? Note que $1\,\text{litro} = 1000\,\text{cm}^3$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
@@ -209,17 +300,33 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Volume of open wooden box from rectangular planks*
+
+> A carpenter makes wooden open boxes (open at the top) using two rectangular planks of $600\,\text{cm}^2$ each, two rectangular planks of $1200\,\text{cm}^2$ each, and one rectangular plank of $800\,\text{cm}^2$, as shown in the figure. What is the volume, in litres, of the box? Note that $1\,\text{litre} = 1000\,\text{cm}^3$.
+
+![[src_obm_2005_n1_f2__Q06.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Areas of squares IJKL and MNOP from right-triangle arrangement*
 
-> Four equal pieces, each in the shape of a right triangle, were arranged in two different ways, as shown in the figures. The squares $ABCD$ and $EFGH$ have sides equal to $3\,\text{cm}$ and $9\,\text{cm}$ respectively. Calculate the areas of squares $IJKL$ and $MNOP$.
-
-![[src_obm_2005_n1_f2__Q07.png]]
+> Quatro peças iguais, em forma de triângulo retângulo, foram dispostas de dois modos diferentes, como mostram as figuras.
+>
+> Os quadrados $ABCD$ e $EFGH$ têm lados respectivamente iguais a $3\,\text{cm}$ e $9\,\text{cm}$. Calcule as áreas dos quadrados $IJKL$ e $MNOP$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -244,14 +351,31 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Areas of squares IJKL and MNOP from right-triangle arrangement*
+
+> Four equal pieces, each in the shape of a right triangle, were arranged in two different ways, as shown in the figures. The squares $ABCD$ and $EFGH$ have sides equal to $3\,\text{cm}$ and $9\,\text{cm}$ respectively. Calculate the areas of squares $IJKL$ and $MNOP$.
+
+![[src_obm_2005_n1_f2__Q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Find all 3-digit multiples of 7 where successor is multiple of 11*
 
-> Consider three consecutive positive integers of three digits such that the smallest is a multiple of $7$, the middle one is a multiple of $9$, and the largest is a multiple of $11$. Write all sequences of numbers that satisfy these properties.
+> Considere três números inteiros positivos consecutivos de três algarismos tais que o menor é múltiplo de $7$, o seguinte é múltiplo de $9$ e o maior é múltiplo de $11$. Escreva todas as seqüências de números que satisfazem essas propriedades.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -274,20 +398,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Find all 3-digit multiples of 7 where successor is multiple of 11*
+
+> Consider three consecutive positive integers of three digits such that the smallest is a multiple of $7$, the middle one is a multiple of $9$, and the largest is a multiple of $11$. Write all sequences of numbers that satisfy these properties.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_grafi,method_casework,method_invarianti,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Domino chain alignment and impossibility with 1–4 tiles*
 
-> Each piece of a domino game has two numbered houses. Consider the 6 pieces formed only by the numbers 1, 2 and 3.
-> 
-> (a) In how many ways is it possible to place all these pieces in a row, so that the number on the right house of each piece equals the number on the left house of the piece immediately to its right? Two examples are shown below.
-> 
-> (b) Explain why it is not possible to do the same with all 10 pieces formed only by the numbers 1, 2, 3 and 4.
-
-![[src_obm_2005_n1_f2__Q09.png]]
+> Cada peça de um jogo de dominó possui duas casas numeradas. Considere as 6 peças formadas apenas pelos números 1, 2 e 3.
+>
+> (a) De quantos modos é possível colocar todas estas peças alinhadas em seqüência, de modo que o número da casa da direita de cada peça seja igual ao número da casa da esquerda da peça imediatamente à direita?
+> A seguir, mostramos dois exemplos:
+>
+> (b) Explique por que não é possível fazer o mesmo com todas as 10 peças formadas apenas pelos números 1, 2, 3 e 4.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_conteggio|Combinatorial counting]]
@@ -314,3 +452,23 @@ level: OBM Nível 1
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Domino chain alignment and impossibility with 1–4 tiles*
+
+> Each piece of a domino game has two numbered houses. Consider the 6 pieces formed only by the numbers 1, 2 and 3.
+> 
+> (a) In how many ways is it possible to place all these pieces in a row, so that the number on the right house of each piece equals the number on the left house of the piece immediately to its right? Two examples are shown below.
+> 
+> (b) Explain why it is not possible to do the same with all 10 pieces formed only by the numbers 1, 2, 3 and 4.
+
+![[src_obm_2005_n1_f2__Q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)

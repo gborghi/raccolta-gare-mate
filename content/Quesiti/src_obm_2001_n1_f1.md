@@ -12,14 +12,14 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_lettura_attenta,skill_casework_accurato,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Smallest possible difference between two 3-distinct-digit naturals: larger all-even digits, smaller all-odd digits*
 
-> Consider two natural numbers, each with three different digits. The larger one has only even digits and the smaller one has only odd digits. The smallest possible value for the difference between them is:
-> 
-> (A) $111$ \quad (B) $49$ \quad (C) $29$ \quad (D) $69$ \quad (E) $5$
+> Considere dois números naturais, cada um deles com três algarismos diferentes. O maior deles só tem algarismos pares e o menor só tem algarismos ímpares. O menor valor possível para a diferença entre eles é:
+>
+> A) $111$ \quad B) $49$ \quad C) $29$ \quad D) $69$ \quad E) $5$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -45,18 +45,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Smallest possible difference between two 3-distinct-digit naturals: larger all-even digits, smaller all-odd digits*
+
+> Consider two natural numbers, each with three different digits. The larger one has only even digits and the smaller one has only odd digits. The smallest possible value for the difference between them is:
+> 
+> (A) $111$ \quad (B) $49$ \quad (C) $29$ \quad (D) $69$ \quad (E) $5$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count non-crossing quadrilaterals formed by joining one point from each of four circles containing 1,2,3,4 interior points*
 
-> In the figure below we have $4$ circumferences and some highlighted points in the interior of these circumferences. The circumferences contain in their interior, respectively, $1$, $2$, $3$ and $4$ of these highlighted points, and by joining $4$ of these points in such a way that they do not cross, distinct quadrilaterals are formed. How many distinct quadrilaterals can we draw under these conditions?
-> 
-> (A) $4$ \quad (B) $14$ \quad (C) $60$ \quad (D) $120$ \quad (E) $24$
-
-![[src_obm_2001_n1_f1__Q02.png]]
+> Na figura abaixo, temos $4$ circunferências e alguns pontos destacados no interior dessas circunferências. Escolhendo exatamente um desses pontos dentro de cada uma das circunferências, e unindo-os por segmentos de reta que não se cruzam, formamos um quadrilátero. Quantos quadriláteros diferentes seremos capazes de desenhar nessas condições?
+>
+> A) $4$ \quad B) $14$ \quad C) $60$ \quad D) $120$ \quad E) $24$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -84,17 +100,36 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count non-crossing quadrilaterals formed by joining one point from each of four circles containing 1,2,3,4 interior points*
+
+> In the figure below we have $4$ circumferences and some highlighted points in the interior of these circumferences. The circumferences contain in their interior, respectively, $1$, $2$, $3$ and $4$ of these highlighted points, and by joining $4$ of these points in such a way that they do not cross, distinct quadrilaterals are formed. How many distinct quadrilaterals can we draw under these conditions?
+> 
+> (A) $4$ \quad (B) $14$ \quad (C) $60$ \quad (D) $120$ \quad (E) $24$
+
+![[src_obm_2001_n1_f1__Q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *First three-digit number in the sequence 1, 6, 11, … (step 5)*
 
-> Joana writes the sequence of natural numbers $1, 6, 11, \ldots$, where each number, with the exception of the first, equals the previous one plus five. Joana stops when she finds the first three-digit number of the sequence. That number is:
-> 
-> (A) $100$ \quad (B) $104$ \quad (C) $101$ \quad (D) $103$ \quad (E) $102$
+> Joana escreve a seqüência de números naturais $1, 6, 11, \ldots$, onde cada número, com exceção do primeiro, é igual ao anterior mais cinco. Joana pára quando encontra o primeiro número de três algarismos. Esse número é:
+>
+> A) $100$ \quad B) $104$ \quad C) $101$ \quad D) $103$ \quad E) $102$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -120,17 +155,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*First three-digit number in the sequence 1, 6, 11, … (step 5)*
+
+> Joana writes the sequence of natural numbers $1, 6, 11, \ldots$, where each number, with the exception of the first, equals the previous one plus five. Joana stops when she finds the first three-digit number of the sequence. That number is:
+> 
+> (A) $100$ \quad (B) $104$ \quad (C) $101$ \quad (D) $103$ \quad (E) $102$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count two-digit numbers that are neither prime nor multiples of 2, 3 or 5*
 
-> How many two-digit numbers are neither prime nor multiples of $2$, $3$ or $5$?
-> 
-> (A) $1$ \quad (B) $3$ \quad (C) $2$ \quad (D) $4$ \quad (E) more than $4$
+> Quantos números de dois algarismos não são primos nem múltiplos de $2$, $3$ ou $5$?
+>
+> A) $1$ \quad B) $3$ \quad C) $2$ \quad D) $4$ \quad E) mais de $4$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
@@ -156,17 +208,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count two-digit numbers that are neither prime nor multiples of 2, 3 or 5*
+
+> How many two-digit numbers are neither prime nor multiples of $2$, $3$ or $5$?
+> 
+> (A) $1$ \quad (B) $3$ \quad (C) $2$ \quad (D) $4$ \quad (E) more than $4$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Count composite numbers in {101, 1001, 10001, …, 1000000000001}*
 
-> In the set $\{101,\; 1\,001,\; 10\,001,\; \ldots,\; 1\,000\,000\,000\,001\}$ each element is a number formed by the digit $1$ at its extremities and by digits $0$ between them. Some of these elements are prime numbers and others are composite. Regarding the quantity of composite numbers we can affirm that:
-> 
-> (A) it is equal to $11$ \quad (B) it is equal to $4$ \quad (C) it is less than $3$ \quad (D) it is greater than $4$ and less than $11$ \quad (E) it is $3$
+> No conjunto $\{101,\; 1\,001,\; 10\,001,\; \ldots,\; 1\,000\,000\,000\,001\}$ cada elemento é um número formado pelo algarismo $1$ nas extremidades e por algarismos $0$ entre eles. Alguns desses elementos são números primos e outros são compostos. Sobre a quantidade de números compostos podemos afirmar que:
+>
+> (A) é igual 11 \\quad (B) é igual a $4$ \\quad (C) é menor do que $3$ \\quad (D) é maior do que $4$ e menor do que $11$ \\quad (E) é $3$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -192,16 +261,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Count composite numbers in {101, 1001, 10001, …, 1000000000001}*
+
+> In the set $\{101,\; 1\,001,\; 10\,001,\; \ldots,\; 1\,000\,000\,000\,001\}$ each element is a number formed by the digit $1$ at its extremities and by digits $0$ between them. Some of these elements are prime numbers and others are composite. Regarding the quantity of composite numbers we can affirm that:
+> 
+> (A) it is equal to $11$ \quad (B) it is equal to $4$ \quad (C) it is less than $3$ \quad (D) it is greater than $4$ and less than $11$ \quad (E) it is $3$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_backward,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Litres of water evaporated dehydrating 100 kg of pears from 90% to 60% water*
 
-> A pear is about $90\%$ water and $10\%$ solid matter. A producer places $100$ kilograms of pears to dehydrate up to the point at which the water represents $60\%$ of the total mass. How many litres of water will be evaporated? (remember: $1$ litre of water has a mass of $1$ kilogram).
-> 
-> (A) $15$ litres \quad (B) $45$ litres \quad (C) $75$ litres \quad (D) $80$ litres \quad (E) $30$ litres
+> Uma pera tem cerca de $90\%$ de água e $10\%$ de matéria sólida. Um produtor coloca $100$ quilogramas de pera para desidratar até o ponto em que a água represente $60\%$ da massa total. Quantos litros de água serão evaporados? (lembre-se: $1$ litro de água tem massa de $1$ quilograma).
+>
+> (A) $15$ litros \\quad (B) $45$ litros \\quad (C) $75$ litros \\quad (D) $80$ litros \\quad (E) $30$ litros
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -227,18 +314,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Litres of water evaporated dehydrating 100 kg of pears from 90% to 60% water*
+
+> A pear is about $90\%$ water and $10\%$ solid matter. A producer places $100$ kilograms of pears to dehydrate up to the point at which the water represents $60\%$ of the total mass. How many litres of water will be evaporated? (remember: $1$ litre of water has a mass of $1$ kilogram).
+> 
+> (A) $15$ litres \quad (B) $45$ litres \quad (C) $75$ litres \quad (D) $80$ litres \quad (E) $30$ litres
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Side length of equilateral triangle formed by 49 unit equilateral triangles*
 
-> The equilateral triangle $T$ on the right has side $1$. By joining triangles congruent to it, we can form other larger equilateral triangles, as indicated in the drawing below. What is the side of the equilateral triangle formed by $49$ triangles $T$?
-> 
-> (A) $7$ \quad (B) $49$ \quad (C) $13$ \quad (D) $21$ \quad (E) It is impossible to form an equilateral triangle with this number of triangles $T$
-
-![[src_obm_2001_n1_f1__Q07.png]]
+> O triângulo equilátero $T$ à direita tem lado $1$. Juntando triângulos congruentes a esse, podemos formar outros triângulos equiláteros maiores, conforme indicado no desenho abaixo. Qual é o lado do triângulo equilátero formado por $49$ dos triângulos $T$?
+>
+> (A) $7$ \\quad (B) $49$ \\quad (C) $13$ \\quad (D) $21$ \\quad (E) é impossível formar um triângulo equilátero com esse número de triângulos $T$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
@@ -266,17 +369,36 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Side length of equilateral triangle formed by 49 unit equilateral triangles*
+
+> The equilateral triangle $T$ on the right has side $1$. By joining triangles congruent to it, we can form other larger equilateral triangles, as indicated in the drawing below. What is the side of the equilateral triangle formed by $49$ triangles $T$?
+> 
+> (A) $7$ \quad (B) $49$ \quad (C) $13$ \quad (D) $21$ \quad (E) It is impossible to form an equilateral triangle with this number of triangles $T$
+
+![[src_obm_2001_n1_f1__Q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Occurrences of the group '89' in the string of integers 1..1000 written consecutively*
 
-> The positive integers from $1$ to $1000$ are written side by side, in increasing order, forming the sequence $123456789101112131415\ldots9990000$. In this sequence, how many times does the group "$89$" appear?
-> 
-> (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
+> Os números inteiros positivos de $1$ a $1000$ são escritos lado a lado, em ordem crescente, formando a seqüência $123456789101112131415\ldots9991000$. Nesta seqüência, quantas vezes aparece o grupo “$89$”?
+>
+> (A) $98$ \\quad (B) $32$ \\quad (C) $22$ \\quad (D) $89$ \\quad (E) $21$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -302,19 +424,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Occurrences of the group '89' in the string of integers 1..1000 written consecutively*
+
+> The positive integers from $1$ to $1000$ are written side by side, in increasing order, forming the sequence $123456789101112131415\ldots9990000$. In this sequence, how many times does the group "$89$" appear?
+> 
+> (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_estremalita,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum minutes for a locksmith to form a 30-link chain from ten 3-link pieces*
 
-> A locksmith has $10$ pieces of $3$ links of chain each, shown below. He wants to make a single chain of $30$ links. To open and then weld a link, the locksmith takes $5$ minutes. How many minutes at minimum will he take to make this chain?
-> 
-> (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
-
-![[src_obm_2001_n1_f1__Q09.png]]
+> Um serralheiro tem $10$ pedaços de $3$ elos de ferro cada um, mostrados abaixo. Ele quer fazer uma única corrente de $30$ elos. Para abrir e depois soldar um elo o serralheiro leva $5$ minutos. Quantos minutos no mínimo ele levará para fazer a corrente?
+>
+> A) $30$ 	B) $35$ 	C) $40$ 	D) $45$ 	E) $50$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -342,19 +479,42 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum minutes for a locksmith to form a 30-link chain from ten 3-link pieces*
+
+> A locksmith has $10$ pieces of $3$ links of chain each, shown below. He wants to make a single chain of $30$ links. To open and then weld a link, the locksmith takes $5$ minutes. How many minutes at minimum will he take to make this chain?
+> 
+> (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
+
+![[src_obm_2001_n1_f1__Q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Identify the correct figure showing the positions of 2001 and 2000 in a two-row decorative number strip*
 
-> The natural numbers are written on a decorative strip in the following manner: the top row reads $1, 3, 5, 7, \ldots$ and the bottom row reads $2, 4, 6, 8, \ldots$. Mark the correct figure (showing, with a bracket, the relative positions of $2001$ and $2000$).
-> 
-> (A), (B), (C), (D), (E) — see the figures in the original (each shows the numbers $2001$ and $2000$ with a bracket).
-
-![[src_obm_2001_n1_f1__Q10.png]]
+> Escrevem-se os números naturais numa faixa decorativa, da seguinte maneira:
+>
+> 1 3 5 7
+>
+> 2 4 6 8
+>
+> Assinale a figura correta:
+>
+> A) B) C) D) E)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -382,16 +542,36 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Identify the correct figure showing the positions of 2001 and 2000 in a two-row decorative number strip*
+
+> The natural numbers are written on a decorative strip in the following manner: the top row reads $1, 3, 5, 7, \ldots$ and the bottom row reads $2, 4, 6, 8, \ldots$. Mark the correct figure (showing, with a bracket, the relative positions of $2001$ and $2000$).
+> 
+> (A), (B), (C), (D), (E) — see the figures in the original (each shows the numbers $2001$ and $2000$ with a bracket).
+
+![[src_obm_2001_n1_f1__Q10.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Express the price of a dozen oranges plus a dozen bananas in watermelons*
 
-> $2$ watermelons cost the same as $9$ oranges plus $6$ bananas; furthermore, half a dozen bananas costs half of a watermelon. Therefore, the price paid for one dozen oranges and one dozen bananas is equal to the price of:
-> 
-> (A) $3$ watermelons \quad (B) $4$ watermelons \quad (C) $6$ watermelons \quad (D) $5$ watermelons \quad (E) $2$ watermelons
+> $2$ melancias custam o mesmo que $9$ laranjas mais $6$ bananas; além disso, meia dúzia de bananas custa a metade de uma melancia. Portanto, o preço pago por uma dúzia de laranjas e uma dúzia de bananas é igual ao preço de:
+>
+> A) $3$ melancias 	B) $4$ melancias 	C) $6$ melancias 	D) $5$ melancias 	E) $2$ melancias
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
@@ -415,16 +595,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Express the price of a dozen oranges plus a dozen bananas in watermelons*
+
+> $2$ watermelons cost the same as $9$ oranges plus $6$ bananas; furthermore, half a dozen bananas costs half of a watermelon. Therefore, the price paid for one dozen oranges and one dozen bananas is equal to the price of:
+> 
+> (A) $3$ watermelons \quad (B) $4$ watermelons \quad (C) $6$ watermelons \quad (D) $5$ watermelons \quad (E) $2$ watermelons
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Last digit of the sum of 70 consecutive positive integers*
 
-> What is the last digit of the sum of $70$ consecutive positive integers?
-> 
-> (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Data is missing
+> Qual é o último algarismo da soma de $70$ números inteiros positivos consecutivos?
+>
+> A) $4$ 	B) $0$ 	C) $7$ 	D) $5$ 	E) Faltam dados
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -450,17 +647,34 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Last digit of the sum of 70 consecutive positive integers*
+
+> What is the last digit of the sum of $70$ consecutive positive integers?
+> 
+> (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Data is missing
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Weight of a 50-cent coin given mass-for-money equivalence with 20-cent coins*
 
-> In Tumbolia, one kilogram of $50$-cent coins is equivalent in money to two kilograms of $20$-cent coins. Thus, one $50$-cent coin will weigh:
-> 
-> (A) $15$ grams \quad (B) $10$ grams \quad (C) $12$ grams \quad (D) $20$ grams \quad (E) $22$ grams
+> Em Tumbólia, um quilograma de moedas de $50$ centavos equivale em dinheiro a dois quilogramas de moedas de $20$ centavos. Sendo $8$ gramas o peso de uma moeda de $20$ centavos, uma moeda de $50$ centavos pesará:
+>
+> (A) $15$ gramas \quad (B) $10$ gramas \quad (C) $12$ gramas \quad (D) $20$ gramas \quad (E) $22$ gramas
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -484,15 +698,32 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Weight of a 50-cent coin given mass-for-money equivalence with 20-cent coins*
+
+> In Tumbolia, one kilogram of $50$-cent coins is equivalent in money to two kilograms of $20$-cent coins. Thus, one $50$-cent coin will weigh:
+> 
+> (A) $15$ grams \quad (B) $10$ grams \quad (C) $12$ grams \quad (D) $20$ grams \quad (E) $22$ grams
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Risposta:** B
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Common numerical value of perimeter and area of a rectangle with distinct integer sides*
 
-> The measures of the sides of a rectangle are distinct integer numbers. The perimeter and the area of the rectangle are expressed by the same number. Determine these numbers.
-> 
+> As medidas dos lados de um retângulo são números inteiros distintos. O perímetro e a área do retângulo se exprimem pelo mesmo número. Determine esse número.
+>
 > (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
@@ -519,16 +750,33 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Common numerical value of perimeter and area of a rectangle with distinct integer sides*
+
+> The measures of the sides of a rectangle are distinct integer numbers. The perimeter and the area of the rectangle are expressed by the same number. Determine these numbers.
+> 
+> (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of digits of a three-digit N such that 7N ends in 171*
 
-> The number $N$ of three digits multiplied by $7$ gives as a result a number that ends in $171$. The sum of the digits of $N$ is:
-> 
+> O número $N$ de três algarismos multiplicado por $7$ deu como resultado um número que termina em $171$. A soma dos algarismos de $N$ é:
+>
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -555,16 +803,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of digits of a three-digit N such that 7N ends in 171*
+
+> The number $N$ of three digits multiplied by $7$ gives as a result a number that ends in $171$. The sum of the digits of $N$ is:
+> 
+> (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_logica,method_cassetti,skill_casework_accurato,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Pigeonhole conclusion for 32 occupied squares on a 6-row by 9-column board*
 
-> On a rectangular board with $6$ rows and $9$ columns, $32$ squares are occupied. We can affirm that:
-> 
-> (A) All columns have at least $3$ occupied squares. \quad (B) No column has more than $3$ occupied squares. \quad (C) Some column has no occupied squares. \quad (D) Some row has at least $6$ occupied squares. \quad (E) All rows have at least $4$ occupied squares.
+> Em um tabuleiro retangular com $6$ linhas e $9$ colunas, $32$ casas estão ocupadas. Podemos afirmar que:
+>
+> (A) Todas as colunas têm pelo menos $3$ casas ocupadas. \quad (B) Nenhuma coluna tem mais de $3$ casas ocupadas. \quad (C) Alguma coluna não tem casas ocupadas. \quad (D) Alguma linha tem pelo menos $6$ casas ocupadas. \quad (E) Todas as linhas têm pelo menos $4$ casas ocupadas.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
@@ -590,16 +856,33 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Pigeonhole conclusion for 32 occupied squares on a 6-row by 9-column board*
+
+> On a rectangular board with $6$ rows and $9$ columns, $32$ squares are occupied. We can affirm that:
+> 
+> (A) All columns have at least $3$ occupied squares. \quad (B) No column has more than $3$ occupied squares. \quad (C) Some column has no occupied squares. \quad (D) Some row has at least $6$ occupied squares. \quad (E) All rows have at least $4$ occupied squares.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of boys in a class given remainders mod 4 and mod 5, with 15 girls and girls outnumbering boys*
 
-> Counting the students of a class $4$ at a time leaves $2$ over, and counting $5$ at a time leaves $1$ over. Knowing that $15$ students are girls and that in this class the number of girls is greater than the number of boys, the number of boys in this class is:
-> 
+> Contando-se os alunos de uma classe de $4$ em $4$ sobram $2$, e contando-se de $5$ em $5$ sobra $1$. Sabendo-se que $15$ alunos são meninas e que nesta classe o número de meninas é maior que o número de meninos, o número de meninos nesta classe é:
+>
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
@@ -626,16 +909,33 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of boys in a class given remainders mod 4 and mod 5, with 15 girls and girls outnumbering boys*
+
+> Counting the students of a class $4$ at a time leaves $2$ over, and counting $5$ at a time leaves $1$ over. Knowing that $15$ students are girls and that in this class the number of girls is greater than the number of boys, the number of boys in this class is:
+> 
+> (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Risposta:** E
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Sum of all numbers from 1 to 999 in which the digit 1 appears exactly twice*
 
-> All the numbers from $1$ to $999$ in which the digit $1$ appears exactly $2$ times (such as $11$, $121$, $411$, etc.) are written. The sum of all these numbers is:
-> 
+> São escritos todos os números de $1$ a $999$ nos quais o algarismo $1$ aparece exatamente $2$ vezes (tais como, $11$, $121$, $411$, etc). A soma de todos estes números é:
+>
 > (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -662,15 +962,33 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Sum of all numbers from 1 to 999 in which the digit 1 appears exactly twice*
+
+> All the numbers from $1$ to $999$ in which the digit $1$ appears exactly $2$ times (such as $11$, $121$, $411$, etc.) are written. The sum of all these numbers is:
+> 
+> (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Number of wolves among five animals A–E that are dogs (truth) or wolves (liars), given their statements*
 
-> Five animals $A$, $B$, $C$, $D$ and $E$ are dogs or are wolves. Dogs always tell the truth and wolves always lie. $A$ says that $B$ is a dog. $B$ says that $C$ is a wolf. $C$ says that $D$ is a dog. $D$ says that $B$ and $E$ are animals of different species. $E$ says that $A$ is a dog. How many wolves are there among the five animals?
-> 
+> Cinco animais $A$, $B$, $C$, $D$, e $E$, são cães ou são lobos. Cães sempre contam a verdade e lobos sempre mentem. $A$ diz que $B$ é um cão. $B$ diz que $C$ é um lobo. $C$ diz que $D$ é um lobo. $D$ diz que $B$ e $E$ são animais de espécies diferentes. $E$ diz que $A$ é um cão. Quantos lobos há entre os cinco animais?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Topic:** [[topic_logica|Logica]]
@@ -697,18 +1015,34 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of wolves among five animals A–E that are dogs (truth) or wolves (liars), given their statements*
+
+> Five animals $A$, $B$, $C$, $D$ and $E$ are dogs or are wolves. Dogs always tell the truth and wolves always lie. $A$ says that $B$ is a dog. $B$ says that $C$ is a wolf. $C$ says that $D$ is a dog. $D$ says that $B$ and $E$ are animals of different species. $E$ says that $A$ is a dog. How many wolves are there among the five animals?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_geometria_piana,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *White tiles needed for a square-mosaic sequence using 80 black surrounding tiles*
 
-> With white and black square tiles all of the same size, we construct the following mosaics. The rule for constructing these mosaics is the following: initially we form a square with $1$ white tile surrounded by black tiles; then, another square, this one with $4$ white tiles, also surrounded by black tiles; and so on successively. With $80$ black tiles, how many white tiles will be needed to make a sequence of mosaics like this?
-> 
+> Com azulejos quadrados brancos e pretos todos do mesmo tamanho, construímos os seguintes mosaicos. A regra para se construir estes mosaicos é a seguinte: inicialmente formamos um quadrado com $1$ azulejo branco cercado por azulejos pretos; e em seguida, outro quadrado, este com $4$ azulejos brancos, também cercado por azulejos pretos; e assim sucessivamente. Com $80$ azulejos pretos, quantos azulejos brancos serão necessários para se fazer uma seqüência de mosaicos como esta?
+>
 > (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
-
-![[src_obm_2001_n1_f1__Q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -734,3 +1068,22 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*White tiles needed for a square-mosaic sequence using 80 black surrounding tiles*
+
+> With white and black square tiles all of the same size, we construct the following mosaics. The rule for constructing these mosaics is the following: initially we form a square with $1$ white tile surrounded by black tiles; then, another square, this one with $4$ white tiles, also surrounded by black tiles; and so on successively. With $80$ black tiles, how many white tiles will be needed to make a sequence of mosaics like this?
+> 
+> (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
+
+![[src_obm_2001_n1_f1__Q20.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** A
+**Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)

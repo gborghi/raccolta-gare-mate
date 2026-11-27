@@ -430,9 +430,7 @@ level: PRMO
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Triangolo rettangolo in A: altezza e bisettrice di lunghezze 3 e 4. Lunghezza della mediana per A*
-
+*Triangolo rettangolo in A: altezza e bisettrice uscenti da A di lunghezze 3 e 4. Lunghezza della mediana uscente da A.*
 > Nel triangolo $ABC$, rettangolo in $A$, l'altezza per $A$ e la bisettrice interna di $\angle A$ misurano rispettivamente 3 e 4. Trovare la lunghezza della mediana per $A$.
 
 

@@ -65,9 +65,7 @@ level: China Southeastern Mathematical Olympiad
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Un semicerchio con i punti C, D, tangente in B, interseca CD in P; la retta PO interseca CA e AD; dimostrare che OE = OF*
-
+*Semicirconferenza con punti C, D e tangente in B che interseca CD in P; la retta PO interseca CA e AD; dimostrare che OE=OF.*
 > Come mostrato nella figura, i punti $C$ e $D$ giacciono sul semicerchio avente centro in $O$ e diametro $AB$. La retta tangente al semicerchio nel punto $B$ incontra la retta $CD$ nel punto $P$. La retta $PO$ interseca $CA$ e $AD$ rispettivamente nei punti $E$ e $F$. Dimostrare $OE = OF$.
 
 > [!warning] Estratto da verificare con la fonte.

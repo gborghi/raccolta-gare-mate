@@ -12,16 +12,12 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Six-number sequence with equal consecutive-triple sums; find product of two blanked numbers*
 
-> Raquel was completing a puzzle that consisted of writing six numbers in a row, one per box, such that the sum of any three consecutive numbers was always the same. After she completed the sequence by writing the six numbers, she spilled ink on the magazine, blotting out four numbers, as shown in the figure. She remembers that one of the two numbers she had written (i.e., one of the two visible numbers) was a seven. What is the product of the two numbers she wrote?
-> 
-> (The figure shows the six boxes with only the first box containing $1$ and the last box containing $5$ visible; the four middle boxes are blotted out. One of the two non-blotted values written by Raquel was $7$.)
-
-![[src_obm_2013_n1_f2__Q01.png]]
+> Raquel estava completando um quebra-cabeças que consistia em escrever seis números em sequência, um por quadradinho, de modo que a soma de três números consecutivos fosse sempre a mesma. Depois que ela completou a sequência, escrevendo os seis números, derrubou tinta sobre a revista, borrando quatro números, conforme mostra a figura. Ela se lembra de que um dos números borrados era o sete. Qual é o produto dos seis números que ela escreveu?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -49,15 +45,34 @@ level: OBM Nível 1
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Six-number sequence with equal consecutive-triple sums; find product of two blanked numbers*
+
+> Raquel was completing a puzzle that consisted of writing six numbers in a row, one per box, such that the sum of any three consecutive numbers was always the same. After she completed the sequence by writing the six numbers, she spilled ink on the magazine, blotting out four numbers, as shown in the figure. She remembers that one of the two numbers she had written (i.e., one of the two visible numbers) was a seven. What is the product of the two numbers she wrote?
+> 
+> (The figure shows the six boxes with only the first box containing $1$ and the last box containing $5$ visible; the four middle boxes are blotted out. One of the two non-blotted values written by Raquel was $7$.)
+
+![[src_obm_2013_n1_f2__Q01.png]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Risposta:** 35
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Minimum a+b so that 28a³b and 7a⁴b³ are both perfect squares*
 
-> A natural number is called a perfect square when it is the square of another natural number. For example, $1$ and $25$ are perfect squares, since $1 = 1^2$ and $25 = 5^2$. What is the minimum value of $a + b$, with $a$ and $b$ nonzero natural numbers, so that the numbers $28a^3b$ and $7a^4b^3$ are both perfect squares?
+> Um número natural é chamado quadrado perfeito quando ele é o quadrado de outro número natural. Por exemplo, $1$ e $25$ são quadrados perfeitos pois $1 = 1^{2}$ e $25 = 5^{2}$. Qual é o menor valor de $a + b$, com $a$ e $b$ números naturais não nulos, para que os números $28a^{3}b$ e $7ab^{5}$ sejam ambos quadrados perfeitos?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -80,14 +95,29 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum a+b so that 28a³b and 7a⁴b³ are both perfect squares*
+
+> A natural number is called a perfect square when it is the square of another natural number. For example, $1$ and $25$ are perfect squares, since $1 = 1^2$ and $25 = 5^2$. What is the minimum value of $a + b$, with $a$ and $b$ nonzero natural numbers, so that the numbers $28a^3b$ and $7a^4b^3$ are both perfect squares?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Join twelve 3×4 plastic rectangles side-to-side to maximize perimeter*
 
-> Jurema has 12 plastic rectangular pieces, each measuring $3\,\text{cm} \times 4\,\text{cm}$. She joins these pieces with sides coinciding to form larger rectangles, one at a time. Among all rectangles she can form using all 12 pieces, the one with the largest perimeter is chosen. What is this perimeter, in centimetres?
+> Jurema tem $12$ peças retangulares de plástico de $3\,\text{cm}$ por $4\,\text{cm}$. Ela junta essas peças fazendo coincidir seus lados iguais e monta retângulos maiores, um de cada vez. Um desses retângulos tem o maior perímetro possível. Qual é esse perímetro, em centímetros?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -110,18 +140,29 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Join twelve 3×4 plastic rectangles side-to-side to maximize perimeter*
+
+> Jurema has 12 plastic rectangular pieces, each measuring $3\,\text{cm} \times 4\,\text{cm}$. She joins these pieces with sides coinciding to form larger rectangles, one at a time. Among all rectangles she can form using all 12 pieces, the one with the largest perimeter is chosen. What is this perimeter, in centimetres?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Use digits 0–7 once each per side in a column addition; maximize sum*
 
-> Paulo wants to use each of the digits $0, 1, 2, 3, 4, 5, 6, 7$ exactly once on each side of a column addition (a three-digit number plus a three-digit number), so that the addition is correct. What is the largest result he can obtain in this sum?
-> 
-> (The figure shows a vertical addition of two three-digit numbers whose sum is a three-digit or four-digit number, with each digit $0$–$7$ used exactly once across the two addends.)
-
-![[src_obm_2013_n1_f2__Q04.png]]
+> Paulo quer usar uma única vez os algarismos $0$, $1$, $2$, $3$, $5$, $6$ e $7$, um para cada um dos quadradinhos ao lado, de modo que a conta esteja correta. Qual é o maior resultado que ele pode obter nessa conta?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -148,15 +189,33 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Use digits 0–7 once each per side in a column addition; maximize sum*
+
+> Paulo wants to use each of the digits $0, 1, 2, 3, 4, 5, 6, 7$ exactly once on each side of a column addition (a three-digit number plus a three-digit number), so that the addition is correct. What is the largest result he can obtain in this sum?
+> 
+> (The figure shows a vertical addition of two three-digit numbers whose sum is a three-digit or four-digit number, with each digit $0$–$7$ used exactly once across the two addends.)
+
+![[src_obm_2013_n1_f2__Q04.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *100 correct out of 128 questions; find minimum N consecutive correct*
 
-> In a multiple-choice test, Julia answered $100$ out of $128$ possible questions correctly. She verified that the largest number of consecutive questions she answered correctly is $N$. What is the minimum possible value of $N$?
+> Em uma prova de múltipla escolha, Júlia acertou $100$ das $128$ questões possíveis. Ela verificou que a maior quantidade de questões consecutivas que ela acertou é $N$. Qual é o valor mínimo para $N$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
@@ -179,14 +238,29 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*100 correct out of 128 questions; find minimum N consecutive correct*
+
+> In a multiple-choice test, Julia answered $100$ out of $128$ possible questions correctly. She verified that the largest number of consecutive questions she answered correctly is $N$. What is the minimum possible value of $N$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Erase integers 1–1000 two by two starting from second; count students*
 
-> Teacher Maria wrote on the blackboard all integers from $1$ to $1000$. She called a student and asked him to erase numbers starting from the second one, erasing every other number (i.e., erasing the 2nd, 4th, 6th, $\ldots$). Then she asked the next student to do the same with the remaining numbers (starting from the second remaining number, erasing every other one), and so on. How many students went to the blackboard?
+> A professora Maria escreveu no quadro-negro todos os números inteiros de $1$ a $1000$. Chamou um aluno e pediu que ele apagasse os números, a partir do segundo, de dois em dois. Assim, o primeiro aluno apagou o $2$, depois o $4$, o $6$ etc. Em seguida, ela pediu que o próximo aluno fizesse o mesmo, e depois chamou outro para fazer o mesmo, até sobrar um número no quadro-negro. Quantos alunos foram até o quadro negro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -209,23 +283,35 @@ level: OBM Nível 1
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Erase integers 1–1000 two by two starting from second; count students*
+
+> Teacher Maria wrote on the blackboard all integers from $1$ to $1000$. She called a student and asked him to erase numbers starting from the second one, erasing every other number (i.e., erasing the 2nd, 4th, 6th, $\ldots$). Then she asked the next student to do the same with the remaining numbers (starting from the second remaining number, erasing every other one), and so on. How many students went to the blackboard?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Table with X=product and Y=quotient; find row 10 and sum in row 2013*
 
-> In the table to the side, starting from the second row, the number written in column $X$ is equal to the product of the numbers in column $Y$ of the previous row and the number written in column $X$ of the previous row, and the number written in column $Y$ is equal to the quotient of the number written in column $X$ of the previous row divided by the number written in column $Y$ of the previous row.
-> 
-> The first four rows of the table are:
-> $$\begin{array}{c|c|c}\text{Row} & X & Y \\ \hline 1 & 2 & 1 \\ 2 & 2 & 2 \\ 3 & 4 & 1 \\ 4 & 4 & 4 \\ \vdots & \vdots & \vdots \end{array}$$
-> 
-> a) What are the two numbers that appear in row $10$? You may express your answer using powers.
-> 
-> b) What is the sum of the numbers that appear in row $2013$? You may express your answer using powers.
-
-![[src_obm_2013_n1_f2__Q07.png]]
+> Na tabela ao lado, a partir da segunda linha, o número escrito na coluna $X$ é igual ao produto dos números da linha anterior e o número escrito na coluna $Y$ é igual ao quociente do número escrito na coluna $X$ da linha anterior pelo número da coluna $Y$ da linha anterior.
+>
+> $$\begin{array}{c|c|c} & X & Y \\ \hline 1ª & 2 & 1 \\ 2ª & 2 & 2 \\ 3ª & 4 & 1 \\ 4ª & 4 & 4 \\ \cdots & \cdots & \cdots \end{array}$$
+>
+> a) Quais são os dois números que aparecem na décima linha? Você pode apresentar a sua resposta usando potências.
+>
+> b) Qual é a soma dos números que aparecem na linha $2013$? Você pode apresentar a sua resposta usando potências.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -257,17 +343,38 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Table with X=product and Y=quotient; find row 10 and sum in row 2013*
+
+> In the table to the side, starting from the second row, the number written in column $X$ is equal to the product of the numbers in column $Y$ of the previous row and the number written in column $X$ of the previous row, and the number written in column $Y$ is equal to the quotient of the number written in column $X$ of the previous row divided by the number written in column $Y$ of the previous row.
+> 
+> The first four rows of the table are:
+> $$\begin{array}{c|c|c}\text{Row} & X & Y \\ \hline 1 & 2 & 1 \\ 2 & 2 & 2 \\ 3 & 4 & 1 \\ 4 & 4 & 4 \\ \vdots & \vdots & \vdots \end{array}$$
+> 
+> a) What are the two numbers that appear in row $10$? You may express your answer using powers.
+> 
+> b) What is the sum of the numbers that appear in row $2013$? You may express your answer using powers.
+
+![[src_obm_2013_n1_f2__Q07.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Goldsmith cuts vertex cubes from 10cm cube; cost of gold-foil surface*
 
-> The goldsmith Carlos has a wooden cube with edges of $10\,\text{cm}$. He cuts cubes of edge $2\,\text{cm}$ from each vertex of the large cube and glues a thin gold foil over the entire surface of the resulting solid, at a price of $8$ reais per square centimetre. Without waste, what is the cost in reais of this covering?
-
-![[src_obm_2013_n1_f2__Q08.png]]
+> O ourives Carlos tem um cubo de madeira de arestas de $10$ centímetros. Ele retira cubos de $2$ centímetros de aresta de cada vértice do cubo e cola sobre toda a superfície do sólido resultante uma folha fina de ouro ao preço de $8$ reais por centímetro quadrado. Sem desperdícios, qual é o custo em reais dessa cobertura?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
@@ -292,21 +399,33 @@ level: OBM Nível 1
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Goldsmith cuts vertex cubes from 10cm cube; cost of gold-foil surface*
+
+> The goldsmith Carlos has a wooden cube with edges of $10\,\text{cm}$. He cuts cubes of edge $2\,\text{cm}$ from each vertex of the large cube and glues a thin gold foil over the entire surface of the resulting solid, at a price of $8$ reais per square centimetre. Without waste, what is the cost in reais of this covering?
+
+![[src_obm_2013_n1_f2__Q08.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="pt"></div>
 
 
 *Trapezoid diagonals: area ABC = area ADE; then find area of AGDH*
 
-> We have a trapezoid and its diagonals as shown below.
-> 
-> a) Show that the area of triangle $ABC$ equals the area of triangle $ADE$.
-> 
-> b) In the figure that follows, $BCFE$ is a rectangle, triangle $ABC$ has area $5\,\text{cm}^2$ and triangle $DEF$ has area $4\,\text{cm}^2$. Calculate the area of quadrilateral $AGDH$.
-
-![[src_obm_2013_n1_f2__Q09.png]]
+> a) Temos abaixo um trapézio e suas diagonais. Mostre que a área do triângulo $ABC$ é igual à área do triângulo $ADE$.
+>
+> b) Na figura a seguir, $BCFE$ é um retângulo, o triângulo $ABC$ tem área $5\,\text{cm}^2$ e o triângulo $DEF$ tem área $4\,\text{cm}^2$. Calcule a área do quadrilátero $AGDH$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -332,3 +451,24 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
+
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trapezoid diagonals: area ABC = area ADE; then find area of AGDH*
+
+> We have a trapezoid and its diagonals as shown below.
+> 
+> a) Show that the area of triangle $ABC$ equals the area of triangle $ADE$.
+> 
+> b) In the figure that follows, $BCFE$ is a rectangle, triangle $ABC$ has area $5\,\text{cm}^2$ and triangle $DEF$ has area $4\,\text{cm}^2$. Calculate the area of quadrilateral $AGDH$.
+
+![[src_obm_2013_n1_f2__Q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)

@@ -318,9 +318,7 @@ level: JMO Yosen
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Coppie di interi per cui due espressioni sono multiple di due interi dati*
-
+*Quante coppie di interi (a,b) con 1≤a,b≤2015 soddisfano le condizioni di divisibilità a multiplo di b+1 e 2016−a multiplo di b.*
 > Quante coppie di interi $(a, b)$ con $1 \le a, b \le 2015$ sono tali che $a$ è un multiplo di $b + 1$ e $2016 - a$ è un multiplo di $b$?
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]

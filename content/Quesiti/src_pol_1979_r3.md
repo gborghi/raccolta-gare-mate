@@ -89,9 +89,7 @@ level: Olimpiade Polacca Round 3
 
 <div class="qlang-split" data-lang="it"></div>
 
-
-*Probabilità di esattamente k successi in n prove indipendenti*
-
+*Probabilità di ottenere esattamente k successi in n prove indipendenti; dimostrare che la somma k p_k è uguale alla somma delle p_i.*
 > Un esperimento consiste nel condurre $n$ prove indipendenti. La $i$-esima prova ha successo con probabilità pari a $p_i$. Sia $p_k$ la probabilità che esattamente $k$ prove abbiano successo. Dimostrare che
 > $$\sum_{k=0}^{n} k p_k = \sum_{i=1}^{n} p_i.$$
 
