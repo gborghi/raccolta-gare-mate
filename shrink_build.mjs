@@ -6,6 +6,7 @@
 //    tiny redirect stub, so a stray click/breadcrumb to /Quesiti/ no longer ships
 //    a 15MB document to the phone.
 import { promises as fs } from "node:fs"
+import { spawnSync } from "node:child_process"
 
 const PUB = "public"
 const SNIPPET = 150
@@ -107,15 +108,39 @@ async function writeMobileIndex() {
   console.log(`contentIndexMobile.json: ${(out.length / 1e6).toFixed(1)}MB (${Object.keys(mobile).length} entries)`)
 }
 
-await shrinkIndex()
-await writeMobileIndex()
+// Search chain, same order as the multi-tier index design. inject must see the
+// full page text (every language block) BEFORE any snippet truncate. compress
+// writes the TF-IDF master; mobile + shards project it. Do not run shrinkIndex()
+// on contentIndex — that 150-char cut dropped translation words and aggregator
+// body text before TF-IDF. Keep fixIndexLinkCase so the graph still resolves
+// case-sensitive folder slugs.
+async function fixLinksOnly() {
+  const p = `${PUB}/static/contentIndex.json`
+  try {
+    const idx = JSON.parse(await fs.readFile(p, "utf8"))
+    fixIndexLinkCase(idx)
+    await fs.writeFile(p, JSON.stringify(idx))
+  } catch (e) {
+    console.log("contentIndex links: skip -", e.message)
+  }
+}
+
+function runNode(script) {
+  const r = spawnSync(process.execPath, [script], { stdio: "inherit", env: process.env })
+  if (r.status) throw new Error(`${script} exited ${r.status}`)
+}
+
+await fixLinksOnly()
+runNode("scripts/inject-quesito-search.mjs")
+runNode("scripts/compress-search-index.mjs")
+runNode("scripts/make-mobile-index.mjs")
+runNode("scripts/build-search-shards.mjs")
 // from /Quesiti/index.html, "../cerca/" is the faceted search page
 await stubFolderPage("Quesiti/index.html", "../cerca/", "Cerca quesiti")
 // --- single published output (GitHub Pages = reference, Cloudflare = byte-exact mirror) ---
 // Everything that used to run only in the Cloudflare job now runs here, so both hosts
 // serve the same files. These steps are idempotent (the CF job may run them again
 // before mirroring; its own build output is then discarded).
-await import("./scripts/inject-quesito-search.mjs")   // per-quesito search atoms
 await import("./scripts/fix-404.mjs")                 // 404.html works under /<repo>/ and /
 await import("./scripts/fix-link-case.mjs")           // Quartz lower-cases path links; folders are Capitalised
 await fs.writeFile(`${PUB}/robots.txt`, "User-agent: *\nAllow: /\n\nSitemap: https://raccolta-gare-mate.pages.dev/sitemap.xml\n")
