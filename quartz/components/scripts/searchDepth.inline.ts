@@ -36,8 +36,8 @@ let store = new Map<string, Doc>()
 let index: any = null
 let desiredTiers: number[] = readDesired()
 let loadedKey = ""
-let building = false
-let queued: number[] | null = null
+let ensureChain: Promise<void> = Promise.resolve()
+let ensureGen = 0
 
 function readDesired(): number[] {
   try {
@@ -119,43 +119,37 @@ async function buildIndex(docs: Doc[]): Promise<any> {
 }
 
 async function ensureTiers(want?: number[]): Promise<void> {
-  const nextDesired = want ? mergeDesiredTiers(want, desiredTiers, isMobile()) : desiredTiers
-  desiredTiers = nextDesired
-  const effective = effectiveTiers(nextDesired)
-  const key = selectionKey(effective)
-  if (key === loadedKey && index) {
-    document.dispatchEvent(
-      new CustomEvent("searchdepth-loaded", { detail: { tiers: effective } }),
-    )
-    return
-  }
-  if (building) {
-    queued = effective
-    return
-  }
-  building = true
-  try {
+  if (want) desiredTiers = mergeDesiredTiers(want, desiredTiers, isMobile())
+  const myGen = ++ensureGen
+  const job = ensureChain.then(async () => {
+    if (myGen !== ensureGen) return
+    const effective = effectiveTiers()
+    const key = selectionKey(effective)
+    if (key === loadedKey && index) {
+      document.dispatchEvent(
+        new CustomEvent("searchdepth-loaded", { detail: { tiers: effective } }),
+      )
+      return
+    }
     const parts: { id: number; entries: Entry[] }[] = []
     for (const id of effective) {
       parts.push({ id, entries: await fetchTierEntries(id) })
     }
+    if (myGen !== ensureGen) return
     const docs = mergeSelectedEntries(parts)
+    const nextIndex = await buildIndex(docs)
+    if (myGen !== ensureGen) return
     store = new Map(docs.map((d) => [d.id, d]))
-    index = await buildIndex(docs)
+    index = nextIndex
     loadedKey = key
     document.dispatchEvent(
       new CustomEvent("searchdepth-loaded", { detail: { tiers: effective } }),
     )
-  } finally {
-    building = false
-    if (queued && selectionKey(queued) !== loadedKey) {
-      const q = queued
-      queued = null
-      await ensureTiers(q)
-    } else {
-      queued = null
-    }
-  }
+  })
+  ensureChain = job.catch((err) => {
+    console.error("search tiers", err)
+  })
+  await job
 }
 
 function persistDesired(): void {
