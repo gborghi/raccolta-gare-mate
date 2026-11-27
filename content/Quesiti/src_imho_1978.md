@@ -10,37 +10,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Find m,n with equal last three digits of 78^m and 78^n*
-
-> $m$ and $n$ are natural numbers with $1 \le m < n$. In their decimal representations, the last three digits of $1978^m$ are equal, respectively, to the last three digits of $1978^n$. Find $m$ and $n$ such that $m + n$ has its least value.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Trovare m, n tali che 78^m e 78^n abbiano le ultime tre cifre uguali*
-
-> $m$ e $n$ sono numeri naturali con $1 \le m < n$. Nelle loro rappresentazioni decimali, le ultime tre cifre di $1978^m$ sono rispettivamente uguali alle ultime tre cifre di $1978^n$. Determinare $m$ e $n$ in modo che $m + n$ assuma il suo valore minimo.
-
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-
-
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -109,36 +78,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Incircle tangent to AB at D; midpoint of PQ is center of incircle*
-
-> In triangle $ABC$, $AB = AC$. A circle is tangent internally to the circumcircle of triangle $ABC$ and also to sides $AB$, $AC$ at $P$, $Q$ respectively. Prove that the midpoint of segment $PQ$ is the center of the incircle of triangle $ABC$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*L'incerchio è tangente ad AB in D; il punto medio di PQ è il centro dell'incerchio*
-
-> Nel triangolo $ABC$, $AB = AC$. Un cerchio è tangente internamente alla circonferenza circoscritta del triangolo $ABC$ e inoltre è tangente ai lati $AB$, $AC$ rispettivamente nei punti $P$, $Q$. Dimostrare che il punto medio del segmento $PQ$ è il centro dell'incircolo del triangolo $ABC$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-
-
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_aritmetica,method_disuguaglianze,method_induzione,method_cassetti,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -169,34 +108,3 @@ level: IMO
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_estremalita,method_induzione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*International society; member whose number equals sum or double*
-
-> An international society has its members from six different countries. The list of members contains $1978$ names, numbered $1, 2, \ldots, 1978$. Prove that there is at least one member whose number is the sum of the numbers of two members from his own country, or twice as large as the number of one member from his own country.
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Società internazionale; membro il cui numero è uguale alla somma o al doppio*
-
-> Una società internazionale ha i propri membri provenienti da sei paesi diversi. L'elenco dei membri contiene $1978$ nomi, numerati $1, 2, \ldots, 1978$. Dimostrare che esiste almeno un membro il cui numero è la somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro del suo stesso paese.
-
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

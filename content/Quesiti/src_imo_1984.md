@@ -115,7 +115,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -125,8 +125,8 @@ level: IMO
 > Let $ABCD$ be a convex quadrilateral such that the line $CD$ is a tangent to the circle on $AB$ as diameter. Prove that the line $AB$ is a tangent to the circle on $CD$ as diameter if and only if the lines $BC$ and $AD$ are parallel.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
 
@@ -140,8 +140,8 @@ level: IMO
 
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
 

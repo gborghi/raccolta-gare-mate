@@ -177,38 +177,3 @@ level: IMO
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_invarianti|Invarianti]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Convex quadrilateral with angle conditions implies angle sum 180°*
-
-> A convex quadrilateral $ABCD$ satisfies $AB \cdot CD = BC \cdot DA$. Point $X$ lies inside $ABCD$ so that
-> $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$
-> Prove that $\angle BXA + \angle DXC = 180^\circ$.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria|Geometry]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Un quadrilatero convesso con condizioni sugli angoli implica che la somma degli angoli sia 180°*
-
-> Un quadrilatero convesso $ABCD$ soddisfa $AB \cdot CD = BC \cdot DA$. Il punto $X$ giace all'interno di $ABCD$ in modo che
-> $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$
-> Dimostrare che $\angle BXA + \angle DXC = 180^\circ$.
-
-
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]

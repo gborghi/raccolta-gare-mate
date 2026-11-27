@@ -105,36 +105,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Convex quadrilateral ABCD: CD tangent to circle on AB iff BC ∥ AD*
-
-> Let $ABCD$ be a convex quadrilateral such that the line $CD$ is a tangent to the circle on $AB$ as diameter. Prove that the line $AB$ is a tangent to the circle on $CD$ as diameter if and only if the lines $BC$ and $AD$ are parallel.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Quadrilatero convesso ABCD: CD è tangente alla circonferenza su AB se e solo se BC ∥ AD*
-
-> Sia $ABCD$ un quadrilatero convesso tale che la retta $CD$ sia tangente alla circonferenza avente per diametro $AB$. Dimostrare che la retta $AB$ è tangente alla circonferenza avente per diametro $CD$ se e solo se le rette $BC$ e $AD$ sono parallele.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
-
-
-
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_doppio_conteggio,skill_stima,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>

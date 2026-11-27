@@ -41,7 +41,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_induzione,method_ricorsione,method_trigonometria,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,topic_trigonometria,method_induzione,method_ricorsione,method_trigonometria,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -50,10 +50,10 @@ level: IMO
 
 > Let $P_1(x) = x^2 - 2$ and $P_j(x) = P_1(P_{j-1}(x))$ for $j = 2, 3, \ldots$. Show that, for any positive integer $n$, the roots of the equation $P_n(x) = x$ are real and distinct.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]], [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]], [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
 
 
@@ -65,14 +65,14 @@ level: IMO
 > Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Dimostrare che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
 
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,skill_casework_accurato,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,method_disuguaglianze,skill_casework_accurato,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -82,8 +82,8 @@ level: IMO
 > A rectangular box can be filled completely with unit cubes. If one places as many cubes as possible, each with volume $2$, in the box, so that their edges are parallel to the edges of the box, one can fill exactly $40\%$ of the box. Determine the possible dimensions of all such boxes.
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
 
@@ -97,8 +97,8 @@ level: IMO
 
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
@@ -134,7 +134,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,method_cassetti,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_cassetti,method_conteggio,method_induzione,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,10 +151,10 @@ level: IMO
 > (b) there is at least one value of $j$ for which $x_j \neq 0$,
 > (c) $|x_j| \leq q$ ($j = 1, 2, \ldots, q$).
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_cassetti|Pigeonhole principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_conteggio|Combinatorial counting]], [[method_induzione|Induction]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
 
 
@@ -174,10 +174,10 @@ level: IMO
 > (c) $|x_j| \leq q$ ($j = 1, 2, \ldots, q$).
 
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio combinatorio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 

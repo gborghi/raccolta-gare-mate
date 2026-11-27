@@ -78,36 +78,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_grafi,method_congruenze,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Odd prime set on circle, neighbours product form x²+x+k*
-
-> Let $k$ be a positive integer and let $S$ be a finite set of odd prime numbers. Prove that there is at most one way (up to rotation and reflection) to place the elements of $S$ around a circle such that the product of any two neighbours is of the form $x^2 + x + k$ for some positive integer $x$.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tsXgbJ9Pl2aI5mNYIg-TXWZHgI4xJ55P/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Insieme di numeri primi dispari su una circonferenza, il prodotto dei vicini ha la forma x²+x+k*
-
-> Sia $k$ un numero intero positivo e sia $S$ un insieme finito di numeri primi dispari. Dimostrare che esiste al più un modo (a meno di rotazione e riflessione) di disporre gli elementi di $S$ attorno a un cerchio tale che il prodotto di due elementi vicini qualsiasi sia della forma $x^2 + x + k$ per qualche numero intero positivo $x$.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-
-
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>

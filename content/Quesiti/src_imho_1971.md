@@ -47,66 +47,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_combinatoria,method_cassetti,method_invarianti,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Nine-vertex convex polyhedra sharing a common point*
-
-> Consider a convex polyhedron $P_1$ with nine vertices $A_1, A_2, \ldots, A_9$; let $P_i$ be the polyhedron obtained from $P_1$ by a translation that moves vertex $A_1$ to $A_i$ $(i = 2, 3, \ldots, 9)$. Prove that at least two of the polyhedra $P_1, P_2, \ldots, P_9$ have an interior point in common.
-
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Poliedri convessi a nove vertici che condividono un punto comune*
-
-> Si consideri un poliedro convesso $P_1$ con nove vertici $A_1, A_2, \ldots, A_9$; si ponga $P_i$ il poliedro ottenuto da $P_1$ mediante una traslazione che sposta il vertice $A_1$ in $A_i$ $(i = 2, 3, \ldots, 9)$. Dimostrare che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno un punto interno in comune.
-
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Integers of form 2^3k-2 contain infinite subset with pairwise coprime elements*
-
-> Prove that the set of integers of the form $2^k - 3$ $(k = 2, 3, \ldots)$ contains an infinite subset in which every two members are relatively prime.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Gli interi della forma 2^3k-2 contengono un sottoinsieme infinito i cui elementi sono a due a due coprimi*
-
-> Dimostrare che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni coppia di elementi è coprima.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-
-
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -143,37 +83,6 @@ level: IMO
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_induzione,method_grafi,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Finite set S in plane with exactly n points at unit distance from each point*
-
-> Prove that for every natural number $m$, there exists a finite set $S$ of points in a plane with the following property: for every point $A$ in $S$, there are exactly $m$ points in $S$ which are at unit distance from $A$.
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]], [[method_grafi|Graph theory]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Insieme finito S nel piano, con esattamente n punti posti a distanza unitaria da ciascun punto*
-
-> Dimostrare che, per ogni numero naturale $m$, esiste un insieme finito $S$ di punti in un piano con la seguente proprietà: per ogni punto $A$ appartenente a $S$, esistono esattamente $m$ punti in $S$ che distano unità da $A$.
-
-
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 

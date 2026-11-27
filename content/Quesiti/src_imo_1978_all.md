@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,8 +20,8 @@ level: IMO
 > Let $m$ and $n$ be natural numbers with $1 \leq m < n$. In their decimal representations, the last three digits of $1978^m$ are equal, respectively, to the last three digits of $1978^n$. Find $m$ and $n$ such that $m + n$ has its least value.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
@@ -35,8 +35,8 @@ level: IMO
 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
@@ -113,7 +113,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -124,7 +124,7 @@ level: IMO
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
@@ -137,7 +137,7 @@ level: IMO
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
 
@@ -175,7 +175,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_cassetti,skill_astrazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_estremalita,method_induzione,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -184,10 +184,10 @@ level: IMO
 
 > An international society has its members from six different countries. The list of members contains 1978 names, numbered $1, 2, \ldots, 1978$. Prove that there is at least one member whose number is the sum of the numbers of two members from his own country, or twice as large as the number of one member from his own country.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_cassetti|Pigeonhole principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]], [[method_induzione|Induction]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
 
 
@@ -199,7 +199,7 @@ level: IMO
 > Una società internazionale ha i propri membri provenienti da sei paesi diversi. L'elenco dei membri contiene 1978 nomi, numerati $1, 2, \ldots, 1978$. Dimostrare che esiste almeno un membro il cui numero è la somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro del suo stesso paese.
 
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

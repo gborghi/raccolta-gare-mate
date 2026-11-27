@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,topic_insiemi_funzioni,method_fattorizzazione,method_backward,skill_astrazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,10 +23,10 @@ level: IMO
 > 
 > (ii) $f(x) \to 0$ as $x \to \infty$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Algebra|Algebra]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 
@@ -42,14 +42,14 @@ level: IMO
 > (ii) $f(x) \to 0$ quando $x \to \infty$.
 
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Algebra]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -59,8 +59,8 @@ level: IMO
 > Let $A$ be one of the two distinct points of intersection of two unequal coplanar circles $C_1$ and $C_2$ with centers $O_1$ and $O_2$, respectively. One of the common tangents to the circles touches $C_1$ at $P_1$ and $C_2$ at $P_2$, while the other touches $C_1$ at $Q_1$ and $C_2$ at $Q_2$. Let $M_1$ be the midpoint of $P_1Q_1$ and $M_2$ be the midpoint of $P_2Q_2$. Prove that $\angle O_1AO_2 = \angle M_1AM_2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
@@ -73,8 +73,8 @@ level: IMO
 > Sia $A$ uno dei due punti di intersezione distinti di due circonferenze coplanari non uguali $C_1$ e $C_2$, aventi centri rispettivamente $O_1$ e $O_2$. Una delle tangenti comuni alle circonferenze tocca $C_1$ in $P_1$ e $C_2$ in $P_2$, mentre l'altra tocca $C_1$ in $Q_1$ e $C_2$ in $Q_2$. Sia $M_1$ il punto medio di $P_1Q_1$ e sia $M_2$ il punto medio di $P_2Q_2$. Dimostrare che $\angle O_1AO_2 = \angle M_1AM_2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
 
@@ -141,7 +141,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,8 +151,8 @@ level: IMO
 > Is it possible to choose $1983$ distinct positive integers, all less than or equal to $10^5$, no three of which are consecutive terms of an arithmetic progression? Justify your answer.
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_induzione|Induction]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
@@ -166,8 +166,8 @@ level: IMO
 
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 

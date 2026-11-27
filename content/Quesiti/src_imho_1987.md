@@ -137,37 +137,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,topic_aritmetica,topic_geometria_analitica,method_casework,method_coordinate,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*n points with all pairwise distances irrational but every triple rational-area triangle*
-
-> Let $n$ be an integer greater than or equal to $3$. Prove that there is a set of $n$ points in the plane such that the distance between any two points is irrational and each set of three points determines a non-degenerate triangle with rational area.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_casework|method_casework]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*n punti tali che tutte le distanze a due a due siano irrazionali, ma ogni triangolo formato da tre di essi abbia area razionale*
-
-> Sia $n$ un intero maggiore o uguale a $3$. Dimostrare che esiste un insieme di $n$ punti nel piano tale che la distanza tra due punti qualsiasi è irrazionale e ogni insieme di tre punti determina un triangolo non degenere avente area razionale.
-
-
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|method_casework]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-
-
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>

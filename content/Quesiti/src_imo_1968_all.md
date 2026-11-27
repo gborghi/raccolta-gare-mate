@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_congruenze,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,topic_aritmetica,method_congruenze,method_trigonometria,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: IMO
 
 > Prove that there is one and only one triangle whose side lengths are consecutive integers, and one of whose angles is twice as large as another.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -34,14 +34,14 @@ level: IMO
 > Dimostrare che esiste un unico triangolo le cui lunghezze dei lati siano numeri interi consecutivi e in cui uno degli angoli sia il doppio di un altro.
 
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_stima,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_congruenze,method_fattorizzazione,skill_casework_accurato,skill_stima,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,8 +51,8 @@ level: IMO
 > Find all natural numbers $x$ such that the product of their digits (in decimal notation) is equal to $x^2 - 10x - 22$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
@@ -66,8 +66,8 @@ level: IMO
 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Analisi accurata per casi]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata per casi]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 
@@ -127,7 +127,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_disuguaglianze,method_estremalita,method_casework,method_disuguaglianze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -136,10 +136,10 @@ level: IMO
 
 > Prove that in every tetrahedron there is a vertex such that the three edges meeting there have lengths which are the sides of a triangle.
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -151,14 +151,14 @@ level: IMO
 > Dimostrare che in ogni tetraedro esiste un vertice tale che le tre spigoli che vi concorrono hanno lunghezze che sono i lati di un triangolo.
 
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_trigonometria,method_trigonometria,skill_astrazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_trigonometria,topic_insiemi_funzioni,method_trigonometria,method_invarianti,method_ricorsione,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -173,10 +173,10 @@ level: IMO
 > 
 > (b) For $a = 1$, give an example of a non-constant function with the required properties.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]], [[Algebra|Algebra]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -194,10 +194,10 @@ level: IMO
 > (b) Per $a = 1$, fornisci un esempio di funzione non costante con le proprietà richieste.
 
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Geometria]], [[Algebra]]
 
 
 

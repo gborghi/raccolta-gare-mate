@@ -78,7 +78,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_grafi,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_grafi,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,7 +89,7 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_grafi|Graph theory]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tsXgbJ9Pl2aI5mNYIg-TXWZHgI4xJ55P/view)
 
@@ -104,7 +104,7 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 

@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,7 +25,7 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
 
@@ -44,12 +44,12 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -64,7 +64,7 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
 
@@ -83,12 +83,12 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_combinatoria,method_invarianti,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_combinatoria,method_invarianti,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern,skill_astrazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -103,7 +103,7 @@ level: IMO
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
 
@@ -122,12 +122,12 @@ level: IMO
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -139,10 +139,10 @@ level: IMO
 > Prove that $\angle KIL + \angle YPX = 180^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view) ; [apri PDF p.1](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -155,8 +155,8 @@ level: IMO
 > Dimostrare che $\angle KIL + \angle YPX = 180^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
 

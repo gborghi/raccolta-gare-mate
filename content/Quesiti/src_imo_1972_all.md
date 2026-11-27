@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_cassetti,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: IMO
 
 > Prove that from a set of ten distinct two-digit numbers (in the decimal system), it is possible to select two disjoint subsets whose members have the same sum.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_cassetti|Pigeonhole principle]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
@@ -34,14 +34,14 @@ level: IMO
 > Dimostrare che, a partire da un insieme di dieci numeri distinti di due cifre (nel sistema decimale), è possibile selezionare due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
 
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_induzione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_induzione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,8 +51,8 @@ level: IMO
 > Prove that if $n \geq 4$, every quadrilateral that can be inscribed in a circle can be dissected into $n$ quadrilaterals each of which is inscribable in a circle.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_induzione|Induction]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_induzione|Induction]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
@@ -66,13 +66,13 @@ level: IMO
 
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_induzione,method_congruenze,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,8 +86,8 @@ level: IMO
 > is an integer. ($0! = 1$.)
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_induzione|Induction]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
@@ -103,8 +103,8 @@ level: IMO
 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
@@ -199,7 +199,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -209,8 +209,8 @@ level: IMO
 > Given four distinct parallel planes, prove that there exists a regular tetrahedron with a vertex on each plane.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
@@ -224,6 +224,6 @@ level: IMO
 
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria|Geometria]]

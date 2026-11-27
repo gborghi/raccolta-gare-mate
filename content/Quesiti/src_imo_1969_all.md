@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,8 +20,8 @@ level: IMO
 > Prove that there are infinitely many natural numbers $a$ with the following property: the number $z = n^4 + a$ is not prime for any natural number $n$.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12FvNr0jk5CMfk7r3Xncci7U9Z2FtRov9/view)
 
@@ -35,8 +35,8 @@ level: IMO
 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
 

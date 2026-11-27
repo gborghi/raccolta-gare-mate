@@ -41,68 +41,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,topic_trigonometria,method_induzione,method_fattorizzazione,method_trigonometria,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Iterated polynomial roots all real and distinct*
-
-> Let $P_1(x) = x^2 - 2$ and $P_j(x) = P_1(P_{j-1}(x))$ for $j = 2, 3, \ldots$ Show that, for any positive integer $n$, the roots of the equation $P_n(x) = x$ are real and distinct.
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometric techniques]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Le radici del polinomio iterato sono tutte reali e distinte*
-
-> Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Dimostrare che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
-
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Tecniche trigonometriche]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
-
-
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,method_disuguaglianze,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Rectangular box filled with unit cubes, 40% of edges parallel*
-
-> A rectangular box can be filled completely with unit cubes. If one places as many cubes as possible, each with volume 2, in the box, so that their edges are parallel to the edges of the box, one can fill exactly 40% of the box. Determine the possible dimensions of all such boxes.
-
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
-**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Scatola rettangolare riempita di cubi unitari, il 40% dei spigoli paralleli*
-
-> Un parallelepipedo rettangolo può essere riempito completamente con cubi unitari. Se si collocano nel parallelepipedo il maggior numero possibile di cubi, ciascuno di volume 2, in modo che i loro spigoli siano paralleli agli spigoli del parallelepipedo, si può riempire esattamente il 40% del parallelepipedo. Determinare le possibili dimensioni di tutti i parallelepipedi di questo tipo.
-
-
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-
-
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -131,52 +69,6 @@ level: IMO
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
-
-
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_cassetti,method_conteggio,method_induzione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Linear system with coefficients in {-1,0,1} has integer solution*
-
-> Consider the system of $p$ equations in $q = 2p$ unknowns $x_1, x_2, \ldots, x_q$:
-> $$a_{11}x_1 + a_{12}x_2 + \cdots + a_{1q}x_q = 0$$
-> $$a_{21}x_1 + a_{22}x_2 + \cdots + a_{2q}x_q = 0$$
-> $$\vdots$$
-> $$a_{p1}x_1 + a_{p2}x_2 + \cdots + a_{pq}x_q = 0$$
-> with every coefficient $a_{ij}$ member of the set $\{-1, 0, 1\}$. Prove that the system has a solution $(x_1, x_2, \ldots, x_q)$ such that
-> (a) all $x_j$ ($j = 1, 2, \ldots, q$) are integers,
-> (b) there is at least one value of $j$ for which $x_j \neq 0$,
-> (c) $|x_j| \le q$ ($j = 1, 2, \ldots, q$).
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Un sistema lineare con coefficienti in {-1,0,1} ammette una soluzione intera*
-
-> Si consideri il sistema di $p$ equazioni in $q = 2p$ incognite $x_1, x_2, \ldots, x_q$:
-> $$a_{11}x_1 + a_{12}x_2 + \cdots + a_{1q}x_q = 0$$
-> $$a_{21}x_1 + a_{22}x_2 + \cdots + a_{2q}x_q = 0$$
-> $$\vdots$$
-> $$a_{p1}x_1 + a_{p2}x_2 + \cdots + a_{pq}x_q = 0$$
-> con ogni coefficiente $a_{ij}$ appartenente all'insieme $\{-1, 0, 1\}$. Dimostrare che il sistema ammette una soluzione $(x_1, x_2, \ldots, x_q)$ tale che
-> (a) tutti gli $x_j$ ($j = 1, 2, \ldots, q$) sono interi,
-> (b) esiste almeno un valore di $j$ per cui $x_j \neq 0$,
-> (c) $|x_j| \le q$ ($j = 1, 2, \ldots, q$).
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 

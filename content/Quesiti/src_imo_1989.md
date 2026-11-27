@@ -177,7 +177,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_fattorizzazione,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -187,11 +187,11 @@ level: IMO
 > Prove that for each positive integer n there exist n consecutive positive integers
 > none of which is an integral power of a prime number.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view) ; [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -202,10 +202,10 @@ level: IMO
 > Dimostrare che, per ogni intero positivo n, esistono n interi positivi consecutivi, nessuno dei quali è una potenza intera di un numero primo.
 
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 

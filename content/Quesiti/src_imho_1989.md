@@ -165,36 +165,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*For each n, find n consecutive integers none a prime power*
-
-> Prove that for each positive integer $n$ there exist $n$ consecutive positive integers none of which is an integral power of a prime number.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|method_casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Per ogni n, trova n interi consecutivi, nessuno dei quali sia una potenza di un numero primo*
-
-> Dimostrare che, per ogni numero intero positivo $n$, esistono $n$ numeri interi positivi consecutivi, nessuno dei quali è una potenza intera di un numero primo.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|method_casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-
-
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_doppio_conteggio,method_bigezione,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>

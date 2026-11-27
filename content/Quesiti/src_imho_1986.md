@@ -167,33 +167,3 @@ level: IMO
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_bigezione,method_grafi,method_colorazione,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Color integer-coordinate points so axis-parallel lines differ by at most 1*
-
-> One is given a finite set of points in the plane, each point having integer coordinates. Is it always possible to color some of the points in the set red and the remaining points white in such a way that for any straight line $L$ parallel to either one of the coordinate axes the difference (in absolute value) between the numbers of white points and red points on $L$ is not greater than $1$?
-
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_bigezione|Biiezione]], [[method_grafi|Grafi]], [[method_colorazione|Colorazione]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Colora i punti a coordinate intere in modo che le rette parallele agli assi differiscano al più di 1*
-
-> Si ha a disposizione un insieme finito di punti nel piano, ciascuno con coordinate intere. È sempre possibile colorare di rosso alcuni dei punti dell'insieme e di bianco i restanti in modo che, per ogni retta $L$ parallela a uno dei due assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e il numero di punti rossi su $L$ non sia superiore a $1$?
-
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_bigezione|Biiezione]], [[method_grafi|Grafi]], [[method_colorazione|Colorazione]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]

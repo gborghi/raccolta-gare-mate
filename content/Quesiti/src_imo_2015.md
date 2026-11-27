@@ -84,7 +84,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -96,8 +96,8 @@ level: IMO
 > Prove that the circumcircles of triangles $KQH$ and $FKM$ are tangent to each other.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
@@ -113,13 +113,13 @@ level: IMO
 
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,10 +131,10 @@ level: IMO
 > Suppose that the lines $FK$ and $GL$ are different and intersect at the point $X$. Prove that $X$ lies on the line $AO$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view) ; [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -147,8 +147,8 @@ level: IMO
 > Si supponga che le rette $FK$ e $GL$ siano distinte e si intersechino nel punto $X$. Dimostrare che $X$ giace sulla retta $AO$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
 

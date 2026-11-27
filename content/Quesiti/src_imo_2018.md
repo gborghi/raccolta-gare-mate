@@ -213,7 +213,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -224,11 +224,11 @@ level: IMO
 > $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$
 > Prove that $\angle BXA + \angle DXC = 180°$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view) ; [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -240,7 +240,7 @@ level: IMO
 > $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$
 > Dimostrare che $\angle BXA + \angle DXC = 180°$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]

@@ -47,7 +47,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_cassetti,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_combinatoria,method_cassetti,method_invarianti,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,10 +56,10 @@ level: IMO
 
 > Consider a convex polyhedron $P_1$ with nine vertices $A_1, A_2, \ldots, A_9$; let $P_i$ be the polyhedron obtained from $P_1$ by a translation that moves vertex $A_1$ to $A_i$ ($i = 2, 3, \ldots, 9$). Prove that at least two of the polyhedra $P_1, P_2, \ldots, P_9$ have an interior point in common.
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_cassetti|Pigeonhole principle]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
@@ -71,14 +71,14 @@ level: IMO
 > Si consideri un poliedro convesso $P_1$ con nove vertici $A_1, A_2, \ldots, A_9$; si ponga $P_i$ il poliedro ottenuto da $P_1$ mediante una traslazione che sposta il vertice $A_1$ in $A_i$ ($i = 2, 3, \ldots, 9$). Si dimostri che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno in comune un punto interno.
 
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,10 +87,10 @@ level: IMO
 
 > Prove that the set of integers of the form $2^k - 3$ $(k = 2, 3, \ldots)$ contains an infinite subset in which every two members are relatively prime.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
 
@@ -102,10 +102,10 @@ level: IMO
 > Dimostrare che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni coppia di elementi è coprima.
 
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -148,7 +148,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_grafi,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_grafi,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -158,8 +158,8 @@ level: IMO
 > Prove that for every natural number $m$, there exists a finite set $S$ of points in a plane with the following property: For every point $A$ in $S$, there are exactly $m$ points in $S$ which are at unit distance from $A$.
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_induzione|Induction]], [[method_grafi|Graph theory]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_induzione|Induction]], [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
 
@@ -173,8 +173,8 @@ level: IMO
 
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 

@@ -164,7 +164,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,topic_geometria_analitica,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,topic_geometria_analitica,topic_combinatoria,method_coordinate,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -176,11 +176,11 @@ level: IMO
 > and each set of three points determines a non-degenerate triangle with rational
 > area.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view) ; [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -191,10 +191,10 @@ level: IMO
 > Sia n un numero intero maggiore o uguale a 3. Dimostrare che esiste un insieme di n punti nel piano tale che la distanza tra due punti qualsiasi sia irrazionale e che ogni insieme di tre punti determini un triangolo non degenero avente area razionale.
 
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 

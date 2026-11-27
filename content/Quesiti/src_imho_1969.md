@@ -10,36 +10,6 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
-
-*Infinitely many natural numbers with non-prime property*
-
-> Prove that there are infinitely many natural numbers $a$ with the following property: the number $z = n^4 + a$ is not prime for any natural number $n$.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12FvNr0jk5CMfk7r3Xncci7U9Z2FtRov9/view)
-
-
-<div class="qlang-split" data-lang="it"></div>
-
-
-*Infiniti numeri naturali con la proprietà di non essere primi*
-
-> Dimostrare che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per nessun numero naturale $n$.
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-
-
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_algebra,method_trigonometria,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>

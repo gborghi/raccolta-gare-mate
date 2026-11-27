@@ -193,7 +193,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_analitica,method_colorazione,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_analitica,method_colorazione,method_bigezione,method_grafi,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -206,10 +206,10 @@ level: IMO
 > numbers of white point and red points on L is not greater than 1?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_colorazione|Colouring / parity]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_bigezione|Bijection / correspondence]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view) ; [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -219,6 +219,6 @@ level: IMO
 
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_bigezione|Bigezione / corrispondenza]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
