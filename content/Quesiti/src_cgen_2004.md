@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *A family of equal mutually tangent circles aligned along a half-line; tangent line cuts the circles, chord lengths and a collinearity*
 
 > A family of tangent circles.
@@ -45,20 +48,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2004__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2004  Matematica  Quesito 1"
-summary: "Una famiglia di cerchi reciprocamente tangenti uguali allineati lungo una mezza linea; la linea tangente taglia i cerchi, le lunghezze degli accordi e una collinearità"
-topics: [topic_geometria_piana]
-methods: [method_trigonometria, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Una famiglia di cerchi reciprocamente tangenti uguali allineati lungo una semilinea; la linea tangente taglia i cerchi, le lunghezze degli accordi e una collinearità*
 
@@ -88,7 +79,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_2004#q01|src_cgen_2004__Q01]]
 
 
 
@@ -335,6 +325,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Return to the initial problem: product of sums of two squares, induction that every prime dividing n^2+1 is a sum of two squares, infinitude, and rationality of L(n,k)*
 
 > Return to the initial problem.
@@ -367,20 +360,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2004__Q06
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2004  Matematica  Quesito 6"
-summary: "Torna al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni primo divisore n^2+1 è la somma di due quadrati, infinità e razionalità di L ((n,k)"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_induzione, method_congruenze, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_casework_accurato, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Ritorno al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni divisore primo n^2+1 è la somma di due quadrati, infinità, e razionalità di L(n,k)*
 
@@ -398,4 +379,3 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2004#q06|src_cgen_2004__Q06]]

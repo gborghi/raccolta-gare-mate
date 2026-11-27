@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Isosceles triangle, point on minor arc, circumcircle of BDE gives parallel lines*
 
 > Let $ABC$ be an isosceles triangle in which $AB = AC$. On the circumscribed circle of this triangle, take a point $D$ belonging to the smaller arc joining $A$ to $B$; finally take a point $E$ belonging to the line $(AD)$, outside the segment $[AD]$, and such that the points $A$ and $E$ lie in the same half-plane bounded by the line $(BC)$. The circumscribed circle of triangle $BDE$ meets the line $(AB)$ again at $F$; show that the lines $(EF)$ and $(BC)$ are parallel.
@@ -22,19 +25,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2011_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2011  Quesito 1"
-summary: "Triangolo isosceles, punto su arco minore, circoncircolo di BDE dà linee parallele"
-topics: [topic_geometria_piana]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, punto su arco minore, circoncircolo di BDE dà linee parallele*
 
@@ -43,11 +35,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2011_automne#q01|src_canimath_2011_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic f with f(t)=f(f(f(t)))=0, show f(0)×f(1)=0*
 
@@ -60,20 +54,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2011_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2011  Quesito 2"
-summary: "Quadratica f con f(t) = f(f(f(t)))=0, mostrare f(0)*f(1)=0"
-topics: [topic_algebra]
-methods: [method_fattorizzazione]
-skills: [skill_manipolazione_algebrica]
-tags: [kg/translation, topic/algebra]---
 
 *Quadratico f con f(t)=f(f(f(t)))=0, mostrare f(0) ×f(1)=0*
 
@@ -83,7 +65,6 @@ tags: [kg/translation, topic/algebra]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2011_automne#q02|src_canimath_2011_automne__Q02]]
 
 
 
@@ -240,6 +221,9 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *x,y,z in [0,1] with (1-x)(1-y)(1-z)=xyz; one of three products >=1/4 and one <=1/4*
 
 > Let $x$, $y$, $z$ be three real numbers belonging to the interval $[0, 1]$ satisfying
@@ -254,20 +238,8 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2011_automne__Q08
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2011  Quesito 8"
-summary: "x,y,z in [0,1] con (1-x) ((1-y) ((1-z) = xyz; uno dei tre prodotti >=1/4 e uno <=1/4"
-topics: [topic_disuguaglianze, topic_algebra]
-methods: [method_estremalita, method_casework]
-skills: [skill_manipolazione_algebrica, skill_casework_accurato]
-tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *x,y,z in [0,1] con (1-x)(1-y)(1-z) = xyz; uno dei tre prodotti >=1/4 e uno <=1/4*
 
@@ -277,4 +249,3 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2011_automne#q08|src_canimath_2011_automne__Q08]]

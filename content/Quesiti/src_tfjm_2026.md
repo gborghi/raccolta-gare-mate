@@ -12,6 +12,9 @@ level: TFJM²
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_logica,method_casework,method_backward,method_ricorsione,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Chip-eating game on a layout of n piles of n chips: two players alternate, a chip may be eaten only if its neighbours are still covered; count states and analyse optimal strategies, then repeat on a pyramid layout.*
 
 > 1. War at the aperitif.
@@ -51,20 +54,8 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2026__Q01
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2026  Quesito 1"
-summary: "Gioco che mangia i chip su un layout di n pile di n chip: due giocatori si alternano, un chip può essere mangiato solo se i suoi vicini sono ancora coperti; contare gli stati e analizzare le strategie ottimali, quindi ripetere su un layout piramidale."
-topics: [topic_combinatoria, topic_logica]
-methods: [method_casework, method_backward, method_ricorsione, method_estremalita]
-skills: [skill_conteggio_sistematico, skill_modellizzazione, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *Gioco che mangia chip su un layout di n pile di n chip: due giocatori si alternano, un chip può essere mangiato solo se i suoi vicini sono ancora coperti; contare gli stati e analizzare le strategie ottimali, quindi ripetere su un layout di piramide.*
 
@@ -100,7 +91,6 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2026#q01|src_tfjm_2026__Q01]]
 
 
 
@@ -291,6 +281,9 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,method_conteggio,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Necklaces of beads of length l with integer values summing to price p, considered equal up to rotation and avoiding m consecutive value-0 beads; count necklaces $C(l,p,m)$ and the restricted set $C_D(l,p,m)$ using only values in a subset D.*
 
 > 4. Necklaces of pearls.
@@ -334,20 +327,8 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2026__Q04
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2026  Quesito 4"
-summary: "Colli di perle di lunghezza l con valori interi sommati al prezzo p, considerati uguali fino alla rotazione e evitando di m perle di valore 0 consecutive; colli di conteggio $C(l,p,m)$ e l'insieme restritto $C_D(l,p,m)$ utilizzando solo valori in un sottinsieme D."
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_simmetria, method_conteggio, method_casework, method_congruenze]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_astrazione]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Collane di perle di lunghezza l con valori interi sommati al prezzo p, considerati uguali fino alla rotazione e evitando m perle di valore 0 consecutivo; collane di conteggio $C(l,p,m)$ e l'insieme ristretto $C_D(l,p,m)$ utilizzando solo valori in un sottinsieme D.*
 
@@ -387,11 +368,13 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_tfjm_2026#q04|src_tfjm_2026__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_analitica,topic_combinatoria,topic_trigonometria,method_coordinate,method_conteggio,method_casework,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *On a climbing wall modeled in the plane, define a 'path' of n grips each at distance l from the previous, going up within angle alpha of the vertical; find conditions for two distinct paths to coexist, the minimum number of grips, and arrangements maximizing the count of distinct paths.*
 
@@ -439,20 +422,8 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2026__Q05
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2026  Quesito 5"
-summary: "Su un muro di arrampicata modellato in piano, definire un 'cammino' di n afferrature ciascuna a distanza l dalla precedente, che sali all'interno dell'angolo alfa della verticale; trovare le condizioni per due percorsi distinti di coesistere, il numero minimo di afferrature e le disposizioni che massimizzino il numero di percorsi distinti."
-topics: [topic_geometria_analitica, topic_combinatoria, topic_trigonometria]
-methods: [method_coordinate, method_conteggio, method_casework, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_conteggio_sistematico]
-tags: [kg/translation, topic/geometria_analitica, topic/combinatoria, topic/trigonometria]---
 
 *Su un muro di arrampicata modellato in piano, definire un "cammino" di n afferrature ciascuna a distanza l dalla precedente, che sali all'interno dell'angolo alfa della verticale; trovare le condizioni per la coesistenza di due percorsi distinti, il numero minimo di afferrature e le disposizioni che massimizzino il numero di percorsi distinti.*
 
@@ -492,11 +463,13 @@ tags: [kg/translation, topic/geometria_analitica, topic/combinatoria, topic/trig
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2026#q05|src_tfjm_2026__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_probabilita,method_casework,method_conteggio,method_estremalita,method_colorazione,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an m x n grid of stools, people are ill at ease near occupied neighbours; study quasi-complete seatings and the max number seated, then variants with oriented seats facing distance 1, with water fountains replacing seats, and the expected number seated under uniform random arrival E(m,n).*
 
@@ -536,20 +509,8 @@ tags: [kg/translation, topic/geometria_analitica, topic/combinatoria, topic/trig
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2026__Q06
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2026  Quesito 6"
-summary: "In una griglia di sgabelli m x n, le persone si sentono a loro agio vicino ai vicini occupati; studiare sedute quasi complete e il numero massimo di seduti, quindi varianti con sedili orientati verso la distanza 1, con fontane d'acqua che sostituiscono i sedili, e il numero previsto di seduti sotto arrivo casuale uniforme E(m,n)."
-topics: [topic_combinatoria, topic_probabilita]
-methods: [method_casework, method_conteggio, method_estremalita, method_colorazione]
-skills: [skill_conteggio_sistematico, skill_modellizzazione, skill_stima]
-tags: [kg/translation, topic/combinatoria, topic/probabilita]---
 
 *In una griglia di sgabelli m x n, le persone si sentono a proprio agio vicino ai vicini occupati; studiare i sedili quasi completi e il numero massimo di posti seduti, quindi varianti con sedili orientati verso la distanza 1, con fontane d'acqua che sostituiscono i sedili, e il numero previsto di posti seduti sotto arrivo casuale uniforme E(m,n).*
 
@@ -585,11 +546,13 @@ tags: [kg/translation, topic/combinatoria, topic/probabilita]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2026#q06|src_tfjm_2026__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Define a 'permutative' number whose double has the same digits except one digit (0 to 4) replaced by its double; 'rotative' moves the first digit to last and 'fitatory' moves the last digit to first. Decide existence and count such n-digit numbers, also in other bases.*
 
@@ -631,20 +594,8 @@ tags: [kg/translation, topic/combinatoria, topic/probabilita]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2026__Q07
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2026  Quesito 7"
-summary: "Definire un numero 'permutativo' il cui doppio ha le stesse cifre ad eccezione di una cifra (0 a 4) sostituita dal suo doppio; 'rotativo' sposta la prima cifra all'ultimo e 'fitatorio' sposta l'ultima cifra all'ultimo. Decidere l'esistenza e contare tali numeri a n cifre, anche in altre basi."
-topics: [topic_aritmetica, topic_combinatoria]
-methods: [method_congruenze, method_casework, method_conteggio, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_casework_accurato]
-tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Definire un numero "permutativo" il cui doppio ha le stesse cifre tranne una cifra (0-4), sostituito dal doppio; "rotativo" sposta la prima cifra a durare e "fitatorio" sposta l'ultima cifra a durare. Decidere l'esistenza e contare tali numeri a n cifre, anche in altre basi.*
 
@@ -676,11 +627,13 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2026#q07|src_tfjm_2026__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,method_ricorsione,method_estremalita,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Gaston's insertion-by-interval sorting algorithm G inserts a_k into the k-th position whose subinterval [(k-1)/k, k/k] it falls in; study fixed points, the count N(L) of preimages, its min/max over permutations, the iterated-sort count N'(L), and worst-case number of iterations to sort.*
 
@@ -731,20 +684,8 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2026__Q08
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2026  Quesito 8"
-summary: "L'algoritmo di classificazione inserzione-per-intervallo di Gaston inserisce a_k nella posizione k-th in cui cade il subintervallo [(k-1)/k, k/k]; studiare i punti fissi, il conteggio N(L) delle preimmagini, la sua min/max sulle permutazioni, il conteggio di classificazione iterata N'(L), e il numero peggiore di iterazioni da classificare."
-topics: [topic_combinatoria, topic_logica]
-methods: [method_casework, method_conteggio, method_ricorsione, method_estremalita]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_stima]
-tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *L'algoritmo di classificazione inserimento-per-intervallo di Gaston inserisce a_k nella posizione k-th in cui il subintervallo [(k-1)/k, k/k] cade; studiare i punti fissi, il conteggio N(L) delle preimmagini, la sua min/max sulle permutazioni, il conteggio di classificazione iterata N'(L), e il numero peggiore di iterazioni da ordinare.*
 
@@ -788,4 +729,3 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2026#q08|src_tfjm_2026__Q08]]

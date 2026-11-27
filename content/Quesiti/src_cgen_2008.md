@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_algebra,topic_geometria_piana,method_coordinate,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Study of the parabola $y=x^2/3-3/2$ and circles tangent to it: nature of the curve, the squared-distance function and its derivatives, characterising tangency by $g'_U(a)=0$, counting tangent circles, and bitangent circles.*
 
 > We work in the Euclidean affine plane $\mathscr{P}$ with an orthonormal frame $(O,\vec{i},\vec{j})$. Let $S$ be the curve of equation:
@@ -44,20 +47,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2008__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2008  Matematica  Quesito 1"
-summary: "Studio della parabola $y=x^2/3-3/2$ e dei cerchi tangenti a essa: natura della curva, funzione di distanza quadrata e le sue derivate, caratterizzazione della tangenza da $g'_U(a)=0$, conteggio dei cerchi tangenti e dei cerchi bitangenti."
-topics: [topic_geometria_analitica, topic_algebra, topic_geometria_piana]
-methods: [method_coordinate, method_casework, method_estremalita]
-skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_casework_accurato]
-tags: [kg/translation, topic/geometria_analitica, topic/algebra, topic/geometria_piana]---
 
 *Studio della parabola $y=x^2/3-3/2$ e dei cerchi tangenti a essa: natura della curva, funzione quadrata-distanza e le sue derivate, caratterizzando la tangenza da $g'_U(a)=0$, conteggiando i cerchi tangenti e i cerchi bitangenti.*
 
@@ -77,7 +68,6 @@ tags: [kg/translation, topic/geometria_analitica, topic/algebra, topic/geometria
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2008#q01|src_cgen_2008__Q01]]
 
 
 

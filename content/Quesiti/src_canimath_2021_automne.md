@@ -46,6 +46,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Isosceles triangle, midpoint symmetric image, find angle MDC in terms of x*
 
 > Let $ABC$ be an isosceles triangle with vertex $A$. Let $M$ be the midpoint of segment $[BC]$. Let $D$ be the symmetric image of point $M$ with respect to line $(AC)$. We denote by $x$ the angle $\widehat{BAC}$. Determine, as a function of $x$, the value of the angle $\widehat{MDC}$.
@@ -57,20 +60,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2021  Quesito 2"
-summary: "Triangolo isosceles, immagine simmetrica del punto medio, trovare angolo MDC in termini di x"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, immagine simmetrica del punto medio, trovare angolo MDC in termini di x*
 
@@ -80,11 +71,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2021_automne#q02|src_canimath_2021_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Village 5 buildings, each person has ≥2 family members in village; show someone shares building with a family member*
 
@@ -97,20 +90,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2021  Quesito 3"
-summary: "Villaggio 5 edifici, ogni persona ha ≥ 2 membri della famiglia nel villaggio; mostra qualcuno che condivide un edificio con un membro della famiglia"
-topics: [topic_combinatoria]
-methods: [method_cassetti]
-skills: [skill_modellizzazione, skill_lettura_attenta, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/combinatoria]---
 
 *Village 5 edifici, ogni persona ha ≥2 membri della famiglia nel villaggio; mostrare qualcuno che condivide un edificio con un membro della famiglia*
 
@@ -120,7 +101,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2021_automne#q03|src_canimath_2021_automne__Q03]]
 
 
 
@@ -156,6 +136,9 @@ tags: [kg/translation, topic/combinatoria]---
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *n has divisors a<b with n=a³+b; show n has a divisor d with a<d<b*
 
 > A positive integer $n > 8$ has two distinct positive divisors $a$ and $b$ such that $a < b$ and $n = a^3 + b$. Show that $n$ has at least one divisor $d$ such that $a < d < b$.
@@ -167,20 +150,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2021  Quesito 5"
-summary: "n ha divisori a<b con n=a3+b; mostra n ha un divisore d con a<d<b"
-topics: [topic_aritmetica]
-methods: [method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica]---
 
 *n ha divisori a<b con n=a3+b; mostra n ha un divisore d con a<d<b*
 
@@ -190,11 +161,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2021_automne#q05|src_canimath_2021_automne__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, constructed circle intersections, show Z on perpendicular bisector of BC*
 
@@ -207,20 +180,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_automne__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2021  Quesito 6"
-summary: "Triangolo acuto, intersezioni circolari costruite, mostrano Z sul bisettore perpendicolare di BC"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo acuto, intersezioni a cerchio costruite, mostrare Z sul bisettore perpendicolare di BC*
 
@@ -230,11 +191,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2021_automne#q06|src_canimath_2021_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_invarianti,method_cassetti,skill_modellizzazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maena writes 2021 integers per line iterating a counting rule; show she eventually repeats a line*
 
@@ -247,20 +210,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2021  Quesito 7"
-summary: "Maena scrive 2021 numeri interi per riga iterando una regola di conteggio; mostra che alla fine ripete una riga"
-topics: [topic_combinatoria]
-methods: [method_invarianti, method_cassetti]
-skills: [skill_modellizzazione, skill_riconoscimento_pattern, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/combinatoria]---
 
 *Maena scrive 2021 numeri interi per riga iterando una regola di conteggio; mostra che alla fine ripete una riga*
 
@@ -270,7 +221,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2021_automne#q07|src_canimath_2021_automne__Q07]]
 
 
 
@@ -310,6 +260,9 @@ tags: [kg/translation, topic/combinatoria]---
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Isosceles triangle, midpoint symmetric image, find angle MDC (lycée version)*
 
 > Let $ABC$ be an isosceles triangle with vertex $A$. Let $M$ be the midpoint of segment $[BC]$. Let $D$ be the symmetric image of point $M$ with respect to line $(AC)$. We denote by $x$ the angle $\widehat{BAC}$. Determine, as a function of $x$, the value of the angle $\widehat{MDC}$.
@@ -321,20 +274,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_automne__Q09
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2021  Quesito 9"
-summary: "Triangolo isosceles, immagine simmetrica del punto medio, angolo di ricerca MDC (versione liceale)"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, immagine simmetrica del punto medio, angolo di ricerca MDC (versione liceale)*
 
@@ -344,7 +285,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2021_automne#q09|src_canimath_2021_automne__Q09]]
 
 
 
@@ -410,6 +350,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Acute isosceles triangle, constructed points S,T,D,E; show CE bisects angle DCB*
 
 > Let $ABC$ be a triangle with all angles acute and such that $AB = BC$. Let $S$ be the point on the half-line $[BC)$ such that $AS = BS$. Let $T$ be the point on the half-line $[BA)$ such that $BT = BC$. Let $D$ be the intersection of lines $(AS)$ and $(CT)$. Let $E$ be the point on segment $[BA]$ such that $BE = CD$. Show that line $(CE)$ is the angle bisector of $\widehat{DCB}$.
@@ -421,20 +364,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_automne__Q12
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2021  Quesito 12"
-summary: "Triangolo acuto con uguale occhio, punti costruiti S,T,D,E; mostra angolo di bisezione CE DCB"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo acuto con uguale occhiaio, punti costruiti S,T,D,E; mostrare l'angolo di bisezione CE DCB*
 
@@ -444,7 +375,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2021_automne#q12|src_canimath_2021_automne__Q12]]
 
 
 

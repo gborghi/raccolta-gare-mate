@@ -241,6 +241,9 @@ level: Concours Général
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_insiemi_funzioni,method_simmetria,method_ricorsione,skill_astrazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Functional equation f(x+1)=1/2+sqrt(f(x)-f(x)^2): exhibit a continuous solution, prove every solution is periodic, and produce infinitely many continuous solutions with f(0)=1/2.*
 
 > Exercise 3.
@@ -263,20 +266,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2025__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2025  Matematica  Quesito 3"
-summary: "Equazione funzionale f(x+1)=1/2+sqrt(f(x)-f(x)^2): esprimere una soluzione continua, dimostrare che ogni soluzione è periodica, e produrre infinite soluzioni continue con f(0)=1/2."
-topics: [topic_funzionali, topic_insiemi_funzioni]
-methods: [method_simmetria, method_ricorsione]
-skills: [skill_astrazione, skill_manipolazione_algebrica, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/funzionali, topic/insiemi_funzioni]---
 
 *Equazione funzionale f(x+1)=1/2+sqrt(f(x)-f(x)^2): mostrare una soluzione continua, dimostrare che ogni soluzione è periodica, e produrre infinite soluzioni continue con f(0)=1/2.*
 
@@ -294,4 +285,3 @@ tags: [kg/translation, topic/funzionali, topic/insiemi_funzioni]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2025#q03|src_cgen_2025__Q03]]

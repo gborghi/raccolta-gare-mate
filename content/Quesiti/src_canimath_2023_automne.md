@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Evaluate a numeric fraction of a product of even numbers over a product of small integers*
 
 > Compute
@@ -29,20 +32,8 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 1"
-summary: "Valutare una frazione numerica di un prodotto di numeri pari rispetto a un prodotto di piccoli numeri interi"
-topics: [topic_aritmetica]
-methods: [method_fattorizzazione]
-skills: [skill_manipolazione_algebrica]
-tags: [kg/translation, topic/aritmetica]---
 
 *Evaluare una frazione numerica di un prodotto di numeri pari su un prodotto di piccoli interi*
 
@@ -55,7 +46,6 @@ tags: [kg/translation, topic/aritmetica]---
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 32
-[[Quesiti/src_canimath_2023_automne#q01|src_canimath_2023_automne__Q01]]
 
 
 
@@ -95,6 +85,9 @@ tags: [kg/translation, topic/aritmetica]---
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd*
 
 > In each of the cells of a square table of size $5 \times 5$, one writes a strictly positive integer. Suppose that, for each row of the table, the sum of the integers written in the cells of that row is an odd integer. Show that there exists a column of the table such that the sum of the integers written in the cells of that column is also odd.
@@ -108,20 +101,8 @@ tags: [kg/translation, topic/aritmetica]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 3"
-summary: "5x5 griglia di numeri interi positivi con ogni riga somma odd; dimostrare che qualche colonna somma è anche odd"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_congruenze, method_doppio_conteggio]
-skills: [skill_ragionamento_geometrico, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar*
 
@@ -131,11 +112,13 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2023_automne#q03|src_canimath_2023_automne__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all are distinct; find the greatest possible spread*
 
@@ -156,20 +139,8 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 4"
-summary: "20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e tutti sono distinti; trovare la più grande diffusione possibile"
-topics: [topic_combinatoria]
-methods: [method_estremalita, method_casework]
-skills: [skill_conteggio_sistematico, skill_stima]
-tags: [kg/translation, topic/combinatoria]---
 
 *20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; trovare la più grande diffusione possibile*
 
@@ -185,11 +156,13 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2023_automne#q04|src_canimath_2023_automne__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two equilateral triangles OAB, OAC of side 1; build equilateral OBD, OCE; points P, Q at unit distances; prove B, P, Q collinear*
 
@@ -204,20 +177,8 @@ tags: [kg/translation, topic/combinatoria]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 5"
-summary: "Due triangoli equilaterali OAB, OAC del lato 1; costruire OBD equilaterale, OCE; punti P, Q a distanze unitarie; dimostrare collineare B, P, Q"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Due triangoli equilaterali OAB, OAC del lato 1; costruire OBD equilaterale, OCE; punti P, Q a distanze unitarie; dimostrare B, P, Q collineare*
 
@@ -227,7 +188,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2023_automne#q05|src_canimath_2023_automne__Q05]]
 
 
 
@@ -305,6 +265,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Average of five grades is 16, three known grades are 13,14,17; find the sum of the two forgotten grades*
 
 > Maena has received five grades this term but only remembers the first three, which are $13$, $14$ and $17$. She knows that the average (assuming the five grades have the same weight) of her five grades equals $16$. What is the sum of the two grades Maena does not remember?
@@ -320,19 +283,8 @@ tags: [kg/translation, topic/geometria_piana]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q08
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 8"
-summary: "La media di cinque voti è 16, tre voti noti sono 13,14,17; trovare la somma dei due voti dimenticati"
-topics: [topic_aritmetica]
-skills: [skill_manipolazione_algebrica]
-tags: [kg/translation, topic/aritmetica]---
 
 *La media di cinque gradi è 16, tre conosciuti sono 13,14,17; trovare la somma dei due gradi dimenticati*
 
@@ -344,7 +296,6 @@ tags: [kg/translation, topic/aritmetica]---
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
-[[Quesiti/src_canimath_2023_automne#q08|src_canimath_2023_automne__Q08]]
 
 
 
@@ -384,6 +335,9 @@ tags: [kg/translation, topic/aritmetica]---
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd (lycee)*
 
 > In each of the cells of a square table of size $5 \times 5$, one writes a strictly positive integer. Suppose that, for each row of the table, the sum of the integers written in the cells of that row is an odd integer. Show that there exists a column of the table such that the sum of the integers written in the cells of that column is also odd.
@@ -397,20 +351,8 @@ tags: [kg/translation, topic/aritmetica]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q10
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 10"
-summary: "5x5 griglia di numeri interi positivi con ogni riga somma odd; dimostrare che qualche colonna somma è anche odd (lycee)"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_congruenze, method_doppio_conteggio]
-skills: [skill_ragionamento_geometrico, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar (lycee)*
 
@@ -420,11 +362,13 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2023_automne#q10|src_canimath_2023_automne__Q10]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all distinct; greatest possible spread (lycee)*
 
@@ -445,20 +389,8 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q11
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 11"
-summary: "20 nani attorno a una tavola rotonda; il numero di nugget vicini differisce di 2 o 3 e tutti distinti; la più grande diffusione possibile (lycee)"
-topics: [topic_combinatoria]
-methods: [method_estremalita, method_casework]
-skills: [skill_conteggio_sistematico, skill_stima]
-tags: [kg/translation, topic/combinatoria]---
 
 *20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; maggiore diffusione possibile (lycee)*
 
@@ -474,7 +406,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2023_automne#q11|src_canimath_2023_automne__Q11]]
 
 
 
@@ -552,6 +483,9 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Rectangle ABCD, M midpoint of CD; a line parallel to AB meets AD, AM, BM, BC at P, Q, R, S; line DR meets AM at X and BC at Y; given DX=6, XR=4, find RY*
 
 > Let $ABCD$ be a rectangle and $M$ the midpoint of the segment $[CD]$. A line parallel to $(AB)$ meets the segments $[AD]$, $[AM]$, $[BM]$, $[BC]$ respectively at the points $P$, $Q$, $R$ and $S$. The line $(DR)$ meets the segment $[AM]$ at $X$ and the segment $[BC]$ at $Y$. If $DX = 6$ and $XR = 4$, what is the length of the segment $[RY]$?
@@ -565,20 +499,8 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2023_automne__Q14
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2023  Quesito 14"
-summary: "Il rettangolo ABCD, M punto medio del CD; una linea parallela ad AB incontra AD, AM, BM, BC a P, Q, R, S; la linea DR incontra AM a X e BC a Y; data DX=6, XR=4, trovi RY"
-topics: [topic_geometria_piana]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Rectangle ABCD, M punto medio del CD; una linea parallela a AB incontra AD, AM, BM, BC a P, Q, R, S; la linea DR incontra AM a X e BC a Y; data DX=6, XR=4, trovi RY*
 
@@ -588,7 +510,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2023_automne#q14|src_canimath_2023_automne__Q14]]
 
 
 

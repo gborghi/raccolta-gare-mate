@@ -134,6 +134,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Entiers à 4 chiffres tels que l'entier renversé vaut 4n+3*
 
 > **Exercice 3**
@@ -149,50 +152,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_printemps__Q03
-lang: en
-secondary: true
-title: "Coupe Animath Printemps 2015 — Exercise 3"
-summary: "Four-digit integers whose reverse equals 4n+3"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_casework, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
-
-*Four-digit integers whose reverse equals 4n+3*
-
-> **Exercise 3**
->
-> For every integer $n$, denote by $f(n)$ the integer written by reversing the order of the digits. For example, $f(2538) = 8352$.
->
-> Determine all integers $n$ with $4$ digits such that $f(n) = 4n + 3$.
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
-
-
-
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_printemps__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2015 — Esercizio 3"
-summary: "Interi di 4 cifre il cui rovescio vale 4n+3"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_casework, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Interi di 4 cifre il cui rovescio vale 4n+3*
 
@@ -206,7 +167,23 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four-digit integers whose reverse equals 4n+3*
+
+> **Exercise 3**
+>
+> For every integer $n$, denote by $f(n)$ the integer written by reversing the order of the digits. For example, $f(2538) = 8352$.
+>
+> Determine all integers $n$ with $4$ digits such that $f(n) = 4n + 3$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -371,6 +348,9 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,method_estremalita,skill_modellizzazione,skill_stima,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *n points sur un cercle de diamètre n/π : un point par arc égal*
 
 > **Exercice 7**
@@ -384,48 +364,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__en" data-atom="q07__en" data-title="Q07__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_printemps__Q07
-lang: en
-secondary: true
-title: "Coupe Animath Printemps 2015 — Exercise 7"
-summary: "n points on a circle of diameter n/π: one point per equal arc"
-topics: [topic_combinatoria, topic_geometria_piana]
-methods: [method_cassetti, method_estremalita]
-skills: [skill_modellizzazione, skill_stima, skill_ragionamento_geometrico, skill_conteggio_sistematico]
-tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
-
-*n points on a circle of diameter n/π: one point per equal arc*
-
-> **Exercise 7**
->
-> $n$ points are placed on a circle of diameter $n/\pi$. Assume that the length of any arc between two of these $n$ points is strictly greater than the number of points on that arc (not counting the points at the endpoints). Prove that the circle can be subdivided into $n$ arcs of equal length, each containing exactly one point.
-
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
-
-
-
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_printemps__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2015 — Esercizio 7"
-summary: "n punti su un cerchio di diametro n/π: un punto per arco uguale"
-topics: [topic_combinatoria, topic_geometria_piana]
-methods: [method_cassetti, method_estremalita]
-skills: [skill_modellizzazione, skill_stima, skill_ragionamento_geometrico, skill_conteggio_sistematico]
-tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 
 *n punti su un cerchio di diametro n/π: un punto per arco uguale*
 
@@ -437,7 +377,21 @@ tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*n points on a circle of diameter n/π: one point per equal arc*
+
+> **Exercise 7**
+>
+> $n$ points are placed on a circle of diameter $n/\pi$. Assume that the length of any arc between two of these $n$ points is strictly greater than the number of points on that arc (not counting the points at the endpoints). Prove that the circle can be subdivided into $n$ arcs of equal length, each containing exactly one point.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 

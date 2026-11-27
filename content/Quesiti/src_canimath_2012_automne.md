@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Count children in a family from sibling-ratio constraints*
 
 > Fred and Sarah are the eldest children of the same large family. Fred has half as many brothers as sisters, while Sarah has as many sisters as brothers. How many children are there in this family?
@@ -23,20 +26,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 1"
-summary: "Conteggi i figli in una famiglia a causa dei vincoli di rapporto fra fratelli e sorelle"
-topics: [topic_aritmetica, topic_combinatoria]
-methods: [method_casework]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Contare i figli in una famiglia da vincoli di rapporto fra fratelli*
 
@@ -46,7 +37,6 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2012_automne#q01|src_canimath_2012_automne__Q01]]
 
 
 
@@ -94,6 +84,9 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Find width of a diagonal ribbon on a rectangular box*
 
 > On a rectangular box of dimensions $6\,\text{cm} \times 4\,\text{cm}$, a ribbon has been placed diagonally as shown in the figure below (the ribbon is represented in grey in the figure). It has been measured that $AB = 1\,\text{cm}$ and $BC = 5\,\text{cm}$. Compute the width of the ribbon.
@@ -107,20 +100,8 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 3"
-summary: "Trova larghezza di un nastro diagonale su una scatola rettangolare"
-topics: [topic_geometria_piana]
-methods: [method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Ricerca larghezza di un nastro diagonale su una scatola rettangolare*
 
@@ -132,11 +113,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2012_automne#q03|src_canimath_2012_automne__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_bigezione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round table: prove equal numbers of tall and short among 2013*
 
@@ -149,20 +132,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 4"
-summary: "Tavola rotonda: dimostrare uguali numeri di lunghi e brevi tra il 2013"
-topics: [topic_combinatoria]
-methods: [method_doppio_conteggio, method_bigezione]
-skills: [skill_ragionamento_geometrico, skill_riconoscimento_pattern, skill_astrazione]
-tags: [kg/translation, topic/combinatoria]---
 
 *Tavola rotonda: dimostrare numeri uguali di lunghi e corti tra il 2013*
 
@@ -172,11 +143,13 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2012_automne#q04|src_canimath_2012_automne__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove 10^2011 + 10^2012 + 10^2013 divisible by 37*
 
@@ -189,20 +162,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 5"
-summary: "Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37"
-topics: [topic_aritmetica]
-methods: [method_fattorizzazione, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/aritmetica]---
 
 *Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37*
 
@@ -212,7 +173,6 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2012_automne#q05|src_canimath_2012_automne__Q05]]
 
 
 
@@ -254,6 +214,9 @@ tags: [kg/translation, topic/aritmetica]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Prove 10^2011 + 10^2012 + 10^2013 divisible by 37*
 
 > Prove that the number $10^{2011} + 10^{2012} + 10^{2013}$ is divisible by $37$.
@@ -265,20 +228,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 7"
-summary: "Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37"
-topics: [topic_aritmetica]
-methods: [method_fattorizzazione, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/aritmetica]---
 
 *Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37*
 
@@ -288,7 +239,6 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2012_automne#q07|src_canimath_2012_automne__Q07]]
 
 
 
@@ -330,6 +280,9 @@ tags: [kg/translation, topic/aritmetica]---
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Find all prime pairs (p,q) making three expressions all prime*
 
 > Find all pairs $(p, q)$ of prime numbers for which the numbers $2p + q$, $p + 2q$ and $p + q - 18$ are all three prime numbers.
@@ -343,20 +296,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q09
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 9"
-summary: "Trova tutte le coppie prime (p,q) facendo tre espressioni tutte prime"
-topics: [topic_aritmetica]
-methods: [method_casework, method_congruenze]
-skills: [skill_casework_accurato, skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica]---
 
 *Trova tutte le coppie prime (p,q) facendo tre espressioni tutte prime*
 
@@ -368,11 +309,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2012_automne#q09|src_canimath_2012_automne__Q09]]
 
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle ABC given incircle center I, AI=BC and angle ICA=2 angle IAC*
 
@@ -385,20 +328,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q10
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 10"
-summary: "Trovare angolo ABC dato centro incircolo I, AI=BC e angolo ICA=2 angolo IAC"
-topics: [topic_geometria_piana, topic_trigonometria]
-methods: [method_trigonometria, method_casework]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 
 *Ricerca angolo ABC dato centro incircolo I, AI=BC e angolo ICA=2 angolo IAC*
 
@@ -408,7 +339,6 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2012_automne#q10|src_canimath_2012_automne__Q10]]
 
 
 
@@ -452,6 +382,9 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Prove inequality 5x^2+y^2+4 >= 4x+4xy for all reals, find equality cases*
 
 > Prove that, for all reals $x$ and $y$,
@@ -465,20 +398,8 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_automne__Q12
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2012  Quesito 12"
-summary: "Prove la disuguaglianza 5x^2+y^2+4 >= 4x+4xy per tutti i reali, trova casi di uguaglianza"
-topics: [topic_disuguaglianze, topic_algebra]
-methods: [method_disuguaglianze, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Prove la disuguaglianza 5x^2+y^2+4 >= 4x+4xy per tutti i reali, trova casi di uguaglianza*
 
@@ -488,4 +409,3 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2012_automne#q12|src_canimath_2012_automne__Q12]]

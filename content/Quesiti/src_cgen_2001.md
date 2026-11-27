@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_analitica,topic_geometria_solida,topic_algebra,topic_insiemi_funzioni,method_coordinate,method_congruenze,method_fattorizzazione,method_conteggio,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Single problem (Exercice 1) in four parts on 'trios' (a,b,c) with ab+bc+ca=0: geometric loci, integer/primitive trios and counting, a star-product of trios via complex numbers, and the arithmetic of integers represented by u^2+3v^2.*
 
 > A \textbf{trio} is any triple of real numbers $(a,b,c)$, not all zero, satisfying the relation
@@ -75,20 +78,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmXSsTHEh8iKBAnrvY3ihkUwt2H-HQyx/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2001__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2001  Matematica  Quesito 1"
-summary: "Problema singola (esercizio 1) in quattro parti su 'trios' (a,b,c) con ab+bc+ca=0: loci geometrici, trios interi/primitivi e conteggio, prodotto stellare dei trios attraverso numeri complessi e aritmetica degli enti rappresentati da u^2+3v^2."
-topics: [topic_aritmetica, topic_geometria_analitica, topic_geometria_solida, topic_algebra, topic_insiemi_funzioni]
-methods: [method_coordinate, method_congruenze, method_fattorizzazione, method_conteggio, method_estremalita, method_casework]
-skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_astrazione, skill_conteggio_sistematico, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/geometria_analitica, topic/geometria_solida, topic/algebra, topic/insiemi_funzioni]---
 
 *Problema singolo (esercizio 1) in quattro parti su 'trios' (a,b,c) con ab+bc+ca=0: loci geometrici, trios interi/primitivi e conteggio, un prodotto stellare dei trios attraverso numeri complessi, e l'aritmetica dei numeri interi rappresentati da u^2+3v^2.*
 
@@ -106,4 +97,3 @@ tags: [kg/translation, topic/aritmetica, topic/geometria_analitica, topic/geomet
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2001#q01|src_cgen_2001__Q01]]

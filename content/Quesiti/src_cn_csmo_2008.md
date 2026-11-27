@@ -235,6 +235,9 @@ level: China Southeastern Mathematical Olympiad
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Captain Jack's winning strategy in gold-box selection game*
 
 > Captain Jack and his pirates robbed 6 boxes of gold coins $A_1$, $A_2$, $A_3$, $A_4$, $A_5$, $A_6$. There are $a_i$ coins in box $A_i$ ($i = 1, 2, 3, 4, 5, 6$) and $a_i \neq a_j$ ($i \neq j$). They laid the boxes as shown in the figure. Captain Jack would take turns with a nominated pirate to choose a box. The rule was: Each person could only choose a box which was adjacent to at most one box. If Captain Jack got more gold coins than the pirates, the Captain won the game. If Captain Jack went first, what should be his strategy to win the game?
@@ -248,20 +251,8 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cn_csmo_2008__Q07
-lang: it
-secondary: true
-title: "China Southeastern Mathematical Olympiad 2008 — Quesito 7"
-summary: "La strategia vincente del capitano Jack nel gioco di scelta delle scatole d'oro"
-topics: [topic_combinatoria, topic_logica]
-methods: [method_invarianti, method_casework, method_estremalita]
-skills: [skill_ragionamento_geometrico, skill_casework_accurato, skill_modellizzazione, skill_lettura_attenta]
-tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *La strategia vincente del capitano Jack nel gioco di scelta delle scatole d'oro*
 
@@ -273,4 +264,3 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_cn_csmo_2008#q07|src_cn_csmo_2008__Q07]]

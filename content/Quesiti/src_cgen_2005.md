@@ -180,6 +180,9 @@ level: Concours Général
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_ricorsione,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Iterating the incenter (then later the orthocenter) of a triangle from three non-collinear points; prove convergence of the sequence of points and study what changes when using the orthocenter.*
 
 > We consider in the plane three points $A_0$, $B$, $C$ that are non-collinear.
@@ -197,20 +200,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2005__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2005  Matematica  Quesito 3"
-summary: "Iterare l'incentro (poi più tardi l'ortocentro) di un triangolo da tre punti non collineari; dimostrare la convergenza della sequenza di punti e studiare cosa cambia quando si usa l'ortocentro."
-topics: [topic_geometria_piana]
-methods: [method_ricorsione, method_estremalita]
-skills: [skill_ragionamento_geometrico, skill_astrazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Iterare l'incentro (poi più tardi l'ortocentro) di un triangolo da tre punti non collineari; dimostrare la convergenza della sequenza di punti e studiare quali cambiamenti si verificano con l'uso dell'ortocentro.*
 
@@ -224,11 +215,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_2005#q03|src_cgen_2005__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,topic_probabilita,method_congruenze,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Discrete logarithm modulo a prime: primitive roots, definition and existence of the discrete log, an elementary algorithm, and Adleman's index-calculus method with a probabilistic complexity analysis.*
 
@@ -300,20 +293,8 @@ tags: [kg/translation, topic/geometria_piana]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2005__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2005  Matematica  Quesito 4"
-summary: "Logaritmo discreto modulo a primo: radici primitive, definizione e esistenza del registro discreto, un algoritmo elementare e il metodo di calcolo dell'indice di Adleman con un'analisi di complessità probabilistica."
-topics: [topic_aritmetica, topic_algebra, topic_probabilita]
-methods: [method_congruenze, method_conteggio, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_conteggio_sistematico, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/algebra, topic/probabilita]---
 
 *Logaritmo discreto modulo a primo: radici primitive, definizione e esistenza del registro discreto, un algoritmo elementare e il metodo di calcolo dell'indice di Adleman con un'analisi di complessità probabilistica.*
 
@@ -363,4 +344,3 @@ tags: [kg/translation, topic/aritmetica, topic/algebra, topic/probabilita]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_cgen_2005#q04|src_cgen_2005__Q04]]

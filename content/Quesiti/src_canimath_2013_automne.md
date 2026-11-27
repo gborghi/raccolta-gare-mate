@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Count integers between 1 and 10000 divisible by 7 but not 5*
 
 > What is the number of integers between $1$ and $10000$ that are divisible by $7$ but not divisible by $5$?
@@ -24,20 +27,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2013_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2013  Quesito 1"
-summary: "Numeri interi da 1 a 10000 divisibili per 7 ma non per 5"
-topics: [topic_aritmetica]
-methods: [method_inclusione_esclusione, method_conteggio]
-skills: [skill_conteggio_sistematico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/aritmetica]---
 
 *Contare numeri interi tra 1 e 10000 divisibili per 7 ma non per 5*
 
@@ -48,11 +39,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1143
-[[Quesiti/src_canimath_2013_automne#q01|src_canimath_2013_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_aritmetica,method_casework,method_casi_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count afternoon naps given constraints over 15-day observation*
 
@@ -68,20 +61,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2013_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2013  Quesito 2"
-summary: "Conteggi le sonnelline pomeridiane date le restrizioni durante l'osservazione di 15 giorni"
-topics: [topic_logica, topic_aritmetica]
-methods: [method_casework, method_casi_conteggio]
-skills: [skill_lettura_attenta, skill_modellizzazione, skill_casework_accurato]
-tags: [kg/translation, topic/logica, topic/aritmetica]---
 
 *Contare i sonnellini pomeridiani con limitazioni durante l'osservazione di 15 giorni*
 
@@ -94,7 +75,6 @@ tags: [kg/translation, topic/logica, topic/aritmetica]---
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
-[[Quesiti/src_canimath_2013_automne#q02|src_canimath_2013_automne__Q02]]
 
 
 
@@ -144,6 +124,9 @@ tags: [kg/translation, topic/logica, topic/aritmetica]---
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Four concentric circles with equal-radius tangent circles; find r/R*
 
 > Four circles $C_1, C_2, C_3, C_4$ with identical radii $r$ are each inscribed inside a circle of radius $R$. We set $C_5 = C_1$. We suppose that for each $i = 1, 2, 3, 4$, the circles $C_i$ and $C_{i+1}$ are tangent to each other. Determine the value of the ratio $r/R$.
@@ -156,20 +139,8 @@ tags: [kg/translation, topic/logica, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2013_automne__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2013  Quesito 4"
-summary: "Quattro cerchi concentrici con cerchi tangenti di uguale raggio; trovare r/R"
-topics: [topic_geometria_piana]
-methods: [method_coordinate, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Quattro cerchi concentrici con cerchi tangenti di uguale raggio; trovare r/R*
 
@@ -180,7 +151,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** \frac{\sqrt{2}}{2+\sqrt{2}}
-[[Quesiti/src_canimath_2013_automne#q04|src_canimath_2013_automne__Q04]]
 
 
 
@@ -258,6 +228,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Find best constants a,b in inequality a(x+y+z)^2 ≤ x²+y²+z²+yz ≤ b(x+y+z)^2*
 
 > Determine the largest real number $a$ and the smallest real number $b$ such that for all $x, y, z$ positive or zero:
@@ -271,20 +244,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2013_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2013  Quesito 7"
-summary: "Trova le migliori costanti a,b nell'ineguaglianza a(x+y+z) ^2 ≤ x2+y2+z2+yz ≤ b(x+y+z) ^2"
-topics: [topic_disuguaglianze, topic_algebra]
-methods: [method_estremalita, method_disuguaglianze, method_simmetria]
-skills: [skill_manipolazione_algebrica, skill_stima, skill_casework_accurato]
-tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Trova le costanti migliori a,b nell'inequità a(x+y+z) ^2 ≤ x2+y2+z2+yz ≤ b(x+y+z) ^2*
 
@@ -295,7 +256,6 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** a=\frac{1}{3},\; b=1
-[[Quesiti/src_canimath_2013_automne#q07|src_canimath_2013_automne__Q07]]
 
 
 

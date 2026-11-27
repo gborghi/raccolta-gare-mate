@@ -170,6 +170,9 @@ level: Concours Général
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Tétraèdres inscrits dans une sphère, arêtes issues de S deux à deux orthogonales*
 
 > **Exercice III**
@@ -190,55 +193,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1991__Q03
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1991 — Exercise III"
-summary: "Tetrahedra inscribed in a sphere, edges from S pairwise orthogonal"
-topics: [topic_geometria_solida, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
-
-*Tetrahedra inscribed in a sphere, edges from S pairwise orthogonal*
-
-> **Exercise III**
->
-> Let $S$ be a fixed point of a fixed sphere $(\Sigma)$ with centre $\Omega$.
->
-> Consider the tetrahedra $SABC$ inscribed in the sphere $(\Sigma)$ whose edges issuing from $S$ are pairwise orthogonal.
->
-> 1. Prove that the planes $(ABC)$ pass through a fixed point.
-> 2. For such a tetrahedron $SABC$, the point $S$ and the centre $\Omega$ of the sphere $(\Sigma)$ project orthogonally onto the plane $(ABC)$ at $H$ and $O$ respectively. Let $R$ be the circumradius of triangle $ABC$. Prove that
->
-> $$R^2 = OH^2 + 2\, SH^2.$$
-
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]]
-[[Quesiti/src_cgen_1991#q03|src_cgen_1991__Q03]]
-
-
-
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1991__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1991 — Esercizio III"
-summary: "Tetraedri inscritti in una sfera, spigoli uscenti da S a due a due ortogonali"
-topics: [topic_geometria_solida, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 
 *Tetraedri inscritti in una sfera, spigoli uscenti da S a due a due ortogonali*
 
@@ -257,11 +213,35 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1991#q03|src_cgen_1991__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Tetrahedra inscribed in a sphere, edges from S pairwise orthogonal*
+
+> **Exercise III**
+>
+> Let $S$ be a fixed point of a fixed sphere $(\Sigma)$ with centre $\Omega$.
+>
+> Consider the tetrahedra $SABC$ inscribed in the sphere $(\Sigma)$ whose edges issuing from $S$ are pairwise orthogonal.
+>
+> 1. Prove that the planes $(ABC)$ pass through a fixed point.
+> 2. For such a tetrahedron $SABC$, the point $S$ and the centre $\Omega$ of the sphere $(\Sigma)$ project orthogonally onto the plane $(ABC)$ at $H$ and $O$ respectively. Let $R$ be the circumradius of triangle $ABC$. Prove that
+>
+> $$R^2 = OH^2 + 2\, SH^2.$$
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *Plus grande partie de {1,...,2^p} sans x et 2x*
 
@@ -280,52 +260,8 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1991__Q04
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1991 — Exercise IV"
-summary: "Largest subset of {1,...,2^p} containing no x together with 2x"
-topics: [topic_combinatoria, topic_insiemi_funzioni]
-methods: [method_estremalita, method_casework, method_induzione]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_lettura_attenta]
-tags: [kg/translation, topic/combinatoria, topic/insiemi_funzioni]---
-
-*Largest subset of {1,...,2^p} containing no x together with 2x*
-
-> **Exercise IV**
->
-> Let $p$ be a nonnegative integer and $n = 2^p$.
->
-> Consider the subsets $A$ of the set $E = \{1, 2, \ldots, n\}$ with the following property: if $x$ belongs to $A$, then $2x$ does not belong to $A$.
->
-> Determine the maximum number of elements of such a subset $A$.
-
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_induzione|Induction]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_cgen_1991#q04|src_cgen_1991__Q04]]
-
-
-
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1991__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1991 — Esercizio IV"
-summary: "Massima parte di {1,...,2^p} senza x e 2x insieme"
-topics: [topic_combinatoria, topic_insiemi_funzioni]
-methods: [method_estremalita, method_casework, method_induzione]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_lettura_attenta]
-tags: [kg/translation, topic/combinatoria, topic/insiemi_funzioni]---
 
 *Massima parte di {1,...,2^p} senza x e 2x insieme*
 
@@ -341,7 +277,25 @@ tags: [kg/translation, topic/combinatoria, topic/insiemi_funzioni]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_1991#q04|src_cgen_1991__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Largest subset of {1,...,2^p} containing no x together with 2x*
+
+> **Exercise IV**
+>
+> Let $p$ be a nonnegative integer and $n = 2^p$.
+>
+> Consider the subsets $A$ of the set $E = \{1, 2, \ldots, n\}$ with the following property: if $x$ belongs to $A$, then $2x$ does not belong to $A$.
+>
+> Determine the maximum number of elements of such a subset $A$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_induzione|Induction]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 

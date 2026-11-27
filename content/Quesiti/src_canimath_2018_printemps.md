@@ -12,6 +12,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_grafi,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *12 numbered chairs, grasshopper jumps exactly 4 numbers*
 
 > 12 chairs are numbered 1 to 12. A grasshopper can jump from chair $k$ to chair $n$ if $k - n$ is one of the four numbers $-8, -5, 5, 8$. On each jump it visits each chair exactly once.
@@ -25,20 +28,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_printemps__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2018  Quesito 1"
-summary: "12 poltrone numerate, scarafaggio salta esattamente 4 numeri"
-topics: [topic_combinatoria]
-methods: [method_grafi, method_casework]
-skills: [skill_conteggio_sistematico, skill_casework_accurato, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/combinatoria]---
 
 *12 sedie numerate, salti di scarafaggio esattamente 4 numeri*
 
@@ -50,11 +41,13 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2018_printemps#q01|src_canimath_2018_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare two sums A and B involving reciprocals*
 
@@ -69,20 +62,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_printemps__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2018  Quesito 2"
-summary: "Confrontare due somme A e B che comportano reciprocità"
-topics: [topic_algebra, topic_disuguaglianze]
-methods: [method_disuguaglianze]
-skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 
 *Compare due somme A e B che comportano reciprocità*
 
@@ -94,7 +75,6 @@ tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2018_printemps#q02|src_canimath_2018_printemps__Q02]]
 
 
 
@@ -160,6 +140,9 @@ tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Two points on semicircle of diameter AD with AB=BC=1, find CD*
 
 > On a semicircle of diameter $[AD]$, place two points $B$ and $C$ such that $AB = BC = 1$. Suppose $AD = 3$. Calculate the length $CD$.
@@ -171,20 +154,8 @@ tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_printemps__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2018  Quesito 5"
-summary: "Due punti su un semicircolo di diametro AD con AB=BC=1, trovi CD"
-topics: [topic_geometria_piana]
-methods: [method_coordinate, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Due punti su un semicircolo di diametro AD con AB=BC=1, trovi CD*
 
@@ -194,11 +165,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2018_printemps#q05|src_canimath_2018_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest N with 125 distinct elements satisfying two conditions*
 
@@ -215,20 +188,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_printemps__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2018  Quesito 6"
-summary: "Trova la N più piccola con 125 elementi distinti che soddisfano due condizioni"
-topics: [topic_combinatoria, topic_algebra]
-methods: [method_estremalita, method_casework]
-skills: [skill_ragionamento_geometrico, skill_conteggio_sistematico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Ricerca la N più piccola con 125 elementi distinti che soddisfano due condizioni*
 
@@ -240,11 +201,13 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2018_printemps#q06|src_canimath_2018_printemps__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid ABCD, diagonals meet at E, line through E parallel to AB meets AD at F, show angle BFC=90*
 
@@ -257,20 +220,8 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_printemps__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2018  Quesito 7"
-summary: "Trapezoide ABCD, diagonali incontrano a E, linea attraverso E parallela a AB incontra AD a F, angolo di mostra BFC=90"
-topics: [topic_geometria_piana]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *ABCD trapezoide, diagonali che si incontrano a E, linea attraverso E parallela ad AB che si incontrano ad AD a F, angolo di mostra BFC=90*
 
@@ -280,7 +231,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2018_printemps#q07|src_canimath_2018_printemps__Q07]]
 
 
 

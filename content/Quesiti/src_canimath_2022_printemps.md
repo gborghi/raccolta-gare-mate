@@ -117,6 +117,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Triangle with two equal-length points on the longest side, prove an angle identity*
 
 > Let $ABC$ be a triangle in which $BC > AB$ and $BC > AC$. Let $P$ be the point of segment $[BC]$ such that $AB = BP$, and let $Q$ be the point of segment $[BC]$ such that $AC = CQ$. Show that
@@ -129,20 +132,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_printemps__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2022  Quesito 4"
-summary: "Triangolo con due punti di uguale lunghezza sul lato più lungo, dimostrare un'identità angolare"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo con due punti di lunghezza uguale sul lato più lungo, dimostrare un'identità angolare*
 
@@ -152,7 +143,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2022_printemps#q04|src_canimath_2022_printemps__Q04]]
 
 
 
@@ -257,6 +247,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Diamonds and crystals treasure split in half; find the initial total diamond value*
 
 > The price (in euros) of a diamond corresponds to its mass (in grams) raised to the square and then multiplied by $100$. The price (in euros) of a crystal corresponds to three times its mass (in grams). Martin and Theodore unearth a treasure made up of precious stones which are either diamonds or crystals and whose total value is $5\,000\,000\,\text{\euro}$. They cut each precious stone in two, and each takes one half of every stone. The total value of Martin's stones is worth $2\,000\,000\,\text{\euro}$. In euros, what was the initial total value of the diamonds contained in the treasure?
@@ -270,20 +263,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_printemps__Q08
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2022  Quesito 8"
-summary: "Tesoro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale del diamante"
-topics: [topic_algebra, topic_aritmetica]
-methods: [method_fattorizzazione, method_casework]
-skills: [skill_manipolazione_algebrica, skill_modellizzazione, skill_lettura_attenta]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Tesouro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale di diamanti*
 
@@ -295,7 +276,6 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2022_printemps#q08|src_canimath_2022_printemps__Q08]]
 
 
 
@@ -369,6 +349,9 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Ten students each pick one of ten consecutive integers; maximize perfect-square gift winners (lycee)*
 
 > In a room there are ten students. Aline writes ten consecutive relative integers on the board. Each student chooses one of the ten integers written on the board, in such a way that any two students always choose two different integers. Each student then computes the sum of the nine integers chosen by the nine other students. Each student whose result is a perfect square then receives a gift.
@@ -384,20 +367,8 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_printemps__Q11
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2022  Quesito 11"
-summary: "Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzare i vincitori del regalo a quadrato perfetto (lycee)"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_casework, method_conteggio]
-skills: [skill_conteggio_sistematico, skill_lettura_attenta, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzazione dei vincitori del regalo a quadrato perfetto (liceo)*
 
@@ -411,11 +382,13 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2022_printemps#q11|src_canimath_2022_printemps__Q11]]
 
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, two angle bisectors, prove an angle equality*
 
@@ -428,20 +401,8 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_printemps__Q12
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2022  Quesito 12"
-summary: "Triangolo isosceles, due bisettori angolari, dimostrare un'eguaglianza angolare"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, due bisettori angolari, dimostrare un'eguaglianza angolare*
 
@@ -451,11 +412,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2022_printemps#q12|src_canimath_2022_printemps__Q12]]
 
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-colored plane with all colors present; prove a right triangle with three different-colored vertices (lycee)*
 
@@ -468,20 +431,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q13__it" data-atom="q13__it" data-title="Q13__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_printemps__Q13
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2022  Quesito 13"
-summary: "Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi (lycee)"
-topics: [topic_combinatoria, topic_geometria_piana]
-methods: [method_colorazione, method_casework]
-skills: [skill_ragionamento_geometrico, skill_astrazione, skill_lettura_attenta]
-tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 
 *Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi (lycee)*
 
@@ -491,11 +442,13 @@ tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-[[Quesiti/src_canimath_2022_printemps#q13|src_canimath_2022_printemps__Q13]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Increasing positive integers with a divisibility hypothesis; prove two inequalities*
 
@@ -512,20 +465,8 @@ tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_printemps__Q14
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2022  Quesito 14"
-summary: "Aumentare i numeri interi positivi con un'ipotesi di divisibilità; dimostrare due disuguaglianze"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_induzione, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Aumentare i numeri interi positivi con un'ipotesi di divisibilità; dimostrare due disuguaglianze*
 
@@ -539,11 +480,13 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2022_printemps#q14|src_canimath_2022_printemps__Q14]]
 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Power-sum dominance for two exponents; prove inequality persists and a refined bound*
 
@@ -562,20 +505,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_printemps__Q15
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2022  Quesito 15"
-summary: "Dominanza della somma di potenza per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato"
-topics: [topic_disuguaglianze, topic_algebra]
-methods: [method_disuguaglianze, method_induzione]
-skills: [skill_manipolazione_algebrica, skill_stima]
-tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato*
 
@@ -589,4 +520,3 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2022_printemps#q15|src_canimath_2022_printemps__Q15]]

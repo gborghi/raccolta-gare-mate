@@ -107,6 +107,9 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_funzionali,topic_algebra,method_induzione,method_grafi,method_estremalita,method_casework,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Discrete Dirichlet problem on a connected graph: assign reals to blue points so each equals the average of its neighbors, with given values at yellow points; existence (monotone iteration) and uniqueness of the solution.*
 
 > Problem 2: A so discreet Mr. Dirichlet.
@@ -170,20 +173,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2018__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2018  Matematica  Quesito 2"
-summary: "Discreto problema Dirichlet su un grafico collegato: assegnare reali ai punti blu in modo che ciascuno sia uguale alla media dei suoi vicini, con dati valori ai punti gialli; esistenza (iterazione monotone) e unicità della soluzione."
-topics: [topic_combinatoria, topic_funzionali, topic_algebra]
-methods: [method_induzione, method_grafi, method_estremalita, method_casework]
-skills: [skill_astrazione, skill_modellizzazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/combinatoria, topic/funzionali, topic/algebra]---
 
 *Discrete Dirichlet problema su un grafico connesso: assegnare reali a punti blu in modo che ciascuno è uguale alla media dei suoi vicini, con dati valori a punti gialli; esistenza (iteration monotone) e unicità della soluzione.*
 
@@ -215,7 +206,6 @@ tags: [kg/translation, topic/combinatoria, topic/funzionali, topic/algebra]---
 **Metodo:** [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2018#q02|src_cgen_2018__Q02]]
 
 
 

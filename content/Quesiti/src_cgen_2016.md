@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_disuguaglianze,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Sums of cubes: study of the sets S, S_d, S_i of integers expressible as sums of cubes of (distinct, distinct odd) positive integers, building arbitrarily long arithmetic progressions inside S.*
 
 > Problem 1: Sums of cubes.
@@ -54,20 +57,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2016__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2016  Matematica  Quesito 1"
-summary: "Somme di cubi: studio degli insiemi S, S_d, S_i di numeri interi espressi come somme di cubi di (distinti, distinti odd) numeri interi positivi, costruendo progressioni aritmetiche arbitrariamente lunghe all'interno di S."
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_congruenze, method_disuguaglianze, method_fattorizzazione, method_conteggio]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_riconoscimento_pattern, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Summe di cubi: studio degli insiemi S, S_d, S_i di numeri interi espressi come somme di cubi di numeri interi positivi (distinti, unici distinti), costruendo progressioni aritmetiche arbitrariamente lunghe all'interno di S.*
 
@@ -99,7 +90,6 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2016#q01|src_cgen_2016__Q01]]
 
 
 

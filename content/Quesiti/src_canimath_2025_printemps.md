@@ -78,6 +78,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Find all real pairs (a,b) satisfying two rational equations*
 
 > Find all real numbers $a$ and $b$ such that $a + b \neq 0$, $3a - b \neq 0$, and both of the following equations hold:
@@ -90,20 +93,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_printemps__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2025  Quesito 3"
-summary: "Trova tutte le coppie reali (a,b) che soddisfano due equazioni razionali"
-topics: [topic_algebra]
-methods: [method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/algebra]---
 
 *Ricerca tutte le coppie reali (a,b) che soddisfano due equazioni razionali*
 
@@ -113,7 +104,6 @@ tags: [kg/translation, topic/algebra]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2025_printemps#q03|src_canimath_2025_printemps__Q03]]
 
 
 
@@ -155,6 +145,9 @@ tags: [kg/translation, topic/algebra]---
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Prove PY = QX using incenter and equal-radius circles*
 
 > Let $ABC$ be a triangle and $I$ the centre of its inscribed circle. The line parallel to $(BI)$ passing through $C$ meets the line $(CI)$ at $Q$. The line parallel to $(CI)$ passing through $B$ meets the line $(BI)$ at $P$. The segment $[PQ]$ meets the circle with centre $P$ passing through $B$ at $X$, and the circle with centre $Q$ passing through $C$ at $Y$.
@@ -168,20 +161,8 @@ tags: [kg/translation, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_printemps__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2025  Quesito 5"
-summary: "Prove PY = QX utilizzando cerchi di incentro e di raggio uguale"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Prove PY = QX utilizzando cerchi di incentro e di raggio uguale*
 
@@ -193,7 +174,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2025_printemps#q05|src_canimath_2025_printemps__Q05]]
 
 
 
@@ -333,6 +313,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_grafi,skill_lettura_attenta,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Max number of people in room with friendship/enmity constraint*
 
 > In a room, certain people are friends. A person is never friends with herself. If person $A$ is friends with person $B$, then $B$ is friends with $A$. We observe the rule: 'the enemy of my friend is my friend', meaning that for any choice of three people $A$, $B$, $C$: if $A$ and $B$ are friends, and $B$ and $C$ are not friends, then $A$ and $C$ are friends. Each person in the room has exactly $1$ friend.
@@ -346,20 +329,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_printemps__Q10
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2025  Quesito 10"
-summary: "Numero massimo di persone in una stanza con vincolo amicizia/inimicizia"
-topics: [topic_combinatoria, topic_logica]
-methods: [method_casework, method_estremalita, method_grafi]
-skills: [skill_lettura_attenta, skill_ragionamento_geometrico, skill_modellizzazione]
-tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *Nombre massimo di persone in una stanza con vincolo di amicizia/intimità*
 
@@ -371,11 +342,13 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2025_printemps#q10|src_canimath_2025_printemps__Q10]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove PM bisects angle NPB in isosceles triangle ABC*
 
@@ -390,20 +363,8 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_printemps__Q11
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2025  Quesito 11"
-summary: "Prove PM bisecta angolo NPB in triangolo ABC a pari stelle"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Prove che il PM divide l'angolo NPB in triangolo ABC*
 
@@ -415,7 +376,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2025_printemps#q11|src_canimath_2025_printemps__Q11]]
 
 
 
@@ -487,6 +447,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Max and min of sum of consecutive absolute differences over n-permutations*
 
 > Let $n \geq 2$ be an integer. Suppose $x_1, x_2, \ldots, x_n$ is an $n$-permutation, meaning each element of $\{1, 2, \ldots, n\}$ appears exactly once among $x_1, x_2, \ldots, x_n$.
@@ -504,20 +467,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_printemps__Q14
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2025  Quesito 14"
-summary: "Max e min della somma delle differenze assolute consecutive su n-permutazioni"
-topics: [topic_combinatoria, topic_algebra]
-methods: [method_estremalita, method_casework]
-skills: [skill_conteggio_sistematico, skill_manipolazione_algebrica, skill_stima]
-tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Max e min della somma delle differenze assolute consecutive su n-permutazioni*
 
@@ -531,7 +482,6 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2025_printemps#q14|src_canimath_2025_printemps__Q14]]
 
 
 

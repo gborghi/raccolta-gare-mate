@@ -213,6 +213,9 @@ level: Concours Général
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_analitica,topic_algebra,topic_trigonometria,topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,method_ricorsione,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *In an orthonormal frame, study polynomials whose graph passes through all vertices of a regular k-gon centered at O: case of equilateral triangles, squares centered at O, the lower bound d >= k-1, and the sufficiency of every d >= k-1 (via Chebyshev polynomials).*
 
 > Problem 3: Polynomials and regular polygons.
@@ -283,20 +286,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2023__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2023  Matematica  Quesito 3"
-summary: "In un quadro ortonormale, studiare polinomi il cui grafico passa attraverso tutti i vertici di un k-gon regolare centrato a O: caso di triangoli equilaterali, quadrati centrati a O, il limite inferiore d >= k-1, e la sufficienza di ogni d >= k-1 (via polinomi di Chebyshev)."
-topics: [topic_geometria_analitica, topic_algebra, topic_trigonometria, topic_geometria_piana]
-methods: [method_coordinate, method_trigonometria, method_simmetria, method_ricorsione, method_induzione]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_analitica, topic/algebra, topic/trigonometria, topic/geometria_piana]---
 
 *In un quadro ortonormale, studiare polinomi il cui grafico passa attraverso tutti i vertici di un k-gon regolare centrato a O: caso di triangoli equilaterali, quadrati centrati a O, il limite inferiore d >= k-1, e la sufficienza di ogni d >= k-1 (via polinomi di Chebyshev).*
 
@@ -340,4 +331,3 @@ tags: [kg/translation, topic/geometria_analitica, topic/algebra, topic/trigonome
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2023#q03|src_cgen_2023__Q03]]

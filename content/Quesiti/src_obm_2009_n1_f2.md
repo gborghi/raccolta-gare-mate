@@ -47,6 +47,9 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *6th grade class: of every 11 students 4 are girls and there are 15 more boys than girls; total students*
 
 > In a $6$th grade class, of every $11$ students, $4$ are girls. There are $15$ more boys than girls. How many students are in this class?
@@ -57,19 +60,8 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_obm_2009_n1_f2__Q02
-lang: it
-secondary: true
-title: "Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 2"
-summary: "In una classe di sesta, su ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più delle ragazze; totale degli studenti"
-topics: [topic_aritmetica, topic_algebra]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *In una classe di sesta, su ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più delle ragazze; totale degli studenti*
 
@@ -78,7 +70,6 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_obm_2009_n1_f2#q02|src_obm_2009_n1_f2__Q02]]
 
 
 

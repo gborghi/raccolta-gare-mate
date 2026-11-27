@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,topic_insiemi_funzioni,topic_algebra,topic_probabilita,method_induzione,method_casework,method_fattorizzazione,skill_astrazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Remarkable families of functions on [0,+inf): show the set of polynomial functions is contained in / characterized by sets closed under sum, composition, difference and product (properties P1-P6).*
 
 > We denote by $\mathscr{P}$ the set of functions defined on $[0,+\infty[$ with values in $[0,+\infty[$. For $f$ and $g$ in $\mathscr{P}$, one defines the function $h = f \circ g$ by setting, for every real number $x \ge 0$:
@@ -70,20 +73,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2019__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2019  Matematica  Quesito 1"
-summary: "Famiglie notevoli di funzioni su [0, + inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato dainsiemi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6)."
-topics: [topic_funzionali, topic_insiemi_funzioni, topic_algebra, topic_probabilita]
-methods: [method_induzione, method_casework, method_fattorizzazione]
-skills: [skill_astrazione, skill_lettura_attenta, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/funzionali, topic/insiemi_funzioni, topic/algebra, topic/probabilita]---
 
 *Notabili famiglie di funzioni su [0,+inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato da gruppi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6).*
 
@@ -107,7 +98,6 @@ tags: [kg/translation, topic/funzionali, topic/insiemi_funzioni, topic/algebra, 
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_cgen_2019#q01|src_cgen_2019__Q01]]
 
 
 

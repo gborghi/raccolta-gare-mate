@@ -129,6 +129,9 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_funzionali,topic_insiemi_funzioni,method_disuguaglianze,method_estremalita,method_ricorsione,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione,skill_stima"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *An explosive number: the sequence x_{n+1}=(1+1/x_n)^n with x_1=a; the function f_n(x)=(1+1/x)^n; an explosivity criterion; proving there is a unique explosive number via a contraction argument.*
 
 > Problem 2: An explosive number (Un nombre explosif).
@@ -200,20 +203,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2020__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2020  Matematica  Quesito 2"
-summary: "Numero esplosivo: la sequenza x_{n+1}=(1+1/x_n)^n con x_1=a; la funzione f_n(x)=(1+1/x)^n; un criterio di esplosività; dimostrando l'esistenza di un numero esplosivo unico tramite un argomento di contrazione."
-topics: [topic_algebra, topic_funzionali, topic_insiemi_funzioni]
-methods: [method_disuguaglianze, method_estremalita, method_ricorsione, method_backward]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione, skill_stima]
-tags: [kg/translation, topic/algebra, topic/funzionali, topic/insiemi_funzioni]---
 
 *Un numero esplosivo: la sequenza x_{n+1}=(1+1/x_n)^n con x_1=a; la funzione f_n(x)=(1+1/x)^n; un criterio di esplosività; dimostrando l'esistenza di un numero esplosivo unico tramite un argomento di contrazione.*
 
@@ -233,4 +224,3 @@ tags: [kg/translation, topic/algebra, topic/funzionali, topic/insiemi_funzioni]-
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]], [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2020#q02|src_cgen_2020__Q02]]

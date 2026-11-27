@@ -167,6 +167,9 @@ level: Concours Général
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Minimum de x^x et inégalité x^y + y^x > 1*
 
 > **Exercice IV**
@@ -181,49 +184,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1996__Q04
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1996 — Exercise IV"
-summary: "Minimum of x^x and the inequality x^y + y^x > 1"
-topics: [topic_insiemi_funzioni, topic_disuguaglianze]
-methods: [method_disuguaglianze, method_estremalita]
-skills: [skill_manipolazione_algebrica, skill_stima, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze]---
-
-*Minimum of x^x and the inequality x^y + y^x > 1*
-
-> **Exercise IV**
->
-> 1. Let $f$ be the function defined for every strictly positive real $x$ by $f(x) = x^x$. Determine the minimal value taken by this function as $x$ runs through the strictly positive reals.
-> 2. Let $x$ and $y$ be two strictly positive reals. Prove that $x^y + y^x > 1$.
-
-**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_cgen_1996#q04|src_cgen_1996__Q04]]
-
-
-
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1996__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1996 — Esercizio IV"
-summary: "Minimo di x^x e disuguaglianza x^y + y^x > 1"
-topics: [topic_insiemi_funzioni, topic_disuguaglianze]
-methods: [method_disuguaglianze, method_estremalita]
-skills: [skill_manipolazione_algebrica, skill_stima, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze]---
 
 *Minimo di x^x e disuguaglianza x^y + y^x > 1*
 
@@ -236,7 +198,22 @@ tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_cgen_1996#q04|src_cgen_1996__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimum of x^x and the inequality x^y + y^x > 1*
+
+> **Exercise IV**
+>
+> 1. Let $f$ be the function defined for every strictly positive real $x$ by $f(x) = x^x$. Determine the minimal value taken by this function as $x$ runs through the strictly positive reals.
+> 2. Let $x$ and $y$ be two strictly positive reals. Prove that $x^y + y^x > 1$.
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 

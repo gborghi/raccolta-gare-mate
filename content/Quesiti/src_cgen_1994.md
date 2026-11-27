@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Nombre d'entiers p tels que 50^n < 7^p < 50^{n+1}*
 
 > **Exercice I**
@@ -30,53 +33,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__en" data-atom="q01__en" data-title="Q01__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1994__Q01
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1994 — Exercise I"
-summary: "Number of integers p such that 50^n < 7^p < 50^{n+1}"
-topics: [topic_aritmetica]
-methods: [method_casework]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_stima]
-tags: [kg/translation, topic/aritmetica]---
-
-*Number of integers p such that 50^n < 7^p < 50^{n+1}*
-
-> **Exercise I**
->
-> For every nonnegative integer $n$, let $I_n$ be the number of integers $p$ for which
->
-> $$50^n < 7^p < 50^{n+1}.$$
->
-> 1. Prove that for every integer $n$, $I_n$ equals $2$ or $3$.
-> 2. Prove that there are infinitely many integers $n$ for which $I_n$ equals $3$, and give the smallest of them.
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-[[Quesiti/src_cgen_1994#q01|src_cgen_1994__Q01]]
-
-
-
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1994__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1994 — Esercizio I"
-summary: "Numero di interi p tali che 50^n < 7^p < 50^{n+1}"
-topics: [topic_aritmetica]
-methods: [method_casework]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_stima]
-tags: [kg/translation, topic/aritmetica]---
 
 *Numero di interi p tali che 50^n < 7^p < 50^{n+1}*
 
@@ -93,7 +51,26 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_cgen_1994#q01|src_cgen_1994__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of integers p such that 50^n < 7^p < 50^{n+1}*
+
+> **Exercise I**
+>
+> For every nonnegative integer $n$, let $I_n$ be the number of integers $p$ for which
+>
+> $$50^n < 7^p < 50^{n+1}.$$
+>
+> 1. Prove that for every integer $n$, $I_n$ equals $2$ or $3$.
+> 2. Prove that there are infinitely many integers $n$ for which $I_n$ equals $3$, and give the smallest of them.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -242,6 +219,9 @@ tags: [kg/translation, topic/aritmetica]---
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Point dont la somme des carrés des segments vers les côtés est minimale*
 
 > **Exercice IV**
@@ -261,54 +241,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1994__Q04
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1994 — Exercise IV"
-summary: "Point minimising the sum of squares of segments to the sides"
-topics: [topic_geometria_piana, topic_geometria_analitica]
-methods: [method_coordinate, method_estremalita]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
-
-*Point minimising the sum of squares of segments to the sides*
-
-> **Exercise IV**
->
-> Let $ABC$ be a triangle. If $P$ is a point of its plane, denote by $L$, $M$, $N$ the orthogonal projections of $P$ onto the lines $(BC)$, $(CA)$ and $(AB)$ respectively.
->
-> Determine the point $P$ for which the quantity
->
-> $$BL^2 + CM^2 + AN^2$$
->
-> is minimal.
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]]
-[[Quesiti/src_cgen_1994#q04|src_cgen_1994__Q04]]
-
-
-
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1994__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1994 — Esercizio IV"
-summary: "Punto che minimizza la somma dei quadrati dei segmenti verso i lati"
-topics: [topic_geometria_piana, topic_geometria_analitica]
-methods: [method_coordinate, method_estremalita]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *Punto che minimizza la somma dei quadrati dei segmenti verso i lati*
 
@@ -326,11 +260,34 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1994#q04|src_cgen_1994__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Point minimising the sum of squares of segments to the sides*
+
+> **Exercise IV**
+>
+> Let $ABC$ be a triangle. If $P$ is a point of its plane, denote by $L$, $M$, $N$ the orthogonal projections of $P$ onto the lines $(BC)$, $(CA)$ and $(AB)$ respectively.
+>
+> Determine the point $P$ for which the quantity
+>
+> $$BL^2 + CM^2 + AN^2$$
+>
+> is minimal.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_aritmetica,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *Applications f de N dans N telles que f(m^2+n^2)=f(m)^2+f(n)^2*
 
@@ -350,53 +307,8 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1994__Q05
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1994 — Exercise V"
-summary: "Maps f from N to N such that f(m^2+n^2)=f(m)^2+f(n)^2"
-topics: [topic_funzionali, topic_aritmetica]
-methods: [method_induzione, method_casework]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_lettura_attenta]
-tags: [kg/translation, topic/funzionali, topic/aritmetica]---
-
-*Maps f from N to N such that f(m^2+n^2)=f(m)^2+f(n)^2*
-
-> **Exercise V**
->
-> Let $f$ be a map from $\mathbb{N}$ to $\mathbb{N}$ such that $f(1) > 0$ and, for all nonnegative integers $m$ and $n$,
->
-> $$f(m^2 + n^2) = \bigl(f(m)\bigr)^2 + \bigl(f(n)\bigr)^2.$$
->
-> 1. Compute $f(k)$ for $0 \leqslant k \leqslant 12$.
-> 2. Compute $f(n)$, where $n$ is an arbitrary integer.
-
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_induzione|Induction]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-[[Quesiti/src_cgen_1994#q05|src_cgen_1994__Q05]]
-
-
-
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1994__Q05
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1994 — Esercizio V"
-summary: "Applicazioni f da N in N tali che f(m^2+n^2)=f(m)^2+f(n)^2"
-topics: [topic_funzionali, topic_aritmetica]
-methods: [method_induzione, method_casework]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_lettura_attenta]
-tags: [kg/translation, topic/funzionali, topic/aritmetica]---
 
 *Applicazioni f da N in N tali che f(m^2+n^2)=f(m)^2+f(n)^2*
 
@@ -413,4 +325,23 @@ tags: [kg/translation, topic/funzionali, topic/aritmetica]---
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_cgen_1994#q05|src_cgen_1994__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maps f from N to N such that f(m^2+n^2)=f(m)^2+f(n)^2*
+
+> **Exercise V**
+>
+> Let $f$ be a map from $\mathbb{N}$ to $\mathbb{N}$ such that $f(1) > 0$ and, for all nonnegative integers $m$ and $n$,
+>
+> $$f(m^2 + n^2) = \bigl(f(m)\bigr)^2 + \bigl(f(n)\bigr)^2.$$
+>
+> 1. Compute $f(k)$ for $0 \leqslant k \leqslant 12$.
+> 2. Compute $f(n)$, where $n$ is an arbitrary integer.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_induzione|Induction]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

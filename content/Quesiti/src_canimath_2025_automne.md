@@ -82,6 +82,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Show D, E, F, X are concyclic in a triangle with reflected points*
 
 > Let $ABC$ be a triangle whose smallest side is $[BC]$, and let $D$ be a point on the segment $[BC]$. Let $E$ be on the segment $[AC]$ such that $CD = CE$, and $F$ on the segment $[AB]$ such that $BD = BF$. Let further $P$ be the symmetric point of $D$ with respect to $B$, and $Q$ the symmetric point of $D$ with respect to $C$. Let $X$ be the intersection point of the lines $(QE)$ and $(PF)$. Show that the points $D$, $E$, $F$ and $X$ lie on the same circle.
@@ -93,20 +96,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2025  Quesito 3"
-summary: "Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi*
 
@@ -116,7 +107,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2025_automne#q03|src_canimath_2025_automne__Q03]]
 
 
 
@@ -152,6 +142,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_casework,skill_stima,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Among four positive reals, a pair's difference is less than a third of the sum of the other two*
 
 > Show that among four strictly positive real numbers, there always exist two of them whose difference (that is to say the larger of the two minus the smaller) is strictly less than one third of the sum of the other two.
@@ -163,20 +156,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2025  Quesito 5"
-summary: "Tra quattro reali positivi, la differenza di una coppia è inferiore a un terzo della somma delle altre due"
-topics: [topic_disuguaglianze, topic_algebra]
-methods: [method_estremalita, method_casework]
-skills: [skill_stima, skill_casework_accurato, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Tra quattro reali positivi, la differenza di una coppia è inferiore a un terzo della somma delle altre due*
 
@@ -186,7 +167,6 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2025_automne#q05|src_canimath_2025_automne__Q05]]
 
 
 
@@ -222,6 +202,9 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_doppio_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Grid with equal row/column sums at nonzero cells implies m=n*
 
 > Aurélien fills a grid with $m$ rows and $n$ columns with non-negative real numbers, in such a way that each row and each column contains at least one non-zero element. He also wants that for every cell containing a non-zero element, the sum of the elements of its row and the sum of the elements of its column are identical. Show that if he has succeeded in filling his grid while respecting these constraints, then $m = n$.
@@ -233,20 +216,8 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2025  Quesito 7"
-summary: "La rete con somma di righe/colonne uguale nelle celle non zero implica m=n"
-topics: [topic_combinatoria, topic_algebra]
-methods: [method_doppio_conteggio]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Grid con somme di righe/colonne uguali nelle celle non zero implica m=n*
 
@@ -256,7 +227,6 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2025_automne#q07|src_canimath_2025_automne__Q07]]
 
 
 
@@ -360,6 +330,9 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_combinatoria,method_grafi,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_stima,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Show a 20-island graph with 172 ferry edges has diameter at most 2*
 
 > There are $20$ islands in Animathland; some are connected to each other by ferry routes that go in both directions. Each pair of islands is connected by at most one route, and there are in total $172$ routes. Show that it is possible to travel from any island to any other one by changing ferry at most once (that is to say, passing through at most one other island).
@@ -371,20 +344,8 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_automne__Q11
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2025  Quesito 11"
-summary: "Mostra un grafico di 20 isole con 172 bordi di traghetto di diametro massimo 2"
-topics: [topic_combinatoria, topic_combinatoria]
-methods: [method_grafi, method_doppio_conteggio, method_estremalita]
-skills: [skill_conteggio_sistematico, skill_stima, skill_modellizzazione]
-tags: [kg/translation, topic/combinatoria]---
 
 *Mostra un grafico di 20 isole con 172 bordi di traghetto con diametro massimo 2*
 
@@ -394,7 +355,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_grafi|Teoria dei grafi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2025_automne#q11|src_canimath_2025_automne__Q11]]
 
 
 
@@ -430,6 +390,9 @@ tags: [kg/translation, topic/combinatoria]---
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_algebra,method_doppio_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Grid with equal row/column sums at nonzero cells implies m=n (lycée version)*
 
 > Aurélien fills a grid with $m$ rows and $n$ columns with non-negative real numbers, in such a way that each row and each column contains at least one non-zero element. He also wants that for every cell containing a non-zero element, the sum of the elements of its row and the sum of the elements of its column are identical. Show that if he has succeeded in filling his grid while respecting these constraints, then $m = n$.
@@ -441,20 +404,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q13__it" data-atom="q13__it" data-title="Q13__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_automne__Q13
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2025  Quesito 13"
-summary: "Griglia con pari somme di righe/colonne nelle celle non zero implica m=n (versione lycée)"
-topics: [topic_combinatoria, topic_algebra]
-methods: [method_doppio_conteggio]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Grid con somma di righe/colonne uguale nelle celle non a zero implica m=n (versione liceale)*
 
@@ -464,11 +415,13 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2025_automne#q13|src_canimath_2025_automne__Q13]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show triangle DYZ is isosceles in a midpoint/semicircle configuration*
 
@@ -481,20 +434,8 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2025_automne__Q14
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2025  Quesito 14"
-summary: "Il triangolo di mostra DYZ è uguale a quello di una configurazione di punto medio/semicircolo"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Mostra che il triangolo DYZ è uguale a quello di una configurazione di punto medio/semicircolo*
 
@@ -504,7 +445,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2025_automne#q14|src_canimath_2025_automne__Q14]]
 
 
 

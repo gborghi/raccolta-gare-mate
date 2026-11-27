@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_analitica,topic_trigonometria,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Premiere partie: characterizations of a pseudo-rectangle triangle and complex-plane loci.*
 
 > Let $ABC$ be a triangle. Denote by $P$ the orthogonal projection of the point $A$ onto the line $(BC)$, and by $D$ the reflection of the point $C$ across the line $(AP)$.
@@ -41,20 +44,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2002__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2002  Matematica  Quesito 1"
-summary: "Premiere partie: caratteristiche di un triangolo pseudo rettangolare e loci di piano complesso."
-topics: [topic_geometria_piana, topic_geometria_analitica, topic_trigonometria]
-methods: [method_coordinate, method_trigonometria, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/trigonometria]---
 
 *Premiere partie: caratteristiche di un triangolo pseudo rettangolare e di loci di piano complesso.*
 
@@ -78,11 +69,13 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/t
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_2002#q01|src_cgen_2002__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_trigonometria,topic_geometria_piana,topic_algebra,method_trigonometria,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Deuxieme partie: equivalent conditions for a pseudo-rectangle triangle, rational/integer side triples, and related Diophantine equations.*
 
@@ -122,20 +115,8 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2002__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2002  Matematica  Quesito 2"
-summary: "Deuxieme partie: condizioni equivalenti per un triangolo pseudo rettangolare, tripli laterali razionali/integrali e le relative equazioni diofantine."
-topics: [topic_aritmetica, topic_trigonometria, topic_geometria_piana, topic_algebra]
-methods: [method_trigonometria, method_fattorizzazione, method_congruenze, method_casework]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_casework_accurato]
-tags: [kg/translation, topic/aritmetica, topic/trigonometria, topic/geometria_piana, topic/algebra]---
 
 *Deuxieme partie: condizioni equivalenti per un triangolo pseudo rettangolare, tripli laterali razionali/inti e le relative equazioni diofantine.*
 
@@ -161,11 +142,13 @@ tags: [kg/translation, topic/aritmetica, topic/trigonometria, topic/geometria_pi
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2002#q02|src_cgen_2002__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Troisieme partie: area under the hyperbola branch y=sqrt(x^2-1) via a Fermat-style trapezoid decomposition, and a limiting area ratio.*
 
@@ -190,20 +173,8 @@ tags: [kg/translation, topic/aritmetica, topic/trigonometria, topic/geometria_pi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2002__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2002  Matematica  Quesito 3"
-summary: "Troisieme partie: superficie sotto il ramo dell'iperbola y=sqrt(x^2-1) attraverso una decomposizione trapezoide di stile Fermat, e un rapporto di superficie limitante."
-topics: [topic_geometria_analitica, topic_geometria_piana]
-methods: [method_coordinate, method_simmetria, method_estremalita]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_stima]
-tags: [kg/translation, topic/geometria_analitica, topic/geometria_piana]---
 
 *Troisieme partie: superficie sotto il ramo dell'iperbola y=sqrt(x^2-1) attraverso una decomposizione trapezoide di stile Fermat, e un rapporto di superficie limitante.*
 
@@ -221,7 +192,6 @@ tags: [kg/translation, topic/geometria_analitica, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_2002#q03|src_cgen_2002__Q03]]
 
 
 

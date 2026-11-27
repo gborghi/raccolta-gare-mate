@@ -12,6 +12,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Floor times fractional part equals 2019x; find all x*
 
 > For any real number $x$, we denote by $\lfloor x \rfloor$ its integer part, i.e., the greatest integer less than or equal to $x$, and by $\{x\}$ its fractional part, i.e., $\{x\} = x - \lfloor x \rfloor$. For example, $\lfloor 3.1 \rfloor = 3$, $\lfloor -2.7 \rfloor = -3$, and $\{3.1\} = 0.1$, $\{-2.7\} = 0.3$.
@@ -25,20 +28,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2019_printemps__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2019  Quesito 1"
-summary: "Piano volte frazione è uguale a 2019x; trovare tutti x"
-topics: [topic_algebra, topic_aritmetica]
-methods: [method_casework, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_casework_accurato, skill_lettura_attenta]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Floor times fractional part = 2019x; trova tutte le x*
 
@@ -50,7 +41,6 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2019_printemps#q01|src_canimath_2019_printemps__Q01]]
 
 
 
@@ -86,6 +76,9 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Rectangle with cevians; show a+b=c for areas of four regions*
 
 > Let $ABCD$ be a rectangle. Let $P$ be a point on segment $[AB]$, and $Q$ a point on segment $[BC]$. The segments $[AQ]$ and $[DP]$ intersect at $X$; the segments $[AQ]$ and $[CP]$ intersect at $Y$; the segments $[DP]$ and $[CP]$ intersect at $Z$. Let $a$, $b$, $c$ be the areas of triangle $APX$, of quadrilateral $BPYQ$, and of triangle $CQZ$ of the quadrilateral $DXYZ$, respectively.
@@ -99,20 +92,8 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2019_printemps__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2019  Quesito 3"
-summary: "Rettangolo con ceviani; mostrare a+b=c per le aree di quattro regioni"
-topics: [topic_geometria_piana]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Rettangolo con ceviani; indicare a+b=c per le aree di quattro regioni*
 
@@ -124,11 +105,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2019_printemps#q03|src_canimath_2019_printemps__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_riconoscimento_pattern"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Frogs on 10x10 grid; visible sums hit 10^1,...,10^10; find largest k*
 
@@ -143,20 +126,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2019_printemps__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2019  Quesito 4"
-summary: "Rane sulla griglia 10x10; somme visibili raggiungono 10^1,...,10^10; trovare k più grande"
-topics: [topic_combinatoria]
-methods: [method_invarianti, method_estremalita, method_casework]
-skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_stima, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/combinatoria]---
 
 *Righe su griglia 10x10; somma visibile raggiunge 10^1,...,10^10; trovare k più grande*
 
@@ -168,7 +139,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2019_printemps#q04|src_canimath_2019_printemps__Q04]]
 
 
 
@@ -208,6 +178,9 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Parallelogram; CP=CB; midpoints M of AP, N of CD; show BP perpendicular to MN*
 
 > Let $ABCD$ be a parallelogram, and let $P$ be a point in the interior of $ABCD$ such that $CP = CB$. Let $M$ and $N$ be the midpoints of $[AP]$ and $[CD]$, respectively.
@@ -221,20 +194,8 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2019_printemps__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2019  Quesito 6"
-summary: "Paralelogramma; CP=CB; punti di mezzo M di AP, N di CD; mostrare la BP perpendicolare a MN"
-topics: [topic_geometria_piana]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Parallelogramma; CP=CB; punti medi M di AP, N di CD; mostrare la BP perpendicolare a MN*
 
@@ -246,7 +207,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2019_printemps#q06|src_canimath_2019_printemps__Q06]]
 
 
 

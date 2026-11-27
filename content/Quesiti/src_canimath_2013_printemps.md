@@ -12,6 +12,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Rhombus with special point K on CD, prove A, K, P collinear*
 
 > Let $ABCD$ be a rhombus. Let $K$ be a point on line $(CD)$, other than $C$ and $D$, such that $AD = BK$. Let $P$ be the intersection point of line $(BD)$ with the perpendicular bisector of segment $[BC]$. Prove that points $A$, $K$, and $P$ are collinear.
@@ -23,20 +26,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2013_printemps__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2013  Quesito 3"
-summary: "Rhombus con punto speciale K su CD, prova A, K, P collineare"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_lettura_attenta]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Rhombus con punto speciale K su CD, prova A, K, P collineare*
 
@@ -46,7 +37,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2013_printemps#q03|src_canimath_2013_printemps__Q03]]
 
 
 
@@ -118,6 +108,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *7-digit safe combination: open in at most 6 tries; find minimum tries*
 
 > The secret code of the Animath strongbox consists of $7$ distinct digits. The strongbox opens when one enters a sequence of $7$ digits satisfying both of the following conditions:
@@ -135,20 +128,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2013_printemps__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2013  Quesito 6"
-summary: "Combinazione sicura a 7 cifre: aperta in un massimo di 6 tentativi; trovare il minimo di tentativi"
-topics: [topic_combinatoria, topic_logica]
-methods: [method_casework, method_conteggio, method_estremalita]
-skills: [skill_conteggio_sistematico, skill_lettura_attenta, skill_modellizzazione, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *combinata sicura a 7 cifre: aperta in un massimo di 6 tentativi; trovare il minimo di tentativi*
 
@@ -162,4 +143,3 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2013_printemps#q06|src_canimath_2013_printemps__Q06]]

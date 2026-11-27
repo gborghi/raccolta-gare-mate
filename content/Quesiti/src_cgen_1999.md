@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Cylindre et boule de volume maximal intérieurs à un cône, de même axe*
 
 > **Exercice 1**
@@ -29,52 +32,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__en" data-atom="q01__en" data-title="Q01__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q01
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1999 — Exercise 1"
-summary: "Cylinder and ball of maximal volume inside a cone, with the same axis"
-topics: [topic_geometria_solida, topic_insiemi_funzioni]
-methods: [method_estremalita]
-skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
-
-*Cylinder and ball of maximal volume inside a cone, with the same axis*
-
-> **Exercise 1**
->
-> What is the maximum volume of a cylinder having the same axis of revolution as a given cone and contained in that cone?
->
-> What is the maximum volume of a ball, centred on this axis and contained in the cone?
->
-> Compare the two maxima found.
-
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_insiemi_funzioni|Sets and functions]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
-
-
-
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1999 — Esercizio 1"
-summary: "Cilindro e sfera di volume massimo interni a un cono, con lo stesso asse"
-topics: [topic_geometria_solida, topic_insiemi_funzioni]
-methods: [method_estremalita]
-skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 
 *Cilindro e sfera di volume massimo interni a un cono, con lo stesso asse*
 
@@ -90,7 +49,25 @@ tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cylinder and ball of maximal volume inside a cone, with the same axis*
+
+> **Exercise 1**
+>
+> What is the maximum volume of a cylinder having the same axis of revolution as a given cone and contained in that cone?
+>
+> What is the maximum volume of a ball, centred on this axis and contained in the cone?
+>
+> Compare the two maxima found.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -127,6 +104,9 @@ tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Triangles acutangles maximisant le plus petit côté divisé par le rayon du cercle inscrit*
 
 > **Exercice 3**
@@ -140,48 +120,8 @@ tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q03
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1999 — Exercise 3"
-summary: "Acute triangles maximising the smallest side divided by the inradius"
-topics: [topic_geometria_piana, topic_trigonometria]
-methods: [method_estremalita, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
-
-*Acute triangles maximising the smallest side divided by the inradius*
-
-> **Exercise 3**
->
-> For which triangles with all angles acute is the quotient of the smallest side by the inradius maximal?
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]]
-[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
-
-
-
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1999 — Esercizio 3"
-summary: "Triangoli acutangoli che massimizzano il lato più piccolo diviso per l'inraggio"
-topics: [topic_geometria_piana, topic_trigonometria]
-methods: [method_estremalita, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 
 *Triangoli acutangoli che massimizzano il lato più piccolo diviso per l'inraggio*
 
@@ -193,11 +133,28 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangles maximising the smallest side divided by the inradius*
+
+> **Exercise 3**
+>
+> For which triangles with all angles acute is the quotient of the smallest side by the inradius maximal?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_invarianti,method_induzione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *1999 bonbons rouges et 6661 jaunes : le dernier mangé est rouge avec quelle probabilité ?*
 
@@ -223,59 +180,8 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q04
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1999 — Exercise 4"
-summary: "1999 red sweets and 6661 yellow ones: probability that the last one eaten is red"
-topics: [topic_probabilita, topic_combinatoria]
-methods: [method_invarianti, method_induzione, method_casework]
-skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_lettura_attenta, skill_conteggio_sistematico]
-tags: [kg/translation, topic/probabilita, topic/combinatoria]---
-
-*1999 red sweets and 6661 yellow ones: probability that the last one eaten is red*
-
-> **Exercise 4**
->
-> On a table there are $1999$ red sweets and $6661$ yellow sweets, made indistinguishable by uniform wrappers.
->
-> A greedy person applies the following algorithm until the stock is exhausted:
->
-> a) If any sweets remain, he draws one at random, notes its colour, eats it and goes to b);
->
-> b) If any sweets remain, he draws one at random and notes its colour:
->
-> - if it is the same as that of the last sweet eaten, he eats it and returns to b);
-> - otherwise, he rewraps it, puts it back and returns to a).
->
-> Prove that all the sweets will be eaten, and give the probability that the last sweet eaten is red.
-
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_induzione|Induction]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
-
-
-
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1999 — Esercizio 4"
-summary: "1999 caramelle rosse e 6661 gialle: probabilità che l'ultima mangiata sia rossa"
-topics: [topic_probabilita, topic_combinatoria]
-methods: [method_invarianti, method_induzione, method_casework]
-skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_lettura_attenta, skill_conteggio_sistematico]
-tags: [kg/translation, topic/probabilita, topic/combinatoria]---
 
 *1999 caramelle rosse e 6661 gialle: probabilità che l'ultima mangiata sia rossa*
 
@@ -298,11 +204,39 @@ tags: [kg/translation, topic/probabilita, topic/combinatoria]---
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*1999 red sweets and 6661 yellow ones: probability that the last one eaten is red*
+
+> **Exercise 4**
+>
+> On a table there are $1999$ red sweets and $6661$ yellow sweets, made indistinguishable by uniform wrappers.
+>
+> A greedy person applies the following algorithm until the stock is exhausted:
+>
+> a) If any sweets remain, he draws one at random, notes its colour, eats it and goes to b);
+>
+> b) If any sweets remain, he draws one at random and notes its colour:
+>
+> - if it is the same as that of the last sweet eaten, he eats it and returns to b);
+> - otherwise, he rewraps it, puts it back and returns to a).
+>
+> Prove that all the sweets will be eaten, and give the probability that the last sweet eaten is red.
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_induzione|Induction]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *Symétriques des sommets alignés si et seulement si OH égale le diamètre*
 
@@ -317,48 +251,8 @@ tags: [kg/translation, topic/probabilita, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q05
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1999 — Exercise 5"
-summary: "Reflections of the vertices are collinear if and only if OH equals the diameter"
-topics: [topic_geometria_piana, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
-
-*Reflections of the vertices are collinear if and only if OH equals the diameter*
-
-> **Exercise 5**
->
-> Prove that the reflections of each vertex of a triangle across the opposite side are collinear if and only if the distance from the orthocentre to the circumcentre is equal to the diameter of that circle.
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Geometria|Geometry]]
-[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]
-
-
-
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1999__Q05
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1999 — Esercizio 5"
-summary: "I simmetrici dei vertici sono allineati se e solo se OH è uguale al diametro"
-topics: [topic_geometria_piana, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *I simmetrici dei vertici sono allineati se e solo se OH è uguale al diametro*
 
@@ -370,4 +264,18 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Reflections of the vertices are collinear if and only if OH equals the diameter*
+
+> **Exercise 5**
+>
+> Prove that the reflections of each vertex of a triangle across the opposite side are collinear if and only if the distance from the orthocentre to the circumcentre is equal to the diameter of that circle.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]

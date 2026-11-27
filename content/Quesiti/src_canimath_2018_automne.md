@@ -42,6 +42,9 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Triangle ABC, interior point O, sum of three parallel-line ratios equals 1*
 
 > Let $ABC$ be a triangle and $O$ a point in the interior of this triangle. The line parallel to $(BC)$ passing through $O$ meets $(CA)$ at $D$ and $(AB)$ at $E$. The line parallel to $(CA)$ passing through $O$ meets $(BC)$ at $F$. What is the value of the following sum?
@@ -55,20 +58,8 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2018  Quesito 2"
-summary: "Triangolo ABC, punto interno O, somma di tre rapporti di linea parallela uguale a 1"
-topics: [topic_geometria_piana, topic_aritmetica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/geometria_piana, topic/aritmetica]---
 
 *Triangolo ABC, punto interno O, somma di tre rapporti di linea parallela uguale a 1*
 
@@ -79,11 +70,13 @@ tags: [kg/translation, topic/geometria_piana, topic/aritmetica]---
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
-[[Quesiti/src_canimath_2018_automne#q02|src_canimath_2018_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *9-digit number 30x070y03 divisible by 37, find digit pairs (x,y)*
 
@@ -96,20 +89,8 @@ tags: [kg/translation, topic/geometria_piana, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2018  Quesito 3"
-summary: "Numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y)"
-topics: [topic_aritmetica]
-methods: [method_congruenze, method_casework]
-skills: [skill_manipolazione_algebrica, skill_conteggio_sistematico, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica]---
 
 *numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y)*
 
@@ -119,7 +100,6 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2018_automne#q03|src_canimath_2018_automne__Q03]]
 
 
 
@@ -155,6 +135,9 @@ tags: [kg/translation, topic/aritmetica]---
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Convex quadrilateral ABCD, specific angles, MD=NB; find angle MNB*
 
 > Let $ABCD$ be a convex quadrilateral with $\widehat{ABC} = 90^\circ$, $\widehat{BAD} = \widehat{ADC} = 80^\circ$. Let $M$ and $N$ be points on $[AD]$ and $[BC]$ respectively such that $\widehat{CDN} = \widehat{ABM} = 20^\circ$. Suppose moreover that $MD = NB$. What is $\widehat{MNB}$?
@@ -166,20 +149,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2018  Quesito 5"
-summary: "ABCD quadrilaterale convexa, angoli specifici, MD=NB; angolo di ricerca MNB"
-topics: [topic_geometria_piana]
-methods: [method_simmetria, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_lettura_attenta, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *ABCD quadrilaterale convexa, angoli specifici, MD=NB; angolo di ricerca MNB*
 
@@ -189,11 +160,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2018_automne#q05|src_canimath_2018_automne__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prime p divides product of (k^3+1); prove p ≤ n+1*
 
@@ -208,20 +181,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_automne__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2018  Quesito 6"
-summary: "Prima p divide il prodotto di (k^3+1); prova p ≤ n+1"
-topics: [topic_aritmetica]
-methods: [method_fattorizzazione, method_induzione, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione]
-tags: [kg/translation, topic/aritmetica]---
 
 *Il primo p divide il prodotto di (k^3+1); prova p ≤ n+1*
 
@@ -231,11 +192,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2018_automne#q06|src_canimath_2018_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fly vs k spiders on 2018×2018 grid; safe starting cells for fly*
 
@@ -252,20 +215,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2018  Quesito 7"
-summary: "Fly vs k ragni sulla griglia 2018×2018; cellule di partenza sicure per la mosca"
-topics: [topic_combinatoria, topic_logica]
-methods: [method_invarianti, method_colorazione, method_casework]
-skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_riconoscimento_pattern, skill_lettura_attenta]
-tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *Fly vs k spider sulla griglia 2018×2018; cellule di partenza sicure per le mosche*
 
@@ -279,11 +230,13 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2018_automne#q07|src_canimath_2018_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,topic_funzionali,method_casework,method_simmetria,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f: R∗→R satisfying af(x/y)+af(x/z)−f(x)f((y+z)/2)≥a²*
 
@@ -297,20 +250,8 @@ tags: [kg/translation, topic/combinatoria, topic/logica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2018_automne__Q08
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2018  Quesito 8"
-summary: "Trova tutte le funzioni f: R*→R soddisfacendo af(x/y) +af(x/z)−f(x)f(y+z)/2)≥a2"
-topics: [topic_insiemi_funzioni, topic_disuguaglianze, topic_funzionali]
-methods: [method_casework, method_simmetria, method_estremalita]
-skills: [skill_manipolazione_algebrica, skill_astrazione, skill_lettura_attenta]
-tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze, topic/funzionali]---
 
 *Ricerca tutte le funzioni f: R∗→R soddisfacente af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
 
@@ -320,4 +261,3 @@ tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze, topic/funzi
 **Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2018_automne#q08|src_canimath_2018_automne__Q08]]

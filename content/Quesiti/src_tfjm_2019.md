@@ -852,6 +852,9 @@ level: TFJM²
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Chocolats passés en ligne : quand la répartition est équilibrée, et quels lots de boîtes donnent une distribution équitable.*
 
 > 7. Distribution de chocolats
@@ -897,80 +900,8 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__en" data-atom="q07__en" data-title="Q07__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2019__Q07
-lang: en
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Question 7"
-summary: "Chocolates passed along a line: when the share is balanced, and which batches of boxes give a fair distribution."
-topics: [topic_aritmetica, topic_combinatoria]
-methods: [method_congruenze, method_conteggio, method_casework]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
-
-*Chocolates passed along a line: when the share is balanced, and which batches of boxes give a fair distribution.*
-
-> 7. Handing out chocolates
->
-> Papi Théo’s $n$ grandchildren stand in a line, numbered from $1$ to $n$. Each day he opens a box. On day $1$, child $1$ receives it, takes a chocolate and passes it on, and so on. On day $j$, child $j$ (modulo $n$, returning to $1$ after $n$) receives the full box. When the box reaches child $n$, it next goes to child $1$.
->
-> On day $j$ the box holds $j$ chocolates. Figure 13 shows $4$ children after $5$ days: they have received $5$, $3$, $4$ and $3$ chocolates respectively.
->
-> Figure 13. Four grandchildren after five days.
->
-> A configuration is balanced if, at that moment, every child has received the same number of chocolates.
->
-> 1. Depending on $n$, is the configuration balanced after $n$ days?
->
-> 2. Depending on $n$, is there a day at the end of which the configuration is balanced? If so, what is the first such day?
->
-> Write $b(j)$ for the number of chocolates on day $j$. The previous questions are the case $b(j) = j$.
->
-> 3. Every $d$ days one starts again from zero: $b(j)$ is the remainder of the Euclidean division of $j$ by $d$. Depending on $n$ and $d$, is there a day at the end of which the configuration is balanced? If so, what is the first?
->
-> Papi Théo now chooses $d$ integers $(b_1, \ldots, b_d)$ and sets $b(j) = b_\ell$, where $\ell$ is the remainder of $j$ divided by $d$. The previous case is $b_i = i$ for $1 \leqslant i < d$ and $b_d = 0$.
->
-> 4. Depending on $n$, $d$ and positive integers $(c_1, \ldots, c_n)$, can one choose $(b_1, \ldots, b_d)$ so that after $\mathrm{lcm}(n, d)$ days child $i$ has received exactly $c_i$ chocolates, for every $1 \leqslant i \leqslant n$?
->
-> A distribution is fair if there are infinitely many days at the end of which the configuration is balanced.
->
-> A batch $(h_1, \ldots, h_d)$ satisfies $0 \leqslant h_1 \leqslant h_2 \leqslant \cdots \leqslant h_d$. It is reasonable if some permutation $(b_1, \ldots, b_d)$ of its sizes gives a fair distribution. For $n = 4$ and $d = 4$, the batch $(1, 1, 3, 3)$ is reasonable, because $(b_1, b_2, b_3, b_4) = (1, 3, 1, 3)$ is fair. The batch $(0, 1, 1, 3)$ is not.
->
-> 5. If $n$ is fixed, for which values of $d$ is every batch reasonable?
->
-> 6. What are necessary and sufficient conditions for a given batch to be reasonable?
->
-> 7. If $b(j) = j^2$, is the distribution fair? And if $b(j) = j^k$ for another integer $k$?
->
-> 8. Propose and study other lines of inquiry.
-
-![[src_tfjm_2019__Q07.png]]
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-[[Quesiti/src_tfjm_2019#q07|src_tfjm_2019__Q07]]
-
-
-
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2019__Q07
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019, quesito 7"
-summary: "Cioccolatini passati in fila: quando la ripartizione è equilibrata, e quali lotti di scatole danno una distribuzione equa."
-topics: [topic_aritmetica, topic_combinatoria]
-methods: [method_congruenze, method_conteggio, method_casework]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Cioccolatini passati in fila: quando la ripartizione è equilibrata, e quali lotti di scatole danno una distribuzione equa.*
 
@@ -1014,11 +945,60 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2019#q07|src_tfjm_2019__Q07]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Chocolates passed along a line: when the share is balanced, and which batches of boxes give a fair distribution.*
+
+> 7. Handing out chocolates
+>
+> Papi Théo’s $n$ grandchildren stand in a line, numbered from $1$ to $n$. Each day he opens a box. On day $1$, child $1$ receives it, takes a chocolate and passes it on, and so on. On day $j$, child $j$ (modulo $n$, returning to $1$ after $n$) receives the full box. When the box reaches child $n$, it next goes to child $1$.
+>
+> On day $j$ the box holds $j$ chocolates. Figure 13 shows $4$ children after $5$ days: they have received $5$, $3$, $4$ and $3$ chocolates respectively.
+>
+> Figure 13. Four grandchildren after five days.
+>
+> A configuration is balanced if, at that moment, every child has received the same number of chocolates.
+>
+> 1. Depending on $n$, is the configuration balanced after $n$ days?
+>
+> 2. Depending on $n$, is there a day at the end of which the configuration is balanced? If so, what is the first such day?
+>
+> Write $b(j)$ for the number of chocolates on day $j$. The previous questions are the case $b(j) = j$.
+>
+> 3. Every $d$ days one starts again from zero: $b(j)$ is the remainder of the Euclidean division of $j$ by $d$. Depending on $n$ and $d$, is there a day at the end of which the configuration is balanced? If so, what is the first?
+>
+> Papi Théo now chooses $d$ integers $(b_1, \ldots, b_d)$ and sets $b(j) = b_\ell$, where $\ell$ is the remainder of $j$ divided by $d$. The previous case is $b_i = i$ for $1 \leqslant i < d$ and $b_d = 0$.
+>
+> 4. Depending on $n$, $d$ and positive integers $(c_1, \ldots, c_n)$, can one choose $(b_1, \ldots, b_d)$ so that after $\mathrm{lcm}(n, d)$ days child $i$ has received exactly $c_i$ chocolates, for every $1 \leqslant i \leqslant n$?
+>
+> A distribution is fair if there are infinitely many days at the end of which the configuration is balanced.
+>
+> A batch $(h_1, \ldots, h_d)$ satisfies $0 \leqslant h_1 \leqslant h_2 \leqslant \cdots \leqslant h_d$. It is reasonable if some permutation $(b_1, \ldots, b_d)$ of its sizes gives a fair distribution. For $n = 4$ and $d = 4$, the batch $(1, 1, 3, 3)$ is reasonable, because $(b_1, b_2, b_3, b_4) = (1, 3, 1, 3)$ is fair. The batch $(0, 1, 1, 3)$ is not.
+>
+> 5. If $n$ is fixed, for which values of $d$ is every batch reasonable?
+>
+> 6. What are necessary and sufficient conditions for a given batch to be reasonable?
+>
+> 7. If $b(j) = j^2$, is the distribution fair? And if $b(j) = j^k$ for another integer $k$?
+>
+> 8. Propose and study other lines of inquiry.
+
+![[src_tfjm_2019__Q07.png]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_conteggio,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *Quartiers d’une grille triangulaire : losangisations, types d’immeubles et valences.*
 
@@ -1064,79 +1044,8 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__en" data-atom="q08__en" data-title="Q08__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2019__Q08
-lang: en
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Question 8"
-summary: "Districts of a triangular grid: rhombisations, building types and valences."
-topics: [topic_combinatoria, topic_geometria_piana]
-methods: [method_colorazione, method_conteggio, method_invarianti, method_casework]
-skills: [skill_ragionamento_geometrico, skill_conteggio_sistematico, skill_modellizzazione]
-tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
-
-*Districts of a triangular grid: rhombisations, building types and valences.*
-
-> 8. Los Angeles
->
-> The city is an infinite triangular grid: each equilateral triangle of side $1$ is a building. A district is a finite set of buildings. Two buildings that share a side are neighbours.
->
-> Figure 14. A district of Los Angeles.
->
-> Lamia wants to partition districts into condominiums, which are rhombi made of two neighbouring buildings. Such a partition of a district $Q$ is a rhombisation. Write $\mathrm{Los}(Q)$ for the number of them. For Figure 14, $\mathrm{Los}(Q) = 0$: the blue district cannot be rhombised. For Figure 15, $\mathrm{Los}(Q) = 1$.
->
-> Figure 15. A rhombisation of a district.
->
-> 1. If $Q$ has one of the following shapes, can it be rhombised? If so, in how many ways? If not, how many condominiums can one form at most?
-> a) An equilateral triangle of side $n$.
-> b) A rhombus of side $n$.
-> c) A rhombus of side $n$ with two buildings removed. Adapt the answer to the position of the removed buildings.
->
-> Two buildings of the same district $Q$ are of the same type if they have the same orientation and their neighbours in $Q$ lie on the same sides. In Figure 16, buildings $1$ and $6$ are of the same type, as are $2$ and $4$. The others are unique.
->
-> Figure 16. An example of building types.
->
-> Lamia does not know $Q$, but she knows how many buildings there are of each type. This information is written $I$.
->
-> 2. Find necessary conditions on $I$ for the district to be rhombisable, and sufficient conditions. Can one find necessary and sufficient conditions?
->
-> 3. Deduce from $I$ bounds on $\mathrm{Los}(Q)$ that are as sharp as possible.
->
-> The valence of a building is the number of its neighbours in the district. For $0 \leqslant i \leqslant 3$, write $V_i(Q)$ for the number of buildings of valence $i$ in $Q$.
->
-> 4. Which quadruples $\bigl(V_0(Q), V_1(Q), V_2(Q), V_3(Q)\bigr)$ are possible:
-> a) if $Q$ is an arbitrary district?
-> b) if $Q$ is rhombisable?
->
-> 5. Propose and study other lines of inquiry.
-
-![[src_tfjm_2019__Q08.png]]
-
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-[[Quesiti/src_tfjm_2019#q08|src_tfjm_2019__Q08]]
-
-
-
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2019__Q08
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019, quesito 8"
-summary: "Quartieri di una griglia triangolare: rombizzazioni, tipi di palazzi e valenze."
-topics: [topic_combinatoria, topic_geometria_piana]
-methods: [method_colorazione, method_conteggio, method_invarianti, method_casework]
-skills: [skill_ragionamento_geometrico, skill_conteggio_sistematico, skill_modellizzazione]
-tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 
 *Quartieri di una griglia triangolare: rombizzazioni, tipi di palazzi e valenze.*
 
@@ -1179,4 +1088,49 @@ tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-[[Quesiti/src_tfjm_2019#q08|src_tfjm_2019__Q08]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Districts of a triangular grid: rhombisations, building types and valences.*
+
+> 8. Los Angeles
+>
+> The city is an infinite triangular grid: each equilateral triangle of side $1$ is a building. A district is a finite set of buildings. Two buildings that share a side are neighbours.
+>
+> Figure 14. A district of Los Angeles.
+>
+> Lamia wants to partition districts into condominiums, which are rhombi made of two neighbouring buildings. Such a partition of a district $Q$ is a rhombisation. Write $\mathrm{Los}(Q)$ for the number of them. For Figure 14, $\mathrm{Los}(Q) = 0$: the blue district cannot be rhombised. For Figure 15, $\mathrm{Los}(Q) = 1$.
+>
+> Figure 15. A rhombisation of a district.
+>
+> 1. If $Q$ has one of the following shapes, can it be rhombised? If so, in how many ways? If not, how many condominiums can one form at most?
+> a) An equilateral triangle of side $n$.
+> b) A rhombus of side $n$.
+> c) A rhombus of side $n$ with two buildings removed. Adapt the answer to the position of the removed buildings.
+>
+> Two buildings of the same district $Q$ are of the same type if they have the same orientation and their neighbours in $Q$ lie on the same sides. In Figure 16, buildings $1$ and $6$ are of the same type, as are $2$ and $4$. The others are unique.
+>
+> Figure 16. An example of building types.
+>
+> Lamia does not know $Q$, but she knows how many buildings there are of each type. This information is written $I$.
+>
+> 2. Find necessary conditions on $I$ for the district to be rhombisable, and sufficient conditions. Can one find necessary and sufficient conditions?
+>
+> 3. Deduce from $I$ bounds on $\mathrm{Los}(Q)$ that are as sharp as possible.
+>
+> The valence of a building is the number of its neighbours in the district. For $0 \leqslant i \leqslant 3$, write $V_i(Q)$ for the number of buildings of valence $i$ in $Q$.
+>
+> 4. Which quadruples $\bigl(V_0(Q), V_1(Q), V_2(Q), V_3(Q)\bigr)$ are possible:
+> a) if $Q$ is an arbitrary district?
+> b) if $Q$ is rhombisable?
+>
+> 5. Propose and study other lines of inquiry.
+
+![[src_tfjm_2019__Q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]

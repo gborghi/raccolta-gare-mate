@@ -226,6 +226,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Cinq réels, sommes deux à deux : retrouver e*
 
 > **Exercice 5**
@@ -239,48 +242,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_printemps__Q05
-lang: en
-secondary: true
-title: "Coupe Animath Printemps 2016 — Exercise 5"
-summary: "Five reals, pairwise sums: recover e"
-topics: [topic_algebra, topic_aritmetica]
-methods: [method_casework]
-skills: [skill_manipolazione_algebrica, skill_casework_accurato]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
-
-*Five reals, pairwise sums: recover e*
-
-> **Exercise 5**
->
-> Let $a < b < c < d < e$ be real numbers. All possible sums of two distinct numbers among these five are computed. The three smallest equal $32$, $36$ and $37$, and the two largest equal $48$ and $51$. Find all possible values of $e$.
-
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-[[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
-
-
-
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_printemps__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2016 — Esercizio 5"
-summary: "Cinque reali, somme a due a due: ritrovare e"
-topics: [topic_algebra, topic_aritmetica]
-methods: [method_casework]
-skills: [skill_manipolazione_algebrica, skill_casework_accurato]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Cinque reali, somme a due a due: ritrovare e*
 
@@ -292,7 +255,21 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Five reals, pairwise sums: recover e*
+
+> **Exercise 5**
+>
+> Let $a < b < c < d < e$ be real numbers. All possible sums of two distinct numbers among these five are computed. The three smallest equal $32$, $36$ and $37$, and the two largest equal $48$ and $51$. Find all possible values of $e$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 

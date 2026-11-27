@@ -42,6 +42,9 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Who is right about the 'additivity of fractions' identity a/b+c/d=(a+c)/(b+d)*
 
 > Let $b$ and $d$ be nonzero real numbers such that $b+d$ is also nonzero. Mathias claims that the identity $\dfrac{a}{b}+\dfrac{c}{d}=\dfrac{a+c}{b+d}$ is true for all real numbers $a$ and $c$: he calls it the "additivity of fractions". Mathilde thinks that this additivity of fractions is correct if and only if there exists a real number $m$ such that $a=mb^2$ and $c=-md^2$. Their professor recalls that one can add fractions as Mathias proposes if and only if they have the same denominator, that is, $b=d$. An inspector claims that this "additivity of fractions" is always false. Who is right: Mathias, Mathilde, the professor, the inspector, or none of the four? Justify your answer carefully.
@@ -53,20 +56,8 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_printemps__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2012  Quesito 4"
-summary: "Chi ha ragione sull'identità di 'additività delle frazioni' a/b+c/d=(a+c)/(b+d)"
-topics: [topic_algebra]
-methods: [method_fattorizzazione, method_casework]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/algebra]---
 
 *Chi ha ragione sull'identità di "additività delle frazioni" a/b+c/d=(a+c)/(b+d)*
 
@@ -76,7 +67,6 @@ tags: [kg/translation, topic/algebra]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2012_printemps#q04|src_canimath_2012_printemps__Q04]]
 
 
 
@@ -112,6 +102,9 @@ tags: [kg/translation, topic/algebra]---
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,topic_trigonometria,method_trigonometria,method_disuguaglianze,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Inequality aa'+bb'+cc' <= 2S+R(a+b+c) for acute triangles, and whether it holds for obtuse ones*
 
 > Let $ABC$ be a triangle of area $S$. Denote by $a=BC$, $b=CA$, $c=AB$ the lengths of its sides, and $a'=AA'$, $b'=BB'$, $c'=CC'$ the lengths of its medians, where $A'$, $B'$, $C'$ are the respective midpoints of $BC$, $CA$, $AB$. Let $R$ be the radius of the circumscribed circle of $ABC$. Show that $aa'+bb'+cc'\le 2S+R(a+b+c)$ if $ABC$ is acute (that is, if all the angles of $ABC$ are less than $90^\circ$). Is this inequality also true for all obtuse triangles (those with one angle greater than $90^\circ$)?
@@ -123,20 +116,8 @@ tags: [kg/translation, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2012_printemps__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2012  Quesito 6"
-summary: "Ineguaglianza aa'+bb'+cc' <= 2S+R(a+b+c) per i triangoli acuti e se vale per quelli obtusi"
-topics: [topic_geometria_piana, topic_disuguaglianze, topic_trigonometria]
-methods: [method_trigonometria, method_disuguaglianze, method_casework]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze, topic/trigonometria]---
 
 *Ineguaglianza aa'+bb'+cc' <= 2S+R(a+b+c) per i triangoli acuti, e se vale per quelli obtusi*
 
@@ -146,4 +127,3 @@ tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze, topic/trigon
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2012_printemps#q06|src_canimath_2012_printemps__Q06]]

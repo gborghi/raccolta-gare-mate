@@ -12,6 +12,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Three numbers sum to 96 with ratio and difference conditions*
 
 > The sum of three numbers is 96. The first of them is 6 times the third, and the third is 40 less than the second. What is the value of the first number?
@@ -25,19 +28,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_printemps__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2024  Quesito 1"
-summary: "Tre numeri sommano a 96 con condizioni di rapporto e differenza"
-topics: [topic_algebra]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/algebra]---
 
 *Tre numeri sommano 96 con condizioni di rapporto e di differenza*
 
@@ -49,11 +41,13 @@ tags: [kg/translation, topic/algebra]---
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 42
-[[Quesiti/src_canimath_2024_printemps#q01|src_canimath_2024_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram with equal segments, angle bisector perpendicular to KL*
 
@@ -66,20 +60,8 @@ tags: [kg/translation, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_printemps__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2024  Quesito 2"
-summary: "Paralleogramma con segmenti uguali, angolo bisettore perpendicolare a KL"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Parallelogramma con segmenti uguali, bisettore angolare perpendicolare a KL*
 
@@ -89,7 +71,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2024_printemps#q02|src_canimath_2024_printemps__Q02]]
 
 
 
@@ -233,6 +214,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Isosceles triangle geometry: show BH bisects angle GBA*
 
 > Let $ABC$ be an isosceles triangle with apex $A$. Let $D$ be the midpoint of segment $[AC]$ and $G$ the centroid of triangle $ABC$. The line $(BD)$ intersects the circle of diameter $[AC]$ at point $E$, in such a way that $E$ and $B$ are on either side of $(AC)$. The perpendicular bisector of segment $[EC]$ meets the line $(AG)$ at point $H$.
@@ -246,20 +230,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_printemps__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2024  Quesito 7"
-summary: "Geometria triangolare di isoceles: mostra angolo BH bisects GBA"
-topics: [topic_geometria_piana]
-methods: [method_simmetria, method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Geometria triangolare di isosceles: mostra l'angolo GBA*
 
@@ -271,7 +243,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2024_printemps#q07|src_canimath_2024_printemps__Q07]]
 
 
 
@@ -344,6 +315,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Triangle with incenter: show angle BID is at least 90 degrees*
 
 > Let $ABC$ be a non-flat triangle. Let $I$ be the center of its inscribed circle and $D$ the point of intersection of the bisector of angle $\widehat{BAC}$ with the segment $[BC]$. Show that $\widehat{BID} \ge 90^\circ$.
@@ -355,20 +329,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_printemps__Q10
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2024  Quesito 10"
-summary: "Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi*
 
@@ -378,7 +340,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2024_printemps#q10|src_canimath_2024_printemps__Q10]]
 
 
 
@@ -486,6 +447,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Isosceles triangle geometry: BH bisects angle GEA; EF parallel to BH*
 
 > Let $ABC$ be an isosceles triangle with apex $A$. Let $D$ be the midpoint of segment $[AC]$ and $G$ the centroid of triangle $ABC$. The line $(BD)$ intersects the circle of diameter $[AC]$ at point $E$, in such a way that $E$ and $B$ are on either side of $(AC)$. The perpendicular bisector of segment $[EC]$ meets the line $(AG)$ at point $H$.
@@ -501,20 +465,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_printemps__Q14
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2024  Quesito 14"
-summary: "Geometria triangolare di isosceles: BH bisecta angolo GEA; EF parallelo a BH"
-topics: [topic_geometria_piana]
-methods: [method_simmetria, method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Geometria triangolare isosceles: BH bisecta angolo GEA; EF parallelo a BH*
 
@@ -528,11 +480,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2024_printemps#q14|src_canimath_2024_printemps__Q14]]
 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_bigezione,method_estremalita,method_induzione,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest c so that sum of 1/z_i < c guarantees Theo can give every student a liked gift*
 
@@ -547,20 +501,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_printemps__Q15
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2024  Quesito 15"
-summary: "Trova la più grande c in modo che la somma di 1/z_i < c garantisce che Theo può dare a ogni studente un regalo piacevole"
-topics: [topic_combinatoria]
-methods: [method_bigezione, method_estremalita, method_induzione]
-skills: [skill_modellizzazione, skill_astrazione, skill_conteggio_sistematico]
-tags: [kg/translation, topic/combinatoria]---
 
 *Trova il più grande c in modo che la somma di 1/z_i < c garantisca che Theo possa dare a ogni studente un regalo*
 
@@ -572,4 +514,3 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2024_printemps#q15|src_canimath_2024_printemps__Q15]]

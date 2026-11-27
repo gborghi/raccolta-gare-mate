@@ -102,6 +102,9 @@ level: INMO
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Permutations of 1,...,k not extendable; find number of such permutations*
 
 > Find the number of permutations $(p_1, p_2, \ldots, p_6)$ of $1, 2, \ldots, 6$ such that for any $k$, $1 \le k \le 5$, $(p_1, p_2, \ldots, p_k)$ does not form a permutation of $1, 2, \ldots, k$.
@@ -113,20 +116,8 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_inmo_1992__Q04
-lang: it
-secondary: true
-title: "Indian National Mathematical Olympiad 1992 — Quesito 4"
-summary: "Permutazioni di 1,...,k non estendibili; trovare il numero di tali permutazioni"
-topics: [topic_combinatoria]
-methods: [method_conteggio, method_inclusione_esclusione, method_casework]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/combinatoria]---
 
 *Permutazioni di 1,...,k non estendibili; trovare il numero di tali permutazioni*
 
@@ -136,7 +127,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_inmo_1992#q04|src_inmo_1992__Q04]]
 
 
 

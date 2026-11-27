@@ -136,6 +136,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_bigezione,method_invarianti,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Odd positive integer n; divisors of 2n; find odd divisor in (k, 2k]*
 
 > Let $n$ be an odd positive integer and $k$ a strictly positive integer. Suppose that the number of positive divisors of $2n$ that are less than or equal to $k$ is odd. Show that there exists a divisor $d$ of $2n$ such that $k < d \le 2k$ and $d$ is odd.
@@ -147,20 +150,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2022  Quesito 5"
-summary: "Numero intero positivo odd n; divisori di 2n; trovare divisore odd in (k, 2k)"
-topics: [topic_aritmetica, topic_combinatoria]
-methods: [method_bigezione, method_invarianti]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Odd intero positivo n; divisori di 2n; trovare divisore pari in (k, 2k]*
 
@@ -170,7 +161,6 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2022_automne#q05|src_canimath_2022_automne__Q05]]
 
 
 
@@ -206,6 +196,9 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Cyclic sum of n positive reals strictly between 1 and n-1*
 
 > Let $n \ge 3$ be a strictly positive integer. Show that for all strictly positive reals $x_1, x_2, \ldots, x_n$, one has the inequality:
@@ -218,20 +211,8 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2022  Quesito 7"
-summary: "Somma ciclica di n valori reali positivi strettamente tra 1 e n-1"
-topics: [topic_disuguaglianze, topic_algebra]
-methods: [method_disuguaglianze, method_simmetria]
-skills: [skill_manipolazione_algebrica, skill_stima, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Summa ciclica di n valori reali positivi strettamente compresi tra 1 e n-1*
 
@@ -241,11 +222,13 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2022_automne#q07|src_canimath_2022_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a nested radical expression*
 
@@ -261,20 +244,8 @@ tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_automne__Q08
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2022  Quesito 8"
-summary: "Calcolare un'espressione radicale incastonata"
-topics: [topic_algebra, topic_aritmetica]
-methods: [method_ricorsione]
-skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Calcolare un'espressione radicale annidata*
 
@@ -285,7 +256,6 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
-[[Quesiti/src_canimath_2022_automne#q08|src_canimath_2022_automne__Q08]]
 
 
 
@@ -351,6 +321,9 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_doppio_conteggio,method_simmetria,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Integers 1–31 on circle; counting neighbors; number opposite 11*
 
 > The integers $1, 2, \ldots, 31$ are arranged around a circle in some order. For each of the 31 integers $k$, Matthieu counts:
@@ -365,20 +338,8 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_automne__Q11
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2022  Quesito 11"
-summary: "Integri 131 sul cerchio; contare i vicini; numero opposto a 11"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_invarianti, method_doppio_conteggio, method_simmetria]
-skills: [skill_lettura_attenta, skill_ragionamento_geometrico, skill_conteggio_sistematico]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Integri 131 sul cerchio; contando i vicini; numero opposto 11*
 
@@ -388,11 +349,13 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2022_automne#q11|src_canimath_2022_automne__Q11]]
 
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_bigezione,method_invarianti,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Odd n; odd number of divisors of 2n up to k; find odd divisor in (k, 2k]*
 
@@ -405,20 +368,8 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_automne__Q12
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2022  Quesito 12"
-summary: "Odd n; numero odd di divisori di 2n fino a k; trovare divisore odd in (k, 2k)"
-topics: [topic_aritmetica, topic_combinatoria]
-methods: [method_bigezione, method_invarianti]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Odd n; numero impar di divisori di 2n fino a k; trovare divisore impar in (k, 2k]*
 
@@ -428,7 +379,6 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2022_automne#q12|src_canimath_2022_automne__Q12]]
 
 
 
@@ -507,6 +457,9 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,method_induzione,method_grafi,skill_astrazione,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Largest r such that n reals contain r with no two at distance 1 (or alpha)*
 
 > Let $n$ be a strictly positive integer.
@@ -524,20 +477,8 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2022_automne__Q15
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2022  Quesito 15"
-summary: "Maggiore r tale che n reali contengano r senza due a distanza 1 (o alfa)"
-topics: [topic_combinatoria, topic_algebra]
-methods: [method_estremalita, method_casework, method_induzione, method_grafi]
-skills: [skill_astrazione, skill_lettura_attenta, skill_conteggio_sistematico, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *R più grande tale che n reali contengano r senza due a distanza 1 (o alfa)*
 
@@ -553,4 +494,3 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2022_automne#q15|src_canimath_2022_automne__Q15]]

@@ -140,6 +140,9 @@ level: Concours Général
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Écritures de 1/4 et de 1 comme sommes de trois ou n inverses de carrés*
 
 > **Exercice III**
@@ -159,54 +162,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1990__Q03
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1990 — Exercise III"
-summary: "Writing 1/4 and 1 as sums of three or n reciprocals of squares"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_casework, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
-
-*Writing 1/4 and 1 as sums of three or n reciprocals of squares*
-
-> **Exercise III**
->
-> 1. Find three nonnegative integers $a$, $b$, $c$, distinct or not, such that
->
-> $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
->
-> 2. Determine all nonnegative integers $n$ such that there exist $n$ nonnegative integers $x_1, x_2, \ldots, x_n$, distinct or not, satisfying
->
-> $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
-
-
-
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1990__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1990 — Esercizio III"
-summary: "Scrivere 1/4 e 1 come somme di tre o n reciproci di quadrati"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_casework, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Scrivere 1/4 e 1 come somme di tre o n reciproci di quadrati*
 
@@ -224,11 +181,34 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Writing 1/4 and 1 as sums of three or n reciprocals of squares*
+
+> **Exercise III**
+>
+> 1. Find three nonnegative integers $a$, $b$, $c$, distinct or not, such that
+>
+> $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
+>
+> 2. Determine all nonnegative integers $n$ such that there exist $n$ nonnegative integers $x_1, x_2, \ldots, x_n$, distinct or not, satisfying
+>
+> $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *Aire maximale d'un triangle inscrit dans un carré, volume maximal d'un tétraèdre inscrit dans un cube*
 
@@ -244,49 +224,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1990__Q04
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1990 — Exercise IV"
-summary: "Maximum area of a triangle with vertices in a square, maximum volume of a tetrahedron with vertices in a cube"
-topics: [topic_geometria_solida, topic_geometria_piana]
-methods: [method_estremalita, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima]
-tags: [kg/translation, topic/geometria_solida, topic/geometria_piana]---
-
-*Maximum area of a triangle with vertices in a square, maximum volume of a tetrahedron with vertices in a cube*
-
-> **Exercise IV**
->
-> 1. What is the maximum area of a triangle whose vertices lie in a given square?
-> 2. What is the maximum volume of a tetrahedron whose vertices lie in a given cube?
-
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
-**Area:** [[Geometria|Geometry]]
-[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
-
-
-
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1990__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1990 — Esercizio IV"
-summary: "Area massima di un triangolo con vertici in un quadrato, volume massimo di un tetraedro con vertici in un cubo"
-topics: [topic_geometria_solida, topic_geometria_piana]
-methods: [method_estremalita, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima]
-tags: [kg/translation, topic/geometria_solida, topic/geometria_piana]---
 
 *Area massima di un triangolo con vertici in un quadrato, volume massimo di un tetraedro con vertici in un cubo*
 
@@ -299,11 +238,29 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_piana]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum area of a triangle with vertices in a square, maximum volume of a tetrahedron with vertices in a cube*
+
+> **Exercise IV**
+>
+> 1. What is the maximum area of a triangle whose vertices lie in a given square?
+> 2. What is the maximum volume of a tetrahedron whose vertices lie in a given cube?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,topic_insiemi_funzioni,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *Aire maximale délimitée par un cercle exinscrit, à périmètre fixé*
 
@@ -328,58 +285,8 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1990__Q05
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1990 — Exercise V"
-summary: "Maximum area cut off by an excircle, for a given perimeter"
-topics: [topic_geometria_piana, topic_trigonometria, topic_insiemi_funzioni]
-methods: [method_estremalita, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/insiemi_funzioni]---
-
-*Maximum area cut off by an excircle, for a given perimeter*
-
-> **Exercise V**
->
-> For every triangle $ABC$, denote:
->
-> - by $\Gamma$ its excircle in the angle at the vertex $A$;
-> - by $A'$, $B'$, $C'$ the respective points of tangency of $\Gamma$ with the lines $(BC)$, $(CA)$ and $(AB)$;
-> - by $S(ABC)$ the area of the region bounded by the segments $[AB']$, $[AC']$ and the arc $\overset{\frown}{C'A'B'}$ of $\Gamma$.
->
-> Prove that there exist triangles $ABC$ of given perimeter $2p$ for which the area $S(ABC)$ is maximal.
->
-> For such a triangle, give an approximate value, to the nearest degree, of the measure of the angle at $A$.
-
-![[src_cgen_1990__Q05.png]]
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_insiemi_funzioni|Sets and functions]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]
-
-
-
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1990__Q05
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1990 — Esercizio V"
-summary: "Area massima delimitata da un cerchio exinscritto, a perimetro fissato"
-topics: [topic_geometria_piana, topic_trigonometria, topic_insiemi_funzioni]
-methods: [method_estremalita, method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/insiemi_funzioni]---
 
 *Area massima delimitata da un cerchio exinscritto, a perimetro fissato*
 
@@ -401,4 +308,28 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/insiemi
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum area cut off by an excircle, for a given perimeter*
+
+> **Exercise V**
+>
+> For every triangle $ABC$, denote:
+>
+> - by $\Gamma$ its excircle in the angle at the vertex $A$;
+> - by $A'$, $B'$, $C'$ the respective points of tangency of $\Gamma$ with the lines $(BC)$, $(CA)$ and $(AB)$;
+> - by $S(ABC)$ the area of the region bounded by the segments $[AB']$, $[AC']$ and the arc $\overset{\frown}{C'A'B'}$ of $\Gamma$.
+>
+> Prove that there exist triangles $ABC$ of given perimeter $2p$ for which the area $S(ABC)$ is maximal.
+>
+> For such a triangle, give an approximate value, to the nearest degree, of the measure of the angle at $A$.
+
+![[src_cgen_1990__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]

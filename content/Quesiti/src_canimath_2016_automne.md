@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Logic: who broke the window among four children*
 
 > Alice, Bernard, Cédric and Diane were playing tennis in the courtyard. Suddenly the ball broke the neighbour's window. Furious, the neighbour approached the four children.
@@ -28,20 +31,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2016  Quesito 1"
-summary: "Logico: chi ha rotto la finestra tra quattro bambini"
-topics: [topic_logica]
-methods: [method_casework]
-skills: [skill_ragionamento_geometrico, skill_casework_accurato, skill_lettura_attenta]
-tags: [kg/translation, topic/logica]---
 
 La logica: chi ha rotto la finestra tra quattro bambini
 
@@ -56,11 +47,13 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Cédric
-[[Quesiti/src_canimath_2016_automne#q01|src_canimath_2016_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle AOF given isosceles right triangles with OA=8 cm*
 
@@ -76,20 +69,8 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2016  Quesito 2"
-summary: "Area del triangolo AOF dati triangoli rettangolari con OA=8 cm"
-topics: [topic_geometria_piana]
-methods: [method_casework]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *L'area del triangolo AOF data a triangoli rettangolari con OA=8 cm*
 
@@ -102,11 +83,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 32
-[[Quesiti/src_canimath_2016_automne#q02|src_canimath_2016_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_ricorsione,method_induzione,method_inclusione_esclusione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Colour 2016 collinear points in 3 colours, count ways*
 
@@ -120,20 +103,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2016  Quesito 3"
-summary: "Colore 2016 punti collineari in 3 colori, modi di contare"
-topics: [topic_combinatoria]
-methods: [method_ricorsione, method_induzione, method_inclusione_esclusione]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/combinatoria]---
 
 *Colour 2016 punti collineari in 3 colori, modi di conteggio*
 
@@ -144,11 +115,13 @@ tags: [kg/translation, topic/combinatoria]---
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
-[[Quesiti/src_canimath_2016_automne#q03|src_canimath_2016_automne__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two externally tangent circles; common tangent meets circles; show T,X,Z collinear*
 
@@ -160,19 +133,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_automne__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2016  Quesito 4"
-summary: "Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostra T,X,Z collineare"
-topics: [topic_geometria_piana]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostrare T,X,Z collineare*
 
@@ -181,7 +143,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2016_automne#q04|src_canimath_2016_automne__Q04]]
 
 
 
@@ -251,6 +212,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Game: replace n on board; who wins?*
 
 > The number "3" is written on a board. Alice and Bernard play the following game: each in turn, one designates by $n$ the number written on the board; the player replaces it by an integer $m$ such that $n < m < n^2$, and such that $m$ has no common divisor with $n$ other than 1. The first player to reach a number greater than or equal to 2016 loses the round. Alice goes first.
@@ -264,20 +228,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2016  Quesito 7"
-summary: "Gioco: sostituire n a bordo; chi vince?"
-topics: [topic_combinatoria, topic_logica]
-methods: [method_invarianti, method_backward, method_casework]
-skills: [skill_ragionamento_geometrico, skill_riconoscimento_pattern, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 Gioco: sostituire n a bordo; chi vince?
 
@@ -289,11 +241,13 @@ Gioco: sostituire n a bordo; chi vince?
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2016_automne#q07|src_canimath_2016_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum integers equal to 1 in a 'jolie' list of 100 positive integers*
 
@@ -307,20 +261,8 @@ Gioco: sostituire n a bordo; chi vince?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2016_automne__Q08
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2016  Quesito 8"
-summary: "Numeri interi minimi uguali a 1 in un elenco 'jolie' di 100 numeri interi positivi"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_estremalita, method_casework]
-skills: [skill_manipolazione_algebrica, skill_conteggio_sistematico, skill_stima]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Minimum di numeri interi uguali a 1 in un elenco "jolie" di 100 numeri interi positivi*
 
@@ -331,4 +273,3 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 95
-[[Quesiti/src_canimath_2016_automne#q08|src_canimath_2016_automne__Q08]]

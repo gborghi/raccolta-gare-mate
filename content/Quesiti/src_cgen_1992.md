@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_insiemi_funzioni,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Image d'une partie convexe par les milieux des segments vus depuis un point*
 
 > **Exercice I**
@@ -47,70 +50,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__en" data-atom="q01__en" data-title="Q01__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1992__Q01
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1992 — Exercise I"
-summary: "Image of a convex set under midpoints of segments seen from a point"
-topics: [topic_geometria_piana, topic_insiemi_funzioni]
-methods: [method_simmetria, method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/geometria_piana, topic/insiemi_funzioni]---
-
-*Image of a convex set under midpoints of segments seen from a point*
-
-> **Exercise I**
->
-> A nonempty subset $\Delta$ of the plane $\mathcal{P}$ is said to be convex if it has the following property: for every pair $(M, N)$ of points of $\Delta$, the segment $[MN]$ is contained in $\Delta$.
->
-> Let $\Delta$ be a convex subset of the plane $\mathcal{P}$. If $A$ is a point of $\mathcal{P}$, to every pair $(M, N)$ of points of $\Delta$ one associates the point $m$ defined by
->
-> $$Am = \frac{1}{2}\, MN,$$
->
-> and one denotes by $\delta_A(\Delta)$ the set of points $m$ thus obtained.
->
-> 1. a. Prove that $\delta_A(\Delta)$ has a centre of symmetry.
->
-> b. Under what condition does one have $\delta_A(\Delta) = \Delta$?
->
-> c. Let $B$ and $C$ be two points of the plane $\mathcal{P}$. By what transformation does one pass from $\delta_B(\Delta)$ to $\delta_C(\Delta)$?
->
-> 2. Let $A$ be a point of the plane $\mathcal{P}$. Determine and draw $\delta_A(\Delta)$ when:
->
-> a. $\Delta$ is a strip of the plane $\mathcal{P}$ bounded by two parallel lines;
->
-> b. $\Delta$ is bounded by a triangle;
->
-> c. $\Delta$ is a half-disk.
->
-> 3. Prove that in the two cases 2. b. and 2. c., the boundaries of $\Delta$ and of $\delta_A(\Delta)$ have the same length.
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_insiemi_funzioni|Sets and functions]]
-**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_cgen_1992#q01|src_cgen_1992__Q01]]
-
-
-
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1992__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1992 — Esercizio I"
-summary: "Immagine di una parte convessa tramite i punti medi dei segmenti visti da un punto"
-topics: [topic_geometria_piana, topic_insiemi_funzioni]
-methods: [method_simmetria, method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/geometria_piana, topic/insiemi_funzioni]---
 
 *Immagine di una parte convessa tramite i punti medi dei segmenti visti da un punto*
 
@@ -144,11 +85,50 @@ tags: [kg/translation, topic/geometria_piana, topic/insiemi_funzioni]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_1992#q01|src_cgen_1992__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Image of a convex set under midpoints of segments seen from a point*
+
+> **Exercise I**
+>
+> A nonempty subset $\Delta$ of the plane $\mathcal{P}$ is said to be convex if it has the following property: for every pair $(M, N)$ of points of $\Delta$, the segment $[MN]$ is contained in $\Delta$.
+>
+> Let $\Delta$ be a convex subset of the plane $\mathcal{P}$. If $A$ is a point of $\mathcal{P}$, to every pair $(M, N)$ of points of $\Delta$ one associates the point $m$ defined by
+>
+> $$Am = \frac{1}{2}\, MN,$$
+>
+> and one denotes by $\delta_A(\Delta)$ the set of points $m$ thus obtained.
+>
+> 1. a. Prove that $\delta_A(\Delta)$ has a centre of symmetry.
+>
+> b. Under what condition does one have $\delta_A(\Delta) = \Delta$?
+>
+> c. Let $B$ and $C$ be two points of the plane $\mathcal{P}$. By what transformation does one pass from $\delta_B(\Delta)$ to $\delta_C(\Delta)$?
+>
+> 2. Let $A$ be a point of the plane $\mathcal{P}$. Determine and draw $\delta_A(\Delta)$ when:
+>
+> a. $\Delta$ is a strip of the plane $\mathcal{P}$ bounded by two parallel lines;
+>
+> b. $\Delta$ is bounded by a triangle;
+>
+> c. $\Delta$ is a half-disk.
+>
+> 3. Prove that in the two cases 2. b. and 2. c., the boundaries of $\Delta$ and of $\delta_A(\Delta)$ have the same length.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,topic_disuguaglianze,method_estremalita,method_trigonometria,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="fr"></div>
+
 
 *Triangles et quadrilatères inscrits maximisant une somme de carrés de distances*
 
@@ -175,60 +155,8 @@ tags: [kg/translation, topic/geometria_piana, topic/insiemi_funzioni]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__en" data-atom="q02__en" data-title="Q02__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1992__Q02
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1992 — Exercise II"
-summary: "Inscribed triangles and quadrilaterals maximising a sum of squared distances"
-topics: [topic_geometria_piana, topic_trigonometria, topic_disuguaglianze]
-methods: [method_estremalita, method_trigonometria, method_simmetria]
-skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/disuguaglianze]---
-
-*Inscribed triangles and quadrilaterals maximising a sum of squared distances*
-
-> **Exercise II**
->
-> Let $(C)$ be a circle in the plane of radius $\ell$.
->
-> 1. Determine the triangles $ABC$ inscribed in the circle $(C)$ for which the sum
->
-> $$AB^2 + BC^2 + CA^2$$
->
-> is maximal.
->
-> 2. Determine the quadrilaterals $ABCD$ inscribed in the circle $(C)$ for which the sum
->
-> $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$
->
-> is maximal. Draw such a quadrilateral.
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
-[[Quesiti/src_cgen_1992#q02|src_cgen_1992__Q02]]
-
-
-
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1992__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1992 — Esercizio II"
-summary: "Triangoli e quadrilateri inscritti che massimizzano una somma di quadrati di distanze"
-topics: [topic_geometria_piana, topic_trigonometria, topic_disuguaglianze]
-methods: [method_estremalita, method_trigonometria, method_simmetria]
-skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/disuguaglianze]---
 
 *Triangoli e quadrilateri inscritti che massimizzano una somma di quadrati di distanze*
 
@@ -252,7 +180,33 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/disugua
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_1992#q02|src_cgen_1992__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Inscribed triangles and quadrilaterals maximising a sum of squared distances*
+
+> **Exercise II**
+>
+> Let $(C)$ be a circle in the plane of radius $\ell$.
+>
+> 1. Determine the triangles $ABC$ inscribed in the circle $(C)$ for which the sum
+>
+> $$AB^2 + BC^2 + CA^2$$
+>
+> is maximal.
+>
+> 2. Determine the quadrilaterals $ABCD$ inscribed in the circle $(C)$ for which the sum
+>
+> $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$
+>
+> is maximal. Draw such a quadrilateral.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -389,6 +343,9 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/disugua
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Chiffre des unités de la partie entière de 10^{1992}/(10^{83}+7)*
 
 > **Exercice V**
@@ -404,50 +361,8 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/disugua
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1992__Q05
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1992 — Exercise V"
-summary: "Units digit of the integer part of 10^{1992}/(10^{83}+7)"
-topics: [topic_aritmetica]
-methods: [method_congruenze, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_stima]
-tags: [kg/translation, topic/aritmetica]---
-
-*Units digit of the integer part of 10^{1992}/(10^{83}+7)*
-
-> **Exercise V**
->
-> What is the units digit of the greatest integer less than or equal to
->
-> $$\frac{10^{1992}}{10^{83}+7}\ ?$$
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_stima|Estimation and approximation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-[[Quesiti/src_cgen_1992#q05|src_cgen_1992__Q05]]
-
-
-
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1992__Q05
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1992 — Esercizio V"
-summary: "Cifra delle unità della parte intera di 10^{1992}/(10^{83}+7)"
-topics: [topic_aritmetica]
-methods: [method_congruenze, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_stima]
-tags: [kg/translation, topic/aritmetica]---
 
 *Cifra delle unità della parte intera di 10^{1992}/(10^{83}+7)*
 
@@ -461,4 +376,20 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_cgen_1992#q05|src_cgen_1992__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Units digit of the integer part of 10^{1992}/(10^{83}+7)*
+
+> **Exercise V**
+>
+> What is the units digit of the greatest integer less than or equal to
+>
+> $$\frac{10^{1992}}{10^{83}+7}\ ?$$
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

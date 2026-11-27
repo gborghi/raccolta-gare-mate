@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_telescoping,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Compute a telescoping product of consecutive fractions*
 
 > Compute the number
@@ -27,20 +30,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2020_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2020  Quesito 1"
-summary: "Calcolare un prodotto telescopico di frazioni consecutive"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_telescoping]
-skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Calcolare un prodotto telescopico di frazioni consecutive*
 
@@ -53,11 +44,13 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 15
-[[Quesiti/src_canimath_2020_automne#q01|src_canimath_2020_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the number of floors of two buildings given total bathrooms and bedrooms*
 
@@ -71,19 +64,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2020_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2020  Quesito 2"
-summary: "Trovare il numero di piani di due edifici dato il totale dei bagni e delle camere da letto"
-topics: [topic_algebra, topic_aritmetica]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto*
 
@@ -94,7 +76,6 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2020_automne#q02|src_canimath_2020_automne__Q02]]
 
 
 
@@ -196,6 +177,9 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Show 12 pebbles on an 8x8 board can be covered by coloring 4 rows and 4 columns red*
 
 > We place $12$ pebbles on a chessboard with $8$ rows and $8$ columns. Each pebble has been placed on one of the $64$ squares of the chessboard (with at most one pebble per square). Show that it is possible to color red $4$ rows and $4$ columns in such a way that each of the $12$ pebbles is on a red square.
@@ -207,20 +191,8 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2020_automne__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2020  Quesito 6"
-summary: "Mostra 12 ciottoli su una tavola 8x8 può essere coperto coloring 4 righe e 4 colonne rosse"
-topics: [topic_combinatoria]
-methods: [method_casework, method_estremalita]
-skills: [skill_conteggio_sistematico, skill_ragionamento_geometrico, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria]---
 
 *Mostra 12 ciottoli su una lavagna da 8x8 che possono essere coperti colorando 4 righe e 4 colonne in rosso*
 
@@ -230,11 +202,13 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2020_automne#q06|src_canimath_2020_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer triples summing to zero with absolute-value sum equal to 2k*
 
@@ -247,20 +221,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2020_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2020  Quesito 7"
-summary: "Conteggiamo i tripli numeri interi che sommano a zero con valore assoluto pari a 2k"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_casework, method_conteggio]
-skills: [skill_conteggio_sistematico, skill_lettura_attenta, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Conta triplici interi sommati a zero con valore assoluto pari a 2k*
 
@@ -270,7 +232,6 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2020_automne#q07|src_canimath_2020_automne__Q07]]
 
 
 
@@ -310,6 +271,9 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Find the number of floors of two buildings given total bathrooms and bedrooms (lycée)*
 
 > Alexie and Baptiste each own a building. Each floor of Alexie's building has $3$ bathrooms and $2$ bedrooms. Baptiste, as for him, has $4$ bathrooms and $3$ bedrooms per floor. There are in total $25$ bathrooms and $18$ bedrooms. Find the number of floors of Alexie's and Baptiste's buildings.
@@ -322,19 +286,8 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2020_automne__Q09
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2020  Quesito 9"
-summary: "Trova il numero di piani di due edifici dato il numero totale di bagni e camere da letto (liceu)"
-topics: [topic_algebra, topic_aritmetica]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto (liceu)*
 
@@ -345,7 +298,6 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2020_automne#q09|src_canimath_2020_automne__Q09]]
 
 
 
@@ -507,6 +459,9 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Compute area of triangle MND in a unit-area parallelogram with M on BD, MD=3MB*
 
 > Let $ABCD$ be a parallelogram of area $1$ and $M$ a point belonging to the segment $[BD]$ such that $MD = 3MB$. We write $N$ for the point of intersection of the lines $(AM)$ and $(CB)$. Compute the area of the triangle $MND$.
@@ -518,20 +473,8 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2020_automne__Q15
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2020  Quesito 15"
-summary: "L'area di calcolo del triangolo MND in un parallelo unitario con M su BD, MD=3MB"
-topics: [topic_geometria_piana]
-methods: [method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *L'area di calcolo del triangolo MND in un parallelo unitario con M su BD, MD=3MB*
 
@@ -541,7 +484,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2020_automne#q15|src_canimath_2020_automne__Q15]]
 
 
 

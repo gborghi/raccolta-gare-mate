@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Lieu de l'isobarycentre des intersections d'une droite avec les côtés d'un triangle*
 
 > **Exercice I**
@@ -33,56 +36,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__en" data-atom="q01__en" data-title="Q01__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1995__Q01
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1995 — Exercise I"
-summary: "Locus of the isobarycentre of the intersections of a line with the sides of a triangle"
-topics: [topic_geometria_piana, topic_geometria_solida, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_solida, topic/geometria_analitica]---
-
-*Locus of the isobarycentre of the intersections of a line with the sides of a triangle*
-
-> **Exercise I**
->
-> In a plane $\mathcal{P}$, a triangle $ABC$ is given.
->
-> To every line $D$, not parallel to one of its sides, one associates the point $G_D$, the isobarycentre of the three points common to $D$ and to the lines $(AB)$, $(BC)$ and $(CA)$.
->
-> The aim of this exercise is to determine the set $\mathcal{F}$ of the points $G_D$ as $D$ varies.
->
-> 1. Prove that, when $D$ moves while remaining parallel to a line $\delta$, the point $G_D$ describes a line $\Delta_\delta$.
-> 2. Assume, in this question only, that $ABC$ is equilateral. Prove that, as $\delta$ varies, the lines $\Delta_\delta$ are all tangent to one and the same circle, and determine the set $\mathcal{F}$ in this case.
-> 3. Return to the general case. Prove that one can find an equilateral triangle $A'B'C'$ in space whose orthogonal projection onto the plane $\mathcal{P}$ is the triangle $ABC$, and deduce the set $\mathcal{F}$.
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]]
-[[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
-
-
-
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1995__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1995 — Esercizio I"
-summary: "Luogo dell'isobaricentro delle intersezioni di una retta con i lati di un triangolo"
-topics: [topic_geometria_piana, topic_geometria_solida, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_solida, topic/geometria_analitica]---
 
 *Luogo dell'isobaricentro delle intersezioni di una retta con i lati di un triangolo*
 
@@ -102,7 +57,29 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_solida, topic/geom
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Locus of the isobarycentre of the intersections of a line with the sides of a triangle*
+
+> **Exercise I**
+>
+> In a plane $\mathcal{P}$, a triangle $ABC$ is given.
+>
+> To every line $D$, not parallel to one of its sides, one associates the point $G_D$, the isobarycentre of the three points common to $D$ and to the lines $(AB)$, $(BC)$ and $(CA)$.
+>
+> The aim of this exercise is to determine the set $\mathcal{F}$ of the points $G_D$ as $D$ varies.
+>
+> 1. Prove that, when $D$ moves while remaining parallel to a line $\delta$, the point $G_D$ describes a line $\Delta_\delta$.
+> 2. Assume, in this question only, that $ABC$ is equilateral. Prove that, as $\delta$ varies, the lines $\Delta_\delta$ are all tangent to one and the same circle, and determine the set $\mathcal{F}$ in this case.
+> 3. Return to the general case. Prove that one can find an equilateral triangle $A'B'C'$ in space whose orthogonal projection onto the plane $\mathcal{P}$ is the triangle $ABC$, and deduce the set $\mathcal{F}$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -224,6 +201,9 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_solida, topic/geom
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="fr"></div>
+
+
 *Six points du plan avec A_i B_j = i+j*
 
 > **Exercice IV**
@@ -241,52 +221,8 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_solida, topic/geom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1995__Q04
-lang: en
-secondary: true
-title: "Concours Général des Lycées 1995 — Exercise IV"
-summary: "Six points of the plane with A_i B_j = i+j"
-topics: [topic_geometria_piana, topic_geometria_analitica]
-methods: [method_coordinate, method_casework]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
-
-*Six points of the plane with A_i B_j = i+j*
-
-> **Exercise IV**
->
-> Let $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ be six points of the plane such that, for all integers $i$ and $j$ in $\{1, 2, 3\}$,
->
-> $$A_i B_j = i + j.$$
->
-> What can be said about these six points?
-
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Geometria|Geometry]]
-[[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]
-
-
-
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1995__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1995 — Esercizio IV"
-summary: "Sei punti del piano con A_i B_j = i+j"
-topics: [topic_geometria_piana, topic_geometria_analitica]
-methods: [method_coordinate, method_casework]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *Sei punti del piano con A_i B_j = i+j*
 
@@ -302,4 +238,22 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Six points of the plane with A_i B_j = i+j*
+
+> **Exercise IV**
+>
+> Let $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ be six points of the plane such that, for all integers $i$ and $j$ in $\{1, 2, 3\}$,
+>
+> $$A_i B_j = i + j.$$
+>
+> What can be said about these six points?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]

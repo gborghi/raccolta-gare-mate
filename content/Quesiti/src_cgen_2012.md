@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_fattorizzazione,method_disuguaglianze,method_casework,method_ricorsione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Study the function f that swaps primes and exponents in a prime factorization, and the iterated sequences f^i(n).*
 
 > Problem 1: The primes on top, the exponents on the bottom.
@@ -57,20 +60,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2012__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2012  Matematica  Quesito 1"
-summary: "Studiare la funzione f che scambia i primi e gli esponenti in una fattorizzazione di primi, e le sequenze iterate f^i(n)."
-topics: [topic_aritmetica, topic_algebra, topic_insiemi_funzioni]
-methods: [method_fattorizzazione, method_disuguaglianze, method_casework, method_ricorsione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato, skill_astrazione]
-tags: [kg/translation, topic/aritmetica, topic/algebra, topic/insiemi_funzioni]---
 
 *Studiare la funzione f che scambia i primi e gli esponenti in una fattorizzazione di primi, e le sequenze iterate f^i(n).*
 
@@ -94,7 +85,6 @@ tags: [kg/translation, topic/aritmetica, topic/algebra, topic/insiemi_funzioni]-
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2012#q01|src_cgen_2012__Q01]]
 
 
 
@@ -134,6 +124,9 @@ tags: [kg/translation, topic/aritmetica, topic/algebra, topic/insiemi_funzioni]-
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_casi_conteggio,method_estremalita,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *A postman visits each of n houses in a row exactly once per trip; count trips, find min and max trip lengths, and the expected length of a random trip.*
 
 > Problem 3: The mailbox rings each time exactly once (and only once).
@@ -162,20 +155,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra, topic/insiemi_funzioni]-
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2012__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2012  Matematica  Quesito 3"
-summary: "Un postino visita ognuna delle n case in fila esattamente una volta per ogni viaggio; conta i viaggi, trova le lunghezze min e mass di viaggio e la durata attesa di un viaggio casuale."
-topics: [topic_combinatoria, topic_probabilita]
-methods: [method_conteggio, method_casi_conteggio, method_estremalita, method_doppio_conteggio]
-skills: [skill_conteggio_sistematico, skill_modellizzazione, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria, topic/probabilita]---
 
 *Un postino visita ognuna delle n case in fila esattamente una volta per ogni viaggio; conta i viaggi, trova le lunghezze min e massime del viaggio e la durata attesa di un viaggio casuale.*
 
@@ -197,4 +178,3 @@ tags: [kg/translation, topic/combinatoria, topic/probabilita]---
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]], [[method_estremalita|Principio di estremalita]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_cgen_2012#q03|src_cgen_2012__Q03]]

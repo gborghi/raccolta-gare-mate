@@ -87,6 +87,9 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_geometria_analitica,topic_combinatoria,method_cassetti,method_coordinate,method_estremalita,method_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Lattice path M_k with steps i or j; alignment of three or more points; Stern-Brocot / Farey-style tight fractions, naive mediants, principal intervals, and pigeonhole to force n aligned points*
 
 > Problem 2: Keeping the course.
@@ -156,20 +159,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2022__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2022  Matematica  Quesito 2"
-summary: "Lattice path M_k con passi i o j; allineamento di tre o più punti; frazioni strette di stile Stern-Brocot / Farey, medianti ingenui, intervalli principali e forze di piccione per forzare n punti allineati"
-topics: [topic_aritmetica, topic_geometria_analitica, topic_combinatoria]
-methods: [method_cassetti, method_coordinate, method_estremalita, method_conteggio]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica, topic/geometria_analitica, topic/combinatoria]---
 
 *Costruzione del percorso lattice M_k con passi i o j; allineamento di tre o più punti; frazioni strette di stile Stern-Brocot/Farey, medianti ingenui, intervalli principali e forze di buco di piccione per forzare n punti allineati*
 
@@ -207,11 +198,13 @@ tags: [kg/translation, topic/aritmetica, topic/geometria_analitica, topic/combin
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_cgen_2022#q02|src_cgen_2022__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,topic_algebra,method_ricorsione,method_casework,method_conteggio,method_simmetria,method_bigezione,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probabilistic team tournament: a rigged-coin duel between two players, a regular tournament, the team elimination tournament with win probabilities a_i/(a_i+b_j), and proof via tableau transformations that A's winning probability is independent of player order*
 
@@ -275,20 +268,8 @@ tags: [kg/translation, topic/aritmetica, topic/geometria_analitica, topic/combin
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2022__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2022  Matematica  Quesito 3"
-summary: "Torneo di squadra probabilistico: un duello con monete truccate tra due giocatori, un torneo regolare, il torneo di eliminazione di squadra con probabilità di vittoria a_i/(a_i+b_j), e la prova attraverso trasformazioni del tabellone che la probabilità di vittoria di A è indipendente dall'ordine dei giocatori"
-topics: [topic_probabilita, topic_combinatoria, topic_algebra]
-methods: [method_ricorsione, method_casework, method_conteggio, method_simmetria, method_bigezione]
-skills: [skill_modellizzazione, skill_conteggio_sistematico, skill_manipolazione_algebrica, skill_casework_accurato]
-tags: [kg/translation, topic/probabilita, topic/combinatoria, topic/algebra]---
 
 *Torneo di squadra probabile: un duello con monete truccate tra due giocatori, un torneo regolare, il torneo di eliminazione di squadra con probabilità di vittoria a_i/(a_i+b_j), e la prova attraverso trasformazioni del tabellone che la probabilità di vittoria di A è indipendente dall'ordine dei giocatori*
 
@@ -308,4 +289,3 @@ tags: [kg/translation, topic/probabilita, topic/combinatoria, topic/algebra]---
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2022#q03|src_cgen_2022__Q03]]

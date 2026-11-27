@@ -81,6 +81,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *sqrt(n) has its first k decimals all equal to v; bound sqrt(n) below by 10^k/2 and 10^k/144*
 
 > Let $n$ be a strictly positive integer that is not a perfect square (that is, that is not the square of an integer). On looking at the decimal expansion of $\sqrt{n}$, one observes that its first $k$ decimal digits are all equal to the same value $v$ (for example, if $n = 48273160$, then $\sqrt{n} = 6947{,}88888800044067\ldots$, the first six decimal digits being equal to $8$, so $k = 6$ and $v = 8$).
@@ -96,20 +99,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2010_printemps__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2010  Quesito 5"
-summary: "sqrt(n) ha le sue prime k decimali tutte uguali a v;"
-topics: [topic_aritmetica, topic_disuguaglianze]
-methods: [method_disuguaglianze, method_casework]
-skills: [skill_manipolazione_algebrica, skill_stima, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/disuguaglianze]---
 
 *sqrt(n) ha le sue prime k decimali tutte uguali a v; bound sqrt(n) sotto di 10^k/2 e 10^k/144*
 
@@ -123,7 +114,6 @@ tags: [kg/translation, topic/aritmetica, topic/disuguaglianze]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2010_printemps#q05|src_canimath_2010_printemps__Q05]]
 
 
 

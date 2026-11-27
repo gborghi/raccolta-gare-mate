@@ -12,6 +12,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Circumscribed circle intersections and hexagon area ratio*
 
 > Let $ABC$ be a triangle with three acute angles, and let $O$ be the centre of its circumscribed circle $\Gamma$. The lines $(AO)$, $(BO)$, $(CO)$ meet $\Gamma$ again at $A'$, $B'$, $C'$ respectively. Prove that the area of the hexagon $ACB'A'C'B$ is twice the area of triangle $ABC$.
@@ -23,20 +26,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2011_printemps__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2011  Quesito 3"
-summary: "Intersezioni di cerchi circostanti e rapporto di area esagonale"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Intersezioni circolari circostanti e rapporto di superficie esagonale*
 
@@ -46,7 +37,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2011_printemps#q03|src_canimath_2011_printemps__Q03]]
 
 
 

@@ -12,6 +12,9 @@ level: TFJM²
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_probabilita,topic_combinatoria,method_grafi,method_casework,method_ricorsione,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Propagation of good mood among leprechauns on a friendship graph; a number j is realizable if good mood can spread to all leprechauns starting from one.*
 
 > Problem 1 - A contagious good mood.
@@ -53,20 +56,8 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2025__Q01
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2025  Quesito 1"
-summary: "Propagazione del buon umore tra i leprechoni su un grafico di amicizia; un numero j è realizzabile se il buon umore può diffondersi a tutti i leprechoni a partire da uno."
-topics: [topic_probabilita, topic_combinatoria]
-methods: [method_grafi, method_casework, method_ricorsione]
-skills: [skill_modellizzazione, skill_conteggio_sistematico, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/probabilita, topic/combinatoria]---
 
 *Propagation of good mood among leprechauns on a friendship graph; a number j is realizable if good mood can spread to all leprechauns starting from one.*
 
@@ -104,11 +95,13 @@ tags: [kg/translation, topic/probabilita, topic/combinatoria]---
 **Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2025#q01|src_tfjm_2025__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_invarianti,method_ricorsione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Water flows down a triangular network of toboggan pipes (types I, X, Z) splitting and merging; determine which inflow/outflow distributions are achievable.*
 
@@ -149,20 +142,8 @@ tags: [kg/translation, topic/probabilita, topic/combinatoria]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2025__Q02
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2025  Quesito 2"
-summary: "L'acqua scorre attraverso una rete triangolare di tubi scivoli (tipi I, X e Z) che si dividono e si fondono; determinare quali distribuzioni di afflusso/uscita sono raggiungibili."
-topics: [topic_combinatoria, topic_algebra]
-methods: [method_conteggio, method_invarianti, method_ricorsione]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica, skill_conteggio_sistematico]
-tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *L'acqua scorre attraverso una rete triangolare di tubi scivoli (tipi I, X, Z) che si dividono e si fondono; determinare quali distribuzioni di ingresso/uscita sono raggiungibili.*
 
@@ -196,7 +177,6 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-[[Quesiti/src_tfjm_2025#q02|src_tfjm_2025__Q02]]
 
 
 
@@ -290,6 +270,9 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_probabilita,topic_disuguaglianze,method_ricorsione,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Butterfly wingspans transform by halving or scaling (median/maximal selection, branching duplication); study whether sizes stay bounded or grow, and inferring the random scaling law.*
 
 > Problem 4 - Transformation of butterflies.
@@ -323,20 +306,8 @@ tags: [kg/translation, topic/combinatoria, topic/algebra]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2025__Q04
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2025  Quesito 4"
-summary: "Le larghezza delle ali delle farfalle si trasformano dimezzando o scalare (selezione media/massimale, duplicazione ramificata); studiare se le dimensioni rimangono limitate o crescono, e dedurre la legge di scalazione casuale."
-topics: [topic_algebra, topic_probabilita, topic_disuguaglianze]
-methods: [method_ricorsione, method_disuguaglianze, method_estremalita]
-skills: [skill_manipolazione_algebrica, skill_stima, skill_modellizzazione]
-tags: [kg/translation, topic/algebra, topic/probabilita, topic/disuguaglianze]---
 
 *Le larghezza delle ali delle farfalle si trasformano dimezzando o scalare (selezione media/massimale, duplicazione di ramificazione); studiare se le dimensioni rimangono limitate o crescono, e dedurre la legge di scalazione casuale.*
 
@@ -366,11 +337,13 @@ tags: [kg/translation, topic/algebra, topic/probabilita, topic/disuguaglianze]--
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2025#q04|src_tfjm_2025__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_analitica,topic_geometria_piana,topic_combinatoria,method_coordinate,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Gerrymandering: moving district capitals within their Voronoi cell each year; characterize which capital configurations are reachable on a disk, plane, and higher dimensions.*
 
@@ -409,20 +382,8 @@ tags: [kg/translation, topic/algebra, topic/probabilita, topic/disuguaglianze]--
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2025__Q05
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2025  Quesito 5"
-summary: "Gerrymandering: spostare capitali distrettuali all'interno della loro cella Voronoi ogni anno; caratterizzare quali configurazioni di capitali sono raggiungibili su un disco, piano e dimensioni superiori."
-topics: [topic_geometria_analitica, topic_geometria_piana, topic_combinatoria]
-methods: [method_coordinate, method_simmetria, method_casework]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_astrazione]
-tags: [kg/translation, topic/geometria_analitica, topic/geometria_piana, topic/combinatoria]---
 
 *Gerrymandering: spostamento di capitali distrettuali all'interno della loro cella Voronoi ogni anno; caratterizzare quali configurazioni di capitali sono raggiungibili su un disco, piano e dimensioni superiori.*
 
@@ -456,11 +417,13 @@ tags: [kg/translation, topic/geometria_analitica, topic/geometria_piana, topic/c
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2025#q05|src_tfjm_2025__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_combinatoria,topic_probabilita,method_ricorsione,method_disuguaglianze,method_casework,skill_modellizzazione,skill_stima,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Optimizing bus stop spacing on a line where bus speed decreases with passenger count V_k = V_0/(1+ln(k+1)); minimize bunching and travel time with holding/skip-stop strategies.*
 
@@ -497,20 +460,8 @@ tags: [kg/translation, topic/geometria_analitica, topic/geometria_piana, topic/c
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2025__Q06
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2025  Quesito 6"
-summary: "Ottimizzare l'intervallo tra le fermate degli autobus su una linea in cui la velocità dell'autobus diminuisce con il numero di passeggeri V_k = V_0/(1+ln(k+1)); ridurre al minimo il tempo di aggregazione e il tempo di viaggio con le strategie di sospensione/salto."
-topics: [topic_algebra, topic_combinatoria, topic_probabilita]
-methods: [method_ricorsione, method_disuguaglianze, method_casework]
-skills: [skill_modellizzazione, skill_stima, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/algebra, topic/combinatoria, topic/probabilita]---
 
 *Optimizzare l'intervallo tra le fermate degli autobus su una linea in cui la velocità dell'autobus diminuisce con il numero di passeggeri V_k = V_0/(1+ln(k+1)); ridurre al minimo il tempo di aggregazione e di viaggio con le strategie di tenuta/scappa-stop.*
 
@@ -542,7 +493,6 @@ tags: [kg/translation, topic/algebra, topic/combinatoria, topic/probabilita]---
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2025#q06|src_tfjm_2025__Q06]]
 
 
 
@@ -628,6 +578,9 @@ tags: [kg/translation, topic/algebra, topic/combinatoria, topic/probabilita]---
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_probabilita,topic_logica,method_casework,method_simmetria,method_conteggio,skill_casework_accurato,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Two-player game coloring 2n points on a circle (orange/blue); winner forms the longest monochromatic arc. Study strategies and winning probabilities versus random and skilled opponents.*
 
 > Problem 8 - Colored points on a circle.
@@ -677,20 +630,8 @@ tags: [kg/translation, topic/algebra, topic/combinatoria, topic/probabilita]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_tfjm_2025__Q08
-lang: it
-secondary: true
-title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2025  Quesito 8"
-summary: "Il gioco per due giocatori di colore 2n punti su un cerchio (arancio/blu); il vincitore forma l'arco monocromatico più lungo. Studiare le strategie e le probabilità di vincere contro avversari casuali e abili."
-topics: [topic_combinatoria, topic_probabilita, topic_logica]
-methods: [method_casework, method_simmetria, method_conteggio]
-skills: [skill_casework_accurato, skill_modellizzazione, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/combinatoria, topic/probabilita, topic/logica]---
 
 *Gioco per due giocatori colorando 2n punti su un cerchio (arancio/blu); il vincitore forma l'arco monocromatico più lungo. Studiare le strategie e le probabilità di vincere contro avversari casuali e qualificati.*
 
@@ -736,4 +677,3 @@ tags: [kg/translation, topic/combinatoria, topic/probabilita, topic/logica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_tfjm_2025#q08|src_tfjm_2025__Q08]]

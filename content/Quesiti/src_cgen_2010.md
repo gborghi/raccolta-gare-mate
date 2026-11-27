@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Geometric configuration: circles of diameter [AC] and [BC] tangent at C, homotheties between three circles, collinearity and radius relation*
 
 > Problem 1: A geometric configuration.
@@ -41,20 +44,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2010__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2010  Matematica  Quesito 1"
-summary: "Configurazione geometrica: cerchi di diametro [AC] e [BC] tangenti a C, omogeneità tra tre cerchi, collinearità e rapporto di raggio"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_lettura_attenta]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Configurazione geometrica: cerchi di diametro [AC] e [BC] tangenti a C, omogeneità tra tre cerchi, collinearità e rapporto di raggio*
 
@@ -80,7 +71,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_2010#q01|src_cgen_2010__Q01]]
 
 
 

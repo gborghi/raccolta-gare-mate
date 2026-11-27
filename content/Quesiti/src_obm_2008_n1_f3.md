@@ -95,6 +95,9 @@ level: OBM Nível 1
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Count ways to tile a 3×n board with 3×1 pieces; specific values and n=15*
 
 > Jade has $n$ pieces of size $3 \times 1$ and wants to use them to cover a $3 \times n$ board. For example, for $n = 4$ she can cover the board in the following way:
@@ -113,20 +116,8 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_obm_2008_n1_f3__Q03
-lang: it
-secondary: true
-title: "Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 3"
-summary: "Contare i modi per ricoprire una tavola 3×n con pezzi 3×1; valori specifici e n=15"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_ricorsione, method_conteggio, method_casework]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Contare i modi per ricoprire una tavola 3×n con pezzi 3×1; valori specifici e n=15*
 
@@ -143,7 +134,6 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_obm_2008_n1_f3#q03|src_obm_2008_n1_f3__Q03]]
 
 
 

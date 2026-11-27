@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_stima"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Weight of a finite sequence of reals defined as the max of absolute partial sums; compare Isabelle's minimal weight I with Clara's greedy weight C.*
 
 > Problem 1: Small weights.
@@ -58,20 +61,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2015__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2015  Matematica  Quesito 1"
-summary: "Peso di una sequenza finita di reali definita come il massimo di somme parziali assolute; confronta il peso minimo di Isabelle I con il peso avido di Clara C."
-topics: [topic_algebra, topic_disuguaglianze]
-methods: [method_estremalita, method_casework, method_disuguaglianze]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato, skill_stima]
-tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 
 *Peso di una sequenza finita di reali definita come il massimo di somme parziali assolute; confronta il peso minimo di Isabelle I con il peso avido di Clara C.*
 
@@ -99,11 +90,13 @@ tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2015#q01|src_cgen_2015__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedra: centroid and medians, circumscribed sphere, concurrency of altitudes and the orthocentric condition expressed via dot products of line direction vectors.*
 
@@ -136,20 +129,8 @@ tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2015__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2015  Matematica  Quesito 2"
-summary: "Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza delle altitudini e condizione ortocentrica espressa attraverso i prodotti di punti dei vettori di direzione della linea."
-topics: [topic_geometria_solida, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 
 *Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza delle altitudini e condizione ortocentrica espressa attraverso i prodotti di punti dei vettori di direzione della linea.*
 
@@ -171,7 +152,6 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_2015#q02|src_cgen_2015__Q02]]
 
 
 

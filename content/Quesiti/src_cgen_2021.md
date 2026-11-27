@@ -85,6 +85,9 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Tetrahedra: properties of a tetrahedron ABCD; existence of the centroid G and of the circumscribed sphere; concurrency of altitudes (in O, in G, necessarily) and characterisation of regular tetrahedra; a criterion for concurrency of altitudes via dot products of unit direction vectors.*
 
 > Probleme 2: "Tetraedres" (Tetrahedra). One calls tetrahedron the data, in space, of four non-coplanar points $A$, $B$, $C$, $D$. The edges of the tetrahedron are the segments $[AB]$, $[AC]$, $[AD]$, $[BC]$, $[BD]$, $[CD]$. In questions 3 to 3., $ABCD$ designates a tetrahedron.
@@ -113,20 +116,8 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2021__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2021  Matematica  Quesito 2"
-summary: "Tetraedri: proprietà di un tetraedro ABCD; esistenza del centroide G e della sfera circonscrita; concomitanza di altitudini (in O, in G, necessariamente) e caratterizzazione di tetraedri regolari; criterio per la concomitanza di altitudini attraverso i prodotti dotati di vettori di direzione unitaria."
-topics: [topic_geometria_solida, topic_geometria_analitica]
-methods: [method_coordinate, method_simmetria, method_casework]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
-tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 
 *Tetraedri: proprietà di un tetraedro ABCD; esistenza del centroide G e della sfera circoscritta; concomitanza di altitudini (in O, in G, necessariamente) e caratterizzazione di tetraedri regolari; un criterio per la concomitanza di altitudini tramite prodotti dotati di vettori di direzione unità.*
 
@@ -144,7 +135,6 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_2021#q02|src_cgen_2021__Q02]]
 
 
 
@@ -241,6 +231,9 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,topic_trigonometria,method_disuguaglianze,method_casework,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Que la force soit avec f!: a positive function f on an interval I subset of [0,+inf) is called k-strong or k-weak depending on the sign of (y^k f(y) - x^k f(x))(f(y)/y^k - f(x)/x^k); examples, equivalent criteria, monotonicity of g_k=x^k f and h_k=f/x^k, derivative criteria, products/compositions, and applications to inequalities (a,b,c power means and a sin/tan inequality).*
 
 > Probleme 3: "Que la force soit avec $f$ !" (May the force be with $f$!). In all of this problem, $k$ designates a non-zero natural integer, $I$ an interval included in $]0,+\infty[$, and $f$ a function defined on $I$ with strictly positive values.
@@ -303,20 +296,8 @@ tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2021__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2021  Matematica  Quesito 4"
-summary: "Que la force soit avec f!: una funzione positiva f in un intervallo I sottoinsieme di [0,+inf) è chiamata k-forte o k-fragile a seconda del segno di (y^k f(y) - x^k f(x)) (f(y)/y^k - f(x)/x^k); esempi, criteri equivalenti, monotonia di g_k=x^k f e h_k=f/x^k, criteri derivati, prodotti/composti e applicazioni alle disuguaglianze (a,b,c mezzi di potenza e una disuguaglianza sin/tan)."
-topics: [topic_algebra, topic_disuguaglianze, topic_insiemi_funzioni, topic_trigonometria]
-methods: [method_disuguaglianze, method_casework, method_trigonometria, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_astrazione, skill_riconoscimento_pattern, skill_ragionamento_geometrico]
-tags: [kg/translation, topic/algebra, topic/disuguaglianze, topic/insiemi_funzioni, topic/trigonometria]---
 
 *Que la force soit avec f!: una funzione positiva f su un sottoinsieme di intervalli I di [0,+inf) è chiamata k-forte o k-fragile a seconda del segno di (y^k f(y) - x^k f(x)) f(y)/y^k - f(x)/x^k); esempi, criteri equivalenti, monotonia di g_k=x^k f e h_k=f/x^k, criteri derivati, prodotti/composti e applicazioni alle disuguaglianze (a,b,c mezzi di potenza e una disuguaglianza sin/tanc).*
 
@@ -334,4 +315,3 @@ tags: [kg/translation, topic/algebra, topic/disuguaglianze, topic/insiemi_funzio
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-[[Quesiti/src_cgen_2021#q04|src_cgen_2021__Q04]]

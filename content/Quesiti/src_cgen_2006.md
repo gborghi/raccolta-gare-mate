@@ -56,6 +56,9 @@ level: Concours Général
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_analitica,topic_disuguaglianze,method_induzione,method_disuguaglianze,method_simmetria,method_telescoping,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Hyperbola-type curve (1-x)(1-y)=a inside the unit square: nature, range of x+y and x^2+y^2, incircle/exscribed-circle radii of a triangle and an inequality involving the natural logarithm*
 
 > PART 1.
@@ -120,20 +123,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2006__Q02
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2006  Matematica  Quesito 2"
-summary: "Curva di tipo iperbolare (1-x) ((1-y) = a all'interno del quadrato unitario: natura, intervallo di x+y e x^2+y^2, radii circolari/circolari di un triangolo e una disuguaglianza che coinvolge il logaritmo naturale"
-topics: [topic_geometria_piana, topic_geometria_analitica, topic_disuguaglianze]
-methods: [method_induzione, method_disuguaglianze, method_simmetria, method_telescoping]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/disuguaglianze]---
 
 *Curva di tipo iperbola (1-x)(1-y) = a all'interno del quadrato unitario: natura, intervallo di x+y e x^2+y^2, radii di circolo/circolo escritto di un triangolo e una disuguaglianza che coinvolge il logaritmo naturale*
 
@@ -147,7 +138,6 @@ tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/d
 **Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_telescoping|Somme telescopiche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2006#q02|src_cgen_2006__Q02]]
 
 
 

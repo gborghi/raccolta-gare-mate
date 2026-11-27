@@ -50,6 +50,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Two-digit numbers: always choose two with distinct units and tens digits*
 
 > a) Consider 11 distinct two-digit numbers. Prove that one can always choose two of them that have distinct units digits and distinct tens digits.
@@ -63,20 +66,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2009_printemps__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2009  Quesito 3"
-summary: "Numeri a due cifre: scegliere sempre due con unità distinte e decine di cifre"
-topics: [topic_combinatoria]
-methods: [method_cassetti, method_casework]
-skills: [skill_conteggio_sistematico, skill_ragionamento_geometrico, skill_lettura_attenta]
-tags: [kg/translation, topic/combinatoria]---
 
 *Numeri a due cifre: scegliere sempre due con unità distinte e decine di cifre*
 
@@ -88,7 +79,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2009_printemps#q03|src_canimath_2009_printemps__Q03]]
 
 
 
@@ -124,6 +114,9 @@ tags: [kg/translation, topic/combinatoria]---
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Four coins touching in sequence; prove angle ABC + angle CDA = 180 degrees*
 
 > Four coins of values $2\,\text{€}$, $1\,\text{€}$, $2\,\text{centimes}$, and $1\,\text{centime}$ lie on a table without overlapping. The $2\,\text{€}$ coin touches the $1\,\text{€}$ coin at point $A$, the $1\,\text{€}$ coin touches the $2\,\text{centime}$ coin at point $B$, the $2\,\text{centime}$ coin touches the $1\,\text{centime}$ coin at point $C$, and the $1\,\text{centime}$ coin touches the $2\,\text{€}$ coin at point $D$.
@@ -137,20 +130,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2009_printemps__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2009  Quesito 5"
-summary: "Quattro monete che si toccano in sequenza; prova angolo ABC + angolo CDA = 180 gradi"
-topics: [topic_geometria_piana]
-methods: [method_trigonometria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Quattro monete che si toccano in sequenza; prova angolo ABC + angolo CDA = 180 gradi*
 
@@ -162,7 +143,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2009_printemps#q05|src_canimath_2009_printemps__Q05]]
 
 
 

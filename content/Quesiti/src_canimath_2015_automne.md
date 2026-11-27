@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Fifteen students eat ice cream in groups of three each evening; every pair eats together exactly once; find how many days the camp lasted.*
 
 > Fifteen students take part in a mathematics camp. Each evening, three of them go to eat an ice cream. At the end of the camp, it turns out that any two students have always gone to eat an ice cream at the same time exactly once. How many days did the camp last? Justify your answer.
@@ -24,20 +27,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2015  Quesito 1"
-summary: "Ogni sera quindici studenti mangiano gelato in gruppi di tre persone; ogni coppia mangia insieme esattamente una volta; scopri quanti giorni ha durato il campo."
-topics: [topic_combinatoria]
-methods: [method_conteggio, method_doppio_conteggio]
-skills: [skill_conteggio_sistematico, skill_modellizzazione]
-tags: [kg/translation, topic/combinatoria]---
 
 *15 studenti mangiano gelato in gruppi di tre persone ogni sera; ogni coppia mangia insieme esattamente una volta; scopri quanti giorni ha durato il campo.*
 
@@ -48,11 +39,13 @@ tags: [kg/translation, topic/combinatoria]---
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 35
-[[Quesiti/src_canimath_2015_automne#q01|src_canimath_2015_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three digits x>y>z>0; sum of the six three-digit permutations equals 4884; find the possible numbers xyz.*
 
@@ -65,20 +58,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2015  Quesito 2"
-summary: "Tre cifre x>y>z>0; la somma delle sei permutazioni a tre cifre è uguale a 4884; trova i numeri possibili xyz."
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_fattorizzazione, method_casework]
-skills: [skill_manipolazione_algebrica, skill_casework_accurato]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Tre cifre x>y>z>0; somma delle sei permutazioni a tre cifre equivale a 4884; trovare i numeri possibili xyz.*
 
@@ -88,11 +69,13 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2015_automne#q02|src_canimath_2015_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hexagon ABCDEF with rectangle BCEF and given equal sides; its area equals that of a rectangle with consecutive sides a and 36; find a^2.*
 
@@ -111,20 +94,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2015  Quesito 3"
-summary: "Esagono ABCDEF con rettangolo BCEF e dati lati uguali; la sua superficie è uguale a quella di un rettangolo con lati consecutivi a e 36; trovare a^2."
-topics: [topic_geometria_piana]
-methods: [method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Essagono ABCDEF con rettangolo BCEF e dati lati uguali; la sua superficie è uguale a quella di un rettangolo con lati consecutivi a e 36; trovare a^2.*
 
@@ -140,7 +111,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2015_automne#q03|src_canimath_2015_automne__Q03]]
 
 
 
@@ -248,6 +218,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Each side of a unit square is divided into 3 equal parts; lines drawn from the division points create a grey polygon; find its area.*
 
 > Each side of a unit square is divided into $3$ equal segments. One draws the figure below from this partition. What is the area of the grey polygon? Justify your answer.
@@ -261,20 +234,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2015_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2015  Quesito 7"
-summary: "Ogni lato di un quadrato unitario è diviso in 3 parti uguali; linee tracciate dai punti di divisione creano un poligono grigio; trova la sua superficie."
-topics: [topic_geometria_piana]
-methods: [method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Ogni lato di un quadrato unitario è diviso in 3 parti uguali; le linee tracciate dai punti di divisione creano un poligono grigio; trova la sua superficie.*
 
@@ -286,7 +247,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2015_automne#q07|src_canimath_2015_automne__Q07]]
 
 
 

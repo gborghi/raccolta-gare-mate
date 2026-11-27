@@ -12,6 +12,9 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Superbe sequences of positive integers where every term divides the sum of all terms; characterize lengths 2-4, distinctness, primes, arithmetic ones, infinite magnifique sequences, and extensions.*
 
 > Problem 1: Of superbe sequences.
@@ -45,20 +48,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2013__Q01
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2013  Matematica  Quesito 1"
-summary: "Superbe sequenze di numeri interi positivi in cui ogni termine divide la somma di tutti i termini; caratterizzare lunghezze 2-4, distinzione, numeri primi, quelli aritmetici, infinite magnifique sequenze, ed estensioni."
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_casework, method_congruenze, method_induzione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_conteggio_sistematico, skill_astrazione]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Sare sequenze di numeri interi positivi in cui ogni termine divide la somma di tutti i termini; caratterizzare lunghezze 2-4, distinzione, numeri primi, quelli aritmetici, infinite magnifique sequenze e estensioni.*
 
@@ -86,7 +77,6 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2013#q01|src_cgen_2013__Q01]]
 
 
 
@@ -151,6 +141,9 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_aritmetica,method_ricorsione,method_casework,method_disuguaglianze,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Sisyphe's dice game on 106 cells: wins by reaching/passing cell 100, loses on a prime cell below 100. Probabilities p_n, the position variable X, an algorithm for P(X=k), and an estimate of the gain probability via conditional probabilities alpha_p over consecutive primes.*
 
 > Problem 3: Il faut passer les premiers (One must let the primes pass).
@@ -186,20 +179,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2013__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2013  Matematica  Quesito 3"
-summary: "Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno attraverso probabilità condizionate alfa_p su numeri primi consecutivi."
-topics: [topic_probabilita, topic_aritmetica]
-methods: [method_ricorsione, method_casework, method_disuguaglianze]
-skills: [skill_modellizzazione, skill_conteggio_sistematico, skill_stima, skill_lettura_attenta]
-tags: [kg/translation, topic/probabilita, topic/aritmetica]---
 
 Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno tramite probabilità condizionate alfa_p su numeri primi consecutivi.*
 
@@ -221,4 +202,3 @@ Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cell
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_cgen_2013#q03|src_cgen_2013__Q03]]

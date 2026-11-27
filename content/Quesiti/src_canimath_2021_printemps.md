@@ -12,6 +12,9 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Compute a factorial-based fraction*
 
 > Compute
@@ -27,20 +30,8 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 1"
-summary: "Calcolare una frazione basata su fattori"
-topics: [topic_aritmetica]
-methods: [method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica]---
 
 *Calcolare una frazione basata su fattori*
 
@@ -53,11 +44,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
-[[Quesiti/src_canimath_2021_printemps#q01|src_canimath_2021_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Card deck ratio: black twice red, then add 4 black to make triple (college)*
 
@@ -72,19 +65,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 2"
-summary: "Rapporto del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplo (college)"
-topics: [topic_aritmetica, topic_algebra]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplice (college)*
 
@@ -96,11 +78,13 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 12
-[[Quesiti/src_canimath_2021_printemps#q02|src_canimath_2021_printemps__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle DSC in a square with interior equilateral triangle ABS*
 
@@ -114,20 +98,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 3"
-summary: "Trova angolo DSC in un quadrato con triangolo equilaterale ABS interno"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS*
 
@@ -138,11 +110,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 150^\circ
-[[Quesiti/src_canimath_2021_printemps#q03|src_canimath_2021_printemps__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_bigezione,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Proper divisors of a multiple of 2020: sum of odd divisors below sum of even divisors*
 
@@ -155,20 +129,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 4"
-summary: "Dividenti propri di un multiple di 2020: somma di divisori unici al di sotto della somma di divisori pari"
-topics: [topic_aritmetica]
-methods: [method_bigezione, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/aritmetica]---
 
 *divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari*
 
@@ -178,11 +140,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2021_printemps#q04|src_canimath_2021_printemps__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pair 0..13 into 7 pairs so the product of the pair-sums is a perfect square*
 
@@ -197,20 +161,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 5"
-summary: "Par 0..13 in 7 coppie così il prodotto della coppia-sume è un quadrato perfetto"
-topics: [topic_aritmetica, topic_combinatoria]
-methods: [method_fattorizzazione, method_casework]
-skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Coppia 0..13 in 7 coppie in modo che il prodotto delle coppie-somme sia un quadrato perfetto*
 
@@ -222,11 +174,13 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2021_printemps#q05|src_canimath_2021_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of triangle AMC at least perimeter of quadrilateral ABME*
 
@@ -239,20 +193,8 @@ tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 6"
-summary: "Perimetro del triangolo AMC almeno perimetro di ABME quadrilaterale"
-topics: [topic_geometria_piana, topic_disuguaglianze]
-methods: [method_disuguaglianze, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 
 *Perimetro del triangolo AMC almeno perimetro di ABME quadrilaterale*
 
@@ -262,11 +204,13 @@ tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2021_printemps#q06|src_canimath_2021_printemps__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max length of a 0/1 sequence balanced in every 200 but unbalanced in every 202*
 
@@ -279,20 +223,8 @@ tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 7"
-summary: "Lunghezza massima di una sequenza 0/1 bilanciata ogni 200 ma sbilanciata ogni 202"
-topics: [topic_combinatoria]
-methods: [method_casework, method_estremalita]
-skills: [skill_riconoscimento_pattern, skill_lettura_attenta, skill_casework_accurato]
-tags: [kg/translation, topic/combinatoria]---
 
 *Lunghezza massima di una sequenza 0/1 bilanciata ogni 200 ma sbilanciata ogni 202*
 
@@ -302,7 +234,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2021_printemps#q07|src_canimath_2021_printemps__Q07]]
 
 
 
@@ -343,6 +274,9 @@ tags: [kg/translation, topic/combinatoria]---
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Card deck ratio: black twice red, then add 4 black to make triple (lycee)*
 
 > In a deck of cards composed only of red cards and black cards, there are $2$ times more black cards than red cards. If one adds $4$ black cards, there are then $3$ times more black cards than red cards. How many cards did the deck contain before the $4$ black cards were added?
@@ -356,19 +290,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q09
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 9"
-summary: "Rapporto del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee)"
-topics: [topic_aritmetica, topic_algebra]
-skills: [skill_modellizzazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee)*
 
@@ -380,11 +303,13 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 12
-[[Quesiti/src_canimath_2021_printemps#q09|src_canimath_2021_printemps__Q09]]
 
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle DSC in a square with interior equilateral triangle ABS (lycee)*
 
@@ -398,20 +323,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q10
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 10"
-summary: "Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS (lycee)"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS (lycee)*
 
@@ -422,11 +335,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 150^\circ
-[[Quesiti/src_canimath_2021_printemps#q10|src_canimath_2021_printemps__Q10]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_bigezione,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Proper divisors of a multiple of 2020: sum of odd divisors below sum of even divisors (lycee)*
 
@@ -439,20 +354,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q11
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 11"
-summary: "Divisioni corrette di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari (lycee)"
-topics: [topic_aritmetica]
-methods: [method_bigezione, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/aritmetica]---
 
 *divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari (lycee)*
 
@@ -462,11 +365,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2021_printemps#q11|src_canimath_2021_printemps__Q11]]
 
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-colorings (blue/green/red) of 1..2021 with no two consecutive same color*
 
@@ -480,20 +385,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q12
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 12"
-summary: "Conteggi 3 colori (blu/verde/rosso) del 1° gennaio 2021 senza due colori consecutivi dello stesso colore"
-topics: [topic_combinatoria]
-methods: [method_ricorsione, method_conteggio]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern]
-tags: [kg/translation, topic/combinatoria]---
 
 *Contare i 3 colori (blu/verde/rosso) del 1° gennaio 2021 senza due colori consecutivi dello stesso colore*
 
@@ -504,7 +397,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3\times 2^{2020}
-[[Quesiti/src_canimath_2021_printemps#q12|src_canimath_2021_printemps__Q12]]
 
 
 
@@ -544,6 +436,9 @@ tags: [kg/translation, topic/combinatoria]---
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Two parts: cevian-intersection inequality in a triangle; sum of distances in an isosceles trapezoid*
 
 > 1. Let $XYZ$ be a triangle. Let $L$ be a point on the segment $[XY]$ and $N$ a point on the segment $[XZ]$. Let $M$ be the point of intersection of the segments $[ZL]$ and $[YN]$. Prove that
@@ -559,20 +454,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q14
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 14"
-summary: "Due parti: disuguaglianza di intersezione ceviana in un triangolo; somma delle distanze in un trapezoide a isosceles"
-topics: [topic_geometria_piana, topic_disuguaglianze]
-methods: [method_disuguaglianze, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 
 *Due parti: disuguaglianza di intersezione ceviale in un triangolo; somma delle distanze in un trapezoide a isosceles*
 
@@ -584,7 +467,6 @@ tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2021_printemps#q14|src_canimath_2021_printemps__Q14]]
 
 
 
@@ -620,6 +502,9 @@ tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_doppio_conteggio,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Partition {1,...,2021^2} into pairwise disjoint balanced sets*
 
 > A non-empty set of integers is said to be *balanced* if its number of elements is equal to the mean of its elements. For example, the set $\{1, 2, 6\}$ is balanced, because it has $3$ elements whose mean equals $3$, but the set $\{1, 2, \ldots, n\}$ is not balanced when $n \ge 2$, because it has $n$ elements whose mean equals $(n+1)/2$.
@@ -633,20 +518,8 @@ tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q16__it" data-atom="q16__it" data-title="Q16__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q16
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 16"
-summary: "Partizione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_casework, method_doppio_conteggio]
-skills: [skill_riconoscimento_pattern, skill_modellizzazione, skill_conteggio_sistematico]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Partitazione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia*
 
@@ -658,11 +531,13 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2021_printemps#q16|src_canimath_2021_printemps__Q16]]
 
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_geometria_solida,method_cassetti,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *8 ants on the edges of a unit cube: two at geodesic distance at most 1 (lycee)*
 
@@ -675,20 +550,8 @@ tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q17__it" data-atom="q17__it" data-title="Q17__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2021_printemps__Q17
-lang: it
-secondary: true
-title: "Coupe Animath Primavera 2021  Quesito 17"
-summary: "8 formiche sui bordi di un cubo unitario: due a distanza geodetica al massimo 1 (lycee)"
-topics: [topic_combinatoria, topic_geometria_solida]
-methods: [method_cassetti, method_estremalita]
-skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_stima]
-tags: [kg/translation, topic/combinatoria, topic/geometria_solida]---
 
 *8 formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1 (licee)*
 
@@ -698,4 +561,3 @@ tags: [kg/translation, topic/combinatoria, topic/geometria_solida]---
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-[[Quesiti/src_canimath_2021_printemps#q17|src_canimath_2021_printemps__Q17]]

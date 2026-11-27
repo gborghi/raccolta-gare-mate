@@ -119,6 +119,9 @@ level: Concours Général
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Point on segment between two lines through O; minimize area then perimeter*
 
 > Consider two lines $D_1$ and $D_2$ intersecting at $O$, and a point $M$ belonging to neither line. Consider two variable points $A$ on $D_1$ and $B$ on $D_2$ such that $M$ belongs to the segment $[A, B]$. (Questions 1 and 2 are independent.)
@@ -136,20 +139,8 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_1998__Q04
-lang: it
-secondary: true
-title: "Concours Général des Lycées 1998  Matematica  Quesito 4"
-summary: "Punto su segmento tra due linee attraverso O; ridurre al minimo la superficie e quindi il perimetro"
-topics: [topic_geometria_piana, topic_trigonometria]
-methods: [method_estremalita, method_trigonometria, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 
 *Punto su segmento tra due linee attraverso O; ridurre al minimo la superficie e quindi il perimetro*
 
@@ -163,7 +154,6 @@ tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_cgen_1998#q04|src_cgen_1998__Q04]]
 
 
 

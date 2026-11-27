@@ -289,6 +289,9 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_geometria_analitica,method_casework,method_coordinate,method_estremalita,method_induzione,method_cassetti,skill_astrazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Sets E(x)={ent(k/x): k in N∗} of integer parts; characterize reals alpha,beta whose sets have empty intersection (P-cap) or union N∗ (P-cup); Beatty-type theorems via a geometric lattice argument*
 
 > Problem 3: Intersections and reunions.
@@ -405,20 +408,8 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2024__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2024  Matematica  Quesito 3"
-summary: "Set E(x)={ent(k/x): k in N*} di parti integri; caratterizzare i reali alfa,beta i cui set hanno intersezione vuota (P-cap) o unione N* (P-cup); teoremi di tipo Beatty tramite un argomento di rete geometrica"
-topics: [topic_aritmetica, topic_insiemi_funzioni, topic_geometria_analitica]
-methods: [method_casework, method_coordinate, method_estremalita, method_induzione, method_cassetti]
-skills: [skill_astrazione, skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/insiemi_funzioni, topic/geometria_analitica]---
 
 *insiemi E(x)={ent(k/x): k in N∗} di parti integri; caratterizzare i reali alfa,beta i cui insiemi hanno intersezione vuota (P-cap) o unione N∗ (P-cup); teoremi di tipo Beatty tramite un argomento di reticola geometrica*
 
@@ -494,4 +485,3 @@ tags: [kg/translation, topic/aritmetica, topic/insiemi_funzioni, topic/geometria
 **Metodo:** [[method_casework|Analisi per casi]], [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Geometria]]
-[[Quesiti/src_cgen_2024#q03|src_cgen_2024__Q03]]

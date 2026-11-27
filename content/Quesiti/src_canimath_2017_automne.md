@@ -12,6 +12,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Write 225 as a sum of 5 or 4 consecutive positive integers*
 
 > One can write $225$ as the sum of $3$ consecutive integers: $225 = 74 + 75 + 76$.
@@ -25,20 +28,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2017_automne__Q01
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2017  Quesito 1"
-summary: "Scrivere 225 come somma di 5 o 4 numeri interi positivi consecutivi"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_casework, method_fattorizzazione]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Escrivere 225 come somma di 5 o 4 integri positivi consecutivi*
 
@@ -48,11 +39,13 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2017_automne#q01|src_canimath_2017_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_conteggio,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *a_n = last digit of digit-sum of 2005 written n times in a row; find n with a_n=0 and compute a sum*
 
@@ -67,20 +60,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2017_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2017  Quesito 2"
-summary: "a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma"
-topics: [topic_aritmetica]
-methods: [method_congruenze, method_conteggio, method_casework]
-skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica, skill_conteggio_sistematico]
-tags: [kg/translation, topic/aritmetica]---
 
 *a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma*
 
@@ -90,7 +71,6 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2017_automne#q02|src_canimath_2017_automne__Q02]]
 
 
 
@@ -128,6 +108,9 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *n^2 with last two digits removed is again a perfect square*
 
 > a) Find a strictly positive integer $n$ such that, if one writes $n^2$ and removes its last two digits, the resulting number is still the square of an integer.
@@ -140,20 +123,8 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2017_automne__Q04
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2017  Quesito 4"
-summary: "n^2 con le ultime due cifre rimosse è di nuovo un quadrato perfetto"
-topics: [topic_aritmetica]
-methods: [method_congruenze, method_fattorizzazione, method_casework]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica]---
 
 *n^2 con le ultime due cifre rimosse è di nuovo un quadrato perfetto*
 
@@ -163,11 +134,13 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2017_automne#q04|src_canimath_2017_automne__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, line (d) perpendicular to (BC) through C, parallelogram AEDB; prove M is midpoint of [AE]*
 
@@ -180,20 +153,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2017_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2017  Quesito 5"
-summary: "Triangolo isosceles, linea (d) perpendicolare a (BC) attraverso C, parallelo AEDB; prova M è il punto medio di [AE]"
-topics: [topic_geometria_piana]
-methods: [method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, linea (d) perpendicolare a (BC) attraverso C, parallelo AEDB; prova M è il punto medio di [AE]*
 
@@ -203,11 +164,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2017_automne#q05|src_canimath_2017_automne__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values of xyz given x+2y=z and x^2-4y^2+z^2=310*
 
@@ -220,20 +183,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2017_automne__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2017  Quesito 6"
-summary: "Trova tutti i valori di xyz dati x+2y=z e x^2-4y^2+z^2=310"
-topics: [topic_algebra, topic_aritmetica]
-methods: [method_fattorizzazione, method_casework]
-skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_lettura_attenta]
-tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Ricerca tutti i valori di xyz dati x+2y=z e x^2-4y^2+z^2=310*
 
@@ -243,11 +194,13 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2017_automne#q06|src_canimath_2017_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2012 numbers (±1) on a circle, no 10 consecutive sum to 0; find possible values of total sum S*
 
@@ -260,20 +213,8 @@ tags: [kg/translation, topic/algebra, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2017_automne__Q07
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2017  Quesito 7"
-summary: "Numeri 2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare possibili valori della somma totale S"
-topics: [topic_combinatoria, topic_aritmetica]
-methods: [method_invarianti, method_casework]
-skills: [skill_riconoscimento_pattern, skill_modellizzazione, skill_conteggio_sistematico]
-tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare possibili valori della somma totale S*
 
@@ -283,11 +224,13 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2017_automne#q07|src_canimath_2017_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD, E = foot of perp from B to AC, circle through A and E centred on (AD), F on [CD]; prove BF bisects angle AFC*
 
@@ -300,20 +243,8 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2017_automne__Q08
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2017  Quesito 8"
-summary: "Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF bisecta angolo AFC"
-topics: [topic_geometria_piana]
-methods: [method_trigonometria, method_coordinate, method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF divide angolo AFC*
 
@@ -323,4 +254,3 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2017_automne#q08|src_canimath_2017_automne__Q08]]

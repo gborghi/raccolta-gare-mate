@@ -88,6 +88,9 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Set E of radii R of spheres (H) keeping points B,C strictly outside while sphere (A) lies strictly inside; non-emptiness and least upper bound*
 
 > Let $A$, $B$, $C$ be three pairwise distinct points in space, $(A)$ a sphere of centre $A$ and radius $r$, and $E$ the set of numbers $R > 0$ such that there exists a sphere $(H)$ of centre $H$ and radius $R$ with respect to which the points $B$ and $C$ are strictly exterior (that is, for example, such that $HB > R$), and the points of $(A)$ are strictly interior.
@@ -103,20 +106,8 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_cgen_2000__Q03
-lang: it
-secondary: true
-title: "Concours Général des Lycées 2000  Matematica  Quesito 3"
-summary: "Set E di raggio R di sfere (H) mantenendo i punti B,C strettamente all'esterno mentre la sfera (A) si trova strettamente all'interno; non vuoto e il limite superiore minimo"
-topics: [topic_geometria_solida, topic_insiemi_funzioni]
-methods: [method_estremalita, method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_astrazione, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 
 *Set E di raggio R delle sfere (H) mantenendo i punti B,C strettamente all'esterno mentre la sfera (A) si trova strettamente all'interno; non vuoto e il limite superiore minimo*
 
@@ -128,4 +119,3 @@ tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-[[Quesiti/src_cgen_2000#q03|src_cgen_2000__Q03]]

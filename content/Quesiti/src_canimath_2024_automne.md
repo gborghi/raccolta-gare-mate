@@ -49,6 +49,9 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Find angle QDP using two angle bisectors from point D on triangle side*
 
 > Let $ABC$ be a triangle and $D$ a point on segment $[BC]$ (other than $B$ and $C$). Let $P$ be the point on segment $[AB]$ such that $(DP)$ is the angle bisector of $\widehat{ADB}$, and $Q$ the point on segment $[AC]$ such that $(DQ)$ is the angle bisector of $\widehat{CDA}$.
@@ -63,20 +66,8 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_automne__Q02
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2024  Quesito 2"
-summary: "Trovare angolo QDP utilizzando due bisettori angolari dal punto D sul lato del triangolo"
-topics: [topic_geometria_piana]
-methods: [method_simmetria]
-skills: [skill_ragionamento_geometrico, skill_lettura_attenta]
-tags: [kg/translation, topic/geometria_piana]---
 
 *Find angolo QDP utilizzando due bisettori angolari dal punto D sul lato del triangolo*
 
@@ -89,11 +80,13 @@ tags: [kg/translation, topic/geometria_piana]---
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 90
-[[Quesiti/src_canimath_2024_automne#q02|src_canimath_2024_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers a,b,n with a,b | n and n=a+b+ab; show a=b*
 
@@ -106,20 +99,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_automne__Q03
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2024  Quesito 3"
-summary: "I numeri interi positivi a,b,n con a,b. n e n = a+b+ab; mostrare a=b"
-topics: [topic_aritmetica]
-methods: [method_fattorizzazione, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica]---
 
 *I numeri interi positivi a,b,n con a,b. n e n=a+b+ab; mostrare a=b*
 
@@ -129,7 +110,6 @@ tags: [kg/translation, topic/aritmetica]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-[[Quesiti/src_canimath_2024_automne#q03|src_canimath_2024_automne__Q03]]
 
 
 
@@ -165,6 +145,9 @@ tags: [kg/translation, topic/aritmetica]---
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_cassetti,method_colorazione,method_estremalita,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_stima"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *2024×2024 grid, k colors; min k so any coloring has 3 cells with distinct colors in L-shape*
 
 > Consider a $2024 \times 2024$ grid. Quentin has $k$ colors and colors each of the $2024^2$ cells of the grid with one of the $k$ colors, so that each color is used at least once. Determine the smallest positive integer $k$ verifying the following property:
@@ -178,20 +161,8 @@ tags: [kg/translation, topic/aritmetica]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_automne__Q05
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2024  Quesito 5"
-summary: "2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 celle con colori distinti in forma di L"
-topics: [topic_combinatoria]
-methods: [method_cassetti, method_colorazione, method_estremalita]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_stima]
-tags: [kg/translation, topic/combinatoria]---
 
 *2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 celle con colori distinti in forma L*
 
@@ -203,11 +174,13 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_colorazione|Colorazione / parita]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2024_automne#q05|src_canimath_2024_automne__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD, equilateral triangles ABE and DAF exterior; midpoint H of EF, G = (BF)∩(CE); show GH=GC*
 
@@ -220,20 +193,8 @@ tags: [kg/translation, topic/combinatoria]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_automne__Q06
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2024  Quesito 6"
-summary: "ABCD quadrato, triangoli equilaterali ABE e DAF esteriori; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC"
-topics: [topic_geometria_piana]
-methods: [method_simmetria, method_trigonometria, method_coordinate]
-skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
-tags: [kg/translation, topic/geometria_piana]---
 
 *ABCD quadrato, triangoli equilaterali ABE e DAF esteriori; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC*
 
@@ -243,7 +204,6 @@ tags: [kg/translation, topic/geometria_piana]---
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-[[Quesiti/src_canimath_2024_automne#q06|src_canimath_2024_automne__Q06]]
 
 
 
@@ -318,6 +278,9 @@ tags: [kg/translation, topic/geometria_piana]---
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *Integers a≥2,b≥2 with (a−1)/(b−1)−a/b=1; show a/b and (a−1)/(b−1) are integers*
 
 > Let $a \ge 2$ and $b \ge 2$ be two integers. Suppose that
@@ -331,20 +294,8 @@ tags: [kg/translation, topic/geometria_piana]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_automne__Q09
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2024  Quesito 9"
-summary: "Integri a≥2,b≥2 con (a−1)/(b−1)−a/b=1; mostrare a/b e (a−1)/(b−1) sono integri"
-topics: [topic_aritmetica, topic_algebra]
-methods: [method_fattorizzazione, method_congruenze]
-skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
-tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Integra a≥2,b≥2 con (a−1)/(b−1)−a/b=1; mostrare a/b e (a−1)/(b−1) sono integri*
 
@@ -354,7 +305,6 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-[[Quesiti/src_canimath_2024_automne#q09|src_canimath_2024_automne__Q09]]
 
 
 
@@ -396,6 +346,9 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_cassetti,method_colorazione,method_estremalita,method_doppio_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_stima,skill_astrazione"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
 *2024×2024 grid, k colors; min k so any coloring has 3 cells with distinct colors in L-shape (lycéen version)*
 
 > Consider a $2024 \times 2024$ grid. Quentin has $k$ colors and colors each of the $2024^2$ cells of the grid with one of the $k$ colors, so that each color is used at least once. Determine the smallest positive integer $k$ verifying the following property:
@@ -409,20 +362,8 @@ tags: [kg/translation, topic/aritmetica, topic/algebra]---
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
 
-<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
-
----
-tipo: quesito-translation
-translation_of: src_canimath_2024_automne__Q11
-lang: it
-secondary: true
-title: "Coupe Animath Automne 2024  Quesito 11"
-summary: "2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 cellule con colori distinti in forma di L (versione lycéen)"
-topics: [topic_combinatoria]
-methods: [method_cassetti, method_colorazione, method_estremalita, method_doppio_conteggio]
-skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_stima, skill_astrazione]
-tags: [kg/translation, topic/combinatoria]---
 
 *2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 celle con colori distinti in forma di L (versione lycéen)*
 
@@ -434,7 +375,6 @@ tags: [kg/translation, topic/combinatoria]---
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_colorazione|Colorazione / parita]], [[method_estremalita|Principio di estremalita]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-[[Quesiti/src_canimath_2024_automne#q11|src_canimath_2024_automne__Q11]]
 
 
 
