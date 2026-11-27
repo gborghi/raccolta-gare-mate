@@ -93,7 +93,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo alfa dopo aver ruotato il triangolo ABC di 90 gradi in senso antiorario attorno a C*
+*Angolo alfa dopo aver ruotato il triangolo ABC di \1° in senso antiorario attorno a C*
 
 > Il triangolo $CDE$ si può ottenere ruotando il triangolo $ABC$ di $90^\circ$ in senso antiorario attorno a $C$, come mostrato nel disegno sottostante. Possiamo affermare che $\alpha$ è uguale a:
 >
@@ -626,7 +626,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo n>1 tale che P_n coincida con P_1 per archi di 35 gradi su una circonferenza*
+*Il più piccolo n>1 tale che P_n coincida con P_1 per archi di \1° su una circonferenza*
 
 > I punti $P_1, P_2, P_3, \ldots$, in questo ordine, giacciono su una circonferenza e sono tali che l'arco che unisce ciascun punto al successivo misura $35^\circ$. Il valore minimo di $n > 1$ per cui $P_n$ coincide con $P_1$ è:
 >

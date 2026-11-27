@@ -436,7 +436,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolo del TU in una configurazione con un quadrato, il lato di un esagono regolare e un angolo di 15 gradi*
+*Calcolo del TU in una configurazione con un quadrato, il lato di un esagono regolare e un angolo di \1°*
 
 > Nella figura, $XAYD$ è un quadrato, quindi $m(\widehat{TAU})=90^\circ$. Inoltre, $m(\widehat{TUA})=\frac{m(\widehat{DY})-m(\widehat{AB})}{2}=15^\circ$ e $m(\widehat{UA})=m(\widehat{AYD})=90^\circ$, quindi $ABDY$ è ciclico. $AB$ è il lato di un esagono regolare inscritto nella circonferenza di raggio $1$, pertanto $AB=1$. Nel triangolo rettangolo $UBA$, $AT=\frac{1}{\operatorname{sen}15^\circ}$, e nel triangolo rettangolo $TAU$, $\frac{AU}{TU}=\cos15^\circ$, quindi $TU=\frac{1}{\operatorname{sen}15^\circ\cos15^\circ}=\frac{2}{\operatorname{sen}30^\circ}=4$, utilizzando $\operatorname{sen}2x=2\operatorname{sen}x\cos x$. Determinare $TU$. [Valore della chiave di risposta: $TU=4$.]
 

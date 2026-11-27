@@ -216,7 +216,7 @@ level: OBM Nível 2
 
 *Valuta (x^3-1)/(1+x^2+(x+1)^2) per x=2015*
 
-> Let $x=2015$. The given expression can be rewritten as $$\frac{x^3-1^3}{1^2+x^2+(x+1)^2}=\frac{(x-1)(x^2+x+1)}{2(x^2+x+1)}=\frac{x-1}{2}.$$ Thus the value sought is $\frac{2015-1}{2}=1007$. What is the value of the expression? (Note: original multiple-choice options are not reproduced in the source gabarito.)
+> Sia $x=2015$. The given expression can be rewritten as $$\frac{x^3-1^3}{1^2+x^2+(x+1)^2}=\frac{(x-1)(x^2+x+1)}{2(x^2+x+1)}=\frac{x-1}{2}.$$ Thus the value sought is $\frac{2015-1}{2}=1007$. What is the value of the expression? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -251,7 +251,7 @@ level: OBM Nível 2
 
 *Quale valore non può essere il lato variabile dei triangoli ABC e ABD?*
 
-> Per l'ineguaglianza triangolare applicata rispettivamente ai triangoli $ABC$ e $ABD$, $x<4+3=7$ e $8+x>10$, si ha $2<x<7$. In linea di principio, i valori possibili di $x$ sono $3$, $4$, $5$ oppure $6$. Per la reciproca dell'ineguaglianza triangolare, tre numeri positivi sono lunghezze dei lati di un triangolo solo se il più grande è minore della somma degli altri due; i quattro valori trovati soddisfano le condizioni. Quale valore di $x$ non è ammissibile? (Nota: le opzioni originali a scelta multipla non sono riprodotte nel gabarito sorgente.)
+> Per l'ineguaglianza triangolare applicata rispettivamente ai triangoli $ABC$ e $ABD$, $x<4+3=7$ e $8+x>10$, si ha $2<x<7$. In retta di principio, i valori possibili di $x$ sono $3$, $4$, $5$ oppure $6$. Per la reciproca dell'ineguaglianza triangolare, tre numeri positivi sono lunghezze dei lati di un triangolo solo se il più grande è minore della somma degli altri due; i quattro valori trovati soddisfano le condizioni. Quale valore di $x$ non è ammissibile? (Nota: le opzioni originali a scelta multipla non sono riprodotte nel gabarito sorgente.)
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -320,7 +320,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo al centro ECF con corde parallele CD e AB, arco CA=44 gradi*
+*Angolo al centro ECF con corde parallele CD e AB, arco CA=\1°*
 
 > Poiché l'arco $CA$ misura $44^\circ$ e $CD$ e $AB$ sono paralleli, gli archi $DB$, $CE$ e $FD$ sono congruenti e misurano anch'essi $44^\circ$. Poiché $CB$ è un diametro, l'arco $EF$ misura $180^\circ-44^\circ-44^\circ=48^\circ$. Infine, $\angle ECF$ è l'angolo inscritto determinato dall'arco $EF$, quindi il suo valore è $48^\circ/2=24^\circ$. Qual è il valore di $\angle ECF$? (Nota: le opzioni originali a scelta multipla non sono riprodotte nel gabarito sorgente.)
 
@@ -577,7 +577,7 @@ level: OBM Nível 2
 
 *Angolo x con un poligono regolare e i triangoli isosceli LBC, CBI*
 
-> The interior angle of any regular polygon with $n$ sides is $\frac{180^\circ(n-2)}{n}$. Consequently $\angle ABL=90^\circ$, $\angle LBC=135^\circ$, $\angle ABC=135^\circ$, $\angle CBI=27^\circ$. Since $LB=BC=BI$, the triangles $LBC$ and $CBI$ are isosceles with bases $LC$ and $CI$. Hence $$x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ.$$ What is the value of $x$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
+> The interior angle of any regular polygon with $n$ sides is $\frac{180^\circ(n-2)}{n}$. Consequently $\angle ABL=90^\circ$, $\angle LBC=135^\circ$, $\angle ABC=135^\circ$, $\angle CBI=27^\circ$. Since $LB=BC=BI$, the triangles $LBC$ and $CBI$ are isosceles with bases $LC$ and $CI$. dunque $$x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ.$$ What is the value of $x$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -686,7 +686,7 @@ level: OBM Nível 2
 
 *Calcola SR=1 in un cerchio con i triangoli simili RSA e XYA*
 
-> Let $I$ be the intersection of $AD$ and $BF$ and $O$ the centre of the circle. Since $FA=AB=AY=AX$, $FB$ is parallel to $XY$, so triangles $RSA$ and $XYA$ are similar and $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ since $\angle ABI=30^\circ$ and $AB=AO=OB$. Thus $SR=1$. What is the value of $SR$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
+> Sia $I$ be the intersection of $AD$ and $BF$ and $O$ the centre of the circle. Since $FA=AB=AY=AX$, $FB$ is parallel to $XY$, so triangles $RSA$ and $XYA$ are similar and $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ since $\angle ABI=30^\circ$ and $AB=AO=OB$. Thus $SR=1$. What is the value of $SR$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 ![[src_obm_2016_n2_f1__Q19.png]]
 

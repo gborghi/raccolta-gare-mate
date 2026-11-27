@@ -81,9 +81,9 @@ level: Coupe Animath Printemps
 
 *Compare due somme A e B che comportano reciprocità*
 
-> a) Let $A = (1 + 1/2)/2$ e $B = (1 + 1/2 + 1/3)/3$. Mostra che $A > B$.
+> a) Sia $A = (1 + 1/2)/2$ e $B = (1 + 1/2 + 1/3)/3$. Mostra che $A > B$.
 > 
-> b) Let $A = (1 + 1/2 + 1/3 + \cdots + 1/2017)/2017$ e $B = (1 + 1/2 + 1/3 + \cdots + 1/2018)/2018$. Mostra che $A > B$.
+> b) Sia $A = (1 + 1/2 + 1/3 + \cdots + 1/2017)/2017$ e $B = (1 + 1/2 + 1/3 + \cdots + 1/2018)/2018$. Mostra che $A > B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
@@ -315,7 +315,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Trapezio ABCD con diagonali che si incontrano in E; la retta per E parallela ad AB incontra AD in F: dimostrare che l'angolo BFC è retto.*
-> $ABCD$ sia un trapezoide con $AB + CD = AD$. Le diagonali $(AC)$ e $(BD)$ si incontrano in un punto $E$. La linea attraverso $E$ parallela a $(AB)$ incontra $(AD)$ al punto $F$. Mostra che $\widehat{BFC} = 90^\circ$.
+> $ABCD$ sia un trapezoide con $AB + CD = AD$. Le diagonali $(AC)$ e $(BD)$ si incontrano in un punto $E$. La retta attraverso $E$ parallela a $(AB)$ incontra $(AD)$ al punto $F$. Mostra che $\widehat{BFC} = 90^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]

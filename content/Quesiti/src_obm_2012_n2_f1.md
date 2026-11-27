@@ -1373,7 +1373,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Misura dell'angolo PBQ, dato l'angolo retto ABC e l'angolo AFD=40 gradi*
+*Misura dell'angolo PBQ, dato l'angolo retto ABC e l'angolo AFD=\1°*
 
 > Nella figura che segue, l'angolo $A\hat{B}C$ è retto, $r$ è una retta che interseca i segmenti $AB$ e $BC$ rispettivamente in $D$ e $E$; le rette $CD$ e $AE$ si intersecano in $F$; $P$ e $Q$ sono le proiezioni ortogonali di $A$ e $C$ sulla retta $r$, rispettivamente. Sapendo che l'angolo tra le rette $CD$ e $AE$ è $m(A\hat{F}D) = 40^\circ$, la misura di $P\hat{B}Q$, in gradi, è:
 >

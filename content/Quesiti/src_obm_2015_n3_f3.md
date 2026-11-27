@@ -29,7 +29,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Collinearità di A, D, N se e solo se l'angolo BAC = 45 gradi*
+*Collinearità di A, D, N se e solo se l'angolo BAC = \1°*
 
 > Sia $ABC$ un triangolo acutangolo scaleno e $N$ il centro della circonferenza che passa per i piedi delle tre altezze del triangolo. Sia $D$ l'intersezione delle rette tangenti alla circonferenza circoscritta di $ABC$ nei punti $B$ e $C$. Dimostrare che $A$, $D$ e $N$ sono allineati se e solo se $\angle BAC = 45^\circ$.
 

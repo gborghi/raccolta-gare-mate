@@ -163,7 +163,7 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 
 *Ineguaglianza aa'+bb'+cc' <= 2S+R(a+b+c) per i triangoli acuti, e se vale per quelli obtusi*
 
-> Il $ABC$ deve essere un triangolo di superficie $S$. Nota con $a=BC$, $b=CA$, $c=AB$ le lunghezze dei suoi lati e $a'=AA'$, $b'=BB'$, $c'=CC'$ le lunghezze dei suoi mediani, dove $A'$, $B'$, $C'$ sono i rispettivi punti di mezzo di $BC$, $CA$, $AB$. Il $R$ deve essere il raggio del cerchio circoscritto di $ABC$. Indicare che $aa'+bb'+cc'\le 2S+R(a+b+c)$ se $ABC$ è acuta (cioè se tutti gli angoli di $ABC$ sono inferiori a $90^\circ$). Questa disuguaglianza vale anche per tutti i triangoli obtusi (quelli con un angolo maggiore di $90^\circ$)?
+> Il $ABC$ deve essere un triangolo di superficie $S$. Nota con $a=BC$, $b=CA$, $c=AB$ le lunghezze dei suoi lati e $a'=AA'$, $b'=BB'$, $c'=CC'$ le lunghezze dei suoi mediani, dove $A'$, $B'$, $C'$ sono i rispettivi punti di mezzo di $BC$, $CA$, $AB$. Il $R$ deve essere il raggio del cerchio circoscritto di $ABC$. Dimostrare che $aa'+bb'+cc'\le 2S+R(a+b+c)$ se $ABC$ è acuta (cioè se tutti gli angoli di $ABC$ sono inferiori a $90^\circ$). Questa disuguaglianza vale anche per tutti i triangoli obtusi (quelli con un angolo maggiore di $90^\circ$)?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]

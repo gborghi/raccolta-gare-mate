@@ -42,7 +42,7 @@ level: Coupe Animath Automne
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
-**Risposta:** 140 gradi
+**Risposta:** 140°
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -84,7 +84,7 @@ level: Coupe Animath Automne
 
 *Massimo dolci di 2 colori 9 cerchi collegati*
 
-> Nella figura seguente ci sono cerchi $9$. Diciamo che due di questi cerchi sono collegati se sono uniti da un segmento che non passa attraverso nessun altro cerchio. Eva colora ciascuna delle cerchie in verde o rosso. Una volta che tutti i cerchi sono colorati, vince un caramello per ogni coppia di due cerchi collegati di colori diversi. Determina il numero massimo di caramelle che Eva può ottenere in questo modo.
+> Nella figura seguente ci sono cerchi $9$. Diciamo che due di questi cerchi sono collegati se sono uniti da un segmento che non passa per nessun altro cerchio. Eva colora ciascuna delle cerchie in verde o rosso. Una volta che tutti i cerchi sono colorati, vince un caramello per ogni coppia di due cerchi collegati di colori diversi. Determina il numero massimo di caramelle che Eva può ottenere in questo modo.
 
 ![[src_canimath_2025_automne__Q02.png]]
 
@@ -132,7 +132,7 @@ level: Coupe Animath Automne
 
 *Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi*
 
-> Che $ABC$ sia un triangolo il cui lato più piccolo è $[BC]$, e che $D$ sia un punto sul segmento $[BC]$. Il segmento $E$ deve essere $[AC]$ in modo tale che $CD = CE$ e $F$ nel segmento $[AB]$ in modo tale che $BD = BF$. Infine $P$ è il punto simmetrico di $D$ rispetto a $B$ e $Q$ il punto simmetrico di $D$ rispetto a $C$. Il punto di intersezione delle linee $(QE)$ e $(PF)$ è $X$. Indicare che i punti $D$, $E$, $F$ e $X$ si trovano sullo stesso cerchio.
+> Sia $ABC$ un triangolo il cui lato più piccolo è $[BC]$, e che $D$ sia un punto sul segmento $[BC]$. Il segmento $E$ deve essere $[AC]$ in modo tale che $CD = CE$ e $F$ nel segmento $[AB]$ in modo tale che $BD = BF$. Infine $P$ è il punto simmetrico di $D$ rispetto a $B$ e $Q$ il punto simmetrico di $D$ rispetto a $C$. Il punto di intersezione delle rette $(QE)$ e $(PF)$ è $X$. Dimostrare che i punti $D$, $E$, $F$ e $X$ si trovano sullo stesso cerchio.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -176,7 +176,7 @@ level: Coupe Animath Automne
 
 *Trova tutte le b con i rimanenti 2 e 4 in due divisioni euclidiche*
 
-> Hadriel ha scelto due enti rigorosamente positivi $a$ e $b$. Quando fa la divisione euclidica di $a$ per $b$, il rimanente è $2$. Quando fa la divisione euclidica di $b$ per $a$, il rimanente è $4$. Determinare tutti i valori possibili che $b$ può assumere.
+> Hadriel ha scelto due enti strettamente positivi $a$ e $b$. Quando fa la divisione euclidica di $a$ per $b$, il rimanente è $2$. Quando fa la divisione euclidica di $b$ per $a$, il rimanente è $4$. Determinare tutti i valori possibili che $b$ può assumere.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -220,7 +220,7 @@ level: Coupe Animath Automne
 
 *Tra quattro reali positivi, la differenza di una coppia è inferiore a un terzo della somma delle altre due*
 
-> Mostrate che tra quattro numeri reali rigorosamente positivi, esistono sempre due di essi la cui differenza (cioè la più grande delle due meno la più piccola) è rigorosamente inferiore a un terzo della somma delle altre due.
+> Mostrate che tra quattro numeri reali strettamente positivi, esistono sempre due di essi la cui differenza (cioè la più grande delle due meno la più piccola) è rigorosamente inferiore a un terzo della somma delle altre due.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
@@ -264,7 +264,7 @@ level: Coupe Animath Automne
 
 *Equivalenti superfici del parallelogramma ABCD e del parallelogramma costruito AEFG*
 
-> $ABCD$ sia un parallelo. Il punto $E$ deve essere un punto del segmento $[BC]$. Tracciamo il parallelo alla linea $(AE)$ che attraversa $D$, su cui posizionamo due punti, $F$ e $G$, in modo tale che $D$ si trova sul segmento $[FG]$ e in modo tale che il quadrilaterale $AEFG$ sia un parallelo. Indicare che le superfici dei due parallelogrammi $ABCD$ e $AEFG$ sono uguali.
+> $ABCD$ sia un parallelo. Il punto $E$ deve essere un punto del segmento $[BC]$. Tracciamo il parallelo alla retta $(AE)$ che attraversa $D$, su cui posizionamo due punti, $F$ e $G$, in modo tale che $D$ si trova sul segmento $[FG]$ e in modo tale che il quadrilaterale $AEFG$ sia un parallelo. Dimostrare che le superfici dei due parallelogrammi $ABCD$ e $AEFG$ sono uguali.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -452,7 +452,7 @@ level: Coupe Animath Automne
 
 *Tre numeri interi distinti che rendono x+n, x+m, x+l una progressione geometrica forze x razionale*
 
-> Hadriel ha scelto un numero reale $x$. Ha trovato tre integri positivi distinti in coppia $n$, $m$ e $l$ in modo tale che i numeri $x+n$, $x+m$ e $x+l$ siano in progressione geometrica. Mostrare che $x$ è un numero razionale, cioè che è scritto nella forma $\frac{a}{b}$ dove $a$ e $b$ sono interi con $b \neq 0$.
+> Hadriel ha scelto un numero reale $x$. Ha trovato tre interi positivi distinti in coppia $n$, $m$ e $l$ in modo tale che i numeri $x+n$, $x+m$ e $x+l$ siano in progressione geometrica. Mostrare che $x$ è un numero razionale, cioè che è scritto nella forma $\frac{a}{b}$ dove $a$ e $b$ sono interi con $b \neq 0$.
 > 
 > Diciamo che i numeri reali $a$, $b$, $c$ sono in progressione geometrica se esiste un numero reale non zero $k$ tale che $c = kb = k^2 a$.*
 
@@ -630,7 +630,7 @@ level: Coupe Animath Automne
 
 *Mostra che il triangolo DYZ è uguale a quello di una configurazione di punto medio/semicircolo*
 
-> Che $ABC$ sia un triangolo che non è uguale a $A$. $D$, $E$ e $F$ siano i punti di mezzo dei lati $[BC]$, $[AC]$ e $[AB]$ rispettivamente. Il cerchio di diametro $[BC]$ taglia rispettivamente le metà linee $[DE)$ e $[DF)$ a $P$ e $Q$. Le linee $(BP)$ e $(CQ)$ si tagliano a $X$. La riga $(AX)$ taglia rispettivamente le righe $(DE)$ e $(DF)$ a $Y$ e $Z$. Indicare che il triangolo $DYZ$ è uguale.
+> Sia $ABC$ un triangolo che non è uguale a $A$. $D$, $E$ e $F$ siano i punti di mezzo dei lati $[BC]$, $[AC]$ e $[AB]$ rispettivamente. Il cerchio di diametro $[BC]$ taglia rispettivamente le metà rette $[DE)$ e $[DF)$ a $P$ e $Q$. Le rette $(BP)$ e $(CQ)$ si tagliano a $X$. La riga $(AX)$ taglia rispettivamente le righe $(DE)$ e $(DF)$ a $Y$ e $Z$. Dimostrare che il triangolo $DYZ$ è uguale.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

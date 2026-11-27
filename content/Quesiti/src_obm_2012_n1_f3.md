@@ -98,7 +98,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due esagoni diversi, ciascuno con tutti gli angoli interni di 120 gradi; determina il perimetro di ABCDEF e il valore di ST+PU a partire dalle lunghezze dei lati date.*
+*Due esagoni diversi, ciascuno con tutti gli angoli interni di \1°; determina il perimetro di ABCDEF e il valore di ST+PU a partire dalle lunghezze dei lati date.*
 
 > Ana ha disegnato due esagoni diversi, ciascuno con angoli interni di $120^\circ$. Uno di essi è l'esagono $ABCDEF$ e l'altro è l'esagono $PQRSTU$.
 >

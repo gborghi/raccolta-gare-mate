@@ -137,7 +137,7 @@ level: Coupe Animath Printemps
 
 *Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS*
 
-> Che $ABCD$ sia un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
+> Sia $ABCD$ un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -181,7 +181,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Divisori propri di un multiplo di 2020: confrontare la somma dei divisori dispari con quella dei divisori pari.*
-> Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
+> Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Dimostrare che la somma dei numeri dispari scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -227,7 +227,7 @@ level: Coupe Animath Printemps
 
 *Coppia 0..13 in 7 coppie in modo che il prodotto delle coppie-somme sia un quadrato perfetto*
 
-> Rémi distribuisce i numeri interi $0, 1, \ldots, 13$ in sette coppie di numeri interi disgiunti in coppia. Per ogni coppia, scrive sulla lavagna la somma dei suoi due elementi. Prove che Rémi può procedere in modo tale che il prodotto dei sette numeri scritti sulla lavagna sia un quadrato perfetto.
+> Rémi distribuisce i numeri interi $0, 1, \ldots, 13$ in sette coppie di numeri interi disgiunti in coppia. Per ogni coppia, scrive sulla lavagna la somma dei suoi due elementi. Dimostrare che Rémi può procedere in modo tale che il prodotto dei sette numeri scritti sulla lavagna sia un quadrato perfetto.
 > 
 > *Un quadrato perfetto è un intero che può essere scritto nella forma $n^2$, dove $n$ è un intero.*
 
@@ -275,7 +275,7 @@ level: Coupe Animath Printemps
 
 *Perimetro del triangolo AMC almeno perimetro di ABME quadrilaterale*
 
-> Il $ABCD$ deve essere un quadrilaterale convesso in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$ e $AD < BC$. $M$ sia il punto medio del segmento $[BC]$ e $E$ sia il punto di intersezione delle linee $(MD)$ e $(AC)$. Prova che il perimetro del triangolo $AMC$ è maggiore o uguale al perimetro del quadrilaterale $ABME$.
+> Il $ABCD$ deve essere un quadrilaterale convesso in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$ e $AD < BC$. $M$ sia il punto medio del segmento $[BC]$ e $E$ sia il punto di intersezione delle rette $(MD)$ e $(AC)$. Prova che il perimetro del triangolo $AMC$ è maggiore o uguale al perimetro del quadrilaterale $ABME$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -368,7 +368,7 @@ level: Coupe Animath Printemps
 
 > Le formiche $n$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, si dice che due formiche siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo.
 > 
-> 1. Supponiamo che $n = 13$. Prove che tra le formiche $13$ esistono due formiche a distanza inferiore o uguale a $1$. 2. Supponiamo che $n = 9$. Prove che tra le formiche $9$ esistono due formiche a distanza inferiore o pari a $1$.
+> 1. Supponiamo che $n = 13$. Dimostrare che tra le formiche $13$ esistono due formiche a distanza inferiore o uguale a $1$. 2. Supponiamo che $n = 9$. Dimostrare che tra le formiche $9$ esistono due formiche a distanza inferiore o pari a $1$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
@@ -462,7 +462,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *In un quadrato con un triangolo equilatero interno ABS, determinare l'angolo DSC.*
-> Che $ABCD$ sia un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
+> Sia $ABCD$ un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -506,7 +506,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Divisori propri di un multiplo di 2020: confrontare la somma dei divisori dispari con quella dei divisori pari (versione liceo).*
-> Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
+> Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Dimostrare che la somma dei numeri dispari scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -551,7 +551,7 @@ level: Coupe Animath Printemps
 
 *Contare i 3 colori (blu/verde/rosso) del 1° gennaio 2021 senza due colori consecutivi dello stesso colore*
 
-> In quanti modi si possono colorare gli integri da $1$ a $2021$ in modo che ogni numero intero sia colorato blu, verde o rosso, e in modo che due numeri interi consecutivi non siano mai dello stesso colore?
+> In quanti modi si possono colorare gli interi da $1$ a $2021$ in modo che ogni numero intero sia colorato blu, verde o rosso, e in modo che due numeri interi consecutivi non siano mai dello stesso colore?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
@@ -601,7 +601,7 @@ level: Coupe Animath Printemps
 
 > Sei mila studenti hanno fatto un esame e tutti hanno ottenuto un punteggio compreso tra $0$ e $8$ ($0$ e $8$). Vincent decide di sostituire tutti i gradi uguali a $1$, $2$ e $3$ con $0$ e tutti i gradi uguali a $5$, $6$ o $7$ con $8$. Gli altri voti sono invariati. Dopo questa modifica, la media dei punteggi è aumentata di $\frac{1}{10}$.
 > 
-> Dimostrare che esistono due integri $a$ e $b$ in modo tale che la differenza tra il numero di studenti che hanno ottenuto il grado $a$ e il numero di studenti che hanno ottenuto il grado $b$, prima delle modifiche effettuate da Vincent, sia almeno $100$.
+> Dimostrare che esistono due interi $a$ e $b$ in modo tale che la differenza tra il numero di studenti che hanno ottenuto il grado $a$ e il numero di studenti che hanno ottenuto il grado $b$, prima delle modifiche effettuate da Vincent, sia almeno $100$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalita]]
@@ -745,7 +745,7 @@ level: Coupe Animath Printemps
 
 *Partitazione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia*
 
-> Si dice che un insieme di integri non vuoti sia *equilibrato* se il suo numero di elementi è uguale alla media dei suoi elementi. Ad esempio, l'insieme $\{1, 2, 6\}$ è equilibrato, perché ha $3$ elementi la cui media è uguale a $3$, ma l'insieme $\{1, 2, \ldots, n\}$ non è equilibrato quando $n \ge 2$, perché ha $n$ elementi la cui media è uguale a $(n+1)/2$.
+> Si dice che un insieme di interi non vuoti sia *equilibrato* se il suo numero di elementi è uguale alla media dei suoi elementi. Ad esempio, l'insieme $\{1, 2, 6\}$ è equilibrato, perché ha $3$ elementi la cui media è uguale a $3$, ma l'insieme $\{1, 2, \ldots, n\}$ non è equilibrato quando $n \ge 2$, perché ha $n$ elementi la cui media è uguale a $(n+1)/2$.
 > 
 > È possibile dividere l'insieme $\{1, 2, \ldots, 2021^2\}$ in diversi insiemi bilanciati che sono disgiunti in coppia?
 
@@ -791,7 +791,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Otto formiche sugli spigoli di un cubo unitario: due di esse sono a distanza geodetica al più 1.*
-> Le formiche $8$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, due formiche si dice siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo. Prove che esistono due formiche a distanza inferiore o pari a $1$.
+> Le formiche $8$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, due formiche si dice siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo. Dimostrare che esistono due formiche a distanza inferiore o pari a $1$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]

@@ -625,7 +625,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare l'angolo PBQ sapendo che l'angolo ABC è retto e che l'angolo tra CD e AE è pari a 40 gradi*
+*Trovare l'angolo PBQ sapendo che l'angolo ABC è retto e che l'angolo tra CD e AE è pari a \1°*
 
 > Nella figura che segue, l'angolo $A\hat{B}C$ è retto; una retta $r$ interseca i segmenti $\overline{AB}$ e $\overline{BC}$ rispettivamente nei punti $D$ e $E$; sia $F$ il punto di intersezione dei segmenti $\overline{CD}$ e $\overline{AE}$, e $P$ e $Q$ siano le proiezioni ortogonali di $A$ e $C$ sulla retta $r$, rispettivamente.
 >

@@ -680,7 +680,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Biliardo: velocità minima della palla di Jade affinché incontri una palla colpita a 60 km/h con un angolo di 30 gradi, con le palle distanti 50 cm*
+*Biliardo: velocità minima della palla di Jade affinché incontri una palla colpita a 60 km/h con un angolo di \1°, con le palle distanti 50 cm*
 
 > Super Esmeralda e Jade Maravilha stanno giocando a biliardo. Super Esmeralda effettua un colpo su una palla con una velocità di $60\,\text{km/h}$, con un angolo di $30^\circ$ rispetto a una delle sponde, come nella figura. Jade Maravilha deve colpire la palla di Super Esmeralda con un'altra palla. Le due palle lasciano la sponda del tavolo simultaneamente e si trovano a una distanza di $50\,\text{cm}$. Jade Maravilha può scegliere qualsiasi angolo per il proprio colpo. Qual è la velocità minima con cui Jade Maravilha può effettuare il proprio colpo?
 >

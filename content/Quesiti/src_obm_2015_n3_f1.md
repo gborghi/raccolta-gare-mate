@@ -965,7 +965,7 @@ level: OBM Nível 3
 
 *Quante cifre ha il più piccolo m tale che la funzione somma delle cifre f(m) sia uguale a 2015?*
 
-> The floor function $\lfloor x \rfloor$ denotes the largest integer less than or equal to $x$. For example, $\lfloor 3.45 \rfloor = 3$ and $\lfloor 41 \rfloor = 41$. Consider the function $f$ defined on non-negative integers by $f(0) = 0$ and $$f(n) = f\!\left(\left\lfloor \frac{n}{10} \right\rfloor\right) + n - 10\left\lfloor \frac{n}{10} \right\rfloor$$ for all positive integers $n$. How many digits does the smallest positive integer $m$ with $f(m) = 2015$ have?
+> The floor function $\lfloor x \rfloor$ denotes the largest intero less than or equal to $x$. For example, $\lfloor 3.45 \rfloor = 3$ and $\lfloor 41 \rfloor = 41$. Si consideri la funzione $f$ defined on non-negative interi by $f(0) = 0$ and $$f(n) = f\!\left(\left\lfloor \frac{n}{10} \right\rfloor\right) + n - 10\left\lfloor \frac{n}{10} \right\rfloor$$ for all positive interi $n$. How many digits does the smallest positive intero $m$ with $f(m) = 2015$ have?
 >
 > (A) 201 \quad (B) 202 \quad (C) 222 \quad (D) 223 \quad (E) 224
 
@@ -1283,7 +1283,7 @@ level: OBM Nível 3
 
 *Minimo di x+y per gli interi positivi che soddisfano una data equazione razionale*
 
-> The positive integers $x$ and $y$ satisfy $$\frac{1}{x} - \frac{1}{2015} = \frac{1}{y} - \frac{1}{x}.$$ What is the minimum possible value of $x + y$?
+> The positive interi $x$ and $y$ satisfy $$\frac{1}{x} - \frac{1}{2015} = \frac{1}{y} - \frac{1}{x}.$$ What is the minimum possible value of $x + y$?
 >
 > (A) 2015 \quad (B) 2016 \quad (C) 3264 \quad (D) 4836 \quad (E) 9672
 

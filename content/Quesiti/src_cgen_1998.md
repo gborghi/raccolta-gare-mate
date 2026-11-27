@@ -89,7 +89,7 @@ level: Concours Général
 
 *Reale sequenza con ricorrenza del pavimento; prova di periodicità*
 
-> Che $(u_n)_{n \in \mathbb{N}}$ sia una sequenza reale che soddisfi, per ogni numero intero $n$, la relazione: $$u_{n+2} = \lfloor u_{n+1} \rfloor - u_n,$$ dove $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
+> Sia $(u_n)_{n \in \mathbb{N}}$ una sequenza reale che soddisfi, per ogni numero intero $n$, la relazione: $$u_{n+2} = \lfloor u_{n+1} \rfloor - u_n,$$ dove $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
 > 
 > Mostra che esiste un numero intero non zero $p$ tale che la relazione $u_n = u_{n+p}$ si applique a ogni numero naturale $n$.
 
@@ -198,11 +198,11 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Due rette secanti in O e un punto M esterno a esse: tra i punti A e B sulle due rette tali che M appartenga al segmento AB, minimizzare prima l'area e poi il perimetro del triangolo OAB.*
-> Considera due linee $D_1$ e $D_2$ che si incrociano a $O$ e un punto $M$ che non appartiene a nessuna delle due linee. Considerare due punti variabili $A$ su $D_1$ e $B$ su $D_2$ in modo tale che $M$ appartenga al segmento $[A, B]$. (Le domande 1 e 2 sono indipendenti.)
+> Considera due rette $D_1$ e $D_2$ che si incrociano a $O$ e un punto $M$ che non appartiene a nessuna delle due linee. Considerare due punti variabili $A$ su $D_1$ e $B$ su $D_2$ in modo tale che $M$ appartenga al segmento $[A, B]$. (Le domande 1 e 2 sono indipendenti.)
 > 
-> (1) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale l'area del triangolo $OAB$ è minima. Costruire i punti $A$ e $B$ così determinati.
+> (1) Dimostrare che esiste una posizione dei punti $A$ e $B$ per il quale l'area del triangolo $OAB$ è minima. Costruire i punti $A$ e $B$ così determinati.
 > 
-> (2) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
+> (2) Dimostrare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]

@@ -129,7 +129,7 @@ level: Coupe Animath Printemps
 
 > Lasciate che $ABCD$ sia un rettangolo. Il punto $P$ deve essere un punto sul segmento $[AB]$ e il punto $Q$ un punto sul segmento $[BC]$. I segmenti $[AQ]$ e $[DP]$ si intersecano a $X$; i segmenti $[AQ]$ e $[CP]$ si intersecano a $Y$; i segmenti $[DP]$ e $[CP]$ si intersecano a $Z$. Le aree $a$, $b$, $c$ sono rispettivamente le aree del triangolo $APX$, del quadrilaterale $BPYQ$ e del triangolo $CQZ$ del quadrilaterale $DXYZ$.
 > 
-> Indicare che l'area del quadrilaterale $DXYZ$ soddisfa $a + b = c$.
+> Dimostrare che l'area del quadrilaterale $DXYZ$ soddisfa $a + b = c$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -277,7 +277,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 
 > $ABCD$ sia un parallelo, e $P$ sia un punto all'interno di $ABCD$ tale da $CP = CB$. $M$ e $N$ siano rispettivamente i punti intermedi di $[AP]$ e $[CD]$.
 > 
-> Indicare che le linee $(BP)$ e $(MN)$ sono perpendicolari.
+> Dimostrare che le rette $(BP)$ e $(MN)$ sono perpendicolari.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -325,9 +325,9 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 
 *Sequenza u_{n+1}=u_n più il suo più grande divisore proprio; mostrare 3^2019 divide u_n alla fine*
 
-> Che $(u_n)_{n \geq 0}$ sia una sequenza di integri positivi tale che per tutti $n \geq 0$, $u_{n+1}$ sia la somma di $u_n$ e il suo più grande divisore proprio (cioè il suo più grande divisore strettamente inferiore a $u_n$ stesso). Per esempio, se $u_0 = 12$, allora $u_1 = 12 + 6 = 18$.
+> Sia $(u_n)_{n \geq 0}$ una sequenza di interi positivi tale che per tutti $n \geq 0$, $u_{n+1}$ sia la somma di $u_n$ e il suo più grande divisore proprio (cioè il suo più grande divisore strettamente inferiore a $u_n$ stesso). Per esempio, se $u_0 = 12$, allora $u_1 = 12 + 6 = 18$.
 > 
-> Indicare che esiste $N$ in modo tale che per tutti $n > N$, il numero intero $u_n$ sia divisibile da $3^{2019}$.
+> Dimostrare che esiste $N$ in modo tale che per tutti $n > N$, il numero intero $u_n$ sia divisibile da $3^{2019}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -375,7 +375,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 
 *m x n griglia blu/rosso; massimizzare le righe con maggioranza blu più le colonne con maggioranza rossa*
 
-> $m$ e $n$ siano integri con $m \geq 3$. In una griglia $m \times n$, ogni quadrato unitario è di colore blu o rosso. $A$ è il numero di righe in cui i quadrati blu sono in maggioranza, e $B$ il numero di colonne in cui i quadrati rossi sono in maggioranza.
+> $m$ e $n$ siano interi con $m \geq 3$. In una griglia $m \times n$, ogni quadrato unitario è di colore blu o rosso. $A$ è il numero di righe in cui i quadrati blu sono in maggioranza, e $B$ il numero di colonne in cui i quadrati rossi sono in maggioranza.
 > 
 > Qual è il valore più grande possibile di $A + B$?
 

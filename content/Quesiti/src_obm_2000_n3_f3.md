@@ -311,7 +311,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 *In quanti pezzi un cubo è suddiviso dai 28 piani mediatori delle coppie di suoi vertici.*
-> Sia $C$ un cubo di legno. Per ciascuna delle $28$ coppie di vertici di $C$, tagliamo il cubo $C$ con il piano bisettore perpendicolare dei due vertici della coppia. In quante parti viene diviso il cubo?
+> Sia $C$ un cubo di legno. Per ciascuna delle $28$ coppie di vertici di $C$, tagliamo il cubo $C$ con il piano bisettrice perpendicolare dei due vertici della coppia. In quante parti viene diviso il cubo?
 >
 > **Note:** Dati due punti $A$ e $B$ nello spazio, il piano mediatore di $A$ e $B$ è l'insieme dei punti dello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ e passante per il punto medio di $AB$.
 

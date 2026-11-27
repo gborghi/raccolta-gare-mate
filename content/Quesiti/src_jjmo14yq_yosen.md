@@ -67,7 +67,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza massima del segmento PQ per i punti che vedono AB con angoli di 60 e 120 gradi*
+*Lunghezza massima del segmento PQ per i punti che vedono AB con angoli di 60 e \1°*
 
 > Nel piano c'è un segmento $AB$ di lunghezza $10$. Due punti $P,Q$ si muovono nel piano soggetti a $\angle APB = 60^\circ$ e $\angle AQB = 120^\circ$. Determinare il valore massimo possibile della lunghezza del segmento $PQ$.
 
@@ -189,7 +189,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare DF con ceviane che trissecano l'angolo A in tre parti da 45 gradi ciascuna*
+*Trovare DF con ceviane che trissecano l'angolo A in tre parti da \1° ciascuna*
 
 > Sul lato $BC$ del triangolo $ABC$ vi sono i punti $D,E$, con $B,D,E,C$ disposti in questo ordine, tali che $\angle BAD = \angle DAE = \angle EAC = 45^\circ$. Sia $F$ il punto di intersezione tra la circonferenza circoscritta al triangolo $ABE$ e la retta $AC$, diverso da $A$. Dati $AC = 3$ e $AD = 1$, determina la lunghezza del segmento $DF$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
@@ -416,7 +416,7 @@ level: JJMO Yosen
 
 *Minimi autointersecamenti del percorso a tratto unico sulla figura triangolare a righe 2016*
 
-> Si consideri la figura ottenuta impilando $2016$ righe, in cui la $k$-esima riga contiene $k$ piccoli triangoli equilateri rivolti verso il basso disposti in linea. Partendo dal punto medio del lato più in alto e tracciando un unico tratto continuo (senza sollevare la penna) in modo che ogni lato di ogni piccolo triangolo rivolto verso il basso venga percorso esattamente una volta, nel corso del disegno il percorso si interseca con se stesso $T$ volte. Si determini il valore minimo possibile di $T$.
+> Si consideri la figura ottenuta impilando $2016$ righe, in cui la $k$-esima riga contiene $k$ piccoli triangoli equilateri rivolti verso il basso disposti in retta. Partendo dal punto medio del lato più in alto e tracciando un unico tratto continuo (senza sollevare la penna) in modo che ogni lato di ogni piccolo triangolo rivolto verso il basso venga percorso esattamente una volta, nel corso del disegno il percorso si interseca con se stesso $T$ volte. Si determini il valore minimo possibile di $T$.
 
 ![[src_jjmo14yq_yosen__Q11.png]]
 

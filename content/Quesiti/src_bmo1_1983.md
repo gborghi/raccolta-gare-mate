@@ -206,11 +206,11 @@ level: BMO Round 1
 
 *Equazione con radici quadrate: trovare p che dia esattamente una soluzione reale*
 
-> Consider the equation
+> Si consideri l'equazione
 > $$\sqrt{2p + 1 - x^2} + \sqrt{3x + p + 4} = \sqrt{x^2 + 9x + 3p + 9} \tag{1}$$
-> in which $x, p$ are real numbers and the square roots are to be real and non-negative. Show that if (1) holds then
+> in which $x, p$ are real numbers and the square roots are to be real and non-negative. Dimostrare che if (1) holds then
 > $$(x^2 + x - p)(x^2 + 8x + 2p + 9) = 0.$$
-> Hence find the set of real numbers $p$ for which (1) is satisfied by exactly one real number $x$.
+> dunque find the set of real numbers $p$ for which (1) is satisfied by exactly one real number $x$.
 
 
 **Topic:** [[topic_algebra|Algebra]]

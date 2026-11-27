@@ -531,7 +531,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incentro, seconde intersezioni delle bisettrici con la circonferenza inscritta, angolo in A di 40 gradi: misura di un angolo*
+*Incentro, seconde intersezioni delle bisettrici con la circonferenza inscritta, angolo in A di \1°: misura di un angolo*
 
 > In un triangolo $ABC$, sia $I$ l'incentro. Le rette $AI$, $BI$ e $CI$ intersecano la circonferenza inscritta in $P$, $Q$ e $R$ rispettivamente. Se $\angle BAC = 40^\circ$, qual è il valore di $\angle QPR$ in gradi?
 

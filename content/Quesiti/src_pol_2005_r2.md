@@ -150,7 +150,7 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rombo con un angolo di 60 gradi, punti E e F con un angolo uguale: il rapporto PQ/EF uguaglia AB/BD*
+*Rombo con un angolo di \1°, punti E e F con un angolo uguale: il rapporto PQ/EF uguaglia AB/BD*
 
 > È dato un rombo $ABCD$ con $\angle BAD = 60^\circ$. I punti $E$ sul lato $AB$ e $F$ sul lato $AD$ sono tali che $\angle ECF = \angle ABD$. Le rette $CE$ e $CF$ incontrano rispettivamente la retta $BD$ in $P$ e $Q$. Dimostrare che $\frac{PQ}{EF} = \frac{AB}{BD}$.
 

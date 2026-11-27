@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramide regolare con spigoli laterali a 60 gradi dalla base: esiste una spezzata sui lati, più corta del doppio dello spigolo laterale?*
+*Piramide regolare con spigoli laterali a \1° dalla base: esiste una spezzata sui lati, più corta del doppio dello spigolo laterale?*
 
 > In una piramide regolare di vertice $S$ e base $A_1 A_2 \ldots A_n$ ogni spigolo laterale forma un angolo di $60^\circ$ con la base della piramide. Per ogni $n \geq 3$, dimostrare o confutare che esistono punti $B_2, B_3, \ldots, B_n$, giacenti rispettivamente sugli spigoli $A_2 S, A_3 S, \ldots, A_n S$, tali che
 >

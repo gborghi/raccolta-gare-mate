@@ -92,7 +92,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che PQ = AC se e solo se l'angolo BAC = 60 gradi nel parallelogramma ABPC*
+*Dimostrare che PQ = AC se e solo se l'angolo BAC = \1° nel parallelogramma ABPC*
 
 > Sia $ABPC$ un parallelogramma tale che $ABC$ sia un triangolo acutangolo. La circonferenza circoscritta al triangolo $ABC$ incontra nuovamente la retta $CP$ in $Q$. Dimostrare che $PQ = AC$ se, e solo se, $\angle BAC = 60^\circ$. La circonferenza circoscritta a un triangolo è la circonferenza che passa per i suoi vertici.
 

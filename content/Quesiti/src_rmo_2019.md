@@ -191,7 +191,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 *Tra 91 interi distinti maggiori di 1 con almeno 456 coppie prime tra loro, esistono quattro interi a,b,c,d con gcd(a,b)=gcd(b,c)=gcd(c,d)=gcd(d,a)=1.*
-> Siano dati $91$ numeri interi positivi distinti maggiori di $1$, in modo tale che tra essi vi siano almeno $456$ coppie coprime. Dimostrare che si possono trovare quattro numeri interi $a, b, c, d$ tra essi tali che $\gcd(a, b) = \gcd(b, c) = \gcd(c, d) = \gcd(d, a) = 1$.
+> Siano dati $91$ numeri interi positivi distinti maggiori di $1$, in modo tale che tra essi vi siano almeno $456$ coppie primi tra loro. Dimostrare che si possono trovare quattro numeri interi $a, b, c, d$ tra essi tali che $\gcd(a, b) = \gcd(b, c) = \gcd(c, d) = \gcd(d, a) = 1$.
 
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]

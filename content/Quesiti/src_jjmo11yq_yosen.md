@@ -137,7 +137,7 @@ level: JJMO Yosen
 
 *Conta le marcature dei punti stella, con due marcature per riga*
 
-> Come mostrato di seguito, i punti $10$ sono disposti e, tra questi, vengono contrassegnati $5$ punti mutuamente distinti. Per quanto riguarda le rette $5$, ciascuna delle quali passa per $4$ di questi $10$ punti (le rette effettivamente tracciate come linee continue nella figura), è risultato che, per ciascuna retta, il numero di punti contrassegnati tra i punti $4$ che giacciono su di essa era esattamente $2$. In totale, quante sono le modalità di contrassegnamento di questo tipo? Si noti che anche le marcature coincidenti per rotazione o riflessione vengono conteggiate come distinte.
+> Come mostrato di seguito, i punti $10$ sono disposti e, tra questi, vengono contrassegnati $5$ punti mutuamente distinti. Per quanto riguarda le rette $5$, ciascuna delle quali passa per $4$ di questi $10$ punti (le rette effettivamente tracciate come rette continue nella figura), è risultato che, per ciascuna retta, il numero di punti contrassegnati tra i punti $4$ che giacciono su di essa era esattamente $2$. In totale, quante sono le modalità di contrassegnamento di questo tipo? Si noti che anche le marcature coincidenti per rotazione o riflessione vengono conteggiate come distinte.
 
 ![[src_jjmo11yq_yosen__Q04.png]]
 
@@ -168,7 +168,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rapporto AE:EC in un triangolo rettangolo isoscele con angolo di 45 gradi*
+*Rapporto AE:EC in un triangolo rettangolo isoscele con angolo di \1°*
 
 > Esiste un triangolo isoscele $ABC$ in cui $\angle BAC$ è un angolo retto. Esiste un punto $D$ sul lato $BC$ e un punto $E$ sul lato $CA$, con $\angle ADE=45^\circ$. Dato $BD:DC=1:5$, trovare $AE:EC$. Qui $\overline{XY}$ denota la lunghezza del segmento $XY$.
 

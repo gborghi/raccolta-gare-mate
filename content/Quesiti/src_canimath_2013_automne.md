@@ -32,7 +32,7 @@ level: Coupe Animath Automne
 
 *Contare numeri interi tra 1 e 10000 divisibili per 7 ma non per 5*
 
-> Qual è il numero di integri tra $1$ e $10000$ divisibili da $7$ ma non divisibili da $5$?
+> Qual è il numero di interi tra $1$ e $10000$ divisibili da $7$ ma non divisibili da $5$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]]
@@ -145,7 +145,7 @@ level: Coupe Animath Automne
 
 > Abbiamo $100$ lampadine, numerate $1$ a $100$, ognuna delle quali può essere accesa o spenta. Queste lampadine sono collegate a tre interruttori $A$, $B$ e $C$.
 > 
-> Presione $A$ cambia lo stato di tutte le lampadine: quelle che erano accese e quelle che erano spente si accendono. Presione $B$ modifica lo stato di tutte le lampadine con numeri odd. Presione $C$ modifica lo stato di tutte le lampadine con numeri del modulo $3n+1$.
+> Presione $A$ cambia lo stato di tutte le lampadine: quelle che erano accese e quelle che erano spente si accendono. Presione $B$ modifica lo stato di tutte le lampadine con numeri dispari. Presione $C$ modifica lo stato di tutte le lampadine con numeri del modulo $3n+1$.
 > 
 > All'inizio della serata, tutte le lampadine erano accese. Ma durante la festa, Igor ha premuto gli interruttori un totale di $1000$ volte, scegliendo casualmente, e alla fine si è scoperto che le lampadine numerate $95$ e $96$ erano spente.
 > 
@@ -254,7 +254,7 @@ level: Coupe Animath Automne
 
 > In un club di membri $100$, per ogni gruppo di quattro persone c'è almeno uno che conosce tutti e tre gli altri (un membro che conosce tutti gli altri sarà chiamato \textit{popular}).
 > 
-> 1) Prove che esiste almeno un membro che conosce tutti gli altri.
+> 1) Dimostrare che esiste almeno un membro che conosce tutti gli altri.
 > 
 > 2) Quanti membri può contenere un club che soddisfa questa condizione?
 
@@ -306,7 +306,7 @@ level: Coupe Animath Automne
 
 *Quattro punti collineari: ogni cerchio attraverso A,B incontra il cerchio attraverso C,D*
 
-> Se i punti $A$, $B$, $C$, $D$ sono quattro punti distinti nel piano. Si scopre che ogni cerchio che passa attraverso $A$ e $B$ incrocia ogni cerchio che passa attraverso $C$ e $D$.
+> Se i punti $A$, $B$, $C$, $D$ sono quattro punti distinti nel piano. Si scopre che ogni cerchio che passa per $A$ e $B$ incrocia ogni cerchio che passa per $C$ e $D$.
 > 
 > Provare che $A$, $B$, $C$, $D$ sono collineari o che si trovano tutti su un cerchio comune.
 
@@ -405,7 +405,7 @@ level: Coupe Animath Automne
 
 *Un intero positivo a con divisioni positive 5 volte più numerose di un solo*
 
-> Che $a$ sia un intero strettamente positivo tale che $a^3$ abbia $5$ volte quanti divisori positivi $a$.
+> Sia $a$ un intero strettamente positivo tale che $a^3$ abbia $5$ volte quanti divisori positivi $a$.
 > 
 > Quanti divisori positivi può $a$ avere?
 

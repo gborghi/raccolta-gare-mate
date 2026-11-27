@@ -172,7 +172,7 @@ level: OBM Nível Universitário
 
 *Trovare un a>0 tale che esista il limite di f(n) - pi^2/6 + a/n; calcola il limite*
 
-> We know that $\displaystyle\sum_{k=1}^{\infty} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6}$. Define $f(n) = \displaystyle\sum_{k=1}^{n} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \cdots + \frac{1}{n^2}$. Prove that there exists a real number $a > 0$ such that the limit $$\lim_{n \to \infty} \left( f(n) - \frac{\pi^2}{6} + \frac{a}{n} \right)$$ exists. Find $a$ and this limit.
+> We know that $\displaystyle\sum_{k=1}^{\infty} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6}$. Define $f(n) = \displaystyle\sum_{k=1}^{n} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \cdots + \frac{1}{n^2}$. Dimostrare che there exists a real number $a > 0$ tale che the limit $$\lim_{n \to \infty} \left( f(n) - \frac{\pi^2}{6} + \frac{a}{n} \right)$$ exists. Find $a$ and this limit.
 
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
@@ -262,7 +262,7 @@ level: OBM Nível Universitário
 
 *Limiti che coinvolgono log log di una successione ricorsiva a_{n+1}=a_n^2-2*
 
-> Define $a_1 = 3$ and $a_{n+1} = a_n^2 - 2$. Prove that $$\lim_{n \to \infty} \frac{\log \log a_n}{n} = \log 2$$ and calculate $\displaystyle\lim_{n \to \infty} (\log \log a_n - n \log 2)$. (All logarithms are in base $e$.)
+> Define $a_1 = 3$ and $a_{n+1} = a_n^2 - 2$. Dimostrare che $$\lim_{n \to \infty} \frac{\log \log a_n}{n} = \log 2$$ and calculate $\displaystyle\lim_{n \to \infty} (\log \log a_n - n \log 2)$. (All logarithms are in base $e$.)
 
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]

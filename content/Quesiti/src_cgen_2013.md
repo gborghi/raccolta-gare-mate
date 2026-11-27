@@ -55,27 +55,35 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sare sequenze di numeri interi positivi in cui ogni termine divide la somma di tutti i termini; caratterizzare lunghezze 2-4, distinzione, numeri primi, quelli aritmetici, infinite magnifique sequenze e estensioni.*
+*Sequenze finite di interi strettamente positivi dette superbe se ogni termine divide la somma di tutti i termini; caratterizzazione per le lunghezze 2, 3 e 4, sequenze a termini distinti, assenza di sequenze di numeri primi tutti distinti, progressioni aritmetiche, sequenze infinite magnifiche strettamente crescenti, ed estensioni a una sequenza superba.*
 
-> Problema 1: di sequenze superbe.
-> 
-> In questo problema, consideriamo le sequenze finite $(a_1, a_2, \ldots, a_n)$ di numeri interi rigorosamente positivi, dove $n$ è un numero intero maggiore o uguale a $2$, chiamato * lunghezza* della sequenza finita.
-> 
-> Diciamo che una sequenza finita di enti interi strettamente positivi è *superbe* se ciascuno dei suoi termini divide la somma di tutti i termini.
-> 
-> Ad esempio, la sequenza $(1, 2, 1, 2, 1, 2, 1, 2)$ è superba di lunghezza $8$ perché $1+2+1+2+1+2+1+2 = 12$, che è divisibile da $1$ e da $2$; la sequenza $(3, 3, 6, 12)$ è superba di lunghezza $4$ perché la somma dei termini è uguale a $24$, che è un multiple di $3$, $6$, $12$.
-> 
-> **1.** Determinare i numeri interi rigorosamente positivi $b$ in modo tale che la sequenza $(21, 7, b)$ sia superba.
-> 
-> **2. a.** Determinare le sequenze superbe di lunghezza $2$, poi quelle di lunghezza $3$. **b.** Determinare le sequenze superbe di lunghezza $4$ la cui somma di termini è uguale a $2013$.
-> 
-> **3. a.** Mostra che, per ogni numero intero $n \geqslant 3$, esiste una sequenza superba di lunghezza $n$ i cui termini sono tutti distinti. **b.** Mostrare che, se $n \geqslant 2$, non esiste una sequenza superbe di lunghezza $n$ i cui termini sono numeri primi separati in coppia.
-> 
-> **4. ** $(a_1, a_2, \ldots, a_n)$ sia una sequenza aritmetica finita con differenza comune rigorosamente positiva. Mostrare che se questa sequenza è superbe allora $n = 3$.
-> 
-> **5.** Diciamo che una sequenza (infinita) $(a_k)_{k \geqslant 1}$ di enti interi rigorosamente positivi è *magnifique* se, per ogni intero $n \geqslant 2$, la sequenza finita $(a_1, a_2, \ldots, a_n)$ è superbe. Determinare le sequenze magnifiche $(a_k)_{k \geqslant 1}$ che soddisfano $a_k < a_{k+1}$ per ogni numero intero $k \geqslant 2$.
-> 
-> **6.** $n$ sia un numero intero maggiore o uguale a $4$, e $(a_1, a_2, \ldots, a_n)$ sia una sequenza finita, non necessariamente superba, di numeri interi strettamente positivi separati in coppia. **a.** Mostrare che è possibile estendere la sequenza per ottenere una sequenza superba. **b.** Mostrare che è possibile estendere la sequenza in modo da ottenere una sequenza superba i cui termini sono tutti distinti.
+> Problema 1: De superbes suites
+>
+> In questo problema si considerano successioni finite $(a_1, a_2, \ldots, a_n)$ di interi strettamente positivi, dove $n$ è un intero maggiore o uguale a $2$, detto lunghezza della successione finita.
+>
+> Si dice che una successione finita di interi strettamente positivi è superba se ciascuno dei suoi termini divide la somma di tutti i termini.
+>
+> Ad esempio, la successione $(1, 2, 1, 2, 1, 2, 1, 2)$ è superba di lunghezza $8$ perché $1+2+1+2+1+2+1+2 = 12$, che è divisibile per $1$ e per $2$; la successione $(3, 3, 6, 12)$ è superba di lunghezza $4$ perché la somma dei termini vale $24$, che è multiplo di $3$, $6$, $12$.
+>
+> **1.** Determinare gli interi strettamente positivi $b$ tali che la successione $(21, 7, b)$ sia superba.
+>
+> **2. a.** Determinare le successioni superbe di lunghezza $2$, poi quelle di lunghezza $3$.
+>
+> **b.** Determinare le successioni superbe di lunghezza $4$ la cui somma dei termini vale $2013$.
+>
+> **3. a.** Dimostrare che, per ogni intero $n \geqslant 3$, esiste una successione superba di lunghezza $n$ i cui termini sono tutti distinti.
+>
+> **b.** Dimostrare che, se $n \geqslant 2$, non esiste una successione superba di lunghezza $n$ i cui termini siano numeri primi tutti distinti.
+>
+> **4.** Sia $(a_1, a_2, \ldots, a_n)$ una successione aritmetica finita di ragione strettamente positiva. Dimostrare che se questa successione è superba allora $n = 3$.
+>
+> **5.** Si dice che una successione (infinita) $(a_k)_{k \geqslant 1}$ di interi strettamente positivi è magnifica se, per ogni intero $n \geqslant 2$, la successione finita $(a_1, a_2, \ldots, a_n)$ è superba. Determinare le successioni magnifiche $(a_k)_{k \geqslant 1}$ che verificano $a_k < a_{k+1}$ per ogni intero $k \geqslant 2$.
+>
+> **6.** Sia $n$ un intero maggiore o uguale a $4$, e sia $(a_1, a_2, \ldots, a_n)$ una successione finita, non necessariamente superba, di interi strettamente positivi tutti distinti.
+>
+> **a.** Dimostrare che è possibile prolungare la successione in modo da ottenere una successione superba.
+>
+> **b.** Dimostrare che è possibile prolungare la successione in modo da ottenere una successione superba i cui termini sono tutti distinti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
@@ -154,23 +162,24 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli sottili e le trasversali nello spazio; una superficie quadrica S data da xy+yz+zx-(x+y+z)+1=0 contenente tre bordi cubi D1,D2,D3; linee che incontrano S in 0,1,2 punti; le trasversali a quattro linee.*
+*Rette sghembe e trasversali nello spazio; una quadrica S di equazione xy+yz+zx-(x+y+z)+1=0 contenente tre spigoli D1, D2, D3 di un cubo; rette che incontrano S in 0, 1 o 2 punti; trasversali a quattro rette.*
 
-> Problema 2: Pinta un quadrupingle.
-> 
-> **1.** nello spazio, $D_1, D_2$ siano due linee non coplanari e $M$ sia un punto che non appartiene né a $D_1$ né a $D_2$. Indicare che esiste almeno una linea che attraversa $M$ e taglia sia $D_1$ che $D_2$. In quale caso non esiste?
-> 
-> Se lo spazio è dotato di una cornice ortonormale, $ABCDEFGH$ deve essere il cubo le cui vertici hanno le coordinate $A(0,0,0)$, $B(1,0,0)$, $C(1,1,0)$, $D(0,1,0)$, $E(0,0,1)$, $F(1,0,1)$, $G(1,1,1)$, $H(0,1,1)$. Le linee $D_1, D_2$ e $D_3$ sono rispettivamente $(EF)$, $(BC)$ e $(DH)$. Infine, $\mathscr{S}$ sia l'insieme di punti con coordinate $M(x,y,z)$ in modo tale che: $$xy + yz + zx - (x + y + z) + 1 = 0$$
-> 
-> **2.** Indicare una rappresentazione parametrica di ciascuna delle linee $D_1, D_2$ e $D_3$.
-> 
-> **3.** Indicare che le righe $D_1, D_2$ e $D_3$ sono contenute in $\mathscr{S}$.
-> 
-> **4.** Indicare che ogni linea di spazio non contenuta in $\mathscr{S}$ incontra $\mathscr{S}$ nei punti $0$, $1$ o $2$.
-> 
-> **5.** Deduce che ogni linea che taglia le linee $D_1, D_2$ e $D_3$ è contenuta in $\mathscr{S}$.
-> 
-> **6.** $D_4$ deve essere una riga che non risponde a nessuna delle linee $D_1, D_2, D_3$ e non è contenuta in $\mathscr{S}$. Mostrare che esistono al massimo due linee di spazio che tagliano le quattro linee $D_1, D_2, D_3, D_4$.
+> Problema 2: Tiré à quatre épingles
+>
+> **1.** Nello spazio, siano $D_1$, $D_2$ due rette sghembe e sia $M$ un punto che non appartiene né a $D_1$ né a $D_2$. Dimostrare che esiste al più una retta passante per $M$ e secante sia $D_1$ sia $D_2$. In quale caso non ne esiste alcuna?
+>
+> Lo spazio sia munito di un riferimento ortonormale, e sia $ABCDEFGH$ il cubo i cui vertici hanno coordinate $A(0, 0, 0)$, $B(1, 0, 0)$, $C(1, 1, 0)$, $D(0, 1, 0)$, $E(0, 0, 1)$, $F(1, 0, 1)$, $G(1, 1, 1)$, $H(0, 1, 1)$. Siano rispettivamente $D_1$, $D_2$ e $D_3$ le rette $(EF)$, $(BC)$ e $(DH)$. Infine, sia $\mathscr{S}$ l'insieme dei punti di coordinate $M(x, y, z)$ tali che:
+> $$xy + yz + zx - (x + y + z) + 1 = 0$$
+>
+> **2.** Dare una rappresentazione parametrica di ciascuna delle rette $D_1$, $D_2$ e $D_3$.
+>
+> **3.** Dimostrare che le rette $D_1$, $D_2$ e $D_3$ sono contenute in $\mathscr{S}$.
+>
+> **4.** Dimostrare che ogni retta dello spazio non contenuta in $\mathscr{S}$ incontra $\mathscr{S}$ in $0$, $1$ o $2$ punti.
+>
+> **5.** Dedurne che ogni retta che interseca le rette $D_1$, $D_2$ e $D_3$ è contenuta in $\mathscr{S}$.
+>
+> **6.** Sia $D_4$ una retta che non incontra nessuna delle rette $D_1$, $D_2$, $D_3$ e che non è contenuta in $\mathscr{S}$. Dimostrare che esistono al più due rette dello spazio che intersecano le quattro rette $D_1$, $D_2$, $D_3$, $D_4$.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -257,21 +266,39 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno tramite probabilità condizionate alfa_p su numeri primi consecutivi.*
+*Gioco di Sisifo con un dado equilibrato su 106 caselle: si vince raggiungendo o superando la casella 100, si perde fermandosi su una casella di indice primo minore di 100. Probabilità p_n, variabile aleatoria di posizione X, algoritmo per P(X=k), stima della probabilità di vittoria mediante probabilità condizionate α_p tra primi consecutivi.*
 
-> Il problema 3: Il faut passer les premiers (Bisogna lasciare passare i primi).
-> 
-> Per questo problema, ci viene dato l'elenco dei venticinque numeri primi meno $100$: $$2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97$$
-> 
-> Per giocare a un gioco di solitaire (une reussite), Sisyphe ha disegnato sul terreno $106$ cellule numerate da $0$ a $105$, e ha un token e un dado a sei lati (giusto). Sisyphe inizia il gioco mettendo il token sulla cella $0$. Fa poi una serie di rulli di die; quando il dado mostra il valore $k$, muove il token in avanti con le celle $k$ e: - se raggiunge o passa il numero di cellula $100$, Sisyphe ha vinto; - se atterra su una cellula il cui numero è un numero primo inferiore a $100$, Sisyphe ha perso; - negli altri casi, Sisyphe rulla di nuovo il dado e continua il gioco.
-> 
-> In questa domanda, supponiamo che Sisyphe inizia una nuova partita ogni volta che ha perso. $p_n$ indichi la probabilità di vincere almeno una partita in un numero massimo di $n$ die roll. **a.** Determinare i valori di $n$ per i quali $p_n > 0$. **b.** Studiare la convergenza della sequenza $(p_n)$.
-> 
-> Nel resto del problema, Sisyphe non inizia più una nuova partita se perde. Che $X$ sia la variabile casuale che rappresenta la posizione del token alla fine della partita. Indichiamo con $\mathbb{P}(X = k)$ la probabilità dell'evento $X = k$.
-> 
-> **2. a.** Determina $\mathbb{P}(X = 2)$, $\mathbb{P}(X = 3)$, $\mathbb{P}(X \geqslant 4)$, $\mathbb{P}(X = 5)$. **b.** Proporre un algoritmo per calcolare $\mathbb{P}(X = k)$ per ogni $k \in \{0, \ldots, 105\}$.
-> 
-> Dotato di una calcolatrice non abbastanza potente da eseguire l'algoritmo precedente, Sisyphe cerca di stimare la sua probabilità di guadagno. A tal fine, dato due numeri primi consecutivi $p < p'$, egli considera $\alpha_p$ la probabilità condizionale dell'evento $X = p'$ dato l'evento $X > p$. **a.** Quali sono i valori di $\alpha_2$ e $\alpha_3$? **b.** Indicare l'espressione della probabilità di guadagno, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, in termini di numeri reali $\alpha_p$ per $p = 2, 3, 5, \ldots$ **c.** Indicare un allegato (quadramento) dei numeri $\alpha_p$ e dedurre da esso un allegato di $\mathbb{P}(G)$. (In questa domanda, il criterio di valutazione sarà la qualità dell'allegato.)
+> Problema 3: Il faut passer les premiers
+>
+> Per questo problema si dà l'elenco dei venticinque numeri primi minori di $100$:
+> $$2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97$$
+>
+> Per fare un solitario, Sisifo ha disegnato a terra $106$ caselle numerate da $0$ a $105$, e dispone di una pedina e di un dado a sei facce (equilibrato).
+> Sisifo inizia il solitario posando la pedina sulla casella $0$. Compie poi una serie di lanci del dado; quando il dado mostra il valore $k$, avanza la pedina di $k$ caselle e:
+> - se raggiunge o supera la casella numero $100$, Sisifo ha vinto;
+> - se arriva su una casella il cui numero è un numero primo minore di $100$, Sisifo ha perso;
+> - negli altri casi, Sisifo rilancia il dado e continua il solitario.
+>
+> **1.** In questa domanda si suppone che Sisifo ricominci un solitario quando ha perso. Si indica con $p_n$ la probabilità di vincere almeno un solitario in al più $n$ lanci del dado.
+>
+> **a.** Determinare i valori di $n$ per i quali $p_n > 0$.
+>
+> **b.** Studiare la convergenza della successione $(p_n)$.
+>
+> Nel seguito del problema, Sisifo non ricomincia più il solitario se perde.
+> Sia $X$ la variabile aleatoria che rappresenta la posizione della pedina alla fine del solitario. Si indica con $\mathbb{P}(X = k)$ la probabilità dell'evento $X = k$.
+>
+> **2. a.** Determinare $\mathbb{P}(X = 2)$, $\mathbb{P}(X = 3)$, $\mathbb{P}(X \geqslant 4)$, $\mathbb{P}(X = 5)$.
+>
+> **b.** Proporre un algoritmo per calcolare $\mathbb{P}(X = k)$ per ogni $k \in \{0, \ldots, 105\}$.
+>
+> **3.** Munito di una calcolatrice non abbastanza potente per eseguire l'algoritmo precedente, Sisifo cerca di stimare la propria probabilità di vittoria. A tal fine, dati due numeri primi consecutivi $p < p'$, considera $\alpha_p$ la probabilità condizionata dell'evento $X = p'$ sapendo l'evento $X > p$.
+>
+> **a.** Quanto valgono $\alpha_2$ e $\alpha_3$?
+>
+> **b.** Dare l'espressione della probabilità di vittoria, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, in funzione dei numeri reali $\alpha_p$ per $p = 2, 3, 5, \ldots$
+>
+> **c.** Dare un inquadramento (stima per difetto e per eccesso) dei numeri $\alpha_p$ e dedurne un inquadramento di $\mathbb{P}(G)$. (In questa domanda, la qualità dell'inquadramento sarà un elemento di valutazione.)
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]

@@ -51,9 +51,9 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Stabilità geometrica di una successione con incrementi limitati x_{n+1}-q x_n appartenenti a [0,ε], espressa con una somma telescopica e approssimata da successioni geometriche.*
-> In tutto il problema, $\varepsilon$ e $q$ indicano due numeri reali rigorosamente positivi. Consideriamo una sequenza $(x_n)$ di numeri reali come $x_0 > 0$ e, per ogni numero naturale $n$, $$0 \le x_{n+1} - q\,x_n \le \varepsilon.$$
+> In tutto il problema, $\varepsilon$ e $q$ indicano due numeri reali strettamente positivi. Consideriamo una sequenza $(x_n)$ di numeri reali come $x_0 > 0$ e, per ogni numero naturale $n$, $$0 \le x_{n+1} - q\,x_n \le \varepsilon.$$
 > 
-> \textbf{1.} Per ogni numero naturale $n$, imposta $b_n = x_{n+1} - q\,x_n$. Indicare che, per ogni numero intero $n \ge 1$, $$x_n = q^n x_0 + q^{n-1} b_0 + q^{n-2} b_1 + \cdots + q\,b_{n-2} + b_{n-1}.$$
+> \textbf{1.} Per ogni numero naturale $n$, imposta $b_n = x_{n+1} - q\,x_n$. Dimostrare che, per ogni numero intero $n \ge 1$, $$x_n = q^n x_0 + q^{n-1} b_0 + q^{n-2} b_1 + \cdots + q\,b_{n-2} + b_{n-1}.$$
 > 
 > \textbf{2.} In questa domanda, supponiamo $0 < q < 1$.
 > 
@@ -142,7 +142,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Gioco «Vite, pile»: ciascuno dei k giocatori lancia una moneta equilibrata fino a ottenere testa, con punteggio pari al numero di lanci; probabilità e valori attesi collegati.*
-> In questo problema, $k$ e $n$ sono integri superiori o uguali a $2$.
+> In questo problema, $k$ e $n$ sono interi superiori o uguali a $2$.
 > 
 > Un gruppo di giocatori $k$ si alternano per lanciare una moneta presumibilmente giusta, con la probabilità di ottenere "teste" (\textit{pile}) su un singolo lancio indicato $p$, con $0 < p < 1$.
 > 
@@ -272,13 +272,13 @@ level: Concours Général
 > 
 > Un divisore positivo di un numero buono è necessariamente buono? Un divisore positivo di un numero negativo è necessariamente negativo?
 > 
-> Se c'è un intero rigorosamente positivo $k$ e una singola lettera $X$, indichiamo con $X^k$ la parola $XX\ldots X$ costituita dalle lettere $k$ $X$.
+> Se c'è un intero strettamente positivo $k$ e una singola lettera $X$, indichiamo con $X^k$ la parola $XX\ldots X$ costituita dalle lettere $k$ $X$.
 > 
-> \textbf{3.} \textbf{a.} Che $p$ sia un numero primo maggiore o uguale a $7$, e che $\omega$ sia la parola $$\omega = A A A^{p-2} B A^{p-2} C A^{p-2} D A^{p-2} E A^{p-2} F A^{p-2} G A^{p-2} H A^{p-2} I A^{p-2} J A^{p-2}.$$ Mostri che $\omega$ è un bloccatore di $p$. (Si può usare senza prova il piccolo teorema di Fermat: se $x$ è un intero non divisibile da $p$, allora $x^{p-1} - 1$ è divisibile da $p$.)
+> \textbf{3.} \textbf{a.} Sia $p$ un numero primo maggiore o uguale a $7$, e che $\omega$ sia la parola $$\omega = A A A^{p-2} B A^{p-2} C A^{p-2} D A^{p-2} E A^{p-2} F A^{p-2} G A^{p-2} H A^{p-2} I A^{p-2} J A^{p-2}.$$ Mostri che $\omega$ è un bloccatore di $p$. (Si può usare senza prova il piccolo teorema di Fermat: se $x$ è un intero non divisibile da $p$, allora $x^{p-1} - 1$ è divisibile da $p$.)
 > 
 > \textbf{b.} Mostra che $9$ ammette al massimo $27$ buone attribuzioni.
 > 
-> \textbf{4.} Che $a$ sia una parola di lunghezza $n$ e $\omega$ un'attribuzione di $a$. Denotare con $a'$ l'attribuzione ottenuta da $a$ mediante una permutazione ciclica dei numeri: i numeri $0,1,2,3,4,5,6,7,8$ vengono aumentati di $1$, mentre il numero $9$ viene inviato a $0$. Le cifre $0,1,2,3,4,5,6,7,8,9$ sono quindi sostituite rispettivamente da $1,2,3,4,5,6,7,8,9,0$. Per esempio, se $n = 5$ e $a = 01789$, allora $a' = 12890$. $k$ sia il numero di occasioni della cifra $9$ nella scrittura decimale di $a$.
+> \textbf{4.} Sia $a$ una parola di lunghezza $n$ e $\omega$ un'attribuzione di $a$. Denotare con $a'$ l'attribuzione ottenuta da $a$ mediante una permutazione ciclica dei numeri: i numeri $0,1,2,3,4,5,6,7,8$ vengono aumentati di $1$, mentre il numero $9$ viene inviato a $0$. Le cifre $0,1,2,3,4,5,6,7,8,9$ sono quindi sostituite rispettivamente da $1,2,3,4,5,6,7,8,9,0$. Per esempio, se $n = 5$ e $a = 01789$, allora $a' = 12890$. $k$ sia il numero di occasioni della cifra $9$ nella scrittura decimale di $a$.
 > 
 > Se $a$ è congruente a $r$ modulo $9$, a cosa è $a'$ modulo congruente $9$?
 > 

@@ -121,7 +121,7 @@ level: OBM Nível 3
 
 *Triangolo acuto, piede dell'altezza da A; le distanze da B e dall'ortocentro valgono 10; area approssimativa*
 
-> L'angolo interno nel vertice $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altezza relativa al vertice $A$ incontra il lato $BC$ nel punto $D$. Le distanze da $D$ al vertice $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimata all'intero più vicino? Se necessario, usa $\sqrt{3} \approx 1{,}732$.
+> L'angolo interno nel vertice $A$ di un triangolo acuto $ABC$ misura $75$°. L'altezza relativa al vertice $A$ incontra il lato $BC$ nel punto $D$. Le distanze da $D$ al vertice $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimata all'intero più vicino? Se necessario, usa $\sqrt{3} \approx 1{,}732$.
 
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]

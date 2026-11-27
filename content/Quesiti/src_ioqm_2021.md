@@ -378,7 +378,7 @@ level: IOQM
 
 *Scacchiera 12x12; numero minimo N di torri per garantire 7 torri a vicenda non in attacco*
 
-> Una scacchiera $12 \times 12$ è divisa in 144 caselle unitarie tracciando linee parallele ai lati. Si dice che due torri poste su due caselle unitarie non si attaccano se non si trovano nella stessa colonna né nella stessa riga. Determinare il minimo numero $N$ tale che, se si collocano $N$ torri sulle caselle unitarie, una torre per casella, si possano sempre trovare 7 torri tali che nessuna di esse attacchi un'altra.
+> Una scacchiera $12 \times 12$ è divisa in 144 caselle unitarie tracciando rette parallele ai lati. Si dice che due torri poste su due caselle unitarie non si attaccano se non si trovano nella stessa colonna né nella stessa riga. Determinare il minimo numero $N$ tale che, se si collocano $N$ torri sulle caselle unitarie, una torre per casella, si possano sempre trovare 7 torri tali che nessuna di esse attacchi un'altra.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_inclusione_esclusione|Inclusione-esclusione]]

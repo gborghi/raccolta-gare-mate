@@ -51,13 +51,13 @@ level: Concours Général
 > 
 > Nel piano, $A$, $B$, $C$ siano tre punti distinti in modo tale che $B$ non si trovi sul segmento $[AC]$. $\Gamma$ sia il cerchio di diametro $[AC]$, $\Gamma'$ sia il cerchio di diametro $[BC]$, e $D$ sia il punto diametralmente opposto a $A$ su $\Gamma$. Si suppone che i cerchi $\Gamma$ e $\Gamma'$ siano tangenti a $C$.
 > 
-> 1. giustificare che le linee $\Delta = (CF)$ e $(BD)$ siano parallele. Indicare con $G$ il loro punto di intersezione.
+> 1. giustificare che le rette $\Delta = (CF)$ e $(BD)$ siano parallele. Indicare con $G$ il loro punto di intersezione.
 > 
 > 2. Mostrare che esiste un'omogeneità con centro $C$ che trasforma $\gamma$ in $\Gamma$, e un'omogeneità con centro $F$ che trasforma $\Gamma$ in $\gamma'$.
 > 
 > 3. Determinare i centri delle omotesi che trasformano $\gamma$ in $\gamma'$.
 > 
-> 4. Let $AB = (\Delta)$. Indicare che i punti $A$, $I$, $D$ sono allineati su una linea ortogonale a $(GD)$.
+> 4. Sia $AB = (\Delta)$. Dimostrare che i punti $A$, $I$, $D$ sono allineati su una retta ortogonale a $(GD)$.
 > 
 > 5. Mostra che $AB = GD$.
 > 
@@ -274,18 +274,18 @@ level: Concours Général
 
 <div class="qlang-split" data-lang="it"></div>
 
-*Modello probabilistico ricorsivo di tre tipi di cellule che si evolvono di generazione in generazione: limite della probabilità di compatibilità e convergenza delle proporzioni.*
+*Modello probabilistico ricorsivo di tre tipi di caselle che si evolvono di generazione in generazione: limite della probabilità di compatibilità e convergenza delle proporzioni.*
 > Problema 3: sulla vita su Marte!
 > 
-> (Introduzione narrativa, parafrasata dalla fonte: un biologo, dopo aver saputo di una scoperta dell'Università dell'Unione italiana, è riuscito ad osservare ciò che nessuno aveva mai potuto osservare prima, le cellule del "Bouquet Royal". Si tratta di una forma di vita primitiva; gli organismi misurano non più di un milionesimo di millimetro, il che fa parte della difficoltà di osservarli. Con solo informazioni parziali, gli scienziati cercano di osservare i seguenti fatti.)
+> (Introduzione narrativa, parafrasata dalla fonte: un biologo, dopo aver saputo di una scoperta dell'Università dell'Unione italiana, è riuscito ad osservare ciò che nessuno aveva mai potuto osservare prima, le caselle del "Bouquet Royal". Si tratta di una forma di vita primitiva; gli organismi misurano non più di un milionesimo di millimetro, il che fa parte della difficoltà di osservarli. Con solo informazioni parziali, gli scienziati cercano di osservare i seguenti fatti.)
 > 
 > Con solo informazioni parziali, gli scienziati cercano di osservare i seguenti fatti:
 > 
-> - Esistono tre specie di cellule, denominate $A$, $B$ e $C$. - La riproduzione delle cellule comporta la partecipazione di tre cellule "padri". - La riproduzione avviene solo se i tre genitori sono "compatibili", cioè se più di uno di essi sono della stessa specie (almeno due dei tre genitori appartengono alla stessa specie).
+> - Esistono tre specie di caselle, denominate $A$, $B$ e $C$. - La riproduzione delle caselle comporta la partecipazione di tre caselle "padri". - La riproduzione avviene solo se i tre genitori sono "compatibili", cioè se più di uno di essi sono della stessa specie (almeno due dei tre genitori appartengono alla stessa specie).
 > 
-> 1. Si osservano le rispettive proporzioni $a$, $b$, $c$ delle cellule delle diverse specie, con $a + b + c = 1$.
+> 1. Si osservano le rispettive proporzioni $a$, $b$, $c$ delle caselle delle diverse specie, con $a + b + c = 1$.
 > 
-> a. Qual è la probabilità $p$ che tre cellule prese a caso siano compatibili?
+> a. Qual è la probabilità $p$ che tre caselle prese a caso siano compatibili?
 > 
 > b. Mostra che $p \ge \frac{1}{9}$. Si può prima stabilire un limite inferiore fisso $a \ge \ldots$.
 > 
@@ -295,7 +295,7 @@ level: Concours Général
 > 
 > Per valutare questi modelli, si indicano con $a_n$, $b_n$, $c_n$ le proporzioni delle diverse specie alla generazione $n$, con $a_n \ge b_n \ge c_n$.
 > 
-> 2. Studiare il primo scenario. In questa domanda si suppone che la genetica delle cellule segua il primo scenario.
+> 2. Studiare il primo scenario. In questa domanda si suppone che la genetica delle caselle segua il primo scenario.
 > 
 > a. Verificare che: $$a_{n+1} = \frac{a_n^2(3-2a_n)}{1-6a_n b_n c_n}, \quad b_{n+1} = \frac{b_n^2(3-2b_n)}{1-6a_n b_n c_n}, \quad c_{n+1} = \frac{c_n^2(3-2c_n)}{1-6a_n b_n c_n}.$$
 > 

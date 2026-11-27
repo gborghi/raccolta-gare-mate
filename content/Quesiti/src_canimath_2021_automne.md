@@ -212,7 +212,7 @@ level: Coupe Animath Automne
 
 *n ha divisori a<b con n=a3+b; mostra n ha un divisore d con a<d<b*
 
-> Un intero positivo $n > 8$ ha due divisioni positive distinte $a$ e $b$, come $a < b$ e $n = a^3 + b$. Indicare che $n$ ha almeno un divisore $d$ tale da $a < d < b$.
+> Un intero positivo $n > 8$ ha due divisioni positive distinte $a$ e $b$, come $a < b$ e $n = a^3 + b$. Dimostrare che $n$ ha almeno un divisore $d$ tale da $a < d < b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -254,7 +254,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo acutangolo e cerchi ausiliari: dimostrare che Z sta sull'asse del segmento BC.*
-> Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB > BC$ e $AC > BC$. Il punto $X$ deve essere il punto della metà della linea $[BC)$ in modo tale che $BX = BA$. Il punto $Y$ deve essere il punto della semilinea $[BA)$ in modo tale che $BY = BC$. Il punto $P$ deve essere il punto distinto da $A$ sulla semilinea $[AX)$ in modo tale che $CP = CA$. Il punto $Q$ deve essere il punto distinto da $A$ sulla semilinea $[AY)$ in modo tale che $BQ = BA$. Supponiamo che le linee $(BQ)$ e $(CP)$ si incontrino in un punto $Z$. Indicare che $Z$ si trova sul bisettore perpendicolare di $[BC]$.
+> Sia $ABC$ un triangolo con tutti gli angoli acuti e tale che $AB > BC$ e $AC > BC$. Il punto $X$ deve essere il punto della metà della linea $[BC)$ in modo tale che $BX = BA$. Il punto $Y$ deve essere il punto della semilinea $[BA)$ in modo tale che $BY = BC$. Il punto $P$ deve essere il punto distinto da $A$ sulla semilinea $[AX)$ in modo tale che $CP = CA$. Il punto $Q$ deve essere il punto distinto da $A$ sulla semilinea $[AY)$ in modo tale che $BQ = BA$. Supponiamo che le rette $(BQ)$ e $(CP)$ si incontrino in un punto $Z$. Dimostrare che $Z$ si trova sul bisettrice perpendicolare di $[BC]$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -479,7 +479,7 @@ level: Coupe Animath Automne
 
 *n ha divisori a<b con n=a3+b; mostra divisore d con a<d<b esiste (versione lycée)*
 
-> Un intero positivo $n > 8$ ha due divisioni positive distinte $a$ e $b$, come $a < b$ e $n = a^3 + b$. Indicare che $n$ ha almeno un divisore $d$ tale da $a < d < b$.
+> Un intero positivo $n > 8$ ha due divisioni positive distinte $a$ e $b$, come $a < b$ e $n = a^3 + b$. Dimostrare che $n$ ha almeno un divisore $d$ tale da $a < d < b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
@@ -523,7 +523,7 @@ level: Coupe Animath Automne
 
 *Triangolo acuto con uguale occhiaio, punti costruiti S,T,D,E; mostrare l'angolo di bisezione CE DCB*
 
-> Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB = BC$. Il punto $S$ deve essere il punto della metà della linea $[BC)$ in modo tale che $AS = BS$. $T$ deve essere il punto della metà della linea $[BA)$ in modo tale che $BT = BC$. Il $D$ deve essere l'intersezione delle linee $(AS)$ e $(CT)$. Il punto $E$ deve essere il punto del segmento $[BA]$ in modo tale che $BE = CD$. Indicare che la linea $(CE)$ è il bisettore angolare di $\widehat{DCB}$.
+> Sia $ABC$ un triangolo con tutti gli angoli acuti e tale che $AB = BC$. Il punto $S$ deve essere il punto della metà della linea $[BC)$ in modo tale che $AS = BS$. $T$ deve essere il punto della metà della linea $[BA)$ in modo tale che $BT = BC$. Il $D$ deve essere l'intersezione delle linee $(AS)$ e $(CT)$. Il punto $E$ deve essere il punto del segmento $[BA]$ in modo tale che $BE = CD$. Dimostrare che la retta $(CE)$ è il bisettrice angolare di $\widehat{DCB}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -611,7 +611,7 @@ level: Coupe Animath Automne
 
 *I sottoinsiemi bilanciati non vuoti di {1,...,n} sono pari in numero*
 
-> $n$ sia un numero intero rigorosamente positivo. $T$ sia un sottogruppo non vuoto di $\{1, \ldots, n\}$. Un numero $m$ (non necessariamente un numero intero) è chiamato *mediano* di $T$ se ci sono almeno quegli elementi di $T$ inferiori o uguali a $m$ come ci sono elementi di $T$ superiori o uguali a $m$. L'insieme $T$ è chiamato *equilibrato * se la media degli elementi di $T$ è uguale a una media di $T$. Indicare che il numero dei sottogruppi bilanciati non vuoti di $\{1, \ldots, n\}$ è pari.
+> $n$ sia un numero intero strettamente positivo. $T$ sia un sottogruppo non vuoto di $\{1, \ldots, n\}$. Un numero $m$ (non necessariamente un numero intero) è chiamato *mediano* di $T$ se ci sono almeno quegli elementi di $T$ inferiori o uguali a $m$ come ci sono elementi di $T$ superiori o uguali a $m$. L'insieme $T$ è chiamato *equilibrato * se la media degli elementi di $T$ è uguale a una media di $T$. Dimostrare che il numero dei sottogruppi bilanciati non vuoti di $\{1, \ldots, n\}$ è pari.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_bigezione|Bigezione / corrispondenza]]

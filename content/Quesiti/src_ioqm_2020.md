@@ -379,7 +379,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cerchi concentrici, le corde toccano il cerchio interno, angolo ABC=75 gradi; conta le corde prima del ritorno*
+*Cerchi concentrici, le corde toccano il cerchio interno, angolo ABC=\1°; conta le corde prima del ritorno*
 
 > Dato un paio di cerchi concentrici, si tracciano corde $AB, BC, CD, \ldots$ del cerchio esterno in modo che tutte tocchino il cerchio interno. Se $\angle ABC = 75^\circ$, quante corde si possono tracciare prima di tornare al punto di partenza?
 

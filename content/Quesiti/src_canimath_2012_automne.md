@@ -465,7 +465,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *In un triangolo ABC, I è l'incentro, AI=BC e l'angolo ICA è il doppio dell'angolo IAC: determinare la misura dell'angolo ABC.*
-> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. Supponiamo che $AI = BC$ e che $\widehat{ICA} = 2\,\widehat{IAC}$. Qual è il valore di $\widehat{ABC}$?
+> Sia $ABC$ un triangolo e $I$ il centro del suo cerchio inscritto. Supponiamo che $AI = BC$ e che $\widehat{ICA} = 2\,\widehat{IAC}$. Qual è il valore di $\widehat{ABC}$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_casework|Analisi per casi]]
@@ -515,7 +515,7 @@ level: Coupe Animath Automne
 
 > Circa lo stesso tavolo si siedono persone di altezza diversa. Diciamo che una persona è *grande* (alta) se è più alta dei suoi due vicini, e *petite* (quota) se è più bassa dei suoi due vicini.
 > 
-> a) Prove che, qualunque sia l'arrangimento scelto intorno al tavolo, ci sono persone alte come persone basse.
+> a) Dimostrare che, qualunque sia l'arrangimento scelto intorno al tavolo, ci sono persone alte come persone basse.
 > 
 > b) Quali sono i numeri interi $n$ per i quali si può trovare una disposizione delle persone contenente esattamente $n$ persone alte?
 

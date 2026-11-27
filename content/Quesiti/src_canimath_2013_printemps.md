@@ -31,7 +31,7 @@ level: Coupe Animath Printemps
 
 *Rhombus con punto speciale K su CD, prova A, K, P collineare*
 
-> Lascia che il $ABCD$ sia un rombo. Il punto $K$ deve essere un punto della riga $(CD)$, diverso da $C$ e $D$, in modo tale che $AD = BK$. Il punto di intersezione della linea $(BD)$ con il bisettore perpendicolare del segmento $[BC]$ è $P$. Provare che i punti $A$, $K$ e $P$ sono collineari.
+> Lascia che il $ABCD$ sia un rombo. Il punto $K$ deve essere un punto della riga $(CD)$, diverso da $C$ e $D$, in modo tale che $AD = BK$. Il punto di intersezione della retta $(BD)$ con il bisettrice perpendicolare del segmento $[BC]$ è $P$. Provare che i punti $A$, $K$ e $P$ sono collineari.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -124,7 +124,7 @@ level: Coupe Animath Printemps
 
 *(m,n) - scarafaggio su griglia colorato in (2,1) - modello: trovare m,n così cambia sempre colore*
 
-> I numeri $m$ e $n$ devono essere numeri interi rigorosamente positivi. Un scarafaggio chiamato scarafaggio $(m,n)$ è posizionato su una griglia con infinite righe (infinite verso l'alto e verso il basso) e colonne (infinite verso sinistra e destra). A ogni passo, il salmone muove le cellule $m$ in una direzione (orizzontale o verticale) e le cellule $n$ nella direzione perpendicolare. La griglia è di colore blu e rosso in un modello $(2,1)$-grasshopper (cioè il colore si ripete con periodo $2$ in una direzione e periodo $1$ nell'altra).
+> I numeri $m$ e $n$ devono essere numeri interi strettamente positivi. Un scarafaggio chiamato scarafaggio $(m,n)$ è posizionato su una griglia con infinite righe (infinite verso l'alto e verso il basso) e colonne (infinite verso sinistra e destra). A ogni passo, il salmone muove le caselle $m$ in una direzione (orizzontale o verticale) e le caselle $n$ nella direzione perpendicolare. La griglia è di colore blu e rosso in un modello $(2,1)$-grasshopper (cioè il colore si ripete con periodo $2$ in una direzione e periodo $1$ nell'altra).
 > 
 > Per quali valori di $m$ e $n$ cambia colore la scarafaggio ad ogni passo?
 

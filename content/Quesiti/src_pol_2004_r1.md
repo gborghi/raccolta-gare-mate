@@ -29,7 +29,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono con lati razionali e angoli di 90 o 270 gradi: un raggio lungo la bisettrice, che si riflette, finisce in un vertice*
+*Poligono con lati razionali e angoli di 90 o \1°: un raggio lungo la bisettrice, che si riflette, finisce in un vertice*
 
 > Sia dato un poligono con lati di lunghezza razionale e con tutti gli angoli uguali a $90^\circ$ o a $270^\circ$. Un raggio di luce parte da un vertice del poligono e procede nella direzione della bisettrice dell'angolo interno in quel vertice. Il raggio si riflette secondo la legge della riflessione. Dimostrare che il raggio finisce per entrare in qualche vertice del poligono.
 
@@ -251,7 +251,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno di un tetraedro: la somma di quattro angoli supera 360 gradi*
+*Punto interno di un tetraedro: la somma di quattro angoli supera \1°*
 
 > Il punto $P$ giace all'interno di un tetraedro $ABCD$. Dimostrare che
 >

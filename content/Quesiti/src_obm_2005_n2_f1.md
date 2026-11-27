@@ -687,7 +687,7 @@ level: OBM Nível 2
 
 *Due triangoli equilateri disposti su una retta, con angoli alla base di 75° e 65°; trovare l'angolo al vertice x*
 
-> Nella figura, i due triangoli sono equilateri. Qual è il valore dell'angolo $x$? (I triangoli poggiano su una linea orizzontale, formando con essa gli angoli $75^\circ$ e $65^\circ$; $x$ è l'angolo al loro punto di intersezione in alto.)
+> Nella figura, i due triangoli sono equilateri. Qual è il valore dell'angolo $x$? (I triangoli poggiano su una retta orizzontale, formando con essa gli angoli $75^\circ$ e $65^\circ$; $x$ è l'angolo al loro punto di intersezione in alto.)
 > A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
 
 ![[src_obm_2005_n2_f1__Q13.png]]

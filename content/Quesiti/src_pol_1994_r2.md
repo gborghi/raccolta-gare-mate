@@ -151,7 +151,7 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'incircoscritta del triangolo ABC tocca AB e BC rispettivamente nei punti P e Q; la bisettrice uscente da A incontra PQ nel punto S; dimostrare che l'angolo ASC è di 90 gradi.*
+*L'incircoscritta del triangolo ABC tocca AB e BC rispettivamente nei punti P e Q; la bisettrice uscente da A incontra PQ nel punto S; dimostrare che l'angolo ASC è di \1°.*
 
 > L'incircoscritta $o$ di un triangolo $ABC$ è tangente ai lati $AB$ e $BC$ rispettivamente nei punti $P$ e $Q$. La bisettrice dell'angolo in $A$ incontra $PQ$ nel punto $S$. Dimostra $\angle ASC = 90^\circ$.
 

@@ -514,7 +514,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 *Determinare la lunghezza FP dopo aver spostato la retta di divisione, tenendola perpendicolare a DE, in modo da uguagliare le due aree del poligono ABCDEF.*
-> João e Maria hanno ereditato un lotto di terreno a forma di poligono $ABCDEF$. In origine, una linea retta divideva il terreno in due aree disuguali. Hanno deciso di riposizionare la linea di separazione, mantenendola perpendicolare alla linea $DE$, spostandola in un nuovo punto $P$, in modo che le due aree diventassero uguali. Dato che gli angoli in $B$, $D$, $E$ e $F$ sono angoli retti, e utilizzando le misure indicate nella figura (in metri), determina la lunghezza $FP$ in metri.
+> João e Maria hanno ereditato un lotto di terreno a forma di poligono $ABCDEF$. In origine, una linea retta divideva il terreno in due aree disuguali. Hanno deciso di riposizionare la linea di separazione, mantenendola perpendicolare alla retta $DE$, spostandola in un nuovo punto $P$, in modo che le due aree diventassero uguali. Dato che gli angoli in $B$, $D$, $E$ e $F$ sono angoli retti, e utilizzando le misure indicate nella figura (in metri), determina la lunghezza $FP$ in metri.
 >
 > (A) 5 \quad (B) 10 \quad (C) 12 \quad (D) 20 \quad (E) 20
 

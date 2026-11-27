@@ -32,7 +32,7 @@ level: Coupe Animath Printemps
 
 *Ricerca tutti i numeri interi 1<x<y<z la cui somma simmetrica è uguale a 2009*
 
-> Trova tutti gli integri $x$, $y$, $z$ che soddisfano: $$1 < x < y < z \quad \text{and} \quad x + y + z + xy + yz + zx + xyz = 2009.$$
+> Trova tutti gli interi $x$, $y$, $z$ che soddisfano: $$1 < x < y < z \quad \text{and} \quad x + y + z + xy + yz + zx + xyz = 2009.$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
@@ -137,7 +137,7 @@ level: Coupe Animath Printemps
 
 *sqrt(n) ha le sue prime k decimali tutte uguali a v; bound sqrt(n) sotto di 10^k/2 e 10^k/144*
 
-> Lasciate che $n$ sia un intero rigorosamente positivo che non è un quadrato perfetto (cioè che non è il quadrato di un intero). Guardando l'espansione decimale di $\sqrt{n}$, si osserva che le sue prime cifre decimali $k$ sono tutte uguali allo stesso valore $v$ (ad esempio, se $n = 48273160$, allora $\sqrt{n} = 6947{,}88888800044067\ldots$, le prime sei cifre decimali sono uguali a $8$, quindi $k = 6$ e $v = 8$).
+> Lasciate che $n$ sia un intero strettamente positivo che non è un quadrato perfetto (cioè che non è il quadrato di un intero). Guardando l'espansione decimale di $\sqrt{n}$, si osserva che le sue prime cifre decimali $k$ sono tutte uguali allo stesso valore $v$ (ad esempio, se $n = 48273160$, allora $\sqrt{n} = 6947{,}88888800044067\ldots$, le prime sei cifre decimali sono uguali a $8$, quindi $k = 6$ e $v = 8$).
 > 
 > a) Se $v = 0$ o $v = 9$, dimostrare che $\sqrt{n} > \dfrac{10^k}{2}$.
 > 

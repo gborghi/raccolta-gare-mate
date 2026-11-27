@@ -889,7 +889,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area della carta colorata di nero quando un tampone d'inchiostro quadrato viene ruotato di 180 gradi attorno al proprio angolo*
+*Area della carta colorata di nero quando un tampone d'inchiostro quadrato viene ruotato di \1° attorno al proprio angolo*
 
 > Un tampone d'inchiostro quadrato ha i lati lunghi 1 cm. È ricoperto di inchiostro nero e viene posizionato con cura al centro di un foglio di carta bianca. Il tampone quadrato viene poi ruotato di $180^\circ$ attorno a uno dei suoi angoli. Successivamente, il tampone viene rimosso dal foglio. Quale area di carta, in $\text{cm}^2$, risulta colorata di nero?
 >

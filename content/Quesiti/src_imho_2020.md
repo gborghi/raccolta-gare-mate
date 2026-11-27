@@ -31,7 +31,7 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le bisettrici degli angoli e la bisettrice perpendicolare si incontrano in un punto*
+*Le bisettrici degli angoli e la asse del segmento si incontrano in un punto*
 
 > Si consideri il quadrilatero convesso $ABCD$. Il punto $P$ è interno a $ABCD$. Valgono le seguenti uguaglianze dei rapporti:
 > $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$

@@ -29,7 +29,7 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono equiangolare a n lati con angoli di 120 o 240 gradi e lati uguali*
+*Poligono equiangolare a n lati con angoli di 120 o \1° e lati uguali*
 
 > Sia $n$ un numero intero tale che $n \ge 3$. Determinare tutti gli $n$ per cui esiste un $n$-gono in cui ogni angolo interno è oppure $120^\circ$ oppure $240^\circ$ e tutti i lati hanno la stessa lunghezza.
 

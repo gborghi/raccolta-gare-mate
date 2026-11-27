@@ -136,7 +136,7 @@ level: Coupe Animath Automne
 
 > a) Il numero intero $2016$ è divisibile da $81$? Il numero intero $20162016$ è divisibile da $81$?
 > 
-> b) Indicare che il numero intero $N = 2016\cdots 2016$ ("$2016$" scritto $2016$ volte) è divisibile da $81$.
+> b) Dimostrare che il numero intero $N = 2016\cdots 2016$ ("$2016$" scritto $2016$ volte) è divisibile da $81$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -187,7 +187,7 @@ level: Coupe Animath Automne
 
 *Sequenza a_n=a_{n-1}/a_{n-2}, a_1=2, a_2=3; trovare a_{2014}*
 
-> Che $a_1, a_2, a_3, \ldots$ sia una sequenza di numeri reali come $a_1 = 2$, $a_2 = 3$ e $a_n = \dfrac{a_{n-1}}{a_{n-2}}$ per ogni intero $n \ge 3$. Per esempio, $a_3 = a_2/a_1 = 3/2$. Determinare il valore di $a_{2014}$.
+> Sia $a_1, a_2, a_3, \ldots$ una sequenza di numeri reali come $a_1 = 2$, $a_2 = 3$ e $a_n = \dfrac{a_{n-1}}{a_{n-2}}$ per ogni intero $n \ge 3$. Per esempio, $a_3 = a_2/a_1 = 3/2$. Determinare il valore di $a_{2014}$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
@@ -362,7 +362,7 @@ level: Coupe Animath Automne
 
 *Sequenza di regola digitali; può essere scelto a_0 in modo che la sequenza sia infinita?*
 
-> $a_0$ sia un numero intero rigorosamente positivo. Da esso costruiamo una sequenza di integri $a_1, a_2, \cdots$ secondo la seguente procedura:
+> $a_0$ sia un numero intero strettamente positivo. Da esso costruiamo una sequenza di interi $a_1, a_2, \cdots$ secondo la seguente procedura:
 > 
 > - se la cifra di unità di $a_i$ è strettamente superiore a $5$, allora $a_{i+1} = 9 a_i$; - se la cifra di unità di $a_i$ è inferiore o uguale a $5$ e non zero, allora il numero così formato (eliminando quella cifra di unità) è $a_{i+1}$.
 > 
@@ -423,7 +423,7 @@ level: Coupe Animath Automne
 
 *Triangolo, M, N su BC con angolo BAM = angolo NAC; O1, O2, A sono collineari*
 
-> Lasciate che $ABC$ sia un triangolo. Le dimensioni $M$ e $N$ siano due punti su $[BC]$ in modo tale che gli angoli $\widehat{BAM}$ e $\widehat{NAC}$ siano uguali. $O_1$ sia il centro del cerchio circondato dal triangolo $ABC$ e $O_2$ il centro del cerchio circondato dal triangolo $AMN$. Indicare che i punti $O_1$, $O_2$ e $A$ sono collineari.
+> Lasciate che $ABC$ sia un triangolo. Le dimensioni $M$ e $N$ siano due punti su $[BC]$ in modo tale che gli angoli $\widehat{BAM}$ e $\widehat{NAC}$ siano uguali. $O_1$ sia il centro del cerchio circondato dal triangolo $ABC$ e $O_2$ il centro del cerchio circondato dal triangolo $AMN$. Dimostrare che i punti $O_1$, $O_2$ e $A$ sono collineari.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]

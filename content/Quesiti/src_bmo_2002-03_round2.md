@@ -61,7 +61,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La bisettrice di un angolo di un triangolo incontra la mediana; dimostrare che l'angolo è minore di 90 gradi*
+*La bisettrice di un angolo di un triangolo incontra la mediana; dimostrare che l'angolo è minore di \1°*
 
 > Sia $ABC$ un triangolo. Sia $D$ il punto medio di $BC$. La bisettrice dell'angolo di $\angle BAC$ incontra $BC$ in $E$. Dimostrare che $\angle AED < 90^\circ$ se $AB > AC$.
 

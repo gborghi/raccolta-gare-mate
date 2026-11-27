@@ -107,11 +107,11 @@ level: Concours Général
 > 
 > **1.1 Preliminarie di geometria elementare**
 > 
-> **1.** Lasciate che $D$ e $D'$ siano due linee che si incrociano in un punto $I$, e lasciate che $s$ e $s'$ siano rispettivamente le simmetrie assiali con gli assi $D$ e $D'$. Indicare che $s'\circ s$ è una rotazione e determinare i suoi elementi caratteristici.
+> **1.** Lasciate che $D$ e $D'$ siano due linee che si incrociano in un punto $I$, e lasciate che $s$ e $s'$ siano rispettivamente le simmetrie assiali con gli assi $D$ e $D'$. Dimostrare che $s'\circ s$ è una rotazione e determinare i suoi elementi caratteristici.
 > 
 > **2.** $ABC$ sia un triangolo equilaterale diretto, $O$ il centro del cerchio circoscritto intorno a $AC$. Indichiamo con $s_1$, $s_2$ e $s_3$ rispettivamente le simmetrie assiali rispetto alle linee $(OA)$, $(OB)$ e $(OC)$, e con $r$ la rotazione con centro $O$ e angolo $\frac{2\pi}{3}$. $M$ sia un punto del piano, $M_1=s_1(M)$, $M_2=s_2(M)$, $M_3=s_3(M)$.
 > 
-> **a.** Indicare che $M_2=r^2(M_1)$ e $M_3=r(M_1)$, dove $r^2$ indica $r\circ r$.
+> **a.** Dimostrare che $M_2=r^2(M_1)$ e $M_3=r(M_1)$, dove $r^2$ indica $r\circ r$.
 > 
 > **b.** Qual è la natura del triangolo $M_1M_2M_3$?
 > 
@@ -119,21 +119,21 @@ level: Concours Général
 > 
 > L'affisso del vettore $\vec{u}$ è uguale a $1$ e quello del vettore $\vec{v}$ è il numero $i$ (con $i^2=-1$), come è usuale; impostamo $j=e^{2i\pi/3}=-\frac{1}{2}+i\frac{\sqrt{3}}{2}$. Per il piano $\mathscr{P}$ consideriamo i punti $O$, $A$, $B$ e $C$ con affixi rispettivamente $0$, $1$, $j$ e $j^2$. Indichiamo con $s_1$, $s_2$ e $s_3$ rispettivamente le simmetrie assiali rispetto alle linee $(OA)$, $(OB)$ e $(OC)$. Infine $M$ sia un punto arbitrario del piano $\mathscr{P}$, con l'affisso $z=\rho e^{i\theta}$, $\rho\in\mathbb{R}^*$, $\theta\in\mathbb{R}$.
 > 
-> **1.** Lasciate $M_1=s_1(M)$, $M_2=s_2(M)$, $M_3=s_3(M)$. Indicare che i punti $M_1$, $M_2$ e $M_3$ hanno per gli affixi rispettivamente $\bar{z}$, $j^2\bar{z}$ e $j\bar{z}$.
+> **1.** Lasciate $M_1=s_1(M)$, $M_2=s_2(M)$, $M_3=s_3(M)$. Dimostrare che i punti $M_1$, $M_2$ e $M_3$ hanno per gli affixi rispettivamente $\bar{z}$, $j^2\bar{z}$ e $j\bar{z}$.
 > 
-> **2.** $M_4$ sia il punto simmetrico di $M$ rispetto alla linea $(BC)$. Indicare che il punto $J$ con affisso $-\frac{1}{2}$ è il punto medio del segmento $[M_1M_4]$. Riduzione dell'affisso di $M_4$.
+> **2.** $M_4$ sia il punto simmetrico di $M$ rispetto alla linea $(BC)$. Dimostrare che il punto $J$ con affisso $-\frac{1}{2}$ è il punto medio del segmento $[M_1M_4]$. Riduzione dell'affisso di $M_4$.
 > 
 > **3. a.** In che condizione i punti $M_2$, $M_3$ e $M_4$ sono collineari?
 > 
 > D'ora in poi supponiamo che $M_2$, $M_3$ e $M_4$ non siano collineari; indichiamo con $\Omega$ il centro del cerchio circondato intorno al triangolo $M_2M_3M_4$.
 > 
-> **b.** giustificare il fatto che $\Omega$ appartiene alla linea $(OM_1)$. In questo caso, possiamo scrivere $\lambda e^{-i\theta}$ per l'affisso di $\Omega$, con $\lambda$ reale.
+> **b.** giustificare il fatto che $\Omega$ appartiene alla retta $(OM_1)$. In questo caso, possiamo scrivere $\lambda e^{-i\theta}$ per l'affisso di $\Omega$, con $\lambda$ reale.
 > 
 > **c.** Mostra che $\lambda=-\frac{1+2\rho\cos(\theta)}{\rho+2\cos(\theta)}$.
 > 
 > **d.** Deduce un'espressione del raggio $R$ del cerchio circondato intorno al triangolo $M_2M_3M_4$.
 > 
-> **e.** Indicare che questo raggio è uguale a $1$ se e solo se $\rho=1$ o $(\rho+\cos(\theta))^2=1-3\cos^2(\theta)$.
+> **e.** Dimostrare che questo raggio è uguale a $1$ se e solo se $\rho=1$ o $(\rho+\cos(\theta))^2=1-3\cos^2(\theta)$.
 > 
 > **4.** Mostra che il cerchio circondato intorno al triangolo $M_2M_3M_4$ ha lo stesso raggio del cerchio circondato intorno al triangolo $M_1M_2M_3$ se e solo se $M$ appartiene a un insieme $\Gamma$ che specificheremo geometricamente. Cosa possiamo dire del caso in cui i due cerchi siano concentrici?
 > 
@@ -323,7 +323,7 @@ level: Concours Général
 > 
 > **1.** Indichiamo con $A_1$ il centro del cerchio inscritto nel triangolo $A_0BC$ (cioè il punto di intersezione dei bisettori interni del triangolo $A_0BC$). Proseguiamo il processo considerando $A_2$, il centro del cerchio inscritto nel triangolo $A_1BC$, ecc. Pertanto, per ogni intero naturale $i$, $A_{i+1}$ è il centro del cerchio iscritto nel triangolo $A_iBC$. Mostrare che esiste un punto $A$, limite della sequenza $(A_n)$, cioè che $AA_n$ tende verso $0$ quando $n$ tende verso la sua posizione.
 > 
-> **2.** Che cosa succede al risultato precedente se, ad ogni passo, per $i=0,1,2,\ldots$, prendiamo $A_{i+1}$ per essere l'ortocentro del triangolo $A_iBC$ invece del centro del cerchio inciso?
+> **2.** Che cosa succede al risultato precedente se, ad ogni passo, per $i=0,1,2,\ldots$, prendiamo $A_{i+1}$ per essere l'ortocentro del triangolo $A_iBC$ invece del centro del cerchio inscritto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]]
@@ -454,9 +454,9 @@ level: Concours Général
 
 *Logaritmo discreto modulo a primo: radici primitive, definizione e esistenza del registro discreto, un algoritmo elementare e il metodo di calcolo dell'indice di Adleman con un'analisi di complessità probabilistica.*
 
-> Se $m_1$ e $m_2$ sono due integri tali da $m_1\leq m_2$, indichiamo con $[m_1;m_2]$ l'insieme di integri $k$ tali da $m_1\leq k\leq m_2$.
+> Se $m_1$ e $m_2$ sono due interi tali da $m_1\leq m_2$, indichiamo con $[m_1;m_2]$ l'insieme di interi $k$ tali da $m_1\leq k\leq m_2$.
 > 
-> Se $a$, $b$ e $n$ sono tre integri, si nota $a\equiv b\ (\mathrm{modulo}\ n)$ quando $a$ e $b$ sono modulo congruente $n$, cioè quando $b-a$ è un multiple di $n$.
+> Se $a$, $b$ e $n$ sono tre interi, si nota $a\equiv b\ (\mathrm{modulo}\ n)$ quando $a$ e $b$ sono modulo congruente $n$, cioè quando $b-a$ è un multiple di $n$.
 > 
 > Durante tutto questo esercizio, $p$ designa un numero primo.
 > 
@@ -472,7 +472,7 @@ level: Concours Général
 > 
 > Admettiamo che, qualunque sia il numero primo $p$, esiste almeno un modulo radice primitivo $p$. In quanto segue, indichiamo con $g$ un modulo radice primitivo $p$.
 > 
-> **2. a.** Indicare che l'insieme $\{g^k \bmod p\}$ per $k\in[0;p-2]$ è $[1;p-1]$. **b.** Lasciate $A\in[1;p-1]$. Giustificare l'esistenza e l'unicità di un numero intero $a\in[1;p-2]$ tale che $A=(g^a \bmod p)$.
+> **2. a.** Dimostrare che l'insieme $\{g^k \bmod p\}$ per $k\in[0;p-2]$ è $[1;p-1]$. **b.** Lasciate $A\in[1;p-1]$. Giustificare l'esistenza e l'unicità di un numero intero $a\in[1;p-2]$ tale che $A=(g^a \bmod p)$.
 > 
 > $a$ è chiamato il logaritmo di base $g$ modulo $p$ di $A$; lo notiamo $\ell(A)$.
 > 
@@ -486,15 +486,15 @@ level: Concours Général
 > 
 > **1. ** Ci mettiamo nel caso $p=113$, $g=55$ e diamo $\ell(2)=60$, $\ell(3)=5$. Trova $\ell(54)$.
 > 
-> Supponiamo da ora in poi, per il resto di questa parte, i numeri primi $p_1,\ldots,p_n$ strettamente inferiori a $p$ e gli enti $a_1,\ldots,a_n$ in modo tale che, per tutti $i\in[1;n]$, i fattori primi di $(g^i \bmod p)$ appartengono a $[p_1;\cdots;p_n]$. Per ogni $i\in[1;n]$, abbiamo quindi una relazione $(g^{a_i} \bmod p)=p_1^{e_{i,1}}p_2^{e_{i,2}}\cdots p_n^{e_{i,n}}$ in cui $e_{i,j}$ per $(i,j)\in[1;n]^2$ sono integri naturali.
+> Supponiamo da ora in poi, per il resto di questa parte, i numeri primi $p_1,\ldots,p_n$ strettamente inferiori a $p$ e gli enti $a_1,\ldots,a_n$ in modo tale che, per tutti $i\in[1;n]$, i fattori primi di $(g^i \bmod p)$ appartengono a $[p_1;\cdots;p_n]$. Per ogni $i\in[1;n]$, abbiamo quindi una relazione $(g^{a_i} \bmod p)=p_1^{e_{i,1}}p_2^{e_{i,2}}\cdots p_n^{e_{i,n}}$ in cui $e_{i,j}$ per $(i,j)\in[1;n]^2$ sono interi naturali.
 > 
-> **2. ** Indicare che, per tutti $i\in[1;n]$, $a_i=e_{i,1}\ell(p_1)+e_{i,2}\ell(p_2)+\cdots+e_{i,n}\ell(p_n)\ (\mathrm{modulo}\ (p-1))$.
+> **2. ** Dimostrare che, per tutti $i\in[1;n]$, $a_i=e_{i,1}\ell(p_1)+e_{i,2}\ell(p_2)+\cdots+e_{i,n}\ell(p_n)\ (\mathrm{modulo}\ (p-1))$.
 > 
-> In questa domanda prendiamo $p=53$, $g=20$, $n=2$, $p_1=2$, $p_2=5$. **a.** Con l'aiuto di $g$ e $g^3$, determinare $\ell(2)$ e $\ell(5)$. **b.** Riduzione $\ell(40)$. **c.** Quanti integri di $[1;52]$ possono essere scritti nella forma $2^\alpha 5^\beta$, con $\alpha$ e $\beta$ integri naturali?
+> In questa domanda prendiamo $p=53$, $g=20$, $n=2$, $p_1=2$, $p_2=5$. **a.** Con l'aiuto di $g$ e $g^3$, determinare $\ell(2)$ e $\ell(5)$. **b.** Riduzione $\ell(40)$. **c.** Quanti interi di $[1;52]$ possono essere scritti nella forma $2^\alpha 5^\beta$, con $\alpha$ e $\beta$ interi naturali?
 > 
-> **4. ** Lasciate $A\in[1;p-1]$. **a.** Indicare che l'insieme $\{g^s A \bmod p\}$ per $s\in[0;p-2]$ è $[1;p-1]$. **b.** Supponiamo conosciuto $s\in N$ in modo tale che $(g^s A \bmod p)$ factorizza con l'aiuto di $p_1,\ldots,p_n$ in modo unico. Supponiamo conosciuto $\ell(p_1),\ldots,\ell(p_n)$, dedurre $\ell(A)$. **c.** Con $p=53$ e $g=20$, determinare $\ell(30)$.
+> **4. ** Lasciate $A\in[1;p-1]$. **a.** Dimostrare che l'insieme $\{g^s A \bmod p\}$ per $s\in[0;p-2]$ è $[1;p-1]$. **b.** Supponiamo conosciuto $s\in N$ in modo tale che $(g^s A \bmod p)$ factorizza con l'aiuto di $p_1,\ldots,p_n$ in modo unico. Supponiamo conosciuto $\ell(p_1),\ldots,\ell(p_n)$, dedurre $\ell(A)$. **c.** Con $p=53$ e $g=20$, determinare $\ell(30)$.
 > 
-> Ritorniamo al caso generale. **a.** Qual è il numero di integri di $[1;p-1]$ che sono una potenza di $p_1$? **b.** Ridurre la probabilità che un intero $s\in[0;p-2]$ sia tale che $(g^s A \bmod p)$ sia una potenza di $p_1$. **c.** Mostra che la probabilità $P$ per un intero $s\in[0;p-2]$ è tale che $(g^s A \bmod p)$ fattorizza con l'aiuto di $p_1$ e $p_2$ verifica in modo unico: $$\frac{(\ln(p-1))^2}{2(p-1)\big(\ln p_1\big)\big(\ln p_2\big)}\leq P\leq\frac{1}{p-1}\left(\frac{\ln(p-1)}{\ln p_1}+1\right)\left(\frac{\ln(p-1)}{\ln p_2}+1\right).$$ **.** Generalizza il risultato al caso di $n$ numeri primi $p_1,\ldots,p_n$.
+> Ritorniamo al caso generale. **a.** Qual è il numero di interi di $[1;p-1]$ che sono una potenza di $p_1$? **b.** Ridurre la probabilità che un intero $s\in[0;p-2]$ sia tale che $(g^s A \bmod p)$ sia una potenza di $p_1$. **c.** Mostra che la probabilità $P$ per un intero $s\in[0;p-2]$ è tale che $(g^s A \bmod p)$ fattorizza con l'aiuto di $p_1$ e $p_2$ verifica in modo unico: $$\frac{(\ln(p-1))^2}{2(p-1)\big(\ln p_1\big)\big(\ln p_2\big)}\leq P\leq\frac{1}{p-1}\left(\frac{\ln(p-1)}{\ln p_1}+1\right)\left(\frac{\ln(p-1)}{\ln p_2}+1\right).$$ **.** Generalizza il risultato al caso di $n$ numeri primi $p_1,\ldots,p_n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]

@@ -309,7 +309,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura ottenuta ruotando un pentagono regolare di 252 gradi in senso orario*
+*Figura ottenuta ruotando un pentagono regolare di \1° in senso orario*
 
 > Se ruotiamo il pentagono regolare accanto di un angolo di $252^\circ$ attorno al suo centro, in senso orario, quale figura si otterrà?
 >
@@ -633,7 +633,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distanza totale percorsa da un raggio di luce che si riflette tra due specchi con un angolo di 30 gradi*
+*Distanza totale percorsa da un raggio di luce che si riflette tra due specchi con un angolo di \1°*
 
 > Due specchi formano un angolo di $30^\circ$ nel punto $V$. Un raggio di luce, partendo da un punto $S$ e parallelo a uno dei specchi, incide sull'altro specchio nel punto $A$, come mostra la figura. Dopo un certo numero di riflessioni, il raggio ritorna in $S$. Se $SA = AV = 1$ m, qual è la distanza, in metri, percorsa dal raggio di luce?
 >

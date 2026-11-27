@@ -31,7 +31,7 @@ level: Coupe Animath Printemps
 
 *Intersezioni circolari circostanti e rapporto di superficie esagonale*
 
-> Che $ABC$ sia un triangolo con tre angoli acuti, e che $O$ sia il centro del suo cerchio circoscritto $\Gamma$. Le linee $(AO)$, $(BO)$ e $(CO)$ rientrano in $\Gamma$ rispettivamente a $A'$, $B'$ e $C'$. Prove che l'area dell'esagono $ACB'A'C'B$ è doppia dell'area del triangolo $ABC$.
+> Sia $ABC$ un triangolo con tre angoli acuti, e che $O$ sia il centro del suo cerchio circoscritto $\Gamma$. Le rette $(AO)$, $(BO)$ e $(CO)$ rientrano in $\Gamma$ rispettivamente a $A'$, $B'$ e $C'$. Dimostrare che l'area dell'esagono $ACB'A'C'B$ è doppia dell'area del triangolo $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]

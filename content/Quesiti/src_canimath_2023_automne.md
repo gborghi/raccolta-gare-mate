@@ -143,7 +143,7 @@ level: Coupe Animath Automne
 
 *5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar*
 
-> In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
+> In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero strettamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -257,7 +257,7 @@ level: Coupe Animath Automne
 
 *Due triangoli equilaterali OAB, OAC del lato 1; costruire OBD equilaterale, OCE; punti P, Q a distanze unitarie; dimostrare B, P, Q collineare*
 
-> I punti $A$, $B$, $C$ e $O$ siano quattro punti distinti in modo tale che i triangoli $OAB$ e $OAC$ siano equilaterali con il lato $1$. I punti $D$ e $E$ siano due punti distinti e diversi da $A$, in modo che anche i triangoli $OBD$ e $OCE$ siano equilaterali. Il punto $P$ deve essere il punto del segmento $[AD]$ in modo tale che $DP = 1$. Il punto $Q$ deve essere il punto del segmento $[AE]$ in modo tale che $AQ = 1$. Indicare che i punti $B$, $P$ e $Q$ sono collineari.
+> I punti $A$, $B$, $C$ e $O$ siano quattro punti distinti in modo tale che i triangoli $OAB$ e $OAC$ siano equilaterali con il lato $1$. I punti $D$ e $E$ siano due punti distinti e diversi da $A$, in modo che anche i triangoli $OBD$ e $OCE$ siano equilaterali. Il punto $P$ deve essere il punto del segmento $[AD]$ in modo tale che $DP = 1$. Il punto $Q$ deve essere il punto del segmento $[AE]$ in modo tale che $AQ = 1$. Dimostrare che i punti $B$, $P$ e $Q$ sono collineari.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -303,9 +303,9 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che se 2^n e 5^n hanno la stessa cifra principale, quella cifra deve essere 3*
+*Dimostrare che se 2^n e 5^n hanno la stessa cifra principale, quella cifra deve essere 3*
 
-> Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
+> Per ogni numero intero strettamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero strettamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
@@ -514,7 +514,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *Griglia 5×5 di interi positivi in cui ogni riga ha somma dispari: dimostrare che anche qualche colonna ha somma dispari.*
-> In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
+> In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero strettamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
@@ -625,9 +625,9 @@ level: Coupe Animath Automne
 
 *Dimostrare che se 2^n e 5^n hanno la stessa somma delle cifre, allora tale somma è 3.*
 
-Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3 (lycee)
+Dimostrare che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3 (lycee)
 
-> Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
+> Per ogni numero intero strettamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero strettamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
@@ -731,7 +731,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 <div class="qlang-split" data-lang="it"></div>
 
 *Rettangolo ABCD, M punto medio di CD; una retta parallela ad AB incontra AD, AM, BM, BC in P, Q, R, S; la retta DR incontra AM in X e BC in Y: noti DX=6 e XR=4, determinare RY.*
-> $ABCD$ sia un rettangolo e $M$ il punto medio del segmento $[CD]$. Una linea parallela a $(AB)$ incontra i segmenti $[AD]$, $[AM]$, $[BM]$, $[BC]$ rispettivamente nei punti $P$, $Q$, $R$ e $S$. La linea $(DR)$ incontra il segmento $[AM]$ a $X$ e il segmento $[BC]$ a $Y$. Se $DX = 6$ e $XR = 4$, quale è la lunghezza del segmento $[RY]$?
+> $ABCD$ sia un rettangolo e $M$ il punto medio del segmento $[CD]$. Una retta parallela a $(AB)$ incontra i segmenti $[AD]$, $[AM]$, $[BM]$, $[BC]$ rispettivamente nei punti $P$, $Q$, $R$ e $S$. La linea $(DR)$ incontra il segmento $[AM]$ a $X$ e il segmento $[BC]$ a $Y$. Se $DX = 6$ e $XR = 4$, quale è la lunghezza del segmento $[RY]$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -785,15 +785,15 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 <div class="qlang-split" data-lang="it"></div>
 
 *Pedine su una griglia 30×30: al più una per casella, ogni casella vuota condivide riga o colonna con una pedina, e ogni pedina ha al più un'altra pedina sulla stessa riga o colonna; determinare il minimo k possibile.*
-> Theo colloca i token nelle celle di una tabella di dimensioni $30 \times 30$ rispettando le seguenti regole:
+> Theo colloca i pedina nelle celle di una tabella di dimensioni $30 \times 30$ rispettando le seguenti regole:
 > 
-> $\triangleright$ Ogni cella contiene al massimo un token.
+> $\triangleright$ Ogni cella contiene al massimo un pedina.
 > 
-> $\triangleright$ Per ogni cella vuota, tra le celle della stessa riga o della stessa colonna, c'è almeno una cella contenente un token.
+> $\triangleright$ Per ogni cella vuota, tra le celle della stessa riga o della stessa colonna, c'è almeno una cella contenente un pedina.
 > 
-> $\triangleright$ Per ogni token inserito, tra le celle della stessa riga o della stessa colonna, c'è al massimo un'altra cella che contiene un token.
+> $\triangleright$ Per ogni pedina inserito, tra le celle della stessa riga o della stessa colonna, c'è al massimo un'altra cella che contiene un pedina.
 > 
-> Determinare il numero intero più piccolo $k$ che soddisfa la seguente proprietà: qualunque sia l'arrangimento scelto da Theo, ogni quadrato $k \times k$ della griglia contiene almeno una cella con un token.
+> Determinare il numero intero più piccolo $k$ che soddisfa la seguente proprietà: qualunque sia l'arrangimento scelto da Theo, ogni quadrato $k \times k$ della griglia contiene almeno una cella con un pedina.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]]

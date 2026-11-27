@@ -84,7 +84,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC con angolo CAB = 20 gradi, D il punto medio di [AB], e angolo CDB = 40 gradi; trovare angolo ABC.*
+*Nel triangolo ABC con angolo CAB = \1°, D il punto medio di [AB], e angolo CDB = \1°; trovare angolo ABC.*
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
 
@@ -130,7 +130,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *In una griglia 5×5 di 25 caselle bianche, determinare il minimo numero di caselle da colorare di rosso in modo che ogni rettangolo 2×3 e 3×2 contenga almeno una casella rossa.*
-> Si consideri una griglia $5 \times 5$, composta da celle bianche $25$. Vincent vuole colorare alcune cellule della griglia in rosso in modo che ogni rettangolo $2 \times 3$ o $3 \times 2$ contenga almeno una cellula colorata. Qual è il numero più piccolo di cellule che può colorare?
+> Si consideri una griglia $5 \times 5$, composta da celle bianche $25$. Vincent vuole colorare alcune caselle della griglia in rosso in modo che ogni rettangolo $2 \times 3$ o $3 \times 2$ contenga almeno una casella colorata. Qual è il numero più piccolo di caselle che può colorare?
 > 
 > Sotto, a sinistra, una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $2 \times 3$, a destra una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $3 \times 2$.)
 
@@ -180,7 +180,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Pentagono ABCDE a lati tutti uguali, con angoli retti in C e in D, e A esterno al quadrilatero BCDE; P intersezione delle rette AC e BD: dimostrare che AP=PD.*
-> Che $ABCDE$ sia un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle linee $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
+> Sia $ABCDE$ un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle rette $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -274,7 +274,7 @@ level: Coupe Animath Printemps
 
 *Una coppia (x,y) con 1<=y<x è 'joli' se x e y hanno esattamente divisori positivi comuni x-y; con s(n) il numero di coppie joli con 1<=y<x<=n, decide se s(n)=2022 o s(n)=2023 è raggiungibile.*
 
-> $x, y$ siano integri positivi come $1 \leqslant y < x$. Diciamo che la coppia $(x, y)$ è *joli* se $x$ e $y$ hanno esattamente $x - y$ divisori positivi comuni. Ad esempio, $30$ e $42$ hanno esattamente $4$ divisori comuni: $1, 2, 3$ e $6$. Poiché $42 - 30 = 12 \neq 4$, la coppia $(42, 30)$ non è quindi joli. D'altra parte, la coppia $(8, 6)$ è joli, perché $6$ e $8$ hanno $8 - 6 = 2$ divisori positivi comuni: $1$ e $2$.
+> $x, y$ siano interi positivi come $1 \leqslant y < x$. Diciamo che la coppia $(x, y)$ è *joli* se $x$ e $y$ hanno esattamente $x - y$ divisori positivi comuni. Ad esempio, $30$ e $42$ hanno esattamente $4$ divisori comuni: $1, 2, 3$ e $6$. Poiché $42 - 30 = 12 \neq 4$, la coppia $(42, 30)$ non è quindi joli. D'altra parte, la coppia $(8, 6)$ è joli, perché $6$ e $8$ hanno $8 - 6 = 2$ divisori positivi comuni: $1$ e $2$.
 > 
 > Per ogni numero intero $n \geqslant 2$, $s(n)$ indichi il numero di coppie di numeri interi $(x, y)$ in modo tale che $1 \leqslant y < x \leqslant n$ e $(x, y)$ siano joli.
 > 
@@ -334,7 +334,7 @@ level: Coupe Animath Printemps
 
 > Si consideri una griglia $10 \times 10$, composta da celle $100$. Le righe della griglia sono numerate dall'alto al basso in ordine da $1$ a $10$: la riga superiore ha il numero $1$, la riga inferiore ha il numero $10$. Le colonne della griglia sono numerate da sinistra a destra in ordine da $1$ a $10$: la colonna più sinistra ha il numero $1$, la colonna più destra ha il numero $10$. Martin colora alcune celle della griglia in modo tale che, per ogni cella di colore $c$, vi sia almeno una cella di colore diversa da $c$ il cui numero di colonne è maggiore o uguale a quello della colonna di $c$ e il cui numero di righe è maggiore o uguale a quello della riga di $c$.
 > 
-> Qual è il numero massimo di cellule che Martin può colorare?
+> Qual è il numero massimo di caselle che Martin può colorare?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
@@ -383,7 +383,7 @@ level: Coupe Animath Printemps
 
 *Conta i numeri interi n in modo tale che n/3 e 3n siano entrambi numeri interi tra 1 e 1000 inclusi.*
 
-> Quanti integri $n$ esistono tali che $\dfrac{n}{3}$ e $3n$ siano entrambe integri tra $1$ e $1000$ (con $1$ e $1000$ inclusi)?
+> Quanti interi $n$ esistono tali che $\dfrac{n}{3}$ e $3n$ siano entrambe interi tra $1$ e $1000$ (con $1$ e $1000$ inclusi)?
 > 
 > *Solo una risposta numerica è prevista qui.*
 
@@ -431,7 +431,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC con angolo CAB = 20 gradi, D il punto medio di [AB], e angolo CDB = 40 gradi; trovare angolo ABC.*
+*Nel triangolo ABC con angolo CAB = \1°, D il punto medio di [AB], e angolo CDB = \1°; trovare angolo ABC.*
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
 
@@ -576,7 +576,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 
 *In un rombo ABCD con E l'intersezione dei diagonali, F il punto medio di [BE], G il punto medio di [AD], I l'intersezione di (FG) e (AC), e K il riflesso di A attraverso I; trovare EK/EA.*
 
-> Che $ABCD$ sia un rombo e che $E$ sia il punto di intersezione delle diagonali. Il segmento $F$ è il punto medio del segmento $[BE]$ e il segmento $G$ è il punto medio del segmento $[AD]$. Il $I$ è il punto di intersezione delle linee $(FG)$ e $(AC)$, e il $K$ è il punto simmetrico di $A$ rispetto al punto $I$. Qual è il valore di $\dfrac{EK}{EA}$?
+> Sia $ABCD$ un rombo e che $E$ sia il punto di intersezione delle diagonali. Il segmento $F$ è il punto medio del segmento $[BE]$ e il segmento $G$ è il punto medio del segmento $[AD]$. Il $I$ è il punto di intersezione delle rette $(FG)$ e $(AC)$, e il $K$ è il punto simmetrico di $A$ rispetto al punto $I$. Qual è il valore di $\dfrac{EK}{EA}$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -624,7 +624,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 
 > Si consideri una griglia $10 \times 10$, composta da celle $100$. Le righe della griglia sono numerate dall'alto al basso in ordine da $1$ a $10$: la riga superiore ha il numero $1$, la riga inferiore ha il numero $10$. Le colonne della griglia sono numerate da sinistra a destra in ordine da $1$ a $10$: la colonna più sinistra ha il numero $1$, la colonna più destra ha il numero $10$. Martin colora alcune celle della griglia in modo tale che, per ogni cella di colore $c$, vi sia al massimo una cella di colore diversa da $c$ il cui numero di colonne è maggiore o uguale a quello della colonna di $c$ e il cui numero di righe è maggiore o uguale a quello della riga di $c$.
 > 
-> Qual è il numero massimo di cellule che Martin può colorare?
+> Qual è il numero massimo di caselle che Martin può colorare?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
@@ -675,9 +675,9 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 
 *Per quali interi positivi n è possibile scrivere 2n reali, non tutti uguali, in modo che per ogni scelta di n di essi la somma dei prescelti uguagli il prodotto degli altri n?*
 
-Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti uguali, in modo tale che per ogni scelta di n di essi la somma della n scelta è uguale al prodotto dell'altro n?
+Per quali interi positivi n Aline può scrivere 2n numeri reali, non tutti uguali, in modo tale che per ogni scelta di n di essi la somma della n scelta è uguale al prodotto dell'altro n?
 
-> $n$ sia un numero intero rigorosamente positivo. Aline vuole scrivere $2n$ numeri reali sulla lavagna in modo tale che:
+> $n$ sia un numero intero strettamente positivo. Aline vuole scrivere $2n$ numeri reali sulla lavagna in modo tale che:
 > 
 > $\triangleright$ i numeri $2n$ scritti non sono tutti uguali;
 > 
@@ -740,9 +740,9 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 
 *Per un intero fisso n>=2, un intero positivo S è 'speciale' se per ogni k e ogni decomposizione ordinata di n in parti positive n_1<=...<=n_k esistono interi 0<=a_1<a_2<...<a_k con somma a_i n_i = S; mostra n^2-2n non è speciale e trova tutti i numeri speciali.*
 
-> $n \geqslant 2$ sia un numero intero fisso. Un numero $S$ è detto *speciale* se, per ogni intero rigorosamente positivo $k$ e per ogni decomposizione di $n$ come somma di $k$ interi rigorosamente positivi $$n = n_1 + n_2 + \cdots + n_k,$$ con $n_1 \leqslant n_2 \leqslant \cdots \leqslant n_k$, si possono trovare interi $0 \leqslant a_1 < a_2 < \cdots < a_k$ tali che $$a_1 n_1 + a_2 n_2 + \cdots + a_k n_k = S.$$
+> $n \geqslant 2$ sia un numero intero fisso. Un numero $S$ è detto *speciale* se, per ogni intero strettamente positivo $k$ e per ogni decomposizione di $n$ come somma di $k$ interi strettamente positivi $$n = n_1 + n_2 + \cdots + n_k,$$ con $n_1 \leqslant n_2 \leqslant \cdots \leqslant n_k$, si possono trovare interi $0 \leqslant a_1 < a_2 < \cdots < a_k$ tali che $$a_1 n_1 + a_2 n_2 + \cdots + a_k n_k = S.$$
 > 
-> a) Indicare che $n^2 - 2n$ è ** non ** speciale.
+> a) Dimostrare che $n^2 - 2n$ è ** non ** speciale.
 > 
 > b) Trova tutti i numeri speciali.
 

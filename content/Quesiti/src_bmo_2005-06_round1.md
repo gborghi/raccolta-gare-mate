@@ -133,7 +133,7 @@ level: BMO Round 1
 
 *Percorso cellulare non ripetitivo più lungo in un triangolo equilatero triangolato*
 
-> Il triangolo equilatero $ABC$ ha lati di lunghezza intera $N$. Il triangolo è completamente suddiviso (tracciando linee parallele ai lati del triangolo) in celle triangolari equilatere di lato $1$.
+> Il triangolo equilatero $ABC$ ha lati di lunghezza intera $N$. Il triangolo è completamente suddiviso (tracciando rette parallele ai lati del triangolo) in celle triangolari equilatere di lato $1$.
 >
 > Si sceglie un percorso continuo che parte all'interno della cella con vertice $A$ e passa sempre da una cella all'altra attraverso un lato comune alle due celle. Nessuna cella viene visitata più di una volta. Determinare, con dimostrazione, il numero massimo di celle che si possono visitare.
 

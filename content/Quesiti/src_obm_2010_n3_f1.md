@@ -606,7 +606,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono regolare: le rette PQ e TS, prolungate, si incontrano in X con angolo QXS = 140 gradi; determina il numero di lati.*
+*Poligono regolare: le rette PQ e TS, prolungate, si incontrano in X con angolo QXS = \1°; determina il numero di lati.*
 
 > I punti $P$, $Q$, $R$, $S$ e $T$ sono vertici di un poligono regolare. I lati $PQ$ e $TS$ vengono prolungati fino a incontrarsi in $X$, come nella figura, e $Q\hat{X}S$ misura $140^\circ$. Quanti lati ha il poligono?
 >

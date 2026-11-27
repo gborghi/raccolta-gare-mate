@@ -28,7 +28,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo isoscele ABC con AB=AC; un punto D sul minore degli archi AB della circonferenza circoscritta e un punto E sulla retta AD: il cerchio circoscritto a BDE determina rette parallele.*
-> $ABC$ sia un triangolo di uguali dimensioni in cui $AB = AC$. Sul cerchio circonscritto di questo triangolo, prendere un punto $D$ appartenente all'arco più piccolo che unisce $A$ a $B$; infine prendere un punto $E$ appartenente alla linea $(AD)$, al di fuori del segmento $[AD]$, e tale che i punti $A$ e $E$ si trovino nello stesso semiplano delimitato dalla linea $(BC)$. Il cerchio circonscritto del triangolo $BDE$ incontra di nuovo la linea $(AB)$ a $F$; mostra che le linee $(EF)$ e $(BC)$ sono parallele.
+> $ABC$ sia un triangolo di uguali dimensioni in cui $AB = AC$. Sul cerchio circonscritto di questo triangolo, prendere un punto $D$ appartenente all'arco più piccolo che unisce $A$ a $B$; infine prendere un punto $E$ appartenente alla retta $(AD)$, al di fuori del segmento $[AD]$, e tale che i punti $A$ e $E$ si trovino nello stesso semiplano delimitato dalla retta $(BC)$. Il cerchio circonscritto del triangolo $BDE$ incontra di nuovo la retta $(AB)$ a $F$; mostra che le rette $(EF)$ e $(BC)$ sono parallele.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -209,7 +209,7 @@ level: Coupe Animath Automne
 
 *Triangolo retto, punto medio, perpendicolari; triangoli AEM e MCA simili se angolo ABC=60*
 
-> Il $ABC$ deve essere un triangolo rettangolo a $A$ con $AB < AC$, $M$ il punto medio di $[BC]$, $D$ l'intersezione di $(AC)$ con il perpendicolare a $(BC)$ che attraversa $M$, e $E$ il punto di intersezione della linea parallela a $(AC)$ che attraversa $M$ con il perpendicolare a $(BD)$ che attraversa $B$. Indicare che i triangoli $AEM$ e $MCA$ sono simili se e solo se $\angle ABC = 60^\circ$.
+> Il $ABC$ deve essere un triangolo rettangolo a $A$ con $AB < AC$, $M$ il punto medio di $[BC]$, $D$ l'intersezione di $(AC)$ con il perpendicolare a $(BC)$ che attraversa $M$, e $E$ il punto di intersezione della retta parallela a $(AC)$ che attraversa $M$ con il perpendicolare a $(BD)$ che attraversa $B$. Dimostrare che i triangoli $AEM$ e $MCA$ sono simili se e solo se $\angle ABC = 60^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
@@ -344,7 +344,7 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 
 *x,y,z in [0,1] con (1-x)(1-y)(1-z) = xyz; uno dei tre prodotti >=1/4 e uno <=1/4*
 
-> $x$, $y$, $z$ siano tre numeri reali appartenenti all'intervallo $[0, 1]$ che soddisfano $$(1-x)(1-y)(1-z) = xyz.$$ 1. Indicare che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è maggiore o uguale a $\frac{1}{4}$. 2. Mostra che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è inferiore o uguale a $\frac{1}{4}$.
+> $x$, $y$, $z$ siano tre numeri reali appartenenti all'intervallo $[0, 1]$ che soddisfano $$(1-x)(1-y)(1-z) = xyz.$$ 1. Dimostrare che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è maggiore o uguale a $\frac{1}{4}$. 2. Mostra che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è inferiore o uguale a $\frac{1}{4}$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]

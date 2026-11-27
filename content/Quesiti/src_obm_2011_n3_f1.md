@@ -681,7 +681,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Misura dell'angolo ADE in un triangolo in cui l'angolo B meno l'angolo C è uguale a 50 gradi, con la bisettrice e un angolo retto*
+*Misura dell'angolo ADE in un triangolo in cui l'angolo B meno l'angolo C è uguale a \1°, con la bisettrice e un angolo retto*
 
 > In un triangolo, $ABC$, $m(\widehat{ABC}) - m(\widehat{ACB}) = 50^\circ$ e la bisettrice uscente da $A$ intersecano il lato $BC$ nel punto $D$. Se $E$ è il punto del lato $AC$ tale che $m(\widehat{CDE}) = 90^\circ$, la misura dell'angolo $\widehat{ADE}$ è:
 >

@@ -34,7 +34,7 @@ level: Coupe Animath Automne
 
 *Calcolare una frazione aritmetica con prodotti triplici*
 
-> Calcolo: $$\frac{1 \times 2 \times 4 + 2 \times 4 \times 8 + 3 \times 6 \times 12 + 4 \times 8 \times 16}{1 \times 3 \times 9 + 2 \times 6 \times 18 + 3 \times 9 \times 27 + 4 \times 12 \times 36}$$ Si prevede una sola risposta numerica. La risposta deve essere data in una frazione irriducibile, cioè: come $\frac{a}{b}$ in cui $a$ e $b$ sono integri positivi senza divisore comune.
+> Calcolo: $$\frac{1 \times 2 \times 4 + 2 \times 4 \times 8 + 3 \times 6 \times 12 + 4 \times 8 \times 16}{1 \times 3 \times 9 + 2 \times 6 \times 18 + 3 \times 9 \times 27 + 4 \times 12 \times 36}$$ Si prevede una sola risposta numerica. La risposta deve essere data in una frazione irriducibile, cioè: come $\frac{a}{b}$ in cui $a$ e $b$ sono interi positivi senza divisore comune.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -168,7 +168,7 @@ level: Coupe Animath Automne
 
 *Rettangolo ABCD; punti medi M, N; angolo di mostra MAN è uguale all'angolo BPN*
 
-> Lasciate che $ABCD$ sia un rettangolo. Il segmento $M$ è il punto medio del segmento $[BC]$ e il segmento $N$ è il punto medio del segmento $[CD]$. Il punto di intersezione delle linee $(BN)$ e $(DM)$ è $P$. Mostra che $\widehat{MAN} = \widehat{BPN}$.
+> Lasciate che $ABCD$ sia un rettangolo. Il segmento $M$ è il punto medio del segmento $[BC]$ e il segmento $N$ è il punto medio del segmento $[CD]$. Il punto di intersezione delle rette $(BN)$ e $(DM)$ è $P$. Mostra che $\widehat{MAN} = \widehat{BPN}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -212,7 +212,7 @@ level: Coupe Animath Automne
 
 *Odd intero positivo n; divisori di 2n; trovare divisore pari in (k, 2k]*
 
-> Che $n$ sia un intero positivo parziale e $k$ un intero rigorosamente positivo. Supponiamo che il numero di divisori positivi di $2n$ che sono inferiori o uguali a $k$ sia impar. Mostrare che esiste un divisore $d$ di $2n$ tale che $k < d \le 2k$ e $d$ siano pari.
+> Sia $n$ un intero positivo parziale e $k$ un intero strettamente positivo. Supponiamo che il numero di divisori positivi di $2n$ che sono inferiori o uguali a $k$ sia impar. Mostrare che esiste un divisore $d$ di $2n$ tale che $k < d \le 2k$ e $d$ siano pari.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_invarianti|Invarianti / monovarianti]]
@@ -254,7 +254,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *n rette, ciascuna delle quali interseca esattamente altre 10: determinare i possibili valori di n.*
-> $n$ sia un intero positivo non zero. Supponiamo che ci sia un insieme di $n$ linee distinte nel piano in modo tale che ciascuna di esse incrociate esattamente altre dieci. Quali sono i valori possibili di $n$?
+> $n$ sia un intero positivo non zero. Supponiamo che ci sia un insieme di $n$ rette distinte nel piano in modo tale che ciascuna di esse incrociate esattamente altre dieci. Quali sono i valori possibili di $n$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
@@ -299,7 +299,7 @@ level: Coupe Animath Automne
 
 *Summa ciclica di n valori reali positivi strettamente compresi tra 1 e n-1*
 
-> $n \ge 3$ sia un numero intero rigorosamente positivo. Mostrare che per tutti i valori rigorosamente positivi $x_1, x_2, \ldots, x_n$, si ha la disuguaglianza: $$1 < \frac{x_1}{x_1 + x_2} + \frac{x_2}{x_2 + x_3} + \cdots + \frac{x_{n-1}}{x_{n-1} + x_n} + \frac{x_n}{x_n + x_1} < n - 1$$
+> $n \ge 3$ sia un numero intero strettamente positivo. Mostrare che per tutti i valori strettamente positivi $x_1, x_2, \ldots, x_n$, si ha la disuguaglianza: $$1 < \frac{x_1}{x_1 + x_2} + \frac{x_2}{x_2 + x_3} + \cdots + \frac{x_{n-1}}{x_{n-1} + x_n} + \frac{x_n}{x_n + x_1} < n - 1$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -526,7 +526,7 @@ level: Coupe Animath Automne
 
 *Odd n; numero impar di divisori di 2n fino a k; trovare divisore impar in (k, 2k]*
 
-> Che $n$ sia un intero positivo parziale e $k$ un intero rigorosamente positivo. Supponiamo che il numero di divisori positivi di $2n$ che sono inferiori o uguali a $k$ sia impar. Mostrare che esiste un divisore $d$ di $2n$ tale che $k < d \le 2k$ e $d$ siano pari.
+> Sia $n$ un intero positivo parziale e $k$ un intero strettamente positivo. Supponiamo che il numero di divisori positivi di $2n$ che sono inferiori o uguali a $k$ sia impar. Mostrare che esiste un divisore $d$ di $2n$ tale che $k < d \le 2k$ e $d$ siano pari.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_invarianti|Invarianti / monovarianti]]
@@ -574,9 +574,9 @@ level: Coupe Animath Automne
 
 *ABCD trapezoide; punti intermedi E, F; parallelo attraverso E incontra CD; angolo retto e rapporto*
 
-> Il $ABCD$ deve essere quadrilaterale in modo tale che $AD = BC$, $(AB)$ e $(CD)$ siano parallele e $AB > CD$. Il $E$ deve essere il punto medio di $[AC]$ e $F$ il punto medio di $[BD]$. La linea parallela a $(BD)$ che attraversa $E$ incontra $(CD)$ al punto $G$.
+> Il $ABCD$ deve essere quadrilaterale in modo tale che $AD = BC$, $(AB)$ e $(CD)$ siano parallele e $AB > CD$. Il $E$ deve essere il punto medio di $[AC]$ e $F$ il punto medio di $[BD]$. La retta parallela a $(BD)$ che attraversa $E$ incontra $(CD)$ al punto $G$.
 > 
-> 1) Indicare che il triangolo $CGA$ è angolato a destra a $G$.
+> 1) Dimostrare che il triangolo $CGA$ è angolato a destra a $G$.
 > 
 > 2) Set $CD = b$ e $AB = a$. Calcolare il rapporto $\dfrac{EG}{CF}$ come funzione di $a$ e $b$.
 
@@ -628,7 +628,7 @@ level: Coupe Animath Automne
 
 *Reali positivi sommando a 1; disuguaglianza che comporta la somma di xxi-yi-yi e min ratios*
 
-> Che $n$ sia un numero intero strettamente positivo e $x_1, \ldots, x_n, y_1, \ldots, y_n$ sia un numero reale strettamente positivo tale che $x_1 + \cdots + x_n = y_1 + \cdots + y_n = 1$. Indicare che: $$|x_1 - y_1| + |x_2 - y_2| + \cdots + |x_n - y_n| \le 2 - \min_{1 \le i \le n} \frac{x_i}{y_i} - \min_{1 \le i \le n} \frac{y_i}{x_i}$$
+> Sia $n$ un numero intero strettamente positivo e $x_1, \ldots, x_n, y_1, \ldots, y_n$ sia un numero reale strettamente positivo tale che $x_1 + \cdots + x_n = y_1 + \cdots + y_n = 1$. Dimostrare che: $$|x_1 - y_1| + |x_2 - y_2| + \cdots + |x_n - y_n| \le 2 - \min_{1 \le i \le n} \frac{x_i}{y_i} - \min_{1 \le i \le n} \frac{y_i}{x_i}$$
 > 
 > Per i numeri reali $a_1, a_2, \ldots, a_n$, $\displaystyle\min_u a_u$ indica il numero più piccolo dei numeri $n$ $a_1, a_2, \ldots, a_n$.
 
@@ -683,7 +683,7 @@ level: Coupe Animath Automne
 
 *R più grande tale che n reali contengano r senza due a distanza 1 (o alfa)*
 
-> $n$ sia un numero intero rigorosamente positivo.
+> $n$ sia un numero intero strettamente positivo.
 > 
 > 1) Determinare, in termini di $n$, il numero intero più grande $r$ che possieda la seguente proprietà: per tutti i reali $a_1, \ldots, a_n$, esistono tra di essi i reali $r$ $a_{i_1} < a_{i_2} < \cdots < a_{i_r}$ in modo tale che per tutti gli enti $k, \ell$ che verificano $1 \le k, \ell \le r$, si abbia $|a_{i_k} - a_{i_\ell}| \ne 1$.
 > 

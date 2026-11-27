@@ -97,13 +97,13 @@ level: TFJM²
 > 
 > 1. From now on in this problem, a leprechaun smiles at exactly two of his friends, with priority to leprechauns in bad mood (that is, he only puts in good mood the leprechauns in bad mood if possible). Determine $A(M, \ell)$ (denoted $A_1(M, \ell)$ for question 1) when each leprechaun knows the same number $\ell$ of leprechauns and $M$ has $a \cdot b$ leprechauns arranged in a grid. Distinguish the cases: a) the leprechaun $\ell$ is at a corner; b) the leprechaun $\ell$ is on a side; c) the leprechaun $\ell$ is in the interior (neither corner nor side). (See Figure 2, the country of the Marvels for question 1, with $a = 3$ and $b = 6$.)
 > 
-> 2. Which sets $E$ are such that there exists a configuration $M$ and a starting leprechaun $\ell \in M$ with $A_1(M, \ell) = E$?
+> 2. Which sets $E$ are tale che there exists a configuration $M$ and a starting leprechaun $\ell \in M$ with $A_1(M, \ell) = E$?
 > 
-> 3. Which sets $E$ are such that there exists a configuration $M$ such that the union over all $\ell \in M$ of $A_1(M, \ell)$ equals $E$?
+> 3. Which sets $E$ are tale che there exists a configuration $M$ tale che the union over all $\ell \in M$ of $A_1(M, \ell)$ equals $E$?
 > 
 > 4. For this question, replace the rule of question 1 by the following: a leprechaun smiles at exactly two of his friends, with priority to those already in good mood. We denote $A_2(M, \ell)$. Answer questions 1, 2 and 3 in this case.
 > 
-> From now on, we drop the rules of questions 1 and 4. We fix $p \in [0, 1]$. If $\ell \in M$ is in good mood, then for any $\ell' \in M$ such that $\ell$ and $\ell'$ know each other, $\ell$ makes $\ell'$ smile with probability $p$. Let $\tau$ be the random variable equal to the number of the first day when everyone is in good mood (and $\tau = +\infty$ if it never arrives).
+> From now on, we drop the rules of questions 1 and 4. We fix $p \in [0, 1]$. If $\ell \in M$ is in good mood, then for any $\ell' \in M$ tale che $\ell$ and $\ell'$ know each other, $\ell$ makes $\ell'$ smile with probability $p$. Sia $\tau$ be the random variable equal to the number of the first day when everyone is in good mood (and $\tau = +\infty$ if it never arrives).
 > 
 > 5. Compute, as a function of $n$ and $p$, the expectation of $\tau$: a) if each leprechaun knows the two others; b) if the leprechauns are numbered $1$ to $n$, each leprechaun $\ell_k$ knowing $\ell_{k-1}$ and $\ell_{k+1}$ (with $\ell_1$ and $\ell_n$ also acquainted); c) if $n$ is large and the population is separated into two classes of size $n/2$, each leprechaun knowing two friends in its own class and two friends in the other class; for this question, with $p$ fixed, also determine the limit of the expectation of $\tau$ as $n \to \infty$; d) if $M$ is the country of question 1 (here the result must depend on $a$, $b$ and the starting leprechaun).
 > 
@@ -547,9 +547,9 @@ level: TFJM²
 > 
 > D'ora in poi facciamo l'ipotesi che tutte le farfalle si trasformino contemporaneamente.
 > 
-> 4. Ogni giorno, ogni farfalla si trasforma in due farfalla: la prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$. Let $x \in \mathbb{R}_+$. Calcolare la percentuale di farfalle con larghezza delle ali superiore a $x$ il giorno $n$.
+> 4. Ogni giorno, ogni farfalla si trasforma in due farfalla: la prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$. Sia $x \in \mathbb{R}_+$. Calcolare la percentuale di farfalle con larghezza delle ali superiore a $x$ il giorno $n$.
 > 
-> 5. Ogni giorno, ogni farfalla si trasforma in due farfalla. La prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$ della larghezza delle ali del nonno. Dato che non c'è nonno alla prima trasformazione, supponiamo che il nonno abbia la stessa larghezza delle ali del genitore. Let $x \in \mathbb{R}_+$. Qual è la percentuale di farfalle con una larghezza delle ali rigorosamente superiore a $x$ il giorno $n$? (Si può iniziare esaminando i casi particolari di $x$.)
+> 5. Ogni giorno, ogni farfalla si trasforma in due farfalla. La prima eredita $80\%$ della larghezza delle ali del genitore e la seconda $125\%$ della larghezza delle ali del nonno. Dato che non c'è nonno alla prima trasformazione, supponiamo che il nonno abbia la stessa larghezza delle ali del genitore. Sia $x \in \mathbb{R}_+$. Qual è la percentuale di farfalle con una larghezza delle ali rigorosamente superiore a $x$ il giorno $n$? (Si può iniziare esaminando i casi particolari di $x$.)
 > 
 > 6. Ogni giorno, ogni farfalla si trasforma in due farfalla. La percentuale di evoluzione della larghezza delle ali delle nuove farfalle rispetto ai loro genitori è tracciata a caso seguendo una legge di probabilità fissa discreta. Si può recuperare questa legge di probabilità osservando l'evoluzione delle farfalle abbastanza a lungo?
 > 

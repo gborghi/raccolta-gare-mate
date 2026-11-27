@@ -61,7 +61,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare BC in un quadrilatero con due angoli di 60 gradi e un angolo retto*
+*Trovare BC in un quadrilatero con due angoli di \1° e un angolo retto*
 
 > Nel quadrilatero $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trovare $BC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 

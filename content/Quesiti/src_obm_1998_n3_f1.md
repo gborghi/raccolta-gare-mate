@@ -384,7 +384,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo di lati di un poligono convesso i cui angoli interni sono tutti minori di 160 gradi (e non possono essere uguali a 160).*
+*Numero massimo di lati di un poligono convesso i cui angoli interni sono tutti minori di \1° (e non possono essere uguali a 160).*
 
 > Tutti gli angoli interni di un poligono convesso sono minori di (non possono essere uguali a) $160^\circ$. Il numero di lati di questo poligono è, al massimo, uguale a:
 >
@@ -1371,7 +1371,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un viaggiatore dovrebbe camminare per un'ora tra nord ed est, con un angolo di 30 gradi rispetto a est, ma per errore cammina per un'ora tra ovest e nord, con un angolo di 30 gradi rispetto a nord; determina l'angolo, rispetto a nord, della direzione che deve prendere ora.*
+*Un viaggiatore dovrebbe camminare per un'ora tra nord ed est, con un angolo di \1° rispetto a est, ma per errore cammina per un'ora tra ovest e nord, con un angolo di \1° rispetto a nord; determina l'angolo, rispetto a nord, della direzione che deve prendere ora.*
 
 > Un viaggiatore dovrebbe camminare per un'ora in una direzione compresa tra nord ed est, formando $30^\circ$ con est. Ha sbagliato e ha camminato per un'ora in una direzione compresa tra ovest e nord, formando $30^\circ$ con nord. Per raggiungere la sua destinazione, ora deve prendere una direzione che forma con nord un angolo di:
 >

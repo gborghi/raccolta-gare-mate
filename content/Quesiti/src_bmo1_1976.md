@@ -30,10 +30,10 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
-*Lunghezza d della retta più corta che dimezza l'area di un triangolo qualunque; esistenza di una linea (non retta) ancora più corta.*
+*Lunghezza d della retta più corta che dimezza l'area di un triangolo qualunque; esistenza di una retta (non retta) ancora più corta.*
 > Dimostrare che, per un triangolo arbitrariamente dato, la lunghezza $d$ della retta più corta che dimezza l'area del triangolo si esprime in funzione dell'area $A$ del triangolo e di uno dei suoi angoli.
 > 
-> Dimostrare che esiste una linea più corta (non retta) che dimezza l'area del triangolo dato.
+> Dimostrare che esiste una retta più corta (non retta) che dimezza l'area del triangolo dato.
 
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
@@ -208,7 +208,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percorso più breve su cono e sfera che incontra il cerchio a 45 gradi*
+*Percorso più breve su cono e sfera che incontra il cerchio a \1°*
 
 > Una sfera di centro $O$ e raggio $r$ è tagliata in un cerchio $K$ da un piano orizzontale distante $\frac{r}{2}$ sopra $O$. La parte della sfera sopra il piano viene rimossa e sostituita da un cono circolare retto avente $K$ come base e il suo vertice $V$ a distanza $2r$ verticalmente sopra $O$.
 >

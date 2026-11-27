@@ -268,7 +268,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bisettrici degli angoli e bisettrice esterna: dimostrare che l'angolo APM è uguale a 30 gradi*
+*Bisettrici degli angoli e bisettrice esterna: dimostrare che l'angolo APM è uguale a \1°*
 
 > La misura dell'angolo $B$ del triangolo $ABC$ è $120^\circ$. Sia $M$ un punto sul lato $AC$ e $K$ un punto sull'estensione del lato $AB$ oltre $B$, in modo che $BM$ sia la bisettrice interna dell'angolo $\angle ABC$ e $CK$ sia la bisettrice esterna corrispondente all'angolo $\angle ACB$. Il segmento $MK$ interseca $BC$ nel punto $P$. Dimostrare che $\angle APM = 30^\circ$.
 

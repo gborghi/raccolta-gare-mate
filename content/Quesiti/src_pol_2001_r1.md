@@ -225,7 +225,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo isoscele, D ed E sull'ipotenusa con angolo DAE di 45 gradi: BP + CQ = PQ*
+*Triangolo rettangolo isoscele, D ed E sull'ipotenusa con angolo DAE di \1°: BP + CQ = PQ*
 
 > I punti $D$ e $E$ giacciono sull'ipotenusa $BC$ di un triangolo rettangolo isoscele $ABC$, in modo che $\angle DAE = 45^\circ$. La circonferenza circoscritta al triangolo $ADE$ incontra di nuovo i lati $AB$ e $AC$ in $P$ e $Q$ rispettivamente. Dimostrare che $BP + CQ = PQ$.
 

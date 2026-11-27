@@ -127,7 +127,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo del cerchio volante con angolo di 90 gradi, proprietà della bisettrice dell'angolo*
+*Triangolo del cerchio volante con angolo di \1°, proprietà della bisettrice dell'angolo*
 
 > Sia $ABC$ un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Siano $D$ e $E$ dei punti sul segmento $BC$ tali che $BD : DE : EC = 1 : 2 : \sqrt{3}$. Dimostrare che $\angle DAE = 45^\circ$.
 

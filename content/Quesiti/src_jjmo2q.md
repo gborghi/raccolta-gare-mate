@@ -61,7 +61,7 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo: l'angolo B supera l'angolo C di 48 gradi*
+*Triangolo rettangolo: l'angolo B supera l'angolo C di \1°*
 
 > C'è un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Quando $\angle B$ è $48^\circ$ più grande di $\angle C$, trova $\angle B$.
 

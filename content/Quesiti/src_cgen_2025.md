@@ -96,9 +96,9 @@ level: Concours Général
 > 
 > Il piano è dotato di un sistema di coordinate ortonormali $(O, \vec{\imath}, \vec{\jmath})$. Per ogni punto $M$ del piano indichiamo le sue coordinate con $(x_M\,;\,y_M)$.
 > 
-> $\mathscr{P}$ sia la parabola dell'equazione $y = x^2$ e $\Delta$ la linea dell'equazione $y = -1$.
+> $\mathscr{P}$ sia la parabola dell'equazione $y = x^2$ e $\Delta$ la retta dell'equazione $y = -1$.
 > 
-> Per tutti i punti $A$ e $B$ di $\mathscr{P}$ in modo tale che $y_A \ne y_B$, indichiamo con $A \oplus B$ il punto di $\mathscr{P}$ la cui abcissa è quella del punto di intersezione della linea $(AB)$ con $\Delta$.
+> Per tutti i punti $A$ e $B$ di $\mathscr{P}$ in modo tale che $y_A \ne y_B$, indichiamo con $A \oplus B$ il punto di $\mathscr{P}$ la cui abcissa è quella del punto di intersezione della retta $(AB)$ con $\Delta$.
 > 
 > \textbf{Parte 1: proprietà di $\oplus$.}
 > 
@@ -114,21 +114,21 @@ level: Concours Général
 > 
 > Il punto $A$ deve essere $\mathscr{P}$. A questo si associa una sequenza di punti $(A_n)$ definiti da $A_0 = A$ e la relazione di ricorrenza: $$\text{for every integer } n \ge 0, \quad A_{n+1} = \begin{cases} A_n \oplus A_n, & \text{if } A_n \ne 0, \\ 0, & \text{otherwise.} \end{cases}$$ Per alleggerire la notazione, si impone $x_n = x_{A_n}$.
 > 
-> 4. Supponiamo, in questa domanda, che $A$ sia il punto delle coordinate $(3\,;\,9)$. a. Mostra che per ogni $n$ in $\mathbb{N}$, uno ha $x_n \ne 0$. b. Indicare che la sequenza $(x_n)$ non converge.
+> 4. Supponiamo, in questa domanda, che $A$ sia il punto delle coordinate $(3\,;\,9)$. a. Mostra che per ogni $n$ in $\mathbb{N}$, uno ha $x_n \ne 0$. b. Dimostrare che la sequenza $(x_n)$ non converge.
 > 
-> Si ricorda che, per ogni $x$ in $\mathbb{Q}^*$, esiste una coppia unica di integri $(a,b)$ come $b \ge 1$, $\mathrm{PGCD}(a,b) = 1$ e $x = \frac{a}{b}$. Uno poi indica con $H(x)$ il più grande degli enti $|a|$ e $|b|$, cioè $H(x) = \max(|a|, |b|)$. Ad esempio $H\!\left(\frac{-4}{3}\right) = 4$. Si è inoltre d'accordo che $H(0) = 1$.
+> Si ricorda che, per ogni $x$ in $\mathbb{Q}^*$, esiste una coppia unica di interi $(a,b)$ come $b \ge 1$, $\mathrm{PGCD}(a,b) = 1$ e $x = \frac{a}{b}$. Uno poi indica con $H(x)$ il più grande degli enti $|a|$ e $|b|$, cioè $H(x) = \max(|a|, |b|)$. Ad esempio $H\!\left(\frac{-4}{3}\right) = 4$. Si è inoltre d'accordo che $H(0) = 1$.
 > 
 > Per ogni punto $P$ della parabola $\mathscr{P}$ tale che $x_P$ appartenga a $\mathbb{Q}$, un insieme $$h(P) = \ln(H(x_P)).$$
 > 
 > 5. Mostra che per ogni $c$ in $\mathbb{N}^*$, l'insieme $E(c) = \{P \in \mathscr{P},\ x_P \in \mathbb{Q} \text{ and } h(P) \le c\}$ è finito.
 > 
-> 6. Let $(a,b) \in \mathbb{Z}^* \times \mathbb{N}^*$. Indicare che, se $\mathrm{PGCD}(a,b) = 1$, allora $\mathrm{PGCD}(a^2 - b^2,\, ab) = 1$.
+> 6. Sia $(a,b) \in \mathbb{Z}^* \times \mathbb{N}^*$. Dimostrare che, se $\mathrm{PGCD}(a,b) = 1$, allora $\mathrm{PGCD}(a^2 - b^2,\, ab) = 1$.
 > 
 > 7. Mostrare che esistono due valori reali $m$ e $M$ in modo tale che, per ogni punto $P$ della parabola $\mathscr{P}$ in modo tale che $x_P$ appartenga a $\mathbb{Q}^*$, uno abbia $$m + h(P\oplus P) \le 2h(P) \le h(P\oplus P) + M.$$
 > 
-> 8. Lasciate che $(u_n)$ sia una sequenza reale. Una serie $$v_0 = 0 \text{ and, for every integer } n \ge 1, \quad v_n = \sum_{k=0}^{n-1} |u_{k+1} - u_k|.$$ Si suppone che la sequenza $(v_n)$ sia delimitata sopra (majorée) e si desidera mostrare che la sequenza $(u_n)$ converge. a. Indicare che la sequenza $(v_n)$ converge. b. Mostrare che per ogni intero naturale $n$ ci sono $0 \le u_{n+1} - u_n + |u_{n+1} - u_n| \le 2|u_{n+1} - u_n|$. c. Riduzione che la sequenza $(u_n + v_n)$ converge. d. Conclusione.
+> 8. Lasciate che $(u_n)$ sia una sequenza reale. Una serie $$v_0 = 0 \text{ and, for every integer } n \ge 1, \quad v_n = \sum_{k=0}^{n-1} |u_{k+1} - u_k|.$$ Si suppone che la sequenza $(v_n)$ sia delimitata sopra (majorée) e si desidera mostrare che la sequenza $(u_n)$ converge. a. Dimostrare che la sequenza $(v_n)$ converge. b. Mostrare che per ogni intero naturale $n$ ci sono $0 \le u_{n+1} - u_n + |u_{n+1} - u_n| \le 2|u_{n+1} - u_n|$. c. Riduzione che la sequenza $(u_n + v_n)$ converge. d. Conclusione.
 > 
-> 9. Let $A$ essere nuovamente il punto delle coordinate $(3\,;\,9)$ e let $(A_n)$ essere la sequenza ricorrente associata a $A$. Per ogni intero naturale $n$, un insieme $t_n = \frac{h(A_n)}{2^n}$. Indicare che la sequenza $(t_n)$ converge.
+> 9. Sia $A$ essere nuovamente il punto delle coordinate $(3\,;\,9)$ e let $(A_n)$ essere la sequenza ricorrente associata a $A$. Per ogni intero naturale $n$, un insieme $t_n = \frac{h(A_n)}{2^n}$. Dimostrare che la sequenza $(t_n)$ converge.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_telescoping|Somme telescopiche]]
@@ -313,7 +313,7 @@ level: Concours Général
 > 
 > 1. Quali sono i reals $\alpha$ che verificano la proprietà $\mathscr{P}$ e che appartengono a. all'intervallo $[1\,;\,+\infty[$? b. all'intervallo $]-\infty\,;\,0]$?
 > 
-> 2. Che $\alpha$ sia un reale appartenente all'intervallo $]0\,;\,1[$ e $(u_n)$ la sequenza associata a esso; supponiamo, in questa domanda, che $\alpha$ verifichi la proprietà $\mathscr{P}$. a. Indicare che $0 < u_{n+1} \le u_n \le 1$ per ogni numero intero $n \ge 0$. b. Qual è il limite della sequenza $(u_n)$? c. Per ogni $n \ge 0$ reale, un set $x_n = \frac{u_{n+1}}{u_n^2}$. Esprimere $x_{n+1}$ in termini di $\alpha$ e di $x_n$. d. Indicare che la sequenza $(x_n)$ ammette un limite finito, che si denota $x_\infty$, ed esprimere $x_\infty^2(1 - x_\infty)$ in termini di $\alpha$. e. Riduzione di $\alpha \le \frac{4}{27}$.
+> 2. Sia $\alpha$ un reale appartenente all'intervallo $]0\,;\,1[$ e $(u_n)$ la sequenza associata a esso; supponiamo, in questa domanda, che $\alpha$ verifichi la proprietà $\mathscr{P}$. a. Dimostrare che $0 < u_{n+1} \le u_n \le 1$ per ogni numero intero $n \ge 0$. b. Qual è il limite della sequenza $(u_n)$? c. Per ogni $n \ge 0$ reale, un set $x_n = \frac{u_{n+1}}{u_n^2}$. Esprimere $x_{n+1}$ in termini di $\alpha$ e di $x_n$. d. Dimostrare che la sequenza $(x_n)$ ammette un limite finito, che si denota $x_\infty$, ed esprimere $x_\infty^2(1 - x_\infty)$ in termini di $\alpha$. e. Riduzione di $\alpha \le \frac{4}{27}$.
 > 
 > 3. Quali sono i reals $\alpha$ che verificano la proprietà $\mathscr{P}$?
 > 
@@ -325,9 +325,9 @@ level: Concours Général
 > 
 > 6. $\alpha$ sia un reale appartenente all'intervallo $\left[\frac{9}{7}\,;\,2\right]$ e $(u_n)$ la sequenza associata ad esso. a. Per ogni $x$ reale, un set $P(x) = \alpha x^3 - x - 1$ e $Q(x) = 8x^3 - 116 x^2 + 494 x - 441$. Mostra che $$P\!\left(\frac{11 - 2\alpha}{7}\right) = \frac{(2 - \alpha)\,Q(\alpha)}{7^3}.$$ b. Studiare le variazioni della funzione $x \mapsto P(x)$ sull'intervallo $[1\,;\,+\infty[$ e della funzione $x \mapsto Q(x)$ sull'intervallo $[1\,;\,2]$. c. Qual è il segno di $Q(\alpha)$? d. Confronta i reali $\frac{11 - 2\alpha}{7}$ e $-u_3$. e. Il vero $\alpha$ verifica la proprietà $\mathscr{B}$?
 > 
-> 7. $\alpha$ sia un reale appartenente all'intervallo $\left]1\,;\,\frac{9}{7}\right[$. Per ogni $x$ reale, un set $S_0(x) = x$, $S_1(x) = 1$, quindi $$S_{k+2}(x) = S_{k+1}(x)^2 - \alpha\, S_k(x)^4$$ per ogni numero intero $k \ge 0$. Uno \emph{admits} per il momento che esiste un reale $t(\alpha) > 1$ tale che $$1 < S_4(x) \le S_3(x)^2 \le t(\alpha)^2 S_4(x)$$ per ogni reale $x \in [1\,;\,t(\alpha)]$. a. $n \ge 0$ sia un numero intero tale che $1 \le u_{n+1} \le u_n^2 \le t(\alpha)^2 u_{n+1}$; un insieme $x_n = \sqrt{\dfrac{u_n^2}{u_{n+1}}}$. Indicare che $u_{n+k} = u_{n+1}^{2^{k-1}} S_k(x_n)$ per ogni numero intero $k \ge 1$. b. Il vero $\alpha$ verifica la proprietà $\mathscr{B}$?
+> 7. $\alpha$ sia un reale appartenente all'intervallo $\left]1\,;\,\frac{9}{7}\right[$. Per ogni $x$ reale, un set $S_0(x) = x$, $S_1(x) = 1$, quindi $$S_{k+2}(x) = S_{k+1}(x)^2 - \alpha\, S_k(x)^4$$ per ogni numero intero $k \ge 0$. Uno \emph{admits} per il momento che esiste un reale $t(\alpha) > 1$ tale che $$1 < S_4(x) \le S_3(x)^2 \le t(\alpha)^2 S_4(x)$$ per ogni reale $x \in [1\,;\,t(\alpha)]$. a. $n \ge 0$ sia un numero intero tale che $1 \le u_{n+1} \le u_n^2 \le t(\alpha)^2 u_{n+1}$; un insieme $x_n = \sqrt{\dfrac{u_n^2}{u_{n+1}}}$. Dimostrare che $u_{n+k} = u_{n+1}^{2^{k-1}} S_k(x_n)$ per ogni numero intero $k \ge 1$. b. Il vero $\alpha$ verifica la proprietà $\mathscr{B}$?
 > 
-> 8. Uno mostra ora che l'unico reale positivo $t(\alpha)$ tale che $t(\alpha)^4 = \dfrac{\alpha + 2}{3}$ verifica le ipotesi della domanda 7. a. Indicare che $S_4(x) \le S_3(x)^2$ per ogni reale $x$. b. Indicare che $0 < S_2(x)^2 \le \dfrac{7(\alpha - 1)}{12}$ per ogni reale $x \in [1\,;\,t(\alpha)]$. c. Indicare che $1 < S_4(x)$ per ogni reale $x \in [1\,;\,t(\alpha)]$. d. Indicare che $S_3(x)^2 \le \dfrac{2 + x^4}{3} S_4(x) \le x^2 S_4(x)$ quando $x = t(\alpha)$. e. Studiare le variazioni della funzione $x \mapsto \dfrac{S_4(x)}{S_3(x)^2}$ nell'intervallo $[1\,;\,t(\alpha)]$. f. Conclusione.
+> 8. Uno mostra ora che l'unico reale positivo $t(\alpha)$ tale che $t(\alpha)^4 = \dfrac{\alpha + 2}{3}$ verifica le ipotesi della domanda 7. a. Dimostrare che $S_4(x) \le S_3(x)^2$ per ogni reale $x$. b. Dimostrare che $0 < S_2(x)^2 \le \dfrac{7(\alpha - 1)}{12}$ per ogni reale $x \in [1\,;\,t(\alpha)]$. c. Dimostrare che $1 < S_4(x)$ per ogni reale $x \in [1\,;\,t(\alpha)]$. d. Dimostrare che $S_3(x)^2 \le \dfrac{2 + x^4}{3} S_4(x) \le x^2 S_4(x)$ quando $x = t(\alpha)$. e. Studiare le variazioni della funzione $x \mapsto \dfrac{S_4(x)}{S_3(x)^2}$ nell'intervallo $[1\,;\,t(\alpha)]$. f. Conclusione.
 > 
 > 9. Quali sono i reals $\alpha$ che verificano la proprietà $\mathscr{B}$?
 
@@ -445,7 +445,7 @@ level: Concours Général
 > 
 > 1. Propone una funzione continua che verifica la proprietà $\mathscr{E}$.
 > 
-> 2. Si ricorda che una funzione $g$ definita su $\mathbb{R}$ è periodica se esiste una $T > 0$ reale tale che $$\text{for every real } x,\quad g(x + T) = g(x).$$ $f$ sia una funzione che verifica $\mathscr{E}$. Indicare che $f$ è periodico.
+> 2. Si ricorda che una funzione $g$ definita su $\mathbb{R}$ è periodica se esiste una $T > 0$ reale tale che $$\text{for every real } x,\quad g(x + T) = g(x).$$ $f$ sia una funzione che verifica $\mathscr{E}$. Dimostrare che $f$ è periodico.
 > 
 > 3. Proporre un'infinità di funzioni continue $f$ che verificano $\mathscr{E}$ e che $f(0) = \frac{1}{2}$.
 

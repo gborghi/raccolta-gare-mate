@@ -80,7 +80,7 @@ level: Concours Général
 
 > Problema 1: i numeri primi in cima, gli esponenti in fondo.
 > 
-> Per ogni numero intero $n \ge 2$, si ha la fattorizzazione dei primi $$n = p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$$ dove i primi distinti $p_1, p_2, \ldots p_k$ sono i divisori primi di $n$, e gli esponenti $a_1, a_2, \ldots, a_k$ sono enti rigorosamente positivi. Uno impone quindi $$f(n) = a_1^{p_1} a_2^{p_2} \cdots a_k^{p_k}.$$ Ad esempio, se $n = 720 = 2^4 3^2 5^1$, allora $f(n) = 4^2 2^3 1^5 = 128$. Inoltre, $f(1) = 1$, poiché per $n = 1$ si ottiene una funzione vuota $f$, per $n \in \mathbb{N}^*$. Infine, per $n \in \mathbb{N}^*$ si definisce $f^i(n)$ per ricorrenza su $i \in \mathbb{N}$, in modo che $f^0(n) = n$ e $$f^{i+1}(n) = f\big(f^i(n)\big) \quad \text{for all } i \in \mathbb{N}.$$ Per esempio: $f^0(720) = 720$, $f^1(720) = f(720) = 128$, $f^2(720) = f(128) = 49.$
+> Per ogni numero intero $n \ge 2$, si ha la fattorizzazione dei primi $$n = p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$$ dove i primi distinti $p_1, p_2, \ldots p_k$ sono i divisori primi di $n$, e gli esponenti $a_1, a_2, \ldots, a_k$ sono enti strettamente positivi. Uno impone quindi $$f(n) = a_1^{p_1} a_2^{p_2} \cdots a_k^{p_k}.$$ Ad esempio, se $n = 720 = 2^4 3^2 5^1$, allora $f(n) = 4^2 2^3 1^5 = 128$. Inoltre, $f(1) = 1$, poiché per $n = 1$ si ottiene una funzione vuota $f$, per $n \in \mathbb{N}^*$. Infine, per $n \in \mathbb{N}^*$ si definisce $f^i(n)$ per ricorrenza su $i \in \mathbb{N}$, in modo che $f^0(n) = n$ e $$f^{i+1}(n) = f\big(f^i(n)\big) \quad \text{for all } i \in \mathbb{N}.$$ Per esempio: $f^0(720) = 720$, $f^1(720) = f(720) = 128$, $f^2(720) = f(128) = 49.$
 > 
 > Lo scopo di questo problema è quello di studiare il comportamento della funzione $f$ e delle sequenze $\big(f^i(n)\big)_{i \in \mathbb{N}}$ per $n$ fisso.
 > 
@@ -90,7 +90,7 @@ level: Concours Général
 > 
 > 3. Risolvere in $\mathbb{N}^*$: (a) l'equazione $f(n) = 1$; (b) l'equazione $f(n) = 2$; (c) l'equazione $f(n) = 4$.
 > 
-> 4. a) Per tutti gli integri $a \ge 2$ e $b \ge 0$, indicare che $ab \le a^b$. b) Che $k \in \mathbb{N}^*$ e $a_1, \ldots, a_k, b_1, \ldots, b_k$ siano integri tali che $a_i \ge 2$ e $b_i \ge 0$ per tutti $i$. Indicare che $$a_1 b_1 + a_2 b_2 + \cdots + a_k b_k \le a_1^{b_1} a_2^{b_2} \cdots a_k^{b_k}.$$ (c) Per tutti $n \in \mathbb{N}^*$, indicare che $f(f(n)) \le n$. (d) Let $n \in \mathbb{N}^*$. Mostrare che esiste un intero naturale $r$ tale che, per ogni intero $i \ge r$, si abbia $f^{i+2}(n) = f^i(n).$
+> 4. a) Per tutti gli interi $a \ge 2$ e $b \ge 0$, indicare che $ab \le a^b$. b) Siano $k \in \mathbb{N}^*$ e $a_1, \ldots, a_k, b_1, \ldots, b_k$ interi tali che $a_i \ge 2$ e $b_i \ge 0$ per tutti $i$. Dimostrare che $$a_1 b_1 + a_2 b_2 + \cdots + a_k b_k \le a_1^{b_1} a_2^{b_2} \cdots a_k^{b_k}.$$ (c) Per tutti $n \in \mathbb{N}^*$, indicare che $f(f(n)) \le n$. (d) Sia $n \in \mathbb{N}^*$. Mostrare che esiste un intero naturale $r$ tale che, per ogni intero $i \ge r$, si abbia $f^{i+2}(n) = f^i(n).$
 > 
 > 5. $E$ sia l'insieme di numeri interi $n \ge 2$ che hanno solo esponenti strettamente superiori a $1$ nella loro decomposizione in fattori primi. (a) Per ogni numero intero $a \ge 2$, indicare che esistono numeri interi naturali $\alpha$ e $\beta$ in modo tale che $a = 2\alpha + 3\beta.$ (b) dedurre da questo che se $n$ appartiene a $E$, allora esiste un elemento $m$ di $E$ in modo tale che $f(m) = n.$ (c) Indicare un elemento $m$ di $E$ in modo tale che $f(m) = 2012^{2012}.$ (d) Cosa si può dire dell'inverso di (b)?
 
@@ -174,7 +174,7 @@ level: Concours Général
 
 > Problema 2: una sequenza prevalentemente in diminuzione.
 > 
-> Che $(u_n)_{n \ge 0}$ sia una sequenza di numeri reali rigorosamente positivi in modo tale che $u_0 = 1$ e, per ogni numero intero $n \ge 1$, almeno la metà dei termini $u_0, u_1, \ldots, u_{n-1}$ siano superiori o uguali a $2u_n$. Indicare che $u_n$ tende a $0.$
+> Sia $(u_n)_{n \ge 0}$ una sequenza di numeri reali strettamente positivi in modo tale che $u_0 = 1$ e, per ogni numero intero $n \ge 1$, almeno la metà dei termini $u_0, u_1, \ldots, u_{n-1}$ siano superiori o uguali a $2u_n$. Dimostrare che $u_n$ tende a $0.$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
@@ -254,7 +254,7 @@ level: Concours Général
 > 
 > Ad esempio, se $n = 5$, un viaggio possibile è $1, 5, 2, 4, 3, 1.$ La distanza totale percorsa, chiamata lunghezza del viaggio, è pari a $12$ poiché in questo caso è uguale a $|5-1| + |2-5| + |4-2| + |3-4| + |1-3| = 12.$ Un altro viaggio possibile è $1, 3, 5, 4, 2, 1$, di lunghezza $8.$
 > 
-> 1. Quanti viaggi ci sono? 2. a) Indicare che ogni viaggio ha una lunghezza superiore o pari a $2(n-1)$. (b) Quanti viaggi di minima lunghezza ci sono? 3. a) Nel caso $n = 5$, determinare la lunghezza massima di un viaggio e fornire un esempio di un viaggio di lunghezza massima. b) Per un $n$ arbitrario, determinare la lunghezza massima di un viaggio. 4. Uno disegna un viaggio a caso (tutti i viaggi sono equiprobabili). Qual è il valore atteso della lunghezza del viaggio?
+> 1. Quanti viaggi ci sono? 2. a) Dimostrare che ogni viaggio ha una lunghezza superiore o pari a $2(n-1)$. (b) Quanti viaggi di minima lunghezza ci sono? 3. a) Nel caso $n = 5$, determinare la lunghezza massima di un viaggio e fornire un esempio di un viaggio di lunghezza massima. b) Per un $n$ arbitrario, determinare la lunghezza massima di un viaggio. 4. Uno disegna un viaggio a caso (tutti i viaggi sono equiprobabili). Qual è il valore atteso della lunghezza del viaggio?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]], [[method_estremalita|Principio di estremalita]], [[method_doppio_conteggio|Doppio conteggio]]

@@ -179,7 +179,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimo n per cui la somma degli angoli interni di un poligono è superiore a 2012 gradi*
+*Minimo n per cui la somma degli angoli interni di un poligono è superiore a \1°*
 
 > Qual è il valore minimo di $n$ per cui un poligono con $n$ lati ha la somma dei suoi angoli interni maggiore di $2012^\circ$?
 
@@ -224,7 +224,7 @@ level: OBM Nível 2
 
 *Conta i percorsi delle formiche da A a B sulla griglia, evitando quattro vertici interni*
 
-> Una formica deve percorrere le linee nere della figura sottostante dal vertice $A$ al vertice $B$. Sapendo che il vertice $B$ si trova a appena un quadrato in alto a destra rispetto al vertice $A$, e che la formica non può passare attraverso i vertici del piccolo quadrato interno, determina il numero di percorsi diversi che la formica può seguire.
+> Una formica deve percorrere le rette nere della figura sottostante dal vertice $A$ al vertice $B$. Sapendo che il vertice $B$ si trova a appena un quadrato in alto a destra rispetto al vertice $A$, e che la formica non può passare attraverso i vertici del piccolo quadrato interno, determina il numero di percorsi diversi che la formica può seguire.
 
 ![[src_obm_2012_n2_f2__Q05.png]]
 

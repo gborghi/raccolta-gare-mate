@@ -359,7 +359,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette punti sui lati di un triangolo, con sei angoli di 60 gradi: il primo e l'ultimo coincidono*
+*Sette punti sui lati di un triangolo, con sei angoli di \1°: il primo e l'ultimo coincidono*
 
 > I punti $P_1, P_2, P_3, P_4, P_5, P_6, P_7$ giacciono rispettivamente sui lati $BC$, $CA$, $AB$, $BC$, $CA$, $AB$, $BC$ di un triangolo $ABC$ e soddisfano
 >

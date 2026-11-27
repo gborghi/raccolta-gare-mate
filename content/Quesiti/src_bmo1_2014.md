@@ -190,7 +190,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una media pesata degli angoli sta fra 60 e 90 gradi*
+*Una media pesata degli angoli sta fra 60 e \1°*
 
 > Gli angoli $A$, $B$, $C$ di un triangolo sono misurati in gradi, e le lunghezze dei lati opposti sono rispettivamente $a$, $b$, $c$. Dimostrare che
 > $$60 \le \frac{aA + bB + cC}{a + b + c} < 90.$$

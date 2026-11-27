@@ -188,7 +188,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 *Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostrare T,X,Z collineare*
 
-> Due cerchi $C_1$ e $C_2$ sono tangenti esternamente in un punto $X$. Un tangente comune a entrambi i cerchi incontra $C_1$ a $Y$ e $C_2$ a $Z$ (con $Y \neq Z$). Il $T$ deve essere un punto tale che $[YT]$ abbia un diametro di $C_2$. Indicare che $T$, $X$ e $Z$ sono collineari.
+> Due cerchi $C_1$ e $C_2$ sono tangenti esternamente in un punto $X$. Un tangente comune a entrambi i cerchi incontra $C_1$ a $Y$ e $C_2$ a $Z$ (con $Y \neq Z$). Il $T$ deve essere un punto tale che $[YT]$ abbia un diametro di $C_2$. Dimostrare che $T$, $X$ e $Z$ sono collineari.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -375,7 +375,7 @@ Gioco: sostituire n a bordo; chi vince?
 
 *Minimum di numeri interi uguali a 1 in un elenco "jolie" di 100 numeri interi positivi*
 
-> Un elenco di numeri è chiamato *jolie* se è costituito da integri rigorosamente positivi in modo tale che la somma di questi integri sia pari al loro prodotto. Determinare il numero più piccolo di numeri interi uguali a 1 che una lista di 100 numeri può contenere.
+> Un elenco di numeri è chiamato *jolie* se è costituito da interi strettamente positivi in modo tale che la somma di questi interi sia pari al loro prodotto. Determinare il numero più piccolo di numeri interi uguali a 1 che una lista di 100 numeri può contenere.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]

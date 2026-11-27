@@ -159,7 +159,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Esistenza di 2n+1 interi naturali consecutivi per i quali la somma, la somma dei quadrati o la somma dei cubi dei primi n+1 termini uguaglia quella dei rimanenti.*
-> $n$ sia un dato numero intero rigorosamente positivo.
+> $n$ sia un dato numero intero strettamente positivo.
 > 
 > Esistono $2n+1$ numeri interi naturali consecutivi $a_0, a_1, \ldots, a_{2n}$, disposti in ordine crescente, che soddisfano: $$a_0 + a_1 + \cdots + a_n = a_{n+1} + \cdots + a_{2n}?$$
 > 

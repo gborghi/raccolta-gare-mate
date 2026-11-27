@@ -59,19 +59,19 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Prima parte: caratterizzazioni di un triangolo pseudo-rettangolo e luoghi nel piano complesso.*
-> Lasciate che $ABC$ sia un triangolo. Indicare con $P$ la proiezione ortogonale del punto $A$ sulla linea $(BC)$ e con $D$ il riflesso del punto $C$ sulla linea $(AP)$.
+> Lasciate che $ABC$ sia un triangolo. Indicare con $P$ la proiezione ortogonale del punto $A$ sulla retta $(BC)$ e con $D$ il riflesso del punto $C$ sulla retta $(AP)$.
 > 
 > Questo triangolo è detto di essere *pseudo-retangolo* a $A$ se $|\widehat{B} - \widehat{C}| = \dfrac{\pi}{2}$. Specifichiamo che è *pseudo rettangolo a $A$, obtuso a $B$* nel caso in cui $\widehat{B} - \widehat{C} = \dfrac{\pi}{2}$.
 > 
-> **1.** Indicare che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se il triangolo $ABD$ è rettangolo a $A$.
+> **1.** Dimostrare che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se il triangolo $ABD$ è rettangolo a $A$.
 > 
-> **2.** Indicare che $PA^2 = PB \cdot PC$ se e solo se il triangolo $ABC$ è rettangolare a $A$ o pseudo rettangolare a $A$.
+> **2.** Dimostrare che $PA^2 = PB \cdot PC$ se e solo se il triangolo $ABC$ è rettangolare a $A$ o pseudo rettangolare a $A$.
 > 
-> **3.** Indicare che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se il suo ortocentro è il riflesso del punto $A$ lungo la linea $(BC)$.
+> **3.** Dimostrare che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se il suo ortocentro è il riflesso del punto $A$ lungo la retta $(BC)$.
 > 
-> **4.** $R$ deve essere il raggio del cerchio circumscritto del triangolo $ABC$. Indicare che $PB + PC = 2R$ se e solo se $ABC$ è rettangolare a $A$ o pseudo rettangolare a $A$.
+> **4.** $R$ deve essere il raggio del cerchio circumscritto del triangolo $ABC$. Dimostrare che $PB + PC = 2R$ se e solo se $ABC$ è rettangolare a $A$ o pseudo rettangolare a $A$.
 > 
-> **5.** Mostra che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se la linea $(AP)$ è tangente al cerchio circoscritto al triangolo $ABC$.
+> **5.** Mostra che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se la retta $(AP)$ è tangente al cerchio circoscritto al triangolo $ABC$.
 > 
 > **6.** Nel piano complesso associato alla cornice ortonormale diretta $(O;\vec{\imath},\vec{\jmath})$, $\alpha$, $\beta$, $\gamma$ siano gli affissi dei punti non collineari $A$, $B$, $C$. a. Indicare una condizione necessaria e sufficiente su $\dfrac{(\alpha-\beta)(\alpha-\gamma)}{(\beta-\gamma)^2}$ affinché il triangolo $ABC$ sia pseudo rettangolo a $A$. b. Supponiamo $\beta = -\gamma = e^{i\frac{\pi}{4}}$. Determinare l'insieme $(E_1)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. c. Supponiamo $\beta = -\gamma = 1$. Determinare l'insieme $(E_2)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. d. Con quale semplice trasformazione geometrica si passa da $(E_2)$ a $(E_1)$?
 
@@ -169,17 +169,17 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Seconda parte: condizioni equivalenti per un triangolo pseudo-rettangolo, terne di lati razionali o interi e relative equazioni diofantee.*
-> In tutta questa parte, $a$, $b$, $c$ sono valori rigorosamente positivi.
+> In tutta questa parte, $a$, $b$, $c$ sono valori strettamente positivi.
 > 
-> **1. ** $(a,b,c)$ deve essere il triplo dei valori rigorosamente positivi. stabilire l'equivalenza delle seguenti condizioni: i. esiste un triangolo $ABC$ pseudo rettangolo a $A$ e un triangolo obtuso a $B$ in modo tale che $AB = c$, $BC = a$ e $CA = b$; $b^2 - c^2 = a\sqrt{b^2 + c^2}$; iii. esistono due valori reali $\rho > 0$ e $\theta$ con $0 < \theta < \dfrac{\pi}{4}$, quali $a = \rho\cos 2\theta$, $b = \rho\cos\theta$ e $c = \rho\sin\theta$.
+> **1. ** $(a,b,c)$ deve essere il triplo dei valori strettamente positivi. stabilire l'equivalenza delle seguenti condizioni: i. esiste un triangolo $ABC$ pseudo rettangolo a $A$ e un triangolo obtuso a $B$ in modo tale che $AB = c$, $BC = a$ e $CA = b$; $b^2 - c^2 = a\sqrt{b^2 + c^2}$; iii. esistono due valori reali $\rho > 0$ e $\theta$ con $0 < \theta < \dfrac{\pi}{4}$, quali $a = \rho\cos 2\theta$, $b = \rho\cos\theta$ e $c = \rho\sin\theta$.
 > 
 > Se queste condizioni sono soddisfatte, si dimostra che $\theta$ misura uno degli angoli del triangolo $ABC$. Come si può interpretare $\rho$ geometricamente?
 > 
-> **2.** $ABC$ sia un triangolo pseudo rettangolo a $A$, obtuso a $B$, le cui lunghezze laterali sono numeri razionali; $\rho$ e $\theta$ siano i due reali definiti a **1.iii.** In questa domanda si possono usare senza giustificazione le seguenti formule trigonometriche, valide per ogni reale $\varphi$ per il quale $\tan\varphi$ è definito: $$\cos 2\varphi = \frac{1 - \tan^2\varphi}{1 + \tan^2\varphi}, \qquad \sin 2\varphi = \frac{2\tan\varphi}{1 + \tan^2\varphi}.$$ a. Mostrare che $\rho$ è razionale e dedurre che $\tan\dfrac{\theta}{2}$ è razionale. $p$ e $q$ siano gli integri copriemi rigorosamente positivi, come $\tan\dfrac{\theta}{2} = \dfrac{p}{q}$. b. Verificare che $0 < p < q(\sqrt{2} - 1)$ e stabilire l'esistenza di un $r$ razionale strettamente positivo tale che: $$a = r\,(p^4 - 6p^2q^2 + q^4)$$ $$b = r\,(q^4 - p^4)$$ $$c = 2\,p\,q\,r\,(p^2 + q^2).$$
+> **2.** $ABC$ sia un triangolo pseudo rettangolo a $A$, obtuso a $B$, le cui lunghezze laterali sono numeri razionali; $\rho$ e $\theta$ siano i due reali definiti a **1.iii.** In questa domanda si possono usare senza giustificazione le seguenti formule trigonometriche, valide per ogni reale $\varphi$ per il quale $\tan\varphi$ è definito: $$\cos 2\varphi = \frac{1 - \tan^2\varphi}{1 + \tan^2\varphi}, \qquad \sin 2\varphi = \frac{2\tan\varphi}{1 + \tan^2\varphi}.$$ a. Mostrare che $\rho$ è razionale e dedurre che $\tan\dfrac{\theta}{2}$ è razionale. $p$ e $q$ siano gli interi copriemi strettamente positivi, come $\tan\dfrac{\theta}{2} = \dfrac{p}{q}$. b. Verificare che $0 < p < q(\sqrt{2} - 1)$ e stabilire l'esistenza di un $r$ razionale strettamente positivo tale che: $$a = r\,(p^4 - 6p^2q^2 + q^4)$$ $$b = r\,(q^4 - p^4)$$ $$c = 2\,p\,q\,r\,(p^2 + q^2).$$
 > 
 > **3.** Mostra invece che le formule di **2.b.** definiscono le lunghezze laterali di un triangolo pseudo rettangolo a $A$, obtuso a $B$, le cui lunghezze laterali sono razionali.
 > 
-> **4.** a. Che $p$ e $q$ siano due integri coprimi rigorosamente positivi. Determinare il più grande divisore comune dei tre integri $p^4 - 6p^2q^2 + q^4$, $q^4 - p^4$, $2pq(p^2 + q^2)$ (si discuterà in base alla parità di $p$ e $q$). b. Descrivere i triples di numeri interi $(a,b,c)$ in modo tale che esista un triangolo $ABC$, un pseudo rettangolo a $A$, obtuso a $B$, in modo tale che $AB = c$, $BC = a$ e $CA = b$.
+> **4.** a. Siano $p$ e $q$ due interi coprimi strettamente positivi. Determinare il più grande divisore comune dei tre interi $p^4 - 6p^2q^2 + q^4$, $q^4 - p^4$, $2pq(p^2 + q^2)$ (si discuterà in base alla parità di $p$ e $q$). b. Descrivere i triples di numeri interi $(a,b,c)$ in modo tale che esista un triangolo $ABC$, un pseudo rettangolo a $A$, obtuso a $B$, in modo tale che $AB = c$, $BC = a$ e $CA = b$.
 > 
 > **5.** Risolvi in $\mathbb{N}^*$ l'equazione $x^2\,(y^2 + z^2) = (y^2 - z^2)^2$.
 > 
@@ -280,7 +280,7 @@ level: Concours Général
 > 
 > L'obiettivo di questa domanda è quello di recuperare il risultato precedente utilizzando un metodo il cui principio risale senza dubbio a Fermat, poco dopo il 1658 ("De aequationum localium transmutatione et emendationone ad ultimodam curvilineorum inter se vel cum rectilineis comparationem, cui annectitur proportionis geometricae in quadrandis infinitis parabolis et hyperbolis usu", Oeuvres completa, volume I, pagine 225-285).
 > 
-> Che $n$ sia un intero naturale non zero e $u$ un reale positivo tale che $u^n = r + s$. Per ogni numero intero $k$ tra $1$ e $n$, si considera il trapezoide destro $T_k$ (possibilmente ridotto a triangolo) il cui lato oblico è il segmento con punti terminali i punti delle coordinate $(u^{k-1}, 0)$ e $(u^k, 0)$, le cui basi hanno pendenza $-1$, e uno dei cui angoli retti ha per vertice il punto di $\mathcal{H}$ con abscissa $\dfrac{u^{k-1} + u^{1-k}}{2}$. a. Si definisce così, per ogni valore di $k$, un trapezoide unico $T_k$ (ridotto a triangolo quando $k = 1$): illustrare con uno schizzo. b. Perché si può ipotizzare che la somma delle aree di questi trapeziosi ammetta $\dfrac{\mathcal{A} + s^2}{2}$ come limite quando $n$ tende all'infinito? c. Prove la conjectura precedente utilizzando un'altra sequenza di trapezoi combinata con la prima. d. Recuperare il valore di $\mathcal{A}$.
+> Sia $n$ un intero naturale non zero e $u$ un reale positivo tale che $u^n = r + s$. Per ogni numero intero $k$ tra $1$ e $n$, si considera il trapezoide destro $T_k$ (possibilmente ridotto a triangolo) il cui lato oblico è il segmento con punti terminali i punti delle coordinate $(u^{k-1}, 0)$ e $(u^k, 0)$, le cui basi hanno pendenza $-1$, e uno dei cui angoli retti ha per vertice il punto di $\mathcal{H}$ con abscissa $\dfrac{u^{k-1} + u^{1-k}}{2}$. a. Si definisce così, per ogni valore di $k$, un trapezoide unico $T_k$ (ridotto a triangolo quando $k = 1$): illustrare con uno schizzo. b. Perché si può ipotizzare che la somma delle aree di questi trapeziosi ammetta $\dfrac{\mathcal{A} + s^2}{2}$ come limite quando $n$ tende all'infinito? c. Prove la conjectura precedente utilizzando un'altra sequenza di trapezoi combinata con la prima. d. Recuperare il valore di $\mathcal{A}$.
 > 
 > **3.** $B$ e $C$ siano i punti delle rispettive coordinate $(1,0)$ e $(-1,0)$ e $A$ un punto delle coordinate $(x,y)$ con $x \ge 0$ e $y \ge 0$ in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. Indicare con $S$ la superficie del triangolo $ABC$ e con $S'$ la superficie della parte del piano costituita dai punti della piastra triangolare definiti dal triangolo $ABC$ le cui coordinate $(X,Y)$ soddisfano $Y^2 \le X^2 - 1$. Studiare il limite possibile, poiché $x$ tende all' infinito, del rapporto $\dfrac{S'}{S}$.
 
@@ -364,13 +364,13 @@ level: Concours Général
 *Quarta parte: costruzione tridimensionale di triangoli pseudo-rettangoli che danno la superficie x^2+y^2=z^2+1, e punti a coordinate intere su di essa.*
 > Questa parte si svolge nello spazio indicato in un quadro orthonormale diretto $(O;\vec{u},\vec{v},\vec{w})$ associato alle coordinate $(x,y,z)$.
 > 
-> Nel piano dell'equazione $z = 0$, $(C)$ sia il cerchio del centro $O$ e il raggio $1$, e $T$ e $P$ siano due punti distinti in modo tale che la linea $(TP)$ sia tangente al cerchio $(C)$ a $T$. Che $B$ e $C$ siano le intersezioni della linea $(OP)$ con il cerchio $(C)$, e che $(D)$ sia la linea perpendicolare al piano dell'equazione $z = 0$ che attraversa $P$.
+> Nel piano dell'equazione $z = 0$, $(C)$ sia il cerchio del centro $O$ e il raggio $1$, e $T$ e $P$ siano due punti distinti in modo tale che la retta $(TP)$ sia tangente al cerchio $(C)$ a $T$. Siano $B$ e $C$ le intersezioni della retta $(OP)$ con il cerchio $(C)$, e che $(D)$ sia la retta perpendicolare al piano dell'equazione $z = 0$ che attraversa $P$.
 > 
-> **1.** a. Indicare che esistono due punti $A$ e $A'$ appartenenti alla linea $(D)$ in modo tale che i triangoli $ABC$ e $A'BC$ siano pseudo rettangolari rispettivamente a $A$ e $A'$; fornire una semplice costruzione di questi due punti. b. Mostrare che le coordinate di questi due punti soddisfano l'uguaglianza $x^2 + y^2 = z^2 + 1$.
+> **1.** a. Dimostrare che esistono due punti $A$ e $A'$ appartenenti alla retta $(D)$ in modo tale che i triangoli $ABC$ e $A'BC$ siano pseudo rettangolari rispettivamente a $A$ e $A'$; fornire una semplice costruzione di questi due punti. b. Mostrare che le coordinate di questi due punti soddisfano l'uguaglianza $x^2 + y^2 = z^2 + 1$.
 > 
 > **2.** $(H)$ deve essere l'insieme dei punti $A$ e $A'$ in quanto $T$ e $P$ variano. a. Qual è l'intersezione dell'insieme $(H)$ con un piano ortogonale a $\vec{w}$? b. Qual è l'intersezione dell'insieme $(H)$ con un piano contenente la linea $(O;\vec{w})$? c. Mostra che l'insieme $(H)$ è contenuto in un'unione di linee che si specificherà.
 > 
-> **3.** Quest'ultima domanda riguarda i punti interi dell'insieme $(H)$, cioè gli elementi di $(H)$ le cui tre coordinate sono interi. a. Che $(x,y,z)$ sia il triplo delle coordinate di tale punto. Indicare che $x$ o $y$ è strano. Da ora in poi, indicare con $\mathcal{S}$ l'insieme di triples $(x,y,z)$ di enti interi naturali rigorosamente positivi in modo tale che $x$ sia impar e $x^2 + y^2 = z^2 + 1$. b. Che $d$ sia un numero intero rigorosamente positivo fisso. Prova che l'insieme di elementi $(x,y,z)$ di $\mathcal{S}$ in modo tale che $\gcd(x+1, y+z) = d$ sia vuoto se $d$ è pari, e un insieme infinito se $d$ è pari. c. Il $m$ deve essere un intero naturale parziale superiore o uguale a $3$. Quanti elementi $(x,y,z)$ di $\mathcal{S}$ sono tali da $x = m$? Determinare questi elementi quando $m = 3, 5, 7, 9$.
+> **3.** Quest'ultima domanda riguarda i punti interi dell'insieme $(H)$, cioè gli elementi di $(H)$ le cui tre coordinate sono interi. a. Sia $(x,y,z)$ il triplo delle coordinate di tale punto. Dimostrare che $x$ o $y$ è strano. Da ora in poi, indicare con $\mathcal{S}$ l'insieme di triples $(x,y,z)$ di interi naturali strettamente positivi in modo tale che $x$ sia impar e $x^2 + y^2 = z^2 + 1$. b. Sia $d$ un numero intero strettamente positivo fisso. Prova che l'insieme di elementi $(x,y,z)$ di $\mathcal{S}$ in modo tale che $\gcd(x+1, y+z) = d$ sia vuoto se $d$ è pari, e un insieme infinito se $d$ è pari. c. Il $m$ deve essere un intero naturale parziale superiore o uguale a $3$. Quanti elementi $(x,y,z)$ di $\mathcal{S}$ sono tali da $x = m$? Determinare questi elementi quando $m = 3, 5, 7, 9$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]

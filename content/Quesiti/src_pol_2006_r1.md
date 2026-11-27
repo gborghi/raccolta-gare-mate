@@ -333,7 +333,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero concavo con angolo in A maggiore di 180 gradi e AB·CD = AD·BC: il simmetrico di A rispetto a BD dà due angoli uguali*
+*Quadrilatero concavo con angolo in A maggiore di \1° e AB·CD = AD·BC: il simmetrico di A rispetto a BD dà due angoli uguali*
 
 > In un quadrilatero concavo $ABCD$ l'angolo interno in $A$ è maggiore di $180^\circ$, e $AB \cdot CD = AD \cdot BC$. Il punto $P$ è il simmetrico di $A$ rispetto a $BD$. Dimostrare che $\angle PCB = \angle ACD$.
 

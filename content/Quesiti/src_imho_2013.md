@@ -70,7 +70,7 @@ level: IMO
 
 > Una configurazione di $4027$ punti nel piano è detta colombiana se è costituita da $2013$ punti rossi e $2014$ punti blu, e nessun tre dei punti sono allineati. Tracciando alcune rette, il piano viene suddiviso in diverse regioni. Una disposizione di rette è buona per una configurazione colombiana se sono soddisfatte le seguenti due condizioni:
 > \begin{itemize}
-> \item nessuna linea passa per alcun punto della configurazione; \item nessuna regione contiene punti di entrambi i colori.
+> \item nessuna retta passa per alcun punto della configurazione; \item nessuna regione contiene punti di entrambi i colori.
 > \end{itemize}
 > Trovare il valore minimo di $k$ tale che, per qualsiasi configurazione colombiana di $4027$ punti, esista una disposizione buona di $k$ rette.
 

@@ -82,7 +82,7 @@ level: Concours Général
 > 
 > Se $n$ è un numero intero, chiamiamo il cubo di $n$ il numero intero $n^3$.
 > 
-> In questo problema consideriamo: - $S$, l'insieme di enti enti strettamente positivi che possono essere decomposti come una somma di cubi di enti interi strettamente positivi (i cubetti non essendo necessariamente distinti); - $S_d$, l'insieme di enti enti enti strettamente positivi che possono essere decomposti come una somma di cubetti di enti interi strettamente positivi distinti; - $S_i$, l'insieme di enti enti enti strettamente positivi che possono essere decomposti come una somma di cubetti di enti unici unici strettamente positivi distinti.
+> In questo problema consideriamo: - $S$, l'insieme di enti enti strettamente positivi che possono essere decomposti come una somma di cubi di interi strettamente positivi (i cubetti non essendo necessariamente distinti); - $S_d$, l'insieme di enti enti enti strettamente positivi che possono essere decomposti come una somma di cubetti di interi strettamente positivi distinti; - $S_i$, l'insieme di enti enti enti strettamente positivi che possono essere decomposti come una somma di cubetti di enti unici unici strettamente positivi distinti.
 > 
 > Ad esempio, $8$ e $190$ appartengono a $S$ dal momento che $8 = 2^3$ e $190 = 1^3 + 4^3 + 5^3$; $216$ e $1072$ appartengono a $S_d$ dal momento che $216 = 6^3$ e $1072 = 2^3 + 4^3 + 10^3$; $125$ e $2568$ appartengono a $S_i$ dal momento che $125 = 5^3$ e $2568 = 1^3 + 3^3 + 7^3 + 13^3$. L'obiettivo del problema è dimostrare che esistono progressioni aritmetiche sufficientemente grandi e arbitrariamente lunghe appartenenti a $S$.
 > 
@@ -90,15 +90,15 @@ level: Concours Général
 > 
 > - Sì, signore. a.} Mostra che per ogni numero intero $x$, abbiamo $(2x+1)^3 \le 2(2x-1)^3$.
 > 
-> \textbf{b.} Che $k$ sia un numero intero maggiore o uguale a $5$. Mostra, per ogni intero $p \ge k$, che $$(2p+1)^3 \le (2k-1)^3 + \sum_{j=k}^{p}(2j-1)^3,$$ dove ricordiamo che $\sum_{j=k}^{p}(2j-1)^3$ indica la somma $(2k-1)^3 + (2k+1)^3 + \cdots + (2p-1)^3$.
+> \textbf{b.} Sia $k$ un numero intero maggiore o uguale a $5$. Mostra, per ogni intero $p \ge k$, che $$(2p+1)^3 \le (2k-1)^3 + \sum_{j=k}^{p}(2j-1)^3,$$ dove ricordiamo che $\sum_{j=k}^{p}(2j-1)^3$ indica la somma $(2k-1)^3 + (2k+1)^3 + \cdots + (2p-1)^3$.
 > 
-> \textbf{3.} Indicare che esistono $288$ enti $x_1, \dots, x_{288}$ appartenenti a $S_i$ in modo tale che, per ogni $i$ in $\{1, \dots, 288\}$, $x_i \equiv i \pmod{288}$.
+> \textbf{3.} Dimostrare che esistono $288$ enti $x_1, \dots, x_{288}$ appartenenti a $S_i$ in modo tale che, per ogni $i$ in $\{1, \dots, 288\}$, $x_i \equiv i \pmod{288}$.
 > 
-> Nella suite del problema, risolviamo tali integri $x_1, \dots, x_{288}$ come $x_i \equiv i \pmod{288}$. Indichiamo con $m$ il più grande di questi interi e con $r$ il più piccolo dei numeri $r \cdot u_i$ in modo tale che [parzialmente illeggibile]. $$m = \max(x_1, x_2, \dots, x_{288}).$$
+> Nella suite del problema, risolviamo tali interi $x_1, \dots, x_{288}$ come $x_i \equiv i \pmod{288}$. Indichiamo con $m$ il più grande di questi interi e con $r$ il più piccolo dei numeri $r \cdot u_i$ in modo tale che [parzialmente illeggibile]. $$m = \max(x_1, x_2, \dots, x_{288}).$$
 > 
 > Ricordiamo che i valori $n$ reali $u_1, \dots, u_n$ si dice siano in progressione aritmetica della differenza comune $r$ se $u_{i+1} - u_i = r$ per ogni intero $i$ tale che $1 \le i < n$.
 > 
-> \textbf{4.} Che $n$ sia un intero tale che $288 n \ge m$, e che $u_1, \dots, u_n$ sia $n$ interi naturali nella progressione aritmetica della differenza comune $288$. Indicare che ogni numero intero dell'intervallo $[m + u_1, 288 m + u_1]$ può essere scritto sotto la forma $u_j + x_i$, con $1 \le i \le 288$ e $1 \le j \le n$.
+> \textbf{4.} Sia $n$ un intero tale che $288 n \ge m$, e che $u_1, \dots, u_n$ sia $n$ interi naturali nella progressione aritmetica della differenza comune $288$. Dimostrare che ogni numero intero dell'intervallo $[m + u_1, 288 m + u_1]$ può essere scritto sotto la forma $u_j + x_i$, con $1 \le i \le 288$ e $1 \le j \le n$.
 > 
 > \textbf{5.} Ammettiamo la relazione, per ogni reale $x$, $$(2x+12)^3 + (2x+4)^3 + (2x+2)^3 - (2x+10)^3 - (2x+6)^3 - (2x)^3 = 288.$$
 
@@ -205,13 +205,13 @@ level: Concours Général
 > 
 > Un osservatore situato all'origine si trova in una piantagione perfettamente regolare: tronchi di alberi dello stesso diametro crescono su ogni punto della rete del piano, tranne all'origine dove l'osservatore si trova; la loro altezza è tale che si può far guardare solo a livello del terreno. Lavoriamo in un sistema di coordinate ortonormali. L'osservatore si trova all'origine e gli alberi sono dischi dello stesso raggio $R > 0$, centrati nei punti della rete delle coordinate $(a, b)$, dove $a$ e $b$ superano i numeri interi relativi, con l'eccezione dell'origine. Vogliamo studiare se l'osservatore può vedere fuori dalla foresta.
 > 
-> Per ragioni di simmetria si può limitare al quadrato $x > 0$, $y > 0$. Diciamo quindi che l'osservatore vede la foresta attraverso questo quarto se esiste una mezza linea che emana dall'origine, contenuta nel piano del quarto considerato, che non incontra alcun disco.
+> Per ragioni di simmetria si può limitare al quadrato $x > 0$, $y > 0$. Diciamo quindi che l'osservatore vede la foresta attraverso questo quarto se esiste una mezza retta che emana dall'origine, contenuta nel piano del quarto considerato, che non incontra alcun disco.
 > 
 > Per ogni $m > 0$ reale, indicare con $\mathscr{D}_m$ la metà della linea definita dalle condizioni $y = mx$ e $x > 0$. Ad esempio, nella figura seguente, la metà linea $\mathscr{D}$ non incontra alcun disco, ma la metà linea $\mathscr{D}'$ incontra una.
 > 
-> In questo problema, ammettiamo che se $m$ è un reale rigorosamente positivo e se $\varepsilon$ è un reale rigorosamente positivo, allora esistono interi naturali $a$ e $b$ in modo tale che $|b - ma| \le \varepsilon$ [dichiarazione parzialmente illeggibile].
+> In questo problema, ammettiamo che se $m$ è un reale strettamente positivo e se $\varepsilon$ è un reale strettamente positivo, allora esistono interi naturali $a$ e $b$ in modo tale che $|b - ma| \le \varepsilon$ [dichiarazione parzialmente illeggibile].
 > 
-> \textbf{1.} Che $a$, $b$, $m$ siano rigorosamente positivi reali. Indicare che la semilinea $\mathscr{D}_m$ incontra il disco di raggio $R > 0$ incentrato su $(a, b)$ se e solo se $\dfrac{|b - ma|}{\sqrt{1 + m^2}} \le R$.
+> \textbf{1.} Siano $a$, $b$, $m$ strettamente positivi reali. Dimostrare che la semilinea $\mathscr{D}_m$ incontra il disco di raggio $R > 0$ incentrato su $(a, b)$ se e solo se $\dfrac{|b - ma|}{\sqrt{1 + m^2}} \le R$.
 > 
 > \textbf{2.} Deduci che se $m$ è irrazionale, allora $\mathscr{D}_m$ non incontra nessun albero.
 > 
@@ -223,7 +223,7 @@ level: Concours Général
 > 
 > \textbf{4.} Deduci che tutte le semiline $\mathscr{D}_m$, con $m > 0$, incontrino un albero se e solo se $R \ge \dfrac{1}{\sqrt{5}}$.
 > 
-> \textbf{5.} Supponiamo al contrario che $R \ge \dfrac{1}{\sqrt{5}}$. Indicare che qualsiasi semilinea $\mathscr{D}_m$, con $m > 0$, incontra un albero piantato a $(a, 1)$ o $(1, a)$, dove $a$ è un intero naturale.
+> \textbf{5.} Supponiamo al contrario che $R \ge \dfrac{1}{\sqrt{5}}$. Dimostrare che qualsiasi semilinea $\mathscr{D}_m$, con $m > 0$, incontra un albero piantato a $(a, 1)$ o $(1, a)$, dove $a$ è un intero naturale.
 > 
 > Chiamiamo la prima riga di alberi l'insieme di alberi piantati nei punti $(a, 1)$ o $(1, a)$, dove $a$ è un intero naturale strettamente positivo.
 > 
@@ -378,11 +378,11 @@ level: Concours Général
 > 
 > \textbf{2.} Mostra che $Z$ assume i valori $1$, $j$, $j^2$ e che $P(Z = 1) = P(Z = j) = P(Z = j^2)$.
 > 
-> Consideriamo un intero $n \ge 1$ e lanciamo il dado $n$ volte (lanci indipendenti). Indichiamo con $F_k$ il risultato del $k$-th lancio, per $k \in \{1, \dots, n\}$. $Z_k = j^{F_k}$ deve essere la variabile risultante al $k$-th throw, per $k \in \{1, \dots, n\}$, e impostare $S_n = Z_1 + \cdots + Z_n$ e $p_n = P(S_n = 0)$. Indichiamo con $U_n$ la variabile che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = 1$, con $V_n$ quella che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = j$, e con $W_n$ quella che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = j^2$.
+> Consideriamo un intero $n \ge 1$ e lanciamo il dado $n$ volte (lanci indipendenti). Indichiamo con $F_k$ il risultato del $k$-th lancio, per $k \in \{1, \dots, n\}$. $Z_k = j^{F_k}$ deve essere la variabile risultante al $k$-th throw, per $k \in \{1, \dots, n\}$, e impostare $S_n = Z_1 + \cdots + Z_n$ e $p_n = P(S_n = 0)$. Indichiamo con $U_n$ la variabile che dà il numero di interi $k \in \{1, \dots, n\}$ tale che $Z_k = 1$, con $V_n$ quella che dà il numero di interi $k \in \{1, \dots, n\}$ tale che $Z_k = j$, e con $W_n$ quella che dà il numero di interi $k \in \{1, \dots, n\}$ tale che $Z_k = j^2$.
 > 
 > - Sì, signore. a.} Determinare $U_n + V_n + W_n$.
 > 
-> \textbf{b.} Indicare che $S_n = (U_n - V_n) j^0 + (V_n - W_n) j$ [gruppo esatto parzialmente illeggibile; $S_n$ espresso attraverso le differenze $U_n - V_n$ e $V_n - W_n$].
+> \textbf{b.} Dimostrare che $S_n = (U_n - V_n) j^0 + (V_n - W_n) j$ [gruppo esatto parzialmente illeggibile; $S_n$ espresso attraverso le differenze $U_n - V_n$ e $V_n - W_n$].
 > 
 > \textbf{c.} Mostra che $S_n = 0$ se e solo se $U_n = V_n = W_n$.
 > 
@@ -402,7 +402,7 @@ level: Concours Général
 > 
 > \textbf{5.} Per ogni numero intero $m \ge 1$, mostrare che $\dfrac{m}{m+1} \le \dfrac{p_{3m+3}}{p_{3m}}$ e dedurre che $p_{3m} \ge \dfrac{p_3}{2m}$.
 > 
-> $X_n$ sia la variabile casuale che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $S_k = 0$.
+> $X_n$ sia la variabile casuale che dà il numero di interi $k \in \{1, \dots, n\}$ tale che $S_k = 0$.
 > 
 > - Sì, signore. a.} Determinare le variabili di Bernoulli $Y_k$, con $1 \le k \le n$, in modo tale che $X_n = Y_1 + \cdots + Y_n$.
 > 
@@ -410,9 +410,9 @@ level: Concours Général
 > 
 > Deduci questo $\lim_{n \to +\infty} E(X_n) = +\infty$.
 > 
-> - Sì, signore. a.} Indicare che $\dfrac{p_{3k+3}}{p_{3k}}$ converge verso un reale $q$ e che $q_k \le q \le 1$ per tutti $n$ [notazione parzialmente illeggibile].
+> - Sì, signore. a.} Dimostrare che $\dfrac{p_{3k+3}}{p_{3k}}$ converge verso un reale $q$ e che $q_k \le q \le 1$ per tutti $n$ [notazione parzialmente illeggibile].
 > 
-> \textbf{b.} Per $r$, $n$ integri naturali non zero, mostrare che $P(X_n \ge r) \le q^r$.
+> \textbf{b.} Per $r$, $n$ interi naturali non zero, mostrare che $P(X_n \ge r) \le q^r$.
 > 
 > \textbf{c.} Deduci, per ogni numero intero $n \ge 1$, che $E(X_n) \le q + q^2 + \cdots + q^n$.
 > 

@@ -76,7 +76,7 @@ level: OBM Nível Universitário
 
 *Dimostrare che una successione di integrali è crescente e divergente*
 
-> Let $f$ and $g$ be distinct continuous functions from $[0,1]$ to $(0,+\infty)$ such that $\int_0^1 f(x)\,dx = \int_0^1 g(x)\,dx$. For $n \ge 0$, define $$y_n = \int_0^1 \frac{f(x)^{n+1}}{g(x)^n}\,dx.$$ Prove that the sequence $(y_n)_{n \ge 0}$ is increasing and divergent.
+> Sia $f$ and $g$ be distinct continuous functions from $[0,1]$ to $(0,+\infty)$ tale che $\int_0^1 f(x)\,dx = \int_0^1 g(x)\,dx$. For $n \ge 0$, define $$y_n = \int_0^1 \frac{f(x)^{n+1}}{g(x)^n}\,dx.$$ Dimostrare che the sequence $(y_n)_{n \ge 0}$ is increasing and divergent.
 
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
@@ -123,7 +123,7 @@ level: OBM Nível Universitário
 
 *Trovare una permutazione che delimiti tutti i sommi parziali dei vettori entro sqrt(5)*
 
-> Let $v_1, v_2, \ldots, v_n$ be vectors in $\mathbb{R}^2$ such that $|v_i| \le 1$ for $1 \le i \le n$ and $\sum_{i=1}^n v_i = 0$. Prove that there exists a permutation $\sigma$ of $\{1, 2, \ldots, n\}$ such that $$\left|\sum_{j=1}^k v_{\sigma(j)}\right| \le \sqrt{5}$$ for every $k$ with $1 \le k \le n$. (Note: if $v = (x,y) \in \mathbb{R}^2$, then $|v| = \sqrt{x^2+y^2}$ denotes the Euclidean norm of $v$.)
+> Sia $v_1, v_2, \ldots, v_n$ be vectors in $\mathbb{R}^2$ tale che $|v_i| \le 1$ for $1 \le i \le n$ and $\sum_{i=1}^n v_i = 0$. Dimostrare che there exists a permutation $\sigma$ of $\{1, 2, \ldots, n\}$ tale che $$\left|\sum_{j=1}^k v_{\sigma(j)}\right| \le \sqrt{5}$$ for every $k$ with $1 \le k \le n$. (Note: if $v = (x,y) \in \mathbb{R}^2$, then $|v| = \sqrt{x^2+y^2}$ denotes the Euclidean norm of $v$.)
 
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
@@ -213,7 +213,7 @@ level: OBM Nível Universitário
 
 *Dimostrare che la somma di 1/n^n è uguale all'integrale di x^{-x}*
 
-> Prove that $$\sum_{n=1}^{\infty} \frac{1}{n^n} = \int_0^1 x^{-x}\,dx.$$
+> Dimostrare che $$\sum_{n=1}^{\infty} \frac{1}{n^n} = \int_0^1 x^{-x}\,dx.$$
 
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
@@ -258,7 +258,7 @@ level: OBM Nível Universitário
 
 *Dimostrazione dell'invertibilità della matrice dei coefficienti binomiali per due successioni di indici*
 
-> Prove that for any non-negative integers $0 \le i_1 < i_2 < \cdots < i_k$ and $0 \le j_1 < j_2 < \cdots < j_k$, the $k \times k$ matrix $A = (a_{rs})_{1 \le r,s \le k}$ defined by $$a_{rs} = \binom{i_r + j_s}{i_r} = \frac{(i_r + j_s)!}{i_r!\, j_s!}, \quad 1 \le r, s \le k,$$ is invertible.
+> Dimostrare che for any non-negative interi $0 \le i_1 < i_2 < \cdots < i_k$ and $0 \le j_1 < j_2 < \cdots < j_k$, the $k \times k$ matrix $A = (a_{rs})_{1 \le r,s \le k}$ defined by $$a_{rs} = \binom{i_r + j_s}{i_r} = \frac{(i_r + j_s)!}{i_r!\, j_s!}, \quad 1 \le r, s \le k,$$ is invertible.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]

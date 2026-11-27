@@ -184,7 +184,7 @@ level: Coupe Animath Printemps
 
 *Triangolo con due punti di lunghezza uguale sul lato più lungo, dimostrare un'identità angolare*
 
-> Si deve $ABC$ essere un triangolo in cui $BC > AB$ e $BC > AC$. Il punto $P$ deve essere il punto del segmento $[BC]$ in modo tale che $AB = BP$, e il punto $Q$ deve essere il punto del segmento $[BC]$ in modo tale che $AC = CQ$. Indicare che $$\widehat{BAC} + 2\widehat{PAQ} = 180^\circ.$$
+> Si deve $ABC$ essere un triangolo in cui $BC > AB$ e $BC > AC$. Il punto $P$ deve essere il punto del segmento $[BC]$ in modo tale che $AB = BP$, e il punto $Q$ deve essere il punto del segmento $[BC]$ in modo tale che $AC = CQ$. Dimostrare che $$\widehat{BAC} + 2\widehat{PAQ} = 180^\circ.$$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -573,7 +573,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo isoscele e due bisettrici: dimostrare un'uguaglianza tra angoli.*
-> $ABC$ sia un triangolo a uguale scala a $B$. Il punto di intersezione del bisettore dell'angolo $\widehat{BAC}$ con il segmento $[BC]$ è $D$. Il punto $E$ deve essere il punto del segmento $[AC]$ distinto da $C$ in modo tale che $DE = DC$. Il punto di intersezione del bisector dell'angolo $\widehat{AED}$ con il lato $[AB]$ è $F$. Mostra che $\widehat{AFE} = \widehat{EFD}$.
+> $ABC$ sia un triangolo a uguale scala a $B$. Il punto di intersezione del bisettrice dell'angolo $\widehat{BAC}$ con il segmento $[BC]$ è $D$. Il punto $E$ deve essere il punto del segmento $[AC]$ distinto da $C$ in modo tale che $DE = DC$. Il punto di intersezione del bisector dell'angolo $\widehat{AED}$ con il lato $[AB]$ è $F$. Mostra che $\widehat{AFE} = \widehat{EFD}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -663,11 +663,11 @@ level: Coupe Animath Printemps
 
 *Aumentare i numeri interi positivi con un'ipotesi di divisibilità; dimostrare due disuguaglianze*
 
-> $a_1 < \ldots < a_n$ siano numeri interi rigorosamente positivi. Supponiamo che per ogni coppia di integri $(i, j)$ che verifica $1 \le i < j \le n$, il numero $\dfrac{a_i}{a_j - a_i}$ sia un intero.
+> $a_1 < \ldots < a_n$ siano numeri interi strettamente positivi. Supponiamo che per ogni coppia di interi $(i, j)$ che verifica $1 \le i < j \le n$, il numero $\dfrac{a_i}{a_j - a_i}$ sia un intero.
 > 
-> 1) Indicare che per ogni numero intero $m$ verificando $1 \le m \le n-1$, $m\,a_{m+1} \le (m+1)\,a_m$.
+> 1) Dimostrare che per ogni numero intero $m$ verificando $1 \le m \le n-1$, $m\,a_{m+1} \le (m+1)\,a_m$.
 > 
-> 2) Indicare che se $i$ e $j$ sono numeri interi che verificano $1 \le i < j \le n$, allora $i\,a_j \le j\,a_i$.
+> 2) Dimostrare che se $i$ e $j$ sono numeri interi che verificano $1 \le i < j \le n$, allora $i\,a_j \le j\,a_i$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -721,11 +721,11 @@ level: Coupe Animath Printemps
 
 *Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato*
 
-> $n$ sia un intero rigorosamente positivo, $x_1, \ldots, x_{n+1}$ rigorosamente positivi reali e $p < q$ due interi rigorosamente positivi. Supponiamo che $$x_{n+1}^p > x_1^p + \ldots + x_n^p.$$
+> $n$ sia un intero strettamente positivo, $x_1, \ldots, x_{n+1}$ strettamente positivi reali e $p < q$ due interi strettamente positivi. Supponiamo che $$x_{n+1}^p > x_1^p + \ldots + x_n^p.$$
 > 
-> 1) Indicare che $x_{n+1}^q > x_1^q + \ldots + x_n^q$.
+> 1) Dimostrare che $x_{n+1}^q > x_1^q + \ldots + x_n^q$.
 > 
-> 2) Indicare che $$\left(x_{n+1}^p - (x_1^p + \ldots + x_n^p)\right)^q < \left(x_{n+1}^q - (x_1^q + \ldots + x_n^q)\right)^p.$$
+> 2) Dimostrare che $$\left(x_{n+1}^p - (x_1^p + \ldots + x_n^p)\right)^q < \left(x_{n+1}^q - (x_1^q + \ldots + x_n^q)\right)^p.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]]

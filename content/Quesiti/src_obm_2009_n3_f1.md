@@ -172,9 +172,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero A'B'C'D' ottenuto dalla rotazione di 25 gradi in senso orario di ABCD attorno al punto medio di AB; angolo acuto tra AC e B'D'.*
+*Quadrilatero A'B'C'D' ottenuto dalla rotazione di \1° in senso orario di ABCD attorno al punto medio di AB; angolo acuto tra AC e B'D'.*
 
-> Nella figura, il quadrato $A'B'C'D'$ è stato ottenuto ruotando in senso orario il quadrato $ABCD$ di $25$ gradi attorno al punto medio di $AB$. Qual è, in gradi, l'angolo acuto tra le rette $AC$ e $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
+> Nella figura, il quadrato $A'B'C'D'$ è stato ottenuto ruotando in senso orario il quadrato $ABCD$ di $25$° attorno al punto medio di $AB$. Qual è, in gradi, l'angolo acuto tra le rette $AC$ e $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
 
 ![[src_obm_2009_n3_f1__Q04.png]]
 
@@ -482,9 +482,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A partire da mezzogiorno, quando le lancette delle ore e dei minuti formano per la prima volta un angolo di 145 gradi?*
+*A partire da mezzogiorno, quando le lancette delle ore e dei minuti formano per la prima volta un angolo di \1°?*
 
-> L'orologio da parete indica inizialmente mezzogiorno. Le lancette delle ore e dei minuti formeranno un angolo di $145$ gradi per la prima volta: (A) tra le 12:00 e le 12:10. (B) tra le 12:10 e le 12:15. (C) tra le 12:15 e le 12:20. (D) tra le 12:20 e le 12:25. (E) dopo le 12:25.
+> L'orologio da parete indica inizialmente mezzogiorno. Le lancette delle ore e dei minuti formeranno un angolo di $145$° per la prima volta: (A) tra le 12:00 e le 12:10. (B) tra le 12:10 e le 12:15. (C) tra le 12:15 e le 12:20. (D) tra le 12:20 e le 12:25. (E) dopo le 12:25.
 
 ![[src_obm_2009_n3_f1__Q10.png]]
 
@@ -725,7 +725,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semicerchio sul diametro AB, centro O, con CD=BC e angolo BAD=72 gradi; determina l'angolo DEC.*
+*Semicerchio sul diametro AB, centro O, con CD=BC e angolo BAD=\1°; determina l'angolo DEC.*
 
 > Nella figura, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ è il diametro e $O$ è il centro del semicerchio. Determinare la misura dell'angolo $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
 

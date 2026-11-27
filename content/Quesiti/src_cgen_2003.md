@@ -37,9 +37,9 @@ level: Concours Général
 *Identità vettoriale, concorrenza delle altezze e caratterizzazione dell'ortocentro mediante il circocentro.*
 > Domande preliminari.
 > 
-> 1. Che $ABC$ sia un triangolo e $M$ un punto arbitrario del piano. Mostrare che: $$\overrightarrow{MA}\cdot\overrightarrow{BC}+\overrightarrow{MB}\cdot\overrightarrow{CA}+\overrightarrow{MC}\cdot\overrightarrow{AB}=0.$$ Deduzione che le tre altitudini del triangolo $ABC$ sono simultanee in un punto $H$ chiamato ortocentro del triangolo.
+> 1. Sia $ABC$ un triangolo e $M$ un punto arbitrario del piano. Mostrare che: $$\overrightarrow{MA}\cdot\overrightarrow{BC}+\overrightarrow{MB}\cdot\overrightarrow{CA}+\overrightarrow{MC}\cdot\overrightarrow{AB}=0.$$ Deduzione che le tre altitudini del triangolo $ABC$ sono simultanee in un punto $H$ chiamato ortocentro del triangolo.
 > 
-> 2. Il $ABC$ è un triangolo, il $\Omega$ è il centro del suo cerchio circoscritto e il $H$ è il punto tale che $\overrightarrow{\Omega H}=\overrightarrow{\Omega A}+\overrightarrow{\Omega B}+\overrightarrow{\Omega C}$. Indicare che $H$ è l'ortocentro del triangolo $ABC$.
+> 2. Il $ABC$ è un triangolo, il $\Omega$ è il centro del suo cerchio circoscritto e il $H$ è il punto tale che $\overrightarrow{\Omega H}=\overrightarrow{\Omega A}+\overrightarrow{\Omega B}+\overrightarrow{\Omega C}$. Dimostrare che $H$ è l'ortocentro del triangolo $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -107,9 +107,9 @@ level: Concours Général
 > 
 > 2. Determinare i sottogruppi ortocentrici con 4 elementi.
 > 
-> 3. $X$ sia un insieme di quattro punti su un cerchio e $Y=\mathcal{H}(X)$. a. Indicare che $Y$ viene ottenuto da $X$ con una semplice trasformazione. b. Determinare $\mathcal{H}(Y)$.
+> 3. $X$ sia un insieme di quattro punti su un cerchio e $Y=\mathcal{H}(X)$. a. Dimostrare che $Y$ viene ottenuto da $X$ con una semplice trasformazione. b. Determinare $\mathcal{H}(Y)$.
 > 
-> 4. a. Il $\Gamma$ deve essere un cerchio di raggio rigorosamente positivo; determinare $\mathcal{H}(\Gamma)$. b. Il disco $D$ deve avere un raggio rigorosamente positivo; determina il $\mathcal{H}(D)$.
+> 4. a. Il $\Gamma$ deve essere un cerchio di raggio strettamente positivo; determinare $\mathcal{H}(\Gamma)$. b. Il disco $D$ deve avere un raggio strettamente positivo; determina il $\mathcal{H}(D)$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalita]]
@@ -177,7 +177,7 @@ level: Concours Général
 
 > La seconda parte.
 > 
-> In questa parte, $R$ è un numero reale rigorosamente positivo, $n$ è un numero intero almeno uguale a $2$, e $X$ è l'insieme dei vertici $2n$ di un poligono regolare iscritto nel cerchio del centro $O$ e del raggio $R$. Considerate l'insieme $\mathcal{T}$ di triangoli le cui vertici appartengono a $X$. Si sceglie casualmente, con equiprobabilità, un elemento di $\mathcal{T}$.
+> In questa parte, $R$ è un numero reale strettamente positivo, $n$ è un numero intero almeno uguale a $2$, e $X$ è l'insieme dei vertici $2n$ di un poligono regolare iscritto nel cerchio del centro $O$ e del raggio $R$. Considerate l'insieme $\mathcal{T}$ di triangoli le cui vertici appartengono a $X$. Si sceglie casualmente, con equiprobabilità, un elemento di $\mathcal{T}$.
 > 
 > 1. Qual è la probabilità di scegliere un triangolo rettangolo?
 > 
@@ -253,7 +253,7 @@ level: Concours Général
 > 
 > 2. Si deve $X$ essere l'insieme ottenuto prendendo l'unione di una riga $\Delta$ e di un punto $M$ non appartenente a $\Delta$. Determinare $\mathcal{H}(X)$. Mostra che $\mathcal{H}(X)\cup X$ è un insieme ortocentrico.
 > 
-> 3. Il $X$ deve essere un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno tre punti di $(O,\vec{u})$ distinti da $O$. a. Indicare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse non zero dello stesso segno. b. Indicare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse rigorosamente positive.
+> 3. Il $X$ deve essere un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno tre punti di $(O,\vec{u})$ distinti da $O$. a. Dimostrare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse non zero dello stesso segno. b. Dimostrare che $X$ contiene almeno tre punti di $(O,\vec{u})$ con abscisse strettamente positive.
 > 
 > 4. a. Determinare le serie ortocentriche finite, contenenti al massimo cinque punti e contenute nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$. b. Il $X$ deve essere un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno sei punti. Mostrare che esistono due sequenze $(x_n)$ e $(x'_n)$ di numeri reali non zero in modo tale che, per ogni numero intero $n$, i punti delle coordinate $(x_n,0)$ e $(x'_n,0)$ appartengano a $X$, e in modo tale che: $$\lim_{n\to+\infty} x_n=+\infty,\qquad \lim_{n\to+\infty} x'_n=0.$$ Può essere finito un insieme ortocentrico contenuto nell'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$ e contenente almeno sei punti?
 
@@ -337,15 +337,15 @@ level: Concours Général
 > 
 > L'obiettivo di questa parte è la costruzione di notevoli set ortocentrici.
 > 
-> 1. Lasciate che $k$ sia un reale non-zero e lasciate che $Y$ sia l'iperbola dell'equazione $xy=k$. a. I punti $A$, $B$, $C$, $D$ siano quattro punti distinti di $Y$, con rispettive abscisse $a$, $b$, $c$ e $d$. Indicare che $\overrightarrow{AB}$ e $\overrightarrow{CD}$ sono ortogonali se e solo se $abcd=-k^2$. b. I punti $A$, $B$ e $C$ siano tre punti distinti di $Y$, con rispettive abscisse $a$, $b$ e $c$. Determinare l'ortocentro di $ABC$. c. Indicare che $Y$ è ortocentrico.
+> 1. Lasciate che $k$ sia un reale non-zero e lasciate che $Y$ sia l'iperbola dell'equazione $xy=k$. a. I punti $A$, $B$, $C$, $D$ siano quattro punti distinti di $Y$, con rispettive abscisse $a$, $b$, $c$ e $d$. Dimostrare che $\overrightarrow{AB}$ e $\overrightarrow{CD}$ sono ortogonali se e solo se $abcd=-k^2$. b. I punti $A$, $B$ e $C$ siano tre punti distinti di $Y$, con rispettive abscisse $a$, $b$ e $c$. Determinare l'ortocentro di $ABC$. c. Dimostrare che $Y$ è ortocentrico.
 > 
 > Nel complesso del resto della quarta parte si considera un intero relativo non zero $q$ e si indica con $X$ l'insieme dei punti dell'equazione $x^2+qxy-y^2=1$.
 > 
 > 2. a. Mostra che l'equazione $t^2-qt-1$ ha due radici reali distinte. Mostrate che queste radici sono irrazionali.
 > 
-> In tutto il resto della quarta parte, si indica con $r$ e $r'$ queste due radici e con $s$ la somiglianza definita dalla rappresentazione complessa $z\mapsto(1-ri)z$. b. Indicare che $s(X)$ è un iperbola, dell'equazione $xy=k$, dove $k$ è un numero reale da determinare. Deduci che $X$ è un insieme ortocentrico.
+> In tutto il resto della quarta parte, si indica con $r$ e $r'$ queste due radici e con $s$ la somiglianza definita dalla rappresentazione complessa $z\mapsto(1-ri)z$. b. Dimostrare che $s(X)$ è un iperbola, dell'equazione $xy=k$, dove $k$ è un numero reale da determinare. Deduci che $X$ è un insieme ortocentrico.
 > 
-> 3. $G$ sia l'insieme dei punti di $X$ con coordinate interi e $\Gamma$ l'insieme degli abscissi degli elementi di $s(G)$. a. Verificare che $\Gamma$ sia l'insieme dei numeri reali del modulo $x+ry$, dove $x$ e $y$ sono due integri tali da $(x+ry)(x+r'y)=1$. b. Indicare che $-1\in\Gamma$; indicare che $r^2\in\Gamma$. c. Indicare che il prodotto di due elementi di $\Gamma$ è un elemento di $\Gamma$ e che l'inverso di un elemento di $\Gamma$ è un elemento di $\Gamma$. Mostrare che $\Gamma$ possiede infiniti elementi.
+> 3. $G$ sia l'insieme dei punti di $X$ con coordinate interi e $\Gamma$ l'insieme degli abscissi degli elementi di $s(G)$. a. Verificare che $\Gamma$ sia l'insieme dei numeri reali del modulo $x+ry$, dove $x$ e $y$ sono due interi tali da $(x+ry)(x+r'y)=1$. b. Dimostrare che $-1\in\Gamma$; indicare che $r^2\in\Gamma$. c. Dimostrare che il prodotto di due elementi di $\Gamma$ è un elemento di $\Gamma$ e che l'inverso di un elemento di $\Gamma$ è un elemento di $\Gamma$. Mostrare che $\Gamma$ possiede infiniti elementi.
 > 
 > 4. Da quanto precede si deduce che l'insieme $G$ dei punti di coordinate interi di $X$ è un insieme ortocentrico infinito.
 
@@ -428,9 +428,9 @@ level: Concours Général
 > 
 > Uno ammette il seguente risultato: "Dati i quattro punti $A$, $B$, $C$ e $D$ del piano, esiste una similitudine $s$ tale che $s(A)$, $s(B)$, $s(C)$ e $s(D)$ appartengono tutti a $Y_1$, o altrimenti tutti appartengono a $Y_0$".
 > 
-> I punti $A_0$, $B_0$, $C_0$ e $D_0$ siano quattro punti, tre per tre non collineari e $X_0=\{A_0,B_0,C_0,D_0\}$. Uno definisce con ricorrenza $X_{n+1}=\mathcal{H}(X_n)$ per ogni intero naturale $n$. Si suppone che esista un intero rigorosamente positivo $n$ tale che $X_n=X_0$ e si denota con $m$ il numero intero più piccolo che abbia questa proprietà.
+> I punti $A_0$, $B_0$, $C_0$ e $D_0$ siano quattro punti, tre per tre non collineari e $X_0=\{A_0,B_0,C_0,D_0\}$. Uno definisce con ricorrenza $X_{n+1}=\mathcal{H}(X_n)$ per ogni intero naturale $n$. Si suppone che esista un intero strettamente positivo $n$ tale che $X_n=X_0$ e si denota con $m$ il numero intero più piccolo che abbia questa proprietà.
 > 
-> 1. Indicare che $m=1$ o $m=2$.
+> 1. Dimostrare che $m=1$ o $m=2$.
 > 
 > 2. Determinare le serie $X_0$ tali da $m=1$, poi quelle tali da $m=2$.
 

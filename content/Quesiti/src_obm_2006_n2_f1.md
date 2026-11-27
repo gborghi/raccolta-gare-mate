@@ -254,7 +254,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isoscele con angolo BAD=30 gradi; trovare l'angolo x*
+*Triangolo isoscele con angolo BAD=\1°; trovare l'angolo x*
 
 > Nella figura, $AB = AC$, $AE = AD$ e l'angolo $BAD = 30^\circ$. Poi l'angolo $x$ misura:
 >

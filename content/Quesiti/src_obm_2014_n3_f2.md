@@ -213,7 +213,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area massima dell'ombra di un parallelepipedo 3x4x6 sotto luce parallela a 45 gradi*
+*Area massima dell'ombra di un parallelepipedo 3x4x6 sotto luce parallela a \1°*
 
 > Una scatola di legno a forma di parallelepipedo rettangolo con dimensioni $3 \times 4 \times 6$ riposa sul pavimento con una delle sue facce completamente a contatto con il pavimento. Una sorgente luminosa emette raggi paralleli con un angolo di $45^\circ$ rispetto al pavimento. Considerando solo la luce proveniente da questa sorgente, qual è l'area massima possibile dell'ombra proiettata sul pavimento (senza includere l'area direttamente sotto la scatola)?
 

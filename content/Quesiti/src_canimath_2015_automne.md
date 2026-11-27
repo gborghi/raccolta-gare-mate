@@ -184,7 +184,7 @@ level: Coupe Animath Automne
 
 *Un intero positivo k sulla scheda può essere sostituito da a+b dove ab=k; a partire da n, determinare il numero più piccolo raggiungibile dopo numerose sostituzioni finite.*
 
-> Per ogni numero intero rigorosamente positivo $k$, se sulla lavagna è scritto $k$, si può cancellare e sostituirlo con il numero $a + b$, a condizione che $a$ e $b$ siano integri rigorosamente positivi come $ab = k$ (ad esempio, è possibile sostituire $20$ con $12$, poiché $12 = 2 + 10$ e $20 = 2 \times 10$).
+> Per ogni numero intero strettamente positivo $k$, se sulla lavagna è scritto $k$, si può cancellare e sostituirlo con il numero $a + b$, a condizione che $a$ e $b$ siano interi strettamente positivi come $ab = k$ (ad esempio, è possibile sostituire $20$ con $12$, poiché $12 = 2 + 10$ e $20 = 2 \times 10$).
 > 
 > Inizialmente, il numero intero $n > 0$ è scritto sulla lavagna. Determinare, secondo i valori di $n$, il numero più piccolo che sia possibile scrivere sulla lavagna dopo un numero finito di sostituzioni (possibilmente nessuna).
 

@@ -1129,7 +1129,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a tre cifre che rimangono validi quando la calcolatrice viene ruotata di 180 gradi*
+*Conta i numeri a tre cifre che rimangono validi quando la calcolatrice viene ruotata di \1°*
 
 > A Juquinha piace giocare con la sua calcolatrice. Le cifre sulla calcolatrice appaiono su un display a 7 segmenti. Ha definito i numeri chiamati \emph{invertiti interessanti} come numeri che, quando la calcolatrice viene ruotata $180^\circ$, mostrano comunque un numero valido (le cifre 0, 1, 2, 5, 6, 8, 9 rimangono valide dopo la rotazione; si noti che, ruotando $0\to 0$, $1\to 1$, $2\to 2$, $5\to 5$, $6\to 9$, $8\to 8$, $9\to 6$). Ad esempio, 25 ruotato dà 52, che è un numero valido. Ma 3 non è un invertito interessante perché, dopo la rotazione, si ottiene una forma che non è una cifra. Quanti numeri invertiti interessanti di tre cifre esistono? (Le sequenze con uno zero iniziale a sinistra non sono numeri validi.)
 >

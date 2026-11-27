@@ -61,7 +61,7 @@ level: RMO
 
 *Mostrare che la somma polinomiale non ammette soluzioni intere in a, b*
 
-> Show that $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ has no solutions in integers $a$, $b$.
+> Dimostrare che $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ has no solutions in interi $a$, $b$.
 
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
@@ -184,7 +184,7 @@ level: RMO
 
 *Dimostrazioni della disuguaglianza ciclica per numeri reali maggiori di 1*
 
-> Let $x, y, z$ be real numbers, each greater than $1$. Prove that $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
+> Sia $x, y, z$ be real numbers, each greater than $1$. Dimostrare che $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
 
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]

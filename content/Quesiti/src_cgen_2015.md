@@ -101,7 +101,7 @@ level: Concours Général
 > 
 > 4. Se $n = 3$, indicare che $C \le \frac{3}{2} I$.
 > 
-> 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
+> 5. Sia $n$ un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
@@ -206,19 +206,19 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Tetraedri: baricentri e mediane, sfera circoscritta, concorrenza delle altezze e condizione di ortocentricità espressa mediante i prodotti scalari dei vettori direzione degli spigoli.*
-> Problema 2: Tetraede.
+> Problema 2: tetraedro.
 > 
 > Chiamiamo i dati, nello spazio, di quattro punti non coplanari $A, B, C, D$ I \emph{edges} del tetraedro sono i segmenti $[AB]$, $[AC]$, $[AD]$, $[BC]$, $[BD]$, $[CD]$.
 > 
 > Nella domanda 3 e 3, $ABCD$ indica un tetraedro.
 > 
-> 1. a. Indicare che esiste un punto unico $G$ tale che $\overrightarrow{GA} + \overrightarrow{GB} + \overrightarrow{GC} + \overrightarrow{GD} = \vec{0}$. b. Indicare che $\overrightarrow{AG} = \frac{3}{4}\overrightarrow{AG_A}$, dove $G_A$ è il centroide del triangolo $BCD$. c. Chiamiamo \emph{median} emesso da $A$ la linea che unisce $A$ al centroide del triangolo $BCD$, e uno definisce analogamente gli altri tre mediani, emessi da $B$, da $C$ e da $D$. Indicare che i mediani sono simultanei al punto $G$.
+> 1. a. Dimostrare che esiste un punto unico $G$ tale che $\overrightarrow{GA} + \overrightarrow{GB} + \overrightarrow{GC} + \overrightarrow{GD} = \vec{0}$. b. Dimostrare che $\overrightarrow{AG} = \frac{3}{4}\overrightarrow{AG_A}$, dove $G_A$ è il centroide del triangolo $BCD$. c. Chiamiamo \emph{median} emesso da $A$ la retta che unisce $A$ al centroide del triangolo $BCD$, e uno definisce analogamente gli altri tre mediani, emessi da $B$, da $C$ e da $D$. Dimostrare che i mediani sono simultanei al punto $G$.
 > 
-> 2. Mostrare che esiste una sfera unica che passa attraverso $A, B, C, D$. Si chiama sfera circoscritta al tetraedro $ABCD$, e noi denotamo con $O$ il suo centro.
+> 2. Mostrare che esiste una sfera unica che passa per $A, B, C, D$. Si chiama sfera circoscritta al tetraedro $ABCD$, e noi denotamo con $O$ il suo centro.
 > 
-> 3. Chiamiamo \emph{altitude} emesso da $A$ la linea che passa attraverso $A$ e ortogonale al piano $BCD$. Si definiscono in modo analogo le altre tre altitudini, emesse da $B$, da $C$ e da $D$. Diciamo che un tetraedro di spazio è regolare se tutti i suoi bordi hanno la stessa lunghezza. a. È vero che le altitudini sono simultanee a $O$ se e solo se il tetraedro è regolare? b. Le altitudini sono necessariamente contemporanee? c. È vero che le altitudini sono simultanee a $G$ se e solo se il tetraedro è regolare?
+> 3. Chiamiamo \emph{altitude} emesso da $A$ la retta che passa per $A$ e ortogonale al piano $BCD$. Si definiscono in modo analogo le altre tre altitudini, emesse da $B$, da $C$ e da $D$. Diciamo che un tetraedro di spazio è regolare se tutti i suoi bordi hanno la stessa lunghezza. a. È vero che le altitudini sono simultanee a $O$ se e solo se il tetraedro è regolare? b. Le altitudini sono necessariamente contemporanee? c. È vero che le altitudini sono simultanee a $G$ se e solo se il tetraedro è regolare?
 > 
-> 4. In quanto segue, il prodotto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v} \cdot \vec{w}$. Le linee $\Delta_1, \ldots, \Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1 \le i \le 4$ si sceglie un vettore di direzione unitario $\vec{u}_i$ di $\Delta_i$ e, per $1 \le i, j \le 4$, un set $c_{ij} = \vec{u}_i \cdot \vec{u}_j$. a. Supponiamo che esista un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$. Mostrare che $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$. b. Al contrario, se $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \ne 0$, dimostrare che esiste un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$.
+> 4. In quanto segue, il prodotto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v} \cdot \vec{w}$. Le rette $\Delta_1, \ldots, \Delta_4$ devono essere quattro rette non coplanarie distinte, che sono simultanee in un punto $H$. Per $1 \le i \le 4$ si sceglie un vettore di direzione unitario $\vec{u}_i$ di $\Delta_i$ e, per $1 \le i, j \le 4$, un set $c_{ij} = \vec{u}_i \cdot \vec{u}_j$. a. Supponiamo che esista un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$. Mostrare che $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$. b. Al contrario, se $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \ne 0$, dimostrare che esiste un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -314,13 +314,13 @@ level: Concours Général
 > 
 > In questo problema, consideriamo le sequenze $(u_n)_{n \in \mathbb{N}^*} = (u_1, u_2, \ldots)$ con valori reali indicizzati dai numeri naturali non zero. Diciamo che $u_n$ è la media predittiva dei $n$ seguenti termini; la sequenza $(u_n)_{n \in \mathbb{N}^*}$ si dice sia di tipo $\mathcal{A}$ se, per ogni $n \in \mathbb{N}^*$: $$u_n = \frac{u_{n+1} + u_{n+2} + \cdots + u_{2n-1} + u_{2n}}{n}.$$
 > 
-> 1. Che $(u_n)_{n \in \mathbb{N}^*}$ sia una sequenza di tipo $\mathcal{A}$ e che $C$ sia un numero reale. La sequenza $(u_n - C)_{n \in \mathbb{N}^*}$ è di tipo $\mathcal{A}$?
+> 1. Sia $(u_n)_{n \in \mathbb{N}^*}$ una sequenza di tipo $\mathcal{A}$ e che $C$ sia un numero reale. La sequenza $(u_n - C)_{n \in \mathbb{N}^*}$ è di tipo $\mathcal{A}$?
 > 
-> 2. Indicare che ogni sequenza costante è di tipo $\mathcal{A}$.
+> 2. Dimostrare che ogni sequenza costante è di tipo $\mathcal{A}$.
 > 
 > 3. La sequenza $(u_n)_{n \in \mathbb{N}^*}$ deve essere di tipo $\mathcal{A}$. Supponiamo che esistano valori $a, b, c$ tali da $u_n = an^2 + bn + c$ per ogni $n \in \mathbb{N}^*$. Mostra che $a = b = 0$.
 > 
-> 4. L'obiettivo della presente domanda 4 è di dimostrare che nessuna sequenza del tipo $\mathcal{A}$ è limitata sopra o sotto, tranne quelle costanti. In questa domanda, supponiamo che $(u_n)_{n \in \mathbb{N}^*}$ sia una sequenza di tipo $\mathcal{A}$ con valori non negativi, e consideriamo un intero $r \in \mathbb{N}^*$. a. $p$ sia un numero intero tale che $p > r$. Mostrare che esistono numeri naturali non zero $q$ e $q'$ come $q < p \le q'$ e $2q\, u_{q'} \le u_r \le u_q$. Riduzione di $u_p \le 3 u_r$. b. Per tutti $p \in \mathbb{N}^*$, indicare che $u_p \le 3 u_r$. Dalle domande a, b, c e d si deduce che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ del tipo $\mathcal{A}$ è dilimitata sopra. c. Che $D$ sia un reale rigorosamente positivo e che $p \in \mathbb{N}^*$. Indicare che se $u_p > D$ non è un limite inferiore (minorante) della sequenza, così è la condizione appropriata. d. Deduzione che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ non sia limitata in basso. e. Conclusione.
+> 4. L'obiettivo della presente domanda 4 è di dimostrare che nessuna sequenza del tipo $\mathcal{A}$ è limitata sopra o sotto, tranne quelle costanti. In questa domanda, supponiamo che $(u_n)_{n \in \mathbb{N}^*}$ sia una sequenza di tipo $\mathcal{A}$ con valori non negativi, e consideriamo un intero $r \in \mathbb{N}^*$. a. $p$ sia un numero intero tale che $p > r$. Mostrare che esistono numeri naturali non zero $q$ e $q'$ come $q < p \le q'$ e $2q\, u_{q'} \le u_r \le u_q$. Riduzione di $u_p \le 3 u_r$. b. Per tutti $p \in \mathbb{N}^*$, indicare che $u_p \le 3 u_r$. Dalle domande a, b, c e d si deduce che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ del tipo $\mathcal{A}$ è dilimitata sopra. c. Sia $D$ un reale strettamente positivo e che $p \in \mathbb{N}^*$. Dimostrare che se $u_p > D$ non è un limite inferiore (minorante) della sequenza, così è la condizione appropriata. d. Deduzione che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ non sia limitata in basso. e. Conclusione.
 > 
 > 5. Esiste una sequenza limitata non costante del tipo $\mathcal{A}$?
 

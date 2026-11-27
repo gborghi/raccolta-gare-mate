@@ -156,7 +156,7 @@ level: RMO
 
 *Trovare tutte le terne che comprendono un numero primo e un'equazione reciproca*
 
-> Find all triples $(a, b, c)$ of positive integers such that $a$ is a prime, $1 \le a \le b \le c$, and $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
+> Determinare tutti triples $(a, b, c)$ of positive interi tale che $a$ is a prime, $1 \le a \le b \le c$, and $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
 
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
@@ -218,7 +218,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La potenza di un punto e i triangoli simili danno un angolo di 100 gradi*
+*La potenza di un punto e i triangoli simili danno un angolo di \1°*
 
 > Nella configurazione data, $O$, $E$, $X$ sono allineati, $A$, $B$, $C$, $D$ giacciono su una circonferenza, e i triangoli $OCX$ e $CEX$ sono simili, cosicché $XC/XO = XE/XC$, cioè $XC^2 = XO\cdot XE$; inoltre $XC^2 = XB\cdot XA$, quindi $XB\cdot XA = XE\cdot XO$ e così $O$, $A$, $B$, $E$ sono conciclici. Dato $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, si dimostri che $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
 
@@ -251,7 +251,7 @@ level: RMO
 
 *Dimostrare una disuguaglianza per due frazioni sotto un vincolo di reciprocità*
 
-> Let $x = 2a$, $y = 2b$, $z = 2c$ with $a, b, c > 1$ satisfying $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Prove that $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
+> Sia $x = 2a$, $y = 2b$, $z = 2c$ with $a, b, c > 1$ satisfying $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Dimostrare che $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
 
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]

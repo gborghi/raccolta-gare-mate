@@ -81,7 +81,7 @@ level: Coupe Animath Printemps
 
 *Ricerca angolo PXQ nel rettangolo utilizzando due condizioni angolari*
 
-> Il $ABCD$ deve essere un rettangolo con $AB > AD$. Che $P$ sia il punto della metà $(DA)$ in modo tale che $\widehat{DCP} = 30^\circ$, e che $Q$ sia il punto del segmento $[CD]$ in modo tale che $\widehat{DAQ} = 45^\circ$. Il $X$ deve essere l'intersezione del bisettore angolare di $\angle AQC$ con la linea $(CP)$.
+> Il $ABCD$ deve essere un rettangolo con $AB > AD$. Sia $P$ il punto della metà $(DA)$ in modo tale che $\widehat{DCP} = 30^\circ$, e che $Q$ sia il punto del segmento $[CD]$ in modo tale che $\widehat{DAQ} = 45^\circ$. Il $X$ deve essere l'intersezione del bisettrice angolare di $\angle AQC$ con la retta $(CP)$.
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
 
@@ -181,7 +181,7 @@ level: Coupe Animath Printemps
 
 > $a_1, a_2, a_3, a_4, a_5$ siano cinque numeri interi positivi distinti. Lasciate che $b_1, b_2, b_3, b_4, b_5$ siano gli stessi cinque numeri interi scritti in qualche ordine (possibilmente lo stesso ordine, possibilmente un altro).
 > 
-> Indicare che il prodotto $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$ è pari.
+> Dimostrare che il prodotto $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$ è pari.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_cassetti|Principio dei cassetti]]
@@ -229,7 +229,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Con l'incentro e due cerchi di raggio uguale, dimostrare che PY=QX.*
-> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. La linea parallela a $(BI)$ che passa attraverso $C$ incontra la linea $(CI)$ a $Q$. La linea parallela a $(CI)$ che passa attraverso $B$ incontra la linea $(BI)$ a $P$. Il segmento $[PQ]$ incontra il cerchio con il centro $P$ che attraversa $B$ a $X$, e il cerchio con il centro $Q$ che attraversa $C$ a $Y$.
+> Sia $ABC$ un triangolo e $I$ il centro del suo cerchio inscritto. La retta parallela a $(BI)$ che passa per $C$ incontra la retta $(CI)$ a $Q$. La retta parallela a $(CI)$ che passa per $B$ incontra la retta $(BI)$ a $P$. Il segmento $[PQ]$ incontra il cerchio con il centro $P$ che attraversa $B$ a $X$, e il cerchio con il centro $Q$ che attraversa $C$ a $Y$.
 > 
 > Mostra che $PY = QX$.
 
@@ -277,7 +277,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Punti allineati a due a due a distanza intera: dimostrare una parità sulle distanze, e una proprietà della somma delle distanze da un punto agli altri.*
-> $n \geq 1$ sia un numero intero. Rémi ha scelto $2n+1$ collineare, punti separati in coppia in modo che tutte le distanze in coppia tra questi punti siano interi. Elsa osserva che, per qualsiasi punto sceglie tra i punti $2n+1$, quando calcola le distanze $2n$ da quel punto a ciascuno degli altri punti $2n$, ottiene un numero pari di distanze odd.
+> $n \geq 1$ sia un numero intero. Rémi ha scelto $2n+1$ collineare, punti separati in coppia in modo che tutte le distanze in coppia tra questi punti siano interi. Elsa osserva che, per qualsiasi punto sceglie tra i punti $2n+1$, quando calcola le distanze $2n$ da quel punto a ciascuno degli altri punti $2n$, ottiene un numero pari di distanze dispari.
 > 
 > Mostrare che tutte le distanze in coppia tra questi punti $2n+1$ sono numeri interi.
 
@@ -327,7 +327,7 @@ level: Coupe Animath Printemps
 
 *Maximi valori distinti a bordo secondo una condizione di divisibilità 2025-2027*
 
-> Su una lavagna sono scritti 2027 enti rigorosamente positivi, non necessariamente distinti. Qualunque numero 2025 si scelga tra questi numeri 2027, ciascuno dei due numeri rimanenti divide la somma dei numeri 2025 scelti.
+> Su una lavagna sono scritti 2027 enti strettamente positivi, non necessariamente distinti. Qualunque numero 2025 si scelga tra questi numeri 2027, ciascuno dei due numeri rimanenti divide la somma dei numeri 2025 scelti.
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
 
@@ -425,7 +425,7 @@ level: Coupe Animath Printemps
 
 *Ricerca angolo PXQ nel rettangolo utilizzando due condizioni angolari (liceo)*
 
-> Il $ABCD$ deve essere un rettangolo con $AB > AD$. Che $P$ sia il punto della semilinea $(DA)$ in modo tale che $\widehat{DCP} = 30^\circ$, e che $Q$ sia il punto del segmento $[CD]$ in modo tale che $\widehat{DAQ} = 45^\circ$. Il $X$ deve essere l'intersezione del bisettore angolare di $\angle AQC$ con la linea $(CP)$.
+> Il $ABCD$ deve essere un rettangolo con $AB > AD$. Sia $P$ il punto della semilinea $(DA)$ in modo tale che $\widehat{DCP} = 30^\circ$, e che $Q$ sia il punto del segmento $[CD]$ in modo tale che $\widehat{DAQ} = 45^\circ$. Il $X$ deve essere l'intersezione del bisettrice angolare di $\angle AQC$ con la retta $(CP)$.
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
 
@@ -525,7 +525,7 @@ level: Coupe Animath Printemps
 *In un triangolo isoscele ABC, dimostrare che la semiretta PM è la bisettrice dell'angolo NPB.*
 > $ABC$ sia un triangolo a uguale scala a $A$. Il segmento $M$ e il segmento $N$ sono rispettivamente i punti di mezzo dei segmenti $[BC]$ e $[AC]$, e il segmento $P$ è il piede dell'altitudine da $C$ nel triangolo $ABC$.
 > 
-> Indicare che $[PM]$ è il bisettore angolare di $\angle NPB$.
+> Dimostrare che $[PM]$ è il bisettrice angolare di $\angle NPB$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -571,7 +571,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Determinare tutti gli interi n≥2 per i quali esistono due insiemi di somme cicliche che coprono ciascuno n interi consecutivi.*
-> Determinare tutti gli enti rigorosamente positivi $n \geq 2$ per i quali esistono enti rigorosamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ integri consecutivi.
+> Determinare tutti gli enti strettamente positivi $n \geq 2$ per i quali esistono enti strettamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ interi consecutivi.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -619,7 +619,7 @@ level: Coupe Animath Printemps
 
 *Maximi valori distinti a bordo in base alla condizione di divisibilità 2023-2025*
 
-> Su una lavagna sono scritti 2025 numeri interi rigorosamente positivi, non necessariamente distinti. Qualunque numero 2023 si scelga tra questi numeri 2025, ciascuno dei due numeri rimanenti divide la somma dei numeri scelti 2023.
+> Su una lavagna sono scritti 2025 numeri interi strettamente positivi, non necessariamente distinti. Qualunque numero 2023 si scelga tra questi numeri 2025, ciascuno dei due numeri rimanenti divide la somma dei numeri scelti 2023.
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
 
@@ -729,7 +729,7 @@ level: Coupe Animath Printemps
 
 *Min spioni sulla griglia 2025x2025 per identificare eventuali sub-quadrati 1025x1025*
 
-> Martin colloca gli spioni in alcune cellule di una griglia $2025 \times 2025$ (che ha cellule $2025^2$). Aurélien sceglie un quadrato $1025 \times 1025$ all'interno della griglia (composto da cellule $1025^2$) e dice a Martin esattamente quali spie sono nella quadrata che ha scelto.
+> Martin colloca gli spioni in alcune caselle di una griglia $2025 \times 2025$ (che ha caselle $2025^2$). Aurélien sceglie un quadrato $1025 \times 1025$ all'interno della griglia (composto da caselle $1025^2$) e dice a Martin esattamente quali spie sono nella quadrata che ha scelto.
 > 
 > Qual è il numero minimo di spie che Martin deve mettere per poter sempre determinare quale quadrato Aurélien ha scelto?
 

@@ -32,7 +32,7 @@ level: Purple Comet Middle School
 
 *Esagono con un angolo retto*
 
-> Un angolo di un esagono misura $90^\circ$. Gli altri angoli misurano tutti $x$ gradi. Determinare $x$.
+> Un angolo di un esagono misura $90^\circ$. Gli altri angoli misurano tutti $x$°. Determinare $x$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]

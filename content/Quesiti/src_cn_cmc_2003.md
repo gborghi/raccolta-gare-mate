@@ -113,7 +113,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una retta inclinata di 60 gradi e passante per il fuoco di una parabola la interseca nei punti A e B; determina il segmento PF a partire dalla mediatrice di AB.*
+*Una retta inclinata di \1° e passante per il fuoco di una parabola la interseca nei punti A e B; determina il segmento PF a partire dalla mediatrice di AB.*
 
 > Si tracci una retta avente angolo di inclinazione $60^\circ$ passante per il fuoco $F$ della parabola $y^2 = 8(x+2)$. Se i due punti di intersezione della retta e della parabola sono $A$ e $B$, e la mediatrice della corda $AB$ interseca l'asse $x$ nel punto $P$, allora la lunghezza del segmento $PF$ è ( ).
 >

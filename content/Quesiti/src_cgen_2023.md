@@ -56,15 +56,15 @@ level: Concours Général
 > 
 > 1. Indicare i valori di $u_1$, $u_2$, $u_3$, $u_4$ e $u_5$.
 > 
-> 2. Mostrare che per ogni intero $n \ge 1$, si ha $r(n) = 0$ se e solo se $n$ è odd, e (se $n$ è pari) $r(n) = r\!\left(\frac{n}{2}\right) + 1$.
+> 2. Mostrare che per ogni intero $n \ge 1$, si ha $r(n) = 0$ se e solo se $n$ è dispari, e (se $n$ è pari) $r(n) = r\!\left(\frac{n}{2}\right) + 1$.
 > 
 > 3. Determinare i valori più piccoli di $n$ per i quali $u_n = 4$.
 > 
-> 4. Mostra che per ogni numero intero $n \ge 1$ per il quale $u_n \ne 0$, il termine $u_n$ è un numero razionale rigorosamente positivo.
+> 4. Mostra che per ogni numero intero $n \ge 1$ per il quale $u_n \ne 0$, il termine $u_n$ è un numero razionale strettamente positivo.
 > 
-> 5. Mostrare che ogni numero razionale rigorosamente positivo è uguale a qualche termine $u_n$ della sequenza.
+> 5. Mostrare che ogni numero razionale strettamente positivo è uguale a qualche termine $u_n$ della sequenza.
 > 
-> 6. Mostrare che ogni numero razionale rigorosamente positivo è uguale a un termine unico $u_n$ della sequenza.
+> 6. Mostrare che ogni numero razionale strettamente positivo è uguale a un termine unico $u_n$ della sequenza.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_bigezione|Bigezione / corrispondenza]]
@@ -238,11 +238,11 @@ level: Concours Général
 > 
 > 2.1 Alcuni esempi.
 > 
-> 1. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $x$) $$x^2 + \frac{1}{n}x - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $x_n$ ed esprimere $x_n$ come funzione di $n$. b. Indicare che la sequenza $(x_n)_{n \ge 1}$ converge e calcolare il suo limite. c. Indicare che il limite trovato è una soluzione dell'equazione $x^2 - 1 = 0$.
+> 1. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $x$) $$x^2 + \frac{1}{n}x - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $x_n$ ed esprimere $x_n$ come funzione di $n$. b. Dimostrare che la sequenza $(x_n)_{n \ge 1}$ converge e calcolare il suo limite. c. Dimostrare che il limite trovato è una soluzione dell'equazione $x^2 - 1 = 0$.
 > 
-> 2. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $y$) $$\frac{1}{n}y^2 - y - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $y_n$. b. Indicare che la sequenza $(y_n)_{n \ge 1}$ diverge.
+> 2. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $y$) $$\frac{1}{n}y^2 - y - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $y_n$. b. Dimostrare che la sequenza $(y_n)_{n \ge 1}$ diverge.
 > 
-> 3. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $z$) $$z^3 + \frac{1}{n}z - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $z_n$. b. i. Studiare le variazioni della funzione $z \mapsto z^3 + \frac{1}{n}z - 1$ nell'intervallo $[0, +\infty)$. ii. Deduzione che l'equazione ammetta una soluzione reale strettamente positiva unica, situata nell'intervallo $[0, 1]$. c. Indicare che la sequenza $(z_n)_{n \ge 1}$ converge. d. Indicare che il limite $z_\infty$ della sequenza $(z_n)_{n \ge 1}$ è una soluzione dell'equazione $z^3 - 1 = 0$.
+> 3. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $z$) $$z^3 + \frac{1}{n}z - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $z_n$. b. i. Studiare le variazioni della funzione $z \mapsto z^3 + \frac{1}{n}z - 1$ nell'intervallo $[0, +\infty)$. ii. Deduzione che l'equazione ammetta una soluzione reale strettamente positiva unica, situata nell'intervallo $[0, 1]$. c. Dimostrare che la sequenza $(z_n)_{n \ge 1}$ converge. d. Dimostrare che il limite $z_\infty$ della sequenza $(z_n)_{n \ge 1}$ è una soluzione dell'equazione $z^3 - 1 = 0$.
 > 
 > 4. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $t$) $$\frac{1}{n}t^3 - t^2 - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $t_n$. b. La sequenza $(t_n)_{n \ge 1}$ è convergente? Se sì, qual è il suo limite?
 > 
@@ -264,13 +264,13 @@ level: Concours Général
 > 
 > Da ora in poi, consideriamo i polinomi veramente simpatetici $P_1, P_2, \dots$ di grado al massimo $d$. Si scrive ogni polinomio $P_n$ nella forma $$P_n : x \mapsto a_{d,n} x^d + a_{d-1,n} x^{d-1} + \cdots + a_{1,n} x + a_{0,n}.$$ Si suppone inoltre che, per ogni numero intero $k$ con $0 \le k \le d$, la sequenza $(a_{k,n})_{n \ge 1}$ converge; lasciate $a_k$ indicare il suo limite. Considera il polinomio $P_\infty$ definito da $$P_\infty : x \mapsto a_d x^d + a_{d-1} x^{d-1} + \cdots + a_1 x + a_0.$$ Per ogni reale $r$, indicare con $x_n$ la soluzione unica strettamente positiva dell'equazione $P_n(x) = 0$. Si studia la possibile convergenza della sequenza $(x_n)_{n \ge 1}$.
 > 
-> 10. Lasciate che $t$ sia un reale fisso. Indicare che la sequenza $(P_n(t))_{n \ge 1}$ converge a $P_\infty(t)$.
+> 10. Lasciate che $t$ sia un reale fisso. Dimostrare che la sequenza $(P_n(t))_{n \ge 1}$ converge a $P_\infty(t)$.
 > 
 > 11. Mostra che il polinomio $P_\infty$ è simpatico.
 > 
-> 12. Supponiamo in questa domanda che il polinomio $P_\infty$ sia veramente simpatico, e lasciamo che $x_\infty$ sia la soluzione unica strettamente positiva dell'equazione $P_\infty(x) = 0$. a. $x, x'$ siano reali con $0 < x < x_\infty < x'$. Mostrare che esiste un intero $M_{x,x'}$ tale che $P_n(x) < 0 < P_n(x')$ per ogni intero $n \ge M_{x,x'}$. b. Indicare che la sequenza $(x_n)_{n \ge 1}$ converge a $x_\infty$.
+> 12. Supponiamo in questa domanda che il polinomio $P_\infty$ sia veramente simpatico, e lasciamo che $x_\infty$ sia la soluzione unica strettamente positiva dell'equazione $P_\infty(x) = 0$. a. $x, x'$ siano reali con $0 < x < x_\infty < x'$. Mostrare che esiste un intero $M_{x,x'}$ tale che $P_n(x) < 0 < P_n(x')$ per ogni intero $n \ge M_{x,x'}$. b. Dimostrare che la sequenza $(x_n)_{n \ge 1}$ converge a $x_\infty$.
 > 
-> 13. Supponiamo in questa domanda che il polinomio $P_\infty$ sia falsamente simpatico. Indicare che $(x_n)_{n \ge 1}$ diverge da $+\infty$.
+> 13. Supponiamo in questa domanda che il polinomio $P_\infty$ sia falsamente simpatico. Dimostrare che $(x_n)_{n \ge 1}$ diverge da $+\infty$.
 > 
 > 14. Riprendi i risultati della prima parte.
 
@@ -504,33 +504,33 @@ level: Concours Général
 > 
 > 3.1 Triangoli equilaterali.
 > 
-> 1. Che $P$ sia un polinomio di grado 1. Esiste un triangolo equilaterale le cui vertici appartengono a $\mathscr{C}_P$?
+> 1. Sia $P$ un polinomio di grado 1. Esiste un triangolo equilaterale le cui vertici appartengono a $\mathscr{C}_P$?
 > 
-> 2. Considerare i punti $$A\!\left(1; \frac{\sqrt{3}}{3}\right), \quad B\!\left(-1; \frac{\sqrt{3}}{3}\right) \quad \text{and} \quad C\!\left(0; -\frac{2\sqrt{3}}{3}\right).$$ a. Indicare che $A$, $B$, $C$ formano un triangolo equilaterale con centro $O$. b. Indicare che $A$, $B$, $C$ appartengono al grafico del polinomio $Q : x \mapsto \frac{\sqrt{3}}{3}\left(3x^2 - 2\right)$. c. Indicare che $A$, $B$, $C$ appartengono al grafico del polinomio $R : x \mapsto \frac{\sqrt{3}}{3}\left(3x^2 - 2\right) + x\left(x^2 - 1\right)$. d. Mostra che per ogni intero $d \ge 2$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $A$, $B$, $C$.
+> 2. Considerare i punti $$A\!\left(1; \frac{\sqrt{3}}{3}\right), \quad B\!\left(-1; \frac{\sqrt{3}}{3}\right) \quad \text{and} \quad C\!\left(0; -\frac{2\sqrt{3}}{3}\right).$$ a. Dimostrare che $A$, $B$, $C$ formano un triangolo equilaterale con centro $O$. b. Dimostrare che $A$, $B$, $C$ appartengono al grafico del polinomio $Q : x \mapsto \frac{\sqrt{3}}{3}\left(3x^2 - 2\right)$. c. Dimostrare che $A$, $B$, $C$ appartengono al grafico del polinomio $R : x \mapsto \frac{\sqrt{3}}{3}\left(3x^2 - 2\right) + x\left(x^2 - 1\right)$. d. Mostra che per ogni intero $d \ge 2$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $A$, $B$, $C$.
 > 
 > 3.2 Quadrati con centro $O$.
 > 
 > In quanto segue, consideriamo un polinomio $P$ e un quadrato $ABCD$ con centro $O$ le cui quattro vertici appartengono a $\mathscr{C}_P$.
 > 
-> 3. a. Esprimere le coordinate dei punti $B$, $C$, $D$ come funzioni di quelle di $A$. Mostrare che le abscisse di $A$, $B$, $C$, $D$ sono separate in coppia. b. Indicare che $P$ non è zero e che il suo grado è almeno 2.
+> 3. a. Esprimere le coordinate dei punti $B$, $C$, $D$ come funzioni di quelle di $A$. Mostrare che le abscisse di $A$, $B$, $C$, $D$ sono separate in coppia. b. Dimostrare che $P$ non è zero e che il suo grado è almeno 2.
 > 
-> 4. Supponiamo in questa domanda che esistano reali $a$, $b$, $c$ tali che $P : x \mapsto x^3 + a x^2 + b x + c$. a. Indicare che $a = 0$ e $c = 0$. b. Indicare che le rispettive abscisse di $A$, $B$, $C$, $D$ sono soluzioni dell'equazione $P(P(x)) + x = 0$. c. Mostrare che il polinomio $Q : x \mapsto x^9 + 3b x^7 + 3b^2 x^5 + b(b^2 + 1)x^3 + b^2 x + b^2 + 1$ ammette almeno due radici reali rigorosamente positive distinte. d. Mostra che $b < 0$. e. Supponiamo che esistano i valori $\alpha$ e $\beta$ con $\alpha < \beta$ in modo tale che $Q(x) = (x - \alpha)^2 (x - \beta)^2$ per ogni $x$ reale. Indicare quindi $b = -\sqrt{8}$ e determinare i valori di $\alpha$ e $\beta$. [Nota: la forma esatta della fatturazione e della costante sono parzialmente illeggibili; questa lettura è incerta.]
+> 4. Supponiamo in questa domanda che esistano reali $a$, $b$, $c$ tali che $P : x \mapsto x^3 + a x^2 + b x + c$. a. Dimostrare che $a = 0$ e $c = 0$. b. Dimostrare che le rispettive abscisse di $A$, $B$, $C$, $D$ sono soluzioni dell'equazione $P(P(x)) + x = 0$. c. Mostrare che il polinomio $Q : x \mapsto x^9 + 3b x^7 + 3b^2 x^5 + b(b^2 + 1)x^3 + b^2 x + b^2 + 1$ ammette almeno due radici reali strettamente positive distinte. d. Mostra che $b < 0$. e. Supponiamo che esistano i valori $\alpha$ e $\beta$ con $\alpha < \beta$ in modo tale che $Q(x) = (x - \alpha)^2 (x - \beta)^2$ per ogni $x$ reale. Indicare quindi $b = -\sqrt{8}$ e determinare i valori di $\alpha$ e $\beta$. [Nota: la forma esatta della fatturazione e della costante sono parzialmente illeggibili; questa lettura è incerta.]
 > 
-> 5. a. Mostra che esiste un polinomio $P$ di grado 3 e un quadrato $ABCD$ con centro $O$ le cui vertici appartengono a $\mathscr{C}_P$. b. Per quali integri $d$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $A$, $B$, $C$, $D$ come nella domanda 5.a?
+> 5. a. Mostra che esiste un polinomio $P$ di grado 3 e un quadrato $ABCD$ con centro $O$ le cui vertici appartengono a $\mathscr{C}_P$. b. Per quali interi $d$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $A$, $B$, $C$, $D$ come nella domanda 5.a?
 > 
 > 3.3 Quando si dimostra che $d \ge k - 1$.
 > 
 > $M_1, \dots, M_k$ siano i vertici di un poligono regolare con centro $O$. Supponiamo in questa domanda che esista un polinomio $P$, di grado $d$, il cui grafico contiene i vertici $M_1, \dots, M_k$. Si desidera dimostrare che $d \ge k - 1$. Per ogni $i$, $(x_i; y_i)$ sono le coordinate di $M_i$ nel quadro $\mathcal{R}$.
 > 
-> 6. a. Perché si può presumere che l'abcissa $x_1$ sia inferiore o uguale a $x_2, x_3, \dots, x_k$ e che $y_i$ non siano zero? b. Indicare che le abscisse $x_i$ sono in coppia distinte e che le ordinate $y_i$ non sono zero. c. Indicare che nell'intervallo $[0, \pi/4)$ esistono un $R > 0$ reale e un $\theta$ reale in modo tale che $x_1 = -R\cos(\theta)$ e $y_1 = -R\sin(\theta)$. d. Mostra che $x_1 < x_2 < x_3 < \cdots < x_k$. [Nota: la catena di ordinazione precisa è parzialmente illeggibile.] e. Indicare che $P$ ammette una radice su ciascuno degli intervalli $k - 1$ $[x_1, x_2], [x_2, x_3], \dots, [x_{k-1}, x_k]$. [Nota: l'elenco preciso degli intervalli è parzialmente illeggibile; questa lettura è incerta.] f. Concludere che $d \ge k - 1$.
+> 6. a. Perché si può presumere che l'abcissa $x_1$ sia inferiore o uguale a $x_2, x_3, \dots, x_k$ e che $y_i$ non siano zero? b. Dimostrare che le abscisse $x_i$ sono in coppia distinte e che le ordinate $y_i$ non sono zero. c. Dimostrare che nell'intervallo $[0, \pi/4)$ esistono un $R > 0$ reale e un $\theta$ reale in modo tale che $x_1 = -R\cos(\theta)$ e $y_1 = -R\sin(\theta)$. d. Mostra che $x_1 < x_2 < x_3 < \cdots < x_k$. [Nota: la catena di ordinazione precisa è parzialmente illeggibile.] e. Dimostrare che $P$ ammette una radice su ciascuno degli intervalli $k - 1$ $[x_1, x_2], [x_2, x_3], \dots, [x_{k-1}, x_k]$. [Nota: l'elenco preciso degli intervalli è parzialmente illeggibile; questa lettura è incerta.] f. Concludere che $d \ge k - 1$.
 > 
 > 3.4 Dove si dimostra che ogni $d \ge k - 1$ funziona.
 > 
 > Supponiamo in questa domanda che le abscisse $x_i$ siano in coppia distinte, e si voglia dimostrare che, per ogni numero intero $d \ge k - 1$, esiste un polinomio di grado $d$ il cui grafico contiene i punti $M_1, M_2, \dots, M_k$.
 > 
-> 7. Che $a$ e $b$ siano due valori reali. Nel quadro $\mathcal{R}$, considerate i punti $A(\cos(a), \sin(a))$, $B(\cos(a+b), \sin(a+b))$ e $C(-\sin(a), \cos(a))$. a. Indicare che il telaio $\mathcal{R}' = (O; \overrightarrow{OA}, \overrightarrow{OC})$ è ortonormale. b. Quali sono le coordinate del punto $B$ nel quadro $\mathcal{R}'$? c. Riduzione di $\cos(a + b) = \cos(a)\cos(b) - \sin(a)\sin(b)$ e $\sin(a + b) = \sin(a)\cos(b) + \cos(a)\sin(b)$.
+> 7. Siano $a$ e $b$ due valori reali. Nel quadro $\mathcal{R}$, considerate i punti $A(\cos(a), \sin(a))$, $B(\cos(a+b), \sin(a+b))$ e $C(-\sin(a), \cos(a))$. a. Dimostrare che il telaio $\mathcal{R}' = (O; \overrightarrow{OA}, \overrightarrow{OC})$ è ortonormale. b. Quali sono le coordinate del punto $B$ nel quadro $\mathcal{R}'$? c. Riduzione di $\cos(a + b) = \cos(a)\cos(b) - \sin(a)\sin(b)$ e $\sin(a + b) = \sin(a)\cos(b) + \cos(a)\sin(b)$.
 > 
-> 8. Considera la sequenza di polinomi definiti da $T_0 : x \mapsto 1$, $T_1 : x \mapsto x$ e $T_{n+2} : x \mapsto 2x\, T_{n+1}(x) - T_n(x)$ per ogni intero $n \ge 0$. a. Indicare che $T_n(\cos(\theta)) = \cos(n\theta)$ per ogni numero intero $n \ge 0$ e ogni reale $\theta$. b. Lasciate che $\theta$ sia reale, e lasciate che $\ell$ e $j$ siano due numeri interi. Mostra che $T_{\ell-1}\!\left(\cos\!\left(\theta + \frac{2j\pi}{\ell}\right)\right) = \cos(\ell\theta)\cos\!\left(\theta + \frac{2j\pi}{\ell}\right) + \sin(\ell\theta)\sin\!\left(\theta + \frac{2j\pi}{\ell}\right)$. [Nota: questa identità è parzialmente illeggibile nella fonte; la lettura è incerta.] c. Mostra che per ogni numero intero $d \ge k - 1$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $M_1, M_2, \dots, M_k$.
+> 8. Considera la sequenza di polinomi definiti da $T_0 : x \mapsto 1$, $T_1 : x \mapsto x$ e $T_{n+2} : x \mapsto 2x\, T_{n+1}(x) - T_n(x)$ per ogni intero $n \ge 0$. a. Dimostrare che $T_n(\cos(\theta)) = \cos(n\theta)$ per ogni numero intero $n \ge 0$ e ogni reale $\theta$. b. Lasciate che $\theta$ sia reale, e lasciate che $\ell$ e $j$ siano due numeri interi. Mostra che $T_{\ell-1}\!\left(\cos\!\left(\theta + \frac{2j\pi}{\ell}\right)\right) = \cos(\ell\theta)\cos\!\left(\theta + \frac{2j\pi}{\ell}\right) + \sin(\ell\theta)\sin\!\left(\theta + \frac{2j\pi}{\ell}\right)$. [Nota: questa identità è parzialmente illeggibile nella fonte; la lettura è incerta.] c. Mostra che per ogni numero intero $d \ge k - 1$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $M_1, M_2, \dots, M_k$.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]

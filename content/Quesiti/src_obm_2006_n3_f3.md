@@ -121,7 +121,7 @@ level: OBM Nível 3
 
 *Trovare tutte le funzioni f:R->R che soddisfano l'equazione funzionale*
 
-> Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that $$f\bigl(x f(y) + f(x)\bigr) = 2f(x) + xy$$ for all real $x, y$.
+> Determine all functions $f : \mathbb{R} \to \mathbb{R}$ tale che $$f\bigl(x f(y) + f(x)\bigr) = 2f(x) + xy$$ for all real $x, y$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]

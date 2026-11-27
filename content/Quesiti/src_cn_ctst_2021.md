@@ -243,7 +243,7 @@ level: China National Team Selection Test
 
 *Quadrilatero ciclico AB=BC=CD; centri incentri I, J dei due sottotriangoli; dimostrare la collinearità sul cerchio circoscritto*
 
-> Come mostrato nella Fig. 1.1, il quadrilatero $ABCD$ è inscritto nella circonferenza $\Gamma$, con $AB = BC = CD$. Sia $I$ l'incentro di $\triangle ABC$ e sia $J$ l'incentro di $\triangle BCD$. Sia $K$ un punto sulla circonferenza circoscritta a $\triangle BIC$ (diverso da $B$, $I$, $C$), e siano $E$, $F$ i punti di contatto delle incircle di $\triangle ABC$ e $\triangle BCD$ con $BC$, rispettivamente. Sia $P$ l'intersezione delle rette $CJ$ e $BK$. Dimostrare che $A$, $C$, $P$ sono allineati e che $P$ giace sulla circonferenza $\Gamma$.
+> Come mostrato nella Fig. 1.1, il quadrilatero $ABCD$ è inscritto nella circonferenza $\Gamma$, con $AB = BC = CD$. Sia $I$ l'incentro di $\triangle ABC$ e sia $J$ l'incentro di $\triangle BCD$. Sia $K$ un punto sulla circonferenza circoscritta a $\triangle BIC$ (diverso da $B$, $I$, $C$), e siano $E$, $F$ i punti di contatto delle cerchio inscritto di $\triangle ABC$ e $\triangle BCD$ con $BC$, rispettivamente. Sia $P$ l'intersezione delle rette $CJ$ e $BK$. Dimostrare che $A$, $C$, $P$ sono allineati e che $P$ giace sulla circonferenza $\Gamma$.
 
 ![[src_cn_ctst_2021__Q07.png]]
 

@@ -264,11 +264,11 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *Numero massimo di pedine su una scacchiera 8×8 con al più 4 pedine per riga e per colonna; poi anche con al più 4 pedine su ciascuna grande diagonale.*
-> Martin sta giocando. Si collocano i token su una scacchiera $8 \times 8$ in modo che ci sia al massimo un token per quadrato, e ogni colonna e ogni riga contiene al massimo 4 token.
+> Martin sta giocando. Si collocano i pedina su una scacchiera $8 \times 8$ in modo che ci sia al massimo un pedina per quadrato, e ogni colonna e ogni riga contiene al massimo 4 pedina.
 > 
-> a) Quanti token Martin può mettere al massimo?
+> a) Quanti pedina Martin può mettere al massimo?
 > 
-> b) Se, oltre ai vincoli precedenti, ciascuno dei due grandi diagonali può contenere al massimo 4 token, quante token Martin può posizionare al massimo?
+> b) Se, oltre ai vincoli precedenti, ciascuno dei due grandi diagonali può contenere al massimo 4 pedina, quante pedina Martin può posizionare al massimo?
 > 
 > Le grandi diagonali di una scacchiera sono le due diagonali che vanno da un angolo della scacchiera all'angolo opposto.
 
@@ -323,7 +323,7 @@ level: Coupe Animath Automne
 
 L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 
-> E' vero che se $a_1$, $a_2$, $b_1$, $b_2$, $c_1$, $d_1$, $c_2$, $d_2$ sono integri rigorosamente positivi in modo che $$\frac{a_1}{b_1} < \frac{c_1}{d_1} \quad \text{and} \quad \frac{a_2}{b_2} < \frac{c_2}{d_2},$$ si abbia sempre $$\frac{a_1 + c_1}{b_1 + d_1} < \frac{a_2 + c_2}{b_2 + d_2}\,?$$
+> E' vero che se $a_1$, $a_2$, $b_1$, $b_2$, $c_1$, $d_1$, $c_2$, $d_2$ sono interi strettamente positivi in modo che $$\frac{a_1}{b_1} < \frac{c_1}{d_1} \quad \text{and} \quad \frac{a_2}{b_2} < \frac{c_2}{d_2},$$ si abbia sempre $$\frac{a_1 + c_1}{b_1 + d_1} < \frac{a_2 + c_2}{b_2 + d_2}\,?$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Analisi per casi]]
@@ -558,11 +558,11 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 <div class="qlang-split" data-lang="it"></div>
 
 *Numero massimo di pedine su una scacchiera 8×8 con restrizioni su righe e colonne e, in un secondo momento, anche sulle grandi diagonali.*
-> Martin sta giocando. Si collocano i token su una scacchiera $8 \times 8$ in modo che ci sia al massimo un token per quadrato, e ogni colonna e ogni riga contiene al massimo 4 token.
+> Martin sta giocando. Si collocano i pedina su una scacchiera $8 \times 8$ in modo che ci sia al massimo un pedina per quadrato, e ogni colonna e ogni riga contiene al massimo 4 pedina.
 > 
-> a) Quanti token Martin può mettere al massimo?
+> a) Quanti pedina Martin può mettere al massimo?
 > 
-> b) Se, oltre ai vincoli precedenti, ciascuno dei due grandi diagonali può contenere al massimo 4 token, quante token Martin può posizionare al massimo?
+> b) Se, oltre ai vincoli precedenti, ciascuno dei due grandi diagonali può contenere al massimo 4 pedina, quante pedina Martin può posizionare al massimo?
 > 
 > Le grandi diagonali di una scacchiera sono le due diagonali che vanno da un angolo della scacchiera all'angolo opposto.
 
@@ -717,7 +717,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 
 *Altezze del triangolo ABC: piedi E, F; mostra AFHE come parallelo dato AH perpendicolare a EF*
 
-> Lasciate che $ABC$ sia un triangolo. Che $E$ sia il piede dell'altitudine da $B$ del triangolo $ABC$ e $F$ il piede dell'altitudine da $C$ del triangolo $ABC$. $H$ sia il punto di intersezione delle linee $(BE)$ e $(CF)$, e $O$ il centro del cerchio circoscritto di $ABC$. Si noti che $H$ è l'ortocentro del triangolo. Indicare che $AF = AE$ e che il quadrilaterale $AFHE$ è un parallelo.
+> Lasciate che $ABC$ sia un triangolo. Sia $E$ il piede dell'altitudine da $B$ del triangolo $ABC$ e $F$ il piede dell'altitudine da $C$ del triangolo $ABC$. $H$ sia il punto di intersezione delle rette $(BE)$ e $(CF)$, e $O$ il centro del cerchio circoscritto di $ABC$. Si noti che $H$ è l'ortocentro del triangolo. Dimostrare che $AF = AE$ e che il quadrilaterale $AFHE$ è un parallelo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -763,11 +763,11 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 <div class="qlang-split" data-lang="it"></div>
 
 *2020 punti su una circonferenza, numerati; trovare 1010 corde che coprono ciascun punto una sola volta e tali che la somma a−b valga 1010².*
-> Mettiamo i punti 2020 su un cerchio, numerati a caso da 1 a 2020; i numeri sono tutti distinti. Per ogni accordo che collega due punti, associamo il valore $a - b$ dove $a > b$ sono i numeri dei due punti finali. Mostrare che è possibile collegare i punti con 1010 accordi in modo tale che:
+> Mettiamo i punti 2020 su un cerchio, numerati a caso da 1 a 2020; i numeri sono tutti distinti. Per ogni accordo che collega due punti, associamo il valore $a - b$ dove $a > b$ sono i numeri dei due punti finali. Mostrare che è possibile collegare i punti con 1010 corde in modo tale che:
 > 
 > $\triangleright$ ogni punto è un punto di fine di esattamente un accordo,
 > 
-> $\triangleright$ la somma dei valori di tutti gli accordi è uguale a $1010^2$.
+> $\triangleright$ la somma dei valori di tutti gli corde è uguale a $1010^2$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_conteggio|Conteggio combinatorio]]
@@ -815,7 +815,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 <div class="qlang-split" data-lang="it"></div>
 
 *Esiste una successione di interi strettamente positivi tale che a_{n+2}=a_{n+1}+√(a_n+a_{n+1}) per ogni n≥0?*
-> Esiste una sequenza di integri rigorosamente positivi $a_0, a_1, \ldots$ tale che $$a_{n+2} = a_{n+1} + \sqrt{a_n + a_{n+1}}$$ per tutti gli integri $n \ge 0$?
+> Esiste una sequenza di interi strettamente positivi $a_0, a_1, \ldots$ tale che $$a_{n+2} = a_{n+1} + \sqrt{a_n + a_{n+1}}$$ per tutti gli interi $n \ge 0$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]

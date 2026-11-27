@@ -158,7 +158,7 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incentro I, D intersezione di AI con BC: AI + CD = AC se e solo se l'angolo in B è 60 gradi più metà dell'angolo in C*
+*Incentro I, D intersezione di AI con BC: AI + CD = AC se e solo se l'angolo in B è \1° più metà dell'angolo in C*
 
 > In un triangolo $ABC$, $I$ è l'incentro e $D$ il punto di intersezione di $AI$ e $BC$. Dimostrare che $AI+CD=AC$ se e solo se $\angle B=60^\circ+\frac{1}{2}\angle C$.
 

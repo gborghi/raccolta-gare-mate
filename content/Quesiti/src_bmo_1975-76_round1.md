@@ -33,7 +33,7 @@ level: BMO Round 1
 *Lunghezza d della retta più corta che dimezza l'area di un triangolo qualunque, espressa in funzione dell'area A e di uno degli angoli; esistenza di una linea (non retta) ancora più corta.*
 > Trovare, con dimostrazione, la lunghezza $d$ della retta più corta che biseca l'area di un triangolo dato arbitrariamente. Esprimere $d$ in funzione dell'area $A$ del triangolo e di uno dei suoi angoli.
 >
-> Dimostrare che esiste una linea più corta (non retta) che biseca l'area del triangolo dato.
+> Dimostrare che esiste una retta più corta (non retta) che biseca l'area del triangolo dato.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]

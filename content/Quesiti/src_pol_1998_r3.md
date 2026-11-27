@@ -196,7 +196,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scacchiera dei quadrati unitari dentro il cerchio di raggio 1998: cambiando segno su righe, colonne e diagonali a 45 gradi, si può ottenere −1 in un solo quadrato?*
+*Scacchiera dei quadrati unitari dentro il cerchio di raggio 1998: cambiando segno su righe, colonne e diagonali a \1°, si può ottenere −1 in un solo quadrato?*
 
 > Si considerino i quadrati unitari del piano i cui vertici hanno coordinate intere. Sia $S$ la scacchiera formata da tutti i quadrati unitari interamente contenuti nel cerchio $x^2 + y^2 \le 1998^2$. In ogni quadrato della scacchiera $S$ è scritto un numero. A ogni mossa si può cambiare il segno di tutti i numeri di una riga, di una colonna o di una diagonale di $S$ (una diagonale è l'insieme dei quadrati unitari che giacciono su una retta che forma un angolo di $45^\circ$ con gli assi). È possibile ottenere $-1$ in esattamente un quadrato unitario di $S$ dopo un numero finito di mosse?
 

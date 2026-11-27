@@ -500,7 +500,7 @@ level: TFJM²
 > g) $k = n$ e $a_i = i$ per ogni $i$;
 > h) $n$ e $\ell$ arbitrari.
 >
-> 4. Si suppone ora $a_1 < a_2 < \cdots < a_n$. Una torta $i$ è inutile se, qualunque sia il valore $\ell$ dato da Thomas, la torta $i$ non è mai quella in cui Guillaume ha la massima probabilità di trovare una fava. In funzione di $n$, può accadere che nessuna torta sia inutile? Che tutte le torte tranne una siano inutili? Quali sono i numeri possibili di torte inutili?
+> 4. Si suppone ora $a_1 < a_2 < \cdots < a_n$. Una torta $i$ è inutile se, qualunque sia il valore $\ell$ dato da Thomas, la torta $i$ non è mai quella in cui Guillaume ha la massima probabilità di trovare una fava. In funzione di $n$, può accadere che nessuna torta sia inutile? Siano tutte le torte tranne una inutili? Quali sono i numeri possibili di torte inutili?
 >
 > 5. Guillaume ha molta fame e teme che nelle fette con la fava ci sia meno da mangiare. Vuole quindi minimizzare la probabilità di trovarne una. Si riprendano le domande 3 e 4 in questo quadro.
 >

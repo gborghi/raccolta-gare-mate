@@ -177,7 +177,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico ABCD con angolo di 120 gradi: due disuguaglianze*
+*Quadrilatero ciclico ABCD con angolo di \1°: due disuguaglianze*
 
 > In un quadrilatero ciclico $ABCD$, $AB = a$, $BC = b$, $CD = c$, $\angle ABC = 120^\circ$ e $\angle ABD = 30^\circ$. Dimostrare che
 >

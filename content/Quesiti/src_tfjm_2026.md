@@ -644,7 +644,7 @@ level: TFJM²
 > 
 > 1. In primo luogo, Mathis desidera posizionare le maniglie in modo da permettere di passare diversi tipi di corsi.
 > 
-> A) In questa domanda, Mathis vuole mettere una singola presa sul muro. Determinare le condizioni relative a $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha \in \left]0, \frac{\pi}{2}\right]$ che consentono il posizionamento di una singola presa in modo che vi sia un corso $l_1$ e un corso $l_2$, ognuno di dimensioni uguali a $1$. b) Let $n > 1$. In questa domanda, Mathis vuole mettere le maniglie sul muro. Determinare le condizioni di $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha$ in modo che ci siano $l_1$ corsi di dimensioni $n$ e $l_2$ corsi di dimensioni $1$ (griffi $n$), ognuno utilizzando un corso diverso.
+> A) In questa domanda, Mathis vuole mettere una singola presa sul muro. Determinare le condizioni relative a $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha \in \left]0, \frac{\pi}{2}\right]$ che consentono il posizionamento di una singola presa in modo che vi sia un corso $l_1$ e un corso $l_2$, ognuno di dimensioni uguali a $1$. b) Sia $n > 1$. In questa domanda, Mathis vuole mettere le maniglie sul muro. Determinare le condizioni di $l_1, l_2 \in \mathbb{R}_+^*$ e $\alpha$ in modo che ci siano $l_1$ corsi di dimensioni $n$ e $l_2$ corsi di dimensioni $1$ (griffi $n$), ognuno utilizzando un corso diverso.
 > 
 > 2. In questa domanda, supponiamo $\alpha < \frac{\pi}{2}$. Mathis vuole costruire una configurazione che permetta la coesistenza di due corsi con caratteristiche distinte: un corso $l_1$ di dimensioni $t_1$ e un corso $l_2$ di dimensioni $t_2$.
 > 
@@ -652,7 +652,7 @@ level: TFJM²
 > 
 > 3. In questa domanda si può limitare al caso $\alpha = \frac{\pi}{2}$. Al fine di modellare il fatto che alcuni movimenti sono più esigenti di altri, Mathis desidera associare ad ogni passo di un percorso un movimento scelto tra diversi tipi, ad esempio un movimento facile (a distanza $l_1$) o un movimento difficile (a distanza $l_2$) con $l_1 < l_2$.
 > 
-> a) Let $n > 0$. Determinare, in funzione di $n$, $l_1$ e $l_2$, il numero minimo di maniglie che sarebbe necessario utilizzare per consentire l'esecuzione di movimenti $n$ da un determinato punto di partenza fisso $A_0$, scegliendo ad ogni passo tra un movimento facile e un movimento difficile. b) Ripetere la domanda precedente con più tipi di movimenti. Uno inizia con $3$ tipi di movimenti.
+> a) Sia $n > 0$. Determinare, in funzione di $n$, $l_1$ e $l_2$, il numero minimo di maniglie che sarebbe necessario utilizzare per consentire l'esecuzione di movimenti $n$ da un determinato punto di partenza fisso $A_0$, scegliendo ad ogni passo tra un movimento facile e un movimento difficile. b) Ripetere la domanda precedente con più tipi di movimenti. Uno inizia con $3$ tipi di movimenti.
 > 
 > 4. Aprendo una vecchia scatola, Mathis scopre alcune manovre di arrampicata. Desidera disposirli sul muro per ottenere il maggior numero possibile di corsi realizzabili.
 > 
@@ -787,9 +787,9 @@ level: TFJM²
 > 
 > Una configurazione può ora associare a ciascuna posizione un sedile (con il suo orientamento, come prima) o una fontana. Vedi figura 8.
 > 
-> 3. Let $p \in \mathbb{N}^*$. Solo in questa domanda, supponiamo che l'ospedale installa fonti $p$. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$. Uno inizia con $p = 1$.
+> 3. Sia $p \in \mathbb{N}^*$. Solo in questa domanda, supponiamo che l'ospedale installa fonti $p$. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$. Uno inizia con $p = 1$.
 > 
-> 4. Let $p \in \mathbb{N}^*$. Solo in questa questione, supponiamo che l'ospedale possa sostituire invece i sedili $p$ di sua scelta con fontane. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$.
+> 4. Sia $p \in \mathbb{N}^*$. Solo in questa questione, supponiamo che l'ospedale possa sostituire invece i sedili $p$ di sua scelta con fontane. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$.
 > 
 > 5. Torniamo alla situazione all'inizio del problema, in cui i sedili sono sgabelli. Le persone arrivano una per una e, quando una persona arriva, si siede su uno scavo scelto uniformemente a caso tra i possibili scavi (cioè dove non si sentirà a proprio agio). Indichiamo $E(m, n)$ il numero previsto di persone che possono sedersi.
 > 
@@ -913,11 +913,11 @@ level: TFJM²
 > 
 > Il numero $163$ non è né rotativo né fitatorio. Vedi figura 9.
 > 
-> 1. Let $n \ge 2$. a) Esiste un numero rotativo con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri rotativi con cifre $n$.
+> 1. Sia $n \ge 2$. a) Esiste un numero rotativo con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri rotativi con cifre $n$.
 > 
-> 2. Let $n \ge 2$. a) Esiste un numero fitatorio con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri di inserimento con cifre $n$.
+> 2. Sia $n \ge 2$. a) Esiste un numero fitatorio con cifre $n$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri di inserimento con cifre $n$.
 > 
-> 3. Let $n \ge 2$. a) Let $c \in \{0, 1, 2, \dots, 9\}$. Esiste un numero permutativo con cifre $n$ che termina con la cifra $c$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri permutativi con cifre $n$. In particolare, determinare il limite di questo numero diviso per $9 \times 10^{n-1}$, se esiste ($9 \times 10^{n-1}$ è il numero di numeri con cifre $n$).
+> 3. Sia $n \ge 2$. a) Sia $c \in \{0, 1, 2, \dots, 9\}$. Esiste un numero permutativo con cifre $n$ che termina con la cifra $c$? b) Determinare (o limitare con la massima precisione possibile) il numero di numeri permutativi con cifre $n$. In particolare, determinare il limite di questo numero diviso per $9 \times 10^{n-1}$, se esiste ($9 \times 10^{n-1}$ è il numero di numeri con cifre $n$).
 > 
 > 4. Ripetere la precedente sottoquestione per altre basi di numerazione.
 > 

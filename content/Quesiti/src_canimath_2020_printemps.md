@@ -132,7 +132,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo isoscele in cui la bisettrice dell'angolo B incontra AC in D con BD=DA: determinare gli angoli del triangolo.*
-> $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo.
+> $ABC$ sia un triangolo a uguale scala a $A$. Il bisettrice dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -218,7 +218,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo acutangolo: D piede dell'altezza da A, E simmetrico di D rispetto alla retta AC; dimostrare che un triangolo FBC è isoscele in B.*
-> Lasciate che $ABC$ sia un triangolo i cui angoli sono tutti acuti. $D$ sia il piede dell'altitudine dal vertice $A$. Il punto $E$ deve essere il riflesso del punto $D$ rispetto alla riga $(AC)$. La perpendicolare alla linea $(AE)$ che attraversa $B$ incontra la linea $(AC)$ in un punto indicato $F$. Indicare che il triangolo $FBC$ è uguale a $B$.
+> Lasciate che $ABC$ sia un triangolo i cui angoli sono tutti acuti. $D$ sia il piede dell'altitudine dal vertice $A$. Il punto $E$ deve essere il riflesso del punto $D$ rispetto alla riga $(AC)$. La perpendicolare alla retta $(AE)$ che attraversa $B$ incontra la retta $(AC)$ in un punto indicato $F$. Dimostrare che il triangolo $FBC$ è uguale a $B$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -455,7 +455,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo isoscele in cui la bisettrice dell'angolo B incontra AC in D con BD=DA: determinare gli angoli (versione liceo).*
-> $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo $ABC$.
+> $ABC$ sia un triangolo a uguale scala a $A$. Il bisettrice dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -594,7 +594,7 @@ level: Coupe Animath Printemps
 
 *Ricerca tutte le n>=0 con n = 2 s(n), dove s(n) è la somma digitali*
 
-> Per ogni numero intero $n \ge 0$, $s(n)$ indica la somma delle cifre di $n$. Determinare tutti gli integri $n$ in modo tale che $n = 2s(n)$.
+> Per ogni numero intero $n \ge 0$, $s(n)$ indica la somma delle cifre di $n$. Determinare tutti gli interi $n$ in modo tale che $n = 2s(n)$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -686,7 +686,7 @@ level: Coupe Animath Printemps
 
 *ABCD quadrato con triangolo esterno equilaterale BCS; punti di mezzo N,H,P; angoli di calcolo BPN e NHC*
 
-> Che $ABCD$ sia un quadrato e che $S$ sia un punto all'esterno del quadrato $ABCD$ in modo tale che il triangolo $BCS$ sia equilaterale. Il $N$ deve essere il punto medio del segmento $[AS]$ e il $H$ il punto medio del segmento $[CD]$. Il segmento $[BS]$ deve essere il punto medio del segmento $P$. 1) Calcolare l'angolo $\widehat{BPN}$. 2) Calcolare l'angolo $\widehat{NHC}$.
+> Sia $ABCD$ un quadrato e che $S$ sia un punto all'esterno del quadrato $ABCD$ in modo tale che il triangolo $BCS$ sia equilaterale. Il $N$ deve essere il punto medio del segmento $[AS]$ e il $H$ il punto medio del segmento $[CD]$. Il segmento $[BS]$ deve essere il punto medio del segmento $P$. 1) Calcolare l'angolo $\widehat{BPN}$. 2) Calcolare l'angolo $\widehat{NHC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
@@ -732,7 +732,7 @@ level: Coupe Animath Printemps
 
 *Trova tutti gli S in modo che i numeri interi positivi ogni <=10 sommando a S possa sempre essere diviso in due gruppi ciascuno <=70*
 
-> La somma di alcuni integri positivi (non necessariamente distinti), ognuno inferiore o uguale a $10$, è uguale a $S$. Trova tutti i valori di $S$ in modo tale che, qualunque siano questi enti, essi possano **sempre** essere suddivisi in due gruppi, ognuno di somma inferiore o uguale a $70$.
+> La somma di alcuni interi positivi (non necessariamente distinti), ognuno inferiore o uguale a $10$, è uguale a $S$. Trova tutti i valori di $S$ in modo tale che, qualunque siano questi enti, essi possano **sempre** essere suddivisi in due gruppi, ognuno di somma inferiore o uguale a $70$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]

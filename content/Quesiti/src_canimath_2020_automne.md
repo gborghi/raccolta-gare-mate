@@ -131,7 +131,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *In un quadrato ABCD, E sta sulla diagonale BD con EB=AB e F è l'intersezione delle rette CE e AD: determinare l'angolo FEA.*
-> Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
+> Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle rette $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -227,9 +227,9 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che i triangoli ADE e BCE hanno superficie uguale in un trapezoide con E l'intersezione diagonale*
+*Dimostrare che i triangoli ADE e BCE hanno superficie uguale in un trapezoide con E l'intersezione diagonale*
 
-> Il $ABCD$ deve essere un trapezoide (non auto-crosso) tale che le linee $(AB)$ e $(CD)$ siano parallele. Scriviamo $E$ per il punto di intersezione delle diagonali $[AC]$ e $[BD]$. Indicare che l'area del triangolo $ADE$ è uguale all'area del triangolo $BCE$.
+> Il $ABCD$ deve essere un trapezoide (non auto-crosso) tale che le rette $(AB)$ e $(CD)$ siano parallele. Scriviamo $E$ per il punto di intersezione delle diagonali $[AC]$ e $[BD]$. Dimostrare che l'area del triangolo $ADE$ è uguale all'area del triangolo $BCE$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -317,7 +317,7 @@ level: Coupe Animath Automne
 
 *Conta triplici interi sommati a zero con valore assoluto pari a 2k*
 
-> $k$ sia un numero intero rigorosamente positivo. Per ogni numero reale $x$, il numero $|x|$ è il valore assoluto di $x$, pari a $x$ se $x$ è positivo e $-x$ se $x$ è negativo. Trova il numero di triples $(x, y, z)$ dove $x, y, z$ sono numeri interi come $x + y + z = 0$ e $|x| + |y| + |z| = 2k$.
+> $k$ sia un numero intero strettamente positivo. Per ogni numero reale $x$, il numero $|x|$ è il valore assoluto di $x$, pari a $x$ se $x$ è positivo e $-x$ se $x$ è negativo. Trova il numero di triples $(x, y, z)$ dove $x, y, z$ sono numeri interi come $x + y + z = 0$ e $|x| + |y| + |z| = 2k$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
@@ -458,7 +458,7 @@ level: Coupe Animath Automne
 
 *Trova un angolo FEA in un quadrato con E sulla diagonale BD in modo che EB=AB (liceu)*
 
-> Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
+> Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle rette $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -554,9 +554,9 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare possibili numeri di voci pari in una griglia 3x3 con tutte le somme di righe e colonne odd*
+*Contare possibili numeri di voci pari in una griglia 3x3 con tutte le somme di righe e colonne dispari*
 
-> Si collocano gli enti $9$ nelle celle di una griglia $3 \times 3$ in modo tale che la somma dei numeri di una colonna o di una riga sia sempre pari. Quali valori possono assumere il numero di cellule pari di tale configurazione?
+> Si collocano gli enti $9$ nelle celle di una griglia $3 \times 3$ in modo tale che la somma dei numeri di una colonna o di una riga sia sempre pari. Quali valori possono assumere il numero di caselle pari di tale configurazione?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -686,7 +686,7 @@ level: Coupe Animath Automne
 
 *L'area di calcolo del triangolo MND in un parallelo unitario con M su BD, MD=3MB*
 
-> Il $ABCD$ è un parallelo della superficie $1$ e $M$ un punto appartenente al segmento $[BD]$ in modo tale che $MD = 3MB$. Scriviamo $N$ per il punto di intersezione delle linee $(AM)$ e $(CB)$. Calcolare l'area del triangolo $MND$.
+> Il $ABCD$ è un parallelo della superficie $1$ e $M$ un punto appartenente al segmento $[BD]$ in modo tale che $MD = 3MB$. Scriviamo $N$ per il punto di intersezione delle rette $(AM)$ e $(CB)$. Calcolare l'area del triangolo $MND$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]

@@ -33,7 +33,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Escrivere 225 come somma di 5 o 4 integri positivi consecutivi*
+*Escrivere 225 come somma di 5 o 4 interi positivi consecutivi*
 
 > Si può scrivere $225$ come la somma di $3$ numeri interi consecutivi: $225 = 74 + 75 + 76$. a) Può essere scritta come somma di $5$ numeri interi consecutivi? b) Può essere scritta come la somma di $4$ numeri interi consecutivi?
 
@@ -85,7 +85,7 @@ level: Coupe Animath Automne
 
 *a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma*
 
-> Per ogni intero rigorosamente positivo $n$, definire $a_n$ come l'ultima cifra della somma delle cifre del numero $2005\,2005\ldots 2005$ (si scrive "$2005$" $n$ volte di fila). Ad esempio $a_1 = 7$ e $a_2 = 4$. a) Quali integri rigorosamente positivi $n$ soddisfano $a_n = 0$? b) Calcolare $a_1 + a_2 + \cdots + a_{2005}$.
+> Per ogni intero strettamente positivo $n$, definire $a_n$ come l'ultima cifra della somma delle cifre del numero $2005\,2005\ldots 2005$ (si scrive "$2005$" $n$ volte di fila). Ad esempio $a_1 = 7$ e $a_2 = 4$. a) Quali interi strettamente positivi $n$ soddisfano $a_n = 0$? b) Calcolare $a_1 + a_2 + \cdots + a_{2005}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
@@ -183,7 +183,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 *n^2 con le ultime due cifre rimosse è di nuovo un quadrato perfetto*
 
-> a) Trovare un intero rigorosamente positivo $n$ tale che, se si scrive $n^2$ e si toglie le sue ultime due cifre, il numero risultante sia ancora il quadrato di un intero. b) Trovare tutti i numeri interi rigorosamente positivi $n$ che non sono multipli di $10$ in modo tale che, scrivendo $n^2$ e eliminando le sue ultime due cifre, si ottiene nuovamente il quadrato di un numero intero (si considera che un numero con cifre zero è uguale a zero).
+> a) Trovare un intero strettamente positivo $n$ tale che, se si scrive $n^2$ e si toglie le sue ultime due cifre, il numero risultante sia ancora il quadrato di un intero. b) Trovare tutti i numeri interi strettamente positivi $n$ che non sono multipli di $10$ in modo tale che, scrivendo $n^2$ e eliminando le sue ultime due cifre, si ottiene nuovamente il quadrato di un numero intero (si considera che un numero con cifre zero è uguale a zero).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
@@ -226,7 +226,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo isoscele, retta (d) perpendicolare a (BC) e passante per C, parallelogramma AEDB: dimostrare che M è il punto medio del segmento AE.*
-> Si costruisce la seguente figura: disegna un triangolo $ABC$ a uguali dimensioni $A$, quindi la linea $(d)$ perpendicolare a $(BC)$ che passa attraverso $C$. Si sceglie un punto $D$ su $(d)$. Un posto $E$ in modo che $AEDB$ sia un parallelo. Infine, $M$ è il punto di intersezione di $(AE)$ e $(d)$. Prova che $M$ è il punto medio di $[AE]$.
+> Si costruisce la seguente figura: disegna un triangolo $ABC$ a uguali dimensioni $A$, quindi la retta $(d)$ perpendicolare a $(BC)$ che passa per $C$. Si sceglie un punto $D$ su $(d)$. Un posto $E$ in modo che $AEDB$ sia un parallelo. Infine, $M$ è il punto di intersezione di $(AE)$ e $(d)$. Prova che $M$ è il punto medio di $[AE]$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -270,7 +270,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 *Ricerca tutti i valori di xyz dati x+2y=z e x^2-4y^2+z^2=310*
 
-> I numeri interi rigorosamente positivi $x$, $y$ e $z$ soddisfano le due equazioni seguenti: $x + 2y = z$ e $x^2 - 4y^2 + z^2 = 310$. Trova tutti i valori che il prodotto $xyz$ può assumere.
+> I numeri interi strettamente positivi $x$, $y$ e $z$ soddisfano le due equazioni seguenti: $x + 2y = z$ e $x^2 - 4y^2 + z^2 = 310$. Trova tutti i valori che il prodotto $xyz$ può assumere.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
@@ -358,7 +358,7 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 
 *Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF divide angolo AFC*
 
-> $ABCD$ sia un rettangolo tale che $AB > BC$. Il $E$ è la proiezione ortogonale di $B$ su $(AC)$ e $\Gamma$ il cerchio che attraversa $A$ e $E$ il cui centro si trova su $(AD)$. Il punto di intersezione di $\Gamma$ e $[CD]$ è $F$. Prove che $(BF)$ è il bisettore di $\widehat{AFC}$.
+> $ABCD$ sia un rettangolo tale che $AB > BC$. Il $E$ è la proiezione ortogonale di $B$ su $(AC)$ e $\Gamma$ il cerchio che attraversa $A$ e $E$ il cui centro si trova su $(AD)$. Il punto di intersezione di $\Gamma$ e $[CD]$ è $F$. Dimostrare che $(BF)$ è il bisettrice di $\widehat{AFC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]

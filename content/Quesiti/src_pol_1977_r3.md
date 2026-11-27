@@ -61,7 +61,7 @@ level: Olimpiade Polacca Round 3
 
 *Cerchi e poligoni annidati; dimostrare che i raggi convergono a zero*
 
-> Let $n \ge 3$ be a given integer. A sequence $K_0, K_1, K_2, \ldots$ of circles and a sequence $W_1, W_2, \ldots$ of convex $n$-gons satisfy $$K_0 \supset W_1 \supset K_1 \supset W_2 \supset K_2 \supset \cdots$$ for all $i = 1, 2, \ldots$. Prove that the sequence of the radii of the circles $K_n$ converges to zero.
+> Sia $n \ge 3$ be a given intero. A sequence $K_0, K_1, K_2, \ldots$ of circles and a sequence $W_1, W_2, \ldots$ of convex $n$-gons satisfy $$K_0 \supset W_1 \supset K_1 \supset W_2 \supset K_2 \supset \cdots$$ for all $i = 1, 2, \ldots$. Dimostrare che the sequence of the radii of the circles $K_n$ converges to zero.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]]
@@ -91,7 +91,7 @@ level: Olimpiade Polacca Round 3
 
 *Funzione di complemento a bit su interi binari; l'ingresso AP produce un'uscita non crescente*
 
-> Consider the set $A = \{0, 1, 2, \ldots, 2^n - 1\}$. A function $f: A \to A$ is given by $$f(x_0 + 2x_1 + 2^2 x_2 + \cdots + 2^{n-1} x_{n-1}) = (1 - x_0) + 2(1 - x_1) + 2^2(1 - x_2) + \cdots + 2^{n-1}(1 - x_{n-1})$$ for every $0$-$1$ sequence $(x_0, x_1, \ldots, x_{n-1})$. Show that if $a_1, a_2, \ldots, a_m$ are consecutive terms of an arithmetic progression, then the sequence $f(a_1), f(a_2), \ldots, f(a_m)$ is not increasing.
+> Consider the set $A = \{0, 1, 2, \ldots, 2^n - 1\}$. A function $f: A \to A$ is given by $$f(x_0 + 2x_1 + 2^2 x_2 + \cdots + 2^{n-1} x_{n-1}) = (1 - x_0) + 2(1 - x_1) + 2^2(1 - x_2) + \cdots + 2^{n-1}(1 - x_{n-1})$$ for every $0$-$1$ sequence $(x_0, x_1, \ldots, x_{n-1})$. Dimostrare che if $a_1, a_2, \ldots, a_m$ are consecutive terms of an arithmetic progression, then the sequence $f(a_1), f(a_2), \ldots, f(a_m)$ is not increasing.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]

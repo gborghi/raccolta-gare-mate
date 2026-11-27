@@ -62,7 +62,7 @@ level: RMO
 
 *Dimostrare una disuguaglianza per numeri reali positivi che soddisfano una condizione di somma ciclica*
 
-> Let $a, b, c$ be positive real numbers such that $$\frac{ab}{1+bc} + \frac{bc}{1+ca} + \frac{ca}{1+ab} = 1.$$ Prove that $$\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2} \ge 6\sqrt{2}.$$
+> Sia $a, b, c$ be positive real numbers tale che $$\frac{ab}{1+bc} + \frac{bc}{1+ca} + \frac{ca}{1+ab} = 1.$$ Dimostrare che $$\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2} \ge 6\sqrt{2}.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

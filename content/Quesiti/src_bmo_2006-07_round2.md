@@ -96,7 +96,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, angolo BAC=60 gradi, la retta di Eulero incontra i lati, dimostrare che PO=HQ*
+*Triangolo acuto, angolo BAC=\1°, la retta di Eulero incontra i lati, dimostrare che PO=HQ*
 
 > Sia $ABC$ un triangolo acutangolo con $AB > AC$ e $\angle BAC = 60^\circ$. Si indichi con $O$ il circocentro e con $H$ l'ortocentro, e si supponga che $OH$ incontri $AB$ in $P$ e $AC$ in $Q$. Dimostrare che $PO = HQ$.
 >

@@ -196,7 +196,7 @@ level: RMO
 
 *Trovare tutte le coppie di numeri reali (x,y) che soddisfano un'equazione esponenziale*
 
-> Find all pairs $(x, y)$ of real numbers such that $$16^{x^2+y} + 16^{x+y^2} = 1.$$
+> Determinare tutti pairs $(x, y)$ of real numbers tale che $$16^{x^2+y} + 16^{x+y^2} = 1.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]

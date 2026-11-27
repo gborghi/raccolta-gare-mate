@@ -143,11 +143,11 @@ level: Coupe Animath Printemps
 
 *Due cerchi tangenti, tangente comune, quattro sottoquestioni sulla geometria*
 
-> Due cerchi, uno con centro $O$ e raggio $R$, l'altro con centro $O'$ e raggio $R'$ con $R < R'$, sono tangenti esternamente al punto $B$. La linea tangente comune $T$ passa attraverso $B$. Disegnare un'altra tangente comune $[MM']$ (dove $M$ appartiene al primo cerchio e $M'$ al secondo). Questa tangente risponde a $(T)$ a $A$. Le linee $(OA)$ e $(O'A)$ tagliano $BM$ e $BM'$ rispettivamente a $D$ e $D'$. Le linee $(OO')$ e $(DD')$ si incontrano a $E$.
+> Due cerchi, uno con centro $O$ e raggio $R$, l'altro con centro $O'$ e raggio $R'$ con $R < R'$, sono tangenti esternamente al punto $B$. La retta tangente comune $T$ passa per $B$. Disegnare un'altra tangente comune $[MM']$ (dove $M$ appartiene al primo cerchio e $M'$ al secondo). Questa tangente risponde a $(T)$ a $A$. Le rette $(OA)$ e $(O'A)$ tagliano $BM$ e $BM'$ rispettivamente a $D$ e $D'$. Le rette $(OO')$ e $(DD')$ si incontrano a $E$.
 > 
-> (1) Indicare che $(DD')$ è parallelo a $(MM')$.
+> (1) Dimostrare che $(DD')$ è parallelo a $(MM')$.
 > 
-> (2) Indicare che $OAO'$ è un angolo retto a $A$.
+> (2) Dimostrare che $OAO'$ è un angolo retto a $A$.
 > 
 > (3) Calcolare la lunghezza $EO$ in termini di $R$ e $R'$.
 > 

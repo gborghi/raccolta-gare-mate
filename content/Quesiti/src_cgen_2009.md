@@ -49,7 +49,7 @@ level: Concours Général
 > 
 > 1. (a) Verificare $\lim_{\theta \to 0} \frac{1-\cos(\theta)}{\theta^2} = \frac{1}{2}$. (Si può usare una formula che dà $\cos(2\alpha)$.) (b) Indicare, per $\theta$ in $\left[0, \frac{\pi}{2}\right]$, le relazioni: $\frac{2\theta}{\pi} \le \sin(\theta)$ e $\cos(\theta) \le 1 - \frac{\theta^2}{\pi}$.
 > 
-> 2. Lasciate che $f$ sia una funzione di soluzione del problema. Ci viene dato un reale $x$ e impostare, per ogni intero naturale $n$, $f\left(\frac{x}{2^n}\right) = \cos(\theta_n)$, con $\theta_n$ in $[0,\pi]$. (a) Indicare che $f$ è continuo a $0$ e che $\lim_{n \to +\infty} \theta_n = 0$. b) Verificare l'esistenza di un numero intero $N$ tale che per $n \ge N$ si trovi $\theta_{n+1} = \frac{\theta_n}{2}$. c) Stabilire che $a$ è positivo e che $f(x) = \cos\left(x\sqrt{2a}\right)$.
+> 2. Lasciate che $f$ sia una funzione di soluzione del problema. Ci viene dato un reale $x$ e impostare, per ogni intero naturale $n$, $f\left(\frac{x}{2^n}\right) = \cos(\theta_n)$, con $\theta_n$ in $[0,\pi]$. (a) Dimostrare che $f$ è continuo a $0$ e che $\lim_{n \to +\infty} \theta_n = 0$. b) Verificare l'esistenza di un numero intero $N$ tale che per $n \ge N$ si trovi $\theta_{n+1} = \frac{\theta_n}{2}$. c) Stabilire che $a$ è positivo e che $f(x) = \cos\left(x\sqrt{2a}\right)$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_ricorsione|Ricorsione]]
@@ -195,13 +195,13 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 *Periodi di successioni finite; se a e b sono primi tra loro, una successione di lunghezza almeno a+b-1 con periodi a e b è costante; studio della successione 0-1 V e della sua simmetria.*
-> Problema 3: aritmetica. Dati due integri $a$ e $b$, indichiamo con $[\![a,b]\!]$ l'insieme di integri che si trova in senso lato tra $a$ e $b$. Consideriamo una sequenza finita di termini $n$ $U = (u_1, u_2, \ldots, u_n)$. Diciamo che un intero rigorosamente positivo $p$ è un periodo di $U$ se $u_i = u_{i+p}$ per ogni intero $i$ tale che $1 \le i \le n - p$. Una sequenza può avere diversi periodi.
+> Problema 3: aritmetica. Dati due interi $a$ e $b$, indichiamo con $[\![a,b]\!]$ l'insieme di interi che si trova in senso lato tra $a$ e $b$. Consideriamo una sequenza finita di termini $n$ $U = (u_1, u_2, \ldots, u_n)$. Diciamo che un intero strettamente positivo $p$ è un periodo di $U$ se $u_i = u_{i+p}$ per ogni intero $i$ tale che $1 \le i \le n - p$. Una sequenza può avere diversi periodi.
 > 
-> 1. Consideriamo due integri rigorosamente positivi $a$ e $b$ coprimo. (a) Definiremo $r_k$ come il resto della divisione di $ka$ da $a + b$. Indicare che quando $k$ varia in $[\![1, a+b-1]\!]$, $r_k$ assume tutti i valori di $[\![1, a+b-1]\!]$. b) Riduzione che se $a$ e $b$ sono periodi di $U$ e $n \ge a + b - 1$, allora $U$ è costante.
+> 1. Consideriamo due interi strettamente positivi $a$ e $b$ coprimo. (a) Definiremo $r_k$ come il resto della divisione di $ka$ da $a + b$. Dimostrare che quando $k$ varia in $[\![1, a+b-1]\!]$, $r_k$ assume tutti i valori di $[\![1, a+b-1]\!]$. b) Riduzione che se $a$ e $b$ sono periodi di $U$ e $n \ge a + b - 1$, allora $U$ è costante.
 > 
-> 2. Supponiamo ora che $a$ e $b$ siano numeri interi rigorosamente positivi con GCD $d$. Indicare che se $U$ è periodico dei periodi $a$ e $b$ e $n \ge a + b - d$, allora $U$ è periodico $d$.
+> 2. Supponiamo ora che $a$ e $b$ siano numeri interi strettamente positivi con GCD $d$. Dimostrare che se $U$ è periodico dei periodi $a$ e $b$ e $n \ge a + b - d$, allora $U$ è periodico $d$.
 > 
-> 3. Consideriamo due integri $a$ e $b$ strettamente superiori a $1$ e coprimo. (a) Mostra che si può dividere l'intervallo $[\![1, a+b-2]\!]$ in due sottoinsiemi non vuoti $A$ e $B$ in modo tale che la sequenza $V$ pari a $1$ su $A$ e a $0$ su $B$ sia di periodi $a$ e $b$. (b) La divisione ottenuta nella domanda precedente è unica? Indicare che per ogni $x$ di $A$, $a + b - 1 - x$ è in $A$. Quale proprietà della sequenza $V$ esprime questo?
+> 3. Consideriamo due interi $a$ e $b$ strettamente superiori a $1$ e coprimo. (a) Mostra che si può dividere l'intervallo $[\![1, a+b-2]\!]$ in due sottoinsiemi non vuoti $A$ e $B$ in modo tale che la sequenza $V$ pari a $1$ su $A$ e a $0$ su $B$ sia di periodi $a$ e $b$. (b) La divisione ottenuta nella domanda precedente è unica? Dimostrare che per ogni $x$ di $A$, $a + b - 1 - x$ è in $A$. Quale proprietà della sequenza $V$ esprime questo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]], [[method_bigezione|Bigezione / corrispondenza]]

@@ -170,7 +170,7 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramide a base triangolare rettangola, con AD = BD e AB = CD: l'angolo ACD è almeno 30 gradi*
+*Piramide a base triangolare rettangola, con AD = BD e AB = CD: l'angolo ACD è almeno \1°*
 
 > Il triangolo $ABC$ con $\angle BAC = 90^\circ$ è la base della piramide $ABCD$. Inoltre vale
 >

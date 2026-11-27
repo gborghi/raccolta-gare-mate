@@ -105,7 +105,7 @@ level: Concours Général
 > 
 > **d.** Risolvi $n$. Come si scelgono gli enti $a_1, \ldots, a_n$ in modo che la capacità $C(a_1, \ldots, a_n)$ sia il più grande possibile?
 > 
-> **2. Con il cambio.** Il commerciante al quale il nostro acquirente va a fare acquisti ha anche una borsa, che gli consente di dare il cambio. Fissamo gli integri $n$ e $p$. Chiamiamo *capacità comune* il numero intero più grande $M$ in modo che si possa pagare (cioè effettuare l'operazione) ogni importo intero da $1$ a $M$. Come si possono scegliere i portafogli $(a_1, \ldots, a_n)$ dell'acquirente e $(v_1, \ldots, v_p)$ del venditore, in modo da offrire la massima capacità comune possibile?
+> **2. Con il cambio.** Il commerciante al quale il nostro acquirente va a fare acquisti ha anche una borsa, che gli consente di dare il cambio. Fissamo gli interi $n$ e $p$. Chiamiamo *capacità comune* il numero intero più grande $M$ in modo che si possa pagare (cioè effettuare l'operazione) ogni importo intero da $1$ a $M$. Come si possono scegliere i portafogli $(a_1, \ldots, a_n)$ dell'acquirente e $(v_1, \ldots, v_p)$ del venditore, in modo da offrire la massima capacità comune possibile?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
@@ -189,21 +189,21 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sulle radici m di unità U_m, studiare l'esistenza di f: U_{2n} -> U_{2n} con f(f(z))=z^2; analizzare i casi per n e costruire soluzioni per n odd.*
+*Sulle radici m di unità U_m, studiare l'esistenza di f: U_{2n} -> U_{2n} con f(f(z))=z^2; analizzare i casi per n e costruire soluzioni per n dispari.*
 
 > **Problema 3: La radice del quadrato.**
 > 
 > Consideriamo l'insieme $U_m = \left\{ \exp\!\left(\frac{2ik\pi}{m}\right) \mid 0 \le k \le m-1 \right\}$; ricordiamo che questo è anche l'insieme delle radici complesse $m$-th di unità, cioè l'insieme dei numeri complessi $z$ che soddisfano $z^m = 1$.
 > 
-> Ci viene dato un intero rigorosamente positivo $n$ e cerchiamo se esiste una funzione $f : U_{2n} \longrightarrow U_{2n}$ che soddisfi $f(f(z)) = z^2$ per tutti $z$ in $U_{2n}$.
+> Ci viene dato un intero strettamente positivo $n$ e cerchiamo se esiste una funzione $f : U_{2n} \longrightarrow U_{2n}$ che soddisfi $f(f(z)) = z^2$ per tutti $z$ in $U_{2n}$.
 > 
-> **1.** Indicare che l'insieme $\{ z^2 \mid z \in U_{2n} \}$ è uguale a $U_n$ e che è incluso in $U_{2n}$.
+> **1.** Dimostrare che l'insieme $\{ z^2 \mid z \in U_{2n} \}$ è uguale a $U_n$ e che è incluso in $U_{2n}$.
 > 
 > ** 2. ** Supponiamo che esista una soluzione $f$ al problema considerato.
 > 
 > **a.** Verificare che $f(z^2) = (f(z))^2$ per tutti $z$ in $U_{2n}$.
 > 
-> **b.** Indicare che $f(z) = f(z') \Longrightarrow z = \pm z'$ e che $f(1) = f(-1) = 1$.
+> **b.** Dimostrare che $f(z) = f(z') \Longrightarrow z = \pm z'$ e che $f(1) = f(-1) = 1$.
 > 
 > **3.** A seconda del valore di $n$, esiste un elemento $z$ di $U_{2n}$ che soddisfi $z^2 = -1$? In tal caso, verificare che non vi sia soluzione $f$.
 > 

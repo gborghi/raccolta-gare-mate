@@ -759,7 +759,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza totale del percorso di un raggio di luce che si riflette tra due specchi con un angolo di 30 gradi.*
+*Lunghezza totale del percorso di un raggio di luce che si riflette tra due specchi con un angolo di \1°.*
 
 > Due specchi formano un angolo di $30^\circ$ nel punto $V$. Un raggio di luce, proveniente da una sorgente $S$, viene emesso parallelamente a uno dei specchi e viene riflesso dall'altro nel punto $A$, come mostrato nella figura. Dopo un certo numero di riflessioni, il raggio ritorna in $S$. Se $SA=AV=1$ metri, la distanza percorsa dal raggio di luce, in metri, è
 >

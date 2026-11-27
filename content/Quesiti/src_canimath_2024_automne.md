@@ -87,7 +87,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *Determinare l'angolo QDP usando due bisettrici uscenti da un punto D sul lato di un triangolo.*
-> Il $ABC$ deve essere un triangolo e $D$ un punto sul segmento $[BC]$ (diversi da $B$ e $C$). Il punto $P$ deve essere il punto del segmento $[AB]$ in modo tale che $(DP)$ sia il bisettore d'angolo di $\widehat{ADB}$, e $Q$ il punto del segmento $[AC]$ in modo tale che $(DQ)$ sia il bisettore d'angolo di $\widehat{CDA}$.
+> Il $ABC$ deve essere un triangolo e $D$ un punto sul segmento $[BC]$ (diversi da $B$ e $C$). Il punto $P$ deve essere il punto del segmento $[AB]$ in modo tale che $(DP)$ sia il bisettrice d'angolo di $\widehat{ADB}$, e $Q$ il punto del segmento $[AC]$ in modo tale che $(DQ)$ sia il bisettrice d'angolo di $\widehat{CDA}$.
 > 
 > Qual è l'angolo $\widehat{QDP}$?
 
@@ -137,7 +137,7 @@ level: Coupe Animath Automne
 
 *I numeri interi positivi a,b,n con a,b. n e n=a+b+ab; mostrare a=b*
 
-> Lasciate che $a$, $b$ e $n$ siano tre integri rigorosamente positivi in modo tale che $a$ e $b$ dividano entrambi $n$ e $n = a + b + ab$. Mostra che $a = b$.
+> Lasciate che $a$, $b$ e $n$ siano tre interi strettamente positivi in modo tale che $a$ e $b$ dividano entrambi $n$ e $n = a + b + ab$. Mostra che $a = b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -179,7 +179,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *Ottagono con interi blu sui lati: i prodotti verticali possono essere 1,2,…,8 in qualche ordine?*
-> Su ciascun lato di un ottagono, Anna scrive in blu un intero rigorosamente positivo (gli 8 interi che scrive non sono necessariamente distinti). Poi, su ciascun vertice dell'ottagono, scrive in rosso il prodotto dei due numeri interi blu scritti alle estremità dei due lati che si incontrano a quel vertice. Anna può scegliere i numeri interi blu in modo che i numeri interi rossi scritti sui vertici siano esattamente $1, 2, 3, 4, 5, 6, 7, 8$ (non necessariamente in quell'ordine)?
+> Su ciascun lato di un ottagono, Anna scrive in blu un intero strettamente positivo (gli 8 interi che scrive non sono necessariamente distinti). Poi, su ciascun vertice dell'ottagono, scrive in rosso il prodotto dei due numeri interi blu scritti alle estremità dei due lati che si incontrano a quel vertice. Anna può scegliere i numeri interi blu in modo che i numeri interi rossi scritti sui vertici siano esattamente $1, 2, 3, 4, 5, 6, 7, 8$ (non necessariamente in quell'ordine)?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -273,7 +273,7 @@ level: Coupe Animath Automne
 
 *ABCD quadrato, triangoli equilaterali ABE e DAF esteriori; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC*
 
-> $ABCD$ sia quadrato e $E$ e $F$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABE$ e $DAF$ siano equilaterali. $H$ sia il punto medio di $[EF]$ e $G$ il punto di intersezione delle linee $(BF)$ e $(CE)$. Mostra che $GH = GC$.
+> $ABCD$ sia quadrato e $E$ e $F$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABE$ e $DAF$ siano equilaterali. $H$ sia il punto medio di $[EF]$ e $G$ il punto di intersezione delle rette $(BF)$ e $(CE)$. Mostra che $GH = GC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
@@ -319,7 +319,7 @@ level: Coupe Animath Automne
 
 *Reali a,b,c>0 con il prodotto di somma in coppia ≥; mostrare a+b+c ≥ (3/4) abc*
 
-> Che $a$, $b$ e $c$ siano numeri reali rigorosamente positivi in modo tale che $$a + b \ge ab, \quad b + c \ge bc, \quad c + a \ge ca.$$ Mostri che $a + b + c \ge \dfrac{3}{4}\,abc$.
+> Siano $a$, $b$ e $c$ numeri reali strettamente positivi in modo tale che $$a + b \ge ab, \quad b + c \ge bc, \quad c + a \ge ca.$$ Mostri che $a + b + c \ge \dfrac{3}{4}\,abc$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -420,7 +420,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 *Interi a≥2, b≥2 tali che (a−1)/(b−1)−a/b=1: dimostrare che a/b e (a−1)/(b−1) sono interi.*
-> $a \ge 2$ e $b \ge 2$ siano due integri. Supponiamo che $$\frac{a-1}{b-1} - \frac{a}{b} = 1.$$ Mostri che $\dfrac{a}{b}$ e $\dfrac{a-1}{b-1}$ sono numeri interi.
+> $a \ge 2$ e $b \ge 2$ siano due interi. Supponiamo che $$\frac{a-1}{b-1} - \frac{a}{b} = 1.$$ Mostri che $\dfrac{a}{b}$ e $\dfrac{a-1}{b-1}$ sono numeri interi.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -569,7 +569,7 @@ level: Coupe Animath Automne
 
 *ABCD quadrato, triangoli equilaterali ABP e DAQ esteriore; calcolo NM/NC*
 
-> $ABCD$ sia quadrato e $P$ e $Q$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABP$ e $DAQ$ siano equilaterali. $N$ sia il punto medio di $[PQ]$ e $M$ il punto di intersezione delle linee $(BQ)$ e $(DP)$. Calcolare $\dfrac{NM}{NC}$.
+> $ABCD$ sia quadrato e $P$ e $Q$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABP$ e $DAQ$ siano equilaterali. $N$ sia il punto medio di $[PQ]$ e $M$ il punto di intersezione delle rette $(BQ)$ e $(DP)$. Calcolare $\dfrac{NM}{NC}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -613,7 +613,7 @@ level: Coupe Animath Automne
 
 Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_l per k≠l ∙*
 
-> Lasciate che $a_1, a_2, \ldots$ sia una sequenza infinita di numeri interi. Supponiamo che per tutti gli integri $k \ge 1$ e $l \ge 1$, $k + l$ divida $a_k + a_l$. Indicare che per tutti gli integri $k \ge 1$ e $l \ge 1$ con $k \ne l$, $k - l$ divide $a_k - a_l$.
+> Lasciate che $a_1, a_2, \ldots$ sia una sequenza infinita di numeri interi. Supponiamo che per tutti gli interi $k \ge 1$ e $l \ge 1$, $k + l$ divida $a_k + a_l$. Dimostrare che per tutti gli interi $k \ge 1$ e $l \ge 1$ con $k \ne l$, $k - l$ divide $a_k - a_l$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
@@ -657,7 +657,7 @@ Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_
 
 *100 reales su un cerchio, ogni ≤ somma di due vicini; numero massimo di quelli strettamente positivi*
 
-> Un centinaio di numeri reali sono posizionati attorno a un cerchio, in modo che ogni numero sia al massimo uguale alla somma dei suoi due vicini (andando in senso orario). Determinare il numero massimo di numeri reali rigorosamente positivi che possono apparire su questo cerchio.
+> Un centinaio di numeri reali sono posizionati attorno a un cerchio, in modo che ogni numero sia al massimo uguale alla somma dei suoi due vicini (andando in senso orario). Determinare il numero massimo di numeri reali strettamente positivi che possono apparire su questo cerchio.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]

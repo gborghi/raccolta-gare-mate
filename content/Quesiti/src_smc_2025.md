@@ -79,7 +79,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 *Frazione dell'area di un triangolo equilatero ombreggiata, quando il triangolo è suddiviso in nove triangoli equilateri più piccoli e si tracciano due rette aggiuntive.*
-> Il diagramma mostra un triangolo equilatero suddiviso in nove triangoli equilateri più piccoli, con due linee aggiuntive. Che frazione del triangolo grande è ombreggiata?
+> Il diagramma mostra un triangolo equilatero suddiviso in nove triangoli equilateri più piccoli, con due rette aggiuntive. Che frazione del triangolo grande è ombreggiata?
 >
 > - **(A)** \frac{1}{3}
 > - **(B)** \frac{1}{4}

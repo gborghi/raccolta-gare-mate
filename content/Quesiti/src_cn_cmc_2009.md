@@ -62,7 +62,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intervallo delle ascisse dei punti sulla retta che forma un angolo di 45 gradi con la circonferenza*
+*Intervallo delle ascisse dei punti sulla retta che forma un angolo di \1° con la circonferenza*
 
 > Dato il segmento $L: x + y - 9 = 0$ e il cerchio $M: 2x^2 + 2y^2 - 8x - 8y - 1 = 0$, il punto $A$ giace su $L$ e i punti $B$, $C$ giacciono sul cerchio $M$. Se $\angle BAC = 45^\circ$ e le rette $AB$, $AC$ sono tangenti al cerchio $M$ dal punto $A$, allora l'intervallo di variazione della coordinata $x$ del punto $A$ è \_\_\_\_.
 

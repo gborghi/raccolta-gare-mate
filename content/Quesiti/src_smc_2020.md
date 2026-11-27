@@ -645,7 +645,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area ombreggiata all'interno di un cerchio di raggio 3, compresa tra il cerchio e due tangenti che si incontrano formando un angolo di 60 gradi*
+*Area ombreggiata all'interno di un cerchio di raggio 3, compresa tra il cerchio e due tangenti che si incontrano formando un angolo di \1°*
 
 > La regione ombreggiata mostrata nel diagramma è costituita dall'interno di un cerchio di raggio 3 insieme alle due tangenti al cerchio. L'angolo tra le tangenti nel punto in cui si incontrano è $60^\circ$. Qual è l'area ombreggiata?
 >
@@ -1048,7 +1048,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di SQ in un triangolo in cui M è il punto medio di PQ, PS biseca l'angolo RPQ, ST è parallela a PR, angolo MTI = 120 gradi*
+*Lunghezza di SQ in un triangolo in cui M è il punto medio di PQ, PS biseca l'angolo RPQ, ST è parallela a PR, angolo MTI = \1°*
 
 > Nel diagramma mostrato, $M$ è il punto medio di $PQ$. La retta $PS$ biseca $\angle RPQ$ e interseca $RQ$ in $T$. La retta $ST$ è parallela a $PR$ e interseca $PQ$ in $S$. La lunghezza di $PQ$ è 12 e la lunghezza di $MT$ è 1. L'angolo $\angle STQ = 120^\circ$. Qual è la lunghezza di $SQ$?
 >

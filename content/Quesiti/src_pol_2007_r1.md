@@ -159,7 +159,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con angolo in C di 45 gradi: la perpendicolare a CO per O taglia i lati, e due somme di segmenti sono uguali*
+*Triangolo acuto con angolo in C di \1°: la perpendicolare a CO per O taglia i lati, e due somme di segmenti sono uguali*
 
 > In un triangolo acuto $ABC$ l'angolo in $C$ è uguale a $45^\circ$, $O$ è il circocentro e $H$ l'ortocentro. La retta per $O$ perpendicolare a $CO$ incontra le rette $AC$ e $BC$ in $K$ e $L$ rispettivamente. Dimostrare che $OK+KH=OL+LH$.
 

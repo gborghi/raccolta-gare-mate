@@ -1204,7 +1204,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di AD per due triangoli rettangoli isosceli i cui cateti ipotenusi si intersecano con un angolo di 30 gradi*
+*Lunghezza di AD per due triangoli rettangoli isosceli i cui cateti ipotenusi si intersecano con un angolo di \1°*
 
 > Nella figura, $ABC$ e $DEF$ sono triangoli rettangoli isosceli con ipotenuse $BC$ e $EF$ di lunghezza $15$; $D$ giace sulla retta $BC$ e $A$ giace sulla retta $EF$. L'angolo acuto tra le rette $BC$ e $EF$ è $30^\circ$. Il segmento $AD$ misura:
 > (A) $\frac{15\sqrt{2}}{2}$ (B) $\frac{15(\sqrt{6}-\sqrt{2})}{2}$ (C) $\frac{15\sqrt{3}}{2}$ (D) $\frac{15\sqrt{6}}{2}$ (E) $15$

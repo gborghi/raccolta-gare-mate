@@ -62,7 +62,7 @@ level: Olimpiade Polacca Round 3
 
 *Dimostrare un limite inferiore di n/2 per una somma di somme parziali assolute sotto qualsiasi permutazione di una matrice speciale.*
 
-> Let $n$ be a positive integer. For all $i,j\in\{1,2,\ldots,n\}$ define $a_{j,i}=1$ if $j=i$ and $a_{j,i}=0$ otherwise. Also, for $i=n+1,\ldots,2n$ define $a_{j,i}=-\frac{1}{n}$. Prove that for any permutation $p$ of the set $\{1,2,\ldots,2n\}$ the following inequality holds: $$\sum_{j=1}^{n}\left|\sum_{k=1}^{n}a_{j,p(k)}\right|\ge\frac{n}{2}.$$
+> Sia $n$ be a positive intero. For all $i,j\in\{1,2,\ldots,n\}$ define $a_{j,i}=1$ if $j=i$ and $a_{j,i}=0$ altrimenti. Also, for $i=n+1,\ldots,2n$ define $a_{j,i}=-\frac{1}{n}$. Dimostrare che for any permutation $p$ of the set $\{1,2,\ldots,2n\}$ the following inequality holds: $$\sum_{j=1}^{n}\left|\sum_{k=1}^{n}a_{j,p(k)}\right|\ge\frac{n}{2}.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]

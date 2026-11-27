@@ -251,7 +251,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La formica ruota di 60 gradi a ogni passo: si torna dopo 2008 o 2009 passi?*
+*La formica ruota di \1° a ogni passo: si torna dopo 2008 o 2009 passi?*
 
 > Una formica si muove nel piano nel modo seguente: inizialmente, percorre $1\,\text{cm}$ in una direzione qualsiasi. Dopo ogni passo, modifica la direzione della propria traiettoria di $60^\circ$ verso sinistra o verso destra, e percorre $1\,\text{cm}$ in questa nuova direzione. È possibile che la formica torni al punto di partenza in
 > (a) $2008$ passi?

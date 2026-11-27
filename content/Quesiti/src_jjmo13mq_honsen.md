@@ -152,7 +152,7 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2015 punti, spigoli con angoli a due a due superiori a 90 gradi, spigoli massimi*
+*2015 punti, spigoli con angoli a due a due superiori a \1°, spigoli massimi*
 
 > Nel piano, si prendano $2015$ punti distinti e si uniscano alcune coppie di essi con spigoli. Si supponga che due spigoli distinti qualsiasi aventi un estremo comune formino un angolo maggiore di $90^\circ$. Determinare il valore massimo possibile del numero di spigoli.
 

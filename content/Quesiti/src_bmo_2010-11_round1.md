@@ -90,7 +90,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo CAB=2CBA; la retta CA incontra la bisettrice perpendicolare di BC; dimostrare che AB=AC+CM*
+*Triangolo CAB=2CBA; la retta CA incontra la asse del segmento di BC; dimostrare che AB=AC+CM*
 
 > Sia $ABC$ un triangolo con $\angle CAB = 2\angle CBA$. Sia $N$ il punto in cui la retta $CA$ incontra la mediatrice di $BC$. Sia $M$ il punto medio di $BC$. Dimostrare che $AB = AC + CM$.
 
@@ -182,7 +182,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi a, b, c tali che a² + b² - c² = ab - bc - ca; dimostrare che il triangolo ha un angolo di 60 gradi*
+*Interi a, b, c tali che a² + b² - c² = ab - bc - ca; dimostrare che il triangolo ha un angolo di \1°*
 
 > Siano $a$ e $b$ numeri interi positivi, e sia $c$ un numero intero positivo minore di $a + b$. Si supponga che $a^2 + b^2 - c^2 = ab - bc - ca$. Si dimostri che $a$, $b$, $c$ sono i lati di un triangolo che contiene un angolo di $60^\circ$.
 

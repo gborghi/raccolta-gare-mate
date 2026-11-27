@@ -99,7 +99,7 @@ level: Coupe Animath Printemps
 
 > a) Considerate 11 numeri a due cifre distinte. Prova che si possono sempre scegliere due di loro che hanno cifre di unità distinte e decine di cifre distinte.
 > 
-> b) Considerate 41 diversi numeri a due cifre. Prove che si possono sempre scegliere cinque di essi in modo che due dei cinque abbiano cifre di unità distinte e decine di cifre distinte.
+> b) Considerate 41 diversi numeri a due cifre. Dimostrare che si possono sempre scegliere cinque di essi in modo che due dei cinque abbiano cifre di unità distinte e decine di cifre distinte.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
@@ -145,7 +145,7 @@ level: Coupe Animath Printemps
 
 *In una festa ogni ospite stringe la mano con esattamente altri 7; dimostra il numero pari di ospiti*
 
-> A una festa di Capodanno a casa dei miei nonni, ogni ospite stringeva la mano con esattamente altri 7 ospiti, e baciava tutti gli altri sulla guancia. Prove che il numero degli ospiti sia pari.
+> A una festa di Capodanno a casa dei miei nonni, ogni ospite stringeva la mano con esattamente altri 7 ospiti, e baciava tutti gli altri sulla guancia. Dimostrare che il numero degli ospiti sia pari.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti / monovarianti]], [[method_grafi|Teoria dei grafi]]
@@ -189,11 +189,11 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro monete che si toccano in sequenza; prova angolo ABC + angolo CDA = 180 gradi*
+*Quattro monete che si toccano in sequenza; prova angolo ABC + angolo CDA = \1°*
 
 > Quattro monete di valori $2\,\text{€}$, $1\,\text{€}$, $2\,\text{centimes}$ e $1\,\text{centime}$ si trovano su un tavolo senza sovrapposizioni. La moneta $2\,\text{€}$ tocca la moneta $1\,\text{€}$ al punto $A$, la moneta $1\,\text{€}$ tocca la moneta $2\,\text{centime}$ al punto $B$, la moneta $2\,\text{centime}$ tocca la moneta $1\,\text{centime}$ al punto $C$ e la moneta $1\,\text{centime}$ tocca la moneta $2\,\text{€}$ al punto $D$.
 > 
-> Prove che $\angle ABC + \angle CDA = 180^\circ$.
+> Dimostrare che $\angle ABC + \angle CDA = 180^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
@@ -249,7 +249,7 @@ level: Coupe Animath Printemps
 
 *Prove catena di disuguaglianze tra quattro mezzi classici di due valori positivi*
 
-> $x$ e $y$ siano numeri reali rigorosamente positivi con $0 < x < y$. Definire: $$H = \frac{2xy}{x+y}, \quad G = \sqrt{xy}, \quad A = \frac{x+y}{2}, \quad Q = \sqrt{\frac{x^2+y^2}{2}}.$$ Prove che: a) $0 < G - H$ b) $Q \ge G < 2A$ (cioè\ $G \le Q$ e $G < 2A$) c) $G - H < Q - A$
+> $x$ e $y$ siano numeri reali strettamente positivi con $0 < x < y$. Definire: $$H = \frac{2xy}{x+y}, \quad G = \sqrt{xy}, \quad A = \frac{x+y}{2}, \quad Q = \sqrt{\frac{x^2+y^2}{2}}.$$ Dimostrare che: a) $0 < G - H$ b) $Q \ge G < 2A$ (cioè\ $G \le Q$ e $G < 2A$) c) $G - H < Q - A$
 > 
 > (In sintesi: $0 < G - H < Q - A \le A - G$.)
 

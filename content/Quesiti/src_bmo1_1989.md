@@ -182,7 +182,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessun angolo supera 90 gradi implica sin A + sin B + sin C > 2*
+*Nessun angolo supera \1° implica sin A + sin B + sin C > 2*
 
 > Nessuno degli angoli di un triangolo $ABC$ supera $90^\circ$. Dimostrare che
 > $$\sin A + \sin B + \sin C > 2.$$

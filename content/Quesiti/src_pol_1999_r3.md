@@ -194,7 +194,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono convesso con somma di tre angoli pari a 360 gradi e prodotto di tre rapporti uguale a 1: un secondo prodotto di rapporti vale 1*
+*Esagono convesso con somma di tre angoli pari a \1° e prodotto di tre rapporti uguale a 1: un secondo prodotto di rapporti vale 1*
 
 > Un esagono convesso $ABCDEF$ soddisfa
 >

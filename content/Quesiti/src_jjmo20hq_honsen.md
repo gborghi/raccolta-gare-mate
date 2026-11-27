@@ -124,7 +124,7 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che l'angolo BPE è di 90 gradi in un triangolo acuto*
+*Dimostrare che l'angolo BPE è di \1° in un triangolo acuto*
 
 > Sia $ABC$ un triangolo acutangolo con $AB < AC$. L'asse perpendicolare del segmento $BC$ interseca le rette $AB$ e $AC$ nei punti $D$ e $E$ rispettivamente, e sia $M$ il punto medio del segmento $DE$. La circonferenza circoscritta al triangolo $ABC$ e la retta $AM$ si intersecano in un punto $P$ diverso da $A$, e i tre punti $M, A, P$ sono disposti in questo ordine. Dimostrare che $\angle BPE = 90^\circ$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 

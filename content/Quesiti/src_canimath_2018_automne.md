@@ -75,7 +75,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 <div class="qlang-split" data-lang="it"></div>
 
 *Triangolo ABC e punto interno O: la somma di tre rapporti costruiti con rette parallele è uguale a 1.*
-> Che $ABC$ sia un triangolo e $O$ un punto all'interno di questo triangolo. La linea parallela a $(BC)$ che attraversa $O$ incontra $(CA)$ a $D$ e $(AB)$ a $E$. La linea parallela a $(CA)$ che attraversa $O$ incontra $(BC)$ a $F$. Qual è il valore della somma seguente? $$\frac{BF}{BC} + \frac{AE}{AB} + \frac{CD}{AC}$$
+> Sia $ABC$ un triangolo e $O$ un punto all'interno di questo triangolo. La retta parallela a $(BC)$ che attraversa $O$ incontra $(CA)$ a $D$ e $(AB)$ a $E$. La retta parallela a $(CA)$ che attraversa $O$ incontra $(BC)$ a $F$. Qual è il valore della somma seguente? $$\frac{BF}{BC} + \frac{AE}{AB} + \frac{CD}{AC}$$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
@@ -256,7 +256,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 *Il primo p divide il prodotto di (k^3+1); prova p ≤ n+1*
 
-> $n$ sia un numero intero rigorosamente positivo. $p$ sia un numero primo tale che $$p \mid (1^3 + 1)(2^3 + 1)(3^3 + 1)\cdots((n-1)^3 + 1)(n^3 + 1).$$ Mostri che $p \le n + 1$.
+> $n$ sia un numero intero strettamente positivo. $p$ sia un numero primo tale che $$p \mid (1^3 + 1)(2^3 + 1)(3^3 + 1)\cdots((n-1)^3 + 1)(n^3 + 1).$$ Mostri che $p \le n + 1$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -308,7 +308,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 > 
 > a) Per quali valori di $k$ i ragni sono sicuri di catturare la mosca indipendentemente dalla sua posizione di partenza e dai suoi movimenti, purché partano dalla loro scelta di posizioni e utilizzino una strategia ottimale?
 > 
-> (b) Se si sostituisce la griglia $2018 \times 2018$ con una griglia $2018 \times 2018 \times 2018$ (cellule adiacenti quando si condivide una faccia), cosa cambia?
+> (b) Se si sostituisce la griglia $2018 \times 2018$ con una griglia $2018 \times 2018 \times 2018$ (caselle adiacenti quando si condivide una faccia), cosa cambia?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
@@ -357,7 +357,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 *Ricerca tutte le funzioni f: R∗→R soddisfacente af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
 
-> Let $a \in \mathbb{R}$. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
+> Sia $a \in \mathbb{R}$. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalita]]

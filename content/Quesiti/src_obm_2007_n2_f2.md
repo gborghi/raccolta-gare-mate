@@ -90,7 +90,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inseguimento degli angoli attraverso diversi triangoli isosceli fino a raggiungere un angolo bersaglio (174 gradi).*
+*Inseguimento degli angoli attraverso diversi triangoli isosceli fino a raggiungere un angolo bersaglio (\1°).*
 
 > In una configurazione costruita a partire dai triangoli isosceli $PTA$, $ABD$, $BCE$ e $PQC$, con alcuni angoli dati, determina l'angolo richiesto. [La fonte è il foglio delle soluzioni; l'enunciato completo e la figura NON sono presenti. La soluzione calcola: $\angle STP=108^\circ$, $\angle TPA=\angle PAT=72^\circ$, poi $\angle TPA=36^\circ$, $\angle BAD=\angle BDA=18^\circ$, $\angle ABD=144^\circ$, $\angle EBC=66^\circ$, $\angle QPC=126^\circ$, $\angle QCP=27^\circ$, $\angle ECB=57^\circ$, e una risposta finale pari a $174^\circ$.]
 
@@ -184,7 +184,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo ABC con un punto O (AO=BO=CO); dimostrare che l'angolo ACB è uguale a 30 gradi.*
+*Triangolo rettangolo ABC con un punto O (AO=BO=CO); dimostrare che l'angolo ACB è uguale a \1°.*
 
 > (Parte B, Problema 1.) Sia $ABC$ un triangolo rettangolo, e sia $O$ un punto tale che $AO=BO=CO$ (quindi $O$ è il punto medio dell'ipotenusa / il circocentro). Un punto $I$ soddisfa $\angle BAI=\angle OAI=45^\circ$. Poiché il triangolo $ABC$ è rettangolo, si ha $AO=BO=CO$, e da $\angle BAI=\angle OAI=45^\circ$ insieme al lato comune $AI$ i triangoli $ABI$ e $AOI$ sono congruenti (ASA), il che dà $AB=BO$; con $AB=BO=AO$ il triangolo $ABO$ è equilatero. Si determini la misura di $\angle ACB$. [La fonte è il foglio delle soluzioni; l'enunciato è stato ricostruito a partire dalla soluzione, la quale conclude $\angle ACB=30^\circ$.]
 

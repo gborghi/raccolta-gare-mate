@@ -79,7 +79,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Parallelogramma con segmenti uguali: la bisettrice di un angolo è perpendicolare a KL.*
-> $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Indicare che il bisettore di $\widehat{DAB}$ e la linea $(KL)$ sono perpendicolari.
+> $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Dimostrare che il bisettrice di $\widehat{DAB}$ e la retta $(KL)$ sono perpendicolari.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -174,7 +174,7 @@ level: Coupe Animath Printemps
 
 *Colore n positivo reale blu/verde/rosso così che la somma di ogni colore è inferiore alla somma degli altri*
 
-> Baptiste scrive $n$ numeri reali rigorosamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ciascun dato colore sia rigorosamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
+> Baptiste scrive $n$ numeri reali strettamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ciascun dato colore sia rigorosamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
 > 
 > 1) if $n = 4$?
 > 
@@ -329,9 +329,9 @@ level: Coupe Animath Printemps
 
 *Geometria triangolare di isosceles: mostra l'angolo GBA*
 
-> $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Che $D$ sia il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La linea $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettore perpendicolare del segmento $[EC]$ incontra la linea $(AG)$ al punto $H$.
+> $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Sia $D$ il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La retta $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettrice perpendicolare del segmento $[EC]$ incontra la retta $(AG)$ al punto $H$.
 > 
-> Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GBA}$.
+> Dimostrare che la retta $(BH)$ è il bisettrice dell'angolo $\widehat{GBA}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
@@ -432,7 +432,7 @@ level: Coupe Animath Printemps
 
 *Due equazioni lineari in a,b,c implicano a^2+b^2=2c^2*
 
-> Che $a$, $b$ e $c$ siano tre reali che soddisfano entrambe le equazioni $4a + 3b = c$ e $3a - 4b = 7c$. Mostra che $a^2 + b^2 = 2c^2$.
+> Siano $a$, $b$ e $c$ tre reali che soddisfano entrambe le equazioni $4a + 3b = c$ e $3a - 4b = 7c$. Mostra che $a^2 + b^2 = 2c^2$.
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
@@ -474,9 +474,9 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi*
+*Triangolo con incentro: angolo di mostra BID è di almeno \1°*
 
-> Lasciate che $ABC$ sia un triangolo non piatto. $I$ sia il centro del suo cerchio inscritto e $D$ il punto di intersezione del bisettore di angolo $\widehat{BAC}$ con il segmento $[BC]$. Mostra che $\widehat{BID} \ge 90^\circ$.
+> Lasciate che $ABC$ sia un triangolo non piatto. $I$ sia il centro del suo cerchio inscritto e $D$ il punto di intersezione del bisettrice di angolo $\widehat{BAC}$ con il segmento $[BC]$. Mostra che $\widehat{BID} \ge 90^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -522,7 +522,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *n reali positivi colorati di blu, verde o rosso in modo che la somma di ciascun colore sia minore della somma degli altri due.*
-> Baptiste scrive $n$ numeri reali rigorosamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ogni dato colore sia strettamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
+> Baptiste scrive $n$ numeri reali strettamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ogni dato colore sia strettamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
 > 
 > 1) if $n = 4$?
 > 
@@ -670,11 +670,11 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 *Geometria di un triangolo isoscele: BH biseca l'angolo GEA ed EF è parallela a BH.*
-> $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Che $D$ sia il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La linea $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettore perpendicolare del segmento $[EC]$ incontra la linea $(AG)$ al punto $H$.
+> $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Sia $D$ il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La retta $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettrice perpendicolare del segmento $[EC]$ incontra la retta $(AG)$ al punto $H$.
 > 
-> 1) Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GEA}$.
+> 1) Dimostrare che la retta $(BH)$ è il bisettrice dell'angolo $\widehat{GEA}$.
 > 
-> 2) Che $F$ sia il piede dell'altitudine dal vertice $A$ nel triangolo $ABC$. Indicare che le linee $(EF)$ e $(BH)$ sono parallele.
+> 2) Sia $F$ il piede dell'altitudine dal vertice $A$ nel triangolo $ABC$. Dimostrare che le rette $(EF)$ e $(BH)$ sono parallele.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
